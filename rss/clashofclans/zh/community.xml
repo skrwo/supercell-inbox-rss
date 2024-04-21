@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Clashofclans - Community</title>
+    <link>https://github.com/skrwo/supercell-inbox-rss/</link>
+    <description>RSS wrapper of Clashofclans inbox Community</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 21 Apr 2024 14:00:29 +0000</lastBuildDate>
+    <item>
+      <title>神龍慶典:煙花射手+青龍+冰箭登場!</title>
+      <link>https://youtu.be/dS-ZpGS8KlA</link>
+      <description>[EMPTY]</description>
+      <guid isPermaLink="false">1NNaaY5jKH1s66wulA0ol2</guid>
+      <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3WJJKYSHaRFCNoSa7jn6D3/14226ca680a8ab40402500ceaaeae72e/guest-content-video-03-07908e7a-96c6-4b6c-aa14-01cea541c6b4-vylv.jpeg-1707310971342?w=640&amp;h=358&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 07 Feb 2024 13:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>蔓生法術介紹+神盾勇者新裝備實戰</title>
+      <link>https://youtu.be/JfsrW0HbkMc</link>
+      <description>[EMPTY]</description>
+      <guid isPermaLink="false">1EugYV4vcFXaST5SrD0vxk</guid>
+      <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/LGq7HgdxVdv6UrrzuFnep/2d3f8341e5afe7ad5d11cbf0e30db0ca/guest-content-video-03-07908e7a-96c6-4b6c-aa14-01cea541c6b4-6yy9.jpeg-1709110597709?w=640&amp;h=358&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 28 Feb 2024 08:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>超級飛龍秀:大守護者史詩裝備火球</title>
+      <link>https://youtu.be/G-HRs3An2wQ</link>
+      <description>[EMPTY]</description>
+      <guid isPermaLink="false">2DjbHGdjixlcVrv0BzjeeJ</guid>
+      <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/Efoyo7A1NcUuiET62duhx/1789dab9901254c99f0539c69afacd2c/guest-content-video-03-07908e7a-96c6-4b6c-aa14-01cea541c6b4-lpmx.jpeg-1710144069195?w=640&amp;h=358&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Mar 2024 08:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>火箭氣球兵秀:獲取大量礦石好機會!</title>
+      <link>https://youtu.be/DHoG0BKXKBE</link>
+      <description>[EMPTY]</description>
+      <guid isPermaLink="false">bl8Kx34bd8hYvjRS7UitR</guid>
+      <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5rPNPQOOOVLvztNwxLoFMO/e7d1cc9ec304c8632cd1594dad342feb/guest-content-video-03-07908e7a-96c6-4b6c-aa14-01cea541c6b4-womv.jpeg-1712738034461?w=640&amp;h=358&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 10 Apr 2024 08:34:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

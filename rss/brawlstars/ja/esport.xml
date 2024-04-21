@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Brawlstars - Esport News</title>
+    <link>https://github.com/skrwo/supercell-inbox-rss/</link>
+    <description>RSS wrapper of Brawlstars inbox Esport News</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 21 Apr 2024 13:59:52 +0000</lastBuildDate>
+    <item>
+      <title>ブロスタ チャンピオンシップ2024　世界一決定戦までの道のり</title>
+      <link>https://www.youtube.com/watch?v=h2wO9avzMME</link>
+      <description>[EMPTY]</description>
+      <guid isPermaLink="false">1RpAqIxbM9TsxV5vf6UJj5</guid>
+      <category>eスポーツ</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6mIyGvPiBp5H9DGC5A1mna/11c1f21397711083b79f2d88d1e0a229/Roadmap_BSC24.jpeg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Mar 2024 09:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ブロスタ チャンピオンシップ 2024】アジア太平洋地域 3月マンスリー決勝戦</title>
+      <link>https://www.youtube.com/watch?v=Lqcu4mOrVxM</link>
+      <description>[EMPTY]</description>
+      <guid isPermaLink="false">2d6ZB4BBXdmgURns5svMJj</guid>
+      <category>eスポーツ</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2RLa9G87uPI2mrRX8JJCKz/5640d0eb53691062db290cc31ecd87cc/APAC-Mar-MF.jpeg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 30 Mar 2024 10:54:43 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

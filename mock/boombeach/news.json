@@ -1,0 +1,946 @@
+{
+    "entries": {
+        "eventEntries": [
+            {
+                "id": "2zDc3i52sUYf3sSjOIaVoW",
+                "metadata": {
+                    "id": "2zDc3i52sUYf3sSjOIaVoW",
+                    "publishedAt": "2024-04-15T08:45:31.244Z",
+                    "publishedVersion": 6
+                },
+                "targeting": null,
+                "postDate": "1713170731",
+                "sortDate": "1713170731",
+                "lang": "en",
+                "title": "Cryo Bomb",
+                "type": "eventEntry",
+                "ctas": {},
+                "displayTimer": true,
+                "timerLabel": "Time Remaining:",
+                "timerKind": "HIDE_ENTRY",
+                "timerTarget": "1713394740",
+                "hideTitle": false,
+                "background": {
+                    "small": {
+                        "title": "Carousel_V3.png",
+                        "path": "/cf7umh1jvp53/Ycjxlulc6HUsdtfdNejrM/88996bb390ce4aabb260c673342d6b02/Carousel_V3.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Carousel_V3.png",
+                        "path": "/cf7umh1jvp53/Ycjxlulc6HUsdtfdNejrM/88996bb390ce4aabb260c673342d6b02/Carousel_V3.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Carousel_V3.png",
+                        "path": "/cf7umh1jvp53/Ycjxlulc6HUsdtfdNejrM/88996bb390ce4aabb260c673342d6b02/Carousel_V3.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Carousel_V3.png",
+                        "path": "/cf7umh1jvp53/Ycjxlulc6HUsdtfdNejrM/88996bb390ce4aabb260c673342d6b02/Carousel_V3.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Carousel_V3.png",
+                        "path": "/cf7umh1jvp53/Ycjxlulc6HUsdtfdNejrM/88996bb390ce4aabb260c673342d6b02/Carousel_V3.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Carousel_V3.png",
+                        "path": "/cf7umh1jvp53/Ycjxlulc6HUsdtfdNejrM/88996bb390ce4aabb260c673342d6b02/Carousel_V3.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "38qFDFUazJXagCt9p0ZdjL",
+                "metadata": {
+                    "id": "38qFDFUazJXagCt9p0ZdjL",
+                    "publishedAt": "2024-04-12T14:03:29.775Z",
+                    "publishedVersion": 7
+                },
+                "targeting": null,
+                "postDate": "1712930609",
+                "sortDate": "1712930609",
+                "lang": "en",
+                "title": "Scorcher & Mech Mania",
+                "type": "eventEntry",
+                "ctas": {},
+                "displayTimer": true,
+                "timerLabel": "Time Remaining:",
+                "timerKind": "HIDE_ENTRY",
+                "timerTarget": "1713135540",
+                "hideTitle": false,
+                "background": {
+                    "small": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/5xqPDetGIy4dl1HGinslH4/1692dcb9827f19d6dbe98e2ceaddd2d4/Carousel_V4.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/5xqPDetGIy4dl1HGinslH4/1692dcb9827f19d6dbe98e2ceaddd2d4/Carousel_V4.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/5xqPDetGIy4dl1HGinslH4/1692dcb9827f19d6dbe98e2ceaddd2d4/Carousel_V4.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/5xqPDetGIy4dl1HGinslH4/1692dcb9827f19d6dbe98e2ceaddd2d4/Carousel_V4.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/5xqPDetGIy4dl1HGinslH4/1692dcb9827f19d6dbe98e2ceaddd2d4/Carousel_V4.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/5xqPDetGIy4dl1HGinslH4/1692dcb9827f19d6dbe98e2ceaddd2d4/Carousel_V4.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "6VzFbkV9oX9yLJBftD3RHC",
+                "metadata": {
+                    "id": "6VzFbkV9oX9yLJBftD3RHC",
+                    "publishedAt": "2024-01-08T16:44:01.279Z",
+                    "publishedVersion": 5
+                },
+                "targeting": null,
+                "postDate": "1704732241",
+                "sortDate": "1704732241",
+                "lang": "en",
+                "title": "Explosive Drones",
+                "type": "eventEntry",
+                "ctas": {},
+                "displayTimer": true,
+                "timerLabel": "Time Remaining:",
+                "timerKind": "HIDE_ENTRY",
+                "timerTarget": "1704931140",
+                "hideTitle": false,
+                "background": {
+                    "small": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/vQFhFhdTGNnt5hkNkwsAa/219950f9558af52c84fcf8914dae71ee/Carousel_V2.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/vQFhFhdTGNnt5hkNkwsAa/219950f9558af52c84fcf8914dae71ee/Carousel_V2.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/vQFhFhdTGNnt5hkNkwsAa/219950f9558af52c84fcf8914dae71ee/Carousel_V2.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/vQFhFhdTGNnt5hkNkwsAa/219950f9558af52c84fcf8914dae71ee/Carousel_V2.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/vQFhFhdTGNnt5hkNkwsAa/219950f9558af52c84fcf8914dae71ee/Carousel_V2.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/vQFhFhdTGNnt5hkNkwsAa/219950f9558af52c84fcf8914dae71ee/Carousel_V2.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "5027XXwazxqS4JKxuzNQLw",
+                "metadata": {
+                    "id": "5027XXwazxqS4JKxuzNQLw",
+                    "publishedAt": "2023-12-15T16:48:09.221Z",
+                    "publishedVersion": 5
+                },
+                "targeting": null,
+                "postDate": "1702658889",
+                "sortDate": "1702658889",
+                "lang": "en",
+                "title": "Crystal Shield",
+                "type": "eventEntry",
+                "ctas": {},
+                "displayTimer": true,
+                "timerLabel": "Time Remaining:",
+                "timerKind": "HIDE_ENTRY",
+                "timerTarget": "1702854000",
+                "hideTitle": false,
+                "background": {
+                    "small": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/72udW6qowLDiLaGZokGtan/0eeae1f4f31f52f85da2cd4e2f4990ec/Carousel_V2.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/72udW6qowLDiLaGZokGtan/0eeae1f4f31f52f85da2cd4e2f4990ec/Carousel_V2.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/72udW6qowLDiLaGZokGtan/0eeae1f4f31f52f85da2cd4e2f4990ec/Carousel_V2.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/72udW6qowLDiLaGZokGtan/0eeae1f4f31f52f85da2cd4e2f4990ec/Carousel_V2.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/72udW6qowLDiLaGZokGtan/0eeae1f4f31f52f85da2cd4e2f4990ec/Carousel_V2.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Carousel_V2.png",
+                        "path": "/cf7umh1jvp53/72udW6qowLDiLaGZokGtan/0eeae1f4f31f52f85da2cd4e2f4990ec/Carousel_V2.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "4EOR7aLNeyxFYuHeZKH23R",
+                "metadata": {
+                    "id": "4EOR7aLNeyxFYuHeZKH23R",
+                    "publishedAt": "2023-11-17T15:42:10.472Z",
+                    "publishedVersion": 27
+                },
+                "targeting": null,
+                "postDate": "1697198098",
+                "sortDate": "1697198098",
+                "lang": "en",
+                "title": "Cryo Bomb",
+                "type": "eventEntry",
+                "ctas": {},
+                "displayTimer": true,
+                "timerLabel": "Time Remaining:",
+                "timerKind": "HIDE_ENTRY",
+                "timerTarget": "1700434800",
+                "hideTitle": false,
+                "background": {
+                    "small": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/6w5QtMwcXBtlkvhN3x7KVo/29fb965958e46572ba8f86b8b2d2bcdb/Carousel_V4.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/6w5QtMwcXBtlkvhN3x7KVo/29fb965958e46572ba8f86b8b2d2bcdb/Carousel_V4.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/6w5QtMwcXBtlkvhN3x7KVo/29fb965958e46572ba8f86b8b2d2bcdb/Carousel_V4.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/6w5QtMwcXBtlkvhN3x7KVo/29fb965958e46572ba8f86b8b2d2bcdb/Carousel_V4.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/6w5QtMwcXBtlkvhN3x7KVo/29fb965958e46572ba8f86b8b2d2bcdb/Carousel_V4.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Carousel_V4.png",
+                        "path": "/cf7umh1jvp53/6w5QtMwcXBtlkvhN3x7KVo/29fb965958e46572ba8f86b8b2d2bcdb/Carousel_V4.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "2AAAggkOCwJU1x6e5CTBUs",
+                "metadata": {
+                    "id": "2AAAggkOCwJU1x6e5CTBUs",
+                    "publishedAt": "2023-10-23T15:47:57.360Z",
+                    "publishedVersion": 20
+                },
+                "targeting": null,
+                "postDate": "1696610723",
+                "sortDate": "1696610723",
+                "lang": "en",
+                "title": "Remote Hack",
+                "type": "eventEntry",
+                "ctas": {},
+                "displayTimer": true,
+                "timerLabel": "Time remaining",
+                "timerKind": "HIDE_ENTRY",
+                "timerTarget": "1698274800",
+                "hideTitle": false,
+                "background": {
+                    "small": {
+                        "title": "Carousel_V5.png",
+                        "path": "/cf7umh1jvp53/1gNkW0DXRHsaK9dr0pqhOn/97b2b626394ec090901bb17167180fc7/Carousel_V5.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Carousel_V5.png",
+                        "path": "/cf7umh1jvp53/1gNkW0DXRHsaK9dr0pqhOn/97b2b626394ec090901bb17167180fc7/Carousel_V5.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Carousel_V5.png",
+                        "path": "/cf7umh1jvp53/1gNkW0DXRHsaK9dr0pqhOn/97b2b626394ec090901bb17167180fc7/Carousel_V5.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Carousel_V5.png",
+                        "path": "/cf7umh1jvp53/1gNkW0DXRHsaK9dr0pqhOn/97b2b626394ec090901bb17167180fc7/Carousel_V5.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Carousel_V5.png",
+                        "path": "/cf7umh1jvp53/1gNkW0DXRHsaK9dr0pqhOn/97b2b626394ec090901bb17167180fc7/Carousel_V5.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Carousel_V5.png",
+                        "path": "/cf7umh1jvp53/1gNkW0DXRHsaK9dr0pqhOn/97b2b626394ec090901bb17167180fc7/Carousel_V5.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "3aqpm0hsKXjVRTCq8n8Ixo",
+                "metadata": {
+                    "id": "3aqpm0hsKXjVRTCq8n8Ixo",
+                    "publishedAt": "2023-10-06T09:17:02.270Z",
+                    "publishedVersion": 17
+                },
+                "targeting": {
+                    "country": [
+                        "GB"
+                    ],
+                    "platform": [],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "",
+                    "avatarIds": []
+                },
+                "postDate": "1696583819",
+                "sortDate": "1696583819",
+                "lang": "en",
+                "title": "One Special Day",
+                "type": "eventEntry",
+                "ctas": {
+                    "4QkdGvuyKxWjILClFcihip": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "4QkdGvuyKxWjILClFcihip",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://onespecialday.org.uk/",
+                        "label": "Learn More!"
+                    }
+                },
+                "displayTimer": false,
+                "timerTarget": "1713559949",
+                "hideTitle": true,
+                "background": {
+                    "small": {
+                        "title": "SC-SpecialDay-2022-HD-860x1320.png",
+                        "path": "/cf7umh1jvp53/JiStBiePE5HWW13KahMsy/7d268636c8e6f6276b124dea9ea6824b/SC-SpecialDay-2022-HD-860x1320.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "SC-SpecialDay-2022-HD-860x1320.png",
+                        "path": "/cf7umh1jvp53/JiStBiePE5HWW13KahMsy/7d268636c8e6f6276b124dea9ea6824b/SC-SpecialDay-2022-HD-860x1320.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "SC-SpecialDay-2022-HD-860x1320.png",
+                        "path": "/cf7umh1jvp53/JiStBiePE5HWW13KahMsy/7d268636c8e6f6276b124dea9ea6824b/SC-SpecialDay-2022-HD-860x1320.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "SC-SpecialDay-2022-HD-860x1320.png",
+                        "path": "/cf7umh1jvp53/JiStBiePE5HWW13KahMsy/7d268636c8e6f6276b124dea9ea6824b/SC-SpecialDay-2022-HD-860x1320.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "SC-SpecialDay-2022-HD-860x1320.png",
+                        "path": "/cf7umh1jvp53/JiStBiePE5HWW13KahMsy/7d268636c8e6f6276b124dea9ea6824b/SC-SpecialDay-2022-HD-860x1320.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "SC-SpecialDay-2022-HD-860x1320.png",
+                        "path": "/cf7umh1jvp53/JiStBiePE5HWW13KahMsy/7d268636c8e6f6276b124dea9ea6824b/SC-SpecialDay-2022-HD-860x1320.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "c5cHri5X37qC435SQijrwazjaHwKRJoAH6Jev-sBZgw",
+                "metadata": {
+                    "id": "c5cHri5X37qC435SQijrwazjaHwKRJoAH6Jev-sBZgw",
+                    "publishedAt": "2023-09-05T13:49:37.574Z",
+                    "publishedVersion": 4
+                },
+                "targeting": null,
+                "postDate": "1693921773",
+                "sortDate": "1693921773",
+                "lang": "en",
+                "title": "Subscribe to BB YouTube!",
+                "type": "eventEntry",
+                "ctas": {
+                    "4fMLeWIvQde676xTZIelaQ": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "4fMLeWIvQde676xTZIelaQ",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://supr.cl/SubBoom",
+                        "label": "SUBSCRIBE!"
+                    }
+                },
+                "displayTimer": false,
+                "timerTarget": "1713559949",
+                "hideTitle": true,
+                "background": {
+                    "small": {
+                        "title": "BB follow Yt carousel",
+                        "path": "/cf7umh1jvp53/z9sKQbAOGKwWllwM_U7xJT6fa5ucu5_qgzHlTHnongs/b2c874c865a003f5c74aa83db09295b1/396270855_1658920226.jpg?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "BB follow Yt carousel",
+                        "path": "/cf7umh1jvp53/z9sKQbAOGKwWllwM_U7xJT6fa5ucu5_qgzHlTHnongs/b2c874c865a003f5c74aa83db09295b1/396270855_1658920226.jpg?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "BB follow Yt carousel",
+                        "path": "/cf7umh1jvp53/z9sKQbAOGKwWllwM_U7xJT6fa5ucu5_qgzHlTHnongs/b2c874c865a003f5c74aa83db09295b1/396270855_1658920226.jpg?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "BB follow Yt carousel",
+                        "path": "/cf7umh1jvp53/z9sKQbAOGKwWllwM_U7xJT6fa5ucu5_qgzHlTHnongs/b2c874c865a003f5c74aa83db09295b1/396270855_1658920226.jpg?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "BB follow Yt carousel",
+                        "path": "/cf7umh1jvp53/z9sKQbAOGKwWllwM_U7xJT6fa5ucu5_qgzHlTHnongs/b2c874c865a003f5c74aa83db09295b1/396270855_1658920226.jpg?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "BB follow Yt carousel",
+                        "path": "/cf7umh1jvp53/z9sKQbAOGKwWllwM_U7xJT6fa5ucu5_qgzHlTHnongs/b2c874c865a003f5c74aa83db09295b1/396270855_1658920226.jpg?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "HCqCZVvU22QWpHvcs2hcw_tds4vm7dpPzfLwa77qVEk",
+                "metadata": {
+                    "id": "HCqCZVvU22QWpHvcs2hcw_tds4vm7dpPzfLwa77qVEk",
+                    "publishedAt": "2024-04-09T13:29:30.079Z",
+                    "publishedVersion": 9
+                },
+                "targeting": null,
+                "postDate": "1693921770",
+                "sortDate": "1693921770",
+                "lang": "en",
+                "title": "Connect with Supercell ID!",
+                "type": "eventEntry",
+                "ctas": {
+                    "c1sT5MsKWbPYsKgFKPF23": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "c1sT5MsKWbPYsKgFKPF23",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://youtu.be/Wu9okVSevBk",
+                        "label": "WATCH!"
+                    }
+                },
+                "displayTimer": false,
+                "timerTarget": "1713559949",
+                "hideTitle": false,
+                "background": {
+                    "small": {
+                        "title": "SCID_BB_2.png",
+                        "path": "/cf7umh1jvp53/26iHb1xKJDvm6hGB6pRXNV/0d72fd16521b3f730f46dee91437c576/SCID_BB_2.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "SCID_BB_2.png",
+                        "path": "/cf7umh1jvp53/26iHb1xKJDvm6hGB6pRXNV/0d72fd16521b3f730f46dee91437c576/SCID_BB_2.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "SCID_BB_2.png",
+                        "path": "/cf7umh1jvp53/26iHb1xKJDvm6hGB6pRXNV/0d72fd16521b3f730f46dee91437c576/SCID_BB_2.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "SCID_BB_2.png",
+                        "path": "/cf7umh1jvp53/26iHb1xKJDvm6hGB6pRXNV/0d72fd16521b3f730f46dee91437c576/SCID_BB_2.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "SCID_BB_2.png",
+                        "path": "/cf7umh1jvp53/26iHb1xKJDvm6hGB6pRXNV/0d72fd16521b3f730f46dee91437c576/SCID_BB_2.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "SCID_BB_2.png",
+                        "path": "/cf7umh1jvp53/26iHb1xKJDvm6hGB6pRXNV/0d72fd16521b3f730f46dee91437c576/SCID_BB_2.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            }
+        ],
+        "newsEntries": [
+            {
+                "id": "7eldwAdYVJzcyphrvaM6uv",
+                "index": 0,
+                "targeting": null,
+                "metadata": {
+                    "id": "7eldwAdYVJzcyphrvaM6uv",
+                    "publishedVersion": 12,
+                    "publishedAt": "2024-02-26T12:51:06.916Z"
+                },
+                "postDate": "1708905600",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Boomiversary",
+                "categories": [
+                    {
+                        "title": "Blog",
+                        "color": "#379348"
+                    }
+                ],
+                "newUntil": "1709251200",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Thumb.png",
+                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=180&h=99&f=center&fit=fill",
+                        "width": 180,
+                        "height": 99
+                    },
+                    "smallRetina": {
+                        "title": "Thumb.png",
+                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=360&h=197&f=center&fit=fill",
+                        "width": 360,
+                        "height": 197
+                    },
+                    "medium": {
+                        "title": "Thumb.png",
+                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=450&h=247&f=center&fit=fill",
+                        "width": 450,
+                        "height": 247
+                    },
+                    "mediumRetina": {
+                        "title": "Thumb.png",
+                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=540&h=296&f=center&fit=fill",
+                        "width": 540,
+                        "height": 296
+                    },
+                    "large": {
+                        "title": "Thumb.png",
+                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=720&h=394&f=center&fit=fill",
+                        "width": 720,
+                        "height": 394
+                    },
+                    "largeRetina": {
+                        "title": "Thumb.png",
+                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=900&h=493&f=center&fit=fill",
+                        "width": 900,
+                        "height": 493
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "Hero.png",
+                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=390&h=130&f=center",
+                        "width": 390,
+                        "height": 130
+                    },
+                    "smallRetina": {
+                        "title": "Hero.png",
+                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=780&h=260&f=center",
+                        "width": 780,
+                        "height": 260
+                    },
+                    "medium": {
+                        "title": "Hero.png",
+                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=975&h=325&f=center",
+                        "width": 975,
+                        "height": 325
+                    },
+                    "mediumRetina": {
+                        "title": "Hero.png",
+                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=1170&h=390&f=center",
+                        "width": 1170,
+                        "height": 390
+                    },
+                    "large": {
+                        "title": "Hero.png",
+                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=1560&h=520&f=center",
+                        "width": 1560,
+                        "height": 520
+                    },
+                    "largeRetina": {
+                        "title": "Hero.png",
+                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=1950&h=650&f=center",
+                        "width": 1950,
+                        "height": 650
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "Anniversary Update!",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>We&#39;re thrilled to announce that the 10th-anniversary update is now live! We can&#39;t wait for you to explore all the features that we have been working on!</p><p>Below, you&#39;ll be able to find all the details of this update.</p>"
+                    },
+                    "1": {
+                        "title": "Changes and fixes",
+                        "order": "1",
+                        "type": "textBlock",
+                        "body": "<p><b>Bug fixes:</b></p><p>\u25cf Building attack speed bonus now correctly applies to all buildings, previously the effect was smaller than displayed for slow firing units;\n\u25cf Fixed building attack speed / life leech bonus being incorrectly shown on enemy buildings when the player has activated it;\n\u25cf Fixed a case where the battle ends too early if a shielded Headquarters was being attacked by laser type damage only;\n\u25cf Fixed scores and resource amounts sometimes not being updated in the UI;\n\u25cf Fixed Mega Crab bonus reward rounding. When players had resource reward statues, displayed rewards differed from those received;\n\u25cf Fixed battle ending before chopper spawns units if chopper is the last troop;\n\u25cf Fixes in music loops and transition;\n\u25cf Fixed crash when rapidly upgrading buildings. </p><p><b>Gameplay and balance changes:\n</b>\n\u25cf VP chest timer is increased to 6 hours;\n\u25cf Streamlined HQ1 - HQ4 progress by unlocking buildings only when they become useful. </p><p><b>UI changes: \n</b>\n\u25cf Implemented a new Warships battle HUD, which displays the state of each Engine Room separately. The engines are displayed from left to right as they are situated in the base;\n\u25cf Removed separate use button for classified items. They can now be used from the speedup popup;\n\u25cf Unit boost multinode info now shows the stat increase gained from the boost;\n\u25cf Fixed dark mode cloud color on the edges of the screen;\n\u25cf Building suggestor UI fixes;\n\u25cf Changed beam extension statistic to percentage in troop info;\n\u25cf Melon Bombardier info screen now shows bonus damage from projectile shrapnel;\n\u25cf Updated loading tips, added one for using creator codes;\n\u25cf Updated Mech and CryoBombardier texts to include info about stunning and changing targets.</p><p><b>Advertisements:</b></p><p>\u25cf Added the possibility to watch an ad for extra rewards when opening the daily chest in the shop;\n\u25cf Added a beach chest. It allows a player to receive random rewards by watching an ad. </p>"
+                    },
+                    "2": {
+                        "title": "New Features",
+                        "order": "2",
+                        "type": "textBlock",
+                        "body": "<p><b>New decorations:</b></p><p>\u25cf During March, players can unlock a commemorative 10th anniversary statue;\n\u25cf Anniversary Crab now features a new reward statue. </p><p><b>Mystical Monument:</b></p><p>\u25cf New ornamental building which becomes available at HQ 20;\n\u25cf Each upgrade costs one of four random resources. These options can be rerolled with gems.\n\u25cf The monument has visual upgrades at levels 1,100,200,300;\n\u25cf The monument gives random bonuses at a rate of one every 20 levels on average. These bonuses do not affect combat balance. </p><p><b>Seasonal Campaign:</b></p><p>\u25cf Campaign becomes available at HQ 5;\n\u25cf Campaign seasons start at the same time as Warships seasons and last until the next season starts;\n\u25cf A set of missions is unlocked each week;\n\u25cf Completing missions award progress on the reward track;\n\u25cf This reward track contains both regular and premium rewards: Regular reward track contains chests, with contents identical to Supply Chests;\n</p><ul><li><p>Players can purchase a Boom Pass to unlock premium rewards;</p></li><li><p>Boom Pass holders can purchase progress on the track using gems;</p></li><li><p>Rewards must be claimed before the season ends.\n</p></li></ul><p><b>New unique items from premium reward track:</b>\n\u25cf Enhanced Admiral\u2019s Key: Boom Pass contains full access to the current Warships season. This access is granted when Boom Pass is purchased, regardless of Headquarters level;\n\u25cf New currency: Build Tokens: Build Tokens can be used to start building upgrades when the builder is busy;\n\u25cf Sculptor gains extra slots to queue statues for sculpting: These expire at the end of the season, but assigned statues will be completed;\n\u25cf Optimizers: These come in three variations: building, unit upgrade and sculpting. They give a percentage reduction to the time required. This bonus increases as you claim more optimizers. Bonus is applied when a project starts, so it is not added retroactively to ongoing projects. Optimizer bonuses expire at the end of the season but projects started during the season enjoy full benefits even if the season ends;\n\u25cf Skins: Once unlocked, skins are permanently available. Skin menu for the island, buildings and troops can be accessed from Headquarters.</p><p></p>"
+                    }
+                }
+            }
+        ],
+        "fullscreenEntries": []
+    },
+    "globals": {
+        "globalText.langHoursAbbreviated": "h",
+        "globalText.langMinutesAbbreviated": "min",
+        "globalText.langVoteCheck": "Check vote",
+        "globalText.communityText.langLatestAndGreatest": "Latest & Greatest",
+        "globalText.communityText.langLive": "Live",
+        "globalText.communityText.langWatchLive": "Watch [NAME_OF_PLAYER] Live",
+        "globalText.langFollowUs": "Follow Us!",
+        "globalText.communityText.langOutOfFeed": "You can't go any deeper!",
+        "globalText.langDaysAgo": "{x} days ago",
+        "globalText.langHour": "Hour",
+        "globalText.langDayAgo": "{x} day ago",
+        "globalText.langDay": "day",
+        "globalText.langDays": "days",
+        "globalText.langShare": "Share",
+        "globalText.langMoreAtWikia": "More @ Wikia",
+        "globalText.langHourAgo": "{x} hour ago",
+        "globalText.langHourCountdown": "Hour",
+        "globalText.langHoursAgo": "{x} hours ago",
+        "globalText.langHoursCountdown": "Hours",
+        "globalText.langHours": "Hours",
+        "globalText.langMinuteAgo": "{x} minute ago",
+        "globalText.langSecond": "Seconds",
+        "globalText.langMinutesAgo": "{x} minutes ago",
+        "globalText.langMinuteCountdown": "Minute",
+        "globalText.langMinutes": "Minutes",
+        "globalText.langSecondCountdown": "Seconds",
+        "globalText.langSecondsCountdown": "Seconds",
+        "globalText.langNewBadge": "New",
+        "globalText.langBy": "By:",
+        "globalText.langDownloadGame": "Download Boom Beach!",
+        "globalText.langNew": "New",
+        "globalText.langEndingSoon": "Ending soon!",
+        "globalText.langLoadMore": "Load More",
+        "globalText.langCastYourVote": "Cast Your Vote",
+        "globalText.langGo": "Go!",
+        "globalText.langEndOfFeed": "You can't go any deeper!",
+        "globalText.langOutOfFeed": "You can't go any deeper!",
+        "globalText.langGetMoreNewsAndContent": "Get more news and content",
+        "globalText.langMinutesCountdown": "Minutes",
+        "globalText.langNext": "Newer",
+        "globalText.langYouVoted": "You Voted",
+        "globalText.thanksForVoting": "Thanks for voting",
+        "globalText.langLoading": "Loading...",
+        "globalText.langVoteSubmitLabel": "Submit",
+        "globalText.close": "Close",
+        "globalText.langVoteDefaultButtonLabel": "Vote",
+        "globalText.langVoteResultsButtonLabel": "Show Results",
+        "globalText.langPrevious": "Older",
+        "globalText.langVoteTryAgainLabel": "Vote - Try Again",
+        "globalText.langVoteTimeHasEnded": "Voting has ended"
+    },
+    "socialLinks": [
+        {
+            "linkUrl": "https://www.facebook.com/BoomBeach",
+            "socialLinkImage": {
+                "small": {
+                    "title": "social_Facebook.svg",
+                    "path": "/cf7umh1jvp53/6Ejwt56xbGZY5T6oa1QRoM/e322a3d26c2803f8b6bfce5f2e2a0389/social_Facebook.svg?w=10&h=10&f=center&fit=fill",
+                    "width": 10,
+                    "height": 10
+                },
+                "smallRetina": {
+                    "title": "social_Facebook.svg",
+                    "path": "/cf7umh1jvp53/6Ejwt56xbGZY5T6oa1QRoM/e322a3d26c2803f8b6bfce5f2e2a0389/social_Facebook.svg?w=19&h=19&f=center&fit=fill",
+                    "width": 19,
+                    "height": 19
+                },
+                "medium": {
+                    "title": "social_Facebook.svg",
+                    "path": "/cf7umh1jvp53/6Ejwt56xbGZY5T6oa1QRoM/e322a3d26c2803f8b6bfce5f2e2a0389/social_Facebook.svg?w=24&h=24&f=center&fit=fill",
+                    "width": 24,
+                    "height": 24
+                },
+                "mediumRetina": {
+                    "title": "social_Facebook.svg",
+                    "path": "/cf7umh1jvp53/6Ejwt56xbGZY5T6oa1QRoM/e322a3d26c2803f8b6bfce5f2e2a0389/social_Facebook.svg?w=29&h=29&f=center&fit=fill",
+                    "width": 29,
+                    "height": 29
+                },
+                "large": {
+                    "title": "social_Facebook.svg",
+                    "path": "/cf7umh1jvp53/6Ejwt56xbGZY5T6oa1QRoM/e322a3d26c2803f8b6bfce5f2e2a0389/social_Facebook.svg?w=38&h=38&f=center&fit=fill",
+                    "width": 38,
+                    "height": 38
+                },
+                "largeRetina": {
+                    "title": "social_Facebook.svg",
+                    "path": "/cf7umh1jvp53/6Ejwt56xbGZY5T6oa1QRoM/e322a3d26c2803f8b6bfce5f2e2a0389/social_Facebook.svg?w=48&h=48&f=center&fit=fill",
+                    "width": 48,
+                    "height": 48
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.instagram.com/BoomBeach/",
+            "socialLinkImage": {
+                "small": {
+                    "title": "social_Instagram.svg",
+                    "path": "/cf7umh1jvp53/5O0DJ1yCAfJH7xzqVDFzDf/a191c26a8a8d7afe66e6a34189d47e2a/social_Instagram.svg?w=10&h=10&f=center&fit=fill",
+                    "width": 10,
+                    "height": 10
+                },
+                "smallRetina": {
+                    "title": "social_Instagram.svg",
+                    "path": "/cf7umh1jvp53/5O0DJ1yCAfJH7xzqVDFzDf/a191c26a8a8d7afe66e6a34189d47e2a/social_Instagram.svg?w=19&h=19&f=center&fit=fill",
+                    "width": 19,
+                    "height": 19
+                },
+                "medium": {
+                    "title": "social_Instagram.svg",
+                    "path": "/cf7umh1jvp53/5O0DJ1yCAfJH7xzqVDFzDf/a191c26a8a8d7afe66e6a34189d47e2a/social_Instagram.svg?w=24&h=24&f=center&fit=fill",
+                    "width": 24,
+                    "height": 24
+                },
+                "mediumRetina": {
+                    "title": "social_Instagram.svg",
+                    "path": "/cf7umh1jvp53/5O0DJ1yCAfJH7xzqVDFzDf/a191c26a8a8d7afe66e6a34189d47e2a/social_Instagram.svg?w=29&h=29&f=center&fit=fill",
+                    "width": 29,
+                    "height": 29
+                },
+                "large": {
+                    "title": "social_Instagram.svg",
+                    "path": "/cf7umh1jvp53/5O0DJ1yCAfJH7xzqVDFzDf/a191c26a8a8d7afe66e6a34189d47e2a/social_Instagram.svg?w=38&h=38&f=center&fit=fill",
+                    "width": 38,
+                    "height": 38
+                },
+                "largeRetina": {
+                    "title": "social_Instagram.svg",
+                    "path": "/cf7umh1jvp53/5O0DJ1yCAfJH7xzqVDFzDf/a191c26a8a8d7afe66e6a34189d47e2a/social_Instagram.svg?w=48&h=48&f=center&fit=fill",
+                    "width": 48,
+                    "height": 48
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.youtube.com/user/OfficialBoomBeach",
+            "socialLinkImage": {
+                "small": {
+                    "title": "social_Youtube.svg",
+                    "path": "/cf7umh1jvp53/p9XEZS7R13q3iztbNfUGw/ce7a6513dfd6be3ac521eeb0fc378933/social_Youtube.svg?w=10&h=10&f=center&fit=fill",
+                    "width": 10,
+                    "height": 10
+                },
+                "smallRetina": {
+                    "title": "social_Youtube.svg",
+                    "path": "/cf7umh1jvp53/p9XEZS7R13q3iztbNfUGw/ce7a6513dfd6be3ac521eeb0fc378933/social_Youtube.svg?w=19&h=19&f=center&fit=fill",
+                    "width": 19,
+                    "height": 19
+                },
+                "medium": {
+                    "title": "social_Youtube.svg",
+                    "path": "/cf7umh1jvp53/p9XEZS7R13q3iztbNfUGw/ce7a6513dfd6be3ac521eeb0fc378933/social_Youtube.svg?w=24&h=24&f=center&fit=fill",
+                    "width": 24,
+                    "height": 24
+                },
+                "mediumRetina": {
+                    "title": "social_Youtube.svg",
+                    "path": "/cf7umh1jvp53/p9XEZS7R13q3iztbNfUGw/ce7a6513dfd6be3ac521eeb0fc378933/social_Youtube.svg?w=29&h=29&f=center&fit=fill",
+                    "width": 29,
+                    "height": 29
+                },
+                "large": {
+                    "title": "social_Youtube.svg",
+                    "path": "/cf7umh1jvp53/p9XEZS7R13q3iztbNfUGw/ce7a6513dfd6be3ac521eeb0fc378933/social_Youtube.svg?w=38&h=38&f=center&fit=fill",
+                    "width": 38,
+                    "height": 38
+                },
+                "largeRetina": {
+                    "title": "social_Youtube.svg",
+                    "path": "/cf7umh1jvp53/p9XEZS7R13q3iztbNfUGw/ce7a6513dfd6be3ac521eeb0fc378933/social_Youtube.svg?w=48&h=48&f=center&fit=fill",
+                    "width": 48,
+                    "height": 48
+                }
+            }
+        },
+        {
+            "linkUrl": "https://twitter.com/BoomBeach",
+            "socialLinkImage": {
+                "small": {
+                    "title": "social_X.svg",
+                    "path": "/cf7umh1jvp53/1A2NnAoJdYWjHte85PPssD/3be9dcd1deac05e24930116129a99737/social_X.svg?w=10&h=10&f=center&fit=fill",
+                    "width": 10,
+                    "height": 10
+                },
+                "smallRetina": {
+                    "title": "social_X.svg",
+                    "path": "/cf7umh1jvp53/1A2NnAoJdYWjHte85PPssD/3be9dcd1deac05e24930116129a99737/social_X.svg?w=19&h=19&f=center&fit=fill",
+                    "width": 19,
+                    "height": 19
+                },
+                "medium": {
+                    "title": "social_X.svg",
+                    "path": "/cf7umh1jvp53/1A2NnAoJdYWjHte85PPssD/3be9dcd1deac05e24930116129a99737/social_X.svg?w=24&h=24&f=center&fit=fill",
+                    "width": 24,
+                    "height": 24
+                },
+                "mediumRetina": {
+                    "title": "social_X.svg",
+                    "path": "/cf7umh1jvp53/1A2NnAoJdYWjHte85PPssD/3be9dcd1deac05e24930116129a99737/social_X.svg?w=29&h=29&f=center&fit=fill",
+                    "width": 29,
+                    "height": 29
+                },
+                "large": {
+                    "title": "social_X.svg",
+                    "path": "/cf7umh1jvp53/1A2NnAoJdYWjHte85PPssD/3be9dcd1deac05e24930116129a99737/social_X.svg?w=38&h=38&f=center&fit=fill",
+                    "width": 38,
+                    "height": 38
+                },
+                "largeRetina": {
+                    "title": "social_X.svg",
+                    "path": "/cf7umh1jvp53/1A2NnAoJdYWjHte85PPssD/3be9dcd1deac05e24930116129a99737/social_X.svg?w=48&h=48&f=center&fit=fill",
+                    "width": 48,
+                    "height": 48
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.reddit.com/r/BoomBeach/",
+            "socialLinkImage": {
+                "small": {
+                    "title": "social_Reddit.svg",
+                    "path": "/cf7umh1jvp53/4ngAMPOPbL5HJubpRcgc4U/c984452b3a6f8392210388e34b67b239/social_Reddit.svg?w=10&h=10&f=center&fit=fill",
+                    "width": 10,
+                    "height": 10
+                },
+                "smallRetina": {
+                    "title": "social_Reddit.svg",
+                    "path": "/cf7umh1jvp53/4ngAMPOPbL5HJubpRcgc4U/c984452b3a6f8392210388e34b67b239/social_Reddit.svg?w=19&h=19&f=center&fit=fill",
+                    "width": 19,
+                    "height": 19
+                },
+                "medium": {
+                    "title": "social_Reddit.svg",
+                    "path": "/cf7umh1jvp53/4ngAMPOPbL5HJubpRcgc4U/c984452b3a6f8392210388e34b67b239/social_Reddit.svg?w=24&h=24&f=center&fit=fill",
+                    "width": 24,
+                    "height": 24
+                },
+                "mediumRetina": {
+                    "title": "social_Reddit.svg",
+                    "path": "/cf7umh1jvp53/4ngAMPOPbL5HJubpRcgc4U/c984452b3a6f8392210388e34b67b239/social_Reddit.svg?w=29&h=29&f=center&fit=fill",
+                    "width": 29,
+                    "height": 29
+                },
+                "large": {
+                    "title": "social_Reddit.svg",
+                    "path": "/cf7umh1jvp53/4ngAMPOPbL5HJubpRcgc4U/c984452b3a6f8392210388e34b67b239/social_Reddit.svg?w=38&h=38&f=center&fit=fill",
+                    "width": 38,
+                    "height": 38
+                },
+                "largeRetina": {
+                    "title": "social_Reddit.svg",
+                    "path": "/cf7umh1jvp53/4ngAMPOPbL5HJubpRcgc4U/c984452b3a6f8392210388e34b67b239/social_Reddit.svg?w=48&h=48&f=center&fit=fill",
+                    "width": 48,
+                    "height": 48
+                }
+            }
+        }
+    ]
+}

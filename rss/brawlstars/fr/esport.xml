@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Brawlstars - Esport News</title>
+    <link>https://github.com/skrwo/supercell-inbox-rss/</link>
+    <description>RSS wrapper of Brawlstars inbox Esport News</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 21 Apr 2024 14:00:01 +0000</lastBuildDate>
+    <item>
+      <title>Voici les commentateurs de le Championnat Brawl Stars 2024 !</title>
+      <link>https://x.com/Brawl_esports/status/1773715824320319506?s=20</link>
+      <description>[EMPTY]</description>
+      <guid isPermaLink="false">4grBXNHfMBmnslENMRJTOl</guid>
+      <category>Esports</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6fSrTZ06SpAkLSOMpZzIZP/aa46796f84934d6138b351bb014e17e1/FR-BSC-2024-Talent-Announcement.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 29 Mar 2024 14:27:50 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

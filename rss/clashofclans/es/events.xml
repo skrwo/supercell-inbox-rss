@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Clashofclans - Event</title>
+    <link>https://github.com/skrwo/supercell-inbox-rss/</link>
+    <description>RSS wrapper of Clashofclans inbox Event</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 21 Apr 2024 14:00:33 +0000</lastBuildDate>
+    <item>
+      <title>[HIDDEN]</title>
+      <link>https://www.reddit.com/r/ClashOfClansRecruit/</link>
+      <description>&lt;br&gt;
+&lt;a href="https://www.reddit.com/r/ClashOfClansRecruit/"&gt;[¡Consigue un Clan!]&lt;/a&gt;</description>
+      <guid isPermaLink="false">MQIjWnSkrNKu8-PNjIOWfjRM4by76fM50-UDIsI9RTY</guid>
+      <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/mNsuB77vbwDSnE0tgfK2a3kfb5WluCODhSyz9r3QyBQ/0e50746c4b9e53f0dc7a7a3e70e4c7de/recruitment-group-ES.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Thu, 28 Sep 2023 13:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HIDDEN]</title>
+      <link>https://youtu.be/m8EtUFFdpss</link>
+      <description>&lt;br&gt;
+&lt;a href="https://youtu.be/m8EtUFFdpss"&gt;[¡Vamos!]&lt;/a&gt;</description>
+      <guid isPermaLink="false">5xwGTgqKYg1WXimwHnOKnx</guid>
+      <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3qq9sBz8TeCGcRpFP4GQhw/080e24602d6c2d1c0840f1213cd4f96b/ES_CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Mon, 01 Apr 2024 08:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡Actualización de abril!</title>
+      <link>https://youtu.be/InKFf2cJqc8</link>
+      <description>&lt;br&gt;
+&lt;a href="https://youtu.be/InKFf2cJqc8"&gt;[¡Ver ahora!]&lt;/a&gt;</description>
+      <guid isPermaLink="false">5isTbGikVWnjRKJ3mfzj4S</guid>
+      <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7IVgg9Em2ICaJAjv3RaTqO/8bee783b4b687c09b85936c92d499b73/Screenshot_2024-04-17_at_11.57.15.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Mon, 15 Apr 2024 09:11:46 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

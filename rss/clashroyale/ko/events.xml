@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Clashroyale - Event</title>
+    <link>https://github.com/skrwo/supercell-inbox-rss/</link>
+    <description>RSS wrapper of Clashroyale inbox Event</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ko</language>
+    <lastBuildDate>Sun, 21 Apr 2024 14:00:03 +0000</lastBuildDate>
+    <item>
+      <title>[HIDDEN]</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ko/news/6g54VT7JKlhc8E8g413MXe</link>
+      <description>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/6g54VT7JKlhc8E8g413MXe"&gt;[자세한 내용 확인!]&lt;/a&gt;</description>
+      <guid isPermaLink="false">72R5uM2b8FY12FrBQb2C5a</guid>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/662HgrQSl3D578KKixy4RW/8e872d586e4a13139a23814406ae4fae/CR-Roadmap-2024-960x764_KR.png?w=960&amp;h=764&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 01 Dec 2023 08:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HIDDEN]</title>
+      <description>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/tn8Mh6cozcaC6rHY4wA96"&gt;[읽어보기]&lt;/a&gt;
+&lt;a href="https://youtu.be/8pTCDhkHww4?si=VZRWdRdTMlz8YhZH"&gt;[영상 보기]&lt;/a&gt;</description>
+      <guid isPermaLink="false">57UzVLn1XwoNaNiUarJ1Ez</guid>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6mFlkCQAgTipVG1DixUp5P/1bd31953dfce0c18a84c1ce004ac8b0a/0401_season57_inboxKV__960x764_.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Apr 2024 09:04:23 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

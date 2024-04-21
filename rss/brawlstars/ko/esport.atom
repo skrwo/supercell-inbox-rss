@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
+  <id>brawlstars-esportNewsEntries-ko</id>
+  <title>Brawlstars - Esport News</title>
+  <updated>2024-04-21T13:59:43.724801+00:00</updated>
+  <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
+  <entry>
+    <id>DRUY6zCjeMPLqWCjCgq9s</id>
+    <title>⭐이벤트 종료⭐3월 월별 파이널 시청하고 기프트카드까지!? 🎁</title>
+    <updated>2024-03-29T05:45:33.125000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5RhEJ0nTRCgbGGpprG1B0C/53602cebd2ecb743da73475d4d016042/0330_montly-final_inbox_800x433__01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1129111"/>
+    <category term="이스포츠"/>
+    <published>2024-03-29T05:45:33+00:00</published>
+  </entry>
+  <entry>
+    <id>4PzjAf434lHi7KRfSd2Z5x</id>
+    <title>LPL Brawl Stars Asia Pacific Tour 참가 신청이 시작되었습니다!</title>
+    <updated>2024-04-17T03:24:03.923000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://letsplay.live/brawl-stars/"/>
+    <category term="이스포츠"/>
+    <published>2024-04-16T12:44:11+00:00</published>
+  </entry>
+</feed>

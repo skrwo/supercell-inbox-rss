@@ -1,0 +1,19 @@
+name: update-feeds
+on:
+  schedule:
+    - cron: '25 * * * *' # every hour at minute 25
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m feed
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: rss
+          author_name: Github Actions
+          message: Update feeds [auto]

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+  <id>clashofclans-eventEntries-de</id>
+  <title>Clashofclans - Event</title>
+  <updated>2024-04-21T14:00:31.522656+00:00</updated>
+  <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
+  <entry>
+    <id>5xwGTgqKYg1WXimwHnOKnx</id>
+    <title>[HIDDEN]</title>
+    <updated>2024-04-08T11:34:49.236000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/m8EtUFFdpss"&gt;[Ansehen!]&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2piKsbhJ0tWqBj2Eg32vLN/bb7aa5dc0044f573c6a4b211ab3aa676/DE_CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/m8EtUFFdpss"/>
+    <published>2024-04-01T08:00:11+00:00</published>
+  </entry>
+  <entry>
+    <id>5isTbGikVWnjRKJ3mfzj4S</id>
+    <title>Entwickler-Update – April!</title>
+    <updated>2024-04-18T16:40:16.830000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/InKFf2cJqc8"&gt;[JETZT Ansehen!]&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3NsGt85iXU0GvGISyfx50o/bb5a048d758e43be15a7c3b6b3975fce/Carrousel-April_Update.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/InKFf2cJqc8"/>
+    <published>2024-04-15T09:11:46+00:00</published>
+  </entry>
+</feed>

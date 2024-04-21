@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Brawlstars - Esport News</title>
+    <link>https://github.com/skrwo/supercell-inbox-rss/</link>
+    <description>RSS wrapper of Brawlstars inbox Esport News</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 21 Apr 2024 13:59:48 +0000</lastBuildDate>
+    <item>
+      <title>BSC合作夥伴計畫</title>
+      <link>https://supercell.com/en/games/brawlstars/zh/blog/esports/brawl-esports-partner-program-2/</link>
+      <description>[EMPTY]</description>
+      <guid isPermaLink="false">5L7RUjfGVWpwb2WbQsdJB8</guid>
+      <category>賽事情報</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3IYRNc37bIer5nXZHyWCOL/ae249f3ae960a42b2bca9e7f759ea485/0301_BSC_blog_post_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 01 Mar 2024 15:12:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>3月30日14點高手過招！</title>
+      <description>&lt;p&gt;萬眾矚目的2024荒野亂鬥全球錦標賽亞太賽區3月月度決賽將於3月30日14點火熱開戰！&#13;
+&#13;
+今分為5大賽區，包含亞太賽區、歐洲賽區、北美賽區、南美賽區與中國大陸賽區，每個賽區有各自的排行榜，分配到的全球總決賽和最終席位資格賽門票也略有不同。而台灣、香港、澳門等則是分入亞太賽區中。&#13;
+&#13;
+今年繁體中文賽事將由創作者於頻道進行直播，包含&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2F%40Chun')"&gt;盛主播&lt;/a&gt;、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2F%40powertech4165')"&gt;PowerTech淮特&lt;/a&gt;等將為大家帶來精彩解說。請提前&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fbrawlstars%2Fzh-tc')"&gt;設定提醒&lt;/a&gt;，並在週六下午準時觀看，享受緊張刺激的高手過招！&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=5SnRSy04-Sk"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;觀賽獎勵&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5nTRKpaaAZkKUsrD0l8jMw/67967df061bec21cb5541bb110ea6998/tw_20240328_BSC_Rewards.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;前往&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fbrawlstars%2Fzh-tc')"&gt;觀賽網站&lt;/a&gt;參與預測、直播互動、答題累積積分將能獲得寶物之星表情等獎勵！想要提前參加觀賽網站預測，可於比賽開始前留意觀賽網站開放預測與否（通常於比賽開始前一小時開放，但請以實際網站狀態為準）。若未提前預測，比賽直播期間於每場對戰開始前也有短暫開放預測，請務必把握時間參加！&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;賽制說明&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3NTFPP9wWrBllqUMH3bUXW/0fef2eced63a9b27b620df2d468d5a0b/tw_20240328_BSC_Format.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;月度決賽的八強賽、四強賽與冠亞軍賽均為Bo5盤Bo3局。每盤比賽開始前，每位選手均可禁用1名英雄，隨後隊伍裡的每位選手將選擇該盤比賽使用的英雄。選定英雄後和對戰開始前，同一隊伍內的選手可以互換英雄。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;參賽隊伍&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Gg9xOlESzIqloww0rciSc/13b00af030a31b81eaeaad3522018ee0/tw_20240328_BSC_MAR_MF_APAC_Bracket.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;今年的月度決賽可說是各地高手盡出。除了大家熟悉的Crazy Raccoon和Revenant Esports晉級外，由多地玩家組成的隊伍也有亮眼表現，包含由新加坡、台灣與澳門選手組成的HOW；香港選手組成的Angelic，以及由韓國、馬來西亞與新加坡選手的Octopus Primes等，另外還有由知名選手Milkreo領軍的Never Back Down等隊伍，相信將帶給大家絕無冷場的極限廝殺！&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;積分分配&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3rJ2l7FBcGRPlna8c0Fih/ecebfb1a6b6366d05d1bfc975ae3e318/tw_20240328_BSC_Points.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;為獲得全球總決賽和最終席位資格賽參賽資格，隊伍需在各賽區月度資格賽和月度決賽中&#13;
+贏取積分，全年5個賽季的積分將進行加總。亞太賽區共有2個晉級全球總決賽的席位和2個晉級最終席位資格賽的席位。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;賽事獎金&lt;/b&gt;&lt;/p&gt;&lt;p&gt;月度賽事的參賽隊伍將根據其所在賽區和最終排名獲得獎金，今年獎金較去年有所提升，亞太賽區各名次獎金分配如圖：&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/38IFXtX5byfY8segeC83xr/c042a63326be9daf3571d84e5029776a/tw_20240328_BSC_Prize.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;3月30日14點請鎖定&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fbrawlstars%2Fzh-tc')"&gt;觀賽網站&lt;/a&gt;為支持的隊伍加油！&lt;/p&gt;</description>
+      <guid isPermaLink="false">7f6OUwwWLLaPWnhoXswtOq</guid>
+      <category>賽事情報</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WYFE3HBrw1Yw3S5eWpp0t/502948e138debc24710b2f6dbe75a15c/tw_20240328_BSC_MAR_MF_APAC_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Mar 2024 06:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

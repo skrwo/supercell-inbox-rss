@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Brawlstars - Event</title>
+    <link>https://github.com/skrwo/supercell-inbox-rss/</link>
+    <description>RSS wrapper of Brawlstars inbox Event</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>it</language>
+    <lastBuildDate>Sun, 21 Apr 2024 13:59:55 +0000</lastBuildDate>
+    <item>
+      <title>[HIDDEN]</title>
+      <description>&lt;br&gt;
+&lt;a href="https://youtube.com/brawlstars"&gt;[YouTube]&lt;/a&gt;
+&lt;a href="http://supr.cl/tiktok-inbox"&gt;[TikTok]&lt;/a&gt;</description>
+      <guid isPermaLink="false">AF8IbAyncIwI0J59MT2SSce-Kowt9uwUY0Po_7lbpkY</guid>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0VRkrnLtKL9U2vSl3ZAtyxhzvDW7iQIWvQnZxi1U_sA/851b4934167b7c607a7fd8612fac48e0/1517787681_1606917955.jpg?w=800&amp;h=1161&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Feb 2023 11:20:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HIDDEN]</title>
+      <description>&lt;br&gt;
+&lt;a href="https://youtu.be/ULJdli_1sas"&gt;[Guarda]&lt;/a&gt;
+&lt;a href="brawlstars://shop"&gt;[Ottieni]&lt;/a&gt;</description>
+      <guid isPermaLink="false">76PQqAcT7zm1S6mxjZj66j</guid>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/19ZrFx4nbNy93ixVqeHG2K/a7eb296de56c0a5ad36f4824aa0121a6/0403_Ragnarok_Season_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Thu, 04 Apr 2024 09:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HIDDEN]</title>
+      <link>https://brawlstars.inbox.supercell.com/#/it/news/1vXU66BwkC74U1S27o6qBA</link>
+      <description>&lt;br&gt;
+&lt;a href="https://brawlstars.inbox.supercell.com/#/it/news/1vXU66BwkC74U1S27o6qBA"&gt;[vai!]&lt;/a&gt;</description>
+      <guid isPermaLink="false">3q43H3q84HAr0I4PJZdlzL</guid>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mDnixU8SsqUbv89tK5roC/eac2bb41f845b09197770da55ba60ab1/0418_Make_vote_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Thu, 22 Feb 2024 21:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HIDDEN]</title>
+      <link>https://youtu.be/oUW1RPbbqJE</link>
+      <description>&lt;br&gt;
+&lt;a href="https://youtu.be/oUW1RPbbqJE"&gt;[Brawl Talk]&lt;/a&gt;</description>
+      <guid isPermaLink="false">2azxxVt6rp53SUtQ5J9dqz</guid>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ImvZ7Iw3Oxw62gqyQyS4w/eddfc79cff055ae6843b7137f034220b/0419_BT_Mutations_Pop-up_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 19 Apr 2024 12:17:08 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1835 @@
+{
+    "entries": {
+        "eventEntries": [
+            {
+                "id": "5isTbGikVWnjRKJ3mfzj4S",
+                "metadata": {
+                    "id": "5isTbGikVWnjRKJ3mfzj4S",
+                    "publishedAt": "2024-04-18T16:40:16.830Z",
+                    "publishedVersion": 48
+                },
+                "targeting": null,
+                "postDate": "1713172306",
+                "sortDate": "1713172306",
+                "lang": "en",
+                "title": "April Dev Update!",
+                "type": "eventEntry",
+                "ctas": {
+                    "6QyI9UC5rG8lml0s5gh1rl": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "6QyI9UC5rG8lml0s5gh1rl",
+                        "order": "0",
+                        "variant": "green",
+                        "url": "https://youtu.be/InKFf2cJqc8",
+                        "label": "Watch Now!"
+                    }
+                },
+                "displayTimer": false,
+                "timerTarget": "1713607227",
+                "hideTitle": false,
+                "background": {
+                    "small": {
+                        "title": "Screenshot 2024-04-17 at 11.57.15.png",
+                        "path": "/lqe2co20rkhw/7IVgg9Em2ICaJAjv3RaTqO/8bee783b4b687c09b85936c92d499b73/Screenshot_2024-04-17_at_11.57.15.png?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Screenshot 2024-04-17 at 11.57.15.png",
+                        "path": "/lqe2co20rkhw/7IVgg9Em2ICaJAjv3RaTqO/8bee783b4b687c09b85936c92d499b73/Screenshot_2024-04-17_at_11.57.15.png?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Screenshot 2024-04-17 at 11.57.15.png",
+                        "path": "/lqe2co20rkhw/7IVgg9Em2ICaJAjv3RaTqO/8bee783b4b687c09b85936c92d499b73/Screenshot_2024-04-17_at_11.57.15.png?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Screenshot 2024-04-17 at 11.57.15.png",
+                        "path": "/lqe2co20rkhw/7IVgg9Em2ICaJAjv3RaTqO/8bee783b4b687c09b85936c92d499b73/Screenshot_2024-04-17_at_11.57.15.png?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Screenshot 2024-04-17 at 11.57.15.png",
+                        "path": "/lqe2co20rkhw/7IVgg9Em2ICaJAjv3RaTqO/8bee783b4b687c09b85936c92d499b73/Screenshot_2024-04-17_at_11.57.15.png?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Screenshot 2024-04-17 at 11.57.15.png",
+                        "path": "/lqe2co20rkhw/7IVgg9Em2ICaJAjv3RaTqO/8bee783b4b687c09b85936c92d499b73/Screenshot_2024-04-17_at_11.57.15.png?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "5xwGTgqKYg1WXimwHnOKnx",
+                "metadata": {
+                    "id": "5xwGTgqKYg1WXimwHnOKnx",
+                    "publishedAt": "2024-04-08T11:34:49.236Z",
+                    "publishedVersion": 21
+                },
+                "targeting": null,
+                "postDate": "1711958411",
+                "sortDate": "1711958411",
+                "lang": "en",
+                "title": "Egypt Season",
+                "type": "eventEntry",
+                "ctas": {
+                    "6d4xEZuV2iI3aYShyQC0yB": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "6d4xEZuV2iI3aYShyQC0yB",
+                        "order": "0",
+                        "variant": "green",
+                        "url": "https://youtu.be/m8EtUFFdpss",
+                        "label": "Watch! "
+                    }
+                },
+                "displayTimer": false,
+                "timerTarget": "1713607227",
+                "hideTitle": true,
+                "background": {
+                    "small": {
+                        "title": "CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg",
+                        "path": "/lqe2co20rkhw/354qO0bNQoUbMbphpKkNdk/1f2ee179fec249cd0b7a5735e24be2ad/CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg",
+                        "path": "/lqe2co20rkhw/354qO0bNQoUbMbphpKkNdk/1f2ee179fec249cd0b7a5735e24be2ad/CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg",
+                        "path": "/lqe2co20rkhw/354qO0bNQoUbMbphpKkNdk/1f2ee179fec249cd0b7a5735e24be2ad/CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg",
+                        "path": "/lqe2co20rkhw/354qO0bNQoUbMbphpKkNdk/1f2ee179fec249cd0b7a5735e24be2ad/CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg",
+                        "path": "/lqe2co20rkhw/354qO0bNQoUbMbphpKkNdk/1f2ee179fec249cd0b7a5735e24be2ad/CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg",
+                        "path": "/lqe2co20rkhw/354qO0bNQoUbMbphpKkNdk/1f2ee179fec249cd0b7a5735e24be2ad/CoC_SC013_Egypt_EN_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            },
+            {
+                "id": "MQIjWnSkrNKu8-PNjIOWfjRM4by76fM50-UDIsI9RTY",
+                "metadata": {
+                    "id": "MQIjWnSkrNKu8-PNjIOWfjRM4by76fM50-UDIsI9RTY",
+                    "publishedAt": "2023-09-28T13:26:37.644Z",
+                    "publishedVersion": 1
+                },
+                "targeting": null,
+                "postDate": "1695907597",
+                "sortDate": "1695907597",
+                "lang": "en",
+                "title": "CoC Recruit",
+                "type": "eventEntry",
+                "ctas": {
+                    "3fPxtwgL75ACHank0H2cHc": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "3fPxtwgL75ACHank0H2cHc",
+                        "order": "0",
+                        "variant": "green",
+                        "url": "https://www.reddit.com/r/ClashOfClansRecruit/",
+                        "label": "Visit!"
+                    }
+                },
+                "displayTimer": false,
+                "timerTarget": "1713607227",
+                "hideTitle": true,
+                "background": {
+                    "small": {
+                        "title": "En 20170908 Coc Reqruit Banner 2",
+                        "path": "/lqe2co20rkhw/tkoFJgIRWVA9TaUPzakpSv9qDIevwBHzIib1TT_p6zU/59af1afcd1d2f17ceee9c59fe174c086/en_20170908_coc_reqruit_banner-2.jpg?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "En 20170908 Coc Reqruit Banner 2",
+                        "path": "/lqe2co20rkhw/tkoFJgIRWVA9TaUPzakpSv9qDIevwBHzIib1TT_p6zU/59af1afcd1d2f17ceee9c59fe174c086/en_20170908_coc_reqruit_banner-2.jpg?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "En 20170908 Coc Reqruit Banner 2",
+                        "path": "/lqe2co20rkhw/tkoFJgIRWVA9TaUPzakpSv9qDIevwBHzIib1TT_p6zU/59af1afcd1d2f17ceee9c59fe174c086/en_20170908_coc_reqruit_banner-2.jpg?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "En 20170908 Coc Reqruit Banner 2",
+                        "path": "/lqe2co20rkhw/tkoFJgIRWVA9TaUPzakpSv9qDIevwBHzIib1TT_p6zU/59af1afcd1d2f17ceee9c59fe174c086/en_20170908_coc_reqruit_banner-2.jpg?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "En 20170908 Coc Reqruit Banner 2",
+                        "path": "/lqe2co20rkhw/tkoFJgIRWVA9TaUPzakpSv9qDIevwBHzIib1TT_p6zU/59af1afcd1d2f17ceee9c59fe174c086/en_20170908_coc_reqruit_banner-2.jpg?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "En 20170908 Coc Reqruit Banner 2",
+                        "path": "/lqe2co20rkhw/tkoFJgIRWVA9TaUPzakpSv9qDIevwBHzIib1TT_p6zU/59af1afcd1d2f17ceee9c59fe174c086/en_20170908_coc_reqruit_banner-2.jpg?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                }
+            }
+        ],
+        "newsEntries": [
+            {
+                "id": "54nuZZa4bbvBe20T2fK4YU",
+                "index": 0,
+                "targeting": null,
+                "metadata": {
+                    "id": "54nuZZa4bbvBe20T2fK4YU",
+                    "publishedVersion": 32,
+                    "publishedAt": "2024-04-19T12:53:17.231Z"
+                },
+                "postDate": "1713528123",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "The State of the Game",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1713646800",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "3fodP1XpA4SZc8AIpT9w0a",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/9bw_tNO7qIg"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "CoC_InsideTheBuildersHut_thumb_final_01.png",
+                        "path": "/lqe2co20rkhw/3Dc7WAeHrQu9WHTCmh3FM5/0a5b871b3be3740d0ae4033098719f2f/CoC_InsideTheBuildersHut_thumb_final_01.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "CoC_InsideTheBuildersHut_thumb_final_01.png",
+                        "path": "/lqe2co20rkhw/3Dc7WAeHrQu9WHTCmh3FM5/0a5b871b3be3740d0ae4033098719f2f/CoC_InsideTheBuildersHut_thumb_final_01.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "CoC_InsideTheBuildersHut_thumb_final_01.png",
+                        "path": "/lqe2co20rkhw/3Dc7WAeHrQu9WHTCmh3FM5/0a5b871b3be3740d0ae4033098719f2f/CoC_InsideTheBuildersHut_thumb_final_01.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "CoC_InsideTheBuildersHut_thumb_final_01.png",
+                        "path": "/lqe2co20rkhw/3Dc7WAeHrQu9WHTCmh3FM5/0a5b871b3be3740d0ae4033098719f2f/CoC_InsideTheBuildersHut_thumb_final_01.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "CoC_InsideTheBuildersHut_thumb_final_01.png",
+                        "path": "/lqe2co20rkhw/3Dc7WAeHrQu9WHTCmh3FM5/0a5b871b3be3740d0ae4033098719f2f/CoC_InsideTheBuildersHut_thumb_final_01.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "CoC_InsideTheBuildersHut_thumb_final_01.png",
+                        "path": "/lqe2co20rkhw/3Dc7WAeHrQu9WHTCmh3FM5/0a5b871b3be3740d0ae4033098719f2f/CoC_InsideTheBuildersHut_thumb_final_01.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "IPSO7nXVxeSDU9dFd6xfo",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
+                    "id": "IPSO7nXVxeSDU9dFd6xfo",
+                    "publishedVersion": 39,
+                    "publishedAt": "2024-04-18T08:00:03.726Z"
+                },
+                "postDate": "1713427203",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Don't Break Your Streak! ",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1713474000",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "3sZUOjyhfbZMnl1P9HDXAb",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/-cbdStHgGkw"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "inbox streak event thumbnail.png",
+                        "path": "/lqe2co20rkhw/5JcdEBpTrGTpLA2MXQTCbr/46a559f543f23535bfd6180ecdfb25cb/inbox_streak_event_thumbnail.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "inbox streak event thumbnail.png",
+                        "path": "/lqe2co20rkhw/5JcdEBpTrGTpLA2MXQTCbr/46a559f543f23535bfd6180ecdfb25cb/inbox_streak_event_thumbnail.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "inbox streak event thumbnail.png",
+                        "path": "/lqe2co20rkhw/5JcdEBpTrGTpLA2MXQTCbr/46a559f543f23535bfd6180ecdfb25cb/inbox_streak_event_thumbnail.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "inbox streak event thumbnail.png",
+                        "path": "/lqe2co20rkhw/5JcdEBpTrGTpLA2MXQTCbr/46a559f543f23535bfd6180ecdfb25cb/inbox_streak_event_thumbnail.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "inbox streak event thumbnail.png",
+                        "path": "/lqe2co20rkhw/5JcdEBpTrGTpLA2MXQTCbr/46a559f543f23535bfd6180ecdfb25cb/inbox_streak_event_thumbnail.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "inbox streak event thumbnail.png",
+                        "path": "/lqe2co20rkhw/5JcdEBpTrGTpLA2MXQTCbr/46a559f543f23535bfd6180ecdfb25cb/inbox_streak_event_thumbnail.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "syfVfvob0gXKgEy5XCKRw",
+                "index": 2,
+                "targeting": null,
+                "metadata": {
+                    "id": "syfVfvob0gXKgEy5XCKRw",
+                    "publishedVersion": 55,
+                    "publishedAt": "2024-04-17T10:19:57.956Z"
+                },
+                "postDate": "1713340597",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Temperamental Tentacles Update!",
+                "categories": [
+                    {
+                        "title": "Release Notes",
+                        "color": "#007a00"
+                    }
+                ],
+                "newUntil": "1713456000",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "thumbnail_CoC_AprilUpdate24_16x9.png",
+                        "path": "/lqe2co20rkhw/3obNYWVm3NtZXYREWEevdN/6ef92ace0099009f90878f011ed9ef44/thumbnail_CoC_AprilUpdate24_16x9.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "thumbnail_CoC_AprilUpdate24_16x9.png",
+                        "path": "/lqe2co20rkhw/3obNYWVm3NtZXYREWEevdN/6ef92ace0099009f90878f011ed9ef44/thumbnail_CoC_AprilUpdate24_16x9.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "thumbnail_CoC_AprilUpdate24_16x9.png",
+                        "path": "/lqe2co20rkhw/3obNYWVm3NtZXYREWEevdN/6ef92ace0099009f90878f011ed9ef44/thumbnail_CoC_AprilUpdate24_16x9.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "thumbnail_CoC_AprilUpdate24_16x9.png",
+                        "path": "/lqe2co20rkhw/3obNYWVm3NtZXYREWEevdN/6ef92ace0099009f90878f011ed9ef44/thumbnail_CoC_AprilUpdate24_16x9.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "thumbnail_CoC_AprilUpdate24_16x9.png",
+                        "path": "/lqe2co20rkhw/3obNYWVm3NtZXYREWEevdN/6ef92ace0099009f90878f011ed9ef44/thumbnail_CoC_AprilUpdate24_16x9.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "thumbnail_CoC_AprilUpdate24_16x9.png",
+                        "path": "/lqe2co20rkhw/3obNYWVm3NtZXYREWEevdN/6ef92ace0099009f90878f011ed9ef44/thumbnail_CoC_AprilUpdate24_16x9.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "header angry jelly.png",
+                        "path": "/lqe2co20rkhw/5qlm2I1GOpKU6pzJKhoH8a/1fb49d13539a30f8a1f4288fbfec5aab/header_angry_jelly.png?w=390&h=160&f=center&fit=fill",
+                        "width": 390,
+                        "height": 160
+                    },
+                    "smallRetina": {
+                        "title": "header angry jelly.png",
+                        "path": "/lqe2co20rkhw/5qlm2I1GOpKU6pzJKhoH8a/1fb49d13539a30f8a1f4288fbfec5aab/header_angry_jelly.png?w=780&h=320&f=center&fit=fill",
+                        "width": 780,
+                        "height": 320
+                    },
+                    "medium": {
+                        "title": "header angry jelly.png",
+                        "path": "/lqe2co20rkhw/5qlm2I1GOpKU6pzJKhoH8a/1fb49d13539a30f8a1f4288fbfec5aab/header_angry_jelly.png?w=975&h=400&f=center&fit=fill",
+                        "width": 975,
+                        "height": 400
+                    },
+                    "mediumRetina": {
+                        "title": "header angry jelly.png",
+                        "path": "/lqe2co20rkhw/5qlm2I1GOpKU6pzJKhoH8a/1fb49d13539a30f8a1f4288fbfec5aab/header_angry_jelly.png?w=1170&h=480&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 480
+                    },
+                    "large": {
+                        "title": "header angry jelly.png",
+                        "path": "/lqe2co20rkhw/5qlm2I1GOpKU6pzJKhoH8a/1fb49d13539a30f8a1f4288fbfec5aab/header_angry_jelly.png?w=1560&h=640&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 640
+                    },
+                    "largeRetina": {
+                        "title": "header angry jelly.png",
+                        "path": "/lqe2co20rkhw/5qlm2I1GOpKU6pzJKhoH8a/1fb49d13539a30f8a1f4288fbfec5aab/header_angry_jelly.png?w=1950&h=800&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 800
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "Welcome to the Temperamental Tentacles Update!",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>Hello Chief! The Temperamental Tentacles update is LIVE and below you&#39;ll find everything you need to know about what&#39;s new in the game!</p>"
+                    },
+                    "1": {
+                        "title": null,
+                        "order": "1",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "TLDR Patch Notes (1).png",
+                                "path": "/lqe2co20rkhw/QXwQkE39DaG39rekDMxVW/964056cf7e0a446e4e4613852f244daf/TLDR_Patch_Notes__1_.png?w=400&h=400&f=center&fit=fill",
+                                "width": 400,
+                                "height": 400
+                            },
+                            "smallRetina": {
+                                "title": "TLDR Patch Notes (1).png",
+                                "path": "/lqe2co20rkhw/QXwQkE39DaG39rekDMxVW/964056cf7e0a446e4e4613852f244daf/TLDR_Patch_Notes__1_.png?w=800&h=800&f=center&fit=fill",
+                                "width": 800,
+                                "height": 800
+                            },
+                            "medium": {
+                                "title": "TLDR Patch Notes (1).png",
+                                "path": "/lqe2co20rkhw/QXwQkE39DaG39rekDMxVW/964056cf7e0a446e4e4613852f244daf/TLDR_Patch_Notes__1_.png?w=1000&h=1000&f=center&fit=fill",
+                                "width": 1000,
+                                "height": 1000
+                            },
+                            "mediumRetina": {
+                                "title": "TLDR Patch Notes (1).png",
+                                "path": "/lqe2co20rkhw/QXwQkE39DaG39rekDMxVW/964056cf7e0a446e4e4613852f244daf/TLDR_Patch_Notes__1_.png?w=1200&h=1200&f=center&fit=fill",
+                                "width": 1200,
+                                "height": 1200
+                            },
+                            "large": {
+                                "title": "TLDR Patch Notes (1).png",
+                                "path": "/lqe2co20rkhw/QXwQkE39DaG39rekDMxVW/964056cf7e0a446e4e4613852f244daf/TLDR_Patch_Notes__1_.png?w=1600&h=1600&f=center&fit=fill",
+                                "width": 1600,
+                                "height": 1600
+                            },
+                            "largeRetina": {
+                                "title": "TLDR Patch Notes (1).png",
+                                "path": "/lqe2co20rkhw/QXwQkE39DaG39rekDMxVW/964056cf7e0a446e4e4613852f244daf/TLDR_Patch_Notes__1_.png?w=2000&h=2000&f=center&fit=fill",
+                                "width": 2000,
+                                "height": 2000
+                            }
+                        }
+                    },
+                    "2": {
+                        "title": "Temperamental Tentacles - Full Patch Notes",
+                        "order": "2",
+                        "type": "textBlock",
+                        "body": "<h2><b>Introducing a Brand-New Pet: Angry Jelly!</b></h2><p>Angry Jelly is a flying Pet with a long-range attack.</p><ul><li><p>It&#39;s ability is called<i> Brainwash </i>and it forces the Hero to whom is &quot;attached&quot; to target Defenses only.</p></li><li><p>While \u201cattached\u201d to your Hero of choice, Angry Jelly cannot be targeted or damaged and won\u2019t trigger traps.</p></li><li><p>Once the &quot;attached&quot; Hero is eliminated or when its ability (Brainwash) ends, Angry Jelly becomes a normal troop and can be targeted and trigger traps.</p></li><li><p>Angry Jelly will be available to the players at Town Hall 16 and Level 10 Pet House.</p></li></ul><p>And now, here are the launch stats of Angry Jelly:\n</p><table><tr><th><p>Level</p></th><th><p>Upgrade Cost</p></th><th><p>Upgrade Duration (hours)</p></th><th><p>TH Required</p></th><th><p>Ability Duration (seconds)</p></th></tr><tr><td><p>1</p></td><td><p>-</p></td><td><p>-</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>25</p></td></tr><tr><td><p>2</p></td><td><p>225,000 DE</p></td><td><p>72</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>25</p></td></tr><tr><td><p>3</p></td><td><p>235,000 DE</p></td><td><p>96</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>25</p></td></tr><tr><td><p>4</p></td><td><p>245,000 DE</p></td><td><p>120</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>25</p></td></tr><tr><td><p>5</p></td><td><p>255,000 DE</p></td><td><p>144</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>30</p></td></tr><tr><td><p>6</p></td><td><p>265,000 DE</p></td><td><p>168</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>30</p></td></tr><tr><td><p>7</p></td><td><p>275,000 DE</p></td><td><p>192</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>30</p></td></tr><tr><td><p>8</p></td><td><p>285,000 DE</p></td><td><p>192</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>30</p></td></tr><tr><td><p>9</p></td><td><p>295,000 DE</p></td><td><p>192</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>30</p></td></tr><tr><td><p>10</p></td><td><p>315,000 DE</p></td><td><p>192</p></td><td><p>16 (Pet House lvl 10)</p></td><td><p>35</p></td></tr></table><h2><b>New and Updated Upgrade Levels!</b></h2><p>Chief! If you are longing for a fully upgraded village, you are in luck! Now, you can upgrade all your walls to Level 17.\u00a0</p><p>In addition, here are all the new Levels and their Upgrade Costs and Durations for Town Hall 16:</p><table><tr><th><p>Name</p></th><th><p>Level</p></th><th><p>New Upgrade Cost</p></th><th><p>New Upgrade Duration (hours)</p></th></tr><tr><td><p>Clan Castle</p></td><td><p>12</p></td><td><p>17,850.000 Elixir</p></td><td><p>372</p></td></tr><tr><td><p>Builder&#39;s Hut</p></td><td><p>6</p></td><td><p>20,000.000 Gold</p></td><td><p>360</p></td></tr><tr><td><p>Eagle Artillery</p></td><td><p>7</p></td><td><p>22,000.000 Gold</p></td><td><p>372</p></td></tr><tr><td><p>Monolith</p></td><td><p>3</p></td><td><p>370,000 DE</p></td><td><p>384</p></td></tr><tr><td><p>Pet House</p></td><td><p>10</p></td><td><p>21,500.000 Elixir</p></td><td><p>384</p></td></tr><tr><td><p>Yeti</p></td><td><p>6</p></td><td><p>21,000.000 Elixir</p></td><td><p>360</p></td></tr><tr><td><p>Ice Golem</p></td><td><p>8</p></td><td><p>360,000 DE</p></td><td><p>372</p></td></tr><tr><td><p>Electro Titan</p></td><td><p>4</p></td><td><p>22,000.000 Elixir</p></td><td><p>384</p></td></tr><tr><td><p>Flame Flinger</p></td><td><p>5</p></td><td><p>19,000.000 Elixir</p></td><td><p>324</p></td></tr></table><h2><b>Streak Event is here!</b> <b>START DATE: APRIL 18, 0800 UTC</b></h2><p>Welcome to the Streak Event!</p><p>From April 18th, each day, your daily attacks will fill in the Destruction % and indicate the required Stars for this challenge!</p><ul><li><p>Complete challenges each day, collect rewards, and gain additional League Bonus boosts</p></li><li><p>Should you fail challenges in the given time frame, your Streak is lost, and you cannot continue</p></li><li><p>However, you can spend Gems to continue the streak or reset your Streak to the beginning</p></li><li><p>You will also be able to Rush your Streaks by opening the following-day challenges ahead of time via Gems</p></li></ul><p>The Streak Event will be available to all players from Town Hall 8 and above.</p><h2><b>Clan Chat Tagging!</b></h2><p>Clan members can now tag others! Tag your Clan Leaders and everyone in the Clan to attract their attention.</p><ul><li><p>@clan notifies everyone in the Clan</p></li><li><p>@leaders notifies all Co-Leaders and the Leader</p></li><li><p>@player_name notifies specific player</p></li></ul><p>Players can disable receiving notifications in Settings &gt; More Settings &gt; Notification Settings &gt; Clan Chat Tagging. It is worth noting that this setting is not based on device but player avatar, so if a player has multiple accounts they each have a different setting. This setting is enabled by default.</p><h2><b>Clan Castle with 2 Siege Machine donations</b></h2><p>The new Clan Castle level will allow players to ask for 2 Siege Machine upgrades. This is how it works:</p><ul><li><p>Players may ask for up to two siege machines, and can ask for 2 of the same or 2 different ones</p></li><li><p>A single clan mate may donate up to two siege machines depending on the Clan Perks they have</p><ul><li><p>2 clan mates can also each donate one</p></li></ul></li><li><p>During battle, both siege machines donated will show up as options to be picked, even if they are the same machine</p></li></ul><h2><b>Defensive Layout for Builder Base!</b></h2><p>Just like in Clan Capital, it\u2019s now possible to select separate Defensive Layout in Builder Base!</p><ul><li><p>You can decorate the active layout without disadvantaging yourself in defense</p></li><li><p>You can prevent others from copying your defensive layout simply by visiting</p></li></ul><p>The Defensive Layout must contain all buildings and traps that are placed in the active layout. Defensive Layout is unselected when:</p><ul><li><p>Editing Defensive Layout directly and saving it without placing all buildings and traps</p></li><li><p>Placing an unplaced building or trap in the active layout</p></li><li><p>Buying a building or trap from Shop</p></li></ul><p>Note that Defensive Layout is temporarily disabled but not automatically unselected if obstacles that grow to the active layout block some buildings and traps. In such a case, you can re-enable the layout simply by removing the offending obstacles.</p><h2><b>Clan Games</b></h2><ul><li><p>Selection weight of certain Builder Base tasks has been reduced when randomizing tasks which increases the likelihood of showing more Home Village tasks.</p></li></ul><h2><b>Quality of life improvements</b></h2><ul><li><p>Applied Star Bonus multipliers from events and Town Hall upgrades to Ore as well\u00a0</p></li><li><p>Grand Warden is less likely to follow Headhunters now</p></li><li><p>The Barbarian Puppet Hero Equipment now displays the Rage duration and damage increase gained by Barbarians spawned</p></li><li><p>The Laboratory shows a second progress bar for the Goblin Researcher</p></li></ul><h3><b>Clan Perks</b></h3><p>Considerably buffed the clan perks to allow each individual player to donate more troops:</p><table><tr><th><p>Clan Level</p></th><th><p>Troop Donation Limit</p></th><th><p>Spell Donation Limit</p></th><th><p>Siege Machine Donation Limit</p></th></tr><tr><td><p>1-2</p></td><td><p>6</p></td><td><p>1</p></td><td><p>1</p></td></tr><tr><td><p>3</p></td><td><p>8</p></td><td><p>1</p></td><td><p>1</p></td></tr><tr><td><p>4-5</p></td><td><p>10</p></td><td><p>2</p></td><td><p>1</p></td></tr><tr><td><p>6-7</p></td><td><p>20</p></td><td><p>2</p></td><td><p>2</p></td></tr><tr><td><p>8</p></td><td><p>30</p></td><td><p>3</p></td><td><p>2</p></td></tr><tr><td><p>9-all others</p></td><td><p>50</p></td><td><p>3</p></td><td><p>2</p></td></tr></table><h2><b>Bug Fixes</b></h2><ul><li><p>Fix bug which caused spawning of obstacles with smaller gem amounts than normal</p></li><li><p>Fireball should now damage both ground and air, whatever it is aiming at. It was previously only damaging ground buildings and troops if it targeted anything on the ground, and if it targeted an air troop, it would only damage air</p></li><li><p>Fix for a visual bug when Overgrowth and Invisibility spells are applied at the same time</p></li><li><p>Fix for traps remaining invisible when Freeze or Overgrowth spells are applied in the area</p></li><li><p>Fix building base to match scenery in Builder Base after canceling layout editing</p></li><li><p>Flying 3D characters&#39; health bar is slightly higher</p></li><li><p>Flying Warden does not jump over walls anymore</p></li><li><p>Fix villager shadow being on top of buildings</p></li><li><p>Royal Champion\u2019s attacks doing less damage when the Haste Vial ability is active</p></li></ul><h2><b>Clan Capital</b></h2><ul><li><p>Increase loot limit per attack from 5333 to 6100 in Capital trophy calculations</p></li><li><p>Scale defensive bonus based on remaining hitpoints for deployed units</p></li></ul><h2>Clan Wars Changes</h2><ul><li><p>Almost maxed Town Hall 16 Villages now receive 6 Starry Ore instead 5 Starry Ore</p></li><li><p>Clan Wars rewards for losing from 43% to 50% and rewards for a tie from 50% to 57% apply to both resources and ore gains</p></li><li><p>35 vs 35 and 45 vs 45 Wars are now enabled</p></li><li><p>Hero Equipment is now taken into account in attacks when matchmaking in addition to Town Hall levels</p></li><li><p>War roster selection screen now displays each clan member\u2019s last seen online time</p></li><li><p>Clan War signup changes:</p><ul><li><p>Clan Leaders and Co-Leaders can post a Clan War sign-up in Clan Chat. You can do so from the War Map, next to the \u201cStart war\u201d button</p></li><li><p>There can be only one sign-up item in the chat at the same time</p></li><li><p>Sign-ups in chat are only available in regular Clan Wars and not in Clan War League or in Friendly Wars</p></li><li><p>Every Clan member can choose to opt in or out from the next war</p></li><li><p>Sign-ups can be pinned and won\u2019t be removed until the next war begins</p></li></ul></li></ul><h2><b>Balance Changes</b></h2><ul><li><p>Haste Vial Attack Speed adjustments:</p></li></ul><table><tr><th><p>Level</p></th><th><p>Old Attack Speed Increase</p></th><th><p>New Attack Speed Increase</p></th></tr><tr><td><p>9</p></td><td><p>11\n</p></td><td><p>10</p></td></tr><tr><td><p>10</p></td><td><p>12\n</p></td><td><p>11</p></td></tr><tr><td><p>11</p></td><td><p>13</p></td><td><p>12</p></td></tr><tr><td><p>12</p></td><td><p>13\n</p></td><td><p>12</p></td></tr><tr><td><p>13</p></td><td><p>14\n</p></td><td><p>13</p></td></tr><tr><td><p>14</p></td><td><p>15\n</p></td><td><p>14</p></td></tr><tr><td><p>15</p></td><td><p>15\n</p></td><td><p>14</p></td></tr><tr><td><p>16</p></td><td><p>16\n</p></td><td><p>15</p></td></tr><tr><td><p>17</p></td><td><p>17\n</p></td><td><p>16</p></td></tr><tr><td><p>18</p></td><td><p>18\n</p></td><td><p>16</p></td></tr></table><p>Clash ON!</p>"
+                    }
+                }
+            },
+            {
+                "id": "1oUHs1NeCc1UnDdAA3x9b6",
+                "index": 3,
+                "targeting": null,
+                "metadata": {
+                    "id": "1oUHs1NeCc1UnDdAA3x9b6",
+                    "publishedVersion": 14,
+                    "publishedAt": "2024-04-04T16:18:25.925Z"
+                },
+                "postDate": "1712148240",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Guide on how to complete the Golden Sand and 3-Starry Nights Challenge!",
+                "categories": [
+                    {
+                        "title": "Community",
+                        "color": "#b35f8c"
+                    }
+                ],
+                "newUntil": "1712178000",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "717Smkjss5yXcYe8S7x3yY",
+                    "provider": "youtube",
+                    "url": "https://www.youtube.com/watch?v=vEM7bmfhihk&ab_channel=RHBasebuilding"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "vEM7bmfhihk-HD.jpg",
+                        "path": "/lqe2co20rkhw/76RsQ4B8OXn6SbQqKum6Tk/cc32bee9a885f96b4cff680efb20b775/vEM7bmfhihk-HD.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "vEM7bmfhihk-HD.jpg",
+                        "path": "/lqe2co20rkhw/76RsQ4B8OXn6SbQqKum6Tk/cc32bee9a885f96b4cff680efb20b775/vEM7bmfhihk-HD.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "vEM7bmfhihk-HD.jpg",
+                        "path": "/lqe2co20rkhw/76RsQ4B8OXn6SbQqKum6Tk/cc32bee9a885f96b4cff680efb20b775/vEM7bmfhihk-HD.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "vEM7bmfhihk-HD.jpg",
+                        "path": "/lqe2co20rkhw/76RsQ4B8OXn6SbQqKum6Tk/cc32bee9a885f96b4cff680efb20b775/vEM7bmfhihk-HD.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "vEM7bmfhihk-HD.jpg",
+                        "path": "/lqe2co20rkhw/76RsQ4B8OXn6SbQqKum6Tk/cc32bee9a885f96b4cff680efb20b775/vEM7bmfhihk-HD.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "vEM7bmfhihk-HD.jpg",
+                        "path": "/lqe2co20rkhw/76RsQ4B8OXn6SbQqKum6Tk/cc32bee9a885f96b4cff680efb20b775/vEM7bmfhihk-HD.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "3KKTHgN2ZJpwR4wb5L9JTT",
+                "index": 4,
+                "targeting": null,
+                "metadata": {
+                    "id": "3KKTHgN2ZJpwR4wb5L9JTT",
+                    "publishedVersion": 48,
+                    "publishedAt": "2024-04-04T08:28:53.263Z"
+                },
+                "postDate": "1711980004",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "OUR \ud83d\udca5 BIGGEST Update Yet is HERE!",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1712073600",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "1gvmMqvsKFKZM1tbqCN0eS",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/GSXoB9DatQ0"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "AprilFools-thumb-final-02.jpg",
+                        "path": "/lqe2co20rkhw/4FKBBJzMlKdEDINqUwcBPF/699bbf42603e00fa987dd82626bdef09/AprilFools-thumb-final-02.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "AprilFools-thumb-final-02.jpg",
+                        "path": "/lqe2co20rkhw/4FKBBJzMlKdEDINqUwcBPF/699bbf42603e00fa987dd82626bdef09/AprilFools-thumb-final-02.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "AprilFools-thumb-final-02.jpg",
+                        "path": "/lqe2co20rkhw/4FKBBJzMlKdEDINqUwcBPF/699bbf42603e00fa987dd82626bdef09/AprilFools-thumb-final-02.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "AprilFools-thumb-final-02.jpg",
+                        "path": "/lqe2co20rkhw/4FKBBJzMlKdEDINqUwcBPF/699bbf42603e00fa987dd82626bdef09/AprilFools-thumb-final-02.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "AprilFools-thumb-final-02.jpg",
+                        "path": "/lqe2co20rkhw/4FKBBJzMlKdEDINqUwcBPF/699bbf42603e00fa987dd82626bdef09/AprilFools-thumb-final-02.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "AprilFools-thumb-final-02.jpg",
+                        "path": "/lqe2co20rkhw/4FKBBJzMlKdEDINqUwcBPF/699bbf42603e00fa987dd82626bdef09/AprilFools-thumb-final-02.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "5ik1ibvg7fuJtc5i6ogQmC",
+                "index": 5,
+                "targeting": null,
+                "metadata": {
+                    "id": "5ik1ibvg7fuJtc5i6ogQmC",
+                    "publishedVersion": 21,
+                    "publishedAt": "2024-03-29T13:08:06.506Z"
+                },
+                "postDate": "1711717202",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "FREE Wall Ring!",
+                "categories": [
+                    {
+                        "title": "Community",
+                        "color": "#b35f8c"
+                    }
+                ],
+                "newUntil": "1711836000",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "4MhyYpMaZGqjnQRTO6Eyu9",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/9wn_oP8-5_0"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "COC_English_JoyGlob_target_0s_16x9_V1.jpg",
+                        "path": "/lqe2co20rkhw/2GbDd02gAWtf7pWcpee7Ai/cef75f0f0b062648d4534a66bd4972bb/COC_English_JoyGlob_target_0s_16x9_V1.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "COC_English_JoyGlob_target_0s_16x9_V1.jpg",
+                        "path": "/lqe2co20rkhw/2GbDd02gAWtf7pWcpee7Ai/cef75f0f0b062648d4534a66bd4972bb/COC_English_JoyGlob_target_0s_16x9_V1.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "COC_English_JoyGlob_target_0s_16x9_V1.jpg",
+                        "path": "/lqe2co20rkhw/2GbDd02gAWtf7pWcpee7Ai/cef75f0f0b062648d4534a66bd4972bb/COC_English_JoyGlob_target_0s_16x9_V1.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "COC_English_JoyGlob_target_0s_16x9_V1.jpg",
+                        "path": "/lqe2co20rkhw/2GbDd02gAWtf7pWcpee7Ai/cef75f0f0b062648d4534a66bd4972bb/COC_English_JoyGlob_target_0s_16x9_V1.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "COC_English_JoyGlob_target_0s_16x9_V1.jpg",
+                        "path": "/lqe2co20rkhw/2GbDd02gAWtf7pWcpee7Ai/cef75f0f0b062648d4534a66bd4972bb/COC_English_JoyGlob_target_0s_16x9_V1.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "COC_English_JoyGlob_target_0s_16x9_V1.jpg",
+                        "path": "/lqe2co20rkhw/2GbDd02gAWtf7pWcpee7Ai/cef75f0f0b062648d4534a66bd4972bb/COC_English_JoyGlob_target_0s_16x9_V1.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "6uho6ParOVU1NCTcy7yods",
+                "index": 6,
+                "targeting": null,
+                "metadata": {
+                    "id": "6uho6ParOVU1NCTcy7yods",
+                    "publishedVersion": 75,
+                    "publishedAt": "2024-03-27T06:07:59.640Z"
+                },
+                "postDate": "1711459869",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "New Balance Changes Incoming!",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1711814400",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Tw 20200619 Qol  Balance Changes Thumb 2",
+                        "path": "/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "Tw 20200619 Qol  Balance Changes Thumb 2",
+                        "path": "/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "Tw 20200619 Qol  Balance Changes Thumb 2",
+                        "path": "/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "Tw 20200619 Qol  Balance Changes Thumb 2",
+                        "path": "/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "Tw 20200619 Qol  Balance Changes Thumb 2",
+                        "path": "/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "Tw 20200619 Qol  Balance Changes Thumb 2",
+                        "path": "/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "Tw 20220624 Co C Balance Update 2",
+                        "path": "/lqe2co20rkhw/fAhIAyTE7SHX7EUHu1JhfipE-CBE6v4ilVkgKNJeF7w/540e40ad274ea478fef74807559fc8db/2107758170_1656067968.jpg?w=390&h=160&f=center&fit=fill",
+                        "width": 390,
+                        "height": 160
+                    },
+                    "smallRetina": {
+                        "title": "Tw 20220624 Co C Balance Update 2",
+                        "path": "/lqe2co20rkhw/fAhIAyTE7SHX7EUHu1JhfipE-CBE6v4ilVkgKNJeF7w/540e40ad274ea478fef74807559fc8db/2107758170_1656067968.jpg?w=780&h=320&f=center&fit=fill",
+                        "width": 780,
+                        "height": 320
+                    },
+                    "medium": {
+                        "title": "Tw 20220624 Co C Balance Update 2",
+                        "path": "/lqe2co20rkhw/fAhIAyTE7SHX7EUHu1JhfipE-CBE6v4ilVkgKNJeF7w/540e40ad274ea478fef74807559fc8db/2107758170_1656067968.jpg?w=975&h=400&f=center&fit=fill",
+                        "width": 975,
+                        "height": 400
+                    },
+                    "mediumRetina": {
+                        "title": "Tw 20220624 Co C Balance Update 2",
+                        "path": "/lqe2co20rkhw/fAhIAyTE7SHX7EUHu1JhfipE-CBE6v4ilVkgKNJeF7w/540e40ad274ea478fef74807559fc8db/2107758170_1656067968.jpg?w=1170&h=480&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 480
+                    },
+                    "large": {
+                        "title": "Tw 20220624 Co C Balance Update 2",
+                        "path": "/lqe2co20rkhw/fAhIAyTE7SHX7EUHu1JhfipE-CBE6v4ilVkgKNJeF7w/540e40ad274ea478fef74807559fc8db/2107758170_1656067968.jpg?w=1560&h=640&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 640
+                    },
+                    "largeRetina": {
+                        "title": "Tw 20220624 Co C Balance Update 2",
+                        "path": "/lqe2co20rkhw/fAhIAyTE7SHX7EUHu1JhfipE-CBE6v4ilVkgKNJeF7w/540e40ad274ea478fef74807559fc8db/2107758170_1656067968.jpg?w=1950&h=800&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 800
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "Hey Chief!",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>We\u2019ve got some balance changes we\u2019ll be implementing in an upcoming maintenance. The coming balance changes will affect the Multi-Archer Towers, Root Riders, Apprentice Warden, and the fabulous Spirit Fox, see below the listed changes:</p><ul><li><p><b>Multi-Archer Tower:</b></p></li></ul><table><tr><th><p>Level </p></th><th><p>Old Damage\nPer Second</p></th><th><p>New Damage Per\nSecond</p></th><th><p>Town Hall</p></th></tr><tr><td><p>1</p></td><td><p>110 DPS</p></td><td><p>120 DPS</p></td><td><p>16</p></td></tr><tr><td><p>2</p></td><td><p>120 DPS</p></td><td><p>130 DPS</p></td><td><p>16</p></td></tr></table><p><b></b></p><ul><li><p><b>Root Rider:</b></p></li></ul><table><tr><th><p>Level</p></th><th><p>Old Damage Per Second</p></th><th><p>New Damage Per Second</p></th><th><p>Old Hitpoints</p></th><th><p>New Hitpoints</p></th><th><p>Town Hall</p></th></tr><tr><td><p>1</p></td><td><p>210 DPS</p></td><td><p>190 DPS</p></td><td><p>6650 HP</p></td><td><p>6300 HP</p></td><td><p>15</p></td></tr><tr><td><p>2</p></td><td><p>230 DPS</p></td><td><p>210 DPS</p></td><td><p>7050 HP</p></td><td><p>6650 HP</p></td><td><p>15</p></td></tr><tr><td><p>3</p></td><td><p>250 DPS</p></td><td><p>230 DPS</p></td><td><p>7400 HP</p></td><td><p>7000 HP</p></td><td><p>16</p></td></tr></table><p></p><ul><li><p><b>Apprentice Warden:</b></p></li></ul><table><tr><th><p>Level</p></th><th><p>Old Aura HP Increase</p></th><th><p>New Aura HP Increase</p></th><th><p>Town Hall</p></th></tr><tr><td><p>1</p></td><td><p>24%</p></td><td><p>20%</p></td><td><p>13</p></td></tr><tr><td><p>2</p></td><td><p>26%</p></td><td><p>22%</p></td><td><p>13</p></td></tr><tr><td><p>3</p></td><td><p>28%</p></td><td><p>24%</p></td><td><p>14</p></td></tr><tr><td><p>4</p></td><td><p>30%</p></td><td><p>26%</p></td><td><p>14</p></td></tr></table><p><b></b></p><ul><li><p><b>Spirit Fox:</b></p><ul><li><p>Increased visible time at all levels to 6 seconds</p></li></ul></li></ul><p>Because the listed changes will affect game mechanics, all replays might be wiped during the upcoming maintenance, we apologize for the inconvenience!</p><p>Clash ON!</p>"
+                    }
+                }
+            },
+            {
+                "id": "3IbcmXhHUgceTorFtXWLh5",
+                "index": 7,
+                "targeting": null,
+                "metadata": {
+                    "id": "3IbcmXhHUgceTorFtXWLh5",
+                    "publishedVersion": 56,
+                    "publishedAt": "2024-03-11T06:00:03.609Z"
+                },
+                "postDate": "1710136803",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Super Dragon Spotlight",
+                "categories": [
+                    {
+                        "title": "Release Notes",
+                        "color": "#007a00"
+                    }
+                ],
+                "newUntil": "1710540000",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "16x9_SUPERDRAGONTROOP.png",
+                        "path": "/lqe2co20rkhw/2rrAxUdn4gDKEIxiaz98cL/d8def60f72d51771f4cd79089af7893d/16x9_SUPERDRAGONTROOP.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "16x9_SUPERDRAGONTROOP.png",
+                        "path": "/lqe2co20rkhw/2rrAxUdn4gDKEIxiaz98cL/d8def60f72d51771f4cd79089af7893d/16x9_SUPERDRAGONTROOP.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "16x9_SUPERDRAGONTROOP.png",
+                        "path": "/lqe2co20rkhw/2rrAxUdn4gDKEIxiaz98cL/d8def60f72d51771f4cd79089af7893d/16x9_SUPERDRAGONTROOP.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "16x9_SUPERDRAGONTROOP.png",
+                        "path": "/lqe2co20rkhw/2rrAxUdn4gDKEIxiaz98cL/d8def60f72d51771f4cd79089af7893d/16x9_SUPERDRAGONTROOP.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "16x9_SUPERDRAGONTROOP.png",
+                        "path": "/lqe2co20rkhw/2rrAxUdn4gDKEIxiaz98cL/d8def60f72d51771f4cd79089af7893d/16x9_SUPERDRAGONTROOP.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "16x9_SUPERDRAGONTROOP.png",
+                        "path": "/lqe2co20rkhw/2rrAxUdn4gDKEIxiaz98cL/d8def60f72d51771f4cd79089af7893d/16x9_SUPERDRAGONTROOP.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "News-2.png",
+                        "path": "/lqe2co20rkhw/6T9zu447oAzrBpiUKiRZtJ/d77d95e66ebe87d3ac21ee2c44d45aa6/News-2.png?w=390&h=160&f=center&fit=fill",
+                        "width": 390,
+                        "height": 160
+                    },
+                    "smallRetina": {
+                        "title": "News-2.png",
+                        "path": "/lqe2co20rkhw/6T9zu447oAzrBpiUKiRZtJ/d77d95e66ebe87d3ac21ee2c44d45aa6/News-2.png?w=780&h=320&f=center&fit=fill",
+                        "width": 780,
+                        "height": 320
+                    },
+                    "medium": {
+                        "title": "News-2.png",
+                        "path": "/lqe2co20rkhw/6T9zu447oAzrBpiUKiRZtJ/d77d95e66ebe87d3ac21ee2c44d45aa6/News-2.png?w=975&h=400&f=center&fit=fill",
+                        "width": 975,
+                        "height": 400
+                    },
+                    "mediumRetina": {
+                        "title": "News-2.png",
+                        "path": "/lqe2co20rkhw/6T9zu447oAzrBpiUKiRZtJ/d77d95e66ebe87d3ac21ee2c44d45aa6/News-2.png?w=1170&h=480&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 480
+                    },
+                    "large": {
+                        "title": "News-2.png",
+                        "path": "/lqe2co20rkhw/6T9zu447oAzrBpiUKiRZtJ/d77d95e66ebe87d3ac21ee2c44d45aa6/News-2.png?w=1560&h=640&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 640
+                    },
+                    "largeRetina": {
+                        "title": "News-2.png",
+                        "path": "/lqe2co20rkhw/6T9zu447oAzrBpiUKiRZtJ/d77d95e66ebe87d3ac21ee2c44d45aa6/News-2.png?w=1950&h=800&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 800
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "The Super Dragon Spotlight Event Is Here!",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>Summer isn\u2019t here yet, but things are about to get hot with the new Super Dragon Spotlight event!</p><p></p><p>The Super Dragon Spotlight is this month\u2019s seasonal event - for players that are Town Hall 8 and up - with in-game activities to unlock special rewards, and earn Super Medals, to acquire the Epic Hero Equipment, Fireball!</p><p></p><p><b>Event Dates:</b></p><p><b>Super Dragon Spotlight Event starts:</b></p><ul><li><p>Date: Monday, March 11th, 2024</p></li><li><p>Time: 8am UTC/10am Helsinki time</p></li></ul><p>\n<b>Super Dragon Spotlight Event Ends</b></p><ul><li><p>Date: Thursday, March 21st, 2024</p></li><li><p>Time: 8am UTC/10am Helsinki time</p></li></ul><p>\nHowever, like previous seasonal events, you\u2019ll be able to continue accessing the Trader\u2019s Event tab and the Super Ice Bath until it closes up shop on Saturday, March 23rd at 8am UTC/10am Helsinki time.</p><p></p><p><b>Super Dragon Spotlight Resource: Ice Cubes</b></p><p>Since Super Dragons will be delivering heat throughout the event you\u2019ll need to collect Ice Cubes to cool things down! By raiding other players in Multiplayer Battles you\u2019ll earn Ice Cubes. The Ice Cubes collected are based on how many Stars you earn. By using Super Dragons in your attacks you\u2019ll earn bonus Ice Cubes at the end of each attack! Additionally, you\u2019ll be able to regularly collect this resource from your Super Ice Bath, the event building. The more Ice Cubes you collect, the more rewards you\u2019ll unlock, such as Ores, Decorations, and more! </p><p></p><p><b>What\u2019s better than regular Medals? Super Medals!\u00a0</b></p><p>Collecting Ice Cubes will allow you to unlock special Super Dragon Spotlight rewards, including Super Medals - this event\u2019s currency that you can spend at the Trader\u2019s Shop. Use your Super Medals to purchase a unique seasonal Decoration. resources such as Ores for your Hero Equipment, Magic Items, and more. The top-tier item we know you\u2019ll all be grinding for is Fireball, the new Epic Hero Equipment!\u00a0</p><p></p><p><b>Epic Hero Equipment: Fireball</b></p><p>Grand Warden has had enough and is ready to cause some damage, literally. When equipped, the Grand Warden will shoot a gigantic Fireball at the nearest defense doing high damage in a big area around it.</p><p>\nAbility: Active</p><ul><li><p>Area Damage</p></li></ul><table><tr><th><p><b>Level</b> </p></th><th><p><b>Hero DPS Increase</b> </p></th><th><p><b>Damage</b> </p></th><th><p><b>Damage</b> <b>Area: Tiles </b> </p></th><th><p><b>Shiny Ore</b> </p></th><th><p><b>Glowy Ore</b> </p></th><th><p><b>Starry Ore</b> </p></th><th><p><b>Blacksmith Level</b> </p></th></tr><tr><td><p>1</p></td><td><p>21</p></td><td><p>1500</p></td><td><p>4</p></td><td><p>N/A</p></td><td><p>N/A</p></td><td><p>N/A</p></td><td><p>1</p></td></tr><tr><td><p>2</p></td><td><p>24</p></td><td><p>1500</p></td><td><p>4</p></td><td><p>120</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>3</p></td><td><p>27</p></td><td><p>1700</p></td><td><p>4</p></td><td><p>240</p></td><td><p>20</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>4</p></td><td><p>30</p></td><td><p>1700</p></td><td><p>4</p></td><td><p>400</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>5</p></td><td><p>33</p></td><td><p>1800</p></td><td><p>4</p></td><td><p>600</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>6</p></td><td><p>36</p></td><td><p>1950</p></td><td><p>4</p></td><td><p>840</p></td><td><p>100</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>7</p></td><td><p>40</p></td><td><p>1950</p></td><td><p>4</p></td><td><p>1120</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>8</p></td><td><p>44</p></td><td><p>2050</p></td><td><p>4</p></td><td><p>1440</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>9</p></td><td><p>47</p></td><td><p>2200</p></td><td><p>5</p></td><td><p>1800</p></td><td><p>200</p></td><td><p>10</p></td><td><p>1</p></td></tr><tr><td><p>101</p></td><td><p>51</p></td><td><p>2200</p></td><td><p>5</p></td><td><p>1900</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>11</p></td><td><p>56</p></td><td><p>2350</p></td><td><p>5</p></td><td><p>2000</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>12</p></td><td><p>60</p></td><td><p>2650</p></td><td><p>5</p></td><td><p>2100</p></td><td><p>400</p></td><td><p>20</p></td><td><p>1</p></td></tr><tr><td><p>13</p></td><td><p>63</p></td><td><p>2650</p></td><td><p>5</p></td><td><p>2200</p></td><td><p>0</p></td><td><p>0</p></td><td><p>3</p></td></tr><tr><td><p>14</p></td><td><p>67</p></td><td><p>2750</p></td><td><p>5</p></td><td><p>2300</p></td><td><p>0</p></td><td><p>0</p></td><td><p>3</p></td></tr><tr><td><p>15</p></td><td><p>71</p></td><td><p>3100</p></td><td><p>5</p></td><td><p>2400</p></td><td><p>600</p></td><td><p>30</p></td><td><p>3</p></td></tr><tr><td><p>16</p></td><td><p>74</p></td><td><p>3100</p></td><td><p>5</p></td><td><p>2500</p></td><td><p>0</p></td><td><p>0</p></td><td><p>5</p></td></tr><tr><td><p>17</p></td><td><p>77</p></td><td><p>3250</p></td><td><p>5</p></td><td><p>2600</p></td><td><p>0</p></td><td><p>0</p></td><td><p>5</p></td></tr><tr><td><p>18</p></td><td><p>80</p></td><td><p>3400</p></td><td><p>6</p></td><td><p>2700</p></td><td><p>600</p></td><td><p>50</p></td><td><p>5</p></td></tr><tr><td><p>19</p></td><td><p>82</p></td><td><p>3400</p></td><td><p>6</p></td><td><p>2800</p></td><td><p>0</p></td><td><p>0</p></td><td><p>7</p></td></tr><tr><td><p>20</p></td><td><p>84</p></td><td><p>3500</p></td><td><p>6</p></td><td><p>2900</p></td><td><p>0</p></td><td><p>0</p></td><td><p>7</p></td></tr><tr><td><p>21</p></td><td><p>87</p></td><td><p>3650</p></td><td><p>6</p></td><td><p>3000</p></td><td><p>600</p></td><td><p>100</p></td><td><p>7</p></td></tr><tr><td><p>22</p></td><td><p>89</p></td><td><p>3650</p></td><td><p>6</p></td><td><p>3100</p></td><td><p>0</p></td><td><p>0</p></td><td><p>7</p></td></tr><tr><td><p>23</p></td><td><p>92</p></td><td><p>3750</p></td><td><p>6</p></td><td><p>3200</p></td><td><p>0</p></td><td><p>0</p></td><td><p>7</p></td></tr><tr><td><p>24</p></td><td><p>94</p></td><td><p>3900</p></td><td><p>6</p></td><td><p>3300</p></td><td><p>600</p></td><td><p>120</p></td><td><p>7</p></td></tr><tr><td><p>25</p></td><td><p>96</p></td><td><p>3900</p></td><td><p>6</p></td><td><p>3400</p></td><td><p>0</p></td><td><p>0</p></td><td><p>9</p></td></tr><tr><td><p>26</p></td><td><p>99</p></td><td><p>3950</p></td><td><p>6</p></td><td><p>3500</p></td><td><p>0</p></td><td><p>0</p></td><td><p>9</p></td></tr><tr><td><p>27</p></td><td><p>100</p></td><td><p>4100</p></td><td><p>6</p></td><td><p>3600</p></td><td><p>600</p></td><td><p>150</p></td><td><p>9</p></td></tr></table><p></p><p><b>Super Dragon Spotlight Event Pass</b></p><p>The Super Dragon Spotlight Event Pass is your way to maximize the amount of rewards you can unlock and collect during this seasonal event. Like the Gold Pass, the Event Pass is a paid feature that is specific to this Event and has a free and a premium reward track. Once you\u2019ve purchased the Event Pass, as you collect Ice Cubes you\u2019ll unlock the rewards that are both in the free and premium tracks.</p><p>\nEven if you do not purchase the Event Pass you\u2019ll still earn the rewards from the free reward track!</p><table><tr><th><p><b>Ice Cube Tier</b> </p></th><th><p><b>Free Rewards</b> </p></th><th><p><b>Event Pass Rewards</b> </p></th></tr><tr><td><p>80</p></td><td><p>Super Dragon</p></td><td><p>30 Glowy Ore</p></td></tr><tr><td><p>250</p></td><td><p>300 Super Medals</p></td><td><p>500 Super Medals</p></td></tr><tr><td><p>500</p></td><td><p>500 Shiny Ore</p></td><td><p>30 Glowy Ore</p></td></tr><tr><td><p>800</p></td><td><p>30% Training Boost</p></td><td><p>1050 Super Medals</p></td></tr><tr><td><p>1250</p></td><td><p>350 Super Medals</p></td><td><p>40 Glowy Ore</p></td></tr><tr><td><p>1700</p></td><td><p>10 Glowy Ore</p></td><td><p>500 Super Medals</p></td></tr><tr><td><p>2150</p></td><td><p>750 Shiny Ore</p></td><td><p>40 Glowy Ore</p></td></tr><tr><td><p>2600</p></td><td><p>25 Glowy Ore</p></td><td><p>1050 Super Medals</p></td></tr><tr><td><p>3050</p></td><td><p>550 Super Medals</p></td><td><p>60 Glowy Ore</p></td></tr><tr><td><p>3550</p></td><td><p>30 Glowy Ore</p></td><td><p>700 Super Medals</p></td></tr><tr><td><p>4050</p></td><td><p>1000 Shiny Ore</p></td><td><p>60 Glowy Ore</p></td></tr><tr><td><p>4550</p></td><td><p>50 Glowy Ore</p></td><td><p>15 Starry Ore</p></td></tr><tr><td><p>5050</p></td><td><p>600 Super Medals</p></td><td><p>80 Glowy Ore</p></td></tr><tr><td><p>5550</p></td><td><p>35 Glowy Ore</p></td><td><p>Stone Globe</p></td></tr><tr><td><p>6050</p></td><td><p>1250 Shiny Ore</p></td><td><p>80 Glowy Ore</p></td></tr><tr><td><p>6800</p></td><td><p>60 Glowy Ore</p></td><td><p>20 Starry Ore</p></td></tr><tr><td><p>7550</p></td><td><p>650 Super Medals</p></td><td><p>90 Glowy Ore</p></td></tr><tr><td><p>8350</p></td><td><p>40 Glowy Ore</p></td><td><p>1200 Super Medals</p></td></tr><tr><td><p>9150</p></td><td><p>700 Super Medals</p></td><td><p>90 Glowy Ore</p></td></tr><tr><td><p>10000</p></td><td><p>Goblin Explorer</p></td><td><p>45 Starry Ore</p></td></tr></table><p>\n<b>Bonus Reward Track</b></p><p>Once you\u2019ve completed the Super Dragon Spotlight reward track, there\u2019ll be an additional bonus track where you can earn additional rewards. This bonus reward track unlocks only once you\u2019ve completed the entire free reward track.</p><p></p><table><tr><th><p><b>Additional Ice Cubes Collected</b> </p></th><th><p><b>Bonus Reward</b> </p></th></tr><tr><td><p>1000</p></td><td><p>130 Super Medals </p></td></tr><tr><td><p>2000</p></td><td><p>130 Super Medals </p></td></tr><tr><td><p>4000</p></td><td><p>130 Super Medals </p></td></tr><tr><td><p>6000</p></td><td><p>130 Super Medals </p></td></tr><tr><td><p>8000</p></td><td><p>130 Super Medals </p></td></tr><tr><td><p>11000</p></td><td><p>130 Super Medals </p></td></tr><tr><td><p>14000</p></td><td><p>130 Super Medals </p></td></tr><tr><td><p>17000</p></td><td><p>130 Super Medals </p></td></tr><tr><td><p>20000</p></td><td><p>130 Super Medals </p></td></tr></table><p></p><p><b>Trader Rewards</b></p><p>The trader has also joined the heated fun and is offering his limited edition wares in exchange for your Super Medals. You can acquire a variety of goods from Magic Items, unique Decoration, Ores, and the Epic Fireball</p><table><tr><th><p><b>Item</b> </p></th><th><p><b>Super Medals</b> </p></th></tr><tr><td><p>Fireball Epic Hero Equipment</p></td><td><p>3100</p></td></tr><tr><td><p>Starry Ore x10</p></td><td><p>320</p></td></tr><tr><td><p>Glowy Ore x60</p></td><td><p>280</p></td></tr><tr><td><p>Shiny Ore x350</p></td><td><p>325</p></td></tr><tr><td><p>Clashy Crater</p></td><td><p>1025</p></td></tr><tr><td><p>Rune of Builder Elixir</p></td><td><p>3100</p></td></tr><tr><td><p>Rune of Builder Gold</p></td><td><p>3100</p></td></tr><tr><td><p>Rune of Elixir</p></td><td><p>3100</p></td></tr><tr><td><p>Rune of Gold</p></td><td><p>3100</p></td></tr><tr><td><p>Book of Spells</p></td><td><p>1900</p></td></tr><tr><td><p>Book of Building</p></td><td><p>1900</p></td></tr><tr><td><p>Book of Fighting</p></td><td><p>1900</p></td></tr><tr><td><p>Book of Heroes</p></td><td><p>1030</p></td></tr><tr><td><p>Super Potion</p></td><td><p>310</p></td></tr><tr><td><p>Shovel of Obstacles</p></td><td><p>1030</p></td></tr><tr><td><p>Builder Potion</p></td><td><p>590</p></td></tr><tr><td><p>Wall Ring x5</p></td><td><p>515</p></td></tr><tr><td><p>Power Potion\u00a0</p></td><td><p>310</p></td></tr><tr><td><p>Research Potion</p></td><td><p>250</p></td></tr><tr><td><p>Pet Potion</p></td><td><p>250</p></td></tr><tr><td><p>Builder Star Jar</p></td><td><p>200</p></td></tr><tr><td><p>Resource Potion</p></td><td><p>240</p></td></tr><tr><td><p>Clock Tower Potion</p></td><td><p>150</p></td></tr><tr><td><p>Training Potion</p></td><td><p>50</p></td></tr><tr><td><p>Elixir x90K</p></td><td><p>15</p></td></tr><tr><td><p>Gold x90K1</p></td><td><p>15</p></td></tr></table><p>\n</p>"
+                    }
+                }
+            },
+            {
+                "id": "3bHav3e7nMGcxqSiw7O3ou",
+                "index": 8,
+                "targeting": null,
+                "metadata": {
+                    "id": "3bHav3e7nMGcxqSiw7O3ou",
+                    "publishedVersion": 44,
+                    "publishedAt": "2024-02-27T10:50:32.321Z"
+                },
+                "postDate": "1709031032",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "February 2024 Update - Patch Notes",
+                "categories": [
+                    {
+                        "title": "Release Notes",
+                        "color": "#007a00"
+                    }
+                ],
+                "newUntil": "1709157600",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png",
+                        "path": "/lqe2co20rkhw/2kBY2JRZdNRdZPhxbNuO9A/4af7f217267bc9e04553b1910098c54b/thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png",
+                        "path": "/lqe2co20rkhw/2kBY2JRZdNRdZPhxbNuO9A/4af7f217267bc9e04553b1910098c54b/thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png",
+                        "path": "/lqe2co20rkhw/2kBY2JRZdNRdZPhxbNuO9A/4af7f217267bc9e04553b1910098c54b/thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png",
+                        "path": "/lqe2co20rkhw/2kBY2JRZdNRdZPhxbNuO9A/4af7f217267bc9e04553b1910098c54b/thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png",
+                        "path": "/lqe2co20rkhw/2kBY2JRZdNRdZPhxbNuO9A/4af7f217267bc9e04553b1910098c54b/thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png",
+                        "path": "/lqe2co20rkhw/2kBY2JRZdNRdZPhxbNuO9A/4af7f217267bc9e04553b1910098c54b/thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "vidfeo.png",
+                        "path": "/lqe2co20rkhw/3Ymfzc6RlYZbd9CPlrnaOx/0b9cf7ec51b470aac17afaed7eeb5bd3/vidfeo.png?w=390&h=160&f=center&fit=fill",
+                        "width": 390,
+                        "height": 160
+                    },
+                    "smallRetina": {
+                        "title": "vidfeo.png",
+                        "path": "/lqe2co20rkhw/3Ymfzc6RlYZbd9CPlrnaOx/0b9cf7ec51b470aac17afaed7eeb5bd3/vidfeo.png?w=780&h=320&f=center&fit=fill",
+                        "width": 780,
+                        "height": 320
+                    },
+                    "medium": {
+                        "title": "vidfeo.png",
+                        "path": "/lqe2co20rkhw/3Ymfzc6RlYZbd9CPlrnaOx/0b9cf7ec51b470aac17afaed7eeb5bd3/vidfeo.png?w=975&h=400&f=center&fit=fill",
+                        "width": 975,
+                        "height": 400
+                    },
+                    "mediumRetina": {
+                        "title": "vidfeo.png",
+                        "path": "/lqe2co20rkhw/3Ymfzc6RlYZbd9CPlrnaOx/0b9cf7ec51b470aac17afaed7eeb5bd3/vidfeo.png?w=1170&h=480&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 480
+                    },
+                    "large": {
+                        "title": "vidfeo.png",
+                        "path": "/lqe2co20rkhw/3Ymfzc6RlYZbd9CPlrnaOx/0b9cf7ec51b470aac17afaed7eeb5bd3/vidfeo.png?w=1560&h=640&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 640
+                    },
+                    "largeRetina": {
+                        "title": "vidfeo.png",
+                        "path": "/lqe2co20rkhw/3Ymfzc6RlYZbd9CPlrnaOx/0b9cf7ec51b470aac17afaed7eeb5bd3/vidfeo.png?w=1950&h=800&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 800
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "February Update - Full Patch Notes",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>The first major update of 2024 for Clash of Clans is here! We\u2019re introducing a brand new Spell, new levels, balance changes, QoL improvements, and much more in this update. Dive in below for the full details of what\u2019s in this update!</p><p></p><p><b>New Spell: Overgrowth Spell</b></p><p>With the thawing of winter comes the sudden verdant bloom of spring, and Overgrowth Spell is here to usher in warmer weather\u2026and your Troops into the enemy\u2019s base.</p><p></p><p>Unlocked at Town Hall level 12 when you upgrade your Dark Spell Factory to level 6, this Dark Elixir Spell opens up whole new paths of strategies (literally)! When used, Overgrowth Spell renders enemy Defenses invisible, invulnerable, and frozen for the duration of its effect. This means attacking Troops will completely ignore Buildings and Defenses affected by Overgrowth Spell, allowing new ways for you to funnel and path your Troops!</p><p></p><p>However, Overgrowth Spell will not affect Heroes or Troops in the Clan Castle, nor does it prevent Clan Castle Troops from emerging! One additional detail is that Overgrowth Spell leaves tiny bits of debris that can be cleared by defending players when you tap them, like tombstones left behind by destroyed units.\u00a0</p><p></p><ul><li><p>Effect type: Area Splash</p></li><li><p>Targets: Ground &amp; Air</p></li><li><p>House space: 2</p></li><li><p>Brewing time: 6m</p></li></ul><table><tr><th><p>Level</p></th><th><p>Upgrade Cost</p></th><th><p>Upgrade Time</p></th><th><p>Spell Duration</p></th><th><p>TH Level</p></th></tr><tr><td><p>1</p></td><td><p>NA</p></td><td><p>NA</p></td><td><p>22s</p></td><td><p>12</p></td></tr><tr><td><p>2</p></td><td><p>125,000 DE</p></td><td><p>10d</p></td><td><p>24s</p></td><td><p>12</p></td></tr><tr><td><p>3</p></td><td><p>250,000 DE</p></td><td><p>12d</p></td><td><p>26s</p></td><td><p>14</p></td></tr><tr><td><p>4</p></td><td><p>350,000 DE</p></td><td><p>16d</p></td><td><p>28s</p></td><td><p>16\n</p></td></tr></table><p><b>\nNew Levels</b></p><p>Although we\u2019re introducing new Defense and Troop levels for Town Hall level 16 players, they aren\u2019t the only TH level to get new upgrades.</p><table><tr><th><p>Building</p></th><th><p>Level</p></th><th><p>Upgrade Cost</p></th><th><p>Upgrade Time</p></th><th><p>HP</p></th><th><p>DPS</p></th><th><p>Production Rate</p></th><th><p>Capacity</p></th><th><p>TH Level</p></th></tr><tr><td><p>Elixir Collector</p></td><td><p>16</p></td><td><p>2M Gold</p></td><td><p>4d</p></td><td><p>1350</p></td><td><p>NA</p></td><td><p>7000/hr</p></td><td><p>385K</p></td><td><p>14</p></td></tr><tr><td><p>Gold Mine</p></td><td><p>16</p></td><td><p>2M Elixir</p></td><td><p>4d</p></td><td><p>1350</p></td><td><p>NA</p></td><td><p>7000/hr</p></td><td><p>385K</p></td><td><p>14</p></td></tr><tr><td><p>Dark Elixir Drill</p></td><td><p>10</p></td><td><p>6M Elixir</p></td><td><p>8d</p></td><td><p>1550</p></td><td><p>NA</p></td><td><p>180/hr</p></td><td><p>4200</p></td><td><p>14</p></td></tr></table><table><tr><th><p>Building</p></th><th><p>Level</p></th><th><p>Upgrade Cost</p></th><th><p>Upgrade Time</p></th><th><p>HP</p></th><th><p>DPS</p></th><th><p>TH Level</p></th></tr><tr><td><p>Dark Spell Factory</p></td><td><p>6</p></td><td><p>5M Elixir</p></td><td><p>8d</p></td><td><p>950</p></td><td><p>NA</p></td><td><p>12</p></td></tr><tr><td><p>Hidden Tesla</p></td><td><p>15</p></td><td><p>20M Gold</p></td><td><p>14d</p></td><td><p>1550</p></td><td><p>170</p></td><td><p>16</p></td></tr><tr><td><p>Inferno Tower</p></td><td><p>10</p></td><td><p>22M Gold</p></td><td><p>14d 12h</p></td><td><p>4400</p></td><td><p>120/2600</p></td><td><p>16</p></td></tr><tr><td><p>Scattershot</p></td><td><p>5</p></td><td><p>22.5M Gold</p></td><td><p>15d</p></td><td><p>5410</p></td><td><p>190</p></td><td><p>16</p></td></tr><tr><td><p>Seeking Air Mine</p></td><td><p>6</p></td><td><p>14M Gold</p></td><td><p>12d 12h</p></td><td><p>NA</p></td><td><p>3000</p></td><td><p>16</p></td></tr></table><p>\n<b>New Troop Levels</b></p><table><tr><th><p>Troop</p></th><th><p>Level</p></th><th><p>Upgrade Cost</p></th><th><p>Upgrade Time</p></th><th><p>HP</p></th><th><p>DPS</p></th><th><p>TH Level</p></th><th><p>Lab Level</p></th></tr><tr><td><p>Minion</p></td><td><p>12</p></td><td><p>320K DE</p></td><td><p>14d</p></td><td><p>120</p></td><td><p>78</p></td><td><p>16</p></td><td><p>14</p></td></tr><tr><td><p>Hog Rider</p></td><td><p>13</p></td><td><p>350K DE</p></td><td><p>14d 12h</p></td><td><p>1380</p></td><td><p>213</p></td><td><p>16</p></td><td><p>14</p></td></tr><tr><td><p>Bowler</p></td><td><p>8</p></td><td><p>350K DE</p></td><td><p>15d</p></td><td><p>600</p></td><td><p>126</p></td><td><p>16</p></td><td><p>14</p></td></tr><tr><td><p>Baby Dragon</p></td><td><p>10</p></td><td><p>20M Elixir</p></td><td><p>15d</p></td><td><p>2100</p></td><td><p>165</p></td><td><p>16</p></td><td><p>14</p></td></tr><tr><td><p>Siege Barracks</p></td><td><p>5</p></td><td><p>18M Elixir</p></td><td><p>12d</p></td><td><p>4800</p></td><td><p>+ 1 PEKKA</p></td><td><p>16</p></td><td><p>14</p></td></tr><tr><td><p>Log Launcher</p></td><td><p>5</p></td><td><p>18M Elixir</p></td><td><p>12d</p></td><td><p>5500</p></td><td><p>220</p></td><td><p>16</p></td><td><p>14</p></td></tr></table><p><b>\nNew Electro Owl Levels</b></p><p>Everyone\u2019s favorite lightning-hurling hooter is getting several new levels.</p><table><tr><th><p>Level</p></th><th><p>Upgrade Cost</p></th><th><p>Upgrade Time</p></th><th><p>HP</p></th><th><p>DPS</p></th><th><p>TH Level</p></th><th><p>Pet House Level</p></th></tr><tr><td><p>11</p></td><td><p>230K DE</p></td><td><p>8d</p></td><td><p>2600</p></td><td><p>150</p></td><td><p>16</p></td><td><p>9</p></td></tr><tr><td><p>12</p></td><td><p>250K DE</p></td><td><p>8d</p></td><td><p>2700</p></td><td><p>155</p></td><td><p>16</p></td><td><p>9</p></td></tr><tr><td><p>13</p></td><td><p>265K DE</p></td><td><p>8d</p></td><td><p>2800</p></td><td><p>160</p></td><td><p>16</p></td><td><p>9</p></td></tr><tr><td><p>14</p></td><td><p>285K DE</p></td><td><p>8d</p></td><td><p>2900</p></td><td><p>165</p></td><td><p>16</p></td><td><p>9</p></td></tr><tr><td><p>15</p></td><td><p>300K DE</p></td><td><p>8d</p></td><td><p>3000</p></td><td><p>170</p></td><td><p>16</p></td><td><p>9</p></td></tr></table><p>\nTown Hall 16 players can now also upgrade an additional 100 Wall segments to level 17 (a total of 250 Wall segments).</p><p>The Blacksmith will now be upgraded with Elixir instead of Gold.\n</p><p><b>New Hero Equipment: Haste vial &amp; Hog Rider Puppet</b></p><p>We&#39;re also adding two new pieces of Hero Equipment for Royal Champion. She was feeling left out seeing all the other Heroes packing some sweet Hero Equipment.</p><p></p><p><b>Hog Rider Doll</b></p><ul><li><p>Unlocked at Blacksmith Level 7</p></li><li><p>Summons a team of Hog Riders to fight alongside you</p></li></ul><p><b>Haste Vial</b></p><ul><li><p>Unlocked at Blacksmith Level 8</p></li><li><p>Increased movement and attack speed for a few seconds</p></li></ul><p>\n</p><p><b>Clan Chat Improvements</b></p><p>Admittedly our Clan Chat was a *bit* outdated, so we gave it a visual and functionality upgrade. You\u2019ll now have a more enjoyable overall look and experience!\u00a0</p><p>\n</p><p><u>Pinned Messages</u></p><ul><li><p>Chat and system messages can now be pinned to the top of the Chat view.</p></li><li><p>There is also a new tab dedicated to pinned messages.</p></li><li><p>Only the Leader and Co-Leaders can pin a message.</p></li><li><p>Messages can be unpinned.</p></li></ul><p>\n<u>Reactions</u></p><ul><li><p>Players can now add emoji reactions to another player\u2019s message in Clan Chat!</p></li><li><p>You will be able to pick an emoji from the preset selection available.</p></li><li><p>Reactions and the amounts can be seen under each message.</p></li></ul><p>\n</p><p><b>QoL Improvements/Game Changes</b></p><ul><li><p>Progress Bars have been added back to the info screen.\u00a0</p><ul><li><p>The bars display progress towards the highest level achievable for that Town Hall level.</p></li><li><p>Celebrations from Reddit were heard around the globe.</p></li><li><p>World peace has been achieved.\u00a0</p></li></ul></li><li><p>Upgrade buttons have been clarified to use a specific Resource or Magic Item in order to reduce accidental usage of unintended Resources/Items.</p><ul><li><p>Tapping the button for a specific Resource or Magic Item will allow you to spend only that specific Resource or Item when upgrading.</p></li><li><p>Rabid fanfare from Reddit measured 7.2 on the Richter scale.\u00a0</p></li></ul></li><li><p>Attacking troops can now walk through Decorations &amp; Obstacles when in combat (except in Clan Capitals).\u00a0</p></li><li><p>Decorations don\u2019t prevent deploying troops on them anymore.</p></li><li><p>Players can play in a Friendly War and in a normal Clan War at the same time (in two different Clans)</p></li><li><p>If a Clan War ends in a &quot;perfect - perfect draw&quot;, neither clan loses their Win Streak</p></li><li><p>Bypass cooldown when setting up a Legend League defense layout after merging defenses</p></li><li><p>Leaders and Co-Leaders can now see the &quot;last seen&quot; timer for members up to a month (was up to a week)</p></li></ul><p>\n</p><p><b>Balance Changes</b></p><p>With great power comes the responsibility of balancing that power! Here are the balance changes for this patch:</p><p></p><ul><li><p>The Giant Arrow ability now travels a longer distance to make sure it crosses the entire village.</p><ul><li><p>We\u2019ll be on the lookout for Reddit videos saying how we\u2019re a quarter of a tile away from crossing the entire Village\u00a0</p></li></ul></li><li><p>Removed frost from Spirit Fox attacks</p></li><li><p>Summoners who have reached the maximum cap for the number of summoned units will summon new units quicker after falling below that cap</p></li><li><p>Super Archer:</p><ul><li><p>Level 11 reduced Hit Points to 575</p></li><li><p>Level 12 reduced Hit Points to 600</p></li></ul></li><li><p>Root Rider:</p><ul><li><p>Level 1 reduced Hit Points to 6650</p></li><li><p>Level 2 reduced Hit Points to 7050</p></li><li><p>Level 3 reduced Hit Points to 7400</p></li></ul></li><li><p>Super Barbarian:</p><ul><li><p>Level 10 reduced Hit Points to 1200</p></li><li><p>Level 11 reduced Hit Points to 1300</p></li><li><p>Level 12 reduced Hit Points to 1350</p></li></ul></li><li><p>Dragon:</p><ul><li><p>Level 11 increased Hit Points to 5300</p></li></ul></li><li><p>Electro Dragon:</p><ul><li><p>Level 6 increased Hit Points to 5200</p></li><li><p>Level 7 increased Hit Points to 5500</p></li></ul></li><li><p>Super Dragon:</p><ul><li><p>Level 10 increased Hit Points to 7200</p></li><li><p>Level 11 increased Hit Points to 7600</p></li></ul></li><li><p>Builder Base Drop Ship:\u00a0</p><ul><li><p>Increased attack range (0 \u2192 50)\u00a0</p></li><li><p>Reduced active ability\u2019s damage radius (300 \u2192 225)</p></li></ul></li><li><p>Builder Base Night Witch:</p><ul><li><p>Level 9 increased Hit Points to 750 and Bat Swarm bats to 7</p></li><li><p>Level 10 increased Hit Points to 750 and Bat Swarm bats to 7</p></li><li><p>Level 11 increased Hit Points to 830 and Bat Swarm bats to 7</p></li><li><p>Level 12 increased Hit Points to 830 and Bat Swarm bats to 8</p></li><li><p>Level 13 increased Hit Points to 915 and Bat Swarm bats to 8</p></li><li><p>Level 14 increased Hit Points to 915 and Bat Swarm bats to 8</p></li><li><p>Level 15 increased Hit Points to 1000 and Bat Swarm bats to 8</p></li><li><p>Level 16 increased Hit Points to 1000 and Bat Swarm bats to 9</p></li><li><p>Level 17 increased Hit Points to 1100 and Bat Swarm bats to 9</p></li><li><p>Level 18 increased Hit Points to 1100 and Bat Swarm bats to 10</p></li><li><p>Level 19 increased Hit Points to 1220 and Bat Swarm bats to 10</p></li><li><p>Level 20 increased Hit Points to 1220 and Bat Swarm bats to 11</p></li></ul></li><li><p>Clan Capital Super Miner</p><ul><li><p>Level 1 Hit Points decreased to 3300</p></li><li><p>Level 2 Hit Points decreased to 3500</p></li><li><p>Level 3 Hit Points decreased to 3700</p></li><li><p>Level 4 Hit Points decreased to 3900</p></li></ul></li></ul><p>\n<b>Bug Fixes</b></p><ul><li><p>Giant Gauntlet no longer makes Barbarian King invulnerable if it\u2019s used after Eternal Tome</p></li><li><p>Extra Damage of Invisibility Vial is no longer boosted by Rage.</p></li><li><p>Do not show Ricochet Cannon and Multi Archer Tower in the builder menu if they can&#39;t be upgraded</p></li><li><p>Select only non-maxed Army Camps when clicking on the recommended Army Camp upgrade item in the Town Hall upgrade confirm screen</p></li><li><p>Calculate damage of Grand Warden correctly. His damage output from equipment did not match the values shown on the info screen</p></li><li><p>Fix wrong unit levels in Builder Base challenge levels when the Builder Base tutorial is not completed</p></li><li><p>Fix Builder Base stars not accumulating if getting disconnected in the battle end screen</p></li><li><p>Display the defensive Grand Warden\u2019s range correctly when selecting his Altar (the radius of the circle was 0.13 tiles too small)</p></li><li><p>Passive effects from Grand Warden no longer disappear when he is revived by the Phoenix pet</p></li><li><p>Fix an issue that allowed summoning units (Witches, Dark Witches) to bypass their summoning cooldown under certain circumstances</p></li><li><p>Fix crash when trying to deploy Clan Castle troops more than 3 tiles out of play area bounds by not deploying them at all in such case</p></li><li><p>Fix Clan Capital units showing an empty info screen if you opened them via Capital Friendly Challenge from Home Village</p></li><li><p>Fix Home Village units using the old info screen if you opened them via Home Village Friendly Challenge from Builder Base</p></li><li><p>Fix rounding bugs from training time if multiple training time reduction perks were active at the same time</p></li><li><p>Fix Grand Warden sometimes dying through the auto ability even with Eternal Tome</p></li><li><p>Fix Archer Queen shooting two Giant Arrows when the ability is triggered during death at a specific time</p></li><li><p>Fix Royal Champion\u2019s Seeking Shield timing and animation</p></li><li><p>Fix the missing Super Potion button from Super Troop activation screen if it\u2019s opened via the Quick Train tab when the boost has run out</p></li><li><p>Add event completion notification into the Events button and remove it from the News button</p></li><li><p>Fix a visual bug in the Dragon Palace Scenery</p></li><li><p>Fix Builder Base Giant Cannon pushback being too strong</p></li></ul><p></p>"
+                    }
+                }
+            },
+            {
+                "id": "5Jm6pjSC8WkpbBYCb8s0nZ",
+                "index": 9,
+                "targeting": null,
+                "metadata": {
+                    "id": "5Jm6pjSC8WkpbBYCb8s0nZ",
+                    "publishedVersion": 14,
+                    "publishedAt": "2024-03-05T13:00:49.949Z"
+                },
+                "postDate": "1708952403",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "New Spell! ",
+                "categories": [
+                    {
+                        "title": "Game Updates",
+                        "color": "#0ced50"
+                    }
+                ],
+                "newUntil": "1709013600",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "7oC4U1HuQlqcbqFC7judEJ",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/s4hO_CfqM7M"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "SUP3804_TH16_Refresh_1920x1080_Endcard (2).jpg",
+                        "path": "/lqe2co20rkhw/2tdkDm5yjpiY6c8YwJBrmr/a48c8107469ee743b4eb5d64ecbe130b/SUP3804_TH16_Refresh_1920x1080_Endcard__2_.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "SUP3804_TH16_Refresh_1920x1080_Endcard (2).jpg",
+                        "path": "/lqe2co20rkhw/2tdkDm5yjpiY6c8YwJBrmr/a48c8107469ee743b4eb5d64ecbe130b/SUP3804_TH16_Refresh_1920x1080_Endcard__2_.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "SUP3804_TH16_Refresh_1920x1080_Endcard (2).jpg",
+                        "path": "/lqe2co20rkhw/2tdkDm5yjpiY6c8YwJBrmr/a48c8107469ee743b4eb5d64ecbe130b/SUP3804_TH16_Refresh_1920x1080_Endcard__2_.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "SUP3804_TH16_Refresh_1920x1080_Endcard (2).jpg",
+                        "path": "/lqe2co20rkhw/2tdkDm5yjpiY6c8YwJBrmr/a48c8107469ee743b4eb5d64ecbe130b/SUP3804_TH16_Refresh_1920x1080_Endcard__2_.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "SUP3804_TH16_Refresh_1920x1080_Endcard (2).jpg",
+                        "path": "/lqe2co20rkhw/2tdkDm5yjpiY6c8YwJBrmr/a48c8107469ee743b4eb5d64ecbe130b/SUP3804_TH16_Refresh_1920x1080_Endcard__2_.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "SUP3804_TH16_Refresh_1920x1080_Endcard (2).jpg",
+                        "path": "/lqe2co20rkhw/2tdkDm5yjpiY6c8YwJBrmr/a48c8107469ee743b4eb5d64ecbe130b/SUP3804_TH16_Refresh_1920x1080_Endcard__2_.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "73tuzblp2QFrRjkfUdRZRi",
+                "index": 10,
+                "targeting": null,
+                "metadata": {
+                    "id": "73tuzblp2QFrRjkfUdRZRi",
+                    "publishedVersion": 13,
+                    "publishedAt": "2024-02-22T09:30:14.186Z"
+                },
+                "postDate": "1708535778",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "February Rewards! ",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1708588800",
+                "type": "externalNewsEntry",
+                "url": "https://twitter.com/ClashofClans/status/1760288338680942747",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "SUP3683-coc-clan-games-rewards-feb24-V1.jpg",
+                        "path": "/lqe2co20rkhw/6byZfm9gMsstwI9k0xBvQ5/ad8e662a72bd874b50ca08b7ca094dec/SUP3683-coc-clan-games-rewards-feb24-V1.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "SUP3683-coc-clan-games-rewards-feb24-V1.jpg",
+                        "path": "/lqe2co20rkhw/6byZfm9gMsstwI9k0xBvQ5/ad8e662a72bd874b50ca08b7ca094dec/SUP3683-coc-clan-games-rewards-feb24-V1.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "SUP3683-coc-clan-games-rewards-feb24-V1.jpg",
+                        "path": "/lqe2co20rkhw/6byZfm9gMsstwI9k0xBvQ5/ad8e662a72bd874b50ca08b7ca094dec/SUP3683-coc-clan-games-rewards-feb24-V1.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "SUP3683-coc-clan-games-rewards-feb24-V1.jpg",
+                        "path": "/lqe2co20rkhw/6byZfm9gMsstwI9k0xBvQ5/ad8e662a72bd874b50ca08b7ca094dec/SUP3683-coc-clan-games-rewards-feb24-V1.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "SUP3683-coc-clan-games-rewards-feb24-V1.jpg",
+                        "path": "/lqe2co20rkhw/6byZfm9gMsstwI9k0xBvQ5/ad8e662a72bd874b50ca08b7ca094dec/SUP3683-coc-clan-games-rewards-feb24-V1.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "SUP3683-coc-clan-games-rewards-feb24-V1.jpg",
+                        "path": "/lqe2co20rkhw/6byZfm9gMsstwI9k0xBvQ5/ad8e662a72bd874b50ca08b7ca094dec/SUP3683-coc-clan-games-rewards-feb24-V1.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "7jXq2Y2BWK0Y3SHqZjFNBJ",
+                "index": 11,
+                "targeting": null,
+                "metadata": {
+                    "id": "7jXq2Y2BWK0Y3SHqZjFNBJ",
+                    "publishedVersion": 18,
+                    "publishedAt": "2024-02-12T13:28:09.547Z"
+                },
+                "postDate": "1707384669",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Dragon Festival - Clash of Clans Animation",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1707516000",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "3j2ns5bn95fDamUiV3nIka",
+                    "provider": "youtube",
+                    "url": "https://www.youtube.com/watch?v=cHa5iW3mcXE"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "COC_LunarNewyear_THUMB_001.jpg",
+                        "path": "/lqe2co20rkhw/38fdERS7YyzB7RuBCkNgYT/b55d9e1c73bc9abccbaf321cf1c45925/COC_LunarNewyear_THUMB_001.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "COC_LunarNewyear_THUMB_001.jpg",
+                        "path": "/lqe2co20rkhw/38fdERS7YyzB7RuBCkNgYT/b55d9e1c73bc9abccbaf321cf1c45925/COC_LunarNewyear_THUMB_001.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "COC_LunarNewyear_THUMB_001.jpg",
+                        "path": "/lqe2co20rkhw/38fdERS7YyzB7RuBCkNgYT/b55d9e1c73bc9abccbaf321cf1c45925/COC_LunarNewyear_THUMB_001.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "COC_LunarNewyear_THUMB_001.jpg",
+                        "path": "/lqe2co20rkhw/38fdERS7YyzB7RuBCkNgYT/b55d9e1c73bc9abccbaf321cf1c45925/COC_LunarNewyear_THUMB_001.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "COC_LunarNewyear_THUMB_001.jpg",
+                        "path": "/lqe2co20rkhw/38fdERS7YyzB7RuBCkNgYT/b55d9e1c73bc9abccbaf321cf1c45925/COC_LunarNewyear_THUMB_001.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "COC_LunarNewyear_THUMB_001.jpg",
+                        "path": "/lqe2co20rkhw/38fdERS7YyzB7RuBCkNgYT/b55d9e1c73bc9abccbaf321cf1c45925/COC_LunarNewyear_THUMB_001.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "71OAximM00cH65YRvvZXme",
+                "index": 12,
+                "targeting": null,
+                "metadata": {
+                    "id": "71OAximM00cH65YRvvZXme",
+                    "publishedVersion": 79,
+                    "publishedAt": "2024-02-12T13:26:26.837Z"
+                },
+                "postDate": "1707317220",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "The Dragon Festival is Here!",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1707429600",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Thum-Blog.png",
+                        "path": "/lqe2co20rkhw/4TAXakSgO6utA32IjdLESf/d1c30bf79cc51e2f14643f1e5f4d35be/Thum-Blog.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "Thum-Blog.png",
+                        "path": "/lqe2co20rkhw/4TAXakSgO6utA32IjdLESf/d1c30bf79cc51e2f14643f1e5f4d35be/Thum-Blog.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "Thum-Blog.png",
+                        "path": "/lqe2co20rkhw/4TAXakSgO6utA32IjdLESf/d1c30bf79cc51e2f14643f1e5f4d35be/Thum-Blog.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "Thum-Blog.png",
+                        "path": "/lqe2co20rkhw/4TAXakSgO6utA32IjdLESf/d1c30bf79cc51e2f14643f1e5f4d35be/Thum-Blog.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "Thum-Blog.png",
+                        "path": "/lqe2co20rkhw/4TAXakSgO6utA32IjdLESf/d1c30bf79cc51e2f14643f1e5f4d35be/Thum-Blog.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "Thum-Blog.png",
+                        "path": "/lqe2co20rkhw/4TAXakSgO6utA32IjdLESf/d1c30bf79cc51e2f14643f1e5f4d35be/Thum-Blog.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "tw_20240131_CALENDAR-February_hero.jpg",
+                        "path": "/lqe2co20rkhw/1jvEgPMG4Z2CBvLnXGdHDD/96101bb116bf37b3f08307bcb6b20e26/tw_20240131_CALENDAR-February_hero.jpg?w=390&h=160&f=center&fit=fill",
+                        "width": 390,
+                        "height": 160
+                    },
+                    "smallRetina": {
+                        "title": "tw_20240131_CALENDAR-February_hero.jpg",
+                        "path": "/lqe2co20rkhw/1jvEgPMG4Z2CBvLnXGdHDD/96101bb116bf37b3f08307bcb6b20e26/tw_20240131_CALENDAR-February_hero.jpg?w=780&h=320&f=center&fit=fill",
+                        "width": 780,
+                        "height": 320
+                    },
+                    "medium": {
+                        "title": "tw_20240131_CALENDAR-February_hero.jpg",
+                        "path": "/lqe2co20rkhw/1jvEgPMG4Z2CBvLnXGdHDD/96101bb116bf37b3f08307bcb6b20e26/tw_20240131_CALENDAR-February_hero.jpg?w=975&h=400&f=center&fit=fill",
+                        "width": 975,
+                        "height": 400
+                    },
+                    "mediumRetina": {
+                        "title": "tw_20240131_CALENDAR-February_hero.jpg",
+                        "path": "/lqe2co20rkhw/1jvEgPMG4Z2CBvLnXGdHDD/96101bb116bf37b3f08307bcb6b20e26/tw_20240131_CALENDAR-February_hero.jpg?w=1170&h=480&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 480
+                    },
+                    "large": {
+                        "title": "tw_20240131_CALENDAR-February_hero.jpg",
+                        "path": "/lqe2co20rkhw/1jvEgPMG4Z2CBvLnXGdHDD/96101bb116bf37b3f08307bcb6b20e26/tw_20240131_CALENDAR-February_hero.jpg?w=1560&h=640&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 640
+                    },
+                    "largeRetina": {
+                        "title": "tw_20240131_CALENDAR-February_hero.jpg",
+                        "path": "/lqe2co20rkhw/1jvEgPMG4Z2CBvLnXGdHDD/96101bb116bf37b3f08307bcb6b20e26/tw_20240131_CALENDAR-February_hero.jpg?w=1950&h=800&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 800
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "The Dragon Festival is Here!",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p><b>Welcome to the Year of the Azure Dragon</b>! The Azure Dragon traditionally symbolizes strength and power, and in this event, you\u2019ll be delivering plenty of both when using the seasonal troops you\u2019ll unlock during the Dragon Festival Event!</p><p>\nDragon Festival is this month\u2019s seasonal event, for players that are Town Hall 8 and up, with in-game activities to unlock special rewards and earn Dragon Medals to acquire the Dragon Warden Skin and the Epic Hero Equipment, Frozen Arrow!</p><p></p><p><b>Event Dates:</b></p><p><b>Dragon Festival Begins</b></p><ul><li><p>Date: Thursday, February 8th, 2024</p></li><li><p>Time: 8am UTC/10am Helsinki time</p></li></ul><p></p><p><b>Dragon Festival Ends</b></p><ul><li><p>Date: Thursday, February 22nd, 2024</p></li><li><p>Time: 8am UTC/10am Helsinki time</p></li></ul><p>\nHowever, like previous seasonal events, you\u2019ll be able to continue accessing Trader\u2019s Dragon Festival tab and the Dragon Pinata until it closes up shop on Saturday, February 24th at 8am UTC/10am Helsinki time.</p><p></p><p><b>Your Dragon Festival guide: Dragon Warden</b></p><p>Embodying the year of the Dragon, each of the Heroes are draped in draconic regalia as is appropriate for this Lunar New Year. Dragon Warden will guide you through the Dragon Festival event, so heed his wisdom.\u00a0\u00a0</p><p>\n<b>Dragon Festival Resource: Red Envelopes</b></p><p>During Lunar New Year, it\u2019s customary to give out Red Envelopes as a symbol to ward off evil spirits. But where\u2019s the Clashiness in that? During Dragon Festival you\u2019ll raid other players in Multiplayer Battles to loot their Red Envelopes. Like Cookie Rumble, Red Envelopes will be placed in 2 enemy Buildings, Grand Warden\u2019s Altar and the enemy Clan Castle. You\u2019ll need to attack these Buildings in order to loot Red Envelopes. Additionally, you\u2019ll be able to regularly collect this resource from your Dragon Pinata. The more Red Envelopes you collect the more rewards you\u2019ll unlock such as Ores, seasonal Troops like Azure Dragon and Firecracker, and much more!</p><p></p><p><b>Dragon Medals: Collect your Dragon\u2019s hoard</b></p><p>Collecting Red Envelopes will allow you to unlock special Dragon Festival rewards, including Dragon Medals - this event\u2019s currency you can spend at Trader\u2019s Shop. Use your Dragon Medals to purchase unique seasonal decorations, resources such as Ores for your Hero Equipment, Magic Items, and more. The two top tier items we know you\u2019ll want to get your hands on are the Dragon Warden Hero Skin and the new Epic Equipment, Frozen Arrow!</p><p></p><p><b>New Temp Troops: Firecracker &amp; Azure Dragon</b></p><p>\n<b>Firecracker</b></p><p>Rumors say she was an Archer who surrendered her bow for something with more OOMPH - a powerful rocket launcher. When Firecracker releases her payload, not only is damage dealt to the initial target, splash damage is also dealt to additional targets behind it in a cone-shaped pattern. But this heavy duty firepower comes at a cost: when Firecracker shoots, the recoil of her rocket launcher does push her slightly backwards.</p><p></p><ul><li><p>Favorite target: Any</p></li><li><p>Targets: Ground &amp; Air</p></li><li><p>Housing space: 8</p></li><li><p>Training time: 1m</p></li></ul><p></p><table><tr><td><p><b>Level*</b></p></td><td><p><b>HP</b></p></td><td><p><b>DPS</b></p></td></tr><tr><td><p>3</p></td><td><p>180</p></td><td><p>80</p></td></tr><tr><td><p>4</p></td><td><p>220</p></td><td><p>95</p></td></tr><tr><td><p>5</p></td><td><p>260</p></td><td><p>110</p></td></tr><tr><td><p>6</p></td><td><p>300</p></td><td><p>125</p></td></tr><tr><td><p>7</p></td><td><p>340</p></td><td><p>145</p></td></tr><tr><td><p>8</p></td><td><p>360</p></td><td><p>155</p></td></tr><tr><td><p>9</p></td><td><p>380</p></td><td><p>170</p></td></tr><tr><td><p>10</p></td><td><p>400</p></td><td><p>190</p></td></tr><tr><td><p>11</p></td><td><p>420</p></td><td><p>200</p></td></tr></table><p>* Starts at level 3</p><p>\n</p><p><b>Azure Dragon</b></p><p>Deliver strength and power upon your enemies\u2019 bases with this avatar of Lunar New Year, Azure Dragon. With its high hitpoints and ability to target ground and air units while flying high over enemy Defenses, Azure Dragon is a sight to behold. The piercing splash damage dealt by Azure Dragon not only deals additional damage behind its initial target, this wiry wyrm will make your battles end in victory much more quickly so they don\u2019t\u2026drag on.\u00a0</p><p></p><ul><li><p>Favorite target: Any</p></li><li><p>Targets: Ground &amp; Air</p></li><li><p>Housing space: 40</p></li><li><p>Training time: 6m</p></li></ul><p></p><table><tr><td><p><b>Level*</b></p></td><td><p><b>HP</b></p></td><td><p><b>DPS</b></p></td></tr><tr><td><p>3</p></td><td><p>3200</p></td><td><p>332</p></td></tr><tr><td><p>4</p></td><td><p>3800</p></td><td><p>354</p></td></tr><tr><td><p>5</p></td><td><p>4400</p></td><td><p>376</p></td></tr><tr><td><p>6</p></td><td><p>5000</p></td><td><p>398</p></td></tr><tr><td><p>7</p></td><td><p>5600</p></td><td><p>420</p></td></tr><tr><td><p>8</p></td><td><p>6200</p></td><td><p>442</p></td></tr><tr><td><p>9</p></td><td><p>6600</p></td><td><p>464</p></td></tr><tr><td><p>10</p></td><td><p>7200</p></td><td><p>486</p></td></tr><tr><td><p>11</p></td><td><p>7600</p></td><td><p>502</p></td></tr></table><p>* Starts at level 3</p><p>\n</p><p><b>Epic Hero Equipment: Frozen Arrow</b></p><p>Archer Queen gets her first taste of the epic life with her Frozen Arrow Hero Equipment. This polar projectile will slow down targets when hit.</p><p></p><p>Ability: Passive</p><p>Abilities:</p><ul><li><p>Slows down targets</p></li><li><p>Hero: DPS increase</p></li></ul><p></p><table><tr><td><p><b>Level</b></p></td><td><p><b>Slow Down %</b></p></td><td><p><b>Slow Down Duration</b></p></td><td><p><b>Hero DPS Increase</b></p></td><td><p><b>Shiny Ore</b></p></td><td><p><b>Glowy Ore</b></p></td><td><p><b>Starry Ore</b></p></td><td><p><b>Blacksmith Level</b></p></td></tr><tr><td><p>1</p></td><td><p>30%</p></td><td><p>0.75s</p></td><td><p>35</p></td><td><p>NA</p></td><td><p>NA</p></td><td><p>NA</p></td><td><p>1</p></td></tr><tr><td><p>2</p></td><td><p>30%</p></td><td><p>1.0s</p></td><td><p>40</p></td><td><p>120</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>3</p></td><td><p>35%</p></td><td><p>1.0s</p></td><td><p>45</p></td><td><p>240</p></td><td><p>20</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>4</p></td><td><p>35%</p></td><td><p>1.0s</p></td><td><p>50</p></td><td><p>400</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>5</p></td><td><p>35%</p></td><td><p>1.25s</p></td><td><p>55</p></td><td><p>600</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>6</p></td><td><p>40%</p></td><td><p>1.25s</p></td><td><p>60</p></td><td><p>840</p></td><td><p>100</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>7</p></td><td><p>40%</p></td><td><p>1.25s</p></td><td><p>66</p></td><td><p>1120</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>8</p></td><td><p>40%</p></td><td><p>1.50s</p></td><td><p>72</p></td><td><p>1440</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>9</p></td><td><p>45%</p></td><td><p>1.50s</p></td><td><p>78</p></td><td><p>1800</p></td><td><p>200</p></td><td><p>10</p></td><td><p>1</p></td></tr><tr><td><p>10</p></td><td><p>45%</p></td><td><p>1.50s</p></td><td><p>85</p></td><td><p>1900</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>11</p></td><td><p>45%</p></td><td><p>1.75s</p></td><td><p>92</p></td><td><p>2000</p></td><td><p>0</p></td><td><p>0</p></td><td><p>1</p></td></tr><tr><td><p>12</p></td><td><p>50%</p></td><td><p>1.75s</p></td><td><p>99</p></td><td><p>2100</p></td><td><p>400</p></td><td><p>20</p></td><td><p>1</p></td></tr><tr><td><p>13</p></td><td><p>50%</p></td><td><p>1.75s</p></td><td><p>105</p></td><td><p>2200</p></td><td><p>0</p></td><td><p>0</p></td><td><p>3</p></td></tr><tr><td><p>14</p></td><td><p>50%</p></td><td><p>2.0s</p></td><td><p>111</p></td><td><p>2300</p></td><td><p>0</p></td><td><p>0</p></td><td><p>3</p></td></tr><tr><td><p>15</p></td><td><p>55%</p></td><td><p>2.0s</p></td><td><p>117</p></td><td><p>2400</p></td><td><p>600</p></td><td><p>30</p></td><td><p>3</p></td></tr><tr><td><p>16</p></td><td><p>55%</p></td><td><p>2.0s</p></td><td><p>122</p></td><td><p>2500</p></td><td><p>0</p></td><td><p>0</p></td><td><p>5</p></td></tr><tr><td><p>17</p></td><td><p>55%</p></td><td><p>2.25s</p></td><td><p>127</p></td><td><p>2600</p></td><td><p>0</p></td><td><p>0</p></td><td><p>5</p></td></tr><tr><td><p>18</p></td><td><p>60%</p></td><td><p>2.25s</p></td><td><p>132</p></td><td><p>2700</p></td><td><p>600</p></td><td><p>50</p></td><td><p>5</p></td></tr><tr><td><p>19</p></td><td><p>60%</p></td><td><p>2.25s</p></td><td><p>136</p></td><td><p>2800</p></td><td><p>0</p></td><td><p>0</p></td><td><p>7</p></td></tr><tr><td><p>20</p></td><td><p>60%</p></td><td><p>2.50s</p></td><td><p>140</p></td><td><p>2900</p></td><td><p>0</p></td><td><p>0</p></td><td><p>7</p></td></tr><tr><td><p>21</p></td><td><p>65%</p></td><td><p>2.50s</p></td><td><p>144</p></td><td><p>3000</p></td><td><p>600</p></td><td><p>100</p></td><td><p>7</p></td></tr><tr><td><p>22</p></td><td><p>65%</p></td><td><p>2.50s</p></td><td><p>148</p></td><td><p>3100</p></td><td><p>0</p></td><td><p>0</p></td><td><p>8</p></td></tr><tr><td><p>23</p></td><td><p>65%</p></td><td><p>2.75s</p></td><td><p>152</p></td><td><p>3200</p></td><td><p>0</p></td><td><p>0</p></td><td><p>8</p></td></tr><tr><td><p>24</p></td><td><p>70%</p></td><td><p>2.75s</p></td><td><p>156</p></td><td><p>3300</p></td><td><p>600</p></td><td><p>120</p></td><td><p>8</p></td></tr><tr><td><p>25</p></td><td><p>70%</p></td><td><p>2.75s</p></td><td><p>160</p></td><td><p>3400</p></td><td><p>0</p></td><td><p>0</p></td><td><p>9</p></td></tr><tr><td><p>26</p></td><td><p>70%</p></td><td><p>3.00s</p></td><td><p>164</p></td><td><p>3500</p></td><td><p>0</p></td><td><p>0</p></td><td><p>9</p></td></tr><tr><td><p>27</p></td><td><p>75%</p></td><td><p>3.00s</p></td><td><p>168</p></td><td><p>3600</p></td><td><p>600</p></td><td><p>150</p></td><td><p>9</p></td></tr></table><p>\u00a0</p><p><b>Dragon Festival Event Pass</b></p><p>The Dragon Festival Event Pass is your way to maximize the amount of rewards you can unlock and collect during this seasonal event. Like the Gold Pass, the Event Pass is a paid feature that is specific to the Dragon Festival Event that has a free and premium reward track. Once you\u2019ve purchased the Event Pass, as you collect Red Envelopes you\u2019ll unlock the rewards that are both in the free and premium tracks.</p><p></p><p>Even if you do not purchase the Event Pass you\u2019ll still earn the rewards from the free reward track!</p><p></p><table><tr><td><p><b>Red Envelope Tier</b></p></td><td><p><b>Free Rewards</b></p></td><td><p><b>Event Pass Rewards</b></p></td></tr><tr><td><p>100</p></td><td><p>100 Dragon Medals</p></td><td><p>20 Glowy Ore</p></td></tr><tr><td><p>300</p></td><td><p>15% Training Boost</p></td><td><p>500 Dragon Medals</p></td></tr><tr><td><p>600</p></td><td><p>1000 Shiny Ore</p></td><td><p>20 Glowy Ore</p></td></tr><tr><td><p>1000</p></td><td><p>Firecracker Temp Troop</p></td><td><p>1050 Dragon Medals</p></td></tr><tr><td><p>1500</p></td><td><p>150 Dragon Medals</p></td><td><p>30 Glowy Ore</p></td></tr><tr><td><p>2000</p></td><td><p>30% Training Boost</p></td><td><p>500 Dragon Medals</p></td></tr><tr><td><p>2500</p></td><td><p>1200 Shiny Ore</p></td><td><p>30 Glowy Ore</p></td></tr><tr><td><p>3000</p></td><td><p>Azure Dragon Temp Troop</p></td><td><p>1050 Dragon Medals</p></td></tr><tr><td><p>3500</p></td><td><p>350 Dragon Medals</p></td><td><p>40 Glowy Ore</p></td></tr><tr><td><p>4000</p></td><td><p>15 Glowy Ore</p></td><td><p>500 Dragon Medals</p></td></tr><tr><td><p>4750</p></td><td><p>1300 Shiny Ore</p></td><td><p>40 Glowy Ore</p></td></tr><tr><td><p>5500</p></td><td><p>15 Glowy Ore</p></td><td><p>10 Starry Ore</p></td></tr><tr><td><p>6250</p></td><td><p>400 Dragon Medals</p></td><td><p>60 Glowy Ore</p></td></tr><tr><td><p>7000</p></td><td><p>30 Glowy Ore</p></td><td><p>Baby Dragon Statue</p></td></tr><tr><td><p>7750</p></td><td><p>1500 Shiny Ore</p></td><td><p>60 Glowy Ore</p></td></tr><tr><td><p>8500</p></td><td><p>100 Glowy Ore</p></td><td><p>15 Starry Ore</p></td></tr><tr><td><p>9250</p></td><td><p>450 Dragon Medals</p></td><td><p>70 Glowy Ore</p></td></tr><tr><td><p>10000</p></td><td><p>45 Glowy Ore</p></td><td><p>600 Dragon Medals</p></td></tr><tr><td><p>11000</p></td><td><p>500 Dragon Medals</p></td><td><p>70 Glowy Ore</p></td></tr><tr><td><p>12000</p></td><td><p>150 Glowy Ore</p></td><td><p>20 Starry Ore</p></td></tr><tr><td><p>13000</p></td><td><p>550 Dragon Medals</p></td><td><p>80 Glowy Ore</p></td></tr><tr><td><p>14000</p></td><td><p>45 Glowy Ore</p></td><td><p>800 Dragon Medals</p></td></tr><tr><td><p>15000</p></td><td><p>600 Dragon Medals</p></td><td><p>80 Glowy Ore</p></td></tr><tr><td><p>16000</p></td><td><p>Dragon Pinata\u00a0</p></td><td><p>35 Starry Ore</p></td></tr></table><p>\n</p><p><b>Bonus Reward Track</b></p><p>Once you\u2019ve completed the Dragon Festival reward track, there\u2019ll be an additional bonus track where you can earn additional rewards. This bonus reward track unlocks only once you\u2019ve completed the entire free reward track.</p><p></p><table><tr><td><p><b>Additional Red Envelopes Collected</b></p></td><td><p><b>Bonus Reward</b></p></td></tr><tr><td><p>1000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>2000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>4000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>6000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>8000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>11000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>14000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>17000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>20000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>24000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>28000</p></td><td><p>130 Dragon Medals</p></td></tr><tr><td><p>32000</p></td><td><p>130 Dragon Medals</p></td></tr></table><p><b>Trader Rewards</b></p><p>Trader has also joined in the Lunar New Year celebrations and is offering his limited edition wares in exchange for your Dragon Medals. You can acquire a variety of goods from Magic Items, unique decos, Dragon Warden Skin, and the Epic Frozen Arrow!</p><p></p><table><tr><td><p><b>Item</b></p></td><td><p><b>Dragon Medals</b></p></td></tr><tr><td><p>Frozen Arrow Hero Equipment</p></td><td><p>3100</p></td></tr><tr><td><p>Dragon Warden Skin</p></td><td><p>4650</p></td></tr><tr><td><p>Starry Ore x6</p></td><td><p>320</p></td></tr><tr><td><p>Glowy Ore x60</p></td><td><p>280</p></td></tr><tr><td><p>Shiny Ore x350</p></td><td><p>325</p></td></tr><tr><td><p>Lucky Anchor Decoration</p></td><td><p>1025</p></td></tr><tr><td><p>Crab at Home Decoration</p></td><td><p>1025</p></td></tr><tr><td><p>Rune of Builder Elixir</p></td><td><p>3100</p></td></tr><tr><td><p>Rune of Builder Gold</p></td><td><p>3100</p></td></tr><tr><td><p>Rune of Elixir</p></td><td><p>3100</p></td></tr><tr><td><p>Rune of Gold</p></td><td><p>3100</p></td></tr><tr><td><p>Book of Spells</p></td><td><p>1900</p></td></tr><tr><td><p>Book of Building</p></td><td><p>1900</p></td></tr><tr><td><p>Book of Fighting</p></td><td><p>1900</p></td></tr><tr><td><p>Book of Heroes</p></td><td><p>1030</p></td></tr><tr><td><p>Shovel of Obstacles</p></td><td><p>1030</p></td></tr><tr><td><p>Builder Potion</p></td><td><p>590</p></td></tr><tr><td><p>Wall Ring x5</p></td><td><p>515</p></td></tr><tr><td><p>Power Potion\u00a0</p></td><td><p>310</p></td></tr><tr><td><p>Research Potion</p></td><td><p>250</p></td></tr><tr><td><p>Pet Potion</p></td><td><p>250</p></td></tr><tr><td><p>Builder Star Jar</p></td><td><p>200</p></td></tr><tr><td><p>Resource Potion</p></td><td><p>240</p></td></tr><tr><td><p>Clock Tower Potion</p></td><td><p>150</p></td></tr><tr><td><p>Training Potion</p></td><td><p>50</p></td></tr><tr><td><p>Lunar New Year Clan House Roof</p></td><td><p>515</p></td></tr><tr><td><p>Lunar New year Clan House Deco</p></td><td><p>515</p></td></tr><tr><td><p>Elixir x90K</p></td><td><p>15</p></td></tr><tr><td><p>Gold x90K</p></td><td><p>15</p></td></tr></table><p>\nWe hope you enjoy this event! Clash On! </p>"
+                    }
+                }
+            },
+            {
+                "id": "5l2TgoiqQPlDAuyNAyWZrl",
+                "index": 13,
+                "targeting": null,
+                "metadata": {
+                    "id": "5l2TgoiqQPlDAuyNAyWZrl",
+                    "publishedVersion": 14,
+                    "publishedAt": "2024-02-01T05:59:14.434Z"
+                },
+                "postDate": "1706721779",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "February Events Calendar",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1706738400",
+                "type": "externalNewsEntry",
+                "url": "https://twitter.com/ClashofClans/status/1752602623948329345",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "GFGTyzxXcAATp6O.jpg",
+                        "path": "/lqe2co20rkhw/5JnrFXGkB5SbsFzFJscmJI/a1ba3381fc57c69c5359eb6bd960034d/GFGTyzxXcAATp6O.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "GFGTyzxXcAATp6O.jpg",
+                        "path": "/lqe2co20rkhw/5JnrFXGkB5SbsFzFJscmJI/a1ba3381fc57c69c5359eb6bd960034d/GFGTyzxXcAATp6O.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "GFGTyzxXcAATp6O.jpg",
+                        "path": "/lqe2co20rkhw/5JnrFXGkB5SbsFzFJscmJI/a1ba3381fc57c69c5359eb6bd960034d/GFGTyzxXcAATp6O.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "GFGTyzxXcAATp6O.jpg",
+                        "path": "/lqe2co20rkhw/5JnrFXGkB5SbsFzFJscmJI/a1ba3381fc57c69c5359eb6bd960034d/GFGTyzxXcAATp6O.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "GFGTyzxXcAATp6O.jpg",
+                        "path": "/lqe2co20rkhw/5JnrFXGkB5SbsFzFJscmJI/a1ba3381fc57c69c5359eb6bd960034d/GFGTyzxXcAATp6O.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "GFGTyzxXcAATp6O.jpg",
+                        "path": "/lqe2co20rkhw/5JnrFXGkB5SbsFzFJscmJI/a1ba3381fc57c69c5359eb6bd960034d/GFGTyzxXcAATp6O.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "5bVPOAkjWlj7Q0KNJgLHcB",
+                "index": 14,
+                "targeting": null,
+                "metadata": {
+                    "id": "5bVPOAkjWlj7Q0KNJgLHcB",
+                    "publishedVersion": 73,
+                    "publishedAt": "2024-01-31T02:49:23.605Z"
+                },
+                "postDate": "1706618403",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "February Clan War Leagues\u00a0",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#059816"
+                    }
+                ],
+                "newUntil": "1713607227",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Ita Cwl Find Clan No Text",
+                        "path": "/lqe2co20rkhw/y2DSDULkQ81kliJ3PNstmzVc9hrDtdzO_vEFotTySr0/e08d22bae054c3b76a262032efd20e79/ita_CWL_Find_ClanNoText.jpg?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "Ita Cwl Find Clan No Text",
+                        "path": "/lqe2co20rkhw/y2DSDULkQ81kliJ3PNstmzVc9hrDtdzO_vEFotTySr0/e08d22bae054c3b76a262032efd20e79/ita_CWL_Find_ClanNoText.jpg?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "Ita Cwl Find Clan No Text",
+                        "path": "/lqe2co20rkhw/y2DSDULkQ81kliJ3PNstmzVc9hrDtdzO_vEFotTySr0/e08d22bae054c3b76a262032efd20e79/ita_CWL_Find_ClanNoText.jpg?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "Ita Cwl Find Clan No Text",
+                        "path": "/lqe2co20rkhw/y2DSDULkQ81kliJ3PNstmzVc9hrDtdzO_vEFotTySr0/e08d22bae054c3b76a262032efd20e79/ita_CWL_Find_ClanNoText.jpg?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "Ita Cwl Find Clan No Text",
+                        "path": "/lqe2co20rkhw/y2DSDULkQ81kliJ3PNstmzVc9hrDtdzO_vEFotTySr0/e08d22bae054c3b76a262032efd20e79/ita_CWL_Find_ClanNoText.jpg?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "Ita Cwl Find Clan No Text",
+                        "path": "/lqe2co20rkhw/y2DSDULkQ81kliJ3PNstmzVc9hrDtdzO_vEFotTySr0/e08d22bae054c3b76a262032efd20e79/ita_CWL_Find_ClanNoText.jpg?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "20190307 Cwl Twitter Cover Photo",
+                        "path": "/lqe2co20rkhw/7uTSs7OpQhb0-iipU8V0qtnOagLU_0JWU5xBnTMj7dM/ded6f2679caa6080d5e28747b1aef635/20190307_CWL-Twitter-Cover-Photo.jpg?w=390&h=160&f=center&fit=fill",
+                        "width": 390,
+                        "height": 160
+                    },
+                    "smallRetina": {
+                        "title": "20190307 Cwl Twitter Cover Photo",
+                        "path": "/lqe2co20rkhw/7uTSs7OpQhb0-iipU8V0qtnOagLU_0JWU5xBnTMj7dM/ded6f2679caa6080d5e28747b1aef635/20190307_CWL-Twitter-Cover-Photo.jpg?w=780&h=320&f=center&fit=fill",
+                        "width": 780,
+                        "height": 320
+                    },
+                    "medium": {
+                        "title": "20190307 Cwl Twitter Cover Photo",
+                        "path": "/lqe2co20rkhw/7uTSs7OpQhb0-iipU8V0qtnOagLU_0JWU5xBnTMj7dM/ded6f2679caa6080d5e28747b1aef635/20190307_CWL-Twitter-Cover-Photo.jpg?w=975&h=400&f=center&fit=fill",
+                        "width": 975,
+                        "height": 400
+                    },
+                    "mediumRetina": {
+                        "title": "20190307 Cwl Twitter Cover Photo",
+                        "path": "/lqe2co20rkhw/7uTSs7OpQhb0-iipU8V0qtnOagLU_0JWU5xBnTMj7dM/ded6f2679caa6080d5e28747b1aef635/20190307_CWL-Twitter-Cover-Photo.jpg?w=1170&h=480&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 480
+                    },
+                    "large": {
+                        "title": "20190307 Cwl Twitter Cover Photo",
+                        "path": "/lqe2co20rkhw/7uTSs7OpQhb0-iipU8V0qtnOagLU_0JWU5xBnTMj7dM/ded6f2679caa6080d5e28747b1aef635/20190307_CWL-Twitter-Cover-Photo.jpg?w=1560&h=640&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 640
+                    },
+                    "largeRetina": {
+                        "title": "20190307 Cwl Twitter Cover Photo",
+                        "path": "/lqe2co20rkhw/7uTSs7OpQhb0-iipU8V0qtnOagLU_0JWU5xBnTMj7dM/ded6f2679caa6080d5e28747b1aef635/20190307_CWL-Twitter-Cover-Photo.jpg?w=1950&h=800&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 800
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "Hey Chief! ",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>We wanted to let you know that next month\u2019s Clan War Leagues will be shorter than usual. It will <b>start on February 1st</b> and <b>end on February 8th</b>, a total of 8 days. We will also shorten the bracket size to 6 Clans (so Clans will only do 5 Wars).</p><p>The shorter duration is because we have a sweet new event coming soon, and since it will bring new temporary Troops, we don\u2019t want the two to overlap. We want CWL to remain competitive and centered around strategy.\n\nBut worry not! We will be giving Clans <b>2 extra Bonus League Medals</b> (the ones Clan Leaders can award to players in the War roster), in addition to more <b>War Loot</b>, and we\u2019ll make it so that getting promoted will be easier, and getting demoted harder than usual.</p><p>These are the promotion / demotion rules for February:</p><ul><li><p><b>Champion 1: </b>demote 1, promote 0</p></li><li><p><b>Champion 2 - Crystal 1</b>: demote 1, promote 1</p></li><li><p><b>Crystal 2 - Silver 2</b>: demote 1, promote 2</p></li><li><p><b>Silver 3</b>: demote 0, promote 2</p></li><li><p><b>Bronze 1 - Bronze 3: </b>demote 0, promote 3</p></li></ul><p></p><p>Thank you for reading! We wish you all good luck during CWL!\u00a0</p><p><i>Clash On! </i></p>"
+                    }
+                }
+            }
+        ],
+        "fullscreenEntries": []
+    },
+    "globals": {
+        "globalText.toNews": "To News!",
+        "globalText.langVoteCheck": "Check vote",
+        "globalText.langVoteTryAgainLabel": "Oops, Try Again!",
+        "globalText.langEsportDay": "d",
+        "globalText.langEsportSecond": "s",
+        "globalText.langEsportMinute": "m",
+        "globalText.langRevealScore": "Reveal Score",
+        "globalText.langFollowMore": "Follow More",
+        "globalText.langEsportHour": "h",
+        "globalText.langYouVoted": "You Voted",
+        "globalText.langReadMore": "Read More",
+        "globalText.langEsportLive": "Live",
+        "globalText.langWatchLive": "Watch [NAME_OF_PLAYER] Live",
+        "globalText.langLiveIn": "Live in",
+        "globalText.langLatestAndGreatest": "Latest & Greatest",
+        "communityText.langLive": "Live",
+        "globalText.langCastYourVote": "Cast your vote",
+        "globalText.langLoading": "Loading...",
+        "globalText.langShare": "Share",
+        "globalText.langNew": "New",
+        "globalText.langLoadMore": "Load More",
+        "globalText.langFollowUs": "Other Channels",
+        "globalText.langHoursAbbreviated": "h",
+        "globalText.langMinutesAbbreviated": "min",
+        "globalText.langOutOfFeed": "Stop digging<br></br>You've hit bottom",
+        "globalText.langHourAgo": "{x} hour ago",
+        "globalText.langMinuteAgo": "{x} minute ago",
+        "globalText.langHoursAgo": "{x} hours ago",
+        "globalText.langMinutesAgo": "{x} minutes ago",
+        "globalText.langDay": "day",
+        "globalText.langOlder": "Older",
+        "globalText.langDays": "days",
+        "globalText.langDaysAgo": "{x} days ago",
+        "globalText.langNewer": "Newer",
+        "globalText.langDayAgo": "{x} day ago",
+        "globalText.langNewBadge": "New",
+        "globalText.langGo": "Go!",
+        "globalText.langTownHall": "Town Hall",
+        "globalText.close": "Close",
+        "globalText.langVoteDefaultButtonLabel": "Vote",
+        "globalText.langVoteSubmitLabel": "Submit",
+        "globalText.langBy": "By:",
+        "globalText.langVoteResultsButtonLabel": "Show Results",
+        "globalText.thanksForVoting": "Thanks for voting"
+    },
+    "socialLinks": [
+        {
+            "linkUrl": "https://www.instagram.com/clashofclans/",
+            "socialLinkImage": {
+                "small": {
+                    "title": "instagram.svg",
+                    "path": "/lqe2co20rkhw/6f44YWmue6qRNLNJkDXgTo/df6c4c39637f45773277253c2f4b3ba2/instagram.svg?w=17&h=17&f=center&fit=fill",
+                    "width": 17,
+                    "height": 17
+                },
+                "smallRetina": {
+                    "title": "instagram.svg",
+                    "path": "/lqe2co20rkhw/6f44YWmue6qRNLNJkDXgTo/df6c4c39637f45773277253c2f4b3ba2/instagram.svg?w=35&h=35&f=center&fit=fill",
+                    "width": 35,
+                    "height": 35
+                },
+                "medium": {
+                    "title": "instagram.svg",
+                    "path": "/lqe2co20rkhw/6f44YWmue6qRNLNJkDXgTo/df6c4c39637f45773277253c2f4b3ba2/instagram.svg?w=44&h=44&f=center&fit=fill",
+                    "width": 44,
+                    "height": 44
+                },
+                "mediumRetina": {
+                    "title": "instagram.svg",
+                    "path": "/lqe2co20rkhw/6f44YWmue6qRNLNJkDXgTo/df6c4c39637f45773277253c2f4b3ba2/instagram.svg?w=52&h=52&f=center&fit=fill",
+                    "width": 52,
+                    "height": 52
+                },
+                "large": {
+                    "title": "instagram.svg",
+                    "path": "/lqe2co20rkhw/6f44YWmue6qRNLNJkDXgTo/df6c4c39637f45773277253c2f4b3ba2/instagram.svg?w=70&h=70&f=center&fit=fill",
+                    "width": 70,
+                    "height": 70
+                },
+                "largeRetina": {
+                    "title": "instagram.svg",
+                    "path": "/lqe2co20rkhw/6f44YWmue6qRNLNJkDXgTo/df6c4c39637f45773277253c2f4b3ba2/instagram.svg?w=87&h=87&f=center&fit=fill",
+                    "width": 87,
+                    "height": 87
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.facebook.com/clashofclans",
+            "socialLinkImage": {
+                "small": {
+                    "title": "facebook.svg",
+                    "path": "/lqe2co20rkhw/wZqmz4d3m64SLnHWFrkfp/5a5bbca57fd6bc3b13a01cd41364b71b/facebook.svg?w=17&h=17&f=center&fit=fill",
+                    "width": 17,
+                    "height": 17
+                },
+                "smallRetina": {
+                    "title": "facebook.svg",
+                    "path": "/lqe2co20rkhw/wZqmz4d3m64SLnHWFrkfp/5a5bbca57fd6bc3b13a01cd41364b71b/facebook.svg?w=35&h=35&f=center&fit=fill",
+                    "width": 35,
+                    "height": 35
+                },
+                "medium": {
+                    "title": "facebook.svg",
+                    "path": "/lqe2co20rkhw/wZqmz4d3m64SLnHWFrkfp/5a5bbca57fd6bc3b13a01cd41364b71b/facebook.svg?w=44&h=44&f=center&fit=fill",
+                    "width": 44,
+                    "height": 44
+                },
+                "mediumRetina": {
+                    "title": "facebook.svg",
+                    "path": "/lqe2co20rkhw/wZqmz4d3m64SLnHWFrkfp/5a5bbca57fd6bc3b13a01cd41364b71b/facebook.svg?w=52&h=52&f=center&fit=fill",
+                    "width": 52,
+                    "height": 52
+                },
+                "large": {
+                    "title": "facebook.svg",
+                    "path": "/lqe2co20rkhw/wZqmz4d3m64SLnHWFrkfp/5a5bbca57fd6bc3b13a01cd41364b71b/facebook.svg?w=70&h=70&f=center&fit=fill",
+                    "width": 70,
+                    "height": 70
+                },
+                "largeRetina": {
+                    "title": "facebook.svg",
+                    "path": "/lqe2co20rkhw/wZqmz4d3m64SLnHWFrkfp/5a5bbca57fd6bc3b13a01cd41364b71b/facebook.svg?w=87&h=87&f=center&fit=fill",
+                    "width": 87,
+                    "height": 87
+                }
+            }
+        },
+        {
+            "linkUrl": "https://twitter.com/ClashofClans",
+            "socialLinkImage": {
+                "small": {
+                    "title": "X_logo_black.svg",
+                    "path": "/lqe2co20rkhw/CsI44CIBpHY8dmCE4MqzL/71ae29d840af0d2593655e104712b4d5/X_logo_black.svg?w=10&h=10&f=center&fit=fill",
+                    "width": 10,
+                    "height": 10
+                },
+                "smallRetina": {
+                    "title": "X_logo_black.svg",
+                    "path": "/lqe2co20rkhw/CsI44CIBpHY8dmCE4MqzL/71ae29d840af0d2593655e104712b4d5/X_logo_black.svg?w=19&h=19&f=center&fit=fill",
+                    "width": 19,
+                    "height": 19
+                },
+                "medium": {
+                    "title": "X_logo_black.svg",
+                    "path": "/lqe2co20rkhw/CsI44CIBpHY8dmCE4MqzL/71ae29d840af0d2593655e104712b4d5/X_logo_black.svg?w=24&h=24&f=center&fit=fill",
+                    "width": 24,
+                    "height": 24
+                },
+                "mediumRetina": {
+                    "title": "X_logo_black.svg",
+                    "path": "/lqe2co20rkhw/CsI44CIBpHY8dmCE4MqzL/71ae29d840af0d2593655e104712b4d5/X_logo_black.svg?w=29&h=29&f=center&fit=fill",
+                    "width": 29,
+                    "height": 29
+                },
+                "large": {
+                    "title": "X_logo_black.svg",
+                    "path": "/lqe2co20rkhw/CsI44CIBpHY8dmCE4MqzL/71ae29d840af0d2593655e104712b4d5/X_logo_black.svg?w=38&h=38&f=center&fit=fill",
+                    "width": 38,
+                    "height": 38
+                },
+                "largeRetina": {
+                    "title": "X_logo_black.svg",
+                    "path": "/lqe2co20rkhw/CsI44CIBpHY8dmCE4MqzL/71ae29d840af0d2593655e104712b4d5/X_logo_black.svg?w=48&h=48&f=center&fit=fill",
+                    "width": 48,
+                    "height": 48
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.youtube.com/c/ClashOfClans/videos",
+            "socialLinkImage": {
+                "small": {
+                    "title": "youtube.svg",
+                    "path": "/lqe2co20rkhw/4re0DOV97Qvts3no3qtY53/20765ae1632af0329b4281f9f3ab31f2/youtube.svg?w=17&h=17&f=center&fit=fill",
+                    "width": 17,
+                    "height": 17
+                },
+                "smallRetina": {
+                    "title": "youtube.svg",
+                    "path": "/lqe2co20rkhw/4re0DOV97Qvts3no3qtY53/20765ae1632af0329b4281f9f3ab31f2/youtube.svg?w=35&h=35&f=center&fit=fill",
+                    "width": 35,
+                    "height": 35
+                },
+                "medium": {
+                    "title": "youtube.svg",
+                    "path": "/lqe2co20rkhw/4re0DOV97Qvts3no3qtY53/20765ae1632af0329b4281f9f3ab31f2/youtube.svg?w=44&h=44&f=center&fit=fill",
+                    "width": 44,
+                    "height": 44
+                },
+                "mediumRetina": {
+                    "title": "youtube.svg",
+                    "path": "/lqe2co20rkhw/4re0DOV97Qvts3no3qtY53/20765ae1632af0329b4281f9f3ab31f2/youtube.svg?w=52&h=52&f=center&fit=fill",
+                    "width": 52,
+                    "height": 52
+                },
+                "large": {
+                    "title": "youtube.svg",
+                    "path": "/lqe2co20rkhw/4re0DOV97Qvts3no3qtY53/20765ae1632af0329b4281f9f3ab31f2/youtube.svg?w=70&h=70&f=center&fit=fill",
+                    "width": 70,
+                    "height": 70
+                },
+                "largeRetina": {
+                    "title": "youtube.svg",
+                    "path": "/lqe2co20rkhw/4re0DOV97Qvts3no3qtY53/20765ae1632af0329b4281f9f3ab31f2/youtube.svg?w=87&h=87&f=center&fit=fill",
+                    "width": 87,
+                    "height": 87
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.reddit.com/r/ClashOfClans/",
+            "socialLinkImage": {
+                "small": {
+                    "title": "reddit.svg",
+                    "path": "/lqe2co20rkhw/6B7Aq1mCWDl6ZcCM4KsXvf/2b6447029f813bc5a5c5c284eee814f5/reddit.svg?w=17&h=17&f=center&fit=fill",
+                    "width": 17,
+                    "height": 17
+                },
+                "smallRetina": {
+                    "title": "reddit.svg",
+                    "path": "/lqe2co20rkhw/6B7Aq1mCWDl6ZcCM4KsXvf/2b6447029f813bc5a5c5c284eee814f5/reddit.svg?w=35&h=35&f=center&fit=fill",
+                    "width": 35,
+                    "height": 35
+                },
+                "medium": {
+                    "title": "reddit.svg",
+                    "path": "/lqe2co20rkhw/6B7Aq1mCWDl6ZcCM4KsXvf/2b6447029f813bc5a5c5c284eee814f5/reddit.svg?w=44&h=44&f=center&fit=fill",
+                    "width": 44,
+                    "height": 44
+                },
+                "mediumRetina": {
+                    "title": "reddit.svg",
+                    "path": "/lqe2co20rkhw/6B7Aq1mCWDl6ZcCM4KsXvf/2b6447029f813bc5a5c5c284eee814f5/reddit.svg?w=52&h=52&f=center&fit=fill",
+                    "width": 52,
+                    "height": 52
+                },
+                "large": {
+                    "title": "reddit.svg",
+                    "path": "/lqe2co20rkhw/6B7Aq1mCWDl6ZcCM4KsXvf/2b6447029f813bc5a5c5c284eee814f5/reddit.svg?w=70&h=70&f=center&fit=fill",
+                    "width": 70,
+                    "height": 70
+                },
+                "largeRetina": {
+                    "title": "reddit.svg",
+                    "path": "/lqe2co20rkhw/6B7Aq1mCWDl6ZcCM4KsXvf/2b6447029f813bc5a5c5c284eee814f5/reddit.svg?w=87&h=87&f=center&fit=fill",
+                    "width": 87,
+                    "height": 87
+                }
+            }
+        },
+        {
+            "linkUrl": "https://m.twitch.tv/clashofclans",
+            "socialLinkImage": {
+                "small": {
+                    "title": "twitch.svg",
+                    "path": "/lqe2co20rkhw/4SAjhOWvCqxH8297XUGYrq/c81b31e3b4307799d328dd86e1361c1d/twitch.svg?w=17&h=17&f=center&fit=fill",
+                    "width": 17,
+                    "height": 17
+                },
+                "smallRetina": {
+                    "title": "twitch.svg",
+                    "path": "/lqe2co20rkhw/4SAjhOWvCqxH8297XUGYrq/c81b31e3b4307799d328dd86e1361c1d/twitch.svg?w=35&h=35&f=center&fit=fill",
+                    "width": 35,
+                    "height": 35
+                },
+                "medium": {
+                    "title": "twitch.svg",
+                    "path": "/lqe2co20rkhw/4SAjhOWvCqxH8297XUGYrq/c81b31e3b4307799d328dd86e1361c1d/twitch.svg?w=44&h=44&f=center&fit=fill",
+                    "width": 44,
+                    "height": 44
+                },
+                "mediumRetina": {
+                    "title": "twitch.svg",
+                    "path": "/lqe2co20rkhw/4SAjhOWvCqxH8297XUGYrq/c81b31e3b4307799d328dd86e1361c1d/twitch.svg?w=52&h=52&f=center&fit=fill",
+                    "width": 52,
+                    "height": 52
+                },
+                "large": {
+                    "title": "twitch.svg",
+                    "path": "/lqe2co20rkhw/4SAjhOWvCqxH8297XUGYrq/c81b31e3b4307799d328dd86e1361c1d/twitch.svg?w=70&h=70&f=center&fit=fill",
+                    "width": 70,
+                    "height": 70
+                },
+                "largeRetina": {
+                    "title": "twitch.svg",
+                    "path": "/lqe2co20rkhw/4SAjhOWvCqxH8297XUGYrq/c81b31e3b4307799d328dd86e1361c1d/twitch.svg?w=87&h=87&f=center&fit=fill",
+                    "width": 87,
+                    "height": 87
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.tiktok.com/@clashofclans",
+            "socialLinkImage": {
+                "small": {
+                    "title": "tiktok.svg",
+                    "path": "/lqe2co20rkhw/62NVg2MqESfzbvsmaMdu3K/2112bccaeeffca47c5468d0723862949/tiktok.svg?w=17&h=17&f=center&fit=fill",
+                    "width": 17,
+                    "height": 17
+                },
+                "smallRetina": {
+                    "title": "tiktok.svg",
+                    "path": "/lqe2co20rkhw/62NVg2MqESfzbvsmaMdu3K/2112bccaeeffca47c5468d0723862949/tiktok.svg?w=35&h=35&f=center&fit=fill",
+                    "width": 35,
+                    "height": 35
+                },
+                "medium": {
+                    "title": "tiktok.svg",
+                    "path": "/lqe2co20rkhw/62NVg2MqESfzbvsmaMdu3K/2112bccaeeffca47c5468d0723862949/tiktok.svg?w=44&h=44&f=center&fit=fill",
+                    "width": 44,
+                    "height": 44
+                },
+                "mediumRetina": {
+                    "title": "tiktok.svg",
+                    "path": "/lqe2co20rkhw/62NVg2MqESfzbvsmaMdu3K/2112bccaeeffca47c5468d0723862949/tiktok.svg?w=52&h=52&f=center&fit=fill",
+                    "width": 52,
+                    "height": 52
+                },
+                "large": {
+                    "title": "tiktok.svg",
+                    "path": "/lqe2co20rkhw/62NVg2MqESfzbvsmaMdu3K/2112bccaeeffca47c5468d0723862949/tiktok.svg?w=70&h=70&f=center&fit=fill",
+                    "width": 70,
+                    "height": 70
+                },
+                "largeRetina": {
+                    "title": "tiktok.svg",
+                    "path": "/lqe2co20rkhw/62NVg2MqESfzbvsmaMdu3K/2112bccaeeffca47c5468d0723862949/tiktok.svg?w=87&h=87&f=center&fit=fill",
+                    "width": 87,
+                    "height": 87
+                }
+            }
+        }
+    ]
+}
