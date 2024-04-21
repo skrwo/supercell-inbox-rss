@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-04-21T14:00:47.435433+00:00</updated>
+  <updated>2024-04-21T17:30:18.715930+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -237,5 +237,16 @@ Zondag: productiegebouwenboost (20% boost voor 3 willekeurige gebouwen) + tuinhu
     <link href="https://hayday.inbox.supercell.com/#/nl/news/1ZXHIw1T7YCCwtKRGYKzz3"/>
     <category term="Nieuws"/>
     <published>2024-04-18T06:59:41+00:00</published>
+  </entry>
+  <entry>
+    <id>l0Azc5YmeQl4S809ZRLrZ</id>
+    <title>Hay Day-evenementen: week 17!</title>
+    <updated>2024-04-21T15:24:41.353000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-evenementen: week 17!&lt;/h1&gt;
+&lt;p&gt;Hallo boeren! Sluit april goed af door mee te doen aan de evenementen van deze week! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;Maandag: rad van fortuin (gegarandeerd 1 puzzelstuk, kans op 2)&lt;/p&gt;&lt;p&gt;Dinsdag: truckbestellingen (extra uitbreidingsmateriaal voor je boerderij of stad)&lt;/p&gt;&lt;p&gt;Woensdag: bootevenement (extra tegoedbonnen)&lt;/p&gt;&lt;p&gt;Donderdag: boerderijbezoekersevenement (2x zoveel munten)&lt;/p&gt;&lt;p&gt;Vrijdag: visboost (20% boost voor alle vissen) + dubbele boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Zaterdag: stadsbezoekersevenement (extra upgrademateriaal voor je schuur en silo) + truckbestellingen (2x zoveel munten)&lt;/p&gt;&lt;p&gt;Zondag: veevoerevenement (3 willekeurige soorten veevoer worden sneller geproduceerd) + bootevenement (2x zoveel munten)&lt;/p&gt;&lt;p&gt;Een fijne week gewenst!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/l0Azc5YmeQl4S809ZRLrZ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nieuws"/>
+    <published>2024-04-21T15:24:26+00:00</published>
   </entry>
 </feed>

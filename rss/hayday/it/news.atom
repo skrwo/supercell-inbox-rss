@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-04-21T14:00:54.600577+00:00</updated>
+  <updated>2024-04-21T17:30:19.335720+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -237,5 +237,16 @@ Domenica: potenziamento del 20% per 3 edifici produttivi a caso ed evento d&amp;
     <link href="https://hayday.inbox.supercell.com/#/it/news/1ZXHIw1T7YCCwtKRGYKzz3"/>
     <category term="Notizie"/>
     <published>2024-04-18T06:59:41+00:00</published>
+  </entry>
+  <entry>
+    <id>l0Azc5YmeQl4S809ZRLrZ</id>
+    <title>Eventi di Hay Day (settimana n. 17)</title>
+    <updated>2024-04-21T15:24:41.353000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 17)&lt;/h1&gt;
+&lt;p&gt;Ehilà! Aprile è agli sgoccioli, ma c&amp;#39;è ancora tempo per partecipare a una settimana ricca di eventi, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: un pezzo del puzzle garantito in gira la ruota con possibilità di trovarne un secondo.&lt;/p&gt;&lt;p&gt;Martedì: oggetti espansione extra (ordini del furgone).&lt;/p&gt;&lt;p&gt;Mercoledì: buoni extra (ordini per la barca).&lt;/p&gt;&lt;p&gt;Giovedì: monete doppie (visitatori della fattoria).&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 20% per tutti gli edifici di pesca e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;Sabato: materiali extra per i miglioramenti per granaio e silo (visitatori della città) e monete doppie (ordini del furgone).&lt;/p&gt;&lt;p&gt;Domenica: produttività dei mangimifici ottimizzata (tre tipi casuali di mangime per animali verranno prodotti a velocità superiore) e monete doppie (ordini per la barca).&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/l0Azc5YmeQl4S809ZRLrZ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-04-21T15:24:26+00:00</published>
   </entry>
 </feed>

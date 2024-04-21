@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-04-21T14:01:01.557252+00:00</updated>
+  <updated>2024-04-21T17:30:20.309962+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -237,5 +237,16 @@ Dimanche : boost de production de 20 % pour 3 bâtiments aléatoires, événemen
     <link href="https://hayday.inbox.supercell.com/#/fr/news/1ZXHIw1T7YCCwtKRGYKzz3"/>
     <category term="Nouvelles"/>
     <published>2024-04-18T06:59:41+00:00</published>
+  </entry>
+  <entry>
+    <id>l0Azc5YmeQl4S809ZRLrZ</id>
+    <title>Calendrier des événements Hay Day (semaine 17)</title>
+    <updated>2024-04-21T15:24:41.353000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 17)&lt;/h1&gt;
+&lt;p&gt;Salut, amis de la ferme ! Le mois d&amp;#39;avril est presque terminé, mais on a encore une semaine d&amp;#39;événements à fêter ! Tous les évènements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, 1 pièce de puzzle garantie, possibilité d&amp;#39;en obtenir une 2e&lt;/p&gt;&lt;p&gt;Mardi : livraisons par camion, matériaux d&amp;#39;extension de la ferme&lt;/p&gt;&lt;p&gt;Mercredi : bateau, coupons supplémentaires&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, pièces x2&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 20 % pour tous les poissons + points du pass Hay Day doublés&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, matériaux d&amp;#39;amélioration de la grange et du silo + livraisons par camion, pièces x2&lt;/p&gt;&lt;p&gt;Dimanche : nourriture pour animaux plus rapide (affecte 3 types de nourriture pour animaux aléatoires) + livraisons par bateau (pièces x2)&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/l0Azc5YmeQl4S809ZRLrZ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nouvelles"/>
+    <published>2024-04-21T15:24:26+00:00</published>
   </entry>
 </feed>

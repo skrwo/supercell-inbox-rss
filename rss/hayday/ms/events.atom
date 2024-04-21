@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-eventEntries-ms</id>
   <title>Hayday - Event</title>
-  <updated>2024-04-21T14:00:46.414481+00:00</updated>
+  <updated>2024-04-21T17:30:20.126770+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -11,7 +11,7 @@
     <title>Acara hari ini!</title>
     <updated>2023-09-12T09:48:04.737000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="hayday-inbox://OpenEventBoard"&gt;[Maklumat lanjut!]&lt;/a&gt;</content>
+&lt;a href="hayday-inbox://OpenEventBoard"&gt;👉Maklumat lanjut!👈&lt;/a&gt;</content>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/cRcj4pkDW6Rh5ThtDKjVYxZNHJcNMJ9ukUsj4Qvsr1w/cc11b4a0a60932be2be4732bfa32eef7/1379298962_1625649229.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="hayday-inbox://OpenEventBoard"/>
     <published>2023-09-12T09:48:04+00:00</published>

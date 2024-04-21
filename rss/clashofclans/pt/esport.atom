@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-esportNewsEntries-pt</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-04-21T14:00:27.864160+00:00</updated>
+  <updated>2024-04-21T17:30:17.053453+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -238,5 +238,15 @@ Obrigado por uma incrível temporada de 2023 e Clash On!
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4O4boA0WVcVxCE7iMDwSDq/5fd0221aaf53f2cfbc11f31e53cd86c5/PT-COC_-_April_MF_AYNTK_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sports"/>
     <published>2024-04-17T15:22:52+00:00</published>
+  </entry>
+  <entry>
+    <id>64JSGI8DXqGO2Vmp0qPibn</id>
+    <title>Reveja o Dia 1 das Finais Mensais de Abril!</title>
+    <updated>2024-04-21T15:52:56.795000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3TiXvgpkWH7mYzOxWkFaoU/7120496c186302593a6abc8307f8ce8b/PT_COC_-_April_MF_Thumbnails.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=3lOGaOHmLQ0"/>
+    <category term="E-sports"/>
+    <published>2024-04-20T18:33:18+00:00</published>
   </entry>
 </feed>

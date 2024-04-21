@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-04-21T14:01:00.598325+00:00</updated>
+  <updated>2024-04-21T17:30:18.084309+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -304,5 +304,16 @@ Sunday: Production Building Boost Event (3 Random Buildings, 20% Boost) + Garden
     <link href="https://hayday.inbox.supercell.com/#/en/news/1ZXHIw1T7YCCwtKRGYKzz3"/>
     <category term="News"/>
     <published>2024-04-18T06:59:41+00:00</published>
+  </entry>
+  <entry>
+    <id>l0Azc5YmeQl4S809ZRLrZ</id>
+    <title>Hay Day Events Week 17!</title>
+    <updated>2024-04-21T15:24:41.353000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Events Week 17!&lt;/h1&gt;
+&lt;p&gt;Hello farmers! Not much left of April, but we have another week full of Events! All Events start at 8 AM UTC. Dive into the specifics of each Event by visiting our Event Board in the game. &lt;/p&gt;&lt;p&gt;Monday: Spin The Wheel (1 Puzzle Piece Guaranteed, Possibility for 2)&lt;/p&gt;&lt;p&gt;Tuesday: Truck Order Event (Extra Land Expansion Materials) &lt;/p&gt;&lt;p&gt;Wednesday: Boat Event (Extra Vouchers) &lt;/p&gt;&lt;p&gt;Thursday: Farm Visitor Event (2x Coins)&lt;/p&gt;&lt;p&gt;Friday: Fishing Production Boost Event (All Fish 20% boost) + 2x Farm Pass Points&lt;/p&gt;&lt;p&gt;Saturday: Town Visitor Event (Extra Barn &amp;amp; Silo Upgrade Materials) + Truck Order Event (2x Coins) &lt;/p&gt;&lt;p&gt;Sunday: Animal Feed Time Percent (3 random types of animals feed produced)+ Boat Event (2x Coins)&lt;/p&gt;&lt;p&gt;Have a great week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/l0Azc5YmeQl4S809ZRLrZ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-04-21T15:24:26+00:00</published>
   </entry>
 </feed>

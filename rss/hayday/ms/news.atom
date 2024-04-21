@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-04-21T14:00:46.430105+00:00</updated>
+  <updated>2024-04-21T17:30:20.127283+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -220,5 +220,16 @@ Ahad: Acara Galakan Bangunan Pengeluaran (3 bangunan rawak, 20% galakan) + Acara
     <link href="https://hayday.inbox.supercell.com/#/ms/news/1ZXHIw1T7YCCwtKRGYKzz3"/>
     <category term="Berita"/>
     <published>2024-04-18T06:59:41+00:00</published>
+  </entry>
+  <entry>
+    <id>l0Azc5YmeQl4S809ZRLrZ</id>
+    <title>Acara Hay Day Minggu 17!</title>
+    <updated>2024-04-21T15:24:41.353000+00:00</updated>
+    <content>&lt;h1&gt;Acara Hay Day Minggu 17!&lt;/h1&gt;
+&lt;p&gt;Helo, Peladang! Bulan April hampir berakhir tetapi kami ada seminggu lagi yang penuh dengan acara! Semua acara bermula pada 8:00 UTC (16:00 MYT) Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;Isnin: Putaran Nasib (1 kepingan susun suai gambar terjamin, mungkin 2)&lt;/p&gt;&lt;p&gt;Selasa: Acara Pesanan Trak (Item peluasan tanah tambahan)&lt;/p&gt;&lt;p&gt;Rabu: Acara Bot (Baucar tambahan)&lt;/p&gt;&lt;p&gt;Khamis: Acara Pelawat Ladang (2x syiling)&lt;/p&gt;&lt;p&gt;Jumaat: Acara Galakan Pengeluaran Memancing (Semua Ikan, 20% galakan) + 2x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Sabtu: Acara Pelawat Bandar (Bahan naik taraf bangsal &amp;amp; silo tambahan) + Acara Pesanan Trak (2x syiling)&lt;/p&gt;&lt;p&gt;Ahad: Mempercepat Penghasilan Makanan Haiwan (3 jenis makanan haiwan rawak dihasilkan) + Acara Bot (2x syiling)&lt;/p&gt;&lt;p&gt;Semoga minggu anda ceria!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/l0Azc5YmeQl4S809ZRLrZ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2024-04-21T15:24:26+00:00</published>
   </entry>
 </feed>
