@@ -1,3 +1,4 @@
+![Supercell logo behind the RSS icon](/favicon.png)
 # What's this?
 📰 Supercell Inbox RSS provides multilingual RSS & ATOM feeds for the news section of Supercell games powered by Github Actions.
 
@@ -24,6 +25,9 @@
 |Boom Beach|`en`|
 |Clash Mini|`en`, `es`|
 |Squad Busters|`zh`, `de`, `ru`, `fr`, `tr`, `ja`, `pl`, `en`, `pt`, `ko`, `es`, `it`|
+
+# Subscribe
+To subscribe to feeds, see [RSS README](/rss).
 
 # Missing features? Experiencing problems?
 Feel free to file an issue or pull request on Github, I will try to look into it ASAP!
