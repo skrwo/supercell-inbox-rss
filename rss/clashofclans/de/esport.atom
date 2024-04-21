@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-esportNewsEntries-de</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-04-21T18:30:19.860172+00:00</updated>
+  <updated>2024-04-21T19:30:17.894210+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -264,5 +264,32 @@ Millesime MG: Millesime MG bestehend aus &lt;a href="javascript:window.sendComma
     <link href="https://www.youtube.com/watch?v=owp7ZHB-h84"/>
     <category term="E-Sports"/>
     <published>2024-04-20T18:33:18+00:00</published>
+  </entry>
+  <entry>
+    <id>2zz5hu8ghpjdIx6i6CEUdi</id>
+    <title>Wiederholung von Tag 2 der monatlichen Finals im April!</title>
+    <updated>2024-04-21T19:04:03.860000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1rZSTNrYGFdApG7O31hDTT/6fb9205a44a17f453250d352b2258cc5/DE_COC_-_April_MF_Thumbnails-Tag2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=L9sM3Maxctc"/>
+    <category term="E-Sports"/>
+    <published>2024-04-21T18:29:27+00:00</published>
+  </entry>
+  <entry>
+    <id>6KhLFBhhSN5KTzmf3iTG5M</id>
+    <title>Glückwunsch, Synchronic!</title>
+    <updated>2024-04-21T19:28:44.231000+00:00</updated>
+    <content>&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;Glückwunsch an unsere April-Monatsfinalisten - Synchronic!&lt;/h1&gt;
+&lt;p&gt;Hallo, Häuptling!&lt;/p&gt;&lt;p&gt;Nach dem intensiven Open Qualifier, gefolgt von dem epischen Monthly Qualifier, der in den ersten Monthly Finals gipfelte...
+
+&lt;b&gt;Das erste Finalisten-Team der Clash of Clans-Weltmeisterschaft 2024 steht fest!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nach einem unglaublichen Lauf in der unteren Gruppe, der NAVI zum Rücktritt vom Grand Finals zwang, hat &lt;b&gt;Synchronic&lt;/b&gt; das Goldene Ticket für das Monatsfinale im April und den größten Anteil am Preispool von 50.000 $ gewonnen!&lt;/p&gt;&lt;p&gt;Glückwunsch an &lt;b&gt;General X, Simon, Marc, Philipp &amp;amp; Einstein!&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1qfUYiZjOInjmYmzgQd5YV/99371c0c66ebda7e1bc0785a0aa1439b/Screen_Shot_2024-04-21_at_11.31.52_AM.png?w=2004&amp;h=1108&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Erlebe noch einmal den epischen zweitägigen Showdown von Synchronic&amp;#39;s Weg zum Ruhm, der ihr Goldenes Ticket und ihren Platz im Clash of Clans World Championship Finale sicherte!&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=owp7ZHB-h84"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=L9sM3Maxctc"&gt;[EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="E-Sports"/>
+    <published>2024-04-21T18:33:26+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-04-21T18:30:22.746790+00:00</updated>
+  <updated>2024-04-21T19:30:18.644642+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -286,5 +286,15 @@ Millesime MG: Millesime MG conformado por &lt;a href="javascript:window.sendComm
     <link href="https://www.twitch.tv/videos/2124839291?t=00h18m20s"/>
     <category term="eSports"/>
     <published>2024-04-20T18:33:18+00:00</published>
+  </entry>
+  <entry>
+    <id>2zz5hu8ghpjdIx6i6CEUdi</id>
+    <title>Mira de nuevo las Finales Mensuales de Abril Día 2</title>
+    <updated>2024-04-21T19:04:03.860000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3jVNax6QXxMSDwdMpZLloI/dbd70ff0eb5b130e4a5905af8107eb06/ES_COC_-_April_MF_Thumbnails_d2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2125774655?t=00h14m46s"/>
+    <category term="eSports"/>
+    <published>2024-04-21T18:29:27+00:00</published>
   </entry>
 </feed>
