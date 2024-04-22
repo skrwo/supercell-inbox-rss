@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-esportNewsEntries-pt</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-04-22T08:37:01.606711+00:00</updated>
+  <updated>2024-04-22T10:36:50.353247+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -243,5 +243,14 @@ Obrigado por uma incrível temporada de 2023 e Clash On!
     <link href="https://www.youtube.com/watch?v=3lOGaOHmLQ0"/>
     <category term="E-sports"/>
     <published>2024-04-20T18:33:18+00:00</published>
+  </entry>
+  <entry>
+    <id>6KhLFBhhSN5KTzmf3iTG5M</id>
+    <title>Parabéns, Synchronic!</title>
+    <updated>2024-04-22T09:30:02.219000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="E-sports"/>
+    <published>2024-04-21T18:33:26+00:00</published>
   </entry>
 </feed>
