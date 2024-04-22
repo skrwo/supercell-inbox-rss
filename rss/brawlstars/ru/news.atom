@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>brawlstars-newsEntries-ru</id>
   <title>Brawlstars - News</title>
-  <updated>2024-04-22T07:30:18.376591+00:00</updated>
+  <updated>2024-04-22T08:36:57.935069+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -72,7 +72,6 @@
     <id>3CFjSQzySKaHKpe1IKUx0f</id>
     <title>SUPERCELL MAKE: голосуй за любимые скины для Джина и Сэнди!</title>
     <updated>2024-02-20T19:32:59.930000+00:00</updated>
-    <content>[EMPTY]</content>
     <link href="https://brawlstars.inbox.supercell.com/#/ru/news/3CFjSQzySKaHKpe1IKUx0f"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5DQ7bUUzFehlDjJYChDvG7/c1ba8e8ef2518fe7f93dd5c3689f7c57/0215_SC_Make_voting_starts_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://make.supercell.com/en/campaign/26J1wTlSbFrtMaouVvZdj3"/>
@@ -83,7 +82,6 @@
     <id>7fhld5Ku63miudrlFrCoK3</id>
     <title>Время объяснить: Давайте поговорим о балансе!</title>
     <updated>2024-02-20T19:31:52.227000+00:00</updated>
-    <content>[EMPTY]</content>
     <link href="https://brawlstars.inbox.supercell.com/#/ru/news/7fhld5Ku63miudrlFrCoK3"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5kwsXpnt2VhqU65CvyWoKJ/8ee265014817903de4e0fb7d9df0fbf7/0216_Time_to_explain_Dani_1920x1080_v2_RU.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/SUhp-sPCO5I"/>
@@ -95,20 +93,20 @@
     <title>Проголосуй за любимый скин!</title>
     <updated>2024-02-22T21:15:43.264000+00:00</updated>
     <content>&lt;h1&gt;Проголосуй за любимый скин!&lt;/h1&gt;
-[POLL]
+📊 [POLL]
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5sOQbYujCkKLsmyMBLZSZM/30105ccb2869d190d1a0369f9e8d36af/gene_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6PcBQtfBp2hMp3r9RQbBXA/5871031d9658b33e13323938ce2e4bf0/gene_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/516CyBXo2xIVq0JSHXI9As/aa0a4483d55720f9be7cad185b47e818/gene_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6c53OFySJgVaYnS1hSVj1K/a90e4edb04f3995d9d28e0fabd12d931/gene_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5sOQbYujCkKLsmyMBLZSZM/30105ccb2869d190d1a0369f9e8d36af/gene_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6PcBQtfBp2hMp3r9RQbBXA/5871031d9658b33e13323938ce2e4bf0/gene_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/516CyBXo2xIVq0JSHXI9As/aa0a4483d55720f9be7cad185b47e818/gene_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6c53OFySJgVaYnS1hSVj1K/a90e4edb04f3995d9d28e0fabd12d931/gene_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;Проголосуй за любимый скин!&lt;/h1&gt;
-[POLL]
+📊 [POLL]
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7Hjh8cqqZz2q1xyztrZsgk/b900a2c7084a8bee9300623304ba500e/sandy_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/xdcpOrZGdItGtmkDRnAlY/edf4a468524be41b0823681757a88491/sandy_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6evwAZt2DbJMQ28DGDzkxp/09437d3a6b10f67aa9eefe628c1c15c5/sandy_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2sF8U8nz5QMjVo6N8WmTgJ/63aa0bcdc88187ca2d832f779852da35/sandy_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7Hjh8cqqZz2q1xyztrZsgk/b900a2c7084a8bee9300623304ba500e/sandy_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/xdcpOrZGdItGtmkDRnAlY/edf4a468524be41b0823681757a88491/sandy_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6evwAZt2DbJMQ28DGDzkxp/09437d3a6b10f67aa9eefe628c1c15c5/sandy_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2sF8U8nz5QMjVo6N8WmTgJ/63aa0bcdc88187ca2d832f779852da35/sandy_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/#/ru/news/6u5paM3hThMSQxNYHvjhgR"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/76f4um5B2MyTgITtlamTQ2/70e78531c929c2f6aa93cf462b69fa9c/0222_Make_vote_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
@@ -224,20 +222,20 @@ Room to Read - https://www.roomtoread.org/
     <title>Голосование за скины Supercell Make для Амбер и Мистера П.</title>
     <updated>2024-04-18T20:38:43.974000+00:00</updated>
     <content>&lt;h1&gt;Проголосуй за любимый скин!&lt;/h1&gt;
-[POLL]
+📊 [POLL]
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4Ge1Ts0hpgBndh6TbMmMMp/fde09b931c1c15744b4e3415e7594017/mrp_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WzQqsliF4OJ5KZExlH8Vj/6e55aae7525605856db18bfd8b1a75b6/mrp_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1ZiTWNmmvbKa46soV6GKHt/5563369bf00d0b827fb1c274891bccf2/mrp_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4oNv0UbiMcZvQQRPCNhsN4/1b2eb6db3b76ae1900072079c14d3d03/mrp_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4Ge1Ts0hpgBndh6TbMmMMp/fde09b931c1c15744b4e3415e7594017/mrp_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WzQqsliF4OJ5KZExlH8Vj/6e55aae7525605856db18bfd8b1a75b6/mrp_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1ZiTWNmmvbKa46soV6GKHt/5563369bf00d0b827fb1c274891bccf2/mrp_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4oNv0UbiMcZvQQRPCNhsN4/1b2eb6db3b76ae1900072079c14d3d03/mrp_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;Проголосуй за любимый скин!&lt;/h1&gt;
-[POLL]
+📊 [POLL]
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/#/ru/news/1vXU66BwkC74U1S27o6qBA"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47AmiF3PK8NXYsz6PK3qX2/1d6b66f149f3392bb408daab3ea37a36/0418_Make_vote_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
