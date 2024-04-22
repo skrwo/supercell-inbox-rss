@@ -27,6 +27,11 @@
 |Clash Mini|`en`, `es`|
 |Squad Busters|`zh`, `de`, `ru`, `fr`, `tr`, `ja`, `pl`, `en`, `pt`, `ko`, `es`, `it`|
 
+# Screenshots
+![Screenshot of Clash Mini News feed & its articles from Feeder app](/img/screenshot1.jpg)
+*(from awesome FOSS [Feeder app](https://github.com/spacecowboy/Feeder)) for Android*
+![Screenshot of Brawl Stars News, Community & Events feeds & its articles from Feeder app](/img/screenshot2.jpg)
+
 # Subscribe
 To subscribe to feeds, see [/rss/README.md](/rss).
 
