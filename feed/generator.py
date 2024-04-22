@@ -26,8 +26,9 @@ def get_button_url(link_data: dict, language: str, inbox: SupercellInbox) -> str
         print(link_data)
 
     if url_type == "url":
-        if url.startswith("brawlstars-inbox://"):
-            url = url.replace("brawlstars-inbox://", "brawlstars://")
+        url = url \
+            .replace("brawlstars-inbox://", "brawlstars://") \
+            .replace("hayday-inbox://", "hayday://")
     elif url_type == "article":
         article_id = link_data["url"]["id"]
         section_key = link_data["url"]["section"]
@@ -91,7 +92,7 @@ def generate_feed(
         e = feed.add_entry()
         e.id(entry_id)
 
-        e.title(entry["title"] if not entry.get("hideTitle") else "[HIDDEN]")
+        e.title(entry["title"] if not entry.get("hideTitle") else "🗞️")
         e.published(datetime.fromtimestamp(float(entry["postDate"]), UTC))
 
         if (metadata := entry.get("metadata")) and (
@@ -158,14 +159,16 @@ def generate_feed(
                             contents_html.append(f'<img src="{image_url}">')
                         contents_html.append(detail["body"])
                     elif detail_type == "pollBlock":
-                        contents_html.append("[POLL]")
+                        contents_html.append("📊 [POLL]")
                         contents_html.append("<ul>")
                         for option in detail["poll"]["options"]:
-                            title = option.get("title") or ""
+                            title_html = ""
+                            if title := option.get("title"):
+                                title_html = f"<p>{title}</p>"
                             image = tuple(option["image"].values())[-1]
                             image_url = inbox.compose_resource_url(image["path"])
                             contents_html.append(
-                                f'<li><p>{title}</p><img src="{image_url}"></li>'
+                                f'<li>{title_html}<img src="{image_url}"></li>'
                             )
                         contents_html.append("</ul>")
                     elif detail_type == "buttonBlock":
@@ -178,7 +181,7 @@ def generate_feed(
                     elif detail_type == "videoBlock":
                         embed = detail["embed"]
                         url = embed["url"]
-                        contents_html.append(f'<a href="{url}">[EMBEDDED VIDEO]</a>')
+                        contents_html.append(f'<a href="{url}">📺 [EMBEDDED VIDEO]</a>')
                     else:
                         print(
                             f"[!] Unknown detail type skipped: '{detail_type}' in '{inbox.subdomain}' domain [{key}/{entry_id}]"
@@ -187,9 +190,11 @@ def generate_feed(
             # Call-To-Actions buttons (typecally eventsEntries)
             if ctas := entry.get("ctas"):
                 contents_html.append("<br>")
+                ctas_html = []
                 for cta in ctas.values():
                     if html := get_button_html(cta, language, inbox):
-                        contents_html.append(html)
+                        ctas_html.append(html)
+                contents_html.append(" -- ".join(ctas_html))
 
                 if len(ctas) == 1:
                     e.link(
@@ -221,14 +226,17 @@ def generate_feed(
                     last_str = target_date.strftime("%M minutes, %S seconds")
                 else:
                     last_str = target_date.strftime("%S seconds")
-                e.content(f"⏱️ [TIMER] set to {date_str} (UTC) - {label} in {last_str}")
+                e.content(f"⏱️ [TIMER] set to {date_str} (UTC) - {label} {last_str}")
         else:
+            # Looks like it works without "[EMPTY]" at the moment
+            ...
             # ATOM requires content or link so we must add something as content
-            e.content("[EMPTY]")
+            # e.content("[EMPTY]")
 
         if not e.content() and not e.link():
             print("empty entry:", inbox.subdomain, key, entry_id)
             print("keys:", entry.keys())
+            e.content("[EMPTY]")
 
     return feed
 
@@ -257,7 +265,8 @@ def generate_feeds(inbox: SupercellInbox, language: str):
                 filename = key_to_file_name(key) or endpoint
                 try:
                     save_feed(feed, inbox.subdomain, language, filename)
-                except ValueError:
-                    print("failed to save", inbox.subdomain, language, key)
-                    raise
+                except ValueError as e:
+                    print("[!] failed to save", inbox.subdomain, language, key)
+                    print("error:", e)
+                    # raise
                 continue
