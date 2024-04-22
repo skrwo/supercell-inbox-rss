@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-04-22T03:30:59.676194+00:00</updated>
+  <updated>2024-04-22T04:32:38.939000+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -301,5 +301,16 @@
     <link href="https://youtu.be/tSbth9SL8dA"/>
     <category term="뉴스"/>
     <published>2024-04-19T12:02:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5sOpbmpSwgDWNEQPZApud2</id>
+    <title>4월 클랜 게임 보상 확인하기!</title>
+    <updated>2024-04-22T03:43:07.018000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/5sOpbmpSwgDWNEQPZApud2"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3CzuF9JwLowAMNBKojPprG/0f692dee9d90250ebcd928ed02dfd52e/0422_COC_clan-game-rewards_KR_1264x876_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/post/UgkxR_lnpCdYzg9pjKQlviNoErK4AlGnte3w"/>
+    <category term="뉴스"/>
+    <published>2024-04-21T12:12:25+00:00</published>
   </entry>
 </feed>
