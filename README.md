@@ -1,8 +1,9 @@
 ![Supercell logo behind the RSS icon](/favicon.png)
 # What's this?
-📰 Supercell Inbox RSS provides multilingual RSS & ATOM feeds for the news section of Supercell games powered by Github Actions.
+📰 Supercell Inbox RSS provides multilingual RSS & ATOM feeds for the news section of Supercell games powered by GitHub Actions & [feedgen](https://github.com/lkiesow/python-feedgen).
 
-⏱️ Updating: `every hour at minute 25!`.
+⏱️ Updates: `every hour at minute 25!`
+*(actually a bit later due to delays)*
 
 # Supported games
 |Game Name|News & Events|Community|Esport|
@@ -10,7 +11,7 @@
 |Brawl Stars|✅|✅|✅|
 |Clash Royale|✅|✅|✅|
 |Clash of Clans|✅|✅|✅|
-|HayDay|✅|✅|❌|
+|Hay Day|✅|✅|❌|
 |Boom Beach|✅|✅|❌|
 |Clash Mini|✅|❌|❌|
 |Squad Busters|✅|❌|❌|
@@ -27,10 +28,10 @@
 |Squad Busters|`zh`, `de`, `ru`, `fr`, `tr`, `ja`, `pl`, `en`, `pt`, `ko`, `es`, `it`|
 
 # Subscribe
-To subscribe to feeds, see [RSS README](/rss).
+To subscribe to feeds, see [/rss/README.md](/rss).
 
 # Missing features? Experiencing problems?
-Feel free to file an issue or pull request on Github, I will try to look into it ASAP!
+Feel free to file an issue or pull request on GitHub, I will try to look into it ASAP!
 
 # Build & use it locally
 To generate these feeds locally, you should:
