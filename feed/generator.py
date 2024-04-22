@@ -227,8 +227,8 @@ def generate_feed(
                 else:
                     last_str = target_date.strftime("%S seconds")
                 e.content(f"⏱️ [TIMER] set to {date_str} (UTC) - {label} {last_str}")
-        elif "ctas" in entry:
-            # if event entry has CTAs key but its empty inside
+        elif "details" in entry or "ctas" in entry:
+            # if event entry has CTAs or details key but its empty inside
             # (content is required for ATOM feeds)
             e.content("[EMPTY]")
         else:
