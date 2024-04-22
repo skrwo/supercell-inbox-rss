@@ -1,6 +1,6 @@
 ![Supercell logo behind the RSS icon](/favicon.png)
 # What's this?
-📰 Supercell Inbox RSS provides multilingual RSS & ATOM feeds for the news section of Supercell games powered by GitHub Actions & [feedgen](https://github.com/lkiesow/python-feedgen).
+📰 Supercell Inbox RSS provides multilingual RSS & ATOM feeds for the news section of Supercell games powered by GitHub Actions, GitHub Pages & [feedgen](https://github.com/lkiesow/python-feedgen).
 
 ⏱️ Updates: `every hour at minute 25!`
 *(actually a bit later due to delays)*
