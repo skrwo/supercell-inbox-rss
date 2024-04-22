@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-04-22T07:30:21.715677+00:00</updated>
+  <updated>2024-04-22T08:37:01.241107+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -153,7 +153,7 @@
 &lt;p&gt;안녕하세요, 대장!&lt;/p&gt;&lt;p&gt;2024년의 새해와 함께 클래시 오브 클랜 월드 챔피언십이 다시 돌아왔습니다!&lt;/p&gt;&lt;p&gt;이번 공지에서는 여러분이 올해의 월드 챔피언십에서 총 $1,000,000의 엄청난 상금을 두고 최고의 팀과 경쟁하기 위해 필요한 모든 정보를 안내해 드리겠습니다.
 &lt;/p&gt;
 &lt;h1&gt;Clash of Clans World Championship returns for 2024!&lt;/h1&gt;
-&lt;a href="https://youtu.be/bX-VzKAb9Zk?si=XvNEhhez-5pwlCEr"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://youtu.be/bX-VzKAb9Zk?si=XvNEhhez-5pwlCEr"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;h1&gt;월드 챔피언십, 초심으로!&lt;/h1&gt;
 &lt;p&gt;올해 월드 챔피언십에는 여러분에게도 친숙한 월별 토너먼트 방식이 다시 도입될 예정입니다!&lt;/p&gt;&lt;p&gt;월드 챔피언십에 대한 진행 방식은 아래를 확인해 주세요!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;4번의 월별 토너먼트&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;중국 지역 예선&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;와일드카드 결정전 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;월드 챔피언십 파이널&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;월별 토너먼트&lt;/h1&gt;
@@ -331,10 +331,18 @@
     <id>2R7jpZbHblqnL8HtXixLrt</id>
     <title>4월 월별 파이널 시청하고 보상 받자!</title>
     <updated>2024-04-19T08:35:20.811000+00:00</updated>
-    <content>[EMPTY]</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1cR9YB20YjEfVU4y119IJO/ec3c945989cb3bf68761905a5bf8e4ca/0417_______________900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://forms.gle/F71V7sgbzekhiTQv9"/>
     <category term="e스포츠"/>
     <published>2024-04-21T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2zz5hu8ghpjdIx6i6CEUdi</id>
+    <title>4월 월별 파이널 2일차 다시보기!</title>
+    <updated>2024-04-22T08:31:46.110000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7o3aMa7nbeu2plYYAUhSFt/0c5ae63aa222326265bc8ddfe76615e2/0420-21_COC_4_________2___thumb_1920x1080__1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/ciRdqjqeGvs?si=Qm2OzM5rC9RehkXt"/>
+    <category term="e스포츠"/>
+    <published>2024-04-21T18:29:27+00:00</published>
   </entry>
 </feed>

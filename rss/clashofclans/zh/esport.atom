@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-esportNewsEntries-zh</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-04-22T07:30:24.049933+00:00</updated>
+  <updated>2024-04-22T08:37:01.418835+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -67,7 +67,7 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <content>&lt;p&gt;嗨，首領們！&lt;/p&gt;&lt;p&gt;&lt;b&gt;你擁有成為最強爬盃者的實力嗎？&lt;/b&gt;準備好踏上令人振奮的旅程！Clash Champs將帶來自己最受歡迎賽事之一的爬盃賽！&lt;b&gt;這次的比賽將圍繞15級大本營進行&lt;/b&gt;，考驗每位參賽者的爬盃能力！&lt;/p&gt;&lt;p&gt;如同賽事名稱 TH15 Trophy Race（15本爬盃賽），該賽事的目標只有一個：&lt;b&gt;在指定時間內累積獲得最多獎盃數。&lt;/b&gt;此賽事著重時間、其他玩家和你的爬盃能力，無論你是擅長進攻，還是防守，都需要參賽者全心投入，並堅持到底，才有機會脫穎而出。&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;如何報名？&lt;/b&gt;&lt;/p&gt;&lt;p&gt;點擊&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fclashchamps.com%252Fleaderboard%252F%253Ftid%253D8')"&gt;&lt;u&gt;此處&lt;/u&gt;&lt;/a&gt;前往報名，並完成以下步驟：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;於活動頁面點擊報名（SIGN UP），於開啟的新頁面下方再次點擊報名（SIGN UP）按鈕&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;於登入頁面點擊登入（Login），若未註冊（Register）過，則需先進行註冊&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;登入後，若未填寫過帳號資料，於YOUR PLAYER TAGS欄位選擇Add New Tag，再於下方欄位輸入你的玩家標籤和Token&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;玩家標籤用於確認參賽帳號：可於遊戲內點擊左上方→我的個人資料→資料頁面玩家名稱下方查看#開頭的一串英數混合字串&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;API Token用於驗證帳號：可於遊戲內的設定→更多設定→於API Token欄位點擊「顯示」找到自己的Token&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;資料填寫完成後，則可於頁面點擊報名（SIGN UP）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;完成報名後..就能等待比賽開始！你也可以使用多個帳號參加賽事。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;首個爬盃賽是從9級大本營開始，相關賽程時間如下：&lt;/p&gt;&lt;p&gt;&lt;b&gt;大本營等級：15本&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;報名時間：從1月22日起至1月28日（&lt;b&gt;報名已結束01.30更新&lt;/b&gt;）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;比賽開始時間：1月29日23點（台北/香港時間）&#13;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;報名截止時間：2月15日23點30分（台北/香港時間）&#13;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;比賽結束時間：2月17日23點30分（台北/香港時間）&#13;
 &#13;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;為確保參賽者公平競爭，比賽開始時，參賽者的&lt;b&gt;15級大本營需要至少達5000獎盃&lt;/b&gt;。&lt;/p&gt;&lt;p&gt;&lt;b&gt;以下是由Clash Bashing提供的影片（英文解說），說明了9本爬盃賽時的過程，提供大家作為參考。&lt;/b&gt;&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=TFjlnVOEsAc"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=TFjlnVOEsAc"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;&lt;b&gt;賽事獎勵！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;接下來就來說說每個類別獲勝者的獎勵，我們了解努力被認可與獎勵的價值，一起來看看有哪些令人印象深刻的獎勵。&lt;/p&gt;&lt;p&gt;前3名可獲得的獎勵內容如下：&lt;/p&gt;&lt;p&gt;&lt;b&gt;15級大本營&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;第1名：2000寶石+3000 Champ Bucks+Pro Base Pack（Pro陣型組合包）+VIP周邊禮盒+200美元&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;第2名：1000寶石+1500 Champ Bucks+Pro Base Pack（Pro陣型組合包）+黃金通行證+150美元&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;第3名：500寶石+750 Champ Bucks+Pro Base Pack（Pro陣型組合包）+100美元&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;金蛋獎：在活動排行榜上會隨機出現金蛋圖示，你的名稱旁邊有該圖示則能獲得500寶石&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;直播抽獎：在比賽最後一天的指定直播中，總計將抽出2000寶石（1000x2）+Pro Base Pack（Pro陣型組合包）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;除了寶石外，如果你在活動排行榜上發現自己的名稱旁邊有金蛋圖示，則能隨機獲得神秘獎勵。整個比賽過程中，請密切留意這個特別驚喜。同時，&lt;b&gt;在指定的直播中還將抽出Pro Base Pack（Pro陣型組合包）和寶石&lt;/b&gt;，請持續留意。&lt;/p&gt;&lt;p&gt;另外，&lt;b&gt;每位報名參賽的玩家將能獲得10 Champ Bucks&lt;/b&gt;，Champ Bucks 可於主辦單位Clash Champs網站的&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.clashchamps.com%252Fchamp-bucks-rewards%252F')"&gt;&lt;u&gt;獎勵商店&lt;/u&gt;&lt;/a&gt;中使用。&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/iuclPfbVHrLGyY8iT40HbQZX5bQWJprX3kOR4MtsSFQ/29f7f85df35fdc65257090c97885348b/447080135_1686146198.png?w=1104&amp;h=917&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;加入Clash Champs的&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdiscord.gg%252Fclashchamps')"&gt;&lt;u&gt;Discord伺服器&lt;/u&gt;&lt;/a&gt;，並在&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FClashChamps')"&gt;&lt;u&gt;X（Twitter）&lt;/u&gt;&lt;/a&gt;上追蹤他們。當然也別忘了追蹤《部落衝突》電競賽事&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;&lt;u&gt;X（Twitter）&lt;/u&gt;&lt;/a&gt;和&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt;&lt;u&gt;Instagram&lt;/u&gt;&lt;/a&gt;，以獲取Trophy Race賽事的最新資訊！&lt;/p&gt;&lt;p&gt;全面開戰！&lt;/p&gt;</content>
@@ -83,7 +83,7 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
 &#13;
 &lt;/p&gt;
 &lt;h1&gt;2024部落衝突全球錦標賽火熱回歸！&lt;/h1&gt;
-&lt;a href="https://www.youtube.com/watch?v=3ulVqG9Yr5s"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=3ulVqG9Yr5s"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;&lt;b&gt;回歸初衷&lt;/b&gt;&lt;/p&gt;&lt;p&gt;大家對於過去的賽事規劃總是念念不忘，我們也是！所以今年《部落衝突》全球錦標賽重新帶回月度賽事！&lt;/p&gt;&lt;p&gt;&lt;b&gt;簡單來說，全球錦標賽將包括：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;4場月度賽事&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1場中國大陸區域資格賽&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1場最終席位資格賽&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1場線下舉辦的部落衝突全球總決賽&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;月度賽事&lt;/b&gt;&lt;/p&gt;&lt;p&gt;今年的4月到7月，每個月都會有一次獲得黃金門票並晉級全球總決賽的機會！每場月度賽事都分為3個階段：預選賽（第一階段）、128支隊伍參賽的月度資格賽和月度決賽。&lt;/p&gt;&lt;p&gt;簡單來說，如果你的隊伍贏得月度決賽第1名即可獲得1張黃金門票，並直接晉級全球總決賽！此外，每個月的月度決賽第2名將自動獲得最終席位資格賽的參賽資格，所以第2名也很重要！&lt;/p&gt;&lt;p&gt;大家可能會想問，所以比賽什麼時候開始呢？別擔心，一旦有最新消息我們就會即時向大家公布。在開放報名時，請大家留意遊戲內村莊畫面旁的賽事中心圖示！&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;最終席位資格賽&lt;/b&gt;&lt;/p&gt;&lt;p&gt;如果沒有最終席位資格賽，今年的賽事就沒那麼有趣囉！4支從月度賽事晉級的隊伍與數個社群賽事的冠軍，將在最終席位資格賽為爭奪最後1張黃金門票而戰。&lt;/p&gt;&lt;p&gt;&#13;
@@ -101,7 +101,7 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
 2024 部落衝突全球熱身賽公開預選賽1已揭開戰幕。經過首日的激戰後，第2天賽程將於&lt;b&gt;3月3日20點&lt;/b&gt;延續火熱激戰，並由各地創作者進行直播。&#13;
 &#13;
 繁體中文由烏龜與金雄再度攜手合作，於&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜頻道&lt;/a&gt;為大家帶來最熱血沸騰的賽事解說！請記得提前&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;訂閱烏龜頻道&lt;/a&gt;，才不會錯過即時戰況！&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=zWerCTK6gEo"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=zWerCTK6gEo"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;另外，金雄也會製作許多部落衝突相關的攻略影片，也別忘了&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;訂閱他的頻道&lt;/a&gt;唷！&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;公開預選賽賽制說明&lt;/b&gt;&#13;
 &#13;
@@ -136,7 +136,7 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
 &#13;
 上週部落衝突全球熱身賽敲響公開預選賽1戰局，歷經多場激戰後，7支隊伍搶先晉級下週小組賽，本週則進行公開預選賽2，第2天賽程將於3月10日20點展開，並決定最後6支晉級小組賽的隊伍！&lt;/p&gt;
 &lt;p&gt;繁體中文由烏龜與金雄將聯手直播，並於&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜頻道&lt;/a&gt;為大家轉播熱血賽事！請記得提前訂閱&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜頻道&lt;/a&gt;，掌握最新戰況！&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=F7nmX0xV4C4"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=F7nmX0xV4C4"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;當然，也別忘了訂閱趣味與實力兼具的&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;金雄&lt;/a&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;頻道&lt;/a&gt;唷！&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;公開預選賽賽制說明&lt;/b&gt;&#13;
 &#13;
@@ -155,8 +155,8 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <title>全球錦標賽熱身賽小組賽！</title>
     <updated>2024-03-15T14:18:41.592000+00:00</updated>
     <content>&lt;p&gt;首領們，大家好！&lt;/p&gt;&lt;p&gt;經過兩場激烈無比的公開預選賽，2024全球錦標賽熱身賽小組賽已經蓄勢待發！為了挑戰冠軍頭銜以及30,000美元總獎金中的最高份額，所有隊伍都已經準備好16級大本營的最佳策略與技巧，以確保拿下熱身賽總決賽的席次！&lt;/p&gt;&lt;p&gt;熱身賽小組賽預計將於&lt;b&gt;3月16日、17日20點&lt;/b&gt;展開激烈對戰，繁體中文兩天都將由烏龜於頻道進行直播，小組賽第2天賽程，金雄則將加入解說行列，與烏龜一同分析即時戰況！&lt;/p&gt;&lt;p&gt;請大家記得訂閱&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜頻道&lt;/a&gt;，並設定直播提醒，以掌握最新開播消息！&lt;/p&gt;
-&lt;a href="https://youtube.com/live/YJbtRVq7JGE"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
-&lt;a href="https://youtube.com/live/AJkmWAxxsWk"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://youtube.com/live/YJbtRVq7JGE"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://youtube.com/live/AJkmWAxxsWk"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;還有，也請大家別忘了訂閱趣味與技術滿滿的&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;金雄&lt;/a&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;頻道&lt;/a&gt;唷！多多支持創作者們唷！&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;小組賽參賽隊伍&lt;/b&gt;&lt;/p&gt;&lt;p&gt;除了3支被邀請的部落衝突全球總決賽隊伍外，參賽隊伍還包括7支從第1場公開預選賽晉級的隊伍，以及6支從第2場公開預選賽晉級的隊伍。以下是16支參加小組賽的隊伍：&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2xzZJqB5pKOIjrXdTiZ2Hu/60fce5235223f6e2706c7538202beaa8/tw_20240315_CoC-Worlds-Warmup_Group-Stage-Teams.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
@@ -192,8 +192,8 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <content>&lt;p&gt;首領們，大家好！&lt;/p&gt;&lt;p&gt;在經過2場競爭激烈的公開預選賽及1場無比精彩的小組賽後，2024全球錦標賽熱身賽最後僅存的8支隊伍已經蓄勢待發，準備爭奪30,000美元總獎金中的最高份額！&lt;/p&gt;&lt;p&gt;熱身賽總決賽將於&lt;b&gt;3月23日、24日20點&lt;/b&gt;敲響最後激戰，繁體中文將由烏龜攜手金雄於頻道連續2天為大家帶來熱血沸騰的戰局解說，相信總決賽所有參賽隊伍也將在最後賽程中，卯足全力拼三星、拼摧毀率、拼進攻速度！精彩可期！&#13;
 &#13;
 請務必訂閱&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜頻道&lt;/a&gt;，開啟小鈴鐺，才不會漏接賽事直播消息唷！&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=naW3-I1XfEg"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
-&lt;a href="https://www.youtube.com/watch?v=ET_WoUFTj6w"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=naW3-I1XfEg"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=ET_WoUFTj6w"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;也別忘了訂閱和烏龜默契十足的&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;金雄&lt;/a&gt;唷！&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;總決賽參賽隊伍&lt;/b&gt;&lt;/p&gt;&lt;p&gt;這是在16級大本營推出後最緊張刺激的競技時刻，最終只有一支隊伍能在全球錦標賽熱身賽脫穎而出，榮獲冠軍頭銜！&lt;/p&gt;&lt;p&gt;以下是8支總決賽參賽隊伍：&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6kUy13SFh4jNoWgx3p6YCL/25d44012e68faa16df65390b23156f45/tw_20240322_Playoffs-Article-Worlds-Warmup-Teams.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
@@ -210,7 +210,6 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <id>1J0qz9CjAbvApcTRn2F0LX</id>
     <title>重溫熱身賽總決賽第1天熱血拚戰！</title>
     <updated>2024-03-26T14:51:25.602000+00:00</updated>
-    <content>[EMPTY]</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5WkwB8fBHYqBhlwV0qmB0i/d97eb452763db12ad0a3ba82bb24b713/tw_20240323_turtle_live_thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/naW3-I1XfEg?t=661"/>
     <category term="賽事"/>
@@ -220,7 +219,6 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <id>14kmf8VIUrxu2USIeQhauv</id>
     <title>重溫熱身賽總決賽第2天冠軍出爐！</title>
     <updated>2024-03-25T16:57:40.660000+00:00</updated>
-    <content>[EMPTY]</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1ESZP1VqCh3YaTtflGJ5aT/2f12b83b81151ae5e2cc81e3d6ba17e7/tw_20240324_turtle_live_thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/ET_WoUFTj6w?t=554"/>
     <category term="賽事"/>
@@ -250,8 +248,8 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
 烏龜與金雄將於&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜頻道&lt;/a&gt;攜手直播，不過由於月度資格賽對戰的場次較多，因此只會從中挑選幾場賽事進行轉播。&#13;
 &#13;
 請記得&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;訂閱烏龜頻&lt;/a&gt;道並設定提醒，才不會錯過熱血沸騰的即時戰況唷！&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=yx6l252vaBQ"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
-&lt;a href="https://www.youtube.com/watch?v=ymVsbH-0ZHk"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=yx6l252vaBQ"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=ymVsbH-0ZHk"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;當然，也別忘了訂閱一同參與賽事直播解說的&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;金雄頻道&lt;/a&gt;！&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;賽制說明&lt;/b&gt;&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/60US1vmBzCF7z6GqHsZdDx/bc5ecbc0c09725ba4facc189a72a53ee/tw_20240412_COC_-_April_MQ_Format.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
@@ -267,7 +265,6 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <id>vuBCHpN3niaoqlFJjl46u</id>
     <title>重溫4月月度資格賽第1天精彩！</title>
     <updated>2024-04-16T10:51:14.854000+00:00</updated>
-    <content>[EMPTY]</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3UlmY8IsXzySTqX5yXavCa/8bf9e2c6e915bc131b75abd0d9b4f100/tw_20240415_April_MQ_Day1_Rewatch_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=yx6l252vaBQ"/>
     <category term="賽事"/>
@@ -277,7 +274,6 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <id>1ICZmeyYPPIc0s1tFj5vvh</id>
     <title>見證4月月度資格賽第2天激戰！</title>
     <updated>2024-04-16T12:05:15.994000+00:00</updated>
-    <content>[EMPTY]</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1XchtQZfCc3VmT0FtJXRM4/9fcaefc9cedd3c50d8dbe6d5f94719fc/tw_20240415_April_MQ_Day2_Rewatch_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=ymVsbH-0ZHk"/>
     <category term="賽事"/>
@@ -290,8 +286,8 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <content>&lt;p&gt;首領們，大家好！&lt;/p&gt;&lt;p&gt;隨著4月月度資格賽結束，精彩刺激的4月月度決賽即將展開！&lt;/p&gt;&lt;p&gt;4月月度決賽為期2天，將在4月20日至21日舉行。2天的比賽開始時間皆為台北/香港時間22:00，記得在你的行事曆中做好標記唷！那就讓我們開始吧......&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2sbLRkSsO6ZFLk8fLR95G3/61f058ed93eb70e50b6030daf6c730c4/tw_20240418_COC_-_ZHTC_Talent_Graphic.jpg?w=1080&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;與先前的月度賽事相同，繁體中文將由&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜&lt;/a&gt;與&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;金雄&lt;/a&gt;於&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜頻道&lt;/a&gt;為大家帶來月度決賽的轉播，4月更新後推出了全新戰寵──憤怒水母，部分建築的等級上限也有提升，究竟對於月度決賽會有什麼影響？頂尖選手們又有何應對之道？4月20日、21日每晚22點鎖定&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜頻道&lt;/a&gt;，答案即將揭曉！&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=0wjIxE47V1s"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
-&lt;a href="https://www.youtube.com/watch?v=tTlnYXU3FPI"&gt;[EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=0wjIxE47V1s"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=tTlnYXU3FPI"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/60l3z2xD4TasqLELechrbm/b60664ee412d0b588448cbcf9d60d682/tw_20240420_COC_April-MF_BRACKET.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;接著帶大家了解賽事的基本資訊！總共有6支隊伍從&lt;u&gt;4月月度資格賽&lt;/u&gt;晉級至4月月度決賽：2支隊伍來自勝者組，4支隊伍來自敗者組。4月月度決賽的對戰順位將根據每支隊伍在4月月度資格賽的名次決定：透過敗者組晉級的4支隊伍將從月度決賽勝者組第1輪開始比賽；透過勝者組晉級的2支隊伍將在第1輪輪空，從第2輪開始比賽。對戰順位越高，優勢越大！&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2gQb1nHcNqGND895LwG6oW/d3b9470981a5169d1efaf815adbe5719/tw_20240419_COC---April-MF-Format.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
@@ -312,7 +308,6 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <id>64JSGI8DXqGO2Vmp0qPibn</id>
     <title>重溫月度決賽第1天精彩!</title>
     <updated>2024-04-21T15:52:56.795000+00:00</updated>
-    <content>[EMPTY]</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5iToqEWbYAYr3bOJX2awIw/e91481846b3c2f7409dc9eea0039b48c/tw_20240420_turtle_live_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=0wjIxE47V1s"/>
     <category term="賽事"/>
@@ -321,8 +316,7 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
   <entry>
     <id>2zz5hu8ghpjdIx6i6CEUdi</id>
     <title>重燃4月月度決賽第2天熱血!</title>
-    <updated>2024-04-22T04:10:53.918000+00:00</updated>
-    <content>[EMPTY]</content>
+    <updated>2024-04-22T08:31:46.110000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3n6ycP7RM2z62CCMiUAwaL/6f3b8da5b5da2c991182b83af17f6fca/tw_20240421_turtle_live_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=tTlnYXU3FPI"/>
     <category term="賽事"/>
