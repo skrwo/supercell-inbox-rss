@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-04-22T05:29:59.007706+00:00</updated>
+  <updated>2024-04-22T06:36:56.599536+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -277,5 +277,27 @@
     <link href="https://youtu.be/ZQRXKZqijLs"/>
     <category term="最新情報"/>
     <published>2024-04-19T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1vSbyfeWSGabP8H3kegCh3</id>
+    <title>【嘿!兄弟】搶先了解平衡性調整等🥚新資訊！</title>
+    <updated>2024-04-22T06:23:43.221000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/1vSbyfeWSGabP8H3kegCh3"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4FXRjstz4oBQD4O0CVm7h/0398d628bcc0da71feaea446fcf5a4ca/tw_20240422_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=e9KCNHZGeJU"/>
+    <category term="最新情報"/>
+    <published>2024-04-22T06:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2WonW8dbbkyO0QXuNbAuj1</id>
+    <title>【盛主播】🏙️新模式解析！變異技能全公開等更多內容！</title>
+    <updated>2024-04-22T06:22:19.560000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/2WonW8dbbkyO0QXuNbAuj1"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/22i78uFle8IgoMN3iLwxhr/d6a4aa898b297cbf83d5f3a94b0ba059/tw_20240422_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=G8jAXTzU4gM"/>
+    <category term="最新情報"/>
+    <published>2024-04-22T06:01:00+00:00</published>
   </entry>
 </feed>
