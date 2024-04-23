@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-04-23T06:40:06.760036+00:00</updated>
+  <updated>2024-04-23T07:30:11.851007+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -286,5 +286,25 @@
     <link href="https://www.youtube.com/watch?v=G8jAXTzU4gM"/>
     <category term="最新情報"/>
     <published>2024-04-22T06:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4rm89R8TG3b6JaAvDQtZmo</id>
+    <title>【盛主播】刺客英雄莉莉🍓！對戰局的影響是？</title>
+    <updated>2024-04-23T06:55:16.784000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/4rm89R8TG3b6JaAvDQtZmo"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4DoQSgjtUVD7kY6QxXwVMj/dee2c3335cd1362bd3a5837102fb00c7/tw_20240423_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=qRuCqbZEZSU"/>
+    <category term="最新情報"/>
+    <published>2024-04-23T04:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2aTqlIG1jGmPPY8hDeZGT4</id>
+    <title>【嘿!兄弟】🌿莉莉各項數值為何？有何特別之處？</title>
+    <updated>2024-04-23T06:54:58.027000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/2aTqlIG1jGmPPY8hDeZGT4"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4N8Mjfrn5G1nCGMUhqyYjx/599d4ac7d2cca6a60fa4814f3ab7687d/tw_20240423_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=0G_KRxhGKMg"/>
+    <category term="最新情報"/>
+    <published>2024-04-23T04:01:00+00:00</published>
   </entry>
 </feed>
