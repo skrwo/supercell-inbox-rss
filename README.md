@@ -1,4 +1,4 @@
-![Supercell logo behind the RSS icon](/favicon.png)
+![Supercell logo behind the RSS icon](./favicon.png)
 # What's this?
 📰 Supercell Inbox RSS provides multilingual RSS & ATOM feeds for the news section of Supercell games powered by GitHub Actions, GitHub Pages & [feedgen](https://github.com/lkiesow/python-feedgen).
 
@@ -30,12 +30,12 @@
 |Squad Busters|`zh`, `de`, `ru`, `fr`, `tr`, `ja`, `pl`, `en`, `pt`, `ko`, `es`, `it`|
 
 # Screenshots
-![Screenshot of Clash Mini News feed & its articles from Feeder app](/img/screenshot1.jpg)
+![Screenshot of Clash Mini News feed & its articles from Feeder app](./img/screenshot1.jpg)
 *(from awesome FOSS [Feeder app](https://github.com/spacecowboy/Feeder)) for Android*
-![Screenshot of Brawl Stars News, Community & Events feeds & its articles from Feeder app](/img/screenshot2.jpg)
+![Screenshot of Brawl Stars News, Community & Events feeds & its articles from Feeder app](./img/screenshot2.jpg)
 
 # Subscribe
-To subscribe to feeds, see [/rss/README.md](/rss).
+To subscribe to feeds, see [./rss/README.md](/rss).
 
 # Missing features? Experiencing problems?
 Feel free to file an issue or pull request on GitHub, I will try to look into it ASAP!
