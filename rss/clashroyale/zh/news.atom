@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-04-23T11:30:24.960370+00:00</updated>
+  <updated>2024-04-23T12:55:55.914335+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -36,15 +36,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66V0N7nSlomi1MSiL2GgLc/2fa1078807e64f95a3cb3f2fce99616b/tw_20231201_CR-Roadmap-2024-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2023-12-01T04:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>4o2dlbxF1wEqquwEkOsmgd</id>
-    <title>拳頭不能解決一切🤜🤛，但...</title>
-    <updated>2024-01-25T03:18:33.441000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/4o2dlbxF1wEqquwEkOsmgd"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3MxFLgvjxsQPO9Lhg479Nr/3c5cebf67943c0c1a2213daba44988cc/Untitled_design__6_.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="趣味"/>
-    <published>2024-01-24T11:00:00+00:00</published>
   </entry>
   <entry>
     <id>JSjMEcXBZAEUla9DGSWWJ</id>
