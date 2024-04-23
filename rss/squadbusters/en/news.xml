@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Apr 2024 08:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:31:11 +0000</lastBuildDate>
     <item>
       <title>All you need to know!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -31,6 +31,14 @@
       <category>News</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7dJv1fW5asCDlcfGrc28iv/a5753b4705e1853a89a1a7b5741b97a8/SB_preGL_Thumb_final_02.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Tue, 23 Apr 2024 06:21:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch the launch animation!</title>
+      <link>https://youtu.be/9mFKWkge2lA</link>
+      <guid isPermaLink="false">3PX7io2RhcJiEJQE9yIigg</guid>
+      <category>News</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4tqSUAGiJZa8T4lqGZfDUn/2b96de163c3db3e9de92ef3877f53132/launch_video_thumb_final.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Apr 2024 09:20:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
