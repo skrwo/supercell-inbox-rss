@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-eventEntries-ja</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-04-23T07:30:21.186602+00:00</updated>
+  <updated>2024-04-23T08:32:55.833371+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
+  <entry>
+    <id>4lGTM4X1xaUQzVwT9PzbL</id>
+    <title>🗞️</title>
+    <updated>2024-04-23T08:15:43.959000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://discord.gg/squadbusters"&gt;👉Join Discord!👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3cZfj8OZRHtMlhSxhwawQy/5f70c1664a4488ce3d5fe0777b4ee5dc/discordv2.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://discord.gg/squadbusters"/>
+    <published>2023-05-22T20:19:17+00:00</published>
+  </entry>
+  <entry>
+    <id>5iVRn2WEJKcaCmbVI29Upi</id>
+    <title> </title>
+    <updated>2024-04-23T08:15:18.175000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3zExNhWhiM8yB9MQTTanTD/d6fa59de855691f614efb50ee4f3e47c/caroussel_welcome.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <published>2024-04-22T12:30:53+00:00</published>
+  </entry>
 </feed>

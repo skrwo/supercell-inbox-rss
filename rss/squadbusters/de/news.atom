@@ -2,8 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-newsEntries-de</id>
   <title>Squadbusters - News</title>
-  <updated>2024-04-23T07:30:21.062850+00:00</updated>
+  <updated>2024-04-23T08:32:54.849509+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
+  <entry>
+    <id>tdQvcI6vCnsfQOII5d8xM</id>
+    <title>All you need to know!</title>
+    <updated>2024-04-23T08:03:48.773000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/de/news/tdQvcI6vCnsfQOII5d8xM"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
+    <published>2024-04-22T11:55:16+00:00</published>
+  </entry>
+  <entry>
+    <id>1D1NDyjKXuZ8tZz04eMVoL</id>
+    <title>What is Squad Busters? 🧐</title>
+    <updated>2024-04-23T08:03:13.312000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/de/news/1D1NDyjKXuZ8tZz04eMVoL"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4PbdVYBHswZGl4XxelJ1dg/201d2409168b737b6db571ae12a4dc53/squad_inanutshelll.jpeg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=cDCCpWJRWak"/>
+    <category term="News"/>
+    <published>2024-04-22T12:06:05+00:00</published>
+  </entry>
+  <entry>
+    <id>30GoLvOJ4NNQT5B1FZvCVP</id>
+    <title>Breaking the curse?!</title>
+    <updated>2024-04-23T08:05:21.726000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/de/news/30GoLvOJ4NNQT5B1FZvCVP"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7dJv1fW5asCDlcfGrc28iv/a5753b4705e1853a89a1a7b5741b97a8/SB_preGL_Thumb_final_02.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Ok_E_G52zp8"/>
+    <category term="News"/>
+    <published>2024-04-23T06:21:01+00:00</published>
+  </entry>
 </feed>
