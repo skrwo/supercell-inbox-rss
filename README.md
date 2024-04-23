@@ -6,6 +6,7 @@
 *(actually a bit later due to delays)*
 
 # Supported games
+
 |Game Name|News & Events|Community|Esport|
 |---------|-------------|---------|------|
 |Brawl Stars|✅|✅|✅|
@@ -17,6 +18,7 @@
 |Squad Busters|✅|❌|❌|
 
 # Available languages
+
 |Game Name|Language Codes|
 |---------|--------------|
 |Brawl Stars|`zh`, `de`, `ru`, `fr`, `tr`, `ja`, `pl`, `id`, `en`, `pt`, `ko`, `es`, `it`|
@@ -40,21 +42,21 @@ Feel free to file an issue or pull request on GitHub, I will try to look into it
 
 # Build & use it locally
 To generate these feeds locally, you should:
-1. ### Clone this repository
+### 1. Clone this repository
 ```
 git clone https://github.com/skrwo/supercell-inbox-rss.git
 ```
 
-2. ### Install python
+### 2. Install python
 (Python installation depends on OS you're using, so google it yourself)
 
-3. ### Open the repo & install its dependencies
+### 3. Open the repo & install its dependencies
 ```
 cd supercell-inbox-rss
 pip install -r requirements.txt
 ```
 
-4. ### Generate feeds!
+### 4. Generate feeds!
 ```
 python -m feed
 ```
