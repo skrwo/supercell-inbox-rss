@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-newsEntries-es</id>
   <title>Brawlstars - News</title>
-  <updated>2024-04-24T11:30:27.065944+00:00</updated>
+  <updated>2024-04-24T13:26:40.941055+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -222,22 +222,23 @@ Nuevo brawler: &lt;b&gt;Angelo&lt;/b&gt; (calidad épica)&lt;/h3&gt;&lt;p&gt;Tip
   <entry>
     <id>1vXU66BwkC74U1S27o6qBA</id>
     <title>¡Vota los aspectos de MAKE del señor P y de Amber!</title>
-    <updated>2024-04-18T20:38:43.974000+00:00</updated>
-    <content>&lt;h1&gt;¡Vota tu aspecto favorito!&lt;/h1&gt;
-📊 [POLL]
-&lt;ul&gt;
-&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4Ge1Ts0hpgBndh6TbMmMMp/fde09b931c1c15744b4e3415e7594017/mrp_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WzQqsliF4OJ5KZExlH8Vj/6e55aae7525605856db18bfd8b1a75b6/mrp_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1ZiTWNmmvbKa46soV6GKHt/5563369bf00d0b827fb1c274891bccf2/mrp_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4oNv0UbiMcZvQQRPCNhsN4/1b2eb6db3b76ae1900072079c14d3d03/mrp_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;
+    <updated>2024-04-24T13:25:24.767000+00:00</updated>
+    <content>&lt;h3&gt;&lt;b&gt;Resultados de Amber&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Aspecto ganador: &lt;b&gt;Amber patinadora&lt;/b&gt; de Artdrei (38,1 % de los votos).&lt;/p&gt;&lt;p&gt;Segundo puesto: &lt;b&gt;Amber sirena&lt;/b&gt; de Kalator (37,6 % de los votos).&lt;/p&gt;&lt;p&gt;Tercer puesto: &lt;b&gt;Amber acuática&lt;/b&gt; de Skizzly (17,1 % de los votos).&lt;/p&gt;&lt;p&gt;Cuarto puesto: &lt;b&gt;Amber marina&lt;/b&gt; de Nana (7,3 % de los votos).&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Resultados del señor P&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Aspecto ganador: &lt;b&gt;señor P fruta del dragón&lt;/b&gt; de Frankyyy (36,8% de los votos).&lt;/p&gt;&lt;p&gt;Segundo puesto: &lt;b&gt;señor P &lt;/b&gt;&lt;i&gt;&lt;b&gt;skater&lt;/b&gt;&lt;/i&gt; de Tea_isgood (35,8 % de los votos).&lt;/p&gt;&lt;p&gt;Tercer puesto: &lt;b&gt;señor P veraniego&lt;/b&gt; de Artdrei (15,5 % de los votos).&lt;/p&gt;&lt;p&gt;Cuarto puesto: &lt;b&gt;señor P patito de goma&lt;/b&gt; de Steamfish (11,9 % de los votos).&lt;/p&gt;
 &lt;h1&gt;¡Vota tu aspecto favorito!&lt;/h1&gt;
 📊 [POLL]
 &lt;ul&gt;
 &lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ganador: 38,1 %&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;¡Vota tu aspecto favorito!&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ganador: 36,8 %&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4Ge1Ts0hpgBndh6TbMmMMp/fde09b931c1c15744b4e3415e7594017/mrp_300x400_v3.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WzQqsliF4OJ5KZExlH8Vj/6e55aae7525605856db18bfd8b1a75b6/mrp_300x400_v4.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1ZiTWNmmvbKa46soV6GKHt/5563369bf00d0b827fb1c274891bccf2/mrp_300x400_v2.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4oNv0UbiMcZvQQRPCNhsN4/1b2eb6db3b76ae1900072079c14d3d03/mrp_300x400_v1.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/#/es/news/1vXU66BwkC74U1S27o6qBA"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47AmiF3PK8NXYsz6PK3qX2/1d6b66f149f3392bb408daab3ea37a36/0418_Make_vote_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
