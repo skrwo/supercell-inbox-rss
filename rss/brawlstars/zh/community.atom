@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-communityEntries-zh</id>
   <title>Brawlstars - Community</title>
-  <updated>2024-04-25T11:30:09.149704+00:00</updated>
+  <updated>2024-04-25T12:45:32.167139+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Community</subtitle>
   <entry>
     <id>41wVD3qdyqHzZXlIDDlwT7</id>
     <title>為什麼我們當初沒有對賴瑞做立即修正？Podcast第六集！</title>
-    <updated>2024-04-25T11:30:09.149790+00:00</updated>
+    <updated>2024-04-25T12:45:32.167261+00:00</updated>
     <author>
       <name>盛主播 (創作者代碼：JIANSS)</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>56BR5JpVevN3aegrpTyQAf</id>
     <title>這次的極限威能該先買哪個？哪個又最好用？</title>
-    <updated>2024-04-25T11:30:09.149739+00:00</updated>
+    <updated>2024-04-25T12:45:32.167224+00:00</updated>
     <author>
       <name>盛主播 (創作者代碼：JIANSS)</name>
     </author>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/XMvpyd1tMWsiI2QgjZqFJ/e7c51ac27d8687737cf9928f14df7ffa/guest-content-video-88-e0a72ea5-ceee-4fac-b7c4-a849736f86ab-qrsu.png-1709194100570?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/XS-wXufh6kg?si=-dCfRdwVhirWClhL"/>
     <published>2024-02-29T08:08:27+00:00</published>
+  </entry>
+  <entry>
+    <id>3CmPnFWwur3Bt8bv7PA1O2</id>
+    <title>莉莉搶先玩！手跟艾德加一樣短，上手難度有點高！</title>
+    <updated>2024-04-25T12:45:32.167173+00:00</updated>
+    <author>
+      <name>盛主播 (創作者代碼：JIANSS)</name>
+    </author>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/10gKwnNSolQ138GXLIMUre/e22e9cab1fe04e5eeb3cd3ef77e18560/guest-content-video-88-e0a72ea5-ceee-4fac-b7c4-a849736f86ab-ping.png-1714045732099?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=iUIfr1lhIHE"/>
+    <published>2024-04-25T11:48:58+00:00</published>
   </entry>
 </feed>

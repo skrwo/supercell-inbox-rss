@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-04-25T11:30:50.665256+00:00</updated>
+  <updated>2024-04-25T12:45:36.468151+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -363,5 +363,15 @@ X上にて、#クラクラ鋭角部、#クラロワ鋭角部、#ブロスタ鋭�
     <link href="https://x.com/ClashofClansJP/status/1782032104676892973"/>
     <category term="クランゲーム"/>
     <published>2024-04-22T01:48:35+00:00</published>
+  </entry>
+  <entry>
+    <id>6JEplQwCmHbUbtZXUjRB1G</id>
+    <title>JP_【本日22時~】クラクラRTA!! Klaus vs STARs vs Hiroya 漢のタイムアタック選手権!!</title>
+    <updated>2024-04-25T12:40:48.927000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/6JEplQwCmHbUbtZXUjRB1G"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1ZrfrU7zJfn17J6VLSmICW/d4c21edd8deedc960fe8103f1df2a8a9/1vs1-31.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=whGrSY933aY"/>
+    <category term="コミュニティ"/>
+    <published>2024-04-25T12:40:48+00:00</published>
   </entry>
 </feed>
