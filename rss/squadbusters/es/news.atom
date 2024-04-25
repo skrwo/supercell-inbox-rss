@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>squadbusters-newsEntries-es</id>
   <title>Squadbusters - News</title>
-  <updated>2024-04-25T10:34:01.067575+00:00</updated>
+  <updated>2024-04-25T11:31:09.376999+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://youtu.be/9mFKWkge2lA"/>
     <category term="Novedades"/>
     <published>2024-04-23T09:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>EYmIsl43zztN5d20Kv0fM</id>
+    <title>🌎 🌏 🌍 !!!</title>
+    <updated>2024-04-25T10:58:01.256000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/es/news/EYmIsl43zztN5d20Kv0fM"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5DQBxX2cS4fAfKiJyxLmJk/c8b37823423c66e167abe46c2c91582f/Thumbnail_GLOBAL_16x9.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=6mEMO6o6VqI"/>
+    <category term="Novedades"/>
+    <published>2024-04-25T10:56:40+00:00</published>
   </entry>
 </feed>
