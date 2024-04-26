@@ -2,6 +2,510 @@
     "entries": {
         "eventEntries": [
             {
+                "id": "M2xVY60x3ghgVKT0J3eEX",
+                "metadata": {
+                    "id": "M2xVY60x3ghgVKT0J3eEX",
+                    "publishedAt": "2024-04-26T09:04:16.724Z",
+                    "publishedVersion": 41
+                },
+                "targeting": {
+                    "country": [],
+                    "platform": [
+                        "android"
+                    ],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "postDate": "1714122256",
+                "sortDate": "1714122256",
+                "lang": "en",
+                "title": "",
+                "type": "progressTrackerEntry",
+                "ctas": {
+                    "4TZ9aS8H14keDr70wcBXpe": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "4TZ9aS8H14keDr70wcBXpe",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://squadbusters.com",
+                        "label": "Squad Up! Pre-register Supercell's new global game!"
+                    }
+                },
+                "background": {
+                    "small": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=192&h=153&f=center&fit=fill",
+                        "width": 192,
+                        "height": 153
+                    },
+                    "smallRetina": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=384&h=306&f=center&fit=fill",
+                        "width": 384,
+                        "height": 306
+                    },
+                    "medium": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=480&h=382&f=center&fit=fill",
+                        "width": 480,
+                        "height": 382
+                    },
+                    "mediumRetina": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=576&h=458&f=center&fit=fill",
+                        "width": 576,
+                        "height": 458
+                    },
+                    "large": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=768&h=611&f=center&fit=fill",
+                        "width": 768,
+                        "height": 611
+                    },
+                    "largeRetina": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=960&h=764&f=center&fit=fill",
+                        "width": 960,
+                        "height": 764
+                    }
+                },
+                "milestones": [
+                    {
+                        "unlocked": false,
+                        "progress": 25,
+                        "image": {
+                            "small": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/5X6vkaW1zy0aquVLy3izuL/cc34bb5dce34cb043aaef028b6e1e859/Clash_royale-1.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/5X6vkaW1zy0aquVLy3izuL/cc34bb5dce34cb043aaef028b6e1e859/Clash_royale-1.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/5X6vkaW1zy0aquVLy3izuL/cc34bb5dce34cb043aaef028b6e1e859/Clash_royale-1.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/5X6vkaW1zy0aquVLy3izuL/cc34bb5dce34cb043aaef028b6e1e859/Clash_royale-1.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/5X6vkaW1zy0aquVLy3izuL/cc34bb5dce34cb043aaef028b6e1e859/Clash_royale-1.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/5X6vkaW1zy0aquVLy3izuL/cc34bb5dce34cb043aaef028b6e1e859/Clash_royale-1.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "1M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 50,
+                        "image": {
+                            "small": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/3h6aZQTJ7W2aXojFzGlaXL/abcf7586627058b4fbf2893e8115b96b/Clash_royale-2.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/3h6aZQTJ7W2aXojFzGlaXL/abcf7586627058b4fbf2893e8115b96b/Clash_royale-2.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/3h6aZQTJ7W2aXojFzGlaXL/abcf7586627058b4fbf2893e8115b96b/Clash_royale-2.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/3h6aZQTJ7W2aXojFzGlaXL/abcf7586627058b4fbf2893e8115b96b/Clash_royale-2.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/3h6aZQTJ7W2aXojFzGlaXL/abcf7586627058b4fbf2893e8115b96b/Clash_royale-2.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/3h6aZQTJ7W2aXojFzGlaXL/abcf7586627058b4fbf2893e8115b96b/Clash_royale-2.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 75,
+                        "image": {
+                            "small": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/65LcVZJbd9j2Hud5i829kv/4952795f6d08418b7fd8d0aa3d5a2b30/Clash_royale-3.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/65LcVZJbd9j2Hud5i829kv/4952795f6d08418b7fd8d0aa3d5a2b30/Clash_royale-3.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/65LcVZJbd9j2Hud5i829kv/4952795f6d08418b7fd8d0aa3d5a2b30/Clash_royale-3.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/65LcVZJbd9j2Hud5i829kv/4952795f6d08418b7fd8d0aa3d5a2b30/Clash_royale-3.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/65LcVZJbd9j2Hud5i829kv/4952795f6d08418b7fd8d0aa3d5a2b30/Clash_royale-3.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/65LcVZJbd9j2Hud5i829kv/4952795f6d08418b7fd8d0aa3d5a2b30/Clash_royale-3.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7y4rWHmA6etigcCTHX5d6W/5d5b3cc4d136d2bb12ceb4704950f3c2/Clash_royale-4.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7y4rWHmA6etigcCTHX5d6W/5d5b3cc4d136d2bb12ceb4704950f3c2/Clash_royale-4.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7y4rWHmA6etigcCTHX5d6W/5d5b3cc4d136d2bb12ceb4704950f3c2/Clash_royale-4.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7y4rWHmA6etigcCTHX5d6W/5d5b3cc4d136d2bb12ceb4704950f3c2/Clash_royale-4.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7y4rWHmA6etigcCTHX5d6W/5d5b3cc4d136d2bb12ceb4704950f3c2/Clash_royale-4.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7y4rWHmA6etigcCTHX5d6W/5d5b3cc4d136d2bb12ceb4704950f3c2/Clash_royale-4.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    }
+                ],
+                "tracker": {
+                    "progress": 13.750000000000002,
+                    "direction": "horizontal"
+                }
+            },
+            {
+                "id": "67vMsuhYiLJDDtlRaI3bWh",
+                "metadata": {
+                    "id": "67vMsuhYiLJDDtlRaI3bWh",
+                    "publishedAt": "2024-04-26T09:03:59.163Z",
+                    "publishedVersion": 40
+                },
+                "targeting": {
+                    "country": [],
+                    "platform": [
+                        "ios"
+                    ],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "postDate": "1714122239",
+                "sortDate": "1714122239",
+                "lang": "en",
+                "title": "",
+                "type": "progressTrackerEntry",
+                "ctas": {
+                    "4JMNONct9LthhUZxNGrvgJ": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "4JMNONct9LthhUZxNGrvgJ",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://squadbusters.com",
+                        "label": "Squad Up! Pre-order Supercell's new global game!"
+                    }
+                },
+                "background": {
+                    "small": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=192&h=153&f=center&fit=fill",
+                        "width": 192,
+                        "height": 153
+                    },
+                    "smallRetina": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=384&h=306&f=center&fit=fill",
+                        "width": 384,
+                        "height": 306
+                    },
+                    "medium": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=480&h=382&f=center&fit=fill",
+                        "width": 480,
+                        "height": 382
+                    },
+                    "mediumRetina": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=576&h=458&f=center&fit=fill",
+                        "width": 576,
+                        "height": 458
+                    },
+                    "large": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=768&h=611&f=center&fit=fill",
+                        "width": 768,
+                        "height": 611
+                    },
+                    "largeRetina": {
+                        "title": "royal-swirl.webp",
+                        "path": "/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=960&h=764&f=center&fit=fill",
+                        "width": 960,
+                        "height": 764
+                    }
+                },
+                "milestones": [
+                    {
+                        "unlocked": false,
+                        "progress": 25,
+                        "image": {
+                            "small": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/6kpNc36B59OnJABz6cjR1B/c45d5c49badd8a0bfc32f95d89e3b7eb/Clash_royale-1.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/6kpNc36B59OnJABz6cjR1B/c45d5c49badd8a0bfc32f95d89e3b7eb/Clash_royale-1.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/6kpNc36B59OnJABz6cjR1B/c45d5c49badd8a0bfc32f95d89e3b7eb/Clash_royale-1.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/6kpNc36B59OnJABz6cjR1B/c45d5c49badd8a0bfc32f95d89e3b7eb/Clash_royale-1.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/6kpNc36B59OnJABz6cjR1B/c45d5c49badd8a0bfc32f95d89e3b7eb/Clash_royale-1.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Clash royale-1.png",
+                                "path": "/9jtsgmsiuthj/6kpNc36B59OnJABz6cjR1B/c45d5c49badd8a0bfc32f95d89e3b7eb/Clash_royale-1.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "1M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 50,
+                        "image": {
+                            "small": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/43CuYLH5eMclYBfvzQavmb/6dd79043c779bad487ce0a8dd3910958/Clash_royale-2.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/43CuYLH5eMclYBfvzQavmb/6dd79043c779bad487ce0a8dd3910958/Clash_royale-2.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/43CuYLH5eMclYBfvzQavmb/6dd79043c779bad487ce0a8dd3910958/Clash_royale-2.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/43CuYLH5eMclYBfvzQavmb/6dd79043c779bad487ce0a8dd3910958/Clash_royale-2.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/43CuYLH5eMclYBfvzQavmb/6dd79043c779bad487ce0a8dd3910958/Clash_royale-2.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Clash royale-2.png",
+                                "path": "/9jtsgmsiuthj/43CuYLH5eMclYBfvzQavmb/6dd79043c779bad487ce0a8dd3910958/Clash_royale-2.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 75,
+                        "image": {
+                            "small": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/3JEcSAqUol3WyaU9VTzMJL/01f56d0e6e648ae6cc414be002f44d13/Clash_royale-3.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/3JEcSAqUol3WyaU9VTzMJL/01f56d0e6e648ae6cc414be002f44d13/Clash_royale-3.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/3JEcSAqUol3WyaU9VTzMJL/01f56d0e6e648ae6cc414be002f44d13/Clash_royale-3.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/3JEcSAqUol3WyaU9VTzMJL/01f56d0e6e648ae6cc414be002f44d13/Clash_royale-3.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/3JEcSAqUol3WyaU9VTzMJL/01f56d0e6e648ae6cc414be002f44d13/Clash_royale-3.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Clash royale-3.png",
+                                "path": "/9jtsgmsiuthj/3JEcSAqUol3WyaU9VTzMJL/01f56d0e6e648ae6cc414be002f44d13/Clash_royale-3.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7tbUYKBnU2S8LrDIZX4tO7/09b09c2991f20c3b92ce0ed2150ece7e/Clash_royale-4.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7tbUYKBnU2S8LrDIZX4tO7/09b09c2991f20c3b92ce0ed2150ece7e/Clash_royale-4.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7tbUYKBnU2S8LrDIZX4tO7/09b09c2991f20c3b92ce0ed2150ece7e/Clash_royale-4.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7tbUYKBnU2S8LrDIZX4tO7/09b09c2991f20c3b92ce0ed2150ece7e/Clash_royale-4.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7tbUYKBnU2S8LrDIZX4tO7/09b09c2991f20c3b92ce0ed2150ece7e/Clash_royale-4.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Clash royale-4.png",
+                                "path": "/9jtsgmsiuthj/7tbUYKBnU2S8LrDIZX4tO7/09b09c2991f20c3b92ce0ed2150ece7e/Clash_royale-4.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    }
+                ],
+                "tracker": {
+                    "progress": 13.750000000000002,
+                    "direction": "horizontal"
+                }
+            },
+            {
                 "id": "57UzVLn1XwoNaNiUarJ1Ez",
                 "metadata": {
                     "id": "57UzVLn1XwoNaNiUarJ1Ez",
@@ -46,7 +550,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713548733",
+                "timerTarget": "1714124566",
                 "hideTitle": false,
                 "background": {
                     "small": {
@@ -122,7 +626,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713548733",
+                "timerTarget": "1714124566",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -166,13 +670,274 @@
         ],
         "newsEntries": [
             {
-                "id": "3iAJhg8pLV8iG4BTvZrizd",
+                "id": "5Qlw1XrUzSdDEeFhSjK2Nx",
                 "index": 0,
+                "targeting": {
+                    "country": [],
+                    "platform": [],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "metadata": {
+                    "id": "5Qlw1XrUzSdDEeFhSjK2Nx",
+                    "publishedVersion": 99,
+                    "publishedAt": "2024-04-26T09:31:28.062Z"
+                },
+                "postDate": "1714122227",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "New Supercell game going global!",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#4549a8"
+                    }
+                ],
+                "newUntil": "1714726800",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Royale-thumbnail.png",
+                        "path": "/9jtsgmsiuthj/KAqgb1Bt2ZLN1vmxQmb4t/8be3e8409fab026a764b24937f29feec/Royale-thumbnail.png?w=192&h=113&f=center&fit=fill",
+                        "width": 192,
+                        "height": 113
+                    },
+                    "smallRetina": {
+                        "title": "Royale-thumbnail.png",
+                        "path": "/9jtsgmsiuthj/KAqgb1Bt2ZLN1vmxQmb4t/8be3e8409fab026a764b24937f29feec/Royale-thumbnail.png?w=384&h=225&f=center&fit=fill",
+                        "width": 384,
+                        "height": 225
+                    },
+                    "medium": {
+                        "title": "Royale-thumbnail.png",
+                        "path": "/9jtsgmsiuthj/KAqgb1Bt2ZLN1vmxQmb4t/8be3e8409fab026a764b24937f29feec/Royale-thumbnail.png?w=480&h=282&f=center&fit=fill",
+                        "width": 480,
+                        "height": 282
+                    },
+                    "mediumRetina": {
+                        "title": "Royale-thumbnail.png",
+                        "path": "/9jtsgmsiuthj/KAqgb1Bt2ZLN1vmxQmb4t/8be3e8409fab026a764b24937f29feec/Royale-thumbnail.png?w=576&h=338&f=center&fit=fill",
+                        "width": 576,
+                        "height": 338
+                    },
+                    "large": {
+                        "title": "Royale-thumbnail.png",
+                        "path": "/9jtsgmsiuthj/KAqgb1Bt2ZLN1vmxQmb4t/8be3e8409fab026a764b24937f29feec/Royale-thumbnail.png?w=768&h=450&f=center&fit=fill",
+                        "width": 768,
+                        "height": 450
+                    },
+                    "largeRetina": {
+                        "title": "Royale-thumbnail.png",
+                        "path": "/9jtsgmsiuthj/KAqgb1Bt2ZLN1vmxQmb4t/8be3e8409fab026a764b24937f29feec/Royale-thumbnail.png?w=960&h=563&f=center&fit=fill",
+                        "width": 960,
+                        "height": 563
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "Royale-article-hero.png",
+                        "path": "/9jtsgmsiuthj/43DzqPpkfEFcPXbElgOfvQ/80bf5edd862eaec967cd11d13875d503/Royale-article-hero.png?w=144&h=81&f=center&fit=fill",
+                        "width": 144,
+                        "height": 81
+                    },
+                    "smallRetina": {
+                        "title": "Royale-article-hero.png",
+                        "path": "/9jtsgmsiuthj/43DzqPpkfEFcPXbElgOfvQ/80bf5edd862eaec967cd11d13875d503/Royale-article-hero.png?w=288&h=162&f=center&fit=fill",
+                        "width": 288,
+                        "height": 162
+                    },
+                    "medium": {
+                        "title": "Royale-article-hero.png",
+                        "path": "/9jtsgmsiuthj/43DzqPpkfEFcPXbElgOfvQ/80bf5edd862eaec967cd11d13875d503/Royale-article-hero.png?w=360&h=203&f=center&fit=fill",
+                        "width": 360,
+                        "height": 203
+                    },
+                    "mediumRetina": {
+                        "title": "Royale-article-hero.png",
+                        "path": "/9jtsgmsiuthj/43DzqPpkfEFcPXbElgOfvQ/80bf5edd862eaec967cd11d13875d503/Royale-article-hero.png?w=432&h=243&f=center&fit=fill",
+                        "width": 432,
+                        "height": 243
+                    },
+                    "large": {
+                        "title": "Royale-article-hero.png",
+                        "path": "/9jtsgmsiuthj/43DzqPpkfEFcPXbElgOfvQ/80bf5edd862eaec967cd11d13875d503/Royale-article-hero.png?w=576&h=324&f=center&fit=fill",
+                        "width": 576,
+                        "height": 324
+                    },
+                    "largeRetina": {
+                        "title": "Royale-article-hero.png",
+                        "path": "/9jtsgmsiuthj/43DzqPpkfEFcPXbElgOfvQ/80bf5edd862eaec967cd11d13875d503/Royale-article-hero.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<h3>To celebrate the global release of <b>Squad Busters</b>, all Supercell games are giving away <b>free and exclusive rewards</b> for each milestone the community achieves.</h3><p></p>"
+                    },
+                    "1": {
+                        "title": "How it works",
+                        "order": "1",
+                        "type": "textBlock",
+                        "body": "<p>Pre-Register for Squad Busters on the App Store or Google Play before the global release on the <b>29th of May</b>. By pre-registering you will get the game right away when it becomes globally available on the App Store or Google Play.</p><p>Follow the progress of the community effort on the reward tracker and don&#39;t forget to claim the rewards as they unlock.</p><p>Progress updated daily.</p><p>Squad up and make sure to tell your friends!</p>"
+                    },
+                    "2": {
+                        "title": null,
+                        "type": "buttonBlock",
+                        "urlType": "url",
+                        "id": "1rB1T0HlAo5mbYn7CQKgYl",
+                        "order": "2",
+                        "variant": "green",
+                        "url": "htps://apple.com",
+                        "label": "App store link"
+                    },
+                    "3": {
+                        "title": "What is Squad Busters?",
+                        "order": "3",
+                        "type": "textBlock",
+                        "body": "<p>Squad Busters is a game where you can play with your favorite Supercell characters in fun and action-packed matches. Travel through different worlds, collect new characters, and evolve them to take down massive monsters as you continually build your ultimate squad. </p>"
+                    },
+                    "4": {
+                        "title": "",
+                        "order": "4",
+                        "type": "textBlock",
+                        "body": "<p>Currently available in Canada, Spain, Mexico, Finland, Denmark, Sweden, Norway, and Singapore, Squad busters will release worldwide on May 29th.</p>"
+                    },
+                    "5": {
+                        "title": "",
+                        "order": "5",
+                        "type": "videoBlock",
+                        "author": "",
+                        "embed": {
+                            "url": "https://youtu.be/cDCCpWJRWak",
+                            "provider": "youtube",
+                            "id": ""
+                        },
+                        "embedVideo": false,
+                        "thumbnail": {
+                            "small": {
+                                "title": "Video thumb.png",
+                                "path": "/9jtsgmsiuthj/1Rwa010NrsTUcmZ7bKUU7e/122366e307580ab7600a40ae6d84df9f/Video_thumb.png?w=192&h=108&f=center&fit=fill",
+                                "width": 192,
+                                "height": 108
+                            },
+                            "smallRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/9jtsgmsiuthj/1Rwa010NrsTUcmZ7bKUU7e/122366e307580ab7600a40ae6d84df9f/Video_thumb.png?w=384&h=216&f=center&fit=fill",
+                                "width": 384,
+                                "height": 216
+                            },
+                            "medium": {
+                                "title": "Video thumb.png",
+                                "path": "/9jtsgmsiuthj/1Rwa010NrsTUcmZ7bKUU7e/122366e307580ab7600a40ae6d84df9f/Video_thumb.png?w=480&h=270&f=center&fit=fill",
+                                "width": 480,
+                                "height": 270
+                            },
+                            "mediumRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/9jtsgmsiuthj/1Rwa010NrsTUcmZ7bKUU7e/122366e307580ab7600a40ae6d84df9f/Video_thumb.png?w=576&h=324&f=center&fit=fill",
+                                "width": 576,
+                                "height": 324
+                            },
+                            "large": {
+                                "title": "Video thumb.png",
+                                "path": "/9jtsgmsiuthj/1Rwa010NrsTUcmZ7bKUU7e/122366e307580ab7600a40ae6d84df9f/Video_thumb.png?w=768&h=432&f=center&fit=fill",
+                                "width": 768,
+                                "height": 432
+                            },
+                            "largeRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/9jtsgmsiuthj/1Rwa010NrsTUcmZ7bKUU7e/122366e307580ab7600a40ae6d84df9f/Video_thumb.png?w=960&h=540&f=center&fit=fill",
+                                "width": 960,
+                                "height": 540
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "3Q7KLMsfa5eUrepnu5140k",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
+                    "id": "3Q7KLMsfa5eUrepnu5140k",
+                    "publishedVersion": 66,
+                    "publishedAt": "2024-04-24T06:44:16.877Z"
+                },
+                "postDate": "1713625203",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Dagger Duchess Karaoke \ud83c\udfa4",
+                "categories": [
+                    {
+                        "title": "Fun",
+                        "color": "#b588ff"
+                    }
+                ],
+                "newUntil": "1713733200",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "5L0LN3tDgdTXaLWu5wewDT",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/LySm-pXuwU0"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "DD_Thumbnail_Karaoke.jpg",
+                        "path": "/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=192&h=108&f=center&fit=fill",
+                        "width": 192,
+                        "height": 108
+                    },
+                    "smallRetina": {
+                        "title": "DD_Thumbnail_Karaoke.jpg",
+                        "path": "/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=384&h=216&f=center&fit=fill",
+                        "width": 384,
+                        "height": 216
+                    },
+                    "medium": {
+                        "title": "DD_Thumbnail_Karaoke.jpg",
+                        "path": "/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=480&h=270&f=center&fit=fill",
+                        "width": 480,
+                        "height": 270
+                    },
+                    "mediumRetina": {
+                        "title": "DD_Thumbnail_Karaoke.jpg",
+                        "path": "/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=576&h=324&f=center&fit=fill",
+                        "width": 576,
+                        "height": 324
+                    },
+                    "large": {
+                        "title": "DD_Thumbnail_Karaoke.jpg",
+                        "path": "/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=768&h=432&f=center&fit=fill",
+                        "width": 768,
+                        "height": 432
+                    },
+                    "largeRetina": {
+                        "title": "DD_Thumbnail_Karaoke.jpg",
+                        "path": "/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=960&h=540&f=center&fit=fill",
+                        "width": 960,
+                        "height": 540
+                    }
+                }
+            },
+            {
+                "id": "3iAJhg8pLV8iG4BTvZrizd",
+                "index": 2,
                 "targeting": null,
                 "metadata": {
                     "id": "3iAJhg8pLV8iG4BTvZrizd",
-                    "publishedVersion": 92,
-                    "publishedAt": "2024-04-19T08:38:45.825Z"
+                    "publishedVersion": 105,
+                    "publishedAt": "2024-04-22T15:16:56.378Z"
                 },
                 "postDate": "1713340925",
                 "lang": "en",
@@ -361,7 +1126,7 @@
             },
             {
                 "id": "4lIjrM4L3ZyjMUah61JkHG",
-                "index": 1,
+                "index": 3,
                 "targeting": null,
                 "metadata": {
                     "id": "4lIjrM4L3ZyjMUah61JkHG",
@@ -428,7 +1193,7 @@
             },
             {
                 "id": "6pmLffzDIVAlnDJk6Rm8sY",
-                "index": 2,
+                "index": 4,
                 "targeting": null,
                 "metadata": {
                     "id": "6pmLffzDIVAlnDJk6Rm8sY",
@@ -622,7 +1387,7 @@
             },
             {
                 "id": "37jDesb4I3CmFWl37X9B9J",
-                "index": 3,
+                "index": 5,
                 "targeting": null,
                 "metadata": {
                     "id": "37jDesb4I3CmFWl37X9B9J",
@@ -689,7 +1454,7 @@
             },
             {
                 "id": "2C6negOhQA7hdq3Y7xaTy",
-                "index": 4,
+                "index": 6,
                 "targeting": null,
                 "metadata": {
                     "id": "2C6negOhQA7hdq3Y7xaTy",
@@ -756,7 +1521,7 @@
             },
             {
                 "id": "1boVLqtE4V8K3owt3iILHB",
-                "index": 5,
+                "index": 7,
                 "targeting": null,
                 "metadata": {
                     "id": "1boVLqtE4V8K3owt3iILHB",
@@ -823,7 +1588,7 @@
             },
             {
                 "id": "tn8Mh6cozcaC6rHY4wA96",
-                "index": 6,
+                "index": 8,
                 "targeting": null,
                 "metadata": {
                     "id": "tn8Mh6cozcaC6rHY4wA96",
@@ -840,7 +1605,7 @@
                         "color": "#519f5c"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "showInNewsFeed": "HIDE_IN_NEWS_FEED",
@@ -1023,7 +1788,7 @@
             },
             {
                 "id": "14iKq2Nr9X7oSv2u6PpYnd",
-                "index": 7,
+                "index": 9,
                 "targeting": null,
                 "metadata": {
                     "id": "14iKq2Nr9X7oSv2u6PpYnd",
@@ -1090,7 +1855,7 @@
             },
             {
                 "id": "32rfjCGqI5ufS8AouFsC5o",
-                "index": 8,
+                "index": 10,
                 "targeting": null,
                 "metadata": {
                     "id": "32rfjCGqI5ufS8AouFsC5o",
@@ -1157,7 +1922,7 @@
             },
             {
                 "id": "10u9PXBdGK9ha4EZkOCyjG",
-                "index": 9,
+                "index": 11,
                 "targeting": null,
                 "metadata": {
                     "id": "10u9PXBdGK9ha4EZkOCyjG",
@@ -1224,7 +1989,7 @@
             },
             {
                 "id": "5ZKnYXJgMVZu5MNxmEUIfJ",
-                "index": 10,
+                "index": 12,
                 "targeting": null,
                 "metadata": {
                     "id": "5ZKnYXJgMVZu5MNxmEUIfJ",
@@ -1291,7 +2056,7 @@
             },
             {
                 "id": "wyY54qJ0W2rC2ld9EMgz6",
-                "index": 11,
+                "index": 13,
                 "targeting": null,
                 "metadata": {
                     "id": "wyY54qJ0W2rC2ld9EMgz6",
@@ -1358,7 +2123,7 @@
             },
             {
                 "id": "6Eudrm8ihgpii2KaxhvtlY",
-                "index": 12,
+                "index": 14,
                 "targeting": null,
                 "metadata": {
                     "id": "6Eudrm8ihgpii2KaxhvtlY",
@@ -1418,7 +2183,7 @@
             },
             {
                 "id": "387I7fbqNa1EiBwAJgpvBJ",
-                "index": 13,
+                "index": 15,
                 "targeting": null,
                 "metadata": {
                     "id": "387I7fbqNa1EiBwAJgpvBJ",
@@ -1478,7 +2243,7 @@
             },
             {
                 "id": "16iCviC1Z9IZdWNwxAsGcQ",
-                "index": 14,
+                "index": 16,
                 "targeting": null,
                 "metadata": {
                     "id": "16iCviC1Z9IZdWNwxAsGcQ",
@@ -1545,7 +2310,7 @@
             },
             {
                 "id": "6MvOj4pQGF8bhmt0hJlWyQ",
-                "index": 15,
+                "index": 17,
                 "targeting": null,
                 "metadata": {
                     "id": "6MvOj4pQGF8bhmt0hJlWyQ",
@@ -1562,7 +2327,7 @@
                         "color": "#519f5c"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "showInNewsFeed": "SHOW_IN_NEWS_FEED",
@@ -1812,7 +2577,7 @@
             },
             {
                 "id": "2ZDvdb8L3WyNV0co8JgE3j",
-                "index": 16,
+                "index": 18,
                 "targeting": null,
                 "metadata": {
                     "id": "2ZDvdb8L3WyNV0co8JgE3j",
@@ -2391,7 +3156,7 @@
             },
             {
                 "id": "5PniLKOxURM6tUf8bK5oiM",
-                "index": 17,
+                "index": 19,
                 "targeting": null,
                 "metadata": {
                     "id": "5PniLKOxURM6tUf8bK5oiM",
@@ -2408,7 +3173,7 @@
                         "color": "#b588ff"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "videoNewsEntry",
                 "embed": {
                     "id": "6GMSzd2STG7F3VP4G1zQdP",
@@ -2458,7 +3223,7 @@
             },
             {
                 "id": "1XMN5lh0dHYA0vEigQrio9",
-                "index": 18,
+                "index": 20,
                 "targeting": null,
                 "metadata": {
                     "id": "1XMN5lh0dHYA0vEigQrio9",
@@ -2475,7 +3240,7 @@
                         "color": "#4549a8"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "showInNewsFeed": "HIDE_IN_NEWS_FEED",
@@ -2658,7 +3423,7 @@
             },
             {
                 "id": "4DXKtzDuVtM0JpBiGiUTzY",
-                "index": 19,
+                "index": 21,
                 "targeting": null,
                 "metadata": {
                     "id": "4DXKtzDuVtM0JpBiGiUTzY",
@@ -2675,7 +3440,7 @@
                         "color": "#426bbd"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "videoNewsEntry",
                 "embed": {
                     "id": "2HudDT5ZoRZn4vJ0SKF7MP",
@@ -2725,7 +3490,7 @@
             },
             {
                 "id": "59FzGyhmGTTluXsyXUYILs",
-                "index": 20,
+                "index": 22,
                 "targeting": null,
                 "metadata": {
                     "id": "59FzGyhmGTTluXsyXUYILs",
@@ -2882,7 +3647,7 @@
             },
             {
                 "id": "18982Y1mmWWT5LosiAFjbT",
-                "index": 21,
+                "index": 23,
                 "targeting": null,
                 "metadata": {
                     "id": "18982Y1mmWWT5LosiAFjbT",
@@ -2949,7 +3714,7 @@
             },
             {
                 "id": "4C5fnfCimAobix8gJEiQ6c",
-                "index": 22,
+                "index": 24,
                 "targeting": null,
                 "metadata": {
                     "id": "4C5fnfCimAobix8gJEiQ6c",
@@ -3011,7 +3776,7 @@
             },
             {
                 "id": "5xLPbMkepz6MksdGoxNOLu",
-                "index": 23,
+                "index": 25,
                 "targeting": null,
                 "metadata": {
                     "id": "5xLPbMkepz6MksdGoxNOLu",
@@ -3028,7 +3793,7 @@
                         "color": "#dc563f"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "externalNewsEntry",
                 "url": "https://make.supercell.com/en/campaign/7emAHCbI5uM2hrvIiWRLKh?sort=random&finalist=0",
                 "listingSize": "large",
@@ -3073,7 +3838,7 @@
             },
             {
                 "id": "5bis0kZUvGeVbwv7k0gvnE",
-                "index": 24,
+                "index": 26,
                 "targeting": null,
                 "metadata": {
                     "id": "5bis0kZUvGeVbwv7k0gvnE",
@@ -3090,7 +3855,7 @@
                         "color": "#519f5c"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "showInNewsFeed": "SHOW_IN_NEWS_FEED",
@@ -3267,7 +4032,7 @@
             },
             {
                 "id": "7ke67SkO0Fn5dsfCOCXjtr",
-                "index": 25,
+                "index": 27,
                 "targeting": null,
                 "metadata": {
                     "id": "7ke67SkO0Fn5dsfCOCXjtr",
@@ -3327,7 +4092,7 @@
             },
             {
                 "id": "2KeABF4kZLDGGAY5E214bq",
-                "index": 26,
+                "index": 28,
                 "targeting": null,
                 "metadata": {
                     "id": "2KeABF4kZLDGGAY5E214bq",
@@ -3389,7 +4154,7 @@
             },
             {
                 "id": "5ywRLX4u858ozUHMpQzo7U",
-                "index": 27,
+                "index": 29,
                 "targeting": null,
                 "metadata": {
                     "id": "5ywRLX4u858ozUHMpQzo7U",
@@ -3406,7 +4171,7 @@
                         "color": "#426bbd"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "videoNewsEntry",
                 "embed": {
                     "id": "2NDdmcSFLi2IM1Ms5qjRxo",
@@ -3456,7 +4221,7 @@
             },
             {
                 "id": "69x6COcuH9AHE8XlkU5m8k",
-                "index": 28,
+                "index": 30,
                 "targeting": null,
                 "metadata": {
                     "id": "69x6COcuH9AHE8XlkU5m8k",
@@ -3473,7 +4238,7 @@
                         "color": "#b588ff"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "videoNewsEntry",
                 "embed": {
                     "id": "5D7Z0ne19koxl5Dj0DObex",
@@ -3523,7 +4288,7 @@
             },
             {
                 "id": "5RLRetMOKYqB6yvM0h73Uh",
-                "index": 29,
+                "index": 31,
                 "targeting": null,
                 "metadata": {
                     "id": "5RLRetMOKYqB6yvM0h73Uh",
@@ -3540,7 +4305,7 @@
                         "color": "#b588ff"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "videoNewsEntry",
                 "embed": {
                     "id": "1tX6y1azOqHbTnagBsflCf",
@@ -3590,7 +4355,7 @@
             },
             {
                 "id": "4huXhuI2ZRaxAGn94izrFp",
-                "index": 30,
+                "index": 32,
                 "targeting": null,
                 "metadata": {
                     "id": "4huXhuI2ZRaxAGn94izrFp",
@@ -3607,7 +4372,7 @@
                         "color": "#519f5c"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "showInNewsFeed": "HIDE_IN_NEWS_FEED",
@@ -3796,7 +4561,7 @@
             },
             {
                 "id": "7BBw61rq6J04dLbkDgwBLy",
-                "index": 31,
+                "index": 33,
                 "targeting": null,
                 "metadata": {
                     "id": "7BBw61rq6J04dLbkDgwBLy",
@@ -3904,7 +4669,7 @@
             },
             {
                 "id": "5ooha163CQORSMTFWPXM0e",
-                "index": 32,
+                "index": 34,
                 "targeting": null,
                 "metadata": {
                     "id": "5ooha163CQORSMTFWPXM0e",
@@ -4024,7 +4789,7 @@
             },
             {
                 "id": "2KX9CWczMMFGSHatTRWVNB",
-                "index": 33,
+                "index": 35,
                 "targeting": null,
                 "metadata": {
                     "id": "2KX9CWczMMFGSHatTRWVNB",
@@ -4041,7 +4806,7 @@
                         "color": "#519f5c"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "videoNewsEntry",
                 "embed": {
                     "id": "36QKQS8gGZBJWcf7YV7mSY",
@@ -4091,7 +4856,7 @@
             },
             {
                 "id": "51dHCCJR1wtn17TgSCwC0F",
-                "index": 34,
+                "index": 36,
                 "targeting": null,
                 "metadata": {
                     "id": "51dHCCJR1wtn17TgSCwC0F",
@@ -4157,68 +4922,8 @@
                 }
             },
             {
-                "id": "2Z8ABm5eNdNne6OYf9tBAU",
-                "index": 35,
-                "targeting": null,
-                "metadata": {
-                    "id": "2Z8ABm5eNdNne6OYf9tBAU",
-                    "publishedVersion": 21,
-                    "publishedAt": "2024-01-24T12:55:57.019Z"
-                },
-                "postDate": "1706025603",
-                "lang": "en",
-                "section": "newsEntries",
-                "title": "Muscle Mommy",
-                "categories": [
-                    {
-                        "title": "Fun",
-                        "color": "#b588ff"
-                    }
-                ],
-                "newUntil": "1713548733",
-                "type": "imageNewsEntry",
-                "thumbnail": {
-                    "small": {
-                        "title": "Untitled design (6).png",
-                        "path": "/9jtsgmsiuthj/3MxFLgvjxsQPO9Lhg479Nr/3c5cebf67943c0c1a2213daba44988cc/Untitled_design__6_.png?w=192&h=113&f=center&fit=fill",
-                        "width": 192,
-                        "height": 113
-                    },
-                    "smallRetina": {
-                        "title": "Untitled design (6).png",
-                        "path": "/9jtsgmsiuthj/3MxFLgvjxsQPO9Lhg479Nr/3c5cebf67943c0c1a2213daba44988cc/Untitled_design__6_.png?w=384&h=225&f=center&fit=fill",
-                        "width": 384,
-                        "height": 225
-                    },
-                    "medium": {
-                        "title": "Untitled design (6).png",
-                        "path": "/9jtsgmsiuthj/3MxFLgvjxsQPO9Lhg479Nr/3c5cebf67943c0c1a2213daba44988cc/Untitled_design__6_.png?w=480&h=282&f=center&fit=fill",
-                        "width": 480,
-                        "height": 282
-                    },
-                    "mediumRetina": {
-                        "title": "Untitled design (6).png",
-                        "path": "/9jtsgmsiuthj/3MxFLgvjxsQPO9Lhg479Nr/3c5cebf67943c0c1a2213daba44988cc/Untitled_design__6_.png?w=576&h=338&f=center&fit=fill",
-                        "width": 576,
-                        "height": 338
-                    },
-                    "large": {
-                        "title": "Untitled design (6).png",
-                        "path": "/9jtsgmsiuthj/3MxFLgvjxsQPO9Lhg479Nr/3c5cebf67943c0c1a2213daba44988cc/Untitled_design__6_.png?w=768&h=450&f=center&fit=fill",
-                        "width": 768,
-                        "height": 450
-                    },
-                    "largeRetina": {
-                        "title": "Untitled design (6).png",
-                        "path": "/9jtsgmsiuthj/3MxFLgvjxsQPO9Lhg479Nr/3c5cebf67943c0c1a2213daba44988cc/Untitled_design__6_.png?w=960&h=563&f=center&fit=fill",
-                        "width": 960,
-                        "height": 563
-                    }
-                }
-            },
-            {
                 "id": "7xmUmD0WYOK8o5vWLrsQlg",
-                "index": 36,
+                "index": 37,
                 "targeting": null,
                 "metadata": {
                     "id": "7xmUmD0WYOK8o5vWLrsQlg",
@@ -4235,7 +4940,7 @@
                         "color": "#519f5c"
                     }
                 ],
-                "newUntil": "1713548733",
+                "newUntil": "1714124566",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "showInNewsFeed": "HIDE_IN_NEWS_FEED",
@@ -4518,6 +5223,7 @@
         "fullscreenEntries": []
     },
     "globals": {
+        "globalText.copyToClipboard": "Copied to clipboard!",
         "globalText.langSecondsAbbreviated": "s",
         "globalText.langDaysAbbreviated": "d",
         "globalText.langVoteCheck": "Check vote",

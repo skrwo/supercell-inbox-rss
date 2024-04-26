@@ -2,6 +2,510 @@
     "entries": {
         "eventEntries": [
             {
+                "id": "1FsnqWUFCmbdZWRzRVEVDr",
+                "metadata": {
+                    "id": "1FsnqWUFCmbdZWRzRVEVDr",
+                    "publishedAt": "2024-04-26T09:01:12.226Z",
+                    "publishedVersion": 71
+                },
+                "targeting": {
+                    "country": [],
+                    "platform": [
+                        "ios"
+                    ],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "postDate": "1714122072",
+                "sortDate": "1714122072",
+                "lang": "en",
+                "title": "Pre-orders",
+                "type": "progressTrackerEntry",
+                "ctas": {
+                    "1tuAVTu3Gw3ewaCIGr122U": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "1tuAVTu3Gw3ewaCIGr122U",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://squadbusters.com",
+                        "label": "Squad Up! Pre-order Supercell's new global game!"
+                    }
+                },
+                "background": {
+                    "small": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                },
+                "milestones": [
+                    {
+                        "unlocked": false,
+                        "progress": 25,
+                        "image": {
+                            "small": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/736kM830Q37MKHidj1hpsY/4f09815b919fbe5caef0861f547efab3/Hayday-1.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/736kM830Q37MKHidj1hpsY/4f09815b919fbe5caef0861f547efab3/Hayday-1.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/736kM830Q37MKHidj1hpsY/4f09815b919fbe5caef0861f547efab3/Hayday-1.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/736kM830Q37MKHidj1hpsY/4f09815b919fbe5caef0861f547efab3/Hayday-1.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/736kM830Q37MKHidj1hpsY/4f09815b919fbe5caef0861f547efab3/Hayday-1.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/736kM830Q37MKHidj1hpsY/4f09815b919fbe5caef0861f547efab3/Hayday-1.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "1M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 50,
+                        "image": {
+                            "small": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/1Jq758Z1lNdPgiXj3RN4Sw/20316820d5cf3597d6a177c3a9dc2804/Hayday-2.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/1Jq758Z1lNdPgiXj3RN4Sw/20316820d5cf3597d6a177c3a9dc2804/Hayday-2.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/1Jq758Z1lNdPgiXj3RN4Sw/20316820d5cf3597d6a177c3a9dc2804/Hayday-2.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/1Jq758Z1lNdPgiXj3RN4Sw/20316820d5cf3597d6a177c3a9dc2804/Hayday-2.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/1Jq758Z1lNdPgiXj3RN4Sw/20316820d5cf3597d6a177c3a9dc2804/Hayday-2.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/1Jq758Z1lNdPgiXj3RN4Sw/20316820d5cf3597d6a177c3a9dc2804/Hayday-2.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 75,
+                        "image": {
+                            "small": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    }
+                ],
+                "tracker": {
+                    "progress": 13.750000000000002,
+                    "direction": "horizontal"
+                }
+            },
+            {
+                "id": "4rxCXuIlursfgl3dALxaPh",
+                "metadata": {
+                    "id": "4rxCXuIlursfgl3dALxaPh",
+                    "publishedAt": "2024-04-26T09:00:51.398Z",
+                    "publishedVersion": 123
+                },
+                "targeting": {
+                    "country": [],
+                    "platform": [
+                        "android"
+                    ],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "postDate": "1714122051",
+                "sortDate": "1714122051",
+                "lang": "en",
+                "title": "Pre-registrations",
+                "type": "progressTrackerEntry",
+                "ctas": {
+                    "3YhKTbOPuePj8zYajO3tux": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "3YhKTbOPuePj8zYajO3tux",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://squadbusters.com",
+                        "label": "Squad Up! Pre-register Supercell's new global game!"
+                    }
+                },
+                "background": {
+                    "small": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "Hayday-swirl.webp",
+                        "path": "/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                },
+                "milestones": [
+                    {
+                        "unlocked": false,
+                        "progress": 25,
+                        "image": {
+                            "small": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/561WCDUhrOJ3bmvtXRTVB4/89fe9c5f1587eda4c652a1b091dd92a4/Hayday-1.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/561WCDUhrOJ3bmvtXRTVB4/89fe9c5f1587eda4c652a1b091dd92a4/Hayday-1.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/561WCDUhrOJ3bmvtXRTVB4/89fe9c5f1587eda4c652a1b091dd92a4/Hayday-1.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/561WCDUhrOJ3bmvtXRTVB4/89fe9c5f1587eda4c652a1b091dd92a4/Hayday-1.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/561WCDUhrOJ3bmvtXRTVB4/89fe9c5f1587eda4c652a1b091dd92a4/Hayday-1.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Hayday-1.png",
+                                "path": "/0rebc2l8z0wu/561WCDUhrOJ3bmvtXRTVB4/89fe9c5f1587eda4c652a1b091dd92a4/Hayday-1.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "1M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 50,
+                        "image": {
+                            "small": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/5WEIaMhW8bvJKswzDR1pQn/67373768d0e84d5b37cc411921cb283a/Hayday-2.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/5WEIaMhW8bvJKswzDR1pQn/67373768d0e84d5b37cc411921cb283a/Hayday-2.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/5WEIaMhW8bvJKswzDR1pQn/67373768d0e84d5b37cc411921cb283a/Hayday-2.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/5WEIaMhW8bvJKswzDR1pQn/67373768d0e84d5b37cc411921cb283a/Hayday-2.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/5WEIaMhW8bvJKswzDR1pQn/67373768d0e84d5b37cc411921cb283a/Hayday-2.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Hayday-2.png",
+                                "path": "/0rebc2l8z0wu/5WEIaMhW8bvJKswzDR1pQn/67373768d0e84d5b37cc411921cb283a/Hayday-2.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 75,
+                        "image": {
+                            "small": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Hayday-3.png",
+                                "path": "/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Hayday-4.png",
+                                "path": "/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    }
+                ],
+                "tracker": {
+                    "progress": 13.750000000000002,
+                    "direction": "horizontal"
+                }
+            },
+            {
                 "id": "C_cuHmmb-LEriPwwH2WQfwnsVGVO19O220gLd10AHVw",
                 "metadata": {
                     "id": "C_cuHmmb-LEriPwwH2WQfwnsVGVO19O220gLd10AHVw",
@@ -27,7 +531,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713597605",
+                "timerTarget": "1714122619",
                 "hideTitle": false,
                 "background": {
                     "small": {
@@ -71,8 +575,310 @@
         ],
         "newsEntries": [
             {
-                "id": "1ZXHIw1T7YCCwtKRGYKzz3",
+                "id": "4UHBuQ5Lr3ZSbzZiLEXnGp",
                 "index": 0,
+                "targeting": {
+                    "country": [],
+                    "platform": [],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "metadata": {
+                    "id": "4UHBuQ5Lr3ZSbzZiLEXnGp",
+                    "publishedVersion": 170,
+                    "publishedAt": "2024-04-26T09:00:13.087Z"
+                },
+                "postDate": "1714122013",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "New Supercell game going global!",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#3884b8"
+                    }
+                ],
+                "newUntil": "1714726800",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Hayday-thumbnail.png",
+                        "path": "/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "Hayday-thumbnail.png",
+                        "path": "/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "Hayday-thumbnail.png",
+                        "path": "/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "Hayday-thumbnail.png",
+                        "path": "/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "Hayday-thumbnail.png",
+                        "path": "/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "Hayday-thumbnail.png",
+                        "path": "/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "Hayday-inbox-article-hero.png",
+                        "path": "/0rebc2l8z0wu/3pa9P4b77OGiwb2lKD2QSA/28b17bfa5208ea393e03432df4ee4246/Hayday-inbox-article-hero.png?w=390&h=130&f=center&fit=fill",
+                        "width": 390,
+                        "height": 130
+                    },
+                    "smallRetina": {
+                        "title": "Hayday-inbox-article-hero.png",
+                        "path": "/0rebc2l8z0wu/3pa9P4b77OGiwb2lKD2QSA/28b17bfa5208ea393e03432df4ee4246/Hayday-inbox-article-hero.png?w=780&h=260&f=center&fit=fill",
+                        "width": 780,
+                        "height": 260
+                    },
+                    "medium": {
+                        "title": "Hayday-inbox-article-hero.png",
+                        "path": "/0rebc2l8z0wu/3pa9P4b77OGiwb2lKD2QSA/28b17bfa5208ea393e03432df4ee4246/Hayday-inbox-article-hero.png?w=975&h=325&f=center&fit=fill",
+                        "width": 975,
+                        "height": 325
+                    },
+                    "mediumRetina": {
+                        "title": "Hayday-inbox-article-hero.png",
+                        "path": "/0rebc2l8z0wu/3pa9P4b77OGiwb2lKD2QSA/28b17bfa5208ea393e03432df4ee4246/Hayday-inbox-article-hero.png?w=1170&h=390&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 390
+                    },
+                    "large": {
+                        "title": "Hayday-inbox-article-hero.png",
+                        "path": "/0rebc2l8z0wu/3pa9P4b77OGiwb2lKD2QSA/28b17bfa5208ea393e03432df4ee4246/Hayday-inbox-article-hero.png?w=1560&h=520&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 520
+                    },
+                    "largeRetina": {
+                        "title": "Hayday-inbox-article-hero.png",
+                        "path": "/0rebc2l8z0wu/3pa9P4b77OGiwb2lKD2QSA/28b17bfa5208ea393e03432df4ee4246/Hayday-inbox-article-hero.png?w=1950&h=650&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 650
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<h3>To celebrate the global release of <b>Squad Busters</b>, all Supercell games are giving away <b>free and exclusive rewards</b> for each milestone the community achieves.</h3><p></p>"
+                    },
+                    "1": {
+                        "title": "How it works",
+                        "order": "1",
+                        "type": "textBlock",
+                        "body": "<p>Pre-Register for Squad Busters on the App Store or Google Play before the global release on the <b>29th of May</b>. By pre-registering you will get the game right away when it becomes globally available on the App Store or Google Play.</p><p>Follow the progress of the community effort on the reward tracker and don&#39;t forget to claim the rewards as they unlock.</p><p>Progress updated daily.</p><p>Squad up and make sure to tell your friends!</p>"
+                    },
+                    "2": {
+                        "title": null,
+                        "type": "buttonBlock",
+                        "urlType": "url",
+                        "id": "7s4VMy2c3PanWmwxxjv7YD",
+                        "order": "2",
+                        "variant": "green",
+                        "url": "htps://apple.com",
+                        "label": "App store link"
+                    },
+                    "3": {
+                        "title": "What is Squad Busters?",
+                        "order": "3",
+                        "type": "textBlock",
+                        "body": "<p>Squad Busters is a game where you can play with your favorite Supercell characters in fun and action-packed matches. Travel through different worlds, collect new characters, and evolve them to take down massive monsters as you continually build your ultimate squad. </p>"
+                    },
+                    "4": {
+                        "title": "",
+                        "order": "4",
+                        "type": "textBlock",
+                        "body": "<p>Currently available in Canada, Spain, Mexico, Finland, Denmark, Sweden, Norway, and Singapore, Squad busters will release worldwide on May 29th.</p>"
+                    },
+                    "5": {
+                        "title": "",
+                        "order": "5",
+                        "type": "videoBlock",
+                        "author": "",
+                        "embed": {
+                            "url": "https://youtu.be/cDCCpWJRWak",
+                            "provider": "youtube",
+                            "id": ""
+                        },
+                        "embedVideo": false,
+                        "thumbnail": {
+                            "small": {
+                                "title": "Video thumb.png",
+                                "path": "/0rebc2l8z0wu/5n8JvnpXxlv6UABrrMp5i0/b1e019cca8f18c3f2c54457965eec81a/Video_thumb.png?w=192&h=108&f=center&fit=fill",
+                                "width": 192,
+                                "height": 108
+                            },
+                            "smallRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/0rebc2l8z0wu/5n8JvnpXxlv6UABrrMp5i0/b1e019cca8f18c3f2c54457965eec81a/Video_thumb.png?w=384&h=216&f=center&fit=fill",
+                                "width": 384,
+                                "height": 216
+                            },
+                            "medium": {
+                                "title": "Video thumb.png",
+                                "path": "/0rebc2l8z0wu/5n8JvnpXxlv6UABrrMp5i0/b1e019cca8f18c3f2c54457965eec81a/Video_thumb.png?w=480&h=270&f=center&fit=fill",
+                                "width": 480,
+                                "height": 270
+                            },
+                            "mediumRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/0rebc2l8z0wu/5n8JvnpXxlv6UABrrMp5i0/b1e019cca8f18c3f2c54457965eec81a/Video_thumb.png?w=576&h=324&f=center&fit=fill",
+                                "width": 576,
+                                "height": 324
+                            },
+                            "large": {
+                                "title": "Video thumb.png",
+                                "path": "/0rebc2l8z0wu/5n8JvnpXxlv6UABrrMp5i0/b1e019cca8f18c3f2c54457965eec81a/Video_thumb.png?w=768&h=432&f=center&fit=fill",
+                                "width": 768,
+                                "height": 432
+                            },
+                            "largeRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/0rebc2l8z0wu/5n8JvnpXxlv6UABrrMp5i0/b1e019cca8f18c3f2c54457965eec81a/Video_thumb.png?w=960&h=540&f=center&fit=fill",
+                                "width": 960,
+                                "height": 540
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "l0Azc5YmeQl4S809ZRLrZ",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
+                    "id": "l0Azc5YmeQl4S809ZRLrZ",
+                    "publishedVersion": 68,
+                    "publishedAt": "2024-04-21T15:24:41.353Z"
+                },
+                "postDate": "1713713066",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Hay Day Events Week 17!",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#3884b8"
+                    }
+                ],
+                "newUntil": "1713909600",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Hay Day inbox thumbnail 900x506 events v2",
+                        "path": "/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "Hay Day inbox thumbnail 900x506 events v2",
+                        "path": "/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "Hay Day inbox thumbnail 900x506 events v2",
+                        "path": "/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "Hay Day inbox thumbnail 900x506 events v2",
+                        "path": "/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "Hay Day inbox thumbnail 900x506 events v2",
+                        "path": "/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "Hay Day inbox thumbnail 900x506 events v2",
+                        "path": "/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "Hay Day Inbox Hero 1950x650",
+                        "path": "/0rebc2l8z0wu/Q_o9CNqY_lzummUwTK3gBdQrUDXJefq1EPpZS9N534Q/03f6e0080b33268fdc25f9cc20ae7a93/1102955813_1625648294.jpg?w=390&h=130&f=center&fit=fill",
+                        "width": 390,
+                        "height": 130
+                    },
+                    "smallRetina": {
+                        "title": "Hay Day Inbox Hero 1950x650",
+                        "path": "/0rebc2l8z0wu/Q_o9CNqY_lzummUwTK3gBdQrUDXJefq1EPpZS9N534Q/03f6e0080b33268fdc25f9cc20ae7a93/1102955813_1625648294.jpg?w=780&h=260&f=center&fit=fill",
+                        "width": 780,
+                        "height": 260
+                    },
+                    "medium": {
+                        "title": "Hay Day Inbox Hero 1950x650",
+                        "path": "/0rebc2l8z0wu/Q_o9CNqY_lzummUwTK3gBdQrUDXJefq1EPpZS9N534Q/03f6e0080b33268fdc25f9cc20ae7a93/1102955813_1625648294.jpg?w=975&h=325&f=center&fit=fill",
+                        "width": 975,
+                        "height": 325
+                    },
+                    "mediumRetina": {
+                        "title": "Hay Day Inbox Hero 1950x650",
+                        "path": "/0rebc2l8z0wu/Q_o9CNqY_lzummUwTK3gBdQrUDXJefq1EPpZS9N534Q/03f6e0080b33268fdc25f9cc20ae7a93/1102955813_1625648294.jpg?w=1170&h=390&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 390
+                    },
+                    "large": {
+                        "title": "Hay Day Inbox Hero 1950x650",
+                        "path": "/0rebc2l8z0wu/Q_o9CNqY_lzummUwTK3gBdQrUDXJefq1EPpZS9N534Q/03f6e0080b33268fdc25f9cc20ae7a93/1102955813_1625648294.jpg?w=1560&h=520&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 520
+                    },
+                    "largeRetina": {
+                        "title": "Hay Day Inbox Hero 1950x650",
+                        "path": "/0rebc2l8z0wu/Q_o9CNqY_lzummUwTK3gBdQrUDXJefq1EPpZS9N534Q/03f6e0080b33268fdc25f9cc20ae7a93/1102955813_1625648294.jpg?w=1950&h=650&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 650
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "Hay Day Events Week 17!",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>Hello farmers! Not much left of April, but we have another week full of Events! All Events start at 8 AM UTC. Dive into the specifics of each Event by visiting our Event Board in the game. </p><p>Monday: Spin The Wheel (1 Puzzle Piece Guaranteed, Possibility for 2)</p><p>Tuesday: Truck Order Event (Extra Land Expansion Materials) </p><p>Wednesday: Boat Event (Extra Vouchers) </p><p>Thursday: Farm Visitor Event (2x Coins)</p><p>Friday: Fishing Production Boost Event (All Fish 20% boost) + 2x Farm Pass Points</p><p>Saturday: Town Visitor Event (Extra Barn &amp; Silo Upgrade Materials) + Truck Order Event (2x Coins) </p><p>Sunday: Animal Feed Time Percent (3 random types of animals feed produced)+ Boat Event (2x Coins)</p><p>Have a great week!</p>"
+                    }
+                }
+            },
+            {
+                "id": "1ZXHIw1T7YCCwtKRGYKzz3",
+                "index": 2,
                 "targeting": null,
                 "metadata": {
                     "id": "1ZXHIw1T7YCCwtKRGYKzz3",
@@ -180,7 +986,7 @@
             },
             {
                 "id": "5S2LioDIS7Gu1vEYhTxQuI",
-                "index": 1,
+                "index": 3,
                 "targeting": null,
                 "metadata": {
                     "id": "5S2LioDIS7Gu1vEYhTxQuI",
@@ -288,7 +1094,7 @@
             },
             {
                 "id": "4wCvW0sZ402sTO4JYxD9MU",
-                "index": 2,
+                "index": 4,
                 "targeting": null,
                 "metadata": {
                     "id": "4wCvW0sZ402sTO4JYxD9MU",
@@ -396,7 +1202,7 @@
             },
             {
                 "id": "4Kt9NZVZ71jFBGAYadgsqS",
-                "index": 3,
+                "index": 5,
                 "targeting": null,
                 "metadata": {
                     "id": "4Kt9NZVZ71jFBGAYadgsqS",
@@ -504,7 +1310,7 @@
             },
             {
                 "id": "5m5pYyMhe0cNTcSaiZMdN7",
-                "index": 4,
+                "index": 6,
                 "targeting": null,
                 "metadata": {
                     "id": "5m5pYyMhe0cNTcSaiZMdN7",
@@ -612,7 +1418,7 @@
             },
             {
                 "id": "42tkGxu9HjMWYoSucMHnTs",
-                "index": 5,
+                "index": 7,
                 "targeting": null,
                 "metadata": {
                     "id": "42tkGxu9HjMWYoSucMHnTs",
@@ -674,7 +1480,7 @@
             },
             {
                 "id": "4BAdc4LGgqU2bK4MnOwOMA",
-                "index": 6,
+                "index": 8,
                 "targeting": null,
                 "metadata": {
                     "id": "4BAdc4LGgqU2bK4MnOwOMA",
@@ -782,7 +1588,7 @@
             },
             {
                 "id": "7oU6iGsWCbx76ENga9ui4N",
-                "index": 7,
+                "index": 9,
                 "targeting": null,
                 "metadata": {
                     "id": "7oU6iGsWCbx76ENga9ui4N",
@@ -890,7 +1696,7 @@
             },
             {
                 "id": "7DZRwDKdg9aGSTW85dc6bM",
-                "index": 8,
+                "index": 10,
                 "targeting": null,
                 "metadata": {
                     "id": "7DZRwDKdg9aGSTW85dc6bM",
@@ -998,7 +1804,7 @@
             },
             {
                 "id": "2TCOJbMhdtZbsrKVJKxkx",
-                "index": 9,
+                "index": 11,
                 "targeting": null,
                 "metadata": {
                     "id": "2TCOJbMhdtZbsrKVJKxkx",
@@ -1106,7 +1912,7 @@
             },
             {
                 "id": "Yu0ztuHaeKEHd520TltLx",
-                "index": 10,
+                "index": 12,
                 "targeting": null,
                 "metadata": {
                     "id": "Yu0ztuHaeKEHd520TltLx",
@@ -1168,7 +1974,7 @@
             },
             {
                 "id": "4homoX6z6Rd4OycLgf2Fsz",
-                "index": 11,
+                "index": 13,
                 "targeting": null,
                 "metadata": {
                     "id": "4homoX6z6Rd4OycLgf2Fsz",
@@ -1276,7 +2082,7 @@
             },
             {
                 "id": "6a0IxzNpj9qsze3f46pZ6p",
-                "index": 12,
+                "index": 14,
                 "targeting": null,
                 "metadata": {
                     "id": "6a0IxzNpj9qsze3f46pZ6p",
@@ -1384,7 +2190,7 @@
             },
             {
                 "id": "3j5u8Gtq2uqDd5Sr6AqJCh",
-                "index": 13,
+                "index": 15,
                 "targeting": null,
                 "metadata": {
                     "id": "3j5u8Gtq2uqDd5Sr6AqJCh",
@@ -1492,7 +2298,7 @@
             },
             {
                 "id": "4SzBxkSTW6n8jage3CkEJr",
-                "index": 14,
+                "index": 16,
                 "targeting": null,
                 "metadata": {
                     "id": "4SzBxkSTW6n8jage3CkEJr",
@@ -1600,7 +2406,7 @@
             },
             {
                 "id": "6IfFYOcwXaYYHXokU2Xe6X",
-                "index": 15,
+                "index": 17,
                 "targeting": null,
                 "metadata": {
                     "id": "6IfFYOcwXaYYHXokU2Xe6X",
@@ -1662,7 +2468,7 @@
             },
             {
                 "id": "5IEMYBuWcLfenRw3AqAdLk",
-                "index": 16,
+                "index": 18,
                 "targeting": null,
                 "metadata": {
                     "id": "5IEMYBuWcLfenRw3AqAdLk",
@@ -1772,6 +2578,7 @@
         "fullscreenEntries": []
     },
     "globals": {
+        "globalText.copyToClipboard": "Copy to clipboard!",
         "globalText.langVoteDefaultButtonLabel": "Vote",
         "globalText.thanksForVoting": "Thanks for voting",
         "globalText.langVoteResultsButtonLabel": "Show Results",

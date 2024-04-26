@@ -2,13 +2,452 @@
     "entries": {
         "esportNewsEntries": [
             {
-                "id": "39bolX8iDO3paJYd6JCwZt",
+                "id": "6KhLFBhhSN5KTzmf3iTG5M",
                 "index": 0,
                 "targeting": null,
                 "metadata": {
+                    "id": "6KhLFBhhSN5KTzmf3iTG5M",
+                    "publishedVersion": 73,
+                    "publishedAt": "2024-04-23T12:14:49.514Z"
+                },
+                "postDate": "1713724406",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Congrats, Synchronic!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#19eb86"
+                    }
+                ],
+                "newUntil": "1713916800",
+                "esportRegions": [],
+                "type": "esportNewsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Synchronic Golden Ticket 16x9.png",
+                        "path": "/lqe2co20rkhw/4ELGBsEuyRfG8Q3wrSIOt5/36d79b3a04c3bd27f5fa9bf8d114dcef/Synchronic_Golden_Ticket_16x9.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "Synchronic Golden Ticket 16x9.png",
+                        "path": "/lqe2co20rkhw/4ELGBsEuyRfG8Q3wrSIOt5/36d79b3a04c3bd27f5fa9bf8d114dcef/Synchronic_Golden_Ticket_16x9.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "Synchronic Golden Ticket 16x9.png",
+                        "path": "/lqe2co20rkhw/4ELGBsEuyRfG8Q3wrSIOt5/36d79b3a04c3bd27f5fa9bf8d114dcef/Synchronic_Golden_Ticket_16x9.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "Synchronic Golden Ticket 16x9.png",
+                        "path": "/lqe2co20rkhw/4ELGBsEuyRfG8Q3wrSIOt5/36d79b3a04c3bd27f5fa9bf8d114dcef/Synchronic_Golden_Ticket_16x9.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "Synchronic Golden Ticket 16x9.png",
+                        "path": "/lqe2co20rkhw/4ELGBsEuyRfG8Q3wrSIOt5/36d79b3a04c3bd27f5fa9bf8d114dcef/Synchronic_Golden_Ticket_16x9.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "Synchronic Golden Ticket 16x9.png",
+                        "path": "/lqe2co20rkhw/4ELGBsEuyRfG8Q3wrSIOt5/36d79b3a04c3bd27f5fa9bf8d114dcef/Synchronic_Golden_Ticket_16x9.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "COC - Article Hero_1950x800.png",
+                        "path": "/lqe2co20rkhw/1hDMXjixQG0oPMkZRkAjkW/592db388b4d1d1674061ef305676ca7d/COC_-_Article_Hero_1950x800.png?w=390&h=160&f=center&fit=fill",
+                        "width": 390,
+                        "height": 160
+                    },
+                    "smallRetina": {
+                        "title": "COC - Article Hero_1950x800.png",
+                        "path": "/lqe2co20rkhw/1hDMXjixQG0oPMkZRkAjkW/592db388b4d1d1674061ef305676ca7d/COC_-_Article_Hero_1950x800.png?w=780&h=320&f=center&fit=fill",
+                        "width": 780,
+                        "height": 320
+                    },
+                    "medium": {
+                        "title": "COC - Article Hero_1950x800.png",
+                        "path": "/lqe2co20rkhw/1hDMXjixQG0oPMkZRkAjkW/592db388b4d1d1674061ef305676ca7d/COC_-_Article_Hero_1950x800.png?w=975&h=400&f=center&fit=fill",
+                        "width": 975,
+                        "height": 400
+                    },
+                    "mediumRetina": {
+                        "title": "COC - Article Hero_1950x800.png",
+                        "path": "/lqe2co20rkhw/1hDMXjixQG0oPMkZRkAjkW/592db388b4d1d1674061ef305676ca7d/COC_-_Article_Hero_1950x800.png?w=1170&h=480&f=center&fit=fill",
+                        "width": 1170,
+                        "height": 480
+                    },
+                    "large": {
+                        "title": "COC - Article Hero_1950x800.png",
+                        "path": "/lqe2co20rkhw/1hDMXjixQG0oPMkZRkAjkW/592db388b4d1d1674061ef305676ca7d/COC_-_Article_Hero_1950x800.png?w=1560&h=640&f=center&fit=fill",
+                        "width": 1560,
+                        "height": 640
+                    },
+                    "largeRetina": {
+                        "title": "COC - Article Hero_1950x800.png",
+                        "path": "/lqe2co20rkhw/1hDMXjixQG0oPMkZRkAjkW/592db388b4d1d1674061ef305676ca7d/COC_-_Article_Hero_1950x800.png?w=1950&h=800&f=center&fit=fill",
+                        "width": 1950,
+                        "height": 800
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "Congrats to the April Monthly Finals Champions - Synchronic!",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>Hi, Chief!</p><p>After the intense Open Qualifier, followed by the epic Monthly Qualifier, culminating in the first Monthly Finals...\n\n<b>The first 2024 Clash of Clans World Championship Finalist team is decided!</b></p>"
+                    },
+                    "1": {
+                        "title": null,
+                        "order": "1",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "Synchronic Golden Ticket 16x9.png",
+                                "path": "/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=384&h=216&f=center&fit=fill",
+                                "width": 384,
+                                "height": 216
+                            },
+                            "smallRetina": {
+                                "title": "Synchronic Golden Ticket 16x9.png",
+                                "path": "/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=768&h=432&f=center&fit=fill",
+                                "width": 768,
+                                "height": 432
+                            },
+                            "medium": {
+                                "title": "Synchronic Golden Ticket 16x9.png",
+                                "path": "/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=960&h=540&f=center&fit=fill",
+                                "width": 960,
+                                "height": 540
+                            },
+                            "mediumRetina": {
+                                "title": "Synchronic Golden Ticket 16x9.png",
+                                "path": "/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=1152&h=648&f=center&fit=fill",
+                                "width": 1152,
+                                "height": 648
+                            },
+                            "large": {
+                                "title": "Synchronic Golden Ticket 16x9.png",
+                                "path": "/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=1536&h=864&f=center&fit=fill",
+                                "width": 1536,
+                                "height": 864
+                            },
+                            "largeRetina": {
+                                "title": "Synchronic Golden Ticket 16x9.png",
+                                "path": "/lqe2co20rkhw/2xQdlw5DZ4lxWKV8Ju3HUb/6f8d17671374168f68cb27444ed63ac2/Synchronic_Golden_Ticket_16x9.png?w=1920&h=1080&f=center&fit=fill",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "2": {
+                        "title": "",
+                        "order": "2",
+                        "type": "textBlock",
+                        "body": "<p>After an AMAZING Lower Bracket run forcing NAVI to a Grand Finals reset, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FSynchroniic')\"><b>Synchronic</b></a> has claimed the April Monthly Finals Golden Ticket and the biggest share of the $50,000 prize pool!</p><p>Congratulations to <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FGeneralX_coc')\"><b>General X</b></a><b>, </b><a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252Fsimonk_coc')\"><b>Simon</b></a><b>, </b><a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FMarc_TGG')\"><b>Marc</b></a><b>, </b><a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FPhilipp_CoC')\"><b>Philipp</b></a><b> &amp; </b><a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252Feinstein_coc')\"><b>Einstein</b></a><b>!</b></p>"
+                    },
+                    "3": {
+                        "title": null,
+                        "order": "3",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "Screen Shot 2024-04-21 at 11.31.52 AM.png",
+                                "path": "/lqe2co20rkhw/1qfUYiZjOInjmYmzgQd5YV/99371c0c66ebda7e1bc0785a0aa1439b/Screen_Shot_2024-04-21_at_11.31.52_AM.png?w=401&h=222&f=center&fit=fill",
+                                "width": 401,
+                                "height": 222
+                            },
+                            "smallRetina": {
+                                "title": "Screen Shot 2024-04-21 at 11.31.52 AM.png",
+                                "path": "/lqe2co20rkhw/1qfUYiZjOInjmYmzgQd5YV/99371c0c66ebda7e1bc0785a0aa1439b/Screen_Shot_2024-04-21_at_11.31.52_AM.png?w=802&h=443&f=center&fit=fill",
+                                "width": 802,
+                                "height": 443
+                            },
+                            "medium": {
+                                "title": "Screen Shot 2024-04-21 at 11.31.52 AM.png",
+                                "path": "/lqe2co20rkhw/1qfUYiZjOInjmYmzgQd5YV/99371c0c66ebda7e1bc0785a0aa1439b/Screen_Shot_2024-04-21_at_11.31.52_AM.png?w=1002&h=554&f=center&fit=fill",
+                                "width": 1002,
+                                "height": 554
+                            },
+                            "mediumRetina": {
+                                "title": "Screen Shot 2024-04-21 at 11.31.52 AM.png",
+                                "path": "/lqe2co20rkhw/1qfUYiZjOInjmYmzgQd5YV/99371c0c66ebda7e1bc0785a0aa1439b/Screen_Shot_2024-04-21_at_11.31.52_AM.png?w=1202&h=665&f=center&fit=fill",
+                                "width": 1202,
+                                "height": 665
+                            },
+                            "large": {
+                                "title": "Screen Shot 2024-04-21 at 11.31.52 AM.png",
+                                "path": "/lqe2co20rkhw/1qfUYiZjOInjmYmzgQd5YV/99371c0c66ebda7e1bc0785a0aa1439b/Screen_Shot_2024-04-21_at_11.31.52_AM.png?w=1603&h=886&f=center&fit=fill",
+                                "width": 1603,
+                                "height": 886
+                            },
+                            "largeRetina": {
+                                "title": "Screen Shot 2024-04-21 at 11.31.52 AM.png",
+                                "path": "/lqe2co20rkhw/1qfUYiZjOInjmYmzgQd5YV/99371c0c66ebda7e1bc0785a0aa1439b/Screen_Shot_2024-04-21_at_11.31.52_AM.png?w=2004&h=1108&f=center&fit=fill",
+                                "width": 2004,
+                                "height": 1108
+                            }
+                        }
+                    },
+                    "4": {
+                        "title": "",
+                        "order": "4",
+                        "type": "textBlock",
+                        "body": "<p>Rewatch the epic two-day showdown of Synchronic&#39;s road to glory, securing their Golden Ticket and their spot at the Clash of Clans World Championship Finals!</p>"
+                    },
+                    "5": {
+                        "title": "",
+                        "order": "5",
+                        "type": "videoBlock",
+                        "author": "",
+                        "embed": {
+                            "url": "https://www.youtube.com/live/FJ_jr5UzkeI?si=8rYe9TK7e2FzOEfR&t=1088",
+                            "provider": "youtube",
+                            "id": ""
+                        },
+                        "embedVideo": false,
+                        "thumbnail": {
+                            "small": {
+                                "title": "COC - April MF Thumb Day 1 16x9.png",
+                                "path": "/lqe2co20rkhw/7IevVsJWmxo9byXQbtXYjt/9d5f55ef00abe7e8491804664a416a86/COC_-_April_MF_Thumb_Day_1_16x9.png?w=180&h=101&f=center&fit=fill",
+                                "width": 180,
+                                "height": 101
+                            },
+                            "smallRetina": {
+                                "title": "COC - April MF Thumb Day 1 16x9.png",
+                                "path": "/lqe2co20rkhw/7IevVsJWmxo9byXQbtXYjt/9d5f55ef00abe7e8491804664a416a86/COC_-_April_MF_Thumb_Day_1_16x9.png?w=360&h=202&f=center&fit=fill",
+                                "width": 360,
+                                "height": 202
+                            },
+                            "medium": {
+                                "title": "COC - April MF Thumb Day 1 16x9.png",
+                                "path": "/lqe2co20rkhw/7IevVsJWmxo9byXQbtXYjt/9d5f55ef00abe7e8491804664a416a86/COC_-_April_MF_Thumb_Day_1_16x9.png?w=450&h=253&f=center&fit=fill",
+                                "width": 450,
+                                "height": 253
+                            },
+                            "mediumRetina": {
+                                "title": "COC - April MF Thumb Day 1 16x9.png",
+                                "path": "/lqe2co20rkhw/7IevVsJWmxo9byXQbtXYjt/9d5f55ef00abe7e8491804664a416a86/COC_-_April_MF_Thumb_Day_1_16x9.png?w=540&h=304&f=center&fit=fill",
+                                "width": 540,
+                                "height": 304
+                            },
+                            "large": {
+                                "title": "COC - April MF Thumb Day 1 16x9.png",
+                                "path": "/lqe2co20rkhw/7IevVsJWmxo9byXQbtXYjt/9d5f55ef00abe7e8491804664a416a86/COC_-_April_MF_Thumb_Day_1_16x9.png?w=720&h=405&f=center&fit=fill",
+                                "width": 720,
+                                "height": 405
+                            },
+                            "largeRetina": {
+                                "title": "COC - April MF Thumb Day 1 16x9.png",
+                                "path": "/lqe2co20rkhw/7IevVsJWmxo9byXQbtXYjt/9d5f55ef00abe7e8491804664a416a86/COC_-_April_MF_Thumb_Day_1_16x9.png?w=900&h=506&f=center&fit=fill",
+                                "width": 900,
+                                "height": 506
+                            }
+                        }
+                    },
+                    "6": {
+                        "title": "",
+                        "order": "6",
+                        "type": "videoBlock",
+                        "author": "",
+                        "embed": {
+                            "url": "https://www.youtube.com/live/kVq2IhGstIc?si=urIZs_UhIp-xJDFJ&t=1029",
+                            "provider": "youtube",
+                            "id": ""
+                        },
+                        "embedVideo": false,
+                        "thumbnail": {
+                            "small": {
+                                "title": "COC - April MF Day 2 Thumb 16x9.png",
+                                "path": "/lqe2co20rkhw/3KRmQpQzEseWhyOj4GG57O/34bd706d94c39c40773ffc617854e15d/COC_-_April_MF_Day_2_Thumb_16x9.png?w=180&h=101&f=center&fit=fill",
+                                "width": 180,
+                                "height": 101
+                            },
+                            "smallRetina": {
+                                "title": "COC - April MF Day 2 Thumb 16x9.png",
+                                "path": "/lqe2co20rkhw/3KRmQpQzEseWhyOj4GG57O/34bd706d94c39c40773ffc617854e15d/COC_-_April_MF_Day_2_Thumb_16x9.png?w=360&h=202&f=center&fit=fill",
+                                "width": 360,
+                                "height": 202
+                            },
+                            "medium": {
+                                "title": "COC - April MF Day 2 Thumb 16x9.png",
+                                "path": "/lqe2co20rkhw/3KRmQpQzEseWhyOj4GG57O/34bd706d94c39c40773ffc617854e15d/COC_-_April_MF_Day_2_Thumb_16x9.png?w=450&h=253&f=center&fit=fill",
+                                "width": 450,
+                                "height": 253
+                            },
+                            "mediumRetina": {
+                                "title": "COC - April MF Day 2 Thumb 16x9.png",
+                                "path": "/lqe2co20rkhw/3KRmQpQzEseWhyOj4GG57O/34bd706d94c39c40773ffc617854e15d/COC_-_April_MF_Day_2_Thumb_16x9.png?w=540&h=304&f=center&fit=fill",
+                                "width": 540,
+                                "height": 304
+                            },
+                            "large": {
+                                "title": "COC - April MF Day 2 Thumb 16x9.png",
+                                "path": "/lqe2co20rkhw/3KRmQpQzEseWhyOj4GG57O/34bd706d94c39c40773ffc617854e15d/COC_-_April_MF_Day_2_Thumb_16x9.png?w=720&h=405&f=center&fit=fill",
+                                "width": 720,
+                                "height": 405
+                            },
+                            "largeRetina": {
+                                "title": "COC - April MF Day 2 Thumb 16x9.png",
+                                "path": "/lqe2co20rkhw/3KRmQpQzEseWhyOj4GG57O/34bd706d94c39c40773ffc617854e15d/COC_-_April_MF_Day_2_Thumb_16x9.png?w=900&h=506&f=center&fit=fill",
+                                "width": 900,
+                                "height": 506
+                            }
+                        }
+                    },
+                    "7": {
+                        "title": "",
+                        "order": "7",
+                        "type": "textBlock",
+                        "body": "<p>There are still 5 more Golden Tickets up for grabs in the upcoming Monthly Finals and Last Chance Qualifier - make sure to sign-up in the Tournament Hub for YOUR chance at making it to the World Finals! Stay tuned to the Clash of Clans in-game Esports tab, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')\">Clash of Clans Esports X</a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc')\">Instagram</a> &amp; <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')\">Esports website</a> to make sure you&#39;re up-to-date on everything #ClashWorlds related!</p><p>Clash on!</p><p>- The Clash of Clans Esports Team</p>"
+                    }
+                }
+            },
+            {
+                "id": "2zz5hu8ghpjdIx6i6CEUdi",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
+                    "id": "2zz5hu8ghpjdIx6i6CEUdi",
+                    "publishedVersion": 20,
+                    "publishedAt": "2024-04-22T14:01:22.717Z"
+                },
+                "postDate": "1713724167",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Rewatch Day 2 of the April Monthly Finals!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#19eb86"
+                    }
+                ],
+                "newUntil": "1714123877",
+                "esportRegions": [],
+                "type": "externalNewsEntry",
+                "url": "https://www.youtube.com/live/kVq2IhGstIc?si=urIZs_UhIp-xJDFJ&t=1029",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "COC - April MF Day 2 Thumb 16x9.png",
+                        "path": "/lqe2co20rkhw/1LRmQByeVBHlid9qL4NCWq/c917640d001b6f6730f1e14aec7bc5bb/COC_-_April_MF_Day_2_Thumb_16x9.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "COC - April MF Day 2 Thumb 16x9.png",
+                        "path": "/lqe2co20rkhw/1LRmQByeVBHlid9qL4NCWq/c917640d001b6f6730f1e14aec7bc5bb/COC_-_April_MF_Day_2_Thumb_16x9.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "COC - April MF Day 2 Thumb 16x9.png",
+                        "path": "/lqe2co20rkhw/1LRmQByeVBHlid9qL4NCWq/c917640d001b6f6730f1e14aec7bc5bb/COC_-_April_MF_Day_2_Thumb_16x9.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "COC - April MF Day 2 Thumb 16x9.png",
+                        "path": "/lqe2co20rkhw/1LRmQByeVBHlid9qL4NCWq/c917640d001b6f6730f1e14aec7bc5bb/COC_-_April_MF_Day_2_Thumb_16x9.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "COC - April MF Day 2 Thumb 16x9.png",
+                        "path": "/lqe2co20rkhw/1LRmQByeVBHlid9qL4NCWq/c917640d001b6f6730f1e14aec7bc5bb/COC_-_April_MF_Day_2_Thumb_16x9.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "COC - April MF Day 2 Thumb 16x9.png",
+                        "path": "/lqe2co20rkhw/1LRmQByeVBHlid9qL4NCWq/c917640d001b6f6730f1e14aec7bc5bb/COC_-_April_MF_Day_2_Thumb_16x9.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "64JSGI8DXqGO2Vmp0qPibn",
+                "index": 2,
+                "targeting": null,
+                "metadata": {
+                    "id": "64JSGI8DXqGO2Vmp0qPibn",
+                    "publishedVersion": 21,
+                    "publishedAt": "2024-04-22T13:05:55.562Z"
+                },
+                "postDate": "1713637998",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Rewatch Day 1 of the April Monthly Finals!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#19eb86"
+                    }
+                ],
+                "newUntil": "1714123877",
+                "esportRegions": [],
+                "type": "externalNewsEntry",
+                "url": "https://www.youtube.com/live/FJ_jr5UzkeI?si=8rYe9TK7e2FzOEfR&t=1088",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "COC - April MF Thumb Day 1 16x9.png",
+                        "path": "/lqe2co20rkhw/fn1kAyCeSgeMFsGM90xAu/e4816e99d6e131b002a747d98846ffdb/COC_-_April_MF_Thumb_Day_1_16x9.png?w=180&h=101&f=center&fit=fill",
+                        "width": 180,
+                        "height": 101
+                    },
+                    "smallRetina": {
+                        "title": "COC - April MF Thumb Day 1 16x9.png",
+                        "path": "/lqe2co20rkhw/fn1kAyCeSgeMFsGM90xAu/e4816e99d6e131b002a747d98846ffdb/COC_-_April_MF_Thumb_Day_1_16x9.png?w=360&h=202&f=center&fit=fill",
+                        "width": 360,
+                        "height": 202
+                    },
+                    "medium": {
+                        "title": "COC - April MF Thumb Day 1 16x9.png",
+                        "path": "/lqe2co20rkhw/fn1kAyCeSgeMFsGM90xAu/e4816e99d6e131b002a747d98846ffdb/COC_-_April_MF_Thumb_Day_1_16x9.png?w=450&h=253&f=center&fit=fill",
+                        "width": 450,
+                        "height": 253
+                    },
+                    "mediumRetina": {
+                        "title": "COC - April MF Thumb Day 1 16x9.png",
+                        "path": "/lqe2co20rkhw/fn1kAyCeSgeMFsGM90xAu/e4816e99d6e131b002a747d98846ffdb/COC_-_April_MF_Thumb_Day_1_16x9.png?w=540&h=304&f=center&fit=fill",
+                        "width": 540,
+                        "height": 304
+                    },
+                    "large": {
+                        "title": "COC - April MF Thumb Day 1 16x9.png",
+                        "path": "/lqe2co20rkhw/fn1kAyCeSgeMFsGM90xAu/e4816e99d6e131b002a747d98846ffdb/COC_-_April_MF_Thumb_Day_1_16x9.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    },
+                    "largeRetina": {
+                        "title": "COC - April MF Thumb Day 1 16x9.png",
+                        "path": "/lqe2co20rkhw/fn1kAyCeSgeMFsGM90xAu/e4816e99d6e131b002a747d98846ffdb/COC_-_April_MF_Thumb_Day_1_16x9.png?w=900&h=506&f=center&fit=fill",
+                        "width": 900,
+                        "height": 506
+                    }
+                }
+            },
+            {
+                "id": "39bolX8iDO3paJYd6JCwZt",
+                "index": 3,
+                "targeting": null,
+                "metadata": {
                     "id": "39bolX8iDO3paJYd6JCwZt",
-                    "publishedVersion": 74,
-                    "publishedAt": "2024-04-19T21:34:09.565Z"
+                    "publishedVersion": 82,
+                    "publishedAt": "2024-04-20T14:36:18.601Z"
                 },
                 "postDate": "1713367372",
                 "lang": "en",
@@ -20,7 +459,7 @@
                         "color": "#19eb86"
                     }
                 ],
-                "newUntil": "1713607253",
+                "newUntil": "1714123877",
                 "esportRegions": [],
                 "type": "esportNewsEntry",
                 "listingSize": "large",
@@ -351,13 +790,13 @@
                         "title": "",
                         "order": "10",
                         "type": "textBlock",
-                        "body": "<p>You\u2019re not going to want to miss the FIRST Monthly Finals of the 2024 #ClashWorlds year. You\u2019re probably wondering, \u201cBut Chief, where can I watch the first showdown of my favorite Clash of Clans esports players?\u201d LOOK NO FURTHER, because there are multiple ways to watch\u2026</p><p>Our go-to location for watching the April Monthly Finals is the <a href=\"javascript:window.sendCommand('OpenWeb?url=http%253A%252F%252Fevent.supercell.com%252Fclashoflcans')\"><u>Clash of Clans Event Site</u></a>. On the event site, you\u2019ll be able to watch the stream in 8 languages: English, Spanish, Portuguese, French, German, Italian, Korean, and Japanese! In addition, by signing in with your Supercell ID, you\u2019ll be able to earn in-game rewards - that\u2019s right, you\u2019ll earn rewards just by watching! Check out the full list of Event Sites below\u2026</p><p>English: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fen%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/en</a></p><p>German: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fde%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/de</a></p><p>French: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Ffr%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/fr</a></p><p>Italian: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fit%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/it</a></p><p>Spanish: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fes%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/es</a></p><p>Portuguese: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fpt%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/pt</a></p><p>Japanese: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fjp%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/jp</a></p><p>Korean: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fkr%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/kr</a></p><p>That\u2019s it, Chief! Mark your calendars and stay tuned to the Clash of Clans in-game Esports tab, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')\"><u>Clash of Clans Esports X</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc')\"><u>Instagram</u></a> &amp; <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')\"><u>Esports website</u></a> to make sure you\u2019re up-to-date on everything #ClashWorlds related!</p><p>Clash On!</p><p>- The Clash of Clans Esports Team</p>"
+                        "body": "<p>You\u2019re not going to want to miss the FIRST Monthly Finals of the 2024 #ClashWorlds year. You\u2019re probably wondering, \u201cBut Chief, where can I watch the first showdown of my favorite Clash of Clans esports players?\u201d LOOK NO FURTHER, because there are multiple ways to watch\u2026</p><p>Our go-to location for watching the April Monthly Finals is the <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fen%253Fpfg%253Dtrue')\"><u>Clash of Clans Event Site</u></a>. On the event site, you\u2019ll be able to watch the stream in 8 languages: English, Spanish, Portuguese, French, German, Italian, Korean, and Japanese! In addition, by signing in with your Supercell ID, you\u2019ll be able to earn in-game rewards - that\u2019s right, you\u2019ll earn rewards just by watching! Check out the full list of Event Sites below\u2026</p><p>English: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fen%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/en</a></p><p>German: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fde%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/de</a></p><p>French: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Ffr%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/fr</a></p><p>Italian: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fit%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/it</a></p><p>Spanish: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fes%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/es</a></p><p>Portuguese: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fpt%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/pt</a></p><p>Japanese: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fjp%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/jp</a></p><p>Korean: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fevent.supercell.com%252Fclashofclans%252Fkr%253Fpfg%253Dtrue')\">https://event.supercell.com/clashofclans/kr</a></p><p>That\u2019s it, Chief! Mark your calendars and stay tuned to the Clash of Clans in-game Esports tab, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')\"><u>Clash of Clans Esports X</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc')\"><u>Instagram</u></a> &amp; <a href=\"javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')\"><u>Esports website</u></a> to make sure you\u2019re up-to-date on everything #ClashWorlds related!</p><p>Clash On!</p><p>- The Clash of Clans Esports Team</p>"
                     }
                 }
             },
             {
                 "id": "1ICZmeyYPPIc0s1tFj5vvh",
-                "index": 1,
+                "index": 4,
                 "targeting": null,
                 "metadata": {
                     "id": "1ICZmeyYPPIc0s1tFj5vvh",
@@ -374,7 +813,7 @@
                         "color": "#19eb86"
                     }
                 ],
-                "newUntil": "1713607253",
+                "newUntil": "1714123877",
                 "esportRegions": [],
                 "type": "externalNewsEntry",
                 "url": "https://www.twitch.tv/videos/2119628265?t=0h30m52s",
@@ -420,7 +859,7 @@
             },
             {
                 "id": "vuBCHpN3niaoqlFJjl46u",
-                "index": 2,
+                "index": 5,
                 "targeting": null,
                 "metadata": {
                     "id": "vuBCHpN3niaoqlFJjl46u",
@@ -437,7 +876,7 @@
                         "color": "#19eb86"
                     }
                 ],
-                "newUntil": "1713607253",
+                "newUntil": "1714123877",
                 "esportRegions": [],
                 "type": "externalNewsEntry",
                 "url": "https://www.twitch.tv/videos/2118704782?t=00h21m08s",
@@ -483,7 +922,7 @@
             },
             {
                 "id": "5iS0cgaQurMHESABoYIOrj",
-                "index": 3,
+                "index": 6,
                 "targeting": null,
                 "metadata": {
                     "id": "5iS0cgaQurMHESABoYIOrj",
@@ -690,7 +1129,7 @@
             },
             {
                 "id": "14kmf8VIUrxu2USIeQhauv",
-                "index": 4,
+                "index": 7,
                 "targeting": null,
                 "metadata": {
                     "id": "14kmf8VIUrxu2USIeQhauv",
@@ -707,7 +1146,7 @@
                         "color": "#19eb86"
                     }
                 ],
-                "newUntil": "1713607253",
+                "newUntil": "1714123877",
                 "esportRegions": [],
                 "type": "videoNewsEntry",
                 "embed": {
@@ -758,7 +1197,7 @@
             },
             {
                 "id": "1J0qz9CjAbvApcTRn2F0LX",
-                "index": 5,
+                "index": 8,
                 "targeting": null,
                 "metadata": {
                     "id": "1J0qz9CjAbvApcTRn2F0LX",
@@ -775,7 +1214,7 @@
                         "color": "#19eb86"
                     }
                 ],
-                "newUntil": "1713607253",
+                "newUntil": "1714123877",
                 "esportRegions": [],
                 "type": "videoNewsEntry",
                 "embed": {
@@ -826,7 +1265,7 @@
             },
             {
                 "id": "n1yNhpK7RBRMkQXf3JXpf",
-                "index": 6,
+                "index": 9,
                 "targeting": null,
                 "metadata": {
                     "id": "n1yNhpK7RBRMkQXf3JXpf",
@@ -1082,7 +1521,7 @@
             },
             {
                 "id": "3HFPUrRk3ply0IhzCVx6b9",
-                "index": 7,
+                "index": 10,
                 "targeting": null,
                 "metadata": {
                     "id": "3HFPUrRk3ply0IhzCVx6b9",
@@ -1289,7 +1728,7 @@
             },
             {
                 "id": "5Fjb36Jb4ZrrHD5UNjzL5T",
-                "index": 8,
+                "index": 11,
                 "targeting": null,
                 "metadata": {
                     "id": "5Fjb36Jb4ZrrHD5UNjzL5T",
@@ -1352,7 +1791,7 @@
             },
             {
                 "id": "77d6tj4eD4eo0tCwmTheNd",
-                "index": 9,
+                "index": 12,
                 "targeting": null,
                 "metadata": {
                     "id": "77d6tj4eD4eo0tCwmTheNd",
@@ -1415,7 +1854,7 @@
             },
             {
                 "id": "5OPAgwJwjtsYNaDcA0BgLJ",
-                "index": 10,
+                "index": 13,
                 "targeting": null,
                 "metadata": {
                     "id": "5OPAgwJwjtsYNaDcA0BgLJ",
@@ -1585,7 +2024,7 @@
             },
             {
                 "id": "1riQAzfbFBHavBVZeYM4qj",
-                "index": 11,
+                "index": 14,
                 "targeting": null,
                 "metadata": {
                     "id": "1riQAzfbFBHavBVZeYM4qj",
@@ -1718,7 +2157,7 @@
             },
             {
                 "id": "7FDjvhROTz3dWlZ20cPeqP",
-                "index": 12,
+                "index": 15,
                 "targeting": null,
                 "metadata": {
                     "id": "7FDjvhROTz3dWlZ20cPeqP",
@@ -1786,7 +2225,7 @@
             },
             {
                 "id": "6LIOUGhhcMs8bNPGItdav8",
-                "index": 13,
+                "index": 16,
                 "targeting": null,
                 "metadata": {
                     "id": "6LIOUGhhcMs8bNPGItdav8",
@@ -1854,7 +2293,7 @@
             },
             {
                 "id": "5bYfclnbQd0vdf4mjb5RPN",
-                "index": 14,
+                "index": 17,
                 "targeting": null,
                 "metadata": {
                     "id": "5bYfclnbQd0vdf4mjb5RPN",
@@ -1871,7 +2310,7 @@
                         "color": "#19eb86"
                     }
                 ],
-                "newUntil": "1713607253",
+                "newUntil": "1714123877",
                 "esportRegions": [],
                 "type": "esportNewsEntry",
                 "listingSize": "large",
@@ -2043,7 +2482,7 @@
             },
             {
                 "id": "5wNBmLZK82YdoXMGk0wAqW",
-                "index": 15,
+                "index": 18,
                 "targeting": null,
                 "metadata": {
                     "id": "5wNBmLZK82YdoXMGk0wAqW",
@@ -2110,76 +2549,8 @@
                 }
             },
             {
-                "id": "44MezhGzwJkNWzkoEeIwee",
-                "index": 16,
-                "targeting": null,
-                "metadata": {
-                    "id": "44MezhGzwJkNWzkoEeIwee",
-                    "publishedVersion": 8,
-                    "publishedAt": "2024-01-25T14:21:55.554Z"
-                },
-                "postDate": "1706140800",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "Rewatch the SPS NA Challenge Week 3!",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#19eb86"
-                    }
-                ],
-                "newUntil": "1706227200",
-                "esportRegions": [],
-                "type": "videoNewsEntry",
-                "embed": {
-                    "id": "5iRvOTE47hGjh8jZDs2lSP",
-                    "provider": "youtube",
-                    "url": "https://www.youtube.com/live/rzO16v2TlHE?si=z-iSovQb0sTN0vT-&t=1806"
-                },
-                "embedVideo": false,
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "Live now_Week3-NA_SPS.png",
-                        "path": "/lqe2co20rkhw/6ZIYIS8idOutEoH0g5Ja5G/c59d73a33dedecc0e9416acf52685888/Live_now_Week3-NA_SPS.png?w=180&h=101&f=center&fit=fill",
-                        "width": 180,
-                        "height": 101
-                    },
-                    "smallRetina": {
-                        "title": "Live now_Week3-NA_SPS.png",
-                        "path": "/lqe2co20rkhw/6ZIYIS8idOutEoH0g5Ja5G/c59d73a33dedecc0e9416acf52685888/Live_now_Week3-NA_SPS.png?w=360&h=202&f=center&fit=fill",
-                        "width": 360,
-                        "height": 202
-                    },
-                    "medium": {
-                        "title": "Live now_Week3-NA_SPS.png",
-                        "path": "/lqe2co20rkhw/6ZIYIS8idOutEoH0g5Ja5G/c59d73a33dedecc0e9416acf52685888/Live_now_Week3-NA_SPS.png?w=450&h=253&f=center&fit=fill",
-                        "width": 450,
-                        "height": 253
-                    },
-                    "mediumRetina": {
-                        "title": "Live now_Week3-NA_SPS.png",
-                        "path": "/lqe2co20rkhw/6ZIYIS8idOutEoH0g5Ja5G/c59d73a33dedecc0e9416acf52685888/Live_now_Week3-NA_SPS.png?w=540&h=304&f=center&fit=fill",
-                        "width": 540,
-                        "height": 304
-                    },
-                    "large": {
-                        "title": "Live now_Week3-NA_SPS.png",
-                        "path": "/lqe2co20rkhw/6ZIYIS8idOutEoH0g5Ja5G/c59d73a33dedecc0e9416acf52685888/Live_now_Week3-NA_SPS.png?w=720&h=405&f=center&fit=fill",
-                        "width": 720,
-                        "height": 405
-                    },
-                    "largeRetina": {
-                        "title": "Live now_Week3-NA_SPS.png",
-                        "path": "/lqe2co20rkhw/6ZIYIS8idOutEoH0g5Ja5G/c59d73a33dedecc0e9416acf52685888/Live_now_Week3-NA_SPS.png?w=900&h=506&f=center&fit=fill",
-                        "width": 900,
-                        "height": 506
-                    }
-                }
-            },
-            {
                 "id": "B3zji57Pj7ARwI6KqPmz4",
-                "index": 17,
+                "index": 19,
                 "targeting": null,
                 "metadata": {
                     "id": "B3zji57Pj7ARwI6KqPmz4",
@@ -2386,7 +2757,7 @@
             },
             {
                 "id": "KgC6vPVk6vgVLqGN7mR8DZcJwGJUwR1YMzPQkzNRMd8",
-                "index": 18,
+                "index": 20,
                 "targeting": null,
                 "metadata": {
                     "id": "KgC6vPVk6vgVLqGN7mR8DZcJwGJUwR1YMzPQkzNRMd8",
@@ -2696,118 +3067,69 @@
         ],
         "esportCarouselEntries": [
             {
-                "id": "3gzhgnOcuxQP5JGD1puD1M",
-                "type": "liveEntry",
-                "title": "Tune in to Day 1 of the April Monthly Finals!",
+                "id": "6USaHWPtnDTOfPGhYf7ki3",
+                "type": "eventEntry",
+                "title": "Congrats, Synchronic!",
                 "subtitle": "",
-                "eventPromotionName": "April Monthly Finals",
-                "eventPromotionLogo": {
-                    "small": {
-                        "title": "CoCWC Logo.png",
-                        "path": "/lqe2co20rkhw/4LAs3xBiTFSqMxok99Nd3N/72d705ef456bcb00be68507e97f8e17a/CoCWC_Logo.png?w=51&h=51&f=center&fit=fill",
-                        "width": 51,
-                        "height": 51
-                    },
-                    "smallRetina": {
-                        "title": "CoCWC Logo.png",
-                        "path": "/lqe2co20rkhw/4LAs3xBiTFSqMxok99Nd3N/72d705ef456bcb00be68507e97f8e17a/CoCWC_Logo.png?w=102&h=102&f=center&fit=fill",
-                        "width": 102,
-                        "height": 102
-                    },
-                    "medium": {
-                        "title": "CoCWC Logo.png",
-                        "path": "/lqe2co20rkhw/4LAs3xBiTFSqMxok99Nd3N/72d705ef456bcb00be68507e97f8e17a/CoCWC_Logo.png?w=128&h=128&f=center&fit=fill",
-                        "width": 128,
-                        "height": 128
-                    },
-                    "mediumRetina": {
-                        "title": "CoCWC Logo.png",
-                        "path": "/lqe2co20rkhw/4LAs3xBiTFSqMxok99Nd3N/72d705ef456bcb00be68507e97f8e17a/CoCWC_Logo.png?w=154&h=154&f=center&fit=fill",
-                        "width": 154,
-                        "height": 154
-                    },
-                    "large": {
-                        "title": "CoCWC Logo.png",
-                        "path": "/lqe2co20rkhw/4LAs3xBiTFSqMxok99Nd3N/72d705ef456bcb00be68507e97f8e17a/CoCWC_Logo.png?w=205&h=205&f=center&fit=fill",
-                        "width": 205,
-                        "height": 205
-                    },
-                    "largeRetina": {
-                        "title": "CoCWC Logo.png",
-                        "path": "/lqe2co20rkhw/4LAs3xBiTFSqMxok99Nd3N/72d705ef456bcb00be68507e97f8e17a/CoCWC_Logo.png?w=256&h=256&f=center&fit=fill",
-                        "width": 256,
-                        "height": 256
-                    }
-                },
                 "carouselImage": {
                     "small": {
-                        "title": "COC - April MF Day 1 Thumb in-game.png",
-                        "path": "/lqe2co20rkhw/6mk8K5Cn44Xzg10BpK3dFJ/fcebf9f73e5c118b0af40ef518732d39/COC_-_April_MF_Day_1_Thumb_in-game.png?w=172&h=256&f=center&fit=fill",
+                        "title": "COC - April MF Winner in-game.png",
+                        "path": "/lqe2co20rkhw/6gLuBMrhdZdXOl6757Da3X/de30ef9c1761de37791e5e58988d0330/COC_-_April_MF_Winner_in-game.png?w=172&h=256&f=center&fit=fill",
                         "width": 172,
                         "height": 256
                     },
                     "smallRetina": {
-                        "title": "COC - April MF Day 1 Thumb in-game.png",
-                        "path": "/lqe2co20rkhw/6mk8K5Cn44Xzg10BpK3dFJ/fcebf9f73e5c118b0af40ef518732d39/COC_-_April_MF_Day_1_Thumb_in-game.png?w=344&h=512&f=center&fit=fill",
+                        "title": "COC - April MF Winner in-game.png",
+                        "path": "/lqe2co20rkhw/6gLuBMrhdZdXOl6757Da3X/de30ef9c1761de37791e5e58988d0330/COC_-_April_MF_Winner_in-game.png?w=344&h=512&f=center&fit=fill",
                         "width": 344,
                         "height": 512
                     },
                     "medium": {
-                        "title": "COC - April MF Day 1 Thumb in-game.png",
-                        "path": "/lqe2co20rkhw/6mk8K5Cn44Xzg10BpK3dFJ/fcebf9f73e5c118b0af40ef518732d39/COC_-_April_MF_Day_1_Thumb_in-game.png?w=430&h=640&f=center&fit=fill",
+                        "title": "COC - April MF Winner in-game.png",
+                        "path": "/lqe2co20rkhw/6gLuBMrhdZdXOl6757Da3X/de30ef9c1761de37791e5e58988d0330/COC_-_April_MF_Winner_in-game.png?w=430&h=640&f=center&fit=fill",
                         "width": 430,
                         "height": 640
                     },
                     "mediumRetina": {
-                        "title": "COC - April MF Day 1 Thumb in-game.png",
-                        "path": "/lqe2co20rkhw/6mk8K5Cn44Xzg10BpK3dFJ/fcebf9f73e5c118b0af40ef518732d39/COC_-_April_MF_Day_1_Thumb_in-game.png?w=516&h=768&f=center&fit=fill",
+                        "title": "COC - April MF Winner in-game.png",
+                        "path": "/lqe2co20rkhw/6gLuBMrhdZdXOl6757Da3X/de30ef9c1761de37791e5e58988d0330/COC_-_April_MF_Winner_in-game.png?w=516&h=768&f=center&fit=fill",
                         "width": 516,
                         "height": 768
                     },
                     "large": {
-                        "title": "COC - April MF Day 1 Thumb in-game.png",
-                        "path": "/lqe2co20rkhw/6mk8K5Cn44Xzg10BpK3dFJ/fcebf9f73e5c118b0af40ef518732d39/COC_-_April_MF_Day_1_Thumb_in-game.png?w=688&h=1024&f=center&fit=fill",
+                        "title": "COC - April MF Winner in-game.png",
+                        "path": "/lqe2co20rkhw/6gLuBMrhdZdXOl6757Da3X/de30ef9c1761de37791e5e58988d0330/COC_-_April_MF_Winner_in-game.png?w=688&h=1024&f=center&fit=fill",
                         "width": 688,
                         "height": 1024
                     },
                     "largeRetina": {
-                        "title": "COC - April MF Day 1 Thumb in-game.png",
-                        "path": "/lqe2co20rkhw/6mk8K5Cn44Xzg10BpK3dFJ/fcebf9f73e5c118b0af40ef518732d39/COC_-_April_MF_Day_1_Thumb_in-game.png?w=860&h=1280&f=center&fit=fill",
+                        "title": "COC - April MF Winner in-game.png",
+                        "path": "/lqe2co20rkhw/6gLuBMrhdZdXOl6757Da3X/de30ef9c1761de37791e5e58988d0330/COC_-_April_MF_Winner_in-game.png?w=860&h=1280&f=center&fit=fill",
                         "width": 860,
                         "height": 1280
                     }
                 },
-                "livestreamEndTime": "2024-04-20T19:00:00.000Z",
-                "livestreamStartTime": "2024-04-20T14:00:00.000Z",
-                "readMoreButton": {
-                    "title": null,
-                    "type": "article",
-                    "urlType": "article",
-                    "id": "2w2tP6tpD1A0iPFWCnWv5B",
-                    "order": "1",
-                    "variant": "green",
-                    "label": "Read More!",
-                    "url": {
-                        "id": "39bolX8iDO3paJYd6JCwZt",
-                        "section": "newsEntries"
-                    },
-                    "article": [
-                        {
-                            "id": "39bolX8iDO3paJYd6JCwZt",
+                "ctaButtons": [
+                    {
+                        "title": null,
+                        "type": "article",
+                        "urlType": "article",
+                        "id": "166qgZyRnnlZhu7kXm5S48",
+                        "order": "0",
+                        "variant": "green",
+                        "label": "Read More!",
+                        "url": {
+                            "id": "6KhLFBhhSN5KTzmf3iTG5M",
                             "section": "newsEntries"
-                        }
-                    ]
-                },
-                "watchLiveButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "2oqg6sfBVTVC65XjedT5r3",
-                    "order": "1",
-                    "variant": "green",
-                    "url": "https://event.supercell.com/clashofclans/en?pfg=true",
-                    "label": "Watch Live!"
-                },
+                        },
+                        "article": [
+                            {
+                                "id": "6KhLFBhhSN5KTzmf3iTG5M",
+                                "section": "newsEntries"
+                            }
+                        ]
+                    }
+                ],
                 "esportRegions": []
             },
             {
@@ -3286,6 +3608,8 @@
         "esportFullscreenEntries": []
     },
     "globals": {
+        "globalText.copyToClipboard": "Copied to clipboard!",
+        "globalText.langNew": "New",
         "globalText.toNews": "To News!",
         "globalText.langVoteCheck": "Check vote",
         "globalText.langVoteTryAgainLabel": "Oops, Try Again!",
@@ -3305,7 +3629,6 @@
         "globalText.langCastYourVote": "Cast your vote",
         "globalText.langLoading": "Loading...",
         "globalText.langShare": "Share",
-        "globalText.langNew": "New",
         "globalText.langLoadMore": "Load More",
         "globalText.langFollowUs": "Other Channels",
         "globalText.langHoursAbbreviated": "h",

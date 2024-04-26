@@ -1,7 +1,7 @@
 {
     "meta": {
         "id": 0,
-        "date": "1713597619"
+        "date": "1714122630"
     },
     "entries": {
         "communityCreators": [
@@ -1126,6 +1126,7 @@
         ]
     },
     "globals": {
+        "globalText.copyToClipboard": "Copy to clipboard!",
         "globalText.langVoteDefaultButtonLabel": "Vote",
         "globalText.thanksForVoting": "Thanks for voting",
         "globalText.langVoteResultsButtonLabel": "Show Results",

@@ -6264,7 +6264,8 @@
                     "builderHallLevel": [],
                     "townHallLevel": [],
                     "campaignId": "",
-                    "avatarIds": []
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
                 },
                 "metadata": {
                     "id": "6uU8qiee6f0B6o64Htpn6o",
@@ -8822,7 +8823,8 @@
                     "builderHallLevel": [],
                     "townHallLevel": [],
                     "campaignId": "",
-                    "avatarIds": []
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
                 },
                 "metadata": {
                     "id": "5qkwa4tzlXzNe2mrfVYEx0",
@@ -21009,7 +21011,7 @@
                         "color": "#cc0001"
                     }
                 ],
-                "newUntil": "1713348324",
+                "newUntil": "1714048089",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "thumbnail": {
@@ -22720,7 +22722,7 @@
                         "color": "#cc0001"
                     }
                 ],
-                "newUntil": "1713348324",
+                "newUntil": "1714048089",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "thumbnail": {
@@ -23643,7 +23645,7 @@
                         "color": "#cc0001"
                     }
                 ],
-                "newUntil": "1713348324",
+                "newUntil": "1714048089",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "thumbnail": {
@@ -24482,7 +24484,7 @@
                         "color": "#99ffbb"
                     }
                 ],
-                "newUntil": "1713348324",
+                "newUntil": "1714048089",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "thumbnail": {
@@ -24595,7 +24597,7 @@
                         "color": "#cc0001"
                     }
                 ],
-                "newUntil": "1713348324",
+                "newUntil": "1714048089",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "thumbnail": {
@@ -24702,7 +24704,7 @@
                         "color": "#99ffbb"
                     }
                 ],
-                "newUntil": "1713348324",
+                "newUntil": "1714048089",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "thumbnail": {

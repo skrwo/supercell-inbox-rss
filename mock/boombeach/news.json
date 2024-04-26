@@ -2,6 +2,510 @@
     "entries": {
         "eventEntries": [
             {
+                "id": "6M2uFb9weeDRzk3ke5Sp2k",
+                "metadata": {
+                    "id": "6M2uFb9weeDRzk3ke5Sp2k",
+                    "publishedAt": "2024-04-26T09:03:40.770Z",
+                    "publishedVersion": 14
+                },
+                "targeting": {
+                    "country": [],
+                    "platform": [
+                        "android"
+                    ],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "postDate": "1714122212",
+                "sortDate": "1714122212",
+                "lang": "en",
+                "title": "",
+                "type": "progressTrackerEntry",
+                "ctas": {
+                    "10627Z1MzkySDS5wxUZoja": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "10627Z1MzkySDS5wxUZoja",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://squadbusters.com",
+                        "label": "Squad Up! Pre-register Supercell's new global game!"
+                    }
+                },
+                "background": {
+                    "small": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                },
+                "milestones": [
+                    {
+                        "unlocked": false,
+                        "progress": 25,
+                        "image": {
+                            "small": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "1M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 50,
+                        "image": {
+                            "small": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 75,
+                        "image": {
+                            "small": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    }
+                ],
+                "tracker": {
+                    "progress": 13.750000000000002,
+                    "direction": "horizontal"
+                }
+            },
+            {
+                "id": "68oFUEeqIjTe3Gcs2LqPXh",
+                "metadata": {
+                    "id": "68oFUEeqIjTe3Gcs2LqPXh",
+                    "publishedAt": "2024-04-26T09:03:33.321Z",
+                    "publishedVersion": 15
+                },
+                "targeting": {
+                    "country": [],
+                    "platform": [
+                        "ios"
+                    ],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "postDate": "1714122208",
+                "sortDate": "1714122208",
+                "lang": "en",
+                "title": "",
+                "type": "progressTrackerEntry",
+                "ctas": {
+                    "5TtsV2gdYLomBXRKDe6g9j": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "5TtsV2gdYLomBXRKDe6g9j",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://squadbusters.com",
+                        "label": "Squad Up! Pre-order Supercell's new global game!"
+                    }
+                },
+                "background": {
+                    "small": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=172&h=264&f=center&fit=fill",
+                        "width": 172,
+                        "height": 264
+                    },
+                    "smallRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=344&h=528&f=center&fit=fill",
+                        "width": 344,
+                        "height": 528
+                    },
+                    "medium": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=430&h=660&f=center&fit=fill",
+                        "width": 430,
+                        "height": 660
+                    },
+                    "mediumRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=516&h=792&f=center&fit=fill",
+                        "width": 516,
+                        "height": 792
+                    },
+                    "large": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=688&h=1056&f=center&fit=fill",
+                        "width": 688,
+                        "height": 1056
+                    },
+                    "largeRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=860&h=1320&f=center&fit=fill",
+                        "width": 860,
+                        "height": 1320
+                    }
+                },
+                "milestones": [
+                    {
+                        "unlocked": false,
+                        "progress": 25,
+                        "image": {
+                            "small": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Boombeach-1.png",
+                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "1M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 50,
+                        "image": {
+                            "small": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Boombeach-2.png",
+                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 75,
+                        "image": {
+                            "small": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Boombeach-3.png",
+                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "Boombeach-4.png",
+                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "?M"
+                    }
+                ],
+                "tracker": {
+                    "progress": 13.750000000000002,
+                    "direction": "horizontal"
+                }
+            },
+            {
                 "id": "2zDc3i52sUYf3sSjOIaVoW",
                 "metadata": {
                     "id": "2zDc3i52sUYf3sSjOIaVoW",
@@ -364,7 +868,8 @@
                     "builderHallLevel": [],
                     "townHallLevel": [],
                     "campaignId": "",
-                    "avatarIds": []
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
                 },
                 "postDate": "1696583819",
                 "sortDate": "1696583819",
@@ -384,7 +889,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713559949",
+                "timerTarget": "1714122621",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -451,7 +956,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713559949",
+                "timerTarget": "1714122621",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -518,7 +1023,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713559949",
+                "timerTarget": "1714122621",
                 "hideTitle": false,
                 "background": {
                     "small": {
@@ -562,8 +1067,196 @@
         ],
         "newsEntries": [
             {
-                "id": "7eldwAdYVJzcyphrvaM6uv",
+                "id": "6gFWymbUMWlfTjhx8GWHWT",
                 "index": 0,
+                "targeting": {
+                    "country": [],
+                    "platform": [],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "metadata": {
+                    "id": "6gFWymbUMWlfTjhx8GWHWT",
+                    "publishedVersion": 12,
+                    "publishedAt": "2024-04-26T09:03:25.501Z"
+                },
+                "postDate": "1714122198",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "New Supercell game",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#50418c"
+                    }
+                ],
+                "newUntil": "1714726800",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Boom Beach-thumbnail.png",
+                        "path": "/cf7umh1jvp53/17r3C14FGN1u9b96kdXQTx/e0fbec2e4aed7dfe9cfa135de02890c9/Boom_Beach-thumbnail.png?w=180&h=99&f=center&fit=fill",
+                        "width": 180,
+                        "height": 99
+                    },
+                    "smallRetina": {
+                        "title": "Boom Beach-thumbnail.png",
+                        "path": "/cf7umh1jvp53/17r3C14FGN1u9b96kdXQTx/e0fbec2e4aed7dfe9cfa135de02890c9/Boom_Beach-thumbnail.png?w=360&h=197&f=center&fit=fill",
+                        "width": 360,
+                        "height": 197
+                    },
+                    "medium": {
+                        "title": "Boom Beach-thumbnail.png",
+                        "path": "/cf7umh1jvp53/17r3C14FGN1u9b96kdXQTx/e0fbec2e4aed7dfe9cfa135de02890c9/Boom_Beach-thumbnail.png?w=450&h=247&f=center&fit=fill",
+                        "width": 450,
+                        "height": 247
+                    },
+                    "mediumRetina": {
+                        "title": "Boom Beach-thumbnail.png",
+                        "path": "/cf7umh1jvp53/17r3C14FGN1u9b96kdXQTx/e0fbec2e4aed7dfe9cfa135de02890c9/Boom_Beach-thumbnail.png?w=540&h=296&f=center&fit=fill",
+                        "width": 540,
+                        "height": 296
+                    },
+                    "large": {
+                        "title": "Boom Beach-thumbnail.png",
+                        "path": "/cf7umh1jvp53/17r3C14FGN1u9b96kdXQTx/e0fbec2e4aed7dfe9cfa135de02890c9/Boom_Beach-thumbnail.png?w=720&h=394&f=center&fit=fill",
+                        "width": 720,
+                        "height": 394
+                    },
+                    "largeRetina": {
+                        "title": "Boom Beach-thumbnail.png",
+                        "path": "/cf7umh1jvp53/17r3C14FGN1u9b96kdXQTx/e0fbec2e4aed7dfe9cfa135de02890c9/Boom_Beach-thumbnail.png?w=900&h=493&f=center&fit=fill",
+                        "width": 900,
+                        "height": 493
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "Boom Beach-inbox-article-hero.png",
+                        "path": "/cf7umh1jvp53/750bnV0E0wju4Bv9Svqmof/b4e6f693460dce645d174c1b6aa78bbf/Boom_Beach-inbox-article-hero.png?w=390&h=130&f=center",
+                        "width": 390,
+                        "height": 130
+                    },
+                    "smallRetina": {
+                        "title": "Boom Beach-inbox-article-hero.png",
+                        "path": "/cf7umh1jvp53/750bnV0E0wju4Bv9Svqmof/b4e6f693460dce645d174c1b6aa78bbf/Boom_Beach-inbox-article-hero.png?w=780&h=260&f=center",
+                        "width": 780,
+                        "height": 260
+                    },
+                    "medium": {
+                        "title": "Boom Beach-inbox-article-hero.png",
+                        "path": "/cf7umh1jvp53/750bnV0E0wju4Bv9Svqmof/b4e6f693460dce645d174c1b6aa78bbf/Boom_Beach-inbox-article-hero.png?w=975&h=325&f=center",
+                        "width": 975,
+                        "height": 325
+                    },
+                    "mediumRetina": {
+                        "title": "Boom Beach-inbox-article-hero.png",
+                        "path": "/cf7umh1jvp53/750bnV0E0wju4Bv9Svqmof/b4e6f693460dce645d174c1b6aa78bbf/Boom_Beach-inbox-article-hero.png?w=1170&h=390&f=center",
+                        "width": 1170,
+                        "height": 390
+                    },
+                    "large": {
+                        "title": "Boom Beach-inbox-article-hero.png",
+                        "path": "/cf7umh1jvp53/750bnV0E0wju4Bv9Svqmof/b4e6f693460dce645d174c1b6aa78bbf/Boom_Beach-inbox-article-hero.png?w=1560&h=520&f=center",
+                        "width": 1560,
+                        "height": 520
+                    },
+                    "largeRetina": {
+                        "title": "Boom Beach-inbox-article-hero.png",
+                        "path": "/cf7umh1jvp53/750bnV0E0wju4Bv9Svqmof/b4e6f693460dce645d174c1b6aa78bbf/Boom_Beach-inbox-article-hero.png?w=1950&h=650&f=center",
+                        "width": 1950,
+                        "height": 650
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<h3>To celebrate the global release of <b>Squad Busters</b>, all Supercell games are giving away <b>free and exclusive rewards</b> for the community to achieve.</h3><p></p>"
+                    },
+                    "1": {
+                        "title": "How it works",
+                        "order": "1",
+                        "type": "textBlock",
+                        "body": "<p>Pre-Register for Squad Busters on the App Store or Google Play before the global release on the <b>29th of May</b>. By pre-registering you will get the game right away when it becomes globally available on the App Store or Google Play.</p><p>Follow the progress of the community effort on the reward tracker and don&#39;t forget to claim the rewards as they unlock.</p><p>Progress updated daily.</p><p>Squad up and make sure to tell your friends!</p>"
+                    },
+                    "2": {
+                        "title": null,
+                        "type": "buttonBlock",
+                        "urlType": "url",
+                        "id": "3kzHikunLk0ZuOxHSpICD4",
+                        "order": "2",
+                        "variant": "blue",
+                        "url": "htps://apple.com",
+                        "label": "App store link"
+                    },
+                    "3": {
+                        "title": "What is Squad Busters?",
+                        "order": "3",
+                        "type": "textBlock",
+                        "body": "<p>Squad Busters is a game where you can play with your favorite Supercell characters in fun and action-packed matches. Travel through different worlds, collect new characters, and evolve them to take down massive monsters as you continually build your ultimate squad. </p>"
+                    },
+                    "4": {
+                        "title": "",
+                        "order": "4",
+                        "type": "videoBlock",
+                        "author": "",
+                        "embed": {
+                            "url": "https://youtu.be/cDCCpWJRWak",
+                            "provider": "youtube",
+                            "id": ""
+                        },
+                        "embedVideo": false,
+                        "thumbnail": {
+                            "small": {
+                                "title": "Video thumb.png",
+                                "path": "/cf7umh1jvp53/2G7DQjLz0F7eylwmbRLCnd/8e67ac55e6fdce7c67c00a201581feda/Video_thumb.png?w=180&h=99&f=center&fit=fill",
+                                "width": 180,
+                                "height": 99
+                            },
+                            "smallRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/cf7umh1jvp53/2G7DQjLz0F7eylwmbRLCnd/8e67ac55e6fdce7c67c00a201581feda/Video_thumb.png?w=360&h=197&f=center&fit=fill",
+                                "width": 360,
+                                "height": 197
+                            },
+                            "medium": {
+                                "title": "Video thumb.png",
+                                "path": "/cf7umh1jvp53/2G7DQjLz0F7eylwmbRLCnd/8e67ac55e6fdce7c67c00a201581feda/Video_thumb.png?w=450&h=247&f=center&fit=fill",
+                                "width": 450,
+                                "height": 247
+                            },
+                            "mediumRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/cf7umh1jvp53/2G7DQjLz0F7eylwmbRLCnd/8e67ac55e6fdce7c67c00a201581feda/Video_thumb.png?w=540&h=296&f=center&fit=fill",
+                                "width": 540,
+                                "height": 296
+                            },
+                            "large": {
+                                "title": "Video thumb.png",
+                                "path": "/cf7umh1jvp53/2G7DQjLz0F7eylwmbRLCnd/8e67ac55e6fdce7c67c00a201581feda/Video_thumb.png?w=720&h=394&f=center&fit=fill",
+                                "width": 720,
+                                "height": 394
+                            },
+                            "largeRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/cf7umh1jvp53/2G7DQjLz0F7eylwmbRLCnd/8e67ac55e6fdce7c67c00a201581feda/Video_thumb.png?w=900&h=493&f=center&fit=fill",
+                                "width": 900,
+                                "height": 493
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7eldwAdYVJzcyphrvaM6uv",
+                "index": 1,
                 "targeting": null,
                 "metadata": {
                     "id": "7eldwAdYVJzcyphrvaM6uv",
@@ -685,6 +1378,7 @@
         "fullscreenEntries": []
     },
     "globals": {
+        "globalText.copyToClipboard": "Copied to clipboard!",
         "globalText.langHoursAbbreviated": "h",
         "globalText.langMinutesAbbreviated": "min",
         "globalText.langVoteCheck": "Check vote",

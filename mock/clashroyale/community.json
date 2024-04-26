@@ -1,10 +1,60 @@
 {
     "meta": {
         "id": 0,
-        "date": "1713548784"
+        "date": "1714124576"
     },
     "entries": {
         "communityCreators": [
+            {
+                "id": "66pkRltvuP9KDfI98kUyLk",
+                "postDate": "1713718810",
+                "expiryDate": null,
+                "lang": "en",
+                "section": "communityCreators",
+                "type": "communityCreator",
+                "author": "GuestContent",
+                "name": "mortenroyale[ENG]",
+                "thumbnail": {
+                    "small": {
+                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
+                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=10&h=10&f=center&fit=fill",
+                        "width": 10,
+                        "height": 10
+                    },
+                    "smallRetina": {
+                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
+                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=20&h=20&f=center&fit=fill",
+                        "width": 20,
+                        "height": 20
+                    },
+                    "medium": {
+                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
+                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=25&h=25&f=center&fit=fill",
+                        "width": 25,
+                        "height": 25
+                    },
+                    "mediumRetina": {
+                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
+                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=30&h=30&f=center&fit=fill",
+                        "width": 30,
+                        "height": 30
+                    },
+                    "large": {
+                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
+                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=40&h=40&f=center&fit=fill",
+                        "width": 40,
+                        "height": 40
+                    },
+                    "largeRetina": {
+                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
+                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=50&h=50&f=center&fit=fill",
+                        "width": 50,
+                        "height": 50
+                    }
+                },
+                "creatorId": "84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17",
+                "submissionInfo": "Submission Type: Portal\nUser ID: 84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17\nUser Name: mortenroyale"
+            },
             {
                 "id": "5QusiVzXr8Wt0UcJZIs01s",
                 "postDate": "1713494223",
@@ -57,7 +107,7 @@
             },
             {
                 "id": "6gqYPShG7lPwQv0dhHSQnt",
-                "postDate": "1712596406",
+                "postDate": "1713718810",
                 "expiryDate": null,
                 "lang": "en",
                 "section": "communityCreators",
@@ -207,7 +257,7 @@
             },
             {
                 "id": "76tg06IeeLE2J3rbLIGAU2",
-                "postDate": "1712596406",
+                "postDate": "1713718810",
                 "expiryDate": null,
                 "lang": "en",
                 "section": "communityCreators",
@@ -307,7 +357,7 @@
             },
             {
                 "id": "1h0q0JGz7UszPYd6TN7PBA",
-                "postDate": "1712596406",
+                "postDate": "1713718810",
                 "expiryDate": null,
                 "lang": "en",
                 "section": "communityCreators",
@@ -457,7 +507,7 @@
             },
             {
                 "id": "6faeiAUB4Ohaz1CAESwjcL",
-                "postDate": "1712596406",
+                "postDate": "1713718810",
                 "expiryDate": null,
                 "lang": "en",
                 "section": "communityCreators",
@@ -657,7 +707,7 @@
             },
             {
                 "id": "sEv263arDyGttbeApGGZq",
-                "postDate": "1712596406",
+                "postDate": "1713718810",
                 "expiryDate": null,
                 "lang": "en",
                 "section": "communityCreators",
@@ -907,7 +957,7 @@
             },
             {
                 "id": "4NlxxdnR1apQsxpm2IWbyM",
-                "postDate": "1712596406",
+                "postDate": "1713718810",
                 "expiryDate": null,
                 "lang": "en",
                 "section": "communityCreators",
@@ -1007,7 +1057,7 @@
             },
             {
                 "id": "2n2pErrkOFKmBxK6DaRmys",
-                "postDate": "1712596406",
+                "postDate": "1713718810",
                 "expiryDate": null,
                 "lang": "en",
                 "section": "communityCreators",
@@ -1307,7 +1357,7 @@
             },
             {
                 "id": "3xuekiJCfiigfYRfkZ2rms",
-                "postDate": "1712596406",
+                "postDate": "1713718810",
                 "expiryDate": null,
                 "lang": "en",
                 "section": "communityCreators",
@@ -1404,59 +1454,83 @@
                 },
                 "creatorId": "73-627b49d1-a188-42fc-a2d7-bb1b36ef0e3a",
                 "submissionInfo": "Submission Type: Portal\nUser ID: 73-627b49d1-a188-42fc-a2d7-bb1b36ef0e3a\nUser Name: The Chicken"
-            },
-            {
-                "id": "2JipHPejCeNri0tr2WLRVG",
-                "postDate": "1712596406",
-                "expiryDate": null,
-                "lang": "en",
-                "section": "communityCreators",
-                "type": "communityCreator",
-                "author": "GuestContent",
-                "name": "mortenroyale[ENG]",
-                "thumbnail": {
-                    "small": {
-                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
-                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=10&h=10&f=center&fit=fill",
-                        "width": 10,
-                        "height": 10
-                    },
-                    "smallRetina": {
-                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
-                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=20&h=20&f=center&fit=fill",
-                        "width": 20,
-                        "height": 20
-                    },
-                    "medium": {
-                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
-                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=25&h=25&f=center&fit=fill",
-                        "width": 25,
-                        "height": 25
-                    },
-                    "mediumRetina": {
-                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
-                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=30&h=30&f=center&fit=fill",
-                        "width": 30,
-                        "height": 30
-                    },
-                    "large": {
-                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
-                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=40&h=40&f=center&fit=fill",
-                        "width": 40,
-                        "height": 40
-                    },
-                    "largeRetina": {
-                        "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
-                        "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253?w=50&h=50&f=center&fit=fill",
-                        "width": 50,
-                        "height": 50
-                    }
-                },
-                "creatorId": "84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17",
-                "submissionInfo": "Submission Type: Portal\nUser ID: 84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17\nUser Name: mortenroyale"
             }
         ],
         "communityEntries": [
+            {
+                "id": "66pkRltvuP9KDfI98kUyLk",
+                "postDate": "1713718811",
+                "expiryDate": null,
+                "lang": "en",
+                "section": "communityEntries",
+                "categories": [],
+                "title": "I am the Triple Draft G.O.A.T \ud83c\udfc6",
+                "videoUrl": "https://youtu.be/ss8A0RPzO1U",
+                "author": "GuestContent",
+                "embedVideo": false,
+                "thumbnail": {
+                    "small": {
+                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg",
+                        "path": "/9jtsgmsiuthj/7hiGF15R0iDRP9KLzvTYgi/82ee259a37a00b1e3ca3c75b3573f6b7/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg-1713718804922?w=172&h=96&f=center&fit=fill",
+                        "width": 172,
+                        "height": 96
+                    },
+                    "smallRetina": {
+                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg",
+                        "path": "/9jtsgmsiuthj/7hiGF15R0iDRP9KLzvTYgi/82ee259a37a00b1e3ca3c75b3573f6b7/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg-1713718804922?w=344&h=193&f=center&fit=fill",
+                        "width": 344,
+                        "height": 193
+                    },
+                    "medium": {
+                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg",
+                        "path": "/9jtsgmsiuthj/7hiGF15R0iDRP9KLzvTYgi/82ee259a37a00b1e3ca3c75b3573f6b7/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg-1713718804922?w=430&h=241&f=center&fit=fill",
+                        "width": 430,
+                        "height": 241
+                    },
+                    "mediumRetina": {
+                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg",
+                        "path": "/9jtsgmsiuthj/7hiGF15R0iDRP9KLzvTYgi/82ee259a37a00b1e3ca3c75b3573f6b7/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg-1713718804922?w=516&h=289&f=center&fit=fill",
+                        "width": 516,
+                        "height": 289
+                    },
+                    "large": {
+                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg",
+                        "path": "/9jtsgmsiuthj/7hiGF15R0iDRP9KLzvTYgi/82ee259a37a00b1e3ca3c75b3573f6b7/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg-1713718804922?w=688&h=386&f=center&fit=fill",
+                        "width": 688,
+                        "height": 386
+                    },
+                    "largeRetina": {
+                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg",
+                        "path": "/9jtsgmsiuthj/7hiGF15R0iDRP9KLzvTYgi/82ee259a37a00b1e3ca3c75b3573f6b7/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-1stf.jpeg-1713718804922?w=860&h=482&f=center&fit=fill",
+                        "width": 860,
+                        "height": 482
+                    }
+                },
+                "submissionInfo": "Submission Type: Portal\nUser ID: 84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17\nUser Name: mortenroyale",
+                "creator": {
+                    "CBD-YvYYbqhOH08blJRWBNEWKJ5eE-QoSkjspndWK_Y": {
+                        "type": "communityCreator",
+                        "name": "mortenroyale[ENG]",
+                        "creatorId": "84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17",
+                        "submissionInfo": "Submission Type: Portal\nUser ID: 84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17\nUser Name: mortenroyale",
+                        "thumbnail": {
+                            "default": {
+                                "height": 600,
+                                "width": 600,
+                                "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
+                                "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253"
+                            }
+                        }
+                    }
+                },
+                "embed": {
+                    "url": "https://youtu.be/ss8A0RPzO1U",
+                    "provider": "youtube",
+                    "id": ""
+                },
+                "type": "communityEntry",
+                "newUntil": "1713891604"
+            },
             {
                 "id": "5QusiVzXr8Wt0UcJZIs01s",
                 "postDate": "1713494223",
@@ -3528,84 +3602,11 @@
                 },
                 "type": "communityEntry",
                 "newUntil": "1706545295"
-            },
-            {
-                "id": "2JipHPejCeNri0tr2WLRVG",
-                "postDate": "1706031809",
-                "expiryDate": null,
-                "lang": "en",
-                "section": "communityEntries",
-                "categories": [],
-                "title": "100% WINRATE with 2.0 MEGA KNIGHT CYCLE DECK! \ud83d\ude31\ud83e\udd47",
-                "videoUrl": "https://youtu.be/bsPLLTE0NWM",
-                "author": "GuestContent",
-                "embedVideo": false,
-                "thumbnail": {
-                    "small": {
-                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg",
-                        "path": "/9jtsgmsiuthj/3IxM5btCCNqAMGhxKGlXpr/0235de2fefd9ee59c879e0f9436dad5d/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg-1706031801937?w=172&h=96&f=center&fit=fill",
-                        "width": 172,
-                        "height": 96
-                    },
-                    "smallRetina": {
-                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg",
-                        "path": "/9jtsgmsiuthj/3IxM5btCCNqAMGhxKGlXpr/0235de2fefd9ee59c879e0f9436dad5d/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg-1706031801937?w=344&h=193&f=center&fit=fill",
-                        "width": 344,
-                        "height": 193
-                    },
-                    "medium": {
-                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg",
-                        "path": "/9jtsgmsiuthj/3IxM5btCCNqAMGhxKGlXpr/0235de2fefd9ee59c879e0f9436dad5d/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg-1706031801937?w=430&h=241&f=center&fit=fill",
-                        "width": 430,
-                        "height": 241
-                    },
-                    "mediumRetina": {
-                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg",
-                        "path": "/9jtsgmsiuthj/3IxM5btCCNqAMGhxKGlXpr/0235de2fefd9ee59c879e0f9436dad5d/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg-1706031801937?w=516&h=289&f=center&fit=fill",
-                        "width": 516,
-                        "height": 289
-                    },
-                    "large": {
-                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg",
-                        "path": "/9jtsgmsiuthj/3IxM5btCCNqAMGhxKGlXpr/0235de2fefd9ee59c879e0f9436dad5d/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg-1706031801937?w=688&h=386&f=center&fit=fill",
-                        "width": 688,
-                        "height": 386
-                    },
-                    "largeRetina": {
-                        "title": "guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg",
-                        "path": "/9jtsgmsiuthj/3IxM5btCCNqAMGhxKGlXpr/0235de2fefd9ee59c879e0f9436dad5d/guest-content-video-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-tgfz.jpeg-1706031801937?w=860&h=482&f=center&fit=fill",
-                        "width": 860,
-                        "height": 482
-                    }
-                },
-                "submissionInfo": "Submission Type: Portal\nUser ID: 84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17\nUser Name: mortenroyale",
-                "creator": {
-                    "CBD-YvYYbqhOH08blJRWBNEWKJ5eE-QoSkjspndWK_Y": {
-                        "type": "communityCreator",
-                        "name": "mortenroyale[ENG]",
-                        "creatorId": "84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17",
-                        "submissionInfo": "Submission Type: Portal\nUser ID: 84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17\nUser Name: mortenroyale",
-                        "thumbnail": {
-                            "default": {
-                                "height": 600,
-                                "width": 600,
-                                "title": "guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg",
-                                "path": "/9jtsgmsiuthj/37VaQirljQReKuxmW9bTsq/355fae50cd253f0d4d6ce435e2d56f7d/guest-content-creator-84-fe1979f4-3c2e-4a8a-ac2b-607c4a729c17-8ra1.jpeg-1705424689253"
-                            }
-                        }
-                    }
-                },
-                "embed": {
-                    "url": "https://youtu.be/bsPLLTE0NWM",
-                    "provider": "youtube",
-                    "id": ""
-                },
-                "type": "communityEntry",
-                "newUntil": "1706204601"
             }
         ]
     },
     "globals": {
+        "globalText.copyToClipboard": "Copied to clipboard!",
         "globalText.langSecondsAbbreviated": "s",
         "globalText.langDaysAbbreviated": "d",
         "globalText.langVoteCheck": "Check vote",

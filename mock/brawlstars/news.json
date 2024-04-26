@@ -2,11 +2,515 @@
     "entries": {
         "eventEntries": [
             {
+                "id": "3WN7jziKz5FFmIlh0aV5WJ",
+                "metadata": {
+                    "id": "3WN7jziKz5FFmIlh0aV5WJ",
+                    "publishedAt": "2024-04-26T09:08:22.356Z",
+                    "publishedVersion": 48
+                },
+                "targeting": {
+                    "country": [],
+                    "platform": [
+                        "android"
+                    ],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "postDate": "1714122502",
+                "sortDate": "1714122502",
+                "lang": "en",
+                "title": "",
+                "type": "progressTrackerEntry",
+                "ctas": {
+                    "6OC5XpnRP9AmTcN1udCSEe": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "6OC5XpnRP9AmTcN1udCSEe",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://squadbusters.com",
+                        "label": "Squad Up! Pre-register Supercell's new global game!"
+                    }
+                },
+                "background": {
+                    "small": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=160&h=232&f=center&fit=fill",
+                        "width": 160,
+                        "height": 232
+                    },
+                    "smallRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=320&h=464&f=center&fit=fill",
+                        "width": 320,
+                        "height": 464
+                    },
+                    "medium": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=400&h=581&f=center&fit=fill",
+                        "width": 400,
+                        "height": 581
+                    },
+                    "mediumRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=480&h=697&f=center&fit=fill",
+                        "width": 480,
+                        "height": 697
+                    },
+                    "large": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=640&h=929&f=center&fit=fill",
+                        "width": 640,
+                        "height": 929
+                    },
+                    "largeRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=800&h=1161&f=center&fit=fill",
+                        "width": 800,
+                        "height": 1161
+                    }
+                },
+                "milestones": [
+                    {
+                        "unlocked": false,
+                        "progress": 25,
+                        "image": {
+                            "small": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=80&h=72&f=center&fit=fill",
+                                "width": 80,
+                                "height": 72
+                            },
+                            "smallRetina": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=160&h=144&f=center&fit=fill",
+                                "width": 160,
+                                "height": 144
+                            },
+                            "medium": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=200&h=180&f=center&fit=fill",
+                                "width": 200,
+                                "height": 180
+                            },
+                            "mediumRetina": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=240&h=216&f=center&fit=fill",
+                                "width": 240,
+                                "height": 216
+                            },
+                            "large": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=320&h=288&f=center&fit=fill",
+                                "width": 320,
+                                "height": 288
+                            },
+                            "largeRetina": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=400&h=360&f=center&fit=fill",
+                                "width": 400,
+                                "height": 360
+                            }
+                        },
+                        "label": "1M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 50,
+                        "image": {
+                            "small": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/5WwdbCLTuQtNcOZkyuLwem/e87f95688e5f430976a6e3bbea22d688/Brawl_2.png?w=80&h=72&f=center&fit=fill",
+                                "width": 80,
+                                "height": 72
+                            },
+                            "smallRetina": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/5WwdbCLTuQtNcOZkyuLwem/e87f95688e5f430976a6e3bbea22d688/Brawl_2.png?w=160&h=144&f=center&fit=fill",
+                                "width": 160,
+                                "height": 144
+                            },
+                            "medium": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/5WwdbCLTuQtNcOZkyuLwem/e87f95688e5f430976a6e3bbea22d688/Brawl_2.png?w=200&h=180&f=center&fit=fill",
+                                "width": 200,
+                                "height": 180
+                            },
+                            "mediumRetina": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/5WwdbCLTuQtNcOZkyuLwem/e87f95688e5f430976a6e3bbea22d688/Brawl_2.png?w=240&h=216&f=center&fit=fill",
+                                "width": 240,
+                                "height": 216
+                            },
+                            "large": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/5WwdbCLTuQtNcOZkyuLwem/e87f95688e5f430976a6e3bbea22d688/Brawl_2.png?w=320&h=288&f=center&fit=fill",
+                                "width": 320,
+                                "height": 288
+                            },
+                            "largeRetina": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/5WwdbCLTuQtNcOZkyuLwem/e87f95688e5f430976a6e3bbea22d688/Brawl_2.png?w=400&h=360&f=center&fit=fill",
+                                "width": 400,
+                                "height": 360
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 75,
+                        "image": {
+                            "small": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/4FBJDiRhXylEsQrvSyXT8/0ec6bb0e16a3604e83a3aeeac8bf4c47/Brawl_3.png?w=80&h=72&f=center&fit=fill",
+                                "width": 80,
+                                "height": 72
+                            },
+                            "smallRetina": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/4FBJDiRhXylEsQrvSyXT8/0ec6bb0e16a3604e83a3aeeac8bf4c47/Brawl_3.png?w=160&h=144&f=center&fit=fill",
+                                "width": 160,
+                                "height": 144
+                            },
+                            "medium": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/4FBJDiRhXylEsQrvSyXT8/0ec6bb0e16a3604e83a3aeeac8bf4c47/Brawl_3.png?w=200&h=180&f=center&fit=fill",
+                                "width": 200,
+                                "height": 180
+                            },
+                            "mediumRetina": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/4FBJDiRhXylEsQrvSyXT8/0ec6bb0e16a3604e83a3aeeac8bf4c47/Brawl_3.png?w=240&h=216&f=center&fit=fill",
+                                "width": 240,
+                                "height": 216
+                            },
+                            "large": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/4FBJDiRhXylEsQrvSyXT8/0ec6bb0e16a3604e83a3aeeac8bf4c47/Brawl_3.png?w=320&h=288&f=center&fit=fill",
+                                "width": 320,
+                                "height": 288
+                            },
+                            "largeRetina": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/4FBJDiRhXylEsQrvSyXT8/0ec6bb0e16a3604e83a3aeeac8bf4c47/Brawl_3.png?w=400&h=360&f=center&fit=fill",
+                                "width": 400,
+                                "height": 360
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/5S7wt6FXJ1zVYJz6d5xzlM/bfc837965f9ef1624d32929a4cf643b8/Brawl_4.png?w=80&h=72&f=center&fit=fill",
+                                "width": 80,
+                                "height": 72
+                            },
+                            "smallRetina": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/5S7wt6FXJ1zVYJz6d5xzlM/bfc837965f9ef1624d32929a4cf643b8/Brawl_4.png?w=160&h=144&f=center&fit=fill",
+                                "width": 160,
+                                "height": 144
+                            },
+                            "medium": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/5S7wt6FXJ1zVYJz6d5xzlM/bfc837965f9ef1624d32929a4cf643b8/Brawl_4.png?w=200&h=180&f=center&fit=fill",
+                                "width": 200,
+                                "height": 180
+                            },
+                            "mediumRetina": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/5S7wt6FXJ1zVYJz6d5xzlM/bfc837965f9ef1624d32929a4cf643b8/Brawl_4.png?w=240&h=216&f=center&fit=fill",
+                                "width": 240,
+                                "height": 216
+                            },
+                            "large": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/5S7wt6FXJ1zVYJz6d5xzlM/bfc837965f9ef1624d32929a4cf643b8/Brawl_4.png?w=320&h=288&f=center&fit=fill",
+                                "width": 320,
+                                "height": 288
+                            },
+                            "largeRetina": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/5S7wt6FXJ1zVYJz6d5xzlM/bfc837965f9ef1624d32929a4cf643b8/Brawl_4.png?w=400&h=360&f=center&fit=fill",
+                                "width": 400,
+                                "height": 360
+                            }
+                        },
+                        "label": "?M"
+                    }
+                ],
+                "tracker": {
+                    "progress": 13.750000000000002,
+                    "direction": "vertical"
+                }
+            },
+            {
+                "id": "10jK6dOsP35e0wdKDfw3Ed",
+                "metadata": {
+                    "id": "10jK6dOsP35e0wdKDfw3Ed",
+                    "publishedAt": "2024-04-26T09:09:02.213Z",
+                    "publishedVersion": 53
+                },
+                "targeting": {
+                    "country": [],
+                    "platform": [
+                        "ios"
+                    ],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "postDate": "1714122482",
+                "sortDate": "1714122482",
+                "lang": "en",
+                "title": "",
+                "type": "progressTrackerEntry",
+                "ctas": {
+                    "lgrNXE4rIrAy2LN4rttfN": {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "lgrNXE4rIrAy2LN4rttfN",
+                        "order": "0",
+                        "variant": "blue",
+                        "url": "https://squadbusters.com",
+                        "label": "Squad Up! Pre-order Supercell's new global game!"
+                    }
+                },
+                "background": {
+                    "small": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=160&h=232&f=center&fit=fill",
+                        "width": 160,
+                        "height": 232
+                    },
+                    "smallRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=320&h=464&f=center&fit=fill",
+                        "width": 320,
+                        "height": 464
+                    },
+                    "medium": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=400&h=581&f=center&fit=fill",
+                        "width": 400,
+                        "height": 581
+                    },
+                    "mediumRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=480&h=697&f=center&fit=fill",
+                        "width": 480,
+                        "height": 697
+                    },
+                    "large": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=640&h=929&f=center&fit=fill",
+                        "width": 640,
+                        "height": 929
+                    },
+                    "largeRetina": {
+                        "title": "animated-swirl.webp",
+                        "path": "/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=800&h=1161&f=center&fit=fill",
+                        "width": 800,
+                        "height": 1161
+                    }
+                },
+                "milestones": [
+                    {
+                        "unlocked": false,
+                        "progress": 25,
+                        "image": {
+                            "small": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/HLWACB6TK9ADvd7GISdZi/9a39056d0c472b48caf9f345b4fc8883/Brawl_1.png?w=80&h=72&f=center&fit=fill",
+                                "width": 80,
+                                "height": 72
+                            },
+                            "smallRetina": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/HLWACB6TK9ADvd7GISdZi/9a39056d0c472b48caf9f345b4fc8883/Brawl_1.png?w=160&h=144&f=center&fit=fill",
+                                "width": 160,
+                                "height": 144
+                            },
+                            "medium": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/HLWACB6TK9ADvd7GISdZi/9a39056d0c472b48caf9f345b4fc8883/Brawl_1.png?w=200&h=180&f=center&fit=fill",
+                                "width": 200,
+                                "height": 180
+                            },
+                            "mediumRetina": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/HLWACB6TK9ADvd7GISdZi/9a39056d0c472b48caf9f345b4fc8883/Brawl_1.png?w=240&h=216&f=center&fit=fill",
+                                "width": 240,
+                                "height": 216
+                            },
+                            "large": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/HLWACB6TK9ADvd7GISdZi/9a39056d0c472b48caf9f345b4fc8883/Brawl_1.png?w=320&h=288&f=center&fit=fill",
+                                "width": 320,
+                                "height": 288
+                            },
+                            "largeRetina": {
+                                "title": "Brawl_1.png",
+                                "path": "/xdjcscmv3zo3/HLWACB6TK9ADvd7GISdZi/9a39056d0c472b48caf9f345b4fc8883/Brawl_1.png?w=400&h=360&f=center&fit=fill",
+                                "width": 400,
+                                "height": 360
+                            }
+                        },
+                        "label": "1M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 50,
+                        "image": {
+                            "small": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/3WwhyEAf37LSWrGXU213GQ/74320391a0761b4cbc27a2aa35dfdef2/Brawl_2.png?w=80&h=72&f=center&fit=fill",
+                                "width": 80,
+                                "height": 72
+                            },
+                            "smallRetina": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/3WwhyEAf37LSWrGXU213GQ/74320391a0761b4cbc27a2aa35dfdef2/Brawl_2.png?w=160&h=144&f=center&fit=fill",
+                                "width": 160,
+                                "height": 144
+                            },
+                            "medium": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/3WwhyEAf37LSWrGXU213GQ/74320391a0761b4cbc27a2aa35dfdef2/Brawl_2.png?w=200&h=180&f=center&fit=fill",
+                                "width": 200,
+                                "height": 180
+                            },
+                            "mediumRetina": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/3WwhyEAf37LSWrGXU213GQ/74320391a0761b4cbc27a2aa35dfdef2/Brawl_2.png?w=240&h=216&f=center&fit=fill",
+                                "width": 240,
+                                "height": 216
+                            },
+                            "large": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/3WwhyEAf37LSWrGXU213GQ/74320391a0761b4cbc27a2aa35dfdef2/Brawl_2.png?w=320&h=288&f=center&fit=fill",
+                                "width": 320,
+                                "height": 288
+                            },
+                            "largeRetina": {
+                                "title": "Brawl_2.png",
+                                "path": "/xdjcscmv3zo3/3WwhyEAf37LSWrGXU213GQ/74320391a0761b4cbc27a2aa35dfdef2/Brawl_2.png?w=400&h=360&f=center&fit=fill",
+                                "width": 400,
+                                "height": 360
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 75,
+                        "image": {
+                            "small": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/53NTnMvBAtMfQ09BmB4MPR/3e9d8c9435d02ea00ac6cb815af1dae9/Brawl_3.png?w=80&h=72&f=center&fit=fill",
+                                "width": 80,
+                                "height": 72
+                            },
+                            "smallRetina": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/53NTnMvBAtMfQ09BmB4MPR/3e9d8c9435d02ea00ac6cb815af1dae9/Brawl_3.png?w=160&h=144&f=center&fit=fill",
+                                "width": 160,
+                                "height": 144
+                            },
+                            "medium": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/53NTnMvBAtMfQ09BmB4MPR/3e9d8c9435d02ea00ac6cb815af1dae9/Brawl_3.png?w=200&h=180&f=center&fit=fill",
+                                "width": 200,
+                                "height": 180
+                            },
+                            "mediumRetina": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/53NTnMvBAtMfQ09BmB4MPR/3e9d8c9435d02ea00ac6cb815af1dae9/Brawl_3.png?w=240&h=216&f=center&fit=fill",
+                                "width": 240,
+                                "height": 216
+                            },
+                            "large": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/53NTnMvBAtMfQ09BmB4MPR/3e9d8c9435d02ea00ac6cb815af1dae9/Brawl_3.png?w=320&h=288&f=center&fit=fill",
+                                "width": 320,
+                                "height": 288
+                            },
+                            "largeRetina": {
+                                "title": "Brawl_3.png",
+                                "path": "/xdjcscmv3zo3/53NTnMvBAtMfQ09BmB4MPR/3e9d8c9435d02ea00ac6cb815af1dae9/Brawl_3.png?w=400&h=360&f=center&fit=fill",
+                                "width": 400,
+                                "height": 360
+                            }
+                        },
+                        "label": "?M"
+                    },
+                    {
+                        "unlocked": false,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/6CtJ8AV4qHDcD4fkwPWKZ9/28f8ef7219d1396f826da08809f8e351/Brawl_4.png?w=80&h=72&f=center&fit=fill",
+                                "width": 80,
+                                "height": 72
+                            },
+                            "smallRetina": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/6CtJ8AV4qHDcD4fkwPWKZ9/28f8ef7219d1396f826da08809f8e351/Brawl_4.png?w=160&h=144&f=center&fit=fill",
+                                "width": 160,
+                                "height": 144
+                            },
+                            "medium": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/6CtJ8AV4qHDcD4fkwPWKZ9/28f8ef7219d1396f826da08809f8e351/Brawl_4.png?w=200&h=180&f=center&fit=fill",
+                                "width": 200,
+                                "height": 180
+                            },
+                            "mediumRetina": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/6CtJ8AV4qHDcD4fkwPWKZ9/28f8ef7219d1396f826da08809f8e351/Brawl_4.png?w=240&h=216&f=center&fit=fill",
+                                "width": 240,
+                                "height": 216
+                            },
+                            "large": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/6CtJ8AV4qHDcD4fkwPWKZ9/28f8ef7219d1396f826da08809f8e351/Brawl_4.png?w=320&h=288&f=center&fit=fill",
+                                "width": 320,
+                                "height": 288
+                            },
+                            "largeRetina": {
+                                "title": "Brawl_4.png",
+                                "path": "/xdjcscmv3zo3/6CtJ8AV4qHDcD4fkwPWKZ9/28f8ef7219d1396f826da08809f8e351/Brawl_4.png?w=400&h=360&f=center&fit=fill",
+                                "width": 400,
+                                "height": 360
+                            }
+                        },
+                        "label": "?M"
+                    }
+                ],
+                "tracker": {
+                    "progress": 13.750000000000002,
+                    "direction": "vertical"
+                }
+            },
+            {
                 "id": "2azxxVt6rp53SUtQ5J9dqz",
                 "metadata": {
                     "id": "2azxxVt6rp53SUtQ5J9dqz",
-                    "publishedAt": "2024-04-19T12:17:08.256Z",
-                    "publishedVersion": 63
+                    "publishedAt": "2024-04-20T15:10:46.025Z",
+                    "publishedVersion": 69
                 },
                 "targeting": null,
                 "postDate": "1713529028",
@@ -105,7 +609,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713556275",
+                "timerTarget": "1714124015",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -182,7 +686,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713556275",
+                "timerTarget": "1714124015",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -259,7 +763,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1713556275",
+                "timerTarget": "1714124015",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -303,13 +807,315 @@
         ],
         "newsEntries": [
             {
-                "id": "1vXU66BwkC74U1S27o6qBA",
+                "id": "g2HV5yji7bQwWX2KEm5Ao",
                 "index": 0,
+                "targeting": {
+                    "country": [],
+                    "platform": [],
+                    "builderHallLevel": [],
+                    "townHallLevel": [],
+                    "campaignId": "wobbly",
+                    "avatarIds": [],
+                    "hideFromYoungPlayer": false
+                },
+                "metadata": {
+                    "id": "g2HV5yji7bQwWX2KEm5Ao",
+                    "publishedVersion": 114,
+                    "publishedAt": "2024-04-26T09:32:32.891Z"
+                },
+                "postDate": "1714122475",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "New Supercell game going global!",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#000000"
+                    }
+                ],
+                "newUntil": "1714726800",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Brwl_thumbnail.png",
+                        "path": "/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "Brwl_thumbnail.png",
+                        "path": "/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "Brwl_thumbnail.png",
+                        "path": "/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "Brwl_thumbnail.png",
+                        "path": "/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "Brwl_thumbnail.png",
+                        "path": "/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "Brwl_thumbnail.png",
+                        "path": "/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "Brawl-inbox-article-hero.png",
+                        "path": "/xdjcscmv3zo3/3LBsn0C0xcPeqifN2Nfs67/28079ca92bd4ab489651ee484b4238f2/Brawl-inbox-article-hero.png?w=320&h=89&f=center&fit=fill",
+                        "width": 320,
+                        "height": 89
+                    },
+                    "smallRetina": {
+                        "title": "Brawl-inbox-article-hero.png",
+                        "path": "/xdjcscmv3zo3/3LBsn0C0xcPeqifN2Nfs67/28079ca92bd4ab489651ee484b4238f2/Brawl-inbox-article-hero.png?w=640&h=177&f=center&fit=fill",
+                        "width": 640,
+                        "height": 177
+                    },
+                    "medium": {
+                        "title": "Brawl-inbox-article-hero.png",
+                        "path": "/xdjcscmv3zo3/3LBsn0C0xcPeqifN2Nfs67/28079ca92bd4ab489651ee484b4238f2/Brawl-inbox-article-hero.png?w=800&h=222&f=center&fit=fill",
+                        "width": 800,
+                        "height": 222
+                    },
+                    "mediumRetina": {
+                        "title": "Brawl-inbox-article-hero.png",
+                        "path": "/xdjcscmv3zo3/3LBsn0C0xcPeqifN2Nfs67/28079ca92bd4ab489651ee484b4238f2/Brawl-inbox-article-hero.png?w=960&h=266&f=center&fit=fill",
+                        "width": 960,
+                        "height": 266
+                    },
+                    "large": {
+                        "title": "Brawl-inbox-article-hero.png",
+                        "path": "/xdjcscmv3zo3/3LBsn0C0xcPeqifN2Nfs67/28079ca92bd4ab489651ee484b4238f2/Brawl-inbox-article-hero.png?w=1280&h=354&f=center&fit=fill",
+                        "width": 1280,
+                        "height": 354
+                    },
+                    "largeRetina": {
+                        "title": "Brawl-inbox-article-hero.png",
+                        "path": "/xdjcscmv3zo3/3LBsn0C0xcPeqifN2Nfs67/28079ca92bd4ab489651ee484b4238f2/Brawl-inbox-article-hero.png?w=1600&h=443&f=center&fit=fill",
+                        "width": 1600,
+                        "height": 443
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<h3>To celebrate the global release of <b>Squad Busters</b>, all Supercell games are giving away <b>free rewards</b> for each milestone the community achieves.</h3><p></p>"
+                    },
+                    "1": {
+                        "title": "How it works",
+                        "order": "1",
+                        "type": "textBlock",
+                        "body": "<p>Pre-Register for Squad Busters on the App Store or Google Play before the global release on the <b>29th of May</b>. By pre-registering you will get the game right away when it becomes globally available on the App Store or Google Play.</p><p>Follow the progress of the community effort on the reward tracker and don&#39;t forget to claim the rewards as they unlock.</p><p>Progress updated daily.</p><p>Squad up and make sure to tell your friends!</p>"
+                    },
+                    "2": {
+                        "title": null,
+                        "type": "buttonBlock",
+                        "urlType": "url",
+                        "id": "6AOdSo6i8nvmTMatcQenmz",
+                        "order": "2",
+                        "variant": "blue",
+                        "url": "htps://apple.com",
+                        "label": "App store link"
+                    },
+                    "3": {
+                        "title": "What is Squad Busters?",
+                        "order": "3",
+                        "type": "textBlock",
+                        "body": "<p>Squad Busters is a game where you can play with your favorite Supercell characters in fun and action-packed matches. Travel through different worlds, collect new characters, and evolve them to take down massive monsters as you continually build your ultimate squad. </p>"
+                    },
+                    "4": {
+                        "title": "",
+                        "order": "4",
+                        "type": "textBlock",
+                        "body": "<p>Currently available in Canada, Spain, Mexico, Finland, Denmark, Sweden, Norway, and Singapore, Squad Busters will release worldwide on May 29th.</p>"
+                    },
+                    "5": {
+                        "title": "",
+                        "order": "5",
+                        "type": "videoBlock",
+                        "author": "",
+                        "embed": {
+                            "url": "https://youtu.be/cDCCpWJRWak",
+                            "provider": "youtube",
+                            "id": ""
+                        },
+                        "embedVideo": false,
+                        "thumbnail": {
+                            "small": {
+                                "title": "Video thumb.png",
+                                "path": "/xdjcscmv3zo3/4OLcReBFFJJvlADk729A8h/a15fd210a7c2b32f26f7d87ce5765fdf/Video_thumb.png?w=192&h=108&f=center&fit=fill",
+                                "width": 192,
+                                "height": 108
+                            },
+                            "smallRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/xdjcscmv3zo3/4OLcReBFFJJvlADk729A8h/a15fd210a7c2b32f26f7d87ce5765fdf/Video_thumb.png?w=384&h=216&f=center&fit=fill",
+                                "width": 384,
+                                "height": 216
+                            },
+                            "medium": {
+                                "title": "Video thumb.png",
+                                "path": "/xdjcscmv3zo3/4OLcReBFFJJvlADk729A8h/a15fd210a7c2b32f26f7d87ce5765fdf/Video_thumb.png?w=480&h=270&f=center&fit=fill",
+                                "width": 480,
+                                "height": 270
+                            },
+                            "mediumRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/xdjcscmv3zo3/4OLcReBFFJJvlADk729A8h/a15fd210a7c2b32f26f7d87ce5765fdf/Video_thumb.png?w=576&h=324&f=center&fit=fill",
+                                "width": 576,
+                                "height": 324
+                            },
+                            "large": {
+                                "title": "Video thumb.png",
+                                "path": "/xdjcscmv3zo3/4OLcReBFFJJvlADk729A8h/a15fd210a7c2b32f26f7d87ce5765fdf/Video_thumb.png?w=768&h=432&f=center&fit=fill",
+                                "width": 768,
+                                "height": 432
+                            },
+                            "largeRetina": {
+                                "title": "Video thumb.png",
+                                "path": "/xdjcscmv3zo3/4OLcReBFFJJvlADk729A8h/a15fd210a7c2b32f26f7d87ce5765fdf/Video_thumb.png?w=960&h=540&f=center&fit=fill",
+                                "width": 960,
+                                "height": 540
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1Z8og6lx80LlgyIaO8qudt",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
+                    "id": "1Z8og6lx80LlgyIaO8qudt",
+                    "publishedVersion": 193,
+                    "publishedAt": "2024-04-25T11:20:06.400Z"
+                },
+                "postDate": "1713857756",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Patch notes: Godzilla Attacks Brawl!",
+                "categories": [
+                    {
+                        "title": "Release Notes",
+                        "color": "#00000e"
+                    }
+                ],
+                "newUntil": "1714338000",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "0422 Godzilla update release notes 800x433.png",
+                        "path": "/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "0422 Godzilla update release notes 800x433.png",
+                        "path": "/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "0422 Godzilla update release notes 800x433.png",
+                        "path": "/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "0422 Godzilla update release notes 800x433.png",
+                        "path": "/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "0422 Godzilla update release notes 800x433.png",
+                        "path": "/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "0422 Godzilla update release notes 800x433.png",
+                        "path": "/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "0422 Godzilla update release notes 1600x443.png",
+                        "path": "/xdjcscmv3zo3/3atz5cYovxxqFT8Ip69qXY/7edeaae0b3c52642c474d930994f4d1b/0422_Godzilla_update_release_notes_1600x443.png?w=320&h=89&f=center&fit=fill",
+                        "width": 320,
+                        "height": 89
+                    },
+                    "smallRetina": {
+                        "title": "0422 Godzilla update release notes 1600x443.png",
+                        "path": "/xdjcscmv3zo3/3atz5cYovxxqFT8Ip69qXY/7edeaae0b3c52642c474d930994f4d1b/0422_Godzilla_update_release_notes_1600x443.png?w=640&h=177&f=center&fit=fill",
+                        "width": 640,
+                        "height": 177
+                    },
+                    "medium": {
+                        "title": "0422 Godzilla update release notes 1600x443.png",
+                        "path": "/xdjcscmv3zo3/3atz5cYovxxqFT8Ip69qXY/7edeaae0b3c52642c474d930994f4d1b/0422_Godzilla_update_release_notes_1600x443.png?w=800&h=222&f=center&fit=fill",
+                        "width": 800,
+                        "height": 222
+                    },
+                    "mediumRetina": {
+                        "title": "0422 Godzilla update release notes 1600x443.png",
+                        "path": "/xdjcscmv3zo3/3atz5cYovxxqFT8Ip69qXY/7edeaae0b3c52642c474d930994f4d1b/0422_Godzilla_update_release_notes_1600x443.png?w=960&h=266&f=center&fit=fill",
+                        "width": 960,
+                        "height": 266
+                    },
+                    "large": {
+                        "title": "0422 Godzilla update release notes 1600x443.png",
+                        "path": "/xdjcscmv3zo3/3atz5cYovxxqFT8Ip69qXY/7edeaae0b3c52642c474d930994f4d1b/0422_Godzilla_update_release_notes_1600x443.png?w=1280&h=354&f=center&fit=fill",
+                        "width": 1280,
+                        "height": 354
+                    },
+                    "largeRetina": {
+                        "title": "0422 Godzilla update release notes 1600x443.png",
+                        "path": "/xdjcscmv3zo3/3atz5cYovxxqFT8Ip69qXY/7edeaae0b3c52642c474d930994f4d1b/0422_Godzilla_update_release_notes_1600x443.png?w=1600&h=443&f=center&fit=fill",
+                        "width": 1600,
+                        "height": 443
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<h3>Maintenance Break - April 25th</h3><ul><li><p>Fixed a game crash caused by Lily</p></li><li><p>Fixed a map of City Smash that couldn&#39;t be completed</p></li><li><p>Fixed Kit&#39;s Gadget description</p></li><li><p>Player Profile not being able to save information</p></li><li><p>Fixed Count Pengula attack projectile texture</p></li><li><p>Fixed Brawler Mutations being available in Duels in Friendly Mode</p></li><li><p>Fixed Ranked Boost stopping one rank lower than it should</p></li><li><p>Ranked Boost rebalanced: Bronze (no boost), Silver (10%), Gold (20%), Diamond (30%), Mythic (50%), Legendary (75%), Master (100%)</p></li></ul><p>Fixes for Android crashes and other fixes will be coming (hopefully) early next week!</p><p></p><p></p><h3>New Brawler:\u00a0 <b>Lily</b> (Mythic)</h3><p>Type: Assassin</p><ul><li><p>Trait: <b>Charges Super when near opponents. Has invisible footsteps</b></p></li><li><p>Attack: <b>Thorn in the side</b></p><ul><li><p>Lily stabs in front of her. Has one ammo</p></li></ul></li><li><p>Super: <b>Flourish</b></p><ul><li><p>Throws a projectile in a straight line. If it hits an opponent, deal minor damage and teleport behind the opponent</p></li></ul></li><li><p>Gadget: <b>Vanish</b></p><ul><li><p>Lily enters the shadow realm for 3 seconds</p></li></ul></li><li><p>Gadget: <b>Repot</b></p><ul><li><p>The next Super becomes a thrown attack, and Lily will teleport to the impact point regardless of hitting a target</p></li></ul></li><li><p>Star Power: <b>Spiky</b></p><ul><li><p>After teleporting to an opponent, Lily\u2019s next Thorn in the side deals an additional 50% damage</p></li></ul></li><li><p>Star Power: <b>Vigilance</b></p><ul><li><p>Lily gains 15% movement speed while an opponent is in range of her Super charge radius\u00a0</p></li></ul></li></ul><h3>\n\nNew Brawler: <b>Draco</b> (Legendary)</h3><p>Type: Tank</p><ul><li><p>Trait: <b>Charges Super with damage taken</b></p></li><li><p>Attack: <b>Lance Stab</b></p><ul><li><p>Draco stabs in front of him - Dealing increased damage at the tip</p></li></ul></li><li><p>Super: <b>Dragon Solo</b></p><ul><li><p>Draco inflates his dragon suit - gaining increased movement speed and damage reduction. His basic attack changes to fire breathing in a cone in front of him</p></li></ul></li><li><p>Gadget: <b>Uppercut</b></p><ul><li><p>The next Lance stab also knocks up opponents</p></li></ul></li><li><p>Gadget: <b>Last stand</b></p><ul><li><p>Draco cannot fall below 1 HP for 2 seconds (Draco cannot hold the ball in Brawl Ball during this time)</p></li></ul></li><li><p>Star Power: <b>Expose</b></p><ul><li><p>Every 5 seconds - The next Lance stab also exposes the target, increasing their damage taken by 35% for 5 seconds</p></li></ul></li><li><p>Star Power: <b>Shredding</b></p><ul><li><p>Dragon solo now also heals when activated</p></li></ul></li></ul><p><b></b></p><h3><b>New Hypercharges\n</b></h3><ul><li><p>Brock: <b>Rocket Barrage</b></p><ul><li><p>Brock fires a Rocket Barrage, raining down rockets in the targeted area simultaneously in four waves</p></li></ul></li><li><p>Sandy: <b>Swift Winds</b></p><ul><li><p>Sandy grants himself and his allies 20% increased movement speed while inside the sandstorm. It also silences opponents for 0.5 seconds when it lands</p></li></ul></li><li><p>Nita: <b>Hyperbearing</b></p><ul><li><p>Nita hypercharges Bruce, increasing his size and giving him 15% increased movement speed and 20% increased health</p></li></ul></li><li><p>Max: <b>Unlimited Energy</b></p><ul><li><p>Max throws an energy drink to each team member, increasing their movement speed and granting them a 25% increased Super charge rate</p></li></ul></li><li><p>Gene: <b>Hyper Hands</b></p><ul><li><p>Gene&#39;s Super splits into three different hands. Each hand is able to grab an opponent</p></li></ul></li><li><p>Tick: <b>Headstrong</b></p><ul><li><p>Tick quickly deploys his head, charging toward opponents faster and leaving behind six of his miniatures after exploding</p></li></ul></li></ul><h3><b>\n\nHypercharge Skins</b></h3><p>\nWe\u2019re introducing the new Hypercharge Skins that dramatically change the appearance of a Brawler when their Hypercharge is active!\u00a0</p><p>\nThe first Hypercharge Skin will be Godzilla Buzz, which you can unlock for FREE in the upcoming Brawl Stars X Godzilla Event!</p><h3><b>\n\nNew Skins</b></h3><p><b>\nBrawl Stars X Godzilla Event\n</b></p><ul><li><p>Godzilla Buzz | Event Reward &amp; Monster Eggs</p></li><li><p>Red Godzilla Buzz &amp; Black Godzilla Buzz Skin color variations | Monster Eggs</p></li><li><p>Super Ranger Brock Red | 149 Gems (Monster Eggs)</p></li><li><p>Super Ranger Brock Blue | 149 Gems (Monster Eggs)</p></li><li><p>Super Ranger Brock Yellow | 149 Gems (Monster Eggs)g</p></li><li><p>Super Ranger Brock Pink | 149 Gems (Monster Eggs)</p></li><li><p>Super Ranger Brock Black | 149 Gems (Monster Eggs)</p></li></ul><p>\n\nMay Brawl Pass Season: <b>Godzilla\n</b></p><ul><li><p>Mecha-Tick Ghidorah | Brawl Pass</p></li><li><p>Mecha-Tick Ghidorah Dark &amp; Mecha-Tick Ghidorah Light Skin color variations | Brawl Pass Plus</p></li><li><p>Mothra Eve | 149 Gems (Ranked)</p></li><li><p>Mechagodzilla Nita | 199 Gems</p></li></ul><p>\n\nJune Brawl Pass Season: <b>CyberBrawl\n</b></p><ul><li><p>Hacker Brock | Brawl Pass</p></li><li><p>Master Hacker Brock &amp; RGB Hacker Brock Skin color variations | Brawl Pass Plus</p></li><li><p>Glitch Larry &amp; Lawrie | 149 Gems (Ranked)</p></li><li><p>Bea Byte | 79 Gems</p></li><li><p>Fanguard | 199 Gems</p></li><li><p>Virus Charlie | 299 Gems</p></li></ul><p>\n\n<b>Remakes\n</b></p><ul><li><p>Urban Ninja Tara | 149 Gems</p></li><li><p>Gamer Bibi | 199 Gems</p></li></ul><p><b>\n\nRecolors\n</b></p><ul><li><p>Scarlet Paladin Surge | 149 Gems</p></li><li><p>Byron the White | 149 Gems (Ranked)</p></li><li><p>Rui Shou Nita | 149 Gems (Ranked)</p></li><li><p>Wave Hopper Jacky | 149 Gems (Ranked)</p></li><li><p>Filmmaker Buzz | 149 Gems (Ranked)</p></li><li><p>Moon-curser Penny | 149 Gems (Ranked)</p></li><li><p>Piano 8-Bit | 149 Gems (Ranked)</p></li></ul><p><b>\n\nRedux\n</b></p><ul><li><p>Rockstar Colt | 29 Gems</p></li><li><p>Alleycat Bull | 149 Gems</p></li></ul><p>\nThese updated Skin will be available when the update releases.</p><p><b>\n\nMiscellaneous\n</b></p><ul><li><p>Beach Byron | 29 Gems</p></li><li><p>Gala Mortis | 29 Gems</p></li><li><p>Parasol Frank | 29 Gems</p></li><li><p>Squad Buster Shelly | 199 Gems</p></li><li><p>Dark Samurai Gene | 149 Gems (Supercell MAKE)</p></li><li><p>Nightmare Sandy | 149 Gems (Supercell MAKE)</p></li><li><p>Strawberry Lily | 29 Gems</p></li><li><p>Dark Knight Draco | 29 Gems</p></li></ul><p>\n\n<b>True Silver &amp; True Gold Skins\n</b></p><ul><li><p>Chuck</p></li><li><p>Charlie</p></li><li><p>Willow</p></li><li><p>Kit</p></li><li><p>Mico</p></li></ul><p>\nThe True Silver &amp; True Gold Skins will be available when the update releases.</p><p><b>\n\nUpdates\n</b></p><ul><li><p>Mecha Bo: New voice-over + Full Pin set</p></li><li><p>Frost Queen Amber: upgraded to Legendary Skin rarity with all the added features (including custom voice lines)</p></li></ul><p>\n\n<b>Titles\n</b></p><ul><li><p><b>Gojira</b> - Godzilla Brawl Pass Plus Title</p></li><li><p><b>Is a Bot</b> - CyberBrawl Brawl Pass Plus Title</p></li><li><p><b>Backstabber</b> - Lily Mastery Title</p></li><li><p><b>Dungeon Master</b> - Draco Mastery Title</p></li></ul><h3>\u00a0<b>\n\nBalance Changes</b></h3><p><u>\nBuffs</u></p><ul><li><p><b>Gus</b></p><ul><li><p>Shielding now knocks back opponents</p></li></ul></li><li><p><b>Mr.P</b></p><ul><li><p>Spawner movement speed increased by 25%</p></li><li><p>Spawner home base HP increased - 2200 \u2192 2500 (13%)</p></li></ul></li><li><p><b>Mortis</b></p><ul><li><p>Basic attack - damage increased - 940 \u2192 1000</p></li><li><p>Gadget - Combo spinner - damage increased - 940 \u2192 1000</p></li></ul></li><li><p><b>Willow</b></p><ul><li><p>Star power - Obsession - movement speed increased - 25 \u2192 33%\u00a0</p></li><li><p>Star power - Love is blind - reload speed increased - 25 \u2192 30%</p></li></ul></li><li><p><b>Barley</b></p><ul><li><p>Basic attack - Damage increased - 760 \u2192 800</p></li><li><p>Super - Damage increased - 760 \u2192 800</p></li></ul></li><li><p><b>Rosa</b></p><ul><li><p>Hypercharge - Charge Rate increased - 40 \u2192 50%</p></li></ul></li><li><p><b>Janet</b></p><ul><li><p>Super - Damage increased - 600 \u2192 800</p></li></ul></li></ul><p><u>\nNerfs</u></p><ul><li><p><b>Angelo</b></p><ul><li><p>Super poison damage from arrows decreased by 50%</p></li></ul></li><li><p><b>Charlie</b></p><ul><li><p>Super gained from basic attacks decreased - 6 \u2192 7 hits to charge Super\nBasic attack - Range decreased - 27 \u2192 25</p></li></ul></li><li><p><b>Piper</b></p><ul><li><p>Basic attack - Damage at minimum distance decreased - 23 \u2192 20%</p></li></ul></li><li><p><b>Nani</b></p><ul><li><p>Basic attack - Damage decreased - 800 \u2192 740</p></li></ul></li><li><p><b>Cordelius</b></p><ul><li><p>Basic attack - Damage decreased - 730 \u2192 700</p></li><li><p>Basic attack - Super charge reduced - 105 \u2192 90 (14%)</p></li></ul></li><li><p><b>Spike</b></p><ul><li><p>Basic attack - Damage decreased - 560 \u2192 540</p></li><li><p>Gadget - Popping pincushion - Damage decreased - 1120 \u2192 1080</p></li></ul></li><li><p><b>Belle</b></p><ul><li><p>Hypercharge - Charge Rate decreased - 50 \u2192 40%</p></li></ul></li><li><p><b>Melodie</b></p><ul><li><p>Gadget - Interlude - Shield per note decreased - 15 \u2192 10%</p></li><li><p>Star power - Fast beats - Movement speed per note decreased - 8 \u2192 6%</p></li></ul></li></ul><p>\n<u>Changes</u></p><ul><li><p><b>Crow</b></p><ul><li><p>Crows Daggers now return properly after hitting walls during his hypercharged Super</p></li></ul></li><li><p><b>Kit</b></p><ul><li><p>Gadget - Cardboard box - Stealth duration reduced - 5 \u2192 3s</p></li><li><p>Basic attack - Damage increased - 800 \u2192 1000</p></li><li><p>Super - Damage increased - 800 \u2192 1000</p></li></ul></li><li><p><b>R-T</b></p><ul><li><p>Gadget - In-line \u2192 out of line - Instantly charges the Super</p></li></ul></li><li><p><b>Hank</b></p><ul><li><p>Hank\u2019s Super now heals 50% of his missing HP</p></li><li><p>HP reduced - 5800 \u2192 5400</p></li></ul></li><li><p><b>Chuck</b></p><ul><li><p>Can throw new Posts while Dash is available. Tap to Dash, aim to throw new Posts</p></li></ul></li></ul><h3><b>\n\nMaps, Game Modes &amp; Rotation Changes</b></h3><p><u>\nEnvironments</u></p><ul><li><p><b>Removed</b></p><ul><li><p>Arcade</p></li><li><p>Arcade Showdown</p></li><li><p>Starr Toons Studio</p></li><li><p>Bazaar</p></li><li><p>Bazaar Island Showdown</p></li></ul></li><li><p><b>Added</b></p><ul><li><p>MadEvil Manor (New)</p></li><li><p>Godzilla (New)</p></li><li><p>Enchanted Forest</p></li><li><p>Water Park</p></li></ul></li></ul><p><u>\nMaps</u></p><ul><li><p><b>Bounty</b></p><ul><li><p>Color me Intrigued (new)</p></li><li><p>Canal Grande</p></li><li><p>Hideout</p></li><li><p>Shooting Star</p></li></ul></li><li><p><b>Brawl Ball</b></p><ul><li><p>Backyard Bowl</p></li><li><p>Goalkeeper\u2019s Dream (modified)</p></li><li><p>Retina</p></li><li><p>Sunny Soccer</p></li><li><p>Super Beach</p></li><li><p>Beach Ball</p></li><li><p>Center Stage</p></li><li><p>Sneaky Fields</p></li></ul></li><li><p><b>Gem Grab</b></p><ul><li><p>Hard Rock Mine</p></li><li><p>Acute Angle</p></li><li><p>Deathcap Trap</p></li><li><p>Rustic Arcade</p></li><li><p>Gem Fort</p></li><li><p>Open Space</p></li><li><p>Undermine</p></li><li><p>Last Stop</p></li></ul></li><li><p><b>Heist</b></p><ul><li><p>Hot Potato</p></li><li><p>Kaboom Canyon</p></li><li><p>Safe Zone</p></li><li><p>G.G. Mortuary</p></li></ul></li><li><p><b>Hot Zone</b></p><ul><li><p>Ring of Fire</p></li><li><p>Dueling Beetles</p></li><li><p>Open Business</p></li><li><p>Parallel Plays</p></li></ul></li><li><p><b>Knockout</b></p><ul><li><p>Belle\u2019s Rock</p></li><li><p>Deep End</p></li><li><p>Flaring Phoenix</p></li><li><p>Goldarm Gulch</p></li><li><p>New Horizons</p></li><li><p>Out in the Open</p></li><li><p>Between the Rivers (new)</p></li><li><p>Four Levels (new)</p></li></ul></li><li><p><b>Wipeout</b></p><ul><li><p>Infinite Doom</p></li><li><p>Quad Damage</p></li><li><p>Slayer\u2019s Paradise</p></li><li><p>The Great Open</p></li></ul></li><li><p><b>Showdown</b></p><ul><li><p>Cavern Churn</p></li><li><p>Dark Passage</p></li><li><p>Double Trouble</p></li><li><p>Feast or Famine</p></li><li><p>Rockwall Brawl</p></li><li><p>Skull Creek</p></li><li><p>Stormy Plains</p></li><li><p>FiftyFifty (new)</p></li></ul></li></ul><p><u>\nRanked (and Brawl Stars Championship)</u></p><ul><li><p><b>Bounty</b></p><ul><li><p>Canal Grande</p></li><li><p>Hideout</p></li><li><p>Shooting Star</p></li></ul></li><li><p><b>Brawl Ball</b></p><ul><li><p>Beach Ball</p></li><li><p>Center Stage</p></li><li><p>Sneaky Fields</p></li></ul></li><li><p><b>Gem Grab</b></p><ul><li><p>Gem Fort</p></li><li><p>Hard Rock Mine</p></li><li><p>Last Stop</p></li></ul></li><li><p><b>Heist</b></p><ul><li><p>Hot Potato</p></li><li><p>Kaboom Canyon</p></li><li><p>Safe Zone</p></li></ul></li><li><p><b>Hot Zone</b></p><ul><li><p>Dueling Beetles</p></li><li><p>Open Business</p></li><li><p>Parallel Plays</p></li></ul></li><li><p><b>Knockout</b></p><ul><li><p>Flaring Phoenix</p></li><li><p>Goldarm Gulch</p></li><li><p>New Horizons</p></li></ul></li></ul><p>\n<u>Community Game Mode</u></p><ul><li><p><b>Duels</b> took home a significant win in the latest poll and will replace Basket Brawl in the Community slot</p></li><li><p>Map Pool:</p><ul><li><p>Mead of the Crane</p></li><li><p>Monkey Maze</p></li><li><p>No Excuses</p></li><li><p>Burning Flares (New)</p></li></ul></li></ul><p>\n<u>New Ranked Modifiers</u></p><ul><li><p><b>May</b> - Second Wind (new)</p></li><li><p><b>June</b> - Super Bushy (remade)</p></li></ul><h3>\n\nNEW! <b>Brawl Stars x Godzilla Event!</b></h3><p>\nWe\u2019ve teamed up with Godzilla for a monstrous in-game event taking place from April 29 to May 20!</p><p>\nThe main objective of the event is to collect as many Monster Eggs as possible giving you a ton of rewards and the chance to unlock the new Buzz Godzilla Hypercharge Skin for FREE!</p><p>\nAnd yes of course you also get to destroy stuff as the mighty Godzilla and Mechagodzilla!</p><p><b>\n\nMonster Eggs</b>!\n</p><ul><li><p>Monster Eggs are filled with Mutations, Coins, Power Points, Credits, Bling, thematic Skins, and the new Hypercharge Skin!</p></li><li><p>You can get Monster Eggs from Daily Wins, winning City Smash matches, or from Shop offers!</p></li><li><p>A limited number of Monster Eggs will also be available in the Shop for purchase</p></li><li><p>Monster Eggs can only be obtained during the event and will go away once the event ends</p></li></ul><p><b>\n\nClub Mega Egg!\n</b></p><ul><li><p>Open as many Monster Eggs as possible to fill the mysterious Mega Egg with your Club</p></li><li><p>The Mega Egg has multiple milestones that award Gems for reaching them</p></li><li><p>If the Club manages to get 1250 Monster Eggs to fill the Mega Egg everyone in the Club gets the ultimate prize - a FREE Hypercharge Godzilla Buzz Skin!</p></li><li><p>Make sure you are in a full and active Club to increase the chances of unlocking the Godzilla Buzz</p></li><li><p>To avoid griefing, Club members will be locked into their Clubs after the event starts and they have contributed a certain amount of progress to the Mega Egg</p><ul><li><p>Members can still leave or be kicked from the Club if they have not contributed to the Mega Egg</p></li></ul></li><li><p>If you don\u2019t own Buzz, don\u2019t worry! Buzz will be available in the Shop for FREEEEE!</p></li></ul><p>\n\nNew Mode <b>City Smash</b>!\n</p><ul><li><p>Compete against the opponent team to destroy as much of the city as possible in order to win</p></li><li><p>One player in each team can transform into the powerful Godzilla or Mechagodzilla, giving them extra destructive power!</p></li><li><p>Playing City Smash fills the Egg carton with rewards - each carton allows you to collect up to 6 rewards and a new Egg Carton appears every 4 days</p></li><li><p>Winning a match gives a Monster Egg, losing gives a Rare Starr Drop</p></li></ul><p>\n\nNEW! <b>Mutations</b> (Temporary)</p><ul><li><p>During the Godzilla event, 40 Brawlers will have temporary Mutations that can be unlocked from Monster Eggs!</p></li><li><p>Mutations change the gameplay for these Brawlers in unexpected ways, resulting in stronger and crazier abilities!</p></li><li><p>Mutations are always active in City Smash and will be enabled in random Trophy Game Modes every day throughout the event</p><ul><li><p>You can see which Game Mode has the Mutations enabled in the events screen</p></li></ul></li><li><p>Mutations will be available until the end of the event only.</p></li></ul><p>\nFull list of Mutations:</p><ul><li><p><b>Shelly</b> - Shelly&#39;s shotgun fires twice</p></li><li><p><b>Nita</b> - Nita\u2019s Super summons two bears</p></li><li><p><b>Colt</b> - Colt&#39;s basic attacks now destroy the terrain and have a longer range</p></li><li><p><b>Brock</b> - Brock&#39;s basic attack fires two rockets</p></li><li><p><b>El Primo</b> - El Primo&#39;s Super has a faster travel time and he has an increased Super charge rate and health</p></li><li><p><b>Poco</b> - When hit, Poco heals himself and nearby allies over time\u00a0</p></li><li><p><b>Rosa</b> - Rosa spawns bushes around her when using her Super</p></li><li><p><b>Tick</b> - Tick&#39;s Super now spawns two additional heads</p></li><li><p><b>Rico</b> - All of Rico&#39;s projectiles bounce more times</p></li><li><p><b>Penny</b> - Penny deploys an additional cannon with her Super</p></li><li><p><b>Carl</b> - Carl\u2019s basic attack is faster and his movement speed is also increased during his Super</p></li><li><p><b>Bo</b> - Bo can hide unlimited traps in the map</p></li><li><p><b>Stu</b> - Stu&#39;s Super is always charged</p></li><li><p><b>Piper</b> - Piper&#39;s gunbrella shoots twice</p></li><li><p><b>Pam</b> - Pam has unlimited ammo</p></li><li><p><b>Frank</b> - Frank is faster, has more health and his basic attacks break walls</p></li><li><p><b>Bea</b> - Bea&#39;s basic attacks now also trigger one of her Super\u2019s projectiles</p></li><li><p><b>Grom</b> - Grom\u2019s Super has four additional projectiles in an X-shape</p></li><li><p><b>Bonnie</b> - While inside Clyde, Bonnie&#39;s basic attacks fire two additional projectiles, and her Super stuns opponents when she lands</p></li><li><p><b>Gale</b> - Gale&#39;s basic attacks are now wider</p></li><li><p><b>Belle</b> - Belle&#39;s basic attacks split into five projectiles on impact</p></li><li><p><b>Ash</b> - Ash spawns more little helpers</p></li><li><p><b>Lola</b> - Lola spawns an additional Ego with her Super</p></li><li><p><b>Mandy</b> - Mandy shoots two additional projectiles with her Super</p></li><li><p><b>Hank</b> - Hank automatically triggers his Super\u2019s projectiles whenever he\u2019s damaged</p></li><li><p><b>Angelo</b> - Angelo adds two additional projectiles to his basic attacks</p></li><li><p><b>Max</b> - Max has unlimited ammo</p></li><li><p><b>Sprout</b> - Sprout&#39;s basic attack has two projectiles</p></li><li><p><b>Squeak</b> - Squeak&#39;s Big Blob now spawns Sticky Blombs and he has increased Super charge rate</p></li><li><p><b>Ruffs</b> - Ruffs&#39; basic attacks bounce more times</p></li><li><p><b>Buzz</b> - Buzz&#39;s Super has a longer range</p></li><li><p><b>Eve</b> - Eve spawns two hatchlings every time she gets damaged</p></li><li><p><b>Janet</b> - Janet&#39;s drops more bombs during her Super</p></li><li><p><b>Gray</b> - Gray can have up to six active dimensional doors at a time</p></li><li><p><b>Melodie</b> - Melodie can have two additional notes orbiting her, and the notes last for a longer time</p></li><li><p><b>Spike</b> - Spike&#39;s basic attacks split into more projectiles</p></li><li><p><b>Crow</b> - Crow&#39;s Super projectiles now return to him</p></li><li><p><b>Leon</b> - Leon spawns two clones after using Smoke Bomb</p></li><li><p><b>Meg</b> - Meg\u2019s basic attacks have two additional projectiles</p></li><li><p><b>Surge</b> - Surge reaches max level with just one Super</p></li></ul><h3><b>\n\nRanked Improvements\n</b></h3><ul><li><p>Matchmaking will now favor teams playing against other teams, so situations of solos playing against teams will be significantly less common</p></li><li><p>Ranked point gain for solo players will now consider the team average Ranked points against the opposing team\u2019s points</p></li><li><p>Adjusted the Ranked points gain in Legendary 2 up to Masters so it\u2019s a bit more challenging to then reach Masters</p></li><li><p>Rank Boost will now give a higher boost depending on how high you reached in the previous Ranked season</p></li><li><p>Players in the Bronze to Gold Ranks now have a higher chance of getting Modifiers in their matches</p></li><li><p>On the other side, we\u2019ve reduced the probability of getting Modifiers for players in Masters</p></li></ul><h3><b>\n\nRanked Starr Drops Changes\n</b></h3><ul><li><p>Added 6 new Recolored Skins to Ranked Starr Drops, corresponding to the first 6 Skins ever released as Power League Skins:</p><ul><li><p>Byron the White</p></li><li><p>Rui Shou Nita</p></li><li><p>Wave Hopper Jacky</p></li><li><p>Filmmaker Buzz</p></li><li><p>Moon-curser Penny</p></li><li><p>Piano 8-Bit</p></li></ul></li></ul><h3><b>\n\nHypercharge Unleashed Changes\n</b></h3><ul><li><p>The Hypercharge Unleashed is no longer happening</p></li><li><p>The Hypercharge Gem exclusivity in the Shop has been reduced from 14 to 7 days, so you don\u2019t have to wait so long to be able to get the Hypercharge for Coins</p></li><li><p>New players reaching 1000 Trophies for the first time will now have a guaranteed Free Hypercharge for Shelly</p></li></ul><h3><b>\n\nBug Fixes\n</b></h3><ul><li><p>Fixed the issue affecting the Masters Leaderboard. It now correctly shows each player\u2019s Rank based on their Ranked Points</p></li><li><p>Fixed the issue affecting haptic feedback for the Ranked mode</p></li><li><p>Fixed the issue where claiming a Brawl Pass Plus purchased from the SC Store would not activate the Plus reward track</p></li><li><p>Fixed the localised capitalisation for some of the Hypercharges</p></li><li><p>Fixed the issue causing Larry &amp; Lawrie\u2019s Order Swap Gadget to result in dealing reduced damage</p></li><li><p>Fixed a crash when closing the &quot;Team up&quot; screen</p></li><li><p>Fixed the issue with Bull missing his Super\u2019s knockback effect while Hypecharged</p></li><li><p>Fixed the issue that allowed for under-leveled Brawlers to be picked in Ranked Games</p></li></ul><h3><b>\n\nOther\n</b></h3><ul><li><p>Daily win progress above the Play button in the main screen now appears earlier after returning from battle</p></li><li><p>Improved Super Bushy Modifier so now bushes spawn in a predictable manner</p></li></ul><p></p>"
+                    }
+                }
+            },
+            {
+                "id": "1vXU66BwkC74U1S27o6qBA",
+                "index": 2,
                 "targeting": null,
                 "metadata": {
                     "id": "1vXU66BwkC74U1S27o6qBA",
-                    "publishedVersion": 43,
-                    "publishedAt": "2024-04-18T20:38:43.974Z"
+                    "publishedVersion": 86,
+                    "publishedAt": "2024-04-24T13:25:24.767Z"
                 },
                 "postDate": "1713472723",
                 "lang": "en",
@@ -403,8 +1209,14 @@
                 },
                 "details": {
                     "0": {
-                        "title": "Vote for your favorite Skin!",
+                        "title": "",
                         "order": "0",
+                        "type": "textBlock",
+                        "body": "<h3><b>Amber Results!</b></h3><p>Winner! -<b> Roller Skater Amber</b> - by Artdrei (38.1 %)</p><p>2nd place - <b>Summer Shell Amber</b> - by Kalator (37.6%)</p><p>3rd place - <b>Aqua Amber</b> - by Skizzly (17.1%)</p><p>4th place - <b>Marine Amber</b> - by Nana (7.3%)</p><p></p><h3><b>\nMr. P Results!</b></h3><p>Winner! -<b> Dragon Fruit P</b> - by Frankyyy (36.8 %)</p><p>2nd place - <b>Skateboarder P</b> - by Tea_isgood (35.8 %)</p><p>3rd place - <b>Flaming P</b> - by Artdrei (15.5 %)</p><p>4th place - <b>Rubber Duck P</b> - by Steamfish (11.9 %)</p><p></p>"
+                    },
+                    "1": {
+                        "title": "Vote for your favorite Skin!",
+                        "order": "1",
                         "type": "pollBlock",
                         "poll": {
                             "pollId": "1vXU66BwkC74U1S27o6qBA-0",
@@ -412,6 +1224,184 @@
                                 {
                                     "id": "1",
                                     "title": null,
+                                    "image": {
+                                        "small": {
+                                            "title": "amber_300x400_v3.png",
+                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=60&h=80&f=center&fit=fill",
+                                            "width": 60,
+                                            "height": 80
+                                        },
+                                        "smallRetina": {
+                                            "title": "amber_300x400_v3.png",
+                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=120&h=160&f=center&fit=fill",
+                                            "width": 120,
+                                            "height": 160
+                                        },
+                                        "medium": {
+                                            "title": "amber_300x400_v3.png",
+                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=150&h=200&f=center&fit=fill",
+                                            "width": 150,
+                                            "height": 200
+                                        },
+                                        "mediumRetina": {
+                                            "title": "amber_300x400_v3.png",
+                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=180&h=240&f=center&fit=fill",
+                                            "width": 180,
+                                            "height": 240
+                                        },
+                                        "large": {
+                                            "title": "amber_300x400_v3.png",
+                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=240&h=320&f=center&fit=fill",
+                                            "width": 240,
+                                            "height": 320
+                                        },
+                                        "largeRetina": {
+                                            "title": "amber_300x400_v3.png",
+                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=300&h=400&f=center&fit=fill",
+                                            "width": 300,
+                                            "height": 400
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "2",
+                                    "title": "Winner 38.1%",
+                                    "image": {
+                                        "small": {
+                                            "title": "amber_300x400_v1.png",
+                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=60&h=80&f=center&fit=fill",
+                                            "width": 60,
+                                            "height": 80
+                                        },
+                                        "smallRetina": {
+                                            "title": "amber_300x400_v1.png",
+                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=120&h=160&f=center&fit=fill",
+                                            "width": 120,
+                                            "height": 160
+                                        },
+                                        "medium": {
+                                            "title": "amber_300x400_v1.png",
+                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=150&h=200&f=center&fit=fill",
+                                            "width": 150,
+                                            "height": 200
+                                        },
+                                        "mediumRetina": {
+                                            "title": "amber_300x400_v1.png",
+                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=180&h=240&f=center&fit=fill",
+                                            "width": 180,
+                                            "height": 240
+                                        },
+                                        "large": {
+                                            "title": "amber_300x400_v1.png",
+                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=240&h=320&f=center&fit=fill",
+                                            "width": 240,
+                                            "height": 320
+                                        },
+                                        "largeRetina": {
+                                            "title": "amber_300x400_v1.png",
+                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=300&h=400&f=center&fit=fill",
+                                            "width": 300,
+                                            "height": 400
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "3",
+                                    "title": null,
+                                    "image": {
+                                        "small": {
+                                            "title": "amber_300x400_v2.png",
+                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=60&h=80&f=center&fit=fill",
+                                            "width": 60,
+                                            "height": 80
+                                        },
+                                        "smallRetina": {
+                                            "title": "amber_300x400_v2.png",
+                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=120&h=160&f=center&fit=fill",
+                                            "width": 120,
+                                            "height": 160
+                                        },
+                                        "medium": {
+                                            "title": "amber_300x400_v2.png",
+                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=150&h=200&f=center&fit=fill",
+                                            "width": 150,
+                                            "height": 200
+                                        },
+                                        "mediumRetina": {
+                                            "title": "amber_300x400_v2.png",
+                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=180&h=240&f=center&fit=fill",
+                                            "width": 180,
+                                            "height": 240
+                                        },
+                                        "large": {
+                                            "title": "amber_300x400_v2.png",
+                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=240&h=320&f=center&fit=fill",
+                                            "width": 240,
+                                            "height": 320
+                                        },
+                                        "largeRetina": {
+                                            "title": "amber_300x400_v2.png",
+                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=300&h=400&f=center&fit=fill",
+                                            "width": 300,
+                                            "height": 400
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "4",
+                                    "title": null,
+                                    "image": {
+                                        "small": {
+                                            "title": "amber_300x400_v4.png",
+                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=60&h=80&f=center&fit=fill",
+                                            "width": 60,
+                                            "height": 80
+                                        },
+                                        "smallRetina": {
+                                            "title": "amber_300x400_v4.png",
+                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=120&h=160&f=center&fit=fill",
+                                            "width": 120,
+                                            "height": 160
+                                        },
+                                        "medium": {
+                                            "title": "amber_300x400_v4.png",
+                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=150&h=200&f=center&fit=fill",
+                                            "width": 150,
+                                            "height": 200
+                                        },
+                                        "mediumRetina": {
+                                            "title": "amber_300x400_v4.png",
+                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=180&h=240&f=center&fit=fill",
+                                            "width": 180,
+                                            "height": 240
+                                        },
+                                        "large": {
+                                            "title": "amber_300x400_v4.png",
+                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=240&h=320&f=center&fit=fill",
+                                            "width": 240,
+                                            "height": 320
+                                        },
+                                        "largeRetina": {
+                                            "title": "amber_300x400_v4.png",
+                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=300&h=400&f=center&fit=fill",
+                                            "width": 300,
+                                            "height": 400
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "2": {
+                        "title": "Vote for your favorite Skin!",
+                        "order": "2",
+                        "type": "pollBlock",
+                        "poll": {
+                            "pollId": "1vXU66BwkC74U1S27o6qBA-1",
+                            "options": [
+                                {
+                                    "id": "1",
+                                    "title": "Winner 36.8%",
                                     "image": {
                                         "small": {
                                             "title": "mrp_300x400_v3.png",
@@ -579,190 +1569,12 @@
                                 }
                             ]
                         }
-                    },
-                    "1": {
-                        "title": "Vote for your favorite Skin!",
-                        "order": "1",
-                        "type": "pollBlock",
-                        "poll": {
-                            "pollId": "1vXU66BwkC74U1S27o6qBA-1",
-                            "options": [
-                                {
-                                    "id": "1",
-                                    "title": null,
-                                    "image": {
-                                        "small": {
-                                            "title": "amber_300x400_v3.png",
-                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=60&h=80&f=center&fit=fill",
-                                            "width": 60,
-                                            "height": 80
-                                        },
-                                        "smallRetina": {
-                                            "title": "amber_300x400_v3.png",
-                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=120&h=160&f=center&fit=fill",
-                                            "width": 120,
-                                            "height": 160
-                                        },
-                                        "medium": {
-                                            "title": "amber_300x400_v3.png",
-                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=150&h=200&f=center&fit=fill",
-                                            "width": 150,
-                                            "height": 200
-                                        },
-                                        "mediumRetina": {
-                                            "title": "amber_300x400_v3.png",
-                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=180&h=240&f=center&fit=fill",
-                                            "width": 180,
-                                            "height": 240
-                                        },
-                                        "large": {
-                                            "title": "amber_300x400_v3.png",
-                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=240&h=320&f=center&fit=fill",
-                                            "width": 240,
-                                            "height": 320
-                                        },
-                                        "largeRetina": {
-                                            "title": "amber_300x400_v3.png",
-                                            "path": "/xdjcscmv3zo3/fdDx9Qpl0FpaknQKbiuf7/568655a68b74e6054b96449a18b6864a/amber_300x400_v3.png?w=300&h=400&f=center&fit=fill",
-                                            "width": 300,
-                                            "height": 400
-                                        }
-                                    }
-                                },
-                                {
-                                    "id": "2",
-                                    "title": null,
-                                    "image": {
-                                        "small": {
-                                            "title": "amber_300x400_v1.png",
-                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=60&h=80&f=center&fit=fill",
-                                            "width": 60,
-                                            "height": 80
-                                        },
-                                        "smallRetina": {
-                                            "title": "amber_300x400_v1.png",
-                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=120&h=160&f=center&fit=fill",
-                                            "width": 120,
-                                            "height": 160
-                                        },
-                                        "medium": {
-                                            "title": "amber_300x400_v1.png",
-                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=150&h=200&f=center&fit=fill",
-                                            "width": 150,
-                                            "height": 200
-                                        },
-                                        "mediumRetina": {
-                                            "title": "amber_300x400_v1.png",
-                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=180&h=240&f=center&fit=fill",
-                                            "width": 180,
-                                            "height": 240
-                                        },
-                                        "large": {
-                                            "title": "amber_300x400_v1.png",
-                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=240&h=320&f=center&fit=fill",
-                                            "width": 240,
-                                            "height": 320
-                                        },
-                                        "largeRetina": {
-                                            "title": "amber_300x400_v1.png",
-                                            "path": "/xdjcscmv3zo3/4XwkJFnOLoKwNg0rtfmgrV/cfbec5b491d04b593e9ce712111d8554/amber_300x400_v1.png?w=300&h=400&f=center&fit=fill",
-                                            "width": 300,
-                                            "height": 400
-                                        }
-                                    }
-                                },
-                                {
-                                    "id": "3",
-                                    "title": null,
-                                    "image": {
-                                        "small": {
-                                            "title": "amber_300x400_v2.png",
-                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=60&h=80&f=center&fit=fill",
-                                            "width": 60,
-                                            "height": 80
-                                        },
-                                        "smallRetina": {
-                                            "title": "amber_300x400_v2.png",
-                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=120&h=160&f=center&fit=fill",
-                                            "width": 120,
-                                            "height": 160
-                                        },
-                                        "medium": {
-                                            "title": "amber_300x400_v2.png",
-                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=150&h=200&f=center&fit=fill",
-                                            "width": 150,
-                                            "height": 200
-                                        },
-                                        "mediumRetina": {
-                                            "title": "amber_300x400_v2.png",
-                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=180&h=240&f=center&fit=fill",
-                                            "width": 180,
-                                            "height": 240
-                                        },
-                                        "large": {
-                                            "title": "amber_300x400_v2.png",
-                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=240&h=320&f=center&fit=fill",
-                                            "width": 240,
-                                            "height": 320
-                                        },
-                                        "largeRetina": {
-                                            "title": "amber_300x400_v2.png",
-                                            "path": "/xdjcscmv3zo3/3Skws1BSQ24XZPVET5BvpE/c08e36e6219a86986680785e260a4009/amber_300x400_v2.png?w=300&h=400&f=center&fit=fill",
-                                            "width": 300,
-                                            "height": 400
-                                        }
-                                    }
-                                },
-                                {
-                                    "id": "4",
-                                    "title": null,
-                                    "image": {
-                                        "small": {
-                                            "title": "amber_300x400_v4.png",
-                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=60&h=80&f=center&fit=fill",
-                                            "width": 60,
-                                            "height": 80
-                                        },
-                                        "smallRetina": {
-                                            "title": "amber_300x400_v4.png",
-                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=120&h=160&f=center&fit=fill",
-                                            "width": 120,
-                                            "height": 160
-                                        },
-                                        "medium": {
-                                            "title": "amber_300x400_v4.png",
-                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=150&h=200&f=center&fit=fill",
-                                            "width": 150,
-                                            "height": 200
-                                        },
-                                        "mediumRetina": {
-                                            "title": "amber_300x400_v4.png",
-                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=180&h=240&f=center&fit=fill",
-                                            "width": 180,
-                                            "height": 240
-                                        },
-                                        "large": {
-                                            "title": "amber_300x400_v4.png",
-                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=240&h=320&f=center&fit=fill",
-                                            "width": 240,
-                                            "height": 320
-                                        },
-                                        "largeRetina": {
-                                            "title": "amber_300x400_v4.png",
-                                            "path": "/xdjcscmv3zo3/1igXDonQrwu0R3c1UekTTS/0eae939e7250a38b668dfc45fd923309/amber_300x400_v4.png?w=300&h=400&f=center&fit=fill",
-                                            "width": 300,
-                                            "height": 400
-                                        }
-                                    }
-                                }
-                            ]
-                        }
                     }
                 }
             },
             {
                 "id": "7kEnlIeTYuv27xLWrFFvhI",
-                "index": 1,
+                "index": 3,
                 "targeting": null,
                 "metadata": {
                     "id": "7kEnlIeTYuv27xLWrFFvhI",
@@ -829,7 +1641,7 @@
             },
             {
                 "id": "3oZiZ33CG523Ej5hyIPpuk",
-                "index": 3,
+                "index": 5,
                 "targeting": null,
                 "metadata": {
                     "id": "3oZiZ33CG523Ej5hyIPpuk",
@@ -937,7 +1749,7 @@
             },
             {
                 "id": "33P9Mo1mgdokhskPMEoFt6",
-                "index": 4,
+                "index": 6,
                 "targeting": null,
                 "metadata": {
                     "id": "33P9Mo1mgdokhskPMEoFt6",
@@ -1045,7 +1857,7 @@
             },
             {
                 "id": "6o8tq2ZoLvcgE9kYq6jWpI",
-                "index": 5,
+                "index": 7,
                 "targeting": null,
                 "metadata": {
                     "id": "6o8tq2ZoLvcgE9kYq6jWpI",
@@ -1202,7 +2014,7 @@
             },
             {
                 "id": "31JP4mV4ZXeDnB4q5eldPo",
-                "index": 6,
+                "index": 8,
                 "targeting": null,
                 "metadata": {
                     "id": "31JP4mV4ZXeDnB4q5eldPo",
@@ -1457,7 +2269,7 @@
             },
             {
                 "id": "6u5paM3hThMSQxNYHvjhgR",
-                "index": 7,
+                "index": 9,
                 "targeting": null,
                 "metadata": {
                     "id": "6u5paM3hThMSQxNYHvjhgR",
@@ -1915,7 +2727,7 @@
             },
             {
                 "id": "R6foiF7dSbeQbBp3TM9A1",
-                "index": 8,
+                "index": 10,
                 "targeting": {
                     "country": [],
                     "platform": [],
@@ -1926,7 +2738,8 @@
                         "46643776",
                         "4294970451",
                         "111696234566"
-                    ]
+                    ],
+                    "hideFromYoungPlayer": false
                 },
                 "metadata": {
                     "id": "R6foiF7dSbeQbBp3TM9A1",
@@ -1943,7 +2756,7 @@
                         "color": "#000000"
                     }
                 ],
-                "newUntil": "1713556275",
+                "newUntil": "1714124015",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "showInNewsFeed": "SHOW_IN_NEWS_FEED",
@@ -2000,7 +2813,7 @@
             },
             {
                 "id": "7fhld5Ku63miudrlFrCoK3",
-                "index": 9,
+                "index": 11,
                 "targeting": null,
                 "metadata": {
                     "id": "7fhld5Ku63miudrlFrCoK3",
@@ -2067,7 +2880,7 @@
             },
             {
                 "id": "3CFjSQzySKaHKpe1IKUx0f",
-                "index": 10,
+                "index": 12,
                 "targeting": null,
                 "metadata": {
                     "id": "3CFjSQzySKaHKpe1IKUx0f",
@@ -2129,7 +2942,7 @@
             },
             {
                 "id": "40D5v8t7xcPm0R2siV1Bve",
-                "index": 11,
+                "index": 13,
                 "targeting": null,
                 "metadata": {
                     "id": "40D5v8t7xcPm0R2siV1Bve",
@@ -2237,7 +3050,7 @@
             },
             {
                 "id": "TmslXMBg5xzZC3GofMlSR",
-                "index": 12,
+                "index": 14,
                 "targeting": null,
                 "metadata": {
                     "id": "TmslXMBg5xzZC3GofMlSR",
@@ -2342,119 +3155,12 @@
                         "body": "<h3>Maintenance - February 7th</h3><h3>\n\nBalance Changes</h3><p><u><b>Nerfs</b></u></p><ul><li><p>Maisie</p><ul><li><p>Increased the number of Basic attacks needed to charge Super 3 \u2192 4</p></li></ul></li><li><p>Larry &amp; Lawrie</p><ul><li><p>Increased the number of Basic attacks needed to charge Super 5 \u2192 8 </p></li><li><p>Reduced Base HP 3400 \u2192 3000 (for both Larry and Lawrie)</p></li><li><p>Star Power - Protocol: Protect - Reduced transferred damage 100% \u2192 30%</p></li><li><p>Star Power - Protocol: Assist - Now ammo is only reloaded when hitting Brawlers</p></li></ul></li></ul><p>We are also exploring removing the ability of Gadgets to charge Hypercharges (which contributed to making Fang and Edgar stronger), but it still needs more testing, and it should happen with the next update.\n</p><h3>Maintenance - January 18th</h3><p></p><ul><li><p>Applying general server fixes and improvements\n\n</p></li></ul><h3>Maintenance - January 11th</h3><p></p><h3>\nBalance Changes</h3><p><u><b>Buffs</b></u></p><ul><li><p>Rico</p><ul><li><p>Increased Super damage from 320 \u2192 360</p></li><li><p>Slightly increased Super charge gained from Super damage</p></li></ul></li><li><p>Surge</p><ul><li><p>Increased Base HP 3000 \u2192 3300</p></li></ul></li><li><p>Darryl</p><ul><li><p>Increased base attack projectile speed 3044 \u2192 4000</p></li></ul></li><li><p>Buzz</p><ul><li><p>Increased HP 4400 \u2192 4800</p></li></ul></li></ul><p><u><b>\nNerfs</b></u></p><ul><li><p>Bo</p><ul><li><p>Reduced base damage 700 \u2192 640</p></li><li><p>Increased number of projectiles needed for Super 8 \u2192 9</p></li></ul></li><li><p>Kit</p><ul><li><p>Reduced throwing attack damage when attached to friendly players from 2000 \u2192 1600</p></li><li><p>Fixed the issue with the Super charge rate scaling with Power Cubes when attached to enemies</p></li><li><p>Fixed the issue with &quot;Cardboard box&quot; still charging the Super at a faster rate when moving</p></li><li><p>Kit can now be damaged while attached to enemy players</p></li><li><p>Fixed the issue where Kit could use his Super again if he detaches from a friendly player before the current Super is completely drained</p></li><li><p>Kit can no longer attach to recently spawned Brawlers</p></li></ul></li><li><p>Rosa</p><ul><li><p>Reduced Super charge 97 \u2192 75 (3 \u2192 4 ammo for Super)</p></li></ul></li></ul><p></p><h3>\nBug Fixes and Other Changes</h3><ul><li><p>Removed the ice from Winter maps in 5v5</p></li><li><p>Fixed the issue in Brawl Ball where the ball could be locked behind a team&#39;s own goal</p></li><li><p>Mega Pig Changes</p><ul><li><p>Reduced the number of tickets for each player to 15</p></li><li><p>Adjusted the necessary requirements to fill the Mega Pig as a result (it&#39;s slightly easier now!)</p></li></ul></li></ul><h3>\n\nMaintenance - January 5th</h3><p>We are fixing some issues related to the new monthly Brawl Pass:</p><ul><li><p>Brawl Passes bought from Supercell Store (or partner web shops) before the current season and stored in Supercell Store inventory should now always give you a Brawl Pass Plus</p></li><li><p>Players who have received the basic Brawl Pass from those purchases will receive their Brawl Pass upgraded (most likely next week)</p></li><li><p>Fixed the exploit where you received a large amount of Gems for buying the Brawl Pass twice</p></li><li><p>We&#39;ll soon be removing the extra amount of Gems players received from the exploit (also probably next week)</p></li></ul><p>\n\n</p><h3>Maintenance &amp; Optional Update - December 18th</h3><p><b>Bug Fixes</b></p><ul><li><p>Win Streak is back and fixed!</p></li><li><p>Fixed Gadget Damage for Mortis, Rico, Spike and Brock</p></li><li><p>Localization changes for the Brawl Pass and Mico in some languages</p></li></ul><p><b>Balance Changes</b></p><ul><li><p>Fixed \u201cplay again\u201d quest difficulty (it&#39;s now lower)</p></li></ul><p>Nerfs:</p><ul><li><p>Fang</p><ul><li><p>Hypercharge charge rate decreased to 20 (from 40)</p></li><li><p>Hypercharge shield decreased to 15 (from 25)</p></li></ul></li><li><p>Edgar</p><ul><li><p>Hypercharge charge rate decreased to 25 (from 40)</p></li></ul></li></ul><p>\nAdditionally, there&#39;s a new optional update available for Android and iOS devices, with the following fixes:</p><ul><li><p>Fixed the glitching leaderboard issues for certain devices</p></li><li><p>Fixed the issue with online friends not displaying correctly</p></li><li><p>Fixed the stuck \u201cFree\u201c Shop label</p></li></ul><p>\n</p><h3>New Brawler: <b>Mico</b> (Mythic)</h3><p>Type: Assassin</p><ul><li><p>Attack: <b>Mic boom</b></p><ul><li><p>Mico jumps forward a short distance and damages nearby enemies on landing</p></li></ul></li><li><p>Super: <b>Out of frame</b></p><ul><li><p>Mico jumps high after a short delay, then targets his landing \u2013 dealing damage to enemies in the landing location upon landing</p></li></ul></li><li><p>Gadget: <b>Clipping scream</b></p><ul><li><p>Mico screams at the closest enemy, dealing damage and slowing them for 2 seconds.</p></li></ul></li><li><p>Gadget: <b>Presto</b></p><ul><li><p>Mico&#39;s next jump has a 34% longer range</p></li></ul></li><li><p>Star Power: <b>Monkey business</b></p><ul><li><p>Every 5 seconds, Mico&#39;s next basic attack steals ammo from enemies</p></li></ul></li><li><p>Star Power: <b>Record smash</b></p><ul><li><p>Mico deals 100% more damage versus non-brawlers</p></li></ul></li><li><p>Hypercharge: <b>Sound check</b></p><ul><li><p>Mico\u2019s Super also stuns enemies for 1.5s after landing</p></li></ul></li></ul><p>\u00a0\n</p><h3>New Brawler: <b>Kit</b> (Legendary)</h3><p>Type: Support</p><ul><li><p>Trait: <b>Recharging Super</b></p></li><li><p>Attack (unattached): <b>Claws</b></p><ul><li><p>Kit slashes in front of him, dealing damage in a cone</p></li></ul></li><li><p>Attack (attached): <b>Yarn Balls</b></p><ul><li><p>Kit throws yarn balls while attached to a friendly Brawler, dealing damage in an area</p></li></ul></li><li><p>Super: <b>Carry me</b></p><ul><li><p>Kit jumps and attaches to the back of another Brawler. Heals allies or damages enemies over time</p></li></ul></li><li><p>Gadget: <b>Cardboard box</b></p><ul><li><p>Kit becomes invisible and charges his Super. Charges faster while standing still</p></li></ul></li><li><p>Gadget: <b>Cheeseburger</b></p><ul><li><p>Kit heals himself and the friendly Brawler he is attached to</p></li></ul></li><li><p>Star Power: <b>Power Hungry</b></p><ul><li><p>Kit gains double power from each Power Cube</p></li></ul></li><li><p>Star Power: <b>Overly attached</b></p><ul><li><p>Increases the maximum duration Kit is attached to a friendly brawler</p></li></ul></li></ul><p>\n</p><h3>New Brawlers: <b>Larry &amp; Lawrie</b> (Epic)</h3><p>Type: Artillery</p><ul><li><p>Attack: <b>Ticket Dispenser</b></p><ul><li><p>Shoot a ticket bundle that explodes twice after landing</p></li></ul></li><li><p>Super: <b>Call for backup</b></p><ul><li><p>Summon Lawrie to help. Lawrie shoots nearby enemies with his Taser gun</p></li></ul></li><li><p>Gadget: <b>Order: Swap</b></p><ul><li><p>Swap weapons with Lawrie</p></li></ul></li><li><p>Gadget: <b>Order: Fall back</b></p><ul><li><p>Dash towards Lawrie while Lawrie dashes towards you, healing both for 33% of max health on arrival</p></li></ul></li><li><p>Star Power: <b>Protocol: Protect</b></p><ul><li><p>While Lawrie is in range, transfer all damage to him instead of you</p></li></ul></li><li><p>Star Power: <b>Protocol: Assist</b></p><ul><li><p>While Lawrie is within range \u2013 reload 30% of your ammo whenever he damages an opponent</p></li></ul></li></ul><p>\n</p><h3><b>New Hypercharges</b></h3><ul><li><p>Mico: <b>Sound Check</b></p><ul><li><p>Mico\u2019s super also stuns nearby enemies after landing for 1.5 seconds</p></li></ul></li><li><p>Dynamike: <b>Boomer</b></p><ul><li><p>Super bomb spawns smaller bombs</p></li></ul></li><li><p>Edgar: <b>Outoburst</b></p><ul><li><p>\u00a0After using Super, gain charging speed and reload speed for a few seconds</p></li></ul></li><li><p>Fang: <b>Dragon Kick</b></p><ul><li><p>Charge through walls while dropping popcorn along the way</p></li></ul></li><li><p>Crow: <b>Utility Knives</b></p><ul><li><p>Crow\u2019s knives are piercing and are returning like a boomerang</p></li></ul></li><li><p>Leon: <b>Limbo</b></p><ul><li><p>Leon stays invisible while attacking his enemies</p></li></ul></li></ul><p>\n</p><h3><b>Gears</b></h3><p>New Gear for Mortis\u00a0 - <b>Bat Storm</b> (Mythic)</p><ul><li><p>Bats speed (Super projectile) increased by 50%</p></li></ul><p>\n</p><h3><b>New Skins</b></h3><p>Mini-Themes: <b>Brawlidays</b> &amp; <b>Dark Winter Tales</b></p><ul><li><p>Santa Stu (149 Gems)</p></li><li><p>Grouch Mico (149 Gems)</p></li></ul><p>The Brawlidays and Dark Winter Tales Skins will be released in mid-December</p><p>\n\nJanuary Brawl Pass Season: <b>Starr Toon Studios</b></p><ul><li><p>Pinku Pawlette (Brawl Pass)</p></li><li><p>Kiiro Pawlette &amp; Midori Pawlette Skin color variations (Brawl Pass Plus)</p></li><li><p>Toon Spike (299 Gems)</p></li><li><p>Final Boss Rico (Power League)</p></li></ul><p>The Starr Toon Studios season starts on January 4th, 2024</p><p>\n\nFebruary Brawl Pass Season: <b>Year of the Dragon</b></p><ul><li><p>KitBoxer (Brawl Pass)</p></li><li><p>KitBoxer Goldpaw &amp; KitBoxer Darkpaw Skin color variations (Brawl Pass Plus)</p></li><li><p>Wukong Mico (299 Gems)</p></li><li><p>Antivirus 8-Bit (299 Gems)</p></li><li><p>Ferocious Fang (149 Gems)</p></li></ul><p>The Year of the Dragon season starts on February 1st, 2024</p><p>\n</p><p><b>Miscellaneous</b></p><ul><li><p>Macaron Mico (29 Gems) - Releases in mid-December</p></li><li><p>Dark Angel Colt (Supercell MAKE, concept by Dodi, Angelo, and Kakatpoke \u2013 Free if claimed from the Brawlidays advent calendar, then 149 Gems) - Releases in late December</p></li><li><p>Billy the Kit (29 Gems) - Releases in early January</p></li><li><p>CCTV Poco (149 Gems) - Releases in mid-January</p></li><li><p>Larry &amp; Lawrie Controllers (29 Gems) - Releases in early February</p></li><li><p>El Quarterback (199 Gems) - Releases in early February</p></li><li><p>Flag Bearer Piper (Brazilian Carnaval celebratory Skin - 149 Gems) - Releases in mid-February</p></li><li><p>Doll Jessie (29 Gems) - Releases in mid-February</p></li><li><p>W Otis (ZETA Division Brawl Stars World Finals 2023 Winners Skin - 149 Gems) - Releases in mid-December</p></li><li><p>Blue King Frank &amp; Red King Frank (Supercell Store Exclusive Skin - 299 Gems) - Release date to be confirmed</p></li><li><p>Extra: Shelly base model update\n\n\n</p></li></ul><h3><b>Cosmetic Items</b></h3><p><b>Pins</b></p><ul><li><p>Mico Pin Set</p></li><li><p>CCTV Poco</p></li><li><p>Santa Stu</p></li><li><p>Grouch Mico</p></li><li><p>Toon Spike Set, Starr Toon Studios Set, Final Boss Rico, Pinku Pawlette, Kiiro Pawlette and Midori Pawlette, Toon Fight</p></li><li><p>El Quarterback, American Football</p></li><li><p>Flag Bearer Piper</p></li><li><p>Year of the Dragon Set, Dragon Trophy</p></li><li><p>Wukong Mico</p></li><li><p>Ferocious Fang</p></li><li><p>Kit Set</p></li><li><p>KitBoxer, KitBoxer Goldpaw and KitBoxer Darkpaw</p></li><li><p>Larry &amp; Lawrie Set</p></li><li><p>W Otis</p></li><li><p>Dark Angel Colt</p></li><li><p>Blue King Frank Set</p></li><li><p>Antivirus 8-Bit Set</p></li><li><p>Spicy Mike</p></li><li><p>Burger Lou</p></li><li><p>Sugar Rush Sandy</p></li><li><p>Hypercharged Leon, Mico, Dynamike, Fang, Crow and Edgar</p></li></ul><p>\n<b>\nSprays</b></p><ul><li><p>Mico</p></li><li><p>Brawlidays Kiss, Brawlidays Candy</p></li><li><p>Toon Spike, Final Boss Rico, Starr Toons Candy</p></li><li><p>El Quarterback</p></li><li><p>Year of the Dragon</p></li><li><p>2023 World Champions</p></li><li><p>Kit</p></li><li><p>Larry &amp; Lawrie</p></li><li><p>Blue King Frank</p></li><li><p>Antivirus 8-Bit</p></li><li><p>Hypercharged Leon, Mico, Dynamike, Fang, Crow and Edgar</p></li></ul><p>\n<b>\nProfile Icons</b></p><ul><li><p>CCTV Poco</p></li><li><p>Santa Stu</p></li><li><p>Grouch Mico</p></li><li><p>5th Brawliversary</p></li><li><p>Chroma Credit</p></li><li><p>Starr Toon Studios, Starr Toon Studios logo</p></li><li><p>Toon Spike, Final Boss Rico, Pinku Pawlette</p></li><li><p>El Quarterback</p></li><li><p>Flag Bearer Piper</p></li><li><p>Wukong Mico</p></li><li><p>Ferocious Fang</p></li><li><p>Kit</p></li><li><p>KitBoxer</p></li><li><p>Larry &amp; Lawrie</p></li><li><p>W Otis</p></li><li><p>Dark Angel Colt</p></li><li><p>Blue King Frank</p></li><li><p>Antivirus 8-Bit</p></li><li><p>Spicy Mike</p></li><li><p>Super Fan Emz</p></li><li><p>Hypercharged Leon, Mico, Dynamike, Fang, Crow and Edgar\n</p></li></ul><p><b>\nTitles</b></p><ul><li><p>\u201cThe First\u201d - Starr Toon Studios Brawl Pass Plus Exclusive Title</p></li><li><p>\u201cThe Golden Dragon\u201d - Year of the Dragon Brawl Pass Plus Exclusive Title</p></li><li><p>\u201cAm I a joke to you?\u201d - Mico Mastery Title</p></li><li><p>\u201cMeow\u201d - Kit Mastery Title</p></li><li><p>\u201cI am the law!\u201d - Twins Mastery Title</p></li></ul><p>\n</p><h3><b>Balance Changes</b></h3><p><b><u>Buffs</u></b></p><ul><li><p>Colt</p><ul><li><p>Reload speed 1700 \u2192 1400 ms</p></li></ul></li><li><p>Amber</p><ul><li><p>Damage 200 \u2192 220</p></li></ul></li><li><p>Bo</p><ul><li><p>Damage 600 \u2192 700</p></li></ul></li><li><p>Ash</p><ul><li><p>HP - 5200 \u2192\u00a0 5400</p></li></ul></li><li><p>Gus</p><ul><li><p>Damage - 940 \u2192 1000</p></li></ul></li><li><p>Chester</p><ul><li><p>HP - 3500 \u2192\u00a0 3700</p></li></ul></li><li><p>Janet</p><ul><li><p>Damage 940 \u2192 980</p></li><li><p>Shots required to charge Super - 7 \u2192 6</p></li></ul></li><li><p>Pearl</p><ul><li><p>Movement speed - 670 \u2192 720</p></li></ul></li><li><p>Surge</p><ul><li><p>HP - 2800 \u2192 3000</p></li></ul></li></ul><p>\n</p><p><b><u>Nerfs</u></b></p><ul><li><p>Charlie</p><ul><li><p>Basic - Cooldown - 250 \u2192 500 ms</p></li><li><p>Super - Duration - 7 \u2192 5 sec</p></li><li><p>Super charge - 5 \u2192\u00a0 6 basic attacks</p></li><li><p>Gadget - Spiders - HP - 1100 \u2192 700</p></li></ul></li><li><p>Lou</p><ul><li><p>Super charge from basic attacks 143 \u2192 120</p></li></ul></li><li><p>Spike</p><ul><li><p>Gear - Sticky Spikes - Slow% - 50 \u2192\u00a0 30</p></li></ul></li><li><p>Rosa</p><ul><li><p>HP 5400 \u2192\u00a0 5000</p></li></ul></li><li><p>Buster</p><ul><li><p>Gadget - Slo-mo replay - Removed the slow component</p></li></ul></li><li><p>Nani</p><ul><li><p>HP - 2600 \u2192 2400</p></li><li><p>Super charge from basic attacks 105 \u2192 92</p></li></ul></li></ul><p>\n\n</p><h3><b>Maps, Game Modes &amp; Rotation Changes</b></h3><p><b>Hunters</b> is the returning game mode based on player votes and will replace Duels for the next few months.\u00a0</p><p>We\u2019re also using this time when there aren\u2019t any official competitions to make bigger changes in the map pool for most game modes where enough maps were in the backlog - so the map rotation should feel rather fresh.\u00a0</p><p>The MEGA Pig event will now also feature new maps!</p><p>Since there are so many changes, we will focus on the new maps added to the game and won\u2019t go into details on the removed maps.</p><p><b>\nShowdown</b></p><ul><li><p>Cavern Churn</p></li><li><p>Double Trouble</p></li><li><p>Dune Drift</p></li><li><p>Forsaken Falls</p></li><li><p>Safety Center</p></li><li><p>Skull Creek</p></li><li><p>Stormy Plains</p></li><li><p>The Galaxy</p></li></ul><p></p><p><b>\nBrawl Ball</b></p><ul><li><p>Backyard Bowl</p></li><li><p>Coarse Course</p></li><li><p>Encirclement</p></li><li><p>Galaxy Arena</p></li><li><p>Off the Line</p></li><li><p>Retina</p></li><li><p>Triple Dribble</p></li><li><p>Winter Party</p></li></ul><p></p><p><b>\nGem Grab</b></p><ul><li><p>Aren\u00e8 en Folie</p></li><li><p>Close Call</p></li><li><p>Double Swoosh</p></li><li><p>Hard Rock Mine</p></li><li><p>Last Stop</p></li><li><p>Minecart Madness</p></li><li><p>Open Space</p></li><li><p>Stay in your Lane</p></li></ul><p></p><p><b>\nKnockout</b></p><ul><li><p>Belle\u2019s Rock</p></li><li><p>Close Quarters</p></li><li><p>Flaring Phoenix</p></li><li><p>Goldarm Gulch</p></li><li><p>Healthy Middle Ground</p></li><li><p>New Perspective</p></li><li><p>Out in the Open</p></li><li><p>Waters of Doom</p></li></ul><p></p><p><b>\nHot Zone</b></p><ul><li><p>Checkered</p></li><li><p>Open Zone</p></li><li><p>Ring of Fire</p></li><li><p>The Great Divide</p></li></ul><p></p><p><b>\nHeist</b></p><ul><li><p>Bridge Too Far</p></li><li><p>Riverbed</p></li><li><p>Safe Zone</p></li><li><p>Tornado Ring</p></li></ul><p></p><p><b>\nWipeout</b></p><ul><li><p>Layer Bake</p></li><li><p>Shooting Star</p></li><li><p>Snake Prairie</p></li><li><p>The Great Open</p></li></ul><p></p><p><b>\nHunters</b></p><ul><li><p>Trials and Tribulations</p></li><li><p>Hunting Season</p></li><li><p>True Trail</p></li><li><p>Omega</p></li></ul><p></p><p><b>\nRanked (Power League)</b></p><ul><li><p>All Modes:</p><ul><li><p>Brawl Ball: Backyard Bowl, Triple Dribble Winter Party</p></li><li><p>Gem Grab: Last Stop, Open Space, Stay in your Lane</p></li><li><p>Hot Zone: Ring of Fire, The Great Divide, Open Zone</p></li><li><p>Heist: Bridge Too Far, Riverbed, Tornado Ring</p></li><li><p>Knockout: Close Quarters, Out in the Open, Belle\u2019s Rock</p></li><li><p>Bounty: Layer Bake, Shooting Star, The Great Open</p></li></ul></li></ul><p>\u00a0</p><p><b>Map Environment Changes</b></p><ul><li><p>Removed</p><ul><li><p>Ghost Metro</p></li><li><p>Ranger Ranch</p></li><li><p>Mortis Mortuary (including Showdown)</p></li><li><p>Retropolis</p></li><li><p>Bizarre Circus</p></li></ul></li><li><p>Added</p><ul><li><p>Robot Factory (including Showdown)</p></li><li><p>Mr. P\u2019s Snowtel</p></li><li><p>Fighting Game</p></li><li><p>Starr Toons (New)</p></li><li><p>Winter for 5v5 (New)</p></li></ul></li></ul><p>\n</p><h3><b>New: 5v5 Game Modes</b></h3><p>The long-awaited 5v5 game modes are finally here! They are running as weekend events during this update cycle, and these modes feature bigger maps and have their own twist on the classic modes like Brawl Ball, Wipeout, and Gem Grab!</p><p></p><ul><li><p><b>5v5 Brawl Ball -</b> It plays sideways! Also, the goals are considerably bigger, but with more defenders to get through, that won\u2019t make scoring easier!</p></li><li><p><b>5v5 Wipeout -</b> Plays the same as the classic mode, but you play on a bigger map and need more eliminations to win!</p></li><li><p><b>5v5 Gem Grab - </b>Some maps feature 2 Gem Spawn points for twice the mayhem!</p></li></ul><p>\n</p><h3><b>Brawlidays Freebies</b></h3><p>Starting on December 12th, there will be an advent calendar in-game! Log in daily to the game and claim a gift every day, including a new FREE Brawler Mico (Mythic) and a FREE Dark Angel Colt Skin from the latest Supercell MAKE campaign!</p><p>The last day of the calendar is December 26th, so make sure you collect all your gifts before the end of the year!</p><p>\n</p><h3><b>New Brawl Pass &amp; Brawl Pass Plus</b></h3><ul><li><p>Now, the Brawl Pass can only be obtained via in-app purchase</p></li><li><p>Brawl Pass seasons have become monthly, with each new season starting on the first Thursday of each month</p></li><li><p>Tokens and Token Doublers renamed to Battle Pass XP and XP Doublers</p></li><li><p>Brawl Pass Quests and progress requirements rebalanced to be easier to complete</p></li><li><p>Free Pass track rewards increased and added Starr Drops to the list of rewards</p></li><li><p>Bonus tail rewards changed to Starr Drops</p></li><li><p>New Brawl Pass features</p><ul><li><p>You can now unlock any Brawler up to Epic or collect 1000 Credits</p></li><li><p>New Brawl Pass Skins every season</p></li><li><p>Exclusive Chromatic Name</p></li><li><p>(New) Extra Daily Shop Freebie</p></li><li><p>(New) Double Daily Battle XP</p></li><li><p>(New) Extra Daily Quest</p></li><li><p>Premium Seasonal Quest</p></li></ul></li><li><p>Added the new Brawl Pass Plus, which also introduces additional benefits:</p><ul><li><p>2 Additional Brawl Pass Skin Color variations</p></li><li><p>Instant 20% Brawl Pass Progress</p></li><li><p>(New) Exclusive Player Title\u00a0</p></li><li><p>More progression rewards!</p></li></ul></li><li><p>Skins for Brawlers players don\u2019t own can now be stored in the catalog.\u00a0</p></li></ul><p>A few weeks ago, we published an article comparing the rewards and benefits of the old VS the new Brawl Pass. <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupercell.com%2Fen%2Fgames%2Fbrawlstars%2Fblog%2Fnews%2Fincoming-changes-to-the-brawl-pass%2F')\">Check it here for a more detailed view of how the Brawl Pass has changed, including the latest update.</a></p><p>\u00a0</p><h3><b>Chroma Credits &amp; Chromatic Brawlers Changes</b></h3><ul><li><p>Chroma Credits were removed from the game. Any remaining Chroma Credits in your inventory will be converted to regular Credits with a 1.85 ratio once the update releases</p></li><li><p>Removed the Chromatic Brawler rarity and moved all the Chromatic Brawlers to the Starr Road, with the following new rarities:</p><ul><li><p><b>Epic</b>: Gale, Colette, Ash, Lola, Sam, Mandy, Maisie and Pearl</p></li><li><p><b>Mythic</b>: Lou, Ruffs, Buzz, Fang, Eve, Janet, Otis, Buster, R-T and Charlie</p></li><li><p><b>Legendary</b>: Cordelius and Surge</p></li></ul></li><li><p>In the case of Charlie, she will only show up on the Starr Road starting from January 11, 2024\u00a0</p></li></ul><p>\n</p><h3><b>Club &amp; MEGA Pig Improvements</b></h3><ul><li><p>You can now share replays with your Club from the Battle Log or Club screen</p></li><li><p>MEGA PIG modifiers for December to February:\u00a0</p><ul><li><p>Ice Age (New)</p></li><li><p>Toxic Arena (New)</p></li><li><p>Unlimited Power</p></li><li><p>Classic</p></li></ul></li><li><p>Maps</p><ul><li><p>Gem Grab: Hard Rock Mine, Close Call</p></li><li><p>Knockout: Out in the Open, Close Quarters</p></li><li><p>Hot Zone: The Great Divide, Ring of Fire</p></li><li><p>Wipeout: The Great Open, Shooting Star</p></li><li><p>Brawl Ball: Triple Dribble, Encirclement</p></li></ul></li></ul><p>\n</p><h3><b>Trophy Road Reward Changes</b></h3><ul><li><p>Game mode unlocks were moved and can now be unlocked earlier in the path</p></li><li><p>Changed some of the Trophy Road rewards to Starr Drops</p><ul><li><p>Rewards up to 10,000 Trophies feature more Starr Drops</p></li><li><p>A Legendary Starr Drop has been added at every 10,000 Trophies</p></li><li><p>A Mythic Starr Drop has been added in between the Legendary Starr Drops at every 5,000 Trophies</p></li></ul></li></ul><p>\n</p><h3><b>In-game Optional Ads</b></h3><p>We\u2019re rolling out an experiment in some regions of the world with optional video ads. These ads are designed in a way that aims not to disturb the typical gameplay experience; instead, they will offer players a way to obtain additional perks such as an additional Daily Quest, more daily Battle XP, or an additional daily freebie in the Shop.</p><p>Players with active Brawl Pass will already benefit from these perks and won\u2019t be served ads.</p><p>Depending on how these optional ads perform within these testing regions, we may roll out this feature to additional regions later in 2024.\n\n</p><h3><b>Win Streaks</b></h3><ul><li><p>Earn bonus Trophies for each consecutive win in Trophy matches</p></li><li><p>Win streaks begin at 2 wins and each consecutive win grants +1 Trophy, up to a cap of +5 Trophies</p></li><li><p>In Solo Showdown, finishing in 6th-10th position is considered a loss, 5th position is a draw</p></li><li><p>In Duo Showdown, finishing in 4th-5th position is viewed as a loss, 3rd position is a draw</p></li><li><p>Win streaks are only broken when losing a match (so draws will not break your streak)</p></li></ul><p>\n</p><h3><b>Other Changes</b></h3><ul><li><p>You can now receive and store Skins for Brawlers you don\u2019t own! These can be accessed from the Catalog</p></li><li><p>Now you can report Player names, Club names, Club descriptions and Club mail messages more easily from within the game</p></li><li><p>Club mail messages now auto-expire after 14 days</p></li><li><p>You can now sort Brawlers by Mastery in the Brawler screen</p></li><li><p>Credits can no longer be stored and once a Brawl Pass season ends, all the unclaimed Credits from that season will go either to the Brawler currently being unlocked, to the new Brawler being released alongside the new season, or to Fame</p></li></ul><p>\n</p><h3><b>Bug Fixes</b></h3><ul><li><p>Various improvements and bug fixes</p></li></ul><p></p>"
                     }
                 }
-            },
-            {
-                "id": "6u10pgqYkm6M0ZgnXPP19U",
-                "index": 13,
-                "targeting": null,
-                "metadata": {
-                    "id": "6u10pgqYkm6M0ZgnXPP19U",
-                    "publishedVersion": 62,
-                    "publishedAt": "2024-01-26T12:59:52.425Z"
-                },
-                "postDate": "1706273992",
-                "lang": "en",
-                "section": "newsEntries",
-                "title": "#BrawlTogether - New Community Event!",
-                "categories": [
-                    {
-                        "title": "Community",
-                        "color": "#ff0000"
-                    }
-                ],
-                "newUntil": "1706652000",
-                "type": "newsEntry",
-                "listingSize": "large",
-                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
-                "thumbnail": {
-                    "small": {
-                        "title": "0125 BrawlTogether 800x433.png",
-                        "path": "/xdjcscmv3zo3/7A2G2KhfxAFj8bB9PxsJQb/c333af67dcaa53be7e1acec3f273189d/0125_BrawlTogether_800x433.png?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "0125 BrawlTogether 800x433.png",
-                        "path": "/xdjcscmv3zo3/7A2G2KhfxAFj8bB9PxsJQb/c333af67dcaa53be7e1acec3f273189d/0125_BrawlTogether_800x433.png?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "0125 BrawlTogether 800x433.png",
-                        "path": "/xdjcscmv3zo3/7A2G2KhfxAFj8bB9PxsJQb/c333af67dcaa53be7e1acec3f273189d/0125_BrawlTogether_800x433.png?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "0125 BrawlTogether 800x433.png",
-                        "path": "/xdjcscmv3zo3/7A2G2KhfxAFj8bB9PxsJQb/c333af67dcaa53be7e1acec3f273189d/0125_BrawlTogether_800x433.png?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "0125 BrawlTogether 800x433.png",
-                        "path": "/xdjcscmv3zo3/7A2G2KhfxAFj8bB9PxsJQb/c333af67dcaa53be7e1acec3f273189d/0125_BrawlTogether_800x433.png?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "0125 BrawlTogether 800x433.png",
-                        "path": "/xdjcscmv3zo3/7A2G2KhfxAFj8bB9PxsJQb/c333af67dcaa53be7e1acec3f273189d/0125_BrawlTogether_800x433.png?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                },
-                "heroImage": {
-                    "small": {
-                        "title": "0125 BrawlTogether 1600x443.png",
-                        "path": "/xdjcscmv3zo3/318szlCsKtU2Zujh8xi923/f0a72cbdf7a02ac13215314862f08d5f/0125_BrawlTogether_1600x443.png?w=320&h=89&f=center&fit=fill",
-                        "width": 320,
-                        "height": 89
-                    },
-                    "smallRetina": {
-                        "title": "0125 BrawlTogether 1600x443.png",
-                        "path": "/xdjcscmv3zo3/318szlCsKtU2Zujh8xi923/f0a72cbdf7a02ac13215314862f08d5f/0125_BrawlTogether_1600x443.png?w=640&h=177&f=center&fit=fill",
-                        "width": 640,
-                        "height": 177
-                    },
-                    "medium": {
-                        "title": "0125 BrawlTogether 1600x443.png",
-                        "path": "/xdjcscmv3zo3/318szlCsKtU2Zujh8xi923/f0a72cbdf7a02ac13215314862f08d5f/0125_BrawlTogether_1600x443.png?w=800&h=222&f=center&fit=fill",
-                        "width": 800,
-                        "height": 222
-                    },
-                    "mediumRetina": {
-                        "title": "0125 BrawlTogether 1600x443.png",
-                        "path": "/xdjcscmv3zo3/318szlCsKtU2Zujh8xi923/f0a72cbdf7a02ac13215314862f08d5f/0125_BrawlTogether_1600x443.png?w=960&h=266&f=center&fit=fill",
-                        "width": 960,
-                        "height": 266
-                    },
-                    "large": {
-                        "title": "0125 BrawlTogether 1600x443.png",
-                        "path": "/xdjcscmv3zo3/318szlCsKtU2Zujh8xi923/f0a72cbdf7a02ac13215314862f08d5f/0125_BrawlTogether_1600x443.png?w=1280&h=354&f=center&fit=fill",
-                        "width": 1280,
-                        "height": 354
-                    },
-                    "largeRetina": {
-                        "title": "0125 BrawlTogether 1600x443.png",
-                        "path": "/xdjcscmv3zo3/318szlCsKtU2Zujh8xi923/f0a72cbdf7a02ac13215314862f08d5f/0125_BrawlTogether_1600x443.png?w=1600&h=443&f=center&fit=fill",
-                        "width": 1600,
-                        "height": 443
-                    }
-                },
-                "details": {
-                    "0": {
-                        "title": "",
-                        "order": "0",
-                        "type": "textBlock",
-                        "body": "<p>It&#39;s time to join forces for the new community event <b>#BrawlTogether</b>!</p><p>\nThe objective is to get <b>16 Billion Takedowns in 14 days</b>, but the twist this time is that <b>takedowns will count as double IF you play in a group</b>, either by using Play Again or grouping up with your friends!</p><p>AND Takedowns from all game modes count towards the objective, including 5v5 \u2013 which will be active every day throughout the event.</p><h3>\nMilestones &amp; Rewards</h3><p>The #BrawlTogether Event begins with a Double XP Event and Special Quest to help you complete the Brawl Pass or get a few extra Starr Drops. After that, reaching each of the milestones will give you the following rewards:</p><ul><li><p>2 billion takedowns - <b>Epic Starr Drop</b></p></li><li><p>4 billion - <b>Double Daily Starr Drops</b></p></li><li><p>6 billion - <b>Epic Starr Drop</b></p></li><li><p>8 billion - <b>Mastery Madness</b>: 50% more Mastery Points per win\u00a0</p></li><li><p>10 billion - <b>Mythic Starr Drop</b></p></li><li><p>12 billion - <b>Mastery Madness</b>: 100% more Mastery Points per win</p></li><li><p>14 billion - <b>Coin Shower</b>: you get 1 Coin for every daily XP collected. This will also be doubled by the Double XP event AND doubled again if you have any active XP doublers!</p></li><li><p>16 billion - <b>Legendary Starr Drop</b></p></li></ul><h3>\n\nGiveaways</h3><p>Just like in previous events, this one will also have its own giveaway, and it&#39;s really easy to participate. All you have to do is play the event every day! </p><p>We&#39;ll pick 1000 random players from a list of everyone who played and how many days they logged in to the event, and if you win, you get 150 Gems! So the more you play, the higher the chances of winning!</p><p>But we&#39;re not finished yet! </p><p>We will also select 5 random players who will get a <b>Friendship Ticket</b>! </p><p>A Friendship ticket gives ONE MILLION GEMS to the winner and ONE MILLION GEMS to each of the 4 friends they played the most with!</p><p>The giveaway winners will be notified in-game on February 9th, so keep an eye on your inbox messages on this day!</p><p>That&#39;s all! It will be tough, but together we can do it! </p><p><b>Now call your friends! It&#39;s time to #BrawlTogether!</b></p>"
-                    }
-                }
             }
         ],
         "fullscreenEntries": []
     },
     "globals": {
+        "globalText.copyToClipboard": "Copied to clipboard!",
         "globalText.langVoteResultsButtonLabel": "Show Results",
         "globalText.langVoteCheck": "Check vote",
         "globalText.toNews": "To News",
