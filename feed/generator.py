@@ -26,9 +26,9 @@ def get_button_url(link_data: dict, language: str, inbox: SupercellInbox) -> str
         print(link_data)
 
     if url_type == "url":
-        url = url \
-            .replace("brawlstars-inbox://", "brawlstars://") \
-            .replace("hayday-inbox://", "hayday://")
+        url = url.replace("brawlstars-inbox://", "brawlstars://").replace(
+            "hayday-inbox://", "hayday://"
+        )
     elif url_type == "article":
         article_id = link_data["url"]["id"]
         section_key = link_data["url"]["section"]
@@ -92,7 +92,7 @@ def generate_feed(
         e = feed.add_entry()
         e.id(entry_id)
 
-        e.title(entry["title"] if not entry.get("hideTitle") else "🗞️")
+        e.title((entry["title"] or "🗞️") if not entry.get("hideTitle") else "🗞️")
         e.published(datetime.fromtimestamp(float(entry["postDate"]), UTC))
 
         if (metadata := entry.get("metadata")) and (
@@ -126,7 +126,9 @@ def generate_feed(
                 filepath = filepath[0 : filepath.rfind("-")]
 
             mimetype, _ = guess_type(filepath)
-            if not mimetype:
+            if not mimetype and filepath.endswith(".webp"):
+                mimetype = "image/webp"
+            elif not mimetype:
                 print("no mimetype:", thumbnail_url)
                 print("path:", filepath)
 
@@ -143,7 +145,9 @@ def generate_feed(
         elif url := (entry.get("url") or entry.get("videoUrl")):
             e.link(href=url, rel="alternate")
 
-        if (details := entry.get("details")) or (ctas := entry.get("ctas")):
+        if (details := entry.get("details")) or (
+            ctas := entry.get("ctas") or (tracker := entry.get("tracker"))
+        ):
             contents_html = []
             if details:
                 for detail in details.values():
@@ -186,6 +190,32 @@ def generate_feed(
                         print(
                             f"[!] Unknown detail type skipped: '{detail_type}' in '{inbox.subdomain}' domain [{key}/{entry_id}]"
                         )
+
+            # progress trackers (eventsEntries)
+            if (tracker := entry.get("tracker")) and (
+                milestones := entry.get("milestones")
+            ):
+                progress = tracker["progress"]
+                direction = tracker["direction"]
+
+                contents_html.append(f"<h1>PROGRESS: {progress:.2f}%</h1>")
+                contents_html.append("<ul>")
+
+                #                reverse the list
+                for milestone in milestones[::-1]:
+                    unlocked = milestone.get("unlocked")
+                    label = milestone.get("label") or ""
+                    image = milestone.get("image")
+
+                    emoji = "✅" if unlocked else "📌"
+                    content = f"{emoji} - {label}"
+
+                    if image:
+                        image = tuple(image.values())[-1]
+                        image_url = inbox.compose_resource_url(image["path"])
+                        content += f' <image src="{image_url}">'
+                    contents_html.append(f"<li>{content}</li>")
+                contents_html.append("</ul>")
 
             # Call-To-Actions buttons (typecally eventsEntries)
             if ctas := entry.get("ctas"):
