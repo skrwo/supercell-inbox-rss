@@ -29,14 +29,22 @@ def test_feedgen():
                     for language in inbox.langauges:
                         filename = key.removesuffix("Entries")
                         feed = generate_feed(inbox, f"mock-{language}", key, data)
-                        save_feed(feed, inbox.subdomain, f"mock-{language}", filename)
+                        try:
+                            save_feed(feed, inbox.subdomain, f"mock-{language}", filename)
+                        except ValueError as e:
+                            print("[!] failed to save", inbox.subdomain, language, key)
+                            print("error", e)
+                            continue
                         
                         remove((f"./rss/{inbox.subdomain}/mock-{language}/{filename}.xml"))
                         remove((f"./rss/{inbox.subdomain}/mock-{language}/{filename}.atom"))
                 
                 for file in Path(f"./rss/{inbox.subdomain}").iterdir():
                     if file.is_dir() and file.name.startswith("mock"):
-                        removedirs((file))
+                        try:
+                            removedirs((file))
+                        except Exception as e:
+                            print(e)
 
         finish = monotonic()
         print(f"Mocked '{inbox.subdomain}' feed generation took {finish - start:.2f}s!")
