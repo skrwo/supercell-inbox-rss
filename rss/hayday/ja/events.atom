@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-eventEntries-ja</id>
   <title>Hayday - Event</title>
-  <updated>2024-04-26T08:30:55.388054+00:00</updated>
+  <updated>2024-04-26T09:30:34.467827+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -15,5 +15,25 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/cRcj4pkDW6Rh5ThtDKjVYxZNHJcNMJ9ukUsj4Qvsr1w/cc11b4a0a60932be2be4732bfa32eef7/1379298962_1625649229.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="hayday://OpenEventBoard"/>
     <published>2023-09-12T09:48:04+00:00</published>
+  </entry>
+  <entry>
+    <id>4rxCXuIlursfgl3dALxaPh</id>
+    <title>事前登録</title>
+    <updated>2024-04-26T09:00:51.398000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://squadbusters.com"&gt;👉Supercellが世界に放つ最新作「スクワッド・バスターズ」！今すぐ事前登録しましょう！👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.com"/>
+    <published>2024-04-26T09:00:51+00:00</published>
+  </entry>
+  <entry>
+    <id>1FsnqWUFCmbdZWRzRVEVDr</id>
+    <title>予約注文</title>
+    <updated>2024-04-26T09:01:12.226000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://squadbusters.com"&gt;👉Supercellが世界に放つ最新作「スクワッド・バスターズ」！今すぐ予約注文しましょう！👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.com"/>
+    <published>2024-04-26T09:01:12+00:00</published>
   </entry>
 </feed>

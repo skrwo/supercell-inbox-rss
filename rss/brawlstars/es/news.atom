@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-newsEntries-es</id>
   <title>Brawlstars - News</title>
-  <updated>2024-04-26T08:30:44.333404+00:00</updated>
+  <updated>2024-04-26T09:30:14.590624+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -244,5 +244,22 @@ Nuevo brawler: &lt;b&gt;Angelo&lt;/b&gt; (calidad épica)&lt;/h3&gt;&lt;p&gt;Tip
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2024-04-23T07:35:56+00:00</published>
+  </entry>
+  <entry>
+    <id>g2HV5yji7bQwWX2KEm5Ao</id>
+    <title>¡Lanzamiento global de un nuevo juego de Supercell!</title>
+    <updated>2024-04-26T09:08:12.139000+00:00</updated>
+    <content>&lt;h3&gt;Para celebrar el lanzamiento global de &lt;b&gt;Squad Busters&lt;/b&gt;, podrás conseguir &lt;b&gt;recompensas gratuitas&lt;/b&gt; en todos los juegos de Supercell por cada meta que alcance la comunidad.&lt;/h3&gt;
+&lt;h1&gt;Funcionamiento&lt;/h1&gt;
+&lt;p&gt;Preinscríbete en Squad Busters en el App Store o en Google Play antes del lanzamiento global del &lt;b&gt;29 de mayo&lt;/b&gt;. Si te preinscribes, obtendrás el juego en cuanto se encuentre disponible en el App Store o en Google Play.&lt;/p&gt;&lt;p&gt;Sigue los esfuerzos de la comunidad en el indicador de progreso ¡y no te olvides de reclamar las recompensas a medida que se vayan desbloqueando!&lt;/p&gt;&lt;p&gt;El progreso se actualiza cada día.&lt;/p&gt;&lt;p&gt;¡Forma un Squad y cuéntaselo a tus amigos!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉Enlace del App Store👈&lt;/a&gt;
+&lt;h1&gt;¿Qué es Squad Busters?&lt;/h1&gt;
+&lt;p&gt;Squad Busters es un juego donde podrás jugar con tus personajes de Supercell favoritos en partidas repletas de acción. Explora varios mundos, consigue personajes nuevos, evoluciónalos y derrota a monstruos enormes mientras creas el Squad definitivo.&lt;/p&gt;
+&lt;p&gt;El juego está disponible actualmente en Canadá, España, México, Finlandia, Dinamarca, Suecia, Noruega y Singapur. Squad Busters se lanzará en todo el mundo el 29 de mayo.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/es/news/g2HV5yji7bQwWX2KEm5Ao"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Novedades"/>
+    <published>2024-04-26T09:07:55+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-04-26T08:30:55.789240+00:00</updated>
+  <updated>2024-04-26T09:30:29.032152+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -245,5 +245,22 @@ Pazar: Üretim Binası Hızlandırma Etkinliği (rastgele üç bina, %20 hızlan
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Haberler"/>
     <published>2024-04-21T15:24:26+00:00</published>
+  </entry>
+  <entry>
+    <id>4UHBuQ5Lr3ZSbzZiLEXnGp</id>
+    <title>Yeni Supercell oyunu dünya çapında yayınlanıyor!</title>
+    <updated>2024-04-26T09:00:13.087000+00:00</updated>
+    <content>&lt;h3&gt;&lt;b&gt;Squad Busters&lt;/b&gt;&amp;#39;ın dünya çapında yayınlanmasını kutluyoruz! Oyuncu topluluğumuzun ulaştığı her eşik için tüm Supercell oyunlarında &lt;b&gt;ücretsiz ve özel ödüller&lt;/b&gt; sizleri bekliyor.&lt;/h3&gt;
+&lt;h1&gt;Nasıl olacak?&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;29 Mayıs&lt;/b&gt;&amp;#39;taki dünya lansmanından önce App Store veya Google Play üzerinden Squad Busters&amp;#39;a ön kaydınızı tamamlayın. Ön kayıt yaptığınızda, App Store veya Google Play üzerinden dünya çapında yayınlanır yayınlanmaz oyunu indirebilirsiniz.&lt;/p&gt;&lt;p&gt;Oyuncu topluluğumuzun ödül yolundaki ilerlemesine göz atmayı ve açılan ödülleri almayı unutmayın.&lt;/p&gt;&lt;p&gt;İlerleme durumu her gün güncellenecek.&lt;/p&gt;&lt;p&gt;Takımınızı kurma ve arkadaşlarınıza haber verme zamanı!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉App Store bağlantısı👈&lt;/a&gt;
+&lt;h1&gt;Squad Busters nedir?&lt;/h1&gt;
+&lt;p&gt;Squad Busters, en sevdiğiniz Supercell karakterleriyle eğlence ve macera dolu maçlar yapabileceğiniz yeni bir oyundur. Farklı dünyalarda ilerler, yeni karakterler açar ve bu karakterleri evrimleştirerek dev canavarları yok ederken sürekli olarak takımınızı büyütürsünüz.&lt;/p&gt;
+&lt;p&gt;Şu anda Kanada, İspanya, Meksika, Finlandiya, Danimarka, İsveç, Norveç ve Singapur&amp;#39;da oynanabilen Squad Busters 29 Mayıs&amp;#39;ta tüm dünyada yayınlanacak.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/4UHBuQ5Lr3ZSbzZiLEXnGp"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Haberler"/>
+    <published>2024-04-26T09:00:13+00:00</published>
   </entry>
 </feed>

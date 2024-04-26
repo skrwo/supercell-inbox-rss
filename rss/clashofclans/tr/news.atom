@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>clashofclans-newsEntries-tr</id>
   <title>Clashofclans - News</title>
-  <updated>2024-04-26T08:30:51.971375+00:00</updated>
+  <updated>2024-04-26T09:30:19.559805+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -58,5 +58,22 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7MUblCy9e8jEtyt9au7lMz/d29e02a6e34d5b63175488fa1af8cd2c/900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Sürüm notları"/>
     <published>2024-04-17T07:56:37+00:00</published>
+  </entry>
+  <entry>
+    <id>4Pul8wevi9YQZernMls3Y5</id>
+    <title>Yeni Supercell oyunu dünya çapında yayınlanıyor!</title>
+    <updated>2024-04-26T09:06:54.256000+00:00</updated>
+    <content>&lt;h3&gt;&lt;b&gt;Squad Busters&lt;/b&gt;&amp;#39;ın dünya çapında yayınlanmasını kutluyoruz! Topluluk olarak erişilen her eşik için tüm Supercell oyunlarında &lt;b&gt;ücretsiz ve özel ödüller&lt;/b&gt; sizleri bekliyor.&lt;/h3&gt;
+&lt;h1&gt;Nasıl olacak?&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;29 Mayıs&lt;/b&gt;&amp;#39;taki dünya lansmanından önce App Store veya Google Play üzerinden Squad Busters&amp;#39;a ön kaydınızı tamamlayın. Ön kayıt yaptığınızda, App Store veya Google Play üzerinden dünya çapında yayınlanır yayınlanmaz oyunu indirebilirsiniz.&lt;/p&gt;&lt;p&gt;Oyuncu topluluğumuzun ödül yolundaki ilerlemesine göz atmayı ve açılan ödülleri almayı unutmayın.&lt;/p&gt;&lt;p&gt;İlerleme durumu her gün güncellenecek.&lt;/p&gt;&lt;p&gt;Takımınızı kurma ve arkadaşlarınıza haber verme zamanı!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉App Store bağlantısı👈&lt;/a&gt;
+&lt;h1&gt;Squad Busters nedir?&lt;/h1&gt;
+&lt;p&gt;Squad Busters, en sevdiğiniz Supercell karakterleriyle eğlence ve macera dolu maçlar yapabileceğiniz yeni bir oyundur. Farklı dünyalarda ilerler, yeni karakterler açar ve bu karakterleri evrimleştirerek dev canavarları yok ederken sürekli olarak takımınızı büyütürsünüz.&lt;/p&gt;
+&lt;p&gt;Şu anda Kanada, İspanya, Meksika, Finlandiya, Danimarka, İsveç, Norveç ve Singapur&amp;#39;da oynanabilen Squad Busters 29 Mayıs&amp;#39;ta tüm dünyada yayınlanacak.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/tr/news/4Pul8wevi9YQZernMls3Y5"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5AmFRlpVtuVK6vnPNe68ht/adfc55ec1f641163f575c39051aa33a2/Clash-Thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Supercell"/>
+    <published>2024-04-26T09:06:54+00:00</published>
   </entry>
 </feed>

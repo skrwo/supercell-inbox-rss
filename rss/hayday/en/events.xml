@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 08:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 09:30:38 +0000</lastBuildDate>
     <item>
       <title>Today's Event!</title>
       <link>hayday://OpenEventBoard</link>
@@ -16,6 +16,24 @@
       <guid isPermaLink="false">C_cuHmmb-LEriPwwH2WQfwnsVGVO19O220gLd10AHVw</guid>
       <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/cRcj4pkDW6Rh5ThtDKjVYxZNHJcNMJ9ukUsj4Qvsr1w/cc11b4a0a60932be2be4732bfa32eef7/1379298962_1625649229.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 Sep 2023 09:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-registrations</title>
+      <link>https://squadbusters.com</link>
+      <description>&lt;br&gt;
+&lt;a href="https://squadbusters.com"&gt;👉Squad Up! Pre-register Supercell's new global game!👈&lt;/a&gt;</description>
+      <guid isPermaLink="false">4rxCXuIlursfgl3dALxaPh</guid>
+      <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/jpeg+unknown"/>
+      <pubDate>Fri, 26 Apr 2024 09:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-orders</title>
+      <link>https://squadbusters.com</link>
+      <description>&lt;br&gt;
+&lt;a href="https://squadbusters.com"&gt;👉Squad Up! Pre-order Supercell's new global game!👈&lt;/a&gt;</description>
+      <guid isPermaLink="false">1FsnqWUFCmbdZWRzRVEVDr</guid>
+      <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/jpeg+unknown"/>
+      <pubDate>Fri, 26 Apr 2024 09:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

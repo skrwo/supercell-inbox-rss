@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-04-26T08:30:47.545804+00:00</updated>
+  <updated>2024-04-26T09:30:16.864506+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -459,5 +459,22 @@ Um mitmachen zu können, musst du mindestens Königslevel 6 erreicht haben.&lt;/
     <link href="https://www.youtube.com/@ClashRoyale"/>
     <category term="Spaß"/>
     <published>2024-04-20T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5Qlw1XrUzSdDEeFhSjK2Nx</id>
+    <title>Ein neues Supercell-Spiel wird global veröffentlicht!</title>
+    <updated>2024-04-26T09:03:47.452000+00:00</updated>
+    <content>&lt;h3&gt;Zur Feier des globalen Launches von &lt;b&gt;Squad Busters&lt;/b&gt; gibt es in allen Supercell-Spielen &lt;b&gt;exklusive Gratisbelohnungen&lt;/b&gt; für jeden Meilenstein, den die Community erreicht.&lt;/h3&gt;
+&lt;h1&gt;So funktioniert‘s&lt;/h1&gt;
+&lt;p&gt;Registriere dich vor der globalen Veröffentlichung am &lt;b&gt;29. Mai&lt;/b&gt; im App Store oder auf Google Play vorab für Squad Busters. Indem du dich vorab registrierst, kriegst du das Spiel direkt, sobald es global im App Store und auf Google Play verfügbar wird.&lt;/p&gt;&lt;p&gt;Verfolge den Fortschritt der Community im Belohnungstracker und hol dir jede Belohnung, wenn sie freigeschaltet wird.&lt;/p&gt;&lt;p&gt;Die Fortschrittsanzeige wird täglich aktualisiert.&lt;/p&gt;&lt;p&gt;Versammle deinen Squad und sag deinen Freunden Bescheid!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉App-Store-Link👈&lt;/a&gt;
+&lt;h1&gt;Was ist Squad Busters?&lt;/h1&gt;
+&lt;p&gt;In Squad Busters kannst du dich mit deinen Lieblingscharakteren von Supercell in spaßige und actionreiche Matches stürzen. Reise durch verschiedene Welten, sammle neue Charaktere und entwickle sie, um massive Monster zu besiegen, während du deinen ultimativen Squad zusammenstellst.&lt;/p&gt;
+&lt;p&gt;Aktuell verfügbar in Kanada, Spanien, Mexiko, Finnland, Dänemark, Schweden, Norwegen und Singapur. Squad Busters wird am 29. Mai weltweit veröffentlicht.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/5Qlw1XrUzSdDEeFhSjK2Nx"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/KAqgb1Bt2ZLN1vmxQmb4t/8be3e8409fab026a764b24937f29feec/Royale-thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-04-26T09:03:47+00:00</published>
   </entry>
 </feed>

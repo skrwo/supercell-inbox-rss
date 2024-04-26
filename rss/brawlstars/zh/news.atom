@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-04-26T08:30:44.849288+00:00</updated>
+  <updated>2024-04-26T09:30:15.046003+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -287,5 +287,22 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="更新說明"/>
     <published>2024-04-23T07:35:56+00:00</published>
+  </entry>
+  <entry>
+    <id>g2HV5yji7bQwWX2KEm5Ao</id>
+    <title>全新Supercell遊戲正式全球上線！</title>
+    <updated>2024-04-26T09:08:12.139000+00:00</updated>
+    <content>&lt;h3&gt;為慶祝**《破壞突擊隊》&lt;b&gt;全球上線，Supercell的所有遊戲將根據玩家社群達到的每個里程碑贈送&lt;/b&gt;免費獎勵**。&lt;/h3&gt;
+&lt;h1&gt;具體規則&lt;/h1&gt;
+&lt;p&gt;在&lt;b&gt;5月29日&lt;/b&gt;《破壞突擊隊》正式全球上線前，前往App Store或Google Play完成預約登錄。完成預約後，當遊戲在App Store和Google Play正式全球上線時，你將可以第一時間體驗遊戲。&lt;/p&gt;&lt;p&gt;記得關注玩家社群的活動進度，別忘了領取已解鎖的獎勵。&lt;/p&gt;&lt;p&gt;活動進度每天都會更新。&lt;/p&gt;&lt;p&gt;快告訴你的好友，破壞突擊隊集合啦！&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉App Store連結👈&lt;/a&gt;
+&lt;h1&gt;什麼是《破壞突擊隊》？&lt;/h1&gt;
+&lt;p&gt;在《破壞突擊隊》這款遊戲中，你可以使用你最愛的Supercell角色，參加精彩有趣的對戰。探索不同世界，不斷收集新角色，並在組建終極突擊隊的同時進化角色，輕鬆狩獵大型怪物。&lt;/p&gt;
+&lt;p&gt;《破壞突擊隊》目前正在加拿大、西班牙、墨西哥、芬蘭、丹麥、瑞典、挪威和新加坡進行測試，且將於5月29日正式全球上線。&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/g2HV5yji7bQwWX2KEm5Ao"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-04-26T09:07:55+00:00</published>
   </entry>
 </feed>

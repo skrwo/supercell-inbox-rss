@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-04-26T08:30:54.795387+00:00</updated>
+  <updated>2024-04-26T09:30:22.169985+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -245,5 +245,22 @@ Sunnuntai: kolmen sattumanvaraisen tuotantorakennuksen 20 %:n tehostus ja puutar
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Uutiset"/>
     <published>2024-04-21T15:24:26+00:00</published>
+  </entry>
+  <entry>
+    <id>4UHBuQ5Lr3ZSbzZiLEXnGp</id>
+    <title>Uusi Supercell-peli julkaistaan!</title>
+    <updated>2024-04-26T09:00:13.087000+00:00</updated>
+    <content>&lt;h3&gt;&lt;b&gt;Squad Bustersin&lt;/b&gt; maailmanlaajuisen julkaisun kunniaksi kaikissa Supercell-peleissä jaetaan &lt;b&gt;ilmaisia erikoispalkintoja&lt;/b&gt; jokaisesta yhteisön saavuttamasta etapista.&lt;/h3&gt;
+&lt;h1&gt;Näin se toimii&lt;/h1&gt;
+&lt;p&gt;Rekisteröidy ennakkoon Squad Busters -pelaajaksi App Storessa tai Google Playssa ennen maailmanlaajuista julkaisua, joka on &lt;b&gt;29. toukokuuta&lt;/b&gt;. Rekisteröitymällä ennakkoon saat pelin heti, kun se tulee maailmanlaajuisesti saataville App Storessa ja Google Playssa.&lt;/p&gt;&lt;p&gt;Seuraa yhteisön etenemistä palkintomittarissa ja lunasta palkintoja sitä mukaa, kun ne avautuvat.&lt;/p&gt;&lt;p&gt;Edistymistä päivitetään joka päivä.&lt;/p&gt;&lt;p&gt;Kerää posse kasaan ja kerro kavereillesikin!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉Linkki App Storeen👈&lt;/a&gt;
+&lt;h1&gt;Mikä Squad Busters on?&lt;/h1&gt;
+&lt;p&gt;Squad Busters on peli, jossa pelataan Supercellin tutuilla suosikkihahmoilla hauskoissa ja toiminnantäyteisissä otteluissa. Matkaa monien maailmojen halki, kerää uusia hahmoja ja kehitä niitä, niin voit tyrmätä aina vain hurjempia pomoja sitä mukaa, kun kokoat itsellesi parasta mahdollista possea.&lt;/p&gt;
+&lt;p&gt;Tällä hetkellä Suomessa, Ruotsissa, Norjassa, Tanskassa, Espanjassa, Kanadassa, Meksikossa ja Singaporessa saatavilla oleva Squad Busters julkaistaan maailmanlaajuisesti 29. toukokuuta.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/4UHBuQ5Lr3ZSbzZiLEXnGp"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Uutiset"/>
+    <published>2024-04-26T09:00:13+00:00</published>
   </entry>
 </feed>

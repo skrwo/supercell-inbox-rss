@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-04-26T08:30:55.591161+00:00</updated>
+  <updated>2024-04-26T09:30:43.712363+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -228,5 +228,22 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أخبار"/>
     <published>2024-04-21T15:24:26+00:00</published>
+  </entry>
+  <entry>
+    <id>4UHBuQ5Lr3ZSbzZiLEXnGp</id>
+    <title>إصدار عالمي للعبة جديدة من Supercell</title>
+    <updated>2024-04-26T09:00:13.087000+00:00</updated>
+    <content>&lt;h3&gt;للاحتفال بالإصدار العالمي للعبة &lt;b&gt;Squad Busters&lt;/b&gt;، ستقدم جميع ألعاب Supercell &lt;b&gt;مكافآت مجانية وحصرية&lt;/b&gt; لكل إنجاز يصل إليه المجتمع.&lt;/h3&gt;
+&lt;h1&gt;كيف يجري ذلك؟&lt;/h1&gt;
+&lt;p&gt;سجّل مسبقًا في لعبة Squad Busters على App Store أو Google Play قبل الإصدار العالمي يوم &lt;b&gt;29 مايو&lt;/b&gt;. من خلال التسجيل المسبق، ستحصل على اللعبة على الفور عندما تصبح متاحة عالميًا على App Store أو Google Play.&lt;/p&gt;&lt;p&gt;تابع تقدم جهود المجتمع على متتبع المكافآت، ولا تنسَ المطالبة بالمكافآت عندما تفتح.&lt;/p&gt;&lt;p&gt;يجري تحديث التقدم يوميًا.&lt;/p&gt;&lt;p&gt;كوّن فرقة واحرص على إخبار أصدقائك!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉رابط متجر التطبيقات👈&lt;/a&gt;
+&lt;h1&gt;ما لعبة Squad Busters؟&lt;/h1&gt;
+&lt;p&gt;‏Squad Busters‏ لعبة تتضمن باقة من شخصيات Supercell المفضلة لديك في مواجهات ممتعة ومليئة بالإثارة. انتقل عبر مناطق مختلفة واجمع شخصيات جديدة وطوّرها للقضاء على الوحوش الضخمة بينما تتابع بناء فرقتك المميزة.&lt;/p&gt;
+&lt;p&gt;لعبة Squad busters متوفرة حاليًا في كندا وإسبانيا والمكسيك وفنلندا والدنمارك والسويد والنرويج وسنغافورة، وسيتم إصدارها عالميًا يوم 29 مايو.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/4UHBuQ5Lr3ZSbzZiLEXnGp"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أخبار"/>
+    <published>2024-04-26T09:00:13+00:00</published>
   </entry>
 </feed>

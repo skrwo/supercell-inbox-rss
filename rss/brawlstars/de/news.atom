@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-04-26T08:30:44.001518+00:00</updated>
+  <updated>2024-04-26T09:30:13.888461+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -158,5 +158,22 @@ Wie wir gehört haben, gefallen euch Community-Ereignisse. Daher haben wir Frank
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Versionshinweise"/>
     <published>2024-04-23T07:35:56+00:00</published>
+  </entry>
+  <entry>
+    <id>g2HV5yji7bQwWX2KEm5Ao</id>
+    <title>Ein neues Supercell-Spiel wird global veröffentlicht!</title>
+    <updated>2024-04-26T09:08:12.139000+00:00</updated>
+    <content>&lt;h3&gt;Zur Feier des globalen Launches von &lt;b&gt;Squad Busters&lt;/b&gt; gibt es in allen Supercell-Spielen &lt;b&gt;Gratisbelohnungen&lt;/b&gt; für jeden Meilenstein, den die Community erreicht.&lt;/h3&gt;
+&lt;h1&gt;So funktioniert‘s&lt;/h1&gt;
+&lt;p&gt;Registriere dich vor der globalen Veröffentlichung am &lt;b&gt;29. Mai&lt;/b&gt; im App Store oder auf Google Play vorab für Squad Busters. Indem du dich vorab registrierst, kriegst du das Spiel direkt, sobald es global im App Store und auf Google Play verfügbar wird.&lt;/p&gt;&lt;p&gt;Verfolge den Fortschritt der Community im Belohnungstracker und hol dir jede Belohnung, wenn sie freigeschaltet wird.&lt;/p&gt;&lt;p&gt;Die Fortschrittsanzeige wird täglich aktualisiert.&lt;/p&gt;&lt;p&gt;Versammle deinen Squad und sag deinen Freunden Bescheid!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉App-Store-Link👈&lt;/a&gt;
+&lt;h1&gt;Was ist Squad Busters?&lt;/h1&gt;
+&lt;p&gt;In Squad Busters kannst du dich mit deinen Lieblingscharakteren von Supercell in spaßige und actionreiche Matches stürzen. Reise durch verschiedene Welten, sammle neue Charaktere und entwickle sie, um massive Monster zu besiegen, während du deinen ultimativen Squad zusammenstellst.&lt;/p&gt;
+&lt;p&gt;Aktuell verfügbar in Kanada, Spanien, Mexiko, Finnland, Dänemark, Schweden, Norwegen und Singapur. Squad Busters wird am 29. Mai weltweit veröffentlicht.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/de/news/g2HV5yji7bQwWX2KEm5Ao"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-04-26T09:07:55+00:00</published>
   </entry>
 </feed>

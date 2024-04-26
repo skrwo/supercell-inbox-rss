@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>brawlstars-newsEntries-pl</id>
   <title>Brawlstars - News</title>
-  <updated>2024-04-26T08:30:46.039146+00:00</updated>
+  <updated>2024-04-26T09:30:15.437181+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -122,5 +122,22 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Informacje o Wydaniu"/>
     <published>2024-04-23T07:35:56+00:00</published>
+  </entry>
+  <entry>
+    <id>g2HV5yji7bQwWX2KEm5Ao</id>
+    <title>Światowa premiera nowej gry Supercell</title>
+    <updated>2024-04-26T09:08:12.139000+00:00</updated>
+    <content>&lt;h3&gt;Aby uczcić światową premierę &lt;b&gt;Squad Busters&lt;/b&gt;, we wszystkich grach Supercell znajdziecie &lt;b&gt;bezpłatne nagrody&lt;/b&gt; za każdy kamień milowy zdobyty przez społeczność.&lt;/h3&gt;
+&lt;h1&gt;Jak to działa?&lt;/h1&gt;
+&lt;p&gt;Zarejestrujcie się do Squad Busters w App Store lub Google Play przed światową premierą gry &lt;b&gt;29 maja&lt;/b&gt;. Dzięki temu będziecie mogli zagrać od razu po światowej premierze, gdy gra będzie dostępna w App Store lub Google Play.&lt;/p&gt;&lt;p&gt;Sprawdzajcie postępy społeczności na pasku nagród i nie zapomnijcie odebrać nagród, gdy zostaną one odblokowane.&lt;/p&gt;&lt;p&gt;Postępy aktualizowane są codziennie&lt;/p&gt;&lt;p&gt;Podziel się ze znajomymi&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉Link do App Store👈&lt;/a&gt;
+&lt;h1&gt;Czym jest Squad Busters?&lt;/h1&gt;
+&lt;p&gt;W Squad Busters możecie zagrać swoimi ulubionymi postaciami Supercell w ekscytujących meczach. Będziecie podróżować przez różne światy, zbierać nowe postacie i rozwijać je, aby gromić potwory – a to wszystko z tworzeniem najlepszego oddziału w tle.&lt;/p&gt;
+&lt;p&gt;Gra jest już dostępna w Kanadzie, Hiszpanii, Meksyku, Finlandii, Danii, Szwecji, Norwegii i w Singapurze, a od 29 maja – na całym świecie.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/pl/news/g2HV5yji7bQwWX2KEm5Ao"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Aktualności"/>
+    <published>2024-04-26T09:07:55+00:00</published>
   </entry>
 </feed>

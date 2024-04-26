@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-04-26T08:30:55.943796+00:00</updated>
+  <updated>2024-04-26T09:30:26.267082+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -228,5 +228,22 @@ Ahad: Acara Galakan Bangunan Pengeluaran (3 bangunan rawak, 20% galakan) + Acara
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Berita"/>
     <published>2024-04-21T15:24:26+00:00</published>
+  </entry>
+  <entry>
+    <id>4UHBuQ5Lr3ZSbzZiLEXnGp</id>
+    <title>Permainan Supercell baharu menjadi global!</title>
+    <updated>2024-04-26T09:00:13.087000+00:00</updated>
+    <content>&lt;h3&gt;Untuk meraikan keluaran global &lt;b&gt;Squad Busters&lt;/b&gt;, semua permainan Supercell memberikan &lt;b&gt;ganjaran percuma dan eksklusif&lt;/b&gt; untuk setiap pencapaian komuniti.&lt;/h3&gt;
+&lt;h1&gt;Cara ia berfungsi&lt;/h1&gt;
+&lt;p&gt;Pradaftar untuk Squad Busters di App Store atau Google Play sebelum keluaran global pada &lt;b&gt;29 Mei&lt;/b&gt;. Selepas prapendaftaran, anda akan segera mendapat permainan apabila ia tersedia secara global di App Store atau Google Play.&lt;/p&gt;&lt;p&gt;Ikuti kemajuan usaha komuniti pada penjejak ganjaran dan jangan lupa untuk menuntut ganjaran selepas ganjaran dibuka.&lt;/p&gt;&lt;p&gt;Kemajuan dikemas kini setiap hari.&lt;/p&gt;&lt;p&gt;Bina skuad dan ingat untuk memberitahu rakan anda!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉Pautan kedai aplikasi👈&lt;/a&gt;
+&lt;h1&gt;Apakah itu Squad Busters?&lt;/h1&gt;
+&lt;p&gt;Squad Busters ialah permainan untuk anda bermain dengan karakter Supercell kegemaran anda dalam perlawanan yang seronok dan penuh aksi. Kembara ke dunia berbeza, kumpul karakter baharu dan evolusikan mereka untuk mengalahkan raksasa besar sambil terus membina skuad utama anda.&lt;/p&gt;
+&lt;p&gt;Kini tersedia di Kanada, Sepanyol, Mexico, Finland, Denmark, Sweden, Norway dan Singapura, Squad Busters akan dikeluarkan di seluruh dunia pada 29 Mei.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/4UHBuQ5Lr3ZSbzZiLEXnGp"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2024-04-26T09:00:13+00:00</published>
   </entry>
 </feed>
