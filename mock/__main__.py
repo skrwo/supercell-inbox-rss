@@ -1,5 +1,5 @@
 from pathlib import Path
-from api.scraper import INBOXES
+from api import INBOXES
 from json import dumps
 
 lang = "en"
