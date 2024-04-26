@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-eventEntries-zh</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-04-26T08:30:52.233261+00:00</updated>
+  <updated>2024-04-26T11:32:50.132245+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -55,5 +55,22 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Nn024ifeJRC9QR8kh4IeJ/9b54f6308c633cb0c759b901cd9c0916/tw_20240415_Carrousel-April_Update.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/InKFf2cJqc8"/>
     <published>2024-04-15T09:11:46+00:00</published>
+  </entry>
+  <entry>
+    <id>11hJXN7WG1gW5wTg136B9R</id>
+    <title>🗞️</title>
+    <updated>2024-04-26T10:23:01.815000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 26.25%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - ?M &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5Mv6oh2hN5lfBItJSOi0vr/bf7123d2ec452100b9dc8aa92815e77b/Clash-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - ?M &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/61Pdyg4fSFwMlmIrdYDdUs/c514c6bda519c72c16503bbda433efb8/Clash-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 5M &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/61Pdyg4fSFwMlmIrdYDdUs/c514c6bda519c72c16503bbda433efb8/Clash-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ - 1M &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4eoEdIdmBiTApoQtCKfuya/7dc485f4be7963ce4873d79cfe6b24fe/Clash-1.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="https://squadbusters.com"&gt;👉破壞突擊隊，集合！Supercell全新遊戲正式上線，立即預訂！👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Xi9jNxCFruBxWHXgwVftD/d2603348c397b9e2d3485167907be3f9/Clash-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.com"/>
+    <published>2024-04-26T09:07:25+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>brawlstars-eventEntries-ru</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-04-26T08:30:46.846275+00:00</updated>
+  <updated>2024-04-26T11:32:45.493766+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -43,5 +43,22 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ImvZ7Iw3Oxw62gqyQyS4w/eddfc79cff055ae6843b7137f034220b/0419_BT_Mutations_Pop-up_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/oUW1RPbbqJE"/>
     <published>2024-04-19T12:17:08+00:00</published>
+  </entry>
+  <entry>
+    <id>10jK6dOsP35e0wdKDfw3Ed</id>
+    <title>🗞️</title>
+    <updated>2024-04-26T10:17:20.079000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 26.25%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - ?M &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6CtJ8AV4qHDcD4fkwPWKZ9/28f8ef7219d1396f826da08809f8e351/Brawl_4.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - ?M &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/53NTnMvBAtMfQ09BmB4MPR/3e9d8c9435d02ea00ac6cb815af1dae9/Brawl_3.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 5M &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WwhyEAf37LSWrGXU213GQ/74320391a0761b4cbc27a2aa35dfdef2/Brawl_2.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ - 1M &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/HLWACB6TK9ADvd7GISdZi/9a39056d0c472b48caf9f345b4fc8883/Brawl_1.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="https://squadbusters.com"&gt;👉Вперёд, отряд! Оформите предварительный заказ новой игры от Supercell!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mciXavj3efgxBB5lGNtws/25aed9a78408f4edde702c953a6706c3/animated-swirl.webp?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.com"/>
+    <published>2024-04-26T09:08:02+00:00</published>
   </entry>
 </feed>

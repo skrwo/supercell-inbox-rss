@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-esportNewsEntries-de</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-04-26T09:30:13.895388+00:00</updated>
+  <updated>2024-04-26T11:32:45.687672+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -14,5 +14,22 @@
     <link href="https://twitter.com/Brawl_esports/status/1774100708041888196"/>
     <category term="Esports"/>
     <published>2024-04-01T01:33:44+00:00</published>
+  </entry>
+  <entry>
+    <id>SzUotna26cZBazr5b0WZC</id>
+    <title>Die Magenta eTrophy ist zurück!</title>
+    <updated>2024-04-26T10:46:36.970000+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Aufgepasst! &lt;/b&gt;
+
+Die &lt;b&gt;#Magentaetrophy&lt;/b&gt; der @deutschetelekom ist in diesem Jahr zurück! Schließt euch den Teams unserer Captains an und spielt mit etwas Glück &lt;b&gt;beim großen Finale um insgesamt 6.000€ Preisgeld&lt;/b&gt;. 
+
+Alle Infos und Termine findet ihr unter: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fmagentaetrophy.sk-gaming.com%2Fbrawlstars')"&gt;https://magentaetrophy.sk-gaming.com/brawlstars&lt;/a&gt;
+
+Melde dich jetzt für die Magenta eTrophy Brawl Stars an und qualifiziere dich mit deinem Team für das große Finale!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Stream Ansehen!&lt;/h1&gt;
+&lt;a href="https://www.twitch.tv/bigspincr"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2xWyg0ZnwIjCkVS9ozvMSa/576df7db90b91f1288ad51630146f36b/inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Esports"/>
+    <published>2024-04-26T10:46:36+00:00</published>
   </entry>
 </feed>

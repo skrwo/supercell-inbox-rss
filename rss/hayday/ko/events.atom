@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-eventEntries-ko</id>
   <title>Hayday - Event</title>
-  <updated>2024-04-26T09:30:41.189101+00:00</updated>
+  <updated>2024-04-26T11:32:53.973636+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -20,7 +20,14 @@
     <id>4rxCXuIlursfgl3dALxaPh</id>
     <title>사전 등록</title>
     <updated>2024-04-26T09:00:51.398000+00:00</updated>
-    <content>&lt;br&gt;
+    <content>&lt;h1&gt;PROGRESS: 26.25%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - ?M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - ?M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 5M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5WEIaMhW8bvJKswzDR1pQn/67373768d0e84d5b37cc411921cb283a/Hayday-2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ - 1M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/561WCDUhrOJ3bmvtXRTVB4/89fe9c5f1587eda4c652a1b091dd92a4/Hayday-1.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
 &lt;a href="https://squadbusters.com"&gt;👉스쿼드를 구성할 시간입니다! 슈퍼셀의 신규 글로벌 게임에 사전 등록하세요!👈&lt;/a&gt;</content>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://squadbusters.com"/>
@@ -29,8 +36,15 @@
   <entry>
     <id>1FsnqWUFCmbdZWRzRVEVDr</id>
     <title>사전 주문</title>
-    <updated>2024-04-26T09:01:12.226000+00:00</updated>
-    <content>&lt;br&gt;
+    <updated>2024-04-26T11:25:35.015000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 26.25%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - ?M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - ?M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 5M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1Jq758Z1lNdPgiXj3RN4Sw/20316820d5cf3597d6a177c3a9dc2804/Hayday-2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ - 1M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/736kM830Q37MKHidj1hpsY/4f09815b919fbe5caef0861f547efab3/Hayday-1.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
 &lt;a href="https://squadbusters.com"&gt;👉스쿼드를 구성할 시간입니다! 슈퍼셀의 신규 글로벌 게임을 사전 주문하세요!👈&lt;/a&gt;</content>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://squadbusters.com"/>
