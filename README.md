@@ -47,7 +47,7 @@ To generate these feeds locally, you should:
 git clone https://github.com/skrwo/supercell-inbox-rss.git
 ```
 
-### 2. Install python
+### 2. Install python 3.11 or newer
 (Python installation depends on OS you're using, so google it yourself)
 
 ### 3. Open the repo & install its dependencies
