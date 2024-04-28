@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-04-28T17:33:27.720809+00:00</updated>
+  <updated>2024-04-28T18:33:22.835165+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5IEMYBuWcLfenRw3AqAdLk</id>
-    <title>Hay Dayn tapahtumat viikolla 5</title>
-    <updated>2024-01-29T13:43:21.312000+00:00</updated>
-    <content>&lt;p&gt;Tammikuu päättyy ja helmikuu alkaa! Odotatko jo uuden viikon tapahtumia innolla?&lt;/p&gt;&lt;p&gt;Maanantai: 1–2 palapelin palaa onnenpyörässä
-Tiistai: tuplasti kolikoita tavararekkatilauksista
-Keskiviikko: tuplasti kokemusta laivatilauksista
-Torstai: tuplasti kolikoita farmivierailijoista
-Perjantai: hummerialtaan ja viehetyöpöydän 30 %:n tehostus ja Farmipassi-pisteet tuplana
-Lauantai ja sunnuntai: kalastuksen yhteisötapahtuma&lt;/p&gt;&lt;p&gt;Kaikki tapahtumat alkavat klo 8.00 UTC.&lt;/p&gt;&lt;p&gt;Lue lisätietoja tapahtumista pelin tapahtumataululta!&lt;/p&gt;&lt;p&gt;Viljavaa viikkoa!&lt;/p&gt;&lt;p&gt;#HayDay&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/5IEMYBuWcLfenRw3AqAdLk"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Uutiset"/>
-    <published>2024-01-29T13:43:02+00:00</published>
-  </entry>
   <entry>
     <id>6IfFYOcwXaYYHXokU2Xe6X</id>
     <title>Ajankohtaiskiekaisut!</title>

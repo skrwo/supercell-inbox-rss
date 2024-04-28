@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-04-28T17:33:27.842350+00:00</updated>
+  <updated>2024-04-28T18:33:21.016929+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5IEMYBuWcLfenRw3AqAdLk</id>
-    <title>Ereigniswoche 5!</title>
-    <updated>2024-01-29T13:43:21.312000+00:00</updated>
-    <content>&lt;p&gt;Der Januar geht zu Ende und der Februar beginnt! Bist du bereit für neue spaßige Ereignisse?&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (1 Puzzlestück garantiert, Chance auf 2)
-Dienstag: Lieferwagenbestellungen-Ereignis (doppelte Münzen)
-Mittwoch: Schiffsbestellungen-Ereignis (doppelte EP)
-Donnerstag: Farmbesucher-Ereignis (doppelte Münzen)
-Freitag: Angelereignis (Schübe für Hummer und Köder, 30 %) + Farmpasspunkte-Bonus (doppelte Farmpasspunkte)
-Samstag und Sonntag: Globales Angelereignis&lt;/p&gt;&lt;p&gt;Alle Ereignisse beginnen um 9 Uhr MEZ.&lt;/p&gt;&lt;p&gt;Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel!&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine fantastische Woche!&lt;/p&gt;&lt;p&gt;#HayDay&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/5IEMYBuWcLfenRw3AqAdLk"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-01-29T13:43:02+00:00</published>
-  </entry>
   <entry>
     <id>6IfFYOcwXaYYHXokU2Xe6X</id>
     <title>Farmerjournal!</title>

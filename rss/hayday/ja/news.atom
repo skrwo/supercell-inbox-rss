@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-04-28T17:33:26.319341+00:00</updated>
+  <updated>2024-04-28T18:33:22.721340+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5IEMYBuWcLfenRw3AqAdLk</id>
-    <title>ヘイ・デイ イベントカレンダー第5週！</title>
-    <updated>2024-01-29T13:43:21.312000+00:00</updated>
-    <content>&lt;p&gt;1月が終わりを迎え、いよいよ2月がやってきます！エッグサイティングなイベントに参加する準備はいいですか？&lt;/p&gt;&lt;p&gt;月曜日：ルーレット回転（パズルピース1～2個）
-火曜日：トラックのお仕事（コイン2倍）
-水曜日：船のお仕事（経験値2倍）
-木曜日：農場の訪問客（コイン2倍）
-金曜日：釣り場の施設ブースト（ロブスタープール＆ルアー用作業台が30％スピードアップ）+ 農場パスポイントボーナス（農場パスポイント2倍）
-土～日曜日：魚釣り（協力イベント）&lt;/p&gt;&lt;p&gt;いずれのイベントも日本時間17時から始まります。&lt;/p&gt;&lt;p&gt;各イベントの詳細は、イベント掲示板で確認することができます。&lt;/p&gt;&lt;p&gt;モー最高な1週間をお過ごしください！&lt;/p&gt;&lt;p&gt;#ヘイデイ&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ja/news/5IEMYBuWcLfenRw3AqAdLk"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="ニュース"/>
-    <published>2024-01-29T13:43:02+00:00</published>
-  </entry>
   <entry>
     <id>6IfFYOcwXaYYHXokU2Xe6X</id>
     <title>農場通信!</title>

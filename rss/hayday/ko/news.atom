@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-04-28T17:33:27.189330+00:00</updated>
+  <updated>2024-04-28T18:33:23.112600+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5IEMYBuWcLfenRw3AqAdLk</id>
-    <title>헤이데이 이벤트 5주 차!</title>
-    <updated>2024-01-29T13:43:21.312000+00:00</updated>
-    <content>&lt;p&gt;1월이 지나가고 곧 2월이 시작됩니다! 재미로 가득한 이벤트를 즐길 준비가 되셨나요!?&lt;/p&gt;&lt;p&gt;월요일: 행운의 룰렛(퍼즐 조각 1개 포함 - 일정 확률로 2개 포함)
-화요일: 트럭 주문(코인 2배)
-수요일: 화물선 주문(XP 2배)
-목요일: 농장 방문객(코인 2배)
-금요일: 낚시 생산 부스트(가재 수족관 및 미끼 작업대 30% 가속) + 농장 패스 포인트 보너스(농장 패스 포인트 2배)
-토요일, 일요일: 낚시 협동 이벤트&lt;/p&gt;&lt;p&gt;모든 이벤트는 오전 8시(UTC)에 시작합니다.&lt;/p&gt;&lt;p&gt;자세한 이벤트 정보는 해당 요일에 이벤트 게시판을 확인하세요!&lt;/p&gt;&lt;p&gt;즐거운 한 주 보내세요!&lt;/p&gt;&lt;p&gt;#헤이데이&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ko/news/5IEMYBuWcLfenRw3AqAdLk"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="뉴스"/>
-    <published>2024-01-29T13:43:02+00:00</published>
-  </entry>
   <entry>
     <id>6IfFYOcwXaYYHXokU2Xe6X</id>
     <title>뉴스 농장!</title>
