@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-04-28T14:33:15.100017+00:00</updated>
+  <updated>2024-04-28T15:33:10.855342+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -446,5 +446,13 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k2KzHBu3NvmZV439Bikq4/2811aeeec7b19c77734c8907aa91ad6d/Royale-thumbnail_japan.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-04-26T09:03:47+00:00</published>
+  </entry>
+  <entry>
+    <id>G4EmNGphakSIYQZG5pr2b</id>
+    <title>整髪料の使いすぎでしょうか？それとも…</title>
+    <updated>2024-04-28T15:00:03.475000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/G4EmNGphakSIYQZG5pr2b"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7b9QFITFCGCA9BCY16fCEq/5475a751558c5e8fe858f8a7aa26a2bb/Sunday_-_Evo_Wizard_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <published>2024-04-28T15:00:03+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-04-28T14:33:10.844590+00:00</updated>
+  <updated>2024-04-28T15:33:10.075685+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -530,5 +530,14 @@ To participate, you must be King Level 6 or higher.&lt;/p&gt;&lt;p&gt;❓Can’t
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/KAqgb1Bt2ZLN1vmxQmb4t/8be3e8409fab026a764b24937f29feec/Royale-thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-04-26T09:03:47+00:00</published>
+  </entry>
+  <entry>
+    <id>G4EmNGphakSIYQZG5pr2b</id>
+    <title>Too much hairspray? Or...</title>
+    <updated>2024-04-28T15:00:03.475000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/G4EmNGphakSIYQZG5pr2b"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7b9QFITFCGCA9BCY16fCEq/5475a751558c5e8fe858f8a7aa26a2bb/Sunday_-_Evo_Wizard_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Highlights"/>
+    <published>2024-04-28T15:00:03+00:00</published>
   </entry>
 </feed>
