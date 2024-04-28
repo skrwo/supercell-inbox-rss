@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-04-28T08:33:23.253679+00:00</updated>
+  <updated>2024-04-28T09:34:20.885725+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -262,5 +262,16 @@ Sunnuntai: kolmen sattumanvaraisen tuotantorakennuksen 20 %:n tehostus ja puutar
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2CgNjeWZlgAMGqintAiuZQ/f1518e0f21d0b9476ee6b281e24a80dd/Hayday-thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Uutiset"/>
     <published>2024-04-26T09:00:13+00:00</published>
+  </entry>
+  <entry>
+    <id>4P9zgR2JYnuuyut7T4svFd</id>
+    <title>Hay Dayn tapahtumat viikolla 18</title>
+    <updated>2024-04-28T08:46:50.612000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 18&lt;/h1&gt;
+&lt;p&gt;Hei farmarit! Kuu kiurusta kesään! Aloitetaan toukokuu mahtavilla tapahtumilla. Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: ylimääräisiä kuponkeja onnenpyörässä&lt;/p&gt;&lt;p&gt;Tiistai: tuplasti kokemuspisteitä kylävierailijoista&lt;/p&gt;&lt;p&gt;Keskiviikko: kiihdyttimiä lisäpalkintona laivatilauksista + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;Torstai: tuplasti kolikoita farmivierailijoista&lt;/p&gt;&lt;p&gt;Perjantai: kalastusalueella sorsasalongin ja verkontekijän 30 %:n tehostus + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;Lauantai: tuplasti kokemuspisteitä kylävierailijoista&lt;/p&gt;&lt;p&gt;Sunnuntai: kolmen sattumanvaraisen viljelyskasvin tehostus (satoa korjatessa 3 viljelyskasvia 2:n sijaan)&lt;/p&gt;&lt;p&gt;Verratonta viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/4P9zgR2JYnuuyut7T4svFd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Uutiset"/>
+    <published>2024-04-28T08:46:50+00:00</published>
   </entry>
 </feed>
