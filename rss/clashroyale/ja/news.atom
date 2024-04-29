@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-04-29T14:33:05.267711+00:00</updated>
+  <updated>2024-04-29T15:33:15.545599+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -454,5 +454,14 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/G4EmNGphakSIYQZG5pr2b"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7b9QFITFCGCA9BCY16fCEq/5475a751558c5e8fe858f8a7aa26a2bb/Sunday_-_Evo_Wizard_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <published>2024-04-28T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>FPY7Agt8KWLU1Tl4BaMfk</id>
+    <title>新呪文が登場！</title>
+    <updated>2024-04-29T15:05:03.046000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/FPY7Agt8KWLU1Tl4BaMfk"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5vfSOhiKvQctm5RfG4D24w/f644ca90e30dacd0d328b3a9869eea26/void_video_teaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/KC_x23OgfeM?feature=share"/>
+    <published>2024-04-29T15:05:03+00:00</published>
   </entry>
 </feed>
