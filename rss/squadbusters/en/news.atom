@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-04-29T12:47:27.008601+00:00</updated>
+  <updated>2024-04-29T13:32:47.788876+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -67,7 +67,7 @@
   </entry>
   <entry>
     <id>2gG8P9MyV23OFnt9wBKjeY</id>
-    <title>An optional update with the following changes is now available!</title>
+    <title>Optional Update for iOS and Android!</title>
     <updated>2024-04-29T10:23:40.681000+00:00</updated>
     <content>&lt;p&gt;An optional update with the following changes is now available!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed replays that were not working&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed characters downgrading to a previous evolution (fixed last Saturday)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;We are working on reverting the downgraded characters back to the evolution level they had before the issue. Expect a fix soon!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed party invites popping up while in Battle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added cooldown for party requests, and delay between party requests pop-ups&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Implemented a setting to disable ask-to-join party requests&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed accepting friend invites issue when having more than 1 invite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed crashes on foldable devices&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the black screen after getting busted during training&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Changed Battle consumables rewards flying to the Play button instead of the Shop button&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the Gem Pass timer not showing up on some screens&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an emote that is showing as unlocked at level 0&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Other small fixes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Make sure to update your game!&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/2gG8P9MyV23OFnt9wBKjeY"/>
