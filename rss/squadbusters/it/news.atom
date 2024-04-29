@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>squadbusters-newsEntries-it</id>
   <title>Squadbusters - News</title>
-  <updated>2024-04-29T09:32:57.289360+00:00</updated>
+  <updated>2024-04-29T10:34:09.277285+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -53,5 +53,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-04-26T09:20:40+00:00</published>
+  </entry>
+  <entry>
+    <id>2gG8P9MyV23OFnt9wBKjeY</id>
+    <title> Aggiornamento opzionale per iOS e Android!</title>
+    <updated>2024-04-29T10:23:40.681000+00:00</updated>
+    <content>&lt;p&gt;Un aggiornamento opzionale con i seguenti cambiamenti è ora disponibile!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Un aggiornamento opzionale con i seguenti cambiamenti è ora disponibile!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto il problema dei replay non funzionanti&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Risolto il problema in cui i personaggi ritornavano ad un’evoluzione precedente (risolto sabato scorso)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stiamo lavorando per riportare i personaggi declassati al livello di evoluzione che avevano prima del problema. Ci aspettiamo di sistemarlo presto!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto l’invito del party che saltava fuori durante la battaglia&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Aggiunto un tempo di attesa per le richieste del party, e un ritardo dei pop-up delle richieste del party.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Implementata un&amp;#39;impostazione per disabilitare le richieste di adesione ai party.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto il problema relativo all&amp;#39;accettazione degli inviti degli amici quando si aveva più di 1 invito&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolte le interruzioni dell&amp;#39;applicazione su dispositivi pieghevoli&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolta la schermata nera che compariva dopo che si veniva sconfitti nel campo d’addestramento&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Cambiate le ricompense consumabili della battaglia, sono state spostate dal pulsante del negozio al pulsante Gioca&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto il timer del Gem Pass che non compariva in alcuni schermi&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolta un emote che mostrava che veniva sbloccata al livello 0&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Altre risoluzioni minori&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Assicurati di aggiornare il tuo gioco!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/it/news/2gG8P9MyV23OFnt9wBKjeY"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-04-29T10:23:40+00:00</published>
   </entry>
 </feed>

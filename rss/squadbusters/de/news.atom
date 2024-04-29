@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-newsEntries-de</id>
   <title>Squadbusters - News</title>
-  <updated>2024-04-29T09:32:57.378259+00:00</updated>
+  <updated>2024-04-29T10:34:08.309786+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -63,5 +63,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-04-26T09:20:40+00:00</published>
+  </entry>
+  <entry>
+    <id>2gG8P9MyV23OFnt9wBKjeY</id>
+    <title>Optionales Update für iOS und Android!</title>
+    <updated>2024-04-29T10:23:40.681000+00:00</updated>
+    <content>&lt;p&gt;Ein optionales Update mit den folgenden Verbesserungen ist jetzt verfügbar!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fehlerhafte Wiederholungen wurden behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass Charaktere auf eine frühere Evolutionsstufe zurückgestuft wurden (behoben letzten Samstag)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Wir arbeiten daran, die zurückgestuften Charaktere wieder auf die Evolutionsstufe zurückzusetzen, die sie vor dem Problem hatten. Erwartet bald eine Fehlerbehebung!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass Gruppeneinladungen während eines Kampfes angezeigt wurden.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abklingzeit für Gruppenanfragen und Verzögerung zwischen Gruppenanfragen-Pop-ups hinzugefügt&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Eine Einstellung zur Deaktivierung von Gruppenanfragen wurde implementiert&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Das Problem mit dem Annehmen von Freundschaftseinladungen bei mehr als einer Einladung wurde behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abstürze auf faltbaren Geräten behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Schwarzer Bildschirm nach einer Niederlage im Training behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Belohnungen für Kampfverbrauchsgegenstände fliegen jetzt auf die Play-Taste und nicht mehr auf die Shop-Taste&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass der Juwelenpass-Timer in einigen Bildschirmen nicht angezeigt wurde&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Emote behoben, das anzeigt, dass es auf Stufe 0 freigeschaltet ist&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Andere kleine Verbesserungen&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Aktualisiert euer Spiel auf jeden Fall!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/de/news/2gG8P9MyV23OFnt9wBKjeY"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-04-29T10:23:40+00:00</published>
   </entry>
 </feed>

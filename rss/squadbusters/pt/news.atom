@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-04-29T09:32:57.562062+00:00</updated>
+  <updated>2024-04-29T10:34:09.556163+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -63,5 +63,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-04-26T09:20:40+00:00</published>
+  </entry>
+  <entry>
+    <id>2gG8P9MyV23OFnt9wBKjeY</id>
+    <title>Atualização opcional para iOS e Android!</title>
+    <updated>2024-04-29T10:23:40.681000+00:00</updated>
+    <content>&lt;p&gt; Já está disponível uma atualização opcional com as seguintes alterações!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigido o problema com os replays que não funcionavam&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o problema com os personagens descendo de nível para uma evolução anterior (corrigido no último sábado)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Estamos trabalhando para reverter o rebaixamento dos personagens e trazê-los de volta ao nível de evolução que tinham antes do problema. Aguarde uma correção em breve!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o problema com os convites de grupos que apareciam durante a batalha&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Adicionamos um tempo de espera para convites de grupo e um atraso entre os pop-ups de convites de grupo&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Implementação de uma configuração para desativar as solicitações de convites para participar de grupos&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o problema de aceitação de convites de amigos quando havia mais de um convite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o problema das falhas em dispositivos dobráveis&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o problema da tela preta após ser eliminado no Treinamento&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o problema das recompensas consumíveis da batalha que voam para o botão Jogar em vez do botão Loja&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correção do cronômetro do Gem Pass que não aparecia em algumas telas&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correção de um emote que mostrava que estava desbloqueado no nível 0&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Outras pequenas correções&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Certifique-se de atualizar seu jogo!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/2gG8P9MyV23OFnt9wBKjeY"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Notícias"/>
+    <published>2024-04-29T10:23:40+00:00</published>
   </entry>
 </feed>
