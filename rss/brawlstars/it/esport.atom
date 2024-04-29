@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-04-29T11:33:09.544259+00:00</updated>
+  <updated>2024-04-29T12:47:05.012196+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -41,5 +41,14 @@
     <link href="https://x.com/Brawl_esports/status/1774100708041888196?s=20"/>
     <category term="Esports"/>
     <published>2024-04-01T11:24:51+00:00</published>
+  </entry>
+  <entry>
+    <id>7LnOTqeBpa1fEgQF9ZJYLk</id>
+    <title>Congratulazioni Zeta Division!</title>
+    <updated>2024-04-29T12:15:36.127000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3U6xAd5DhPRW4LS5e3QOkx/e502f1097a571ed3ed89d922890db20b/IT-BSC-MF-Winners-ZETA-DIVISION.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://twitter.com/Brawl_esports/status/1784262449392423058"/>
+    <category term="Esports"/>
+    <published>2024-04-29T12:15:36+00:00</published>
   </entry>
 </feed>
