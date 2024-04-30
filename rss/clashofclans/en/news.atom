@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-04-30T11:33:23.034062+00:00</updated>
+  <updated>2024-04-30T12:46:29.004614+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -210,5 +210,17 @@ Progress updated daily.&lt;/p&gt;&lt;p&gt;Squad up and make sure to tell your fr
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5AmFRlpVtuVK6vnPNe68ht/adfc55ec1f641163f575c39051aa33a2/Clash-Thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Supercell"/>
     <published>2024-04-26T09:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>779l3zb8zqR76lZvK4XBG0</id>
+    <title>Update to our Fair Play Policy and Next Steps</title>
+    <updated>2024-04-30T12:00:05.219000+00:00</updated>
+    <content>&lt;h1&gt;Update to our Fair Play Policy and Next Steps&lt;/h1&gt;
+&lt;p&gt;Hey, Chief! It’s been a while since we last provided an update regarding our Fair Play policy and what we’ve been doing to keep Clash of Clans safe and fair for everyone.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;First, we want to mention that we’re now going to run regular ban waves targeting bot accounts, which are used to gain an unfair advantage in the game. It has become a bigger problem, so we’re increasing our efforts.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;That said, today, we’re permanently banning all accounts identified as bots. Players utilizing third-party software will also be permanently banned.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can read more about our policy in our &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fterms-of-service%252F')"&gt;&lt;u&gt;Terms of Service&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;We’ll provide updates more often moving forward. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;-The Clash of Clans Team&lt;/p&gt;&lt;p&gt;
+
+&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/en/news/779l3zb8zqR76lZvK4XBG0"/>
+    <category term="Misc"/>
+    <published>2024-04-30T12:00:05+00:00</published>
   </entry>
 </feed>

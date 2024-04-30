@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Apr 2024 11:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 12:46:29 +0000</lastBuildDate>
     <item>
       <title>February Events Calendar</title>
       <link>https://twitter.com/ClashofClans/status/1752602623948329345</link>
@@ -188,6 +188,17 @@ Progress updated daily.&lt;/p&gt;&lt;p&gt;Squad up and make sure to tell your fr
       <category>Supercell</category>
       <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5AmFRlpVtuVK6vnPNe68ht/adfc55ec1f641163f575c39051aa33a2/Clash-Thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Fri, 26 Apr 2024 09:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update to our Fair Play Policy and Next Steps</title>
+      <link>https://clashofclans.inbox.supercell.com/#/en/news/779l3zb8zqR76lZvK4XBG0</link>
+      <description>&lt;h1&gt;Update to our Fair Play Policy and Next Steps&lt;/h1&gt;
+&lt;p&gt;Hey, Chief! It’s been a while since we last provided an update regarding our Fair Play policy and what we’ve been doing to keep Clash of Clans safe and fair for everyone.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;First, we want to mention that we’re now going to run regular ban waves targeting bot accounts, which are used to gain an unfair advantage in the game. It has become a bigger problem, so we’re increasing our efforts.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;That said, today, we’re permanently banning all accounts identified as bots. Players utilizing third-party software will also be permanently banned.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can read more about our policy in our &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fterms-of-service%252F')"&gt;&lt;u&gt;Terms of Service&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;We’ll provide updates more often moving forward. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;-The Clash of Clans Team&lt;/p&gt;&lt;p&gt;
+
+&lt;/p&gt;</description>
+      <guid isPermaLink="false">779l3zb8zqR76lZvK4XBG0</guid>
+      <category>Misc</category>
+      <pubDate>Tue, 30 Apr 2024 12:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
