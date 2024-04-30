@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-04-30T05:32:46.378379+00:00</updated>
+  <updated>2024-04-30T07:32:49.184375+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -453,5 +453,14 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5vfSOhiKvQctm5RfG4D24w/f644ca90e30dacd0d328b3a9869eea26/void_video_teaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/shorts/ZzdFKvd_Cwg"/>
     <published>2024-04-29T15:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>7xsEY5u85MpmqnEcTvtRPE</id>
+    <title>限界突破ウィザードのプレイ映像！</title>
+    <updated>2024-04-30T06:32:01.984000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/7xsEY5u85MpmqnEcTvtRPE"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1vNMVYHXDWCQtE9c1CdOas/6bbf33bef7b2884ea81bfcd44cd4d22c/wizevo_gameplay_teaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/I1Vxl4i88XQ?feature=share"/>
+    <published>2024-04-30T06:32:01+00:00</published>
   </entry>
 </feed>

@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T05:32:57.771038+00:00</updated>
+  <updated>2024-04-30T07:32:57.829883+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6IfFYOcwXaYYHXokU2Xe6X</id>
-    <title>Noticias huevásticas!</title>
-    <updated>2024-01-30T20:00:03.456000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/6IfFYOcwXaYYHXokU2Xe6X"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5ookM5C8jeNDrOZL6K8v67/9c9815135380008b2c2e5dd42ce8a6b3/900x506Leaderboard.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/b6ouBqdUea0"/>
-    <category term="Novedades"/>
-    <published>2024-01-30T20:00:03+00:00</published>
-  </entry>
   <entry>
     <id>4SzBxkSTW6n8jage3CkEJr</id>
     <title>¡Cambios en los eventos de Hay Day!</title>

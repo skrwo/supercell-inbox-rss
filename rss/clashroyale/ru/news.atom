@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-04-30T05:32:48.476418+00:00</updated>
+  <updated>2024-04-30T07:32:50.316346+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -437,5 +437,15 @@
     <link href="https://youtube.com/shorts/KC_x23OgfeM?feature=share"/>
     <category term="Лучшие моменты"/>
     <published>2024-04-29T15:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>7xsEY5u85MpmqnEcTvtRPE</id>
+    <title>Тизер игрового процесса эволюции колдуна!</title>
+    <updated>2024-04-30T06:32:01.984000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/7xsEY5u85MpmqnEcTvtRPE"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1vNMVYHXDWCQtE9c1CdOas/6bbf33bef7b2884ea81bfcd44cd4d22c/wizevo_gameplay_teaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/I1Vxl4i88XQ?feature=share"/>
+    <category term="Лучшие моменты"/>
+    <published>2024-04-30T06:32:01+00:00</published>
   </entry>
 </feed>
