@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-eventEntries-ja</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-04-30T04:33:12.513645+00:00</updated>
+  <updated>2024-04-30T05:32:41.240265+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -71,5 +71,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3nLoNEoFgc8fC7SW0osJtw/a710f59038b5b4142bbdb50667e981bb/0426_Godzilla_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/GShb8Ym7Xto?si=rIJT-C0iqlqt8bnC"/>
     <published>2024-04-29T08:02:08+00:00</published>
+  </entry>
+  <entry>
+    <id>6vGFhieFQK0eDb4JATrEaZ</id>
+    <title>🗞️</title>
+    <updated>2024-04-30T05:19:26.913000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="mirrativtmbr.tumblr.com/xN40dORr4W_909"&gt;👉詳しくはこちら👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1R3gb8SuaxRmEkPHZv6eCX/e62c74f03b4c6b6e164dc49c0873c6c9/______CPN__________.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="mirrativtmbr.tumblr.com/xN40dORr4W_909"/>
+    <published>2024-04-30T05:19:26+00:00</published>
   </entry>
 </feed>

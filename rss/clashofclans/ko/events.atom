@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-eventEntries-ko</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-04-30T04:33:18.217738+00:00</updated>
+  <updated>2024-04-30T05:32:52.283606+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -27,26 +27,6 @@
     <published>2023-10-25T07:42:33+00:00</published>
   </entry>
   <entry>
-    <id>5xwGTgqKYg1WXimwHnOKnx</id>
-    <title>🗞️</title>
-    <updated>2024-04-08T11:34:49.236000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/fcOa286zWBA"&gt;👉시청하기!👈&lt;/a&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7rLibMa9AkZS67dhWeIzCF/39ee7c7444a9fe34fe5ba1074d1a12a6/CoC_SC013_Egypt_KO_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/fcOa286zWBA"/>
-    <published>2024-04-01T08:00:11+00:00</published>
-  </entry>
-  <entry>
-    <id>5isTbGikVWnjRKJ3mfzj4S</id>
-    <title>4월 업데이트 영상!</title>
-    <updated>2024-04-18T16:40:16.830000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/q8xfwO2ooiQ"&gt;👉지금 시청하기!👈&lt;/a&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7IVgg9Em2ICaJAjv3RaTqO/8bee783b4b687c09b85936c92d499b73/Screenshot_2024-04-17_at_11.57.15.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/q8xfwO2ooiQ"/>
-    <published>2024-04-15T09:11:46+00:00</published>
-  </entry>
-  <entry>
     <id>11hJXN7WG1gW5wTg136B9R</id>
     <title>🗞️</title>
     <updated>2024-04-26T10:23:01.815000+00:00</updated>
@@ -62,5 +42,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Xi9jNxCFruBxWHXgwVftD/d2603348c397b9e2d3485167907be3f9/Clash-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://squadbusters.com"/>
     <published>2024-04-26T09:07:25+00:00</published>
+  </entry>
+  <entry>
+    <id>5Womi9S7zUeyilzRjvrRF4</id>
+    <title>승리를 부르는 이름, 홀란드! </title>
+    <updated>2024-04-30T05:00:50.333000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/4egLThCHtJQ?si=oxpO5ZTBtM6J6RXJ"&gt;👉지금 시청하기!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Rkw4DwwBuknvglDiO5Xxp/71f471ef9051d50d530b441c94b5534c/carousel_9x16_Haaland.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/4egLThCHtJQ?si=oxpO5ZTBtM6J6RXJ"/>
+    <published>2024-04-30T05:00:50+00:00</published>
   </entry>
 </feed>
