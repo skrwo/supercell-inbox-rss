@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T07:32:55.632237+00:00</updated>
+  <updated>2024-04-30T08:34:22.726839+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -248,5 +248,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-04-28T08:46:50+00:00</published>
+  </entry>
+  <entry>
+    <id>1ucG9pIhzW0Jc4X2heg4Kj</id>
+    <title>뉴스 농장!</title>
+    <updated>2024-04-30T08:04:44.451000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/1ucG9pIhzW0Jc4X2heg4Kj"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4AjEr2Y0cwUYUcddqCiQRw/44ba2004716be578e9c2a9b4993a9e38/HD_April_popup_draft_01.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/IU2TQ3vAt8k"/>
+    <category term="게임 업데이트"/>
+    <published>2024-04-30T08:04:44+00:00</published>
   </entry>
 </feed>
