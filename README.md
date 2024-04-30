@@ -14,8 +14,10 @@
 |Clash of Clans|✅|✅|✅|
 |Hay Day|✅|✅|❌|
 |Boom Beach|✅|✅|❌|
-|Clash Mini|✅|❌|❌|
+|Clash Mini|💀|❌|❌|
 |Squad Busters|✅|❌|❌|
+
+>Note: Clash Mini is dead, so we cannot update the feed
 
 # Available languages
 

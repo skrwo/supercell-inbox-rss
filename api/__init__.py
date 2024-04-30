@@ -98,7 +98,7 @@ INBOXES = [
         },
     ),
     SupercellInbox("boombeach", {"news", "community"}, {"en"}),
-    SupercellInbox("clashmini", {"news"}, {"es", "en"}),
+    # SupercellInbox("clashmini", {"news"}, {"es", "en"}),
     SupercellInbox(
         "squadbusters",
         {"news"},
