@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:23.952561+00:00</updated>
+  <updated>2024-04-30T09:33:31.841276+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,15 @@ Sonntag: Produktionsgebäude-Ereignis (20%iger Schub für drei zufällige Gebäu
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="Updates"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>Info zum Meilenstein der Goldenen Woche</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;Nimm an der Meilenstein-Herausforderung in der Goldenen Woche teil, um den Samurai-Helm zu erhalten!&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Eine neue goldene Gelegenheit! Während sich alle am Lieferwagenereignis der Goldenen Woche erfreuen, wollten wir noch mehr Belohnungen für den Einsatz der Spieler vergeben! Schauen wir uns das genauer an.&lt;/p&gt;&lt;p&gt;Wenn wir alle zusammenarbeiten, um möglichst viele Lieferwagenbestellungen auszuführen, schaltest du nicht nur zusätzliche Währung für die Goldene Woche frei. Sollten wir gemeinsam 350 Millionen Lieferungen schaffen, kannst du außerdem eine exklusive Dekoration als besondere Belohnung freischalten: den prachtvollen Samurai-Helm – und zwar gratis!&lt;/p&gt;&lt;p&gt;Geben wir alle in dieser Woche unser Bestes und arbeiten zusammen, um unser Ziel zu erreichen!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="Neues"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:24.746134+00:00</updated>
+  <updated>2024-04-30T09:33:32.129978+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,15 @@
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="Обновления"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>Рубеж Золотой недели — информация</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;Присоединяйтесь к испытанию рубежа Золотой недели, чтобы получить самурайский шлем!&lt;/h1&gt;
+&lt;p&gt;Привет, фермеры! Не упустите свой шанс! Мы хотим наградить вас за ваше усердие и сделать выполнение заказов для грузовика во время Золотой недели еще приятнее. Заводите грузовик и поехали!&lt;/p&gt;&lt;p&gt;Если игроки объединят усилия и совместно выполнят 350 миллионов заказов на доставку грузовиком, то получат не только дополнительную валюту Золотой недели, но и совершенно бесплатное эксклюзивное украшение — самурайский шлем!&lt;/p&gt;&lt;p&gt;Давайте постараемся на этой неделе, чтобы достичь общей цели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="Новости"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

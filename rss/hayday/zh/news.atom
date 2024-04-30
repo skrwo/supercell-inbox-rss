@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:23.214722+00:00</updated>
+  <updated>2024-04-30T09:33:31.938970+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -248,5 +248,15 @@
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="遊戲更新"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>黃金週里程碑資訊</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;參加黃金週里程碑挑戰，獲取武士兜！&lt;/h1&gt;
+&lt;p&gt;親愛的農場主！新的黃金機會來囉！在大家暢玩黃金週卡車訂單活動的同時，我們希望提供更多獎勵，以感謝大家的付出！讓小卡車開動起來吧！&lt;/p&gt;&lt;p&gt;讓我們一起努力，盡量完成最多的卡車訂單，解鎖額外的黃金週貨幣。如果我們完成的卡車訂單數量達到3.5億，還可以免費解鎖一個華麗的專屬裝飾物：武士兜！&lt;/p&gt;&lt;p&gt;本週一起全力以赴完成目標吧！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/zh/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="最新情報"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

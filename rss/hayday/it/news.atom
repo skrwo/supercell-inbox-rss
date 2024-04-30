@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:24.085666+00:00</updated>
+  <updated>2024-04-30T09:33:32.338684+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,15 @@ Domenica: potenziamento del 20% per 3 edifici produttivi a caso ed evento d&amp;
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="Aggiornamenti di gioco"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>Informazioni sulle soglie dell'evento della Golden Week</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;Partecipa anche tu alla sfida dell'evento della Golden Week per vincere l'elmo da samurai!&lt;/h1&gt;
+&lt;p&gt;Ehilà, si è presentata un&amp;#39;occasione d&amp;#39;oro che non vorrai farti sfuggire! Mentre ti godi l&amp;#39;evento del furgone della Golden Week, vogliamo premiare la tua dedizione e quella della community con ancora più ricompense! Vediamo di cosa si tratta!&lt;/p&gt;&lt;p&gt;Se tu e gli altri contadini lavorate assieme per completare 350 milioni di consegne del furgone, non solo accumulerete altra valuta della Golden Week lungo il cammino, ma riceverete gratuitamente una decorazione speciale ed esclusiva, ovvero l&amp;#39;elmo da samurai!&lt;/p&gt;&lt;p&gt;Questa settimana, rimbocchiamoci tutti quanti le maniche e collaboriamo per raggiungere insieme questo obiettivo!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="Notizie"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

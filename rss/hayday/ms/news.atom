@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:23.522198+00:00</updated>
+  <updated>2024-04-30T09:33:31.428699+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -241,5 +241,15 @@ Ahad: Acara Galakan Bangunan Pengeluaran (3 bangunan rawak, 20% galakan) + Acara
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="Kemas Kini"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>Maklumat Pencapaian Minggu Emas</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;Sertai Cabaran Pencapaian Minggu Emas untuk mendapatkan Ketopong Samurai!&lt;/h1&gt;
+&lt;p&gt;Hei, Peladang! Peluang keemasan baharu! Semasa anda menikmati Acara Trak Minggu Emas, kami ingin memberikan lebih banyak ganjaran untuk semua dedikasi anda! Mari mula bermain trak!&lt;/p&gt;&lt;p&gt;Jika kita bekerjasama untuk menyelesaikan sebanyak mungkin penghantaran trak, bukan sahaja Mata Wang Minggu Emas tambahan akan dibuka, jika kita mencapai 350 juta penghantaran, anda malah boleh membuka hiasan eksklusif sebagai ganjaran istimewa: Ketopong Samurai yang mengagumkan secara percuma!&lt;/p&gt;&lt;p&gt;Mari kita berusaha sebaik mungkin pada minggu ini dan bekerjasama untuk mencapai matlamat ini!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="Berita"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

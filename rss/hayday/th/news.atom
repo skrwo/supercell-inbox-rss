@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-newsEntries-th</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:23.364068+00:00</updated>
+  <updated>2024-04-30T09:33:31.722100+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,15 @@
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="อัปเดตเกม"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>ข้อมูลเป้าหมายโกลเด้นวีค</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;เข้าร่วมความท้าทายเป้าหมายโกลเด้นวีคเพื่อรับหมวกซามูไร!&lt;/h1&gt;
+&lt;p&gt;เฮ้ ชาวไร่! โอกาสทองครั้งใหม่มาถึงแล้ว! ขณะที่คุณกำลังสนุกกับการทำอีเวนท์รถกระบะโกลเด้นวีค เราอยากมอบรางวัลเพิ่มเติมเพื่อตอบแทนความตั้งใจของคุณ! มาเริ่มส่งของกันเลย!&lt;/p&gt;&lt;p&gt;หากเราทุกคนร่วมมือกันทำคำสั่งซื้อทางรถกระบะให้มากที่สุดเท่าที่จะทำได้ นอกจากคุณจะสามารถปลดล็อคหน่วยเงินโกลเด้นวีคพิเศษได้แล้ว ถ้าคุณทำคำสั่งซื้อได้ถึง 350 ล้านครั้ง คุณจะปลดล็อคของตกแต่งพิเศษ “หมวกซามูไร” เป็นรางวัลฟรีๆ อีกด้วย!&lt;/p&gt;&lt;p&gt;มาร่วมแรงกันอย่างเต็มที่ในสัปดาห์นี้และร่วมมือกันไปให้ถึงเป้าหมาย!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/th/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="ข่าว"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

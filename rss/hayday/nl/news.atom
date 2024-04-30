@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:23.880477+00:00</updated>
+  <updated>2024-04-30T09:33:31.073740+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,15 @@ Zondag: productiegebouwenboost (20% boost voor 3 willekeurige gebouwen) + tuinhu
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="Spelupdates"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>Info over mijlpalen voor Gouden week</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;Doe mee met de mijlpaaluitdaging voor de Gouden week om de Samuraihelm te krijgen!&lt;/h1&gt;
+&lt;p&gt;Hoi boeren! Een gouden kans! Terwijl jullie allemaal genieten van het truckevenement voor de Gouden week, wilden we jullie nog meer beloningen geven voor jullie toewijding! Blijf die truckbestellingen maar voltooien!&lt;/p&gt;&lt;p&gt;Als we allemaal samenwerken om zoveel mogelijk truckbestellingen te voltooien, kun je extra valuta voor de Gouden week verdienen. Als het ons lukt om 350 miljoen voltooide bestellingen te bereiken, kun je ook een exclusieve decoratie, de fraaie Samuraihelm, als speciale beloning ontgrendelen, helemaal gratis!&lt;/p&gt;&lt;p&gt;Laten we deze week ons best doen en samenwerken om ons doel te bereiken!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="Nieuws"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:24.618625+00:00</updated>
+  <updated>2024-04-30T09:33:31.543057+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,15 @@ Pazar: Üretim Binası Hızlandırma Etkinliği (rastgele üç bina, %20 hızlan
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="Oyun Güncellemeleri"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>Altın Hafta Eşik Bilgileri</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;Altın Hafta Eşik Mücadelesine katıl, Samuray Miğferini kaçırma!&lt;/h1&gt;
+&lt;p&gt;Merhaba çiftçiler! Yeni altın gibi bir fırsat! Siz Altın Hafta Kamyon Etkinliğinin keyfini çıkarırken çabalarınız karşılığında size daha da fazla ödül vermek istedik! Kamyonları doldurma zamanı!&lt;/p&gt;&lt;p&gt;Hep beraber çalışıp olabildiğince çok kamyon teslimatı yaparak ekstra Altın Hafta parası kazanacağız. Hatta 350 milyon teslimata ulaşırsak özel dekorasyon ödülümüz muhteşem Samuray Miğferini de ücretsiz açabiliriz!&lt;/p&gt;&lt;p&gt;Haydi bu hafta hepimiz elimizden geleni yapalım ve birlikte çalışarak hedefimize ulaşalım!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="Haberler"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

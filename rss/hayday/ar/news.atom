@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:22.882512+00:00</updated>
+  <updated>2024-04-30T09:33:32.232771+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -241,5 +241,15 @@
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="تحديثات اللعبة"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>معلومات حول إنجاز الأسبوع الذهبي</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;شارك في تحدي إنجاز الأسبوع الذهبي للحصول على خوذة الساموراي!&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! فرصة ذهبية جديدة! بمناسبة الأسبوع الذهبي سنمنحكم المزيد من الجوائز في حدث الشاحنة تقديرًا لتفانيكم. لنبدأ تحميل الشاحنات!&lt;/p&gt;&lt;p&gt;إذا تعاوننا في توصيل أكبر عدد ممكن من طلبات الشاحنة، فسيتم فتح عملات إضافية خاصة بالأسبوع الذهبي، وإذا وصّلنا 350 مليون طلب، فستكون هناك جائزة خاصة: فتح زينة خوذة الساموراي الحصرية مجانًا.&lt;/p&gt;&lt;p&gt;لنبذل قصارى جهدنا هذا الأسبوع ونعمل معًا لتحقيق هدفنا.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="أخبار"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

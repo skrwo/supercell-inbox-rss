@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-eventEntries-th</id>
   <title>Hayday - Event</title>
-  <updated>2024-04-30T08:34:23.367592+00:00</updated>
+  <updated>2024-04-30T09:33:31.726078+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -49,5 +49,22 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://squadbusters.com"/>
     <published>2024-04-26T09:01:12+00:00</published>
+  </entry>
+  <entry>
+    <id>5Yx1Gq0DBs3SjpQp5RHRJP</id>
+    <title>เป้าหมายรถกระบะโกลเด้นวีค</title>
+    <updated>2024-04-30T09:07:06.101000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 4.50%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - 700 ล้าน &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3ew2MqiNtpxnUQaEP7kssO/79aecadf562d53ad4ad341f8e58c5d1a/fish400.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 350 ล้าน &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6E4fiFn53fA619pjN5vhQd/bbd4b9c4ac532a5ff3bbb48fca717caf/hhelmet.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 200 ล้าน &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1hFWFvtSOPj0gGC6ehsFIQ/1a255e280e94a055ccc60a155bf1175c/fish300.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 120 ล้าน &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3IpkO4rXSPNEerTrqqVEEt/fb678b5dcf2536d5d7c038e552a52943/fish200.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 50 ล้าน &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6QtEdtGxJ5ct8N6Oe9sEGi/2efe854c7fa5ee1fc32b8229e4f93de8/fish100.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="hayday://OpenDiamondShop"&gt;👉รางวัล👈&lt;/a&gt; -- &lt;a href="https://hayday.inbox.supercell.com/#/th/news/6F7LTwjuc6Tiky87FiRpap"&gt;👉ข้อมูล👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6RSIgnbCcIXLOoHIkc53T1/d162f4be7293e50ff49d48f297b3fcd6/inbox6.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <published>2024-04-30T08:42:16+00:00</published>
   </entry>
 </feed>

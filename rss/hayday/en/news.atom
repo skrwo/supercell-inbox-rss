@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:23.786301+00:00</updated>
+  <updated>2024-04-30T09:33:31.169164+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -316,5 +316,15 @@ Sunday: Production Building Boost Event (3 Random Buildings, 20% Boost) + Garden
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="Game Updates"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>Golden Week Milestone Info</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;Join the Golden Week Milestone Challenge to get the Samurai Helmet!&lt;/h1&gt;
+&lt;p&gt;Hey Farmers! A new golden opportunity! While you all enjoy the Golden Week Truck Event, we wanted to give you even more rewards for all your dedication! Let&amp;#39;s start truckin&amp;#39;! &lt;/p&gt;&lt;p&gt;If we all work together to serve as many truck deliveries as possible, not only will you unlock additional Golden Week Currency, but if we achieve 350 million deliveries, as a special reward, you can unlock an exclusive decoration: the magnificent Samurai Helmet, for free! &lt;/p&gt;&lt;p&gt;Keep an eye on your inbox to track our progress towards this milestone, and when it&amp;#39;s time to collect your rewards, head over to the shop. You&amp;#39;ll find them waiting as free items, just a scroll past all the other offers.&lt;/p&gt;&lt;p&gt;Let&amp;#39;s all do our best this week and work together to achieve our goal!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="News"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

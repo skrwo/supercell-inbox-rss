@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:24.402236+00:00</updated>
+  <updated>2024-04-30T09:33:31.266263+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -275,5 +275,15 @@
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="アップデート"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>ゴールデンウィーク目標の情報</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;ゴールデンウィーク目標&lt;/h1&gt;
+&lt;p&gt;農場主の皆さん、こんにちは！今回はゴールデンウィークのトラックのお仕事イベントに加えて、皆さまの日頃のご愛顧に対する感謝の印として、さらなる報酬を用意しました。イベントをさらに楽しんでいただけるはずです！&lt;/p&gt;&lt;p&gt;他の農場主と力を合わせてトラックのお仕事をたくさん完了すれば、ゴールデンウィークの特別通貨が追加で手に入ります。さらに完了した注文がコミュニティ全体で「3億5000万」件に到達すると、美しい限定デコレーション「武士の兜」が特別報酬として無料でアンロックされます！&lt;/p&gt;&lt;p&gt;今週はトラックのお仕事に精を出し、みんなで一緒に目標達成を目指しましょう！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="ニュース"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>

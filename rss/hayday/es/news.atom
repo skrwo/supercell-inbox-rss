@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-04-30T08:34:24.521964+00:00</updated>
+  <updated>2024-04-30T09:33:31.366352+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,15 @@ Domingo: Edificios de producción potenciados (3 edificios aleatorios un 20 % m�
     <link href="https://youtu.be/IU2TQ3vAt8k"/>
     <category term="Novedades"/>
     <published>2024-04-30T08:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6F7LTwjuc6Tiky87FiRpap</id>
+    <title>Desafío: el objetivo de la Semana dorada</title>
+    <updated>2024-04-30T08:42:03.180000+00:00</updated>
+    <content>&lt;h1&gt;¡Participa en el desafío del objetivo de la Semana dorada para conseguir el casco de samurái!&lt;/h1&gt;
+&lt;p&gt;¡Buenas! ¡Una oportunidad de oro! Mientras disfrutas del evento de la camioneta de la semana dorada, ¡queremos recompensar tu dedicación con aún más recompensas! ¡Veamos de qué se trata!&lt;/p&gt;&lt;p&gt;Si trabajamos todos juntos para completar 350 millones de pedidos de la camioneta, no solo conseguiremos moneda de la Semana dorada adicional, sino que también obtendrás de forma gratuita un adorno exclusivo, el increíble casco de samurái.&lt;/p&gt;&lt;p&gt;¡Trabajemos juntos y esforcémonos al máximo para conseguir el objetivo!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/6F7LTwjuc6Tiky87FiRpap"/>
+    <category term="Noticias"/>
+    <published>2024-04-30T08:41:30+00:00</published>
   </entry>
 </feed>
