@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-01T08:37:59.636501+00:00</updated>
+  <updated>2024-05-01T09:33:50.058646+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -469,5 +469,33 @@
     <link href="https://youtu.be/4qFTxwArAU0"/>
     <category term="最新情報"/>
     <published>2024-05-01T08:02:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3Uy8GSemen3VKz55vE0zOj</id>
+    <title>哈蘭德挑戰通關攻略</title>
+    <updated>2024-05-01T08:42:22.076000+00:00</updated>
+    <content>&lt;p&gt;&#13;首領們，大家好！&#13;
+&#13;
+本月推出哈蘭德挑戰，一共12個足球主題的關卡！&#13;
+&lt;b&gt;通關獎勵&lt;/b&gt;有大家喜愛的&lt;b&gt;礦石&lt;/b&gt;等實用好康！&#13;
+另外，&lt;b&gt;1、4、6、8、10、12關&lt;/b&gt;還有&lt;b&gt;特別排行榜&lt;/b&gt;！&#13;
+在各排行榜取得第一，還能獲得&lt;b&gt;50,000寶石&lt;/b&gt;！&#13;
+&#13;
+想知道這些關卡如何突破，創作者們錄製了三星解法！&#13;
+現在一起來看看吧！&#13;
+當然，創作者的解法不一定會是最省時或最省兵的打法，&#13;
+主要是提供大家進攻思路！&#13;
+&#13;
+各關卡推出後，本篇文章都會更新攻略唷，請記得回來看看！
+&#13;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;第1關卡：復仇時間&lt;/b&gt;&lt;/p&gt;
+&lt;h1&gt;烏龜&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=EBOaT2NAc4o"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;金雄&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=ij3Bzu3nQEw"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3Uy8GSemen3VKz55vE0zOj"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/01rhSAdIsi5s3ZN45FaFrU/74ec24370c6ce3f30a91e5d4140461dd/tw_20240501_challenge_creators_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-05-01T08:42:22+00:00</published>
   </entry>
 </feed>
