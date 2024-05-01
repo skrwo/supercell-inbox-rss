@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-01T14:33:15.114637+00:00</updated>
+  <updated>2024-05-01T15:33:14.112872+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -455,5 +455,15 @@ A: 현재 럭키 드롭 보상은 인벤토리 보유 한도와 무관하게 지
     <link href="https://youtube.com/shorts/A9Z-_b3Rkxs?si=aSwYSvRNXjpnow_1"/>
     <category term="하이라이트"/>
     <published>2024-04-30T06:32:01+00:00</published>
+  </entry>
+  <entry>
+    <id>1YTu7rcuOdVTQKU25z0Gvq</id>
+    <title>공허가 해방되었습니다!</title>
+    <updated>2024-05-01T15:05:16.101000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/1YTu7rcuOdVTQKU25z0Gvq"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jgdnsCCtOAARZZ4hLOIrA/5554d949261be172a06ad781a9f89d31/void_animation_.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/@ClashRoyale/videos"/>
+    <category term="하이라이트"/>
+    <published>2024-05-01T15:05:02+00:00</published>
   </entry>
 </feed>
