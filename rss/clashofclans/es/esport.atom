@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-05-01T10:37:00.066573+00:00</updated>
+  <updated>2024-05-01T11:33:49.767584+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -60,15 +60,6 @@ Sigue a Rush of Clans en &lt;a href="javascript:window.sendCommand('OpenWeb?url=
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/B8ry5VAXksTWmX0HpLcTg0vUiUWbZju7BvPsucpNHKU/9576f9d7660314fd48a5d7665387ee97/1670582992_1671455666.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eSports"/>
     <published>2023-01-17T11:02:00+00:00</published>
-  </entry>
-  <entry>
-    <id>5wSUJtzf0E7KSBDygHH2c0</id>
-    <title>¡Mira de nuevo la semana 4 del Challenge de la SPS Norteamérica!</title>
-    <updated>2024-02-01T11:12:20.575000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2BssXJAxd7kqXMpM5RG4Ug/46d3c0cc8d3376843a57d95bc2a937c4/ES_week3_SpS_NARewatch.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/JMpljlGALr8?si=_AXtWiqigP_OFsRc&amp;t=1835"/>
-    <category term="eSports"/>
-    <published>2024-02-01T11:12:20+00:00</published>
   </entry>
   <entry>
     <id>5bYfclnbQd0vdf4mjb5RPN</id>
