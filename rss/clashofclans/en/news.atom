@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-01T03:33:06.278965+00:00</updated>
+  <updated>2024-05-01T04:34:32.384837+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>5l2TgoiqQPlDAuyNAyWZrl</id>
-    <title>February Events Calendar</title>
-    <updated>2024-02-01T05:59:14.434000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/en/news/5l2TgoiqQPlDAuyNAyWZrl"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5JnrFXGkB5SbsFzFJscmJI/a1ba3381fc57c69c5359eb6bd960034d/GFGTyzxXcAATp6O.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/ClashofClans/status/1752602623948329345"/>
-    <category term="News"/>
-    <published>2024-01-31T17:22:59+00:00</published>
-  </entry>
   <entry>
     <id>71OAximM00cH65YRvvZXme</id>
     <title>The Dragon Festival is Here!</title>
@@ -214,7 +204,7 @@ Progress updated daily.&lt;/p&gt;&lt;p&gt;Squad up and make sure to tell your fr
   <entry>
     <id>779l3zb8zqR76lZvK4XBG0</id>
     <title>Update to our Fair Play Policy and Next Steps</title>
-    <updated>2024-04-30T12:00:05.219000+00:00</updated>
+    <updated>2024-05-01T04:30:36.127000+00:00</updated>
     <content>&lt;h1&gt;Update to our Fair Play Policy and Next Steps&lt;/h1&gt;
 &lt;p&gt;Hey, Chief! It’s been a while since we last provided an update regarding our Fair Play policy and what we’ve been doing to keep Clash of Clans safe and fair for everyone.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;First, we want to mention that we’re now going to run regular ban waves targeting bot accounts, which are used to gain an unfair advantage in the game. It has become a bigger problem, so we’re increasing our efforts.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;That said, we’re permanently banning all accounts identified as bots. Players utilizing third-party software will also be permanently banned.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can read more about our policy in our &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fterms-of-service%252F')"&gt;&lt;u&gt;Terms of Service&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;We’ll provide updates more often moving forward. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;-The Clash of Clans Team&lt;/p&gt;&lt;p&gt;
 

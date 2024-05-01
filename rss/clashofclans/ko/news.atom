@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-01T03:33:06.561352+00:00</updated>
+  <updated>2024-05-01T04:34:33.294135+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -22,16 +22,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4XanwHug2IvJQio2XMDsxa/55c7c4fcdf7ac2666b5d0605e2c648d9/1023_SUP3533_ClashonPC_October_2023__1920x1080_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2023-10-24T15:42:26+00:00</published>
-  </entry>
-  <entry>
-    <id>5l2TgoiqQPlDAuyNAyWZrl</id>
-    <title>2월 이벤트 캘린더</title>
-    <updated>2024-02-01T05:59:14.434000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/5l2TgoiqQPlDAuyNAyWZrl"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3XWejAKxGtw9aEKkRwYozp/7b9a876e1a8d7f554b8e82f6451cceca/0131_COC_2___-_________1080x1080___1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/post/UgkxmircE4XfnZCq-fdCvU-uOdIkqmcGAfcE"/>
-    <category term="뉴스"/>
-    <published>2024-01-31T17:22:59+00:00</published>
   </entry>
   <entry>
     <id>71OAximM00cH65YRvvZXme</id>
