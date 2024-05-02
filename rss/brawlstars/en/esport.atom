@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-02T16:36:06.388605+00:00</updated>
+  <updated>2024-05-02T17:32:59.559184+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -149,5 +149,14 @@
     <link href="https://youtu.be/71RVV-IDiFg"/>
     <category term="Esports"/>
     <published>2024-04-21T14:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5t4iUP9KhemOWA7xaTKnWv</id>
+    <title>TOP 10 BEST Brawl Esports Moments with Symantec</title>
+    <updated>2024-05-02T17:20:56.513000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/20K3URz3uC0aRzvJVKuUXt/2e446fa4a25e3a25772a896484e2d08b/WHBsjzc_f_g-HD.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WHBsjzc_f_g?feature=shared"/>
+    <category term="Esports"/>
+    <published>2024-05-02T17:20:56+00:00</published>
   </entry>
 </feed>
