@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-02T02:37:00.434257+00:00</updated>
+  <updated>2024-05-02T03:32:57.305964+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -25,16 +25,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2023-12-01T18:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>2KX9CWczMMFGSHatTRWVNB</id>
-    <title>Анонс эволюции стенобоев и подрывника 💥</title>
-    <updated>2024-02-05T08:08:44.614000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/2KX9CWczMMFGSHatTRWVNB"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2tqkOqOKFQgs11v4P7LYNT/d172a8e6eb24761a8042304b2738b7e3/EvolutionINbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/xEa9UfDiIS8?feature=share"/>
-    <category term="Информация о версии"/>
-    <published>2024-02-01T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>5ooha163CQORSMTFWPXM0e</id>

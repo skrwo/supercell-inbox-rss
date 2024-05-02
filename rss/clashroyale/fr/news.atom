@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-02T02:36:59.721424+00:00</updated>
+  <updated>2024-05-02T03:32:58.784065+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>2KX9CWczMMFGSHatTRWVNB</id>
-    <title>Aperçu des sapeurs et du bombardier évolués 💥</title>
-    <updated>2024-02-05T08:08:44.614000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/2KX9CWczMMFGSHatTRWVNB"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2tqkOqOKFQgs11v4P7LYNT/d172a8e6eb24761a8042304b2738b7e3/EvolutionINbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/xEa9UfDiIS8?feature=share"/>
-    <category term="Notes de patch"/>
-    <published>2024-02-01T22:00:00+00:00</published>
-  </entry>
   <entry>
     <id>5ooha163CQORSMTFWPXM0e</id>
     <title>Nouvel emplacement d'évolution à partir de la tour du roi niveau 15</title>
