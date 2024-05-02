@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-02T09:33:50.968402+00:00</updated>
+  <updated>2024-05-02T10:33:57.047037+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -302,5 +302,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2bInSbmuro9p3wWwKFluNF/9f4bdd46524fc7d45e9d5292c90e84d7/Brawl_thumbnail_china.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-04-26T09:07:55+00:00</published>
+  </entry>
+  <entry>
+    <id>5NCqRyo6NjFu1WGpWTgwmJ</id>
+    <title>哥吉拉襲擊《荒野亂鬥》！</title>
+    <updated>2024-05-02T10:31:08.093000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/5NCqRyo6NjFu1WGpWTgwmJ"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/15BUfkueB93VywZQBu8wdS/5829e8142d95b13e1f3664e64f0f2e4f/0501_Godzilla_BP_start_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/2ya8Oww8xWo"/>
+    <category term="動畫"/>
+    <published>2024-05-02T10:26:24+00:00</published>
   </entry>
 </feed>

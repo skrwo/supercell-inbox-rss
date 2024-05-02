@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 May 2024 09:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 10:33:58 +0000</lastBuildDate>
     <item>
       <title>스타 만화 스튜디오 패치 노트</title>
       <link>https://brawlstars.inbox.supercell.com/#/ko/news/TmslXMBg5xzZC3GofMlSR</link>
@@ -297,6 +297,14 @@
       <category>동영상</category>
       <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6vXiQOvwisWGYjjlGddiJO/c19dbb739dd3d91e02046dcdb77507b9/01_TVC_________1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Wed, 01 May 2024 10:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>고질라가 브롤스타즈에 출격!</title>
+      <link>https://youtu.be/devzvQFzGsQ</link>
+      <guid isPermaLink="false">5NCqRyo6NjFu1WGpWTgwmJ</guid>
+      <category>동영상</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/15BUfkueB93VywZQBu8wdS/5829e8142d95b13e1f3664e64f0f2e4f/0501_Godzilla_BP_start_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Thu, 02 May 2024 10:26:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

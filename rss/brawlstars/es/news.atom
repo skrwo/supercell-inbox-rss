@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-newsEntries-es</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-02T09:33:51.953254+00:00</updated>
+  <updated>2024-05-02T10:33:57.946137+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -261,5 +261,15 @@ Nuevo brawler: &lt;b&gt;Angelo&lt;/b&gt; (calidad épica)&lt;/h3&gt;&lt;p&gt;Tip
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Novedades"/>
     <published>2024-04-26T09:07:55+00:00</published>
+  </entry>
+  <entry>
+    <id>5NCqRyo6NjFu1WGpWTgwmJ</id>
+    <title>¡Godzilla ataca Brawl Stars!</title>
+    <updated>2024-05-02T10:31:08.093000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/es/news/5NCqRyo6NjFu1WGpWTgwmJ"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/15BUfkueB93VywZQBu8wdS/5829e8142d95b13e1f3664e64f0f2e4f/0501_Godzilla_BP_start_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/2ya8Oww8xWo"/>
+    <category term="Video"/>
+    <published>2024-05-02T10:26:24+00:00</published>
   </entry>
 </feed>
