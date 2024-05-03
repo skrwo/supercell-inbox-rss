@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-03T07:33:29.960705+00:00</updated>
+  <updated>2024-05-03T08:33:48.344186+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -324,5 +324,15 @@
     <link href="https://youtu.be/UEPvM0Qy0Sk"/>
     <category term="뉴스"/>
     <published>2024-05-01T08:02:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1J0ouYjIvn8VPh5uSpK82U</id>
+    <title>🎁 홀란드 대장의 역대급 이벤트!</title>
+    <updated>2024-05-03T07:58:34.224000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/1J0ouYjIvn8VPh5uSpK82U"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2hsOmGMUmmUzAbFv84IxLx/a8add0e72c3e72da86af5de4f07b6564/4W_0430_5_____________3.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://kko.to/AmOhT2X0nf"/>
+    <category term="커뮤니티"/>
+    <published>2024-05-04T14:59:00+00:00</published>
   </entry>
 </feed>
