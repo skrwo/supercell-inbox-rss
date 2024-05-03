@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-03T01:36:44.580368+00:00</updated>
+  <updated>2024-05-03T02:39:07.618499+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,20 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>5ooha163CQORSMTFWPXM0e</id>
-    <title>キングタワーレベル15で2つ目の限界突破スロットがアンロック</title>
-    <updated>2024-02-05T05:49:41.119000+00:00</updated>
-    <content>&lt;p&gt;2月シーズンより、キングタワー・レベル15の全プレイヤーが2つ目の限界突破スロットを利用できるようになる。&lt;/p&gt;
-&lt;h1&gt;限界突破スロットを追加する理由&lt;/h1&gt;
-&lt;p&gt;社内でのプレイテストや12月開催のロイヤル大会で開発チーム全員が実感したのは、「2枚の限界突破カードでのプレイは最高に楽しい！」ということでした。&lt;/p&gt;&lt;p&gt;ゲームの流れを変えるポテンシャルを秘めた強力ユニットが2体あれば、バトルがさらに盛り上がるはずです！&lt;/p&gt;
-&lt;h1&gt;限界突破カードを2枚以上アンロックしていない場合は？&lt;/h1&gt;
-&lt;p&gt;2枚の限界突破カードを用いたバトルに対しては、ポジティブなフィードバックが多いものの、ゲームの公平性を心配する声が存在するのも事実です。&lt;/p&gt;&lt;p&gt;そのため、2つ目のスロットはキングレベル54に到達し、タワーレベル15をアンロックしたプレイヤーのみが利用できるようにします。&lt;/p&gt;&lt;p&gt;このレベル帯では66％以上のプレイヤーが限界突破カードを2枚所持しています。さらに、限界突破カードの無料プレゼントイベント「運命の赤い糸」の効果で、その所持率は90％以上まで跳ね上がるでしょう。&lt;/p&gt;&lt;p&gt;レベル14のプレイヤーがレベル15の相手と対戦するバトルの割合は全体の22％です。つまり、限界突破カード1枚のみで2枚入りのデッキと対峙する割合も、同程度になるということです。&lt;/p&gt;&lt;p&gt;本機能の実装後はバトルへの影響を注視し、必要に応じてバランス調整を行っていきます。&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/5ooha163CQORSMTFWPXM0e"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4ESlyvH9Kqsh5f2YBdWRN5/1593e60a031f937aefd3adf4cbf61024/2evoframes_thumb.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="ニュース"/>
-    <published>2024-02-03T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>7BBw61rq6J04dLbkDgwBLy</id>
