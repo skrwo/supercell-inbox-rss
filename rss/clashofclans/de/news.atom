@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-04T06:33:33.963648+00:00</updated>
+  <updated>2024-05-04T07:32:55.509154+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -159,6 +159,16 @@ Fähigkeiten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Verlangsamt Ziele&lt;/p&gt;&
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5AmFRlpVtuVK6vnPNe68ht/adfc55ec1f641163f575c39051aa33a2/Clash-Thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Supercell"/>
     <published>2024-04-26T09:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>779l3zb8zqR76lZvK4XBG0</id>
+    <title>News bezüglich unserer Richtlinie für sicheres und faires Spiel &amp; nächste Schritte</title>
+    <updated>2024-05-04T07:04:50.610000+00:00</updated>
+    <content>&lt;h1&gt;News bezüglich unserer Richtlinie für sicheres und faires Spiel &amp; nächste Schritte&lt;/h1&gt;
+&lt;p&gt;Hallo Häuptling! Es ist eine Weile her, dass wir über unsere Richtlinie für sicheres und faires Spiel gesprochen und berichtet haben, was wir unternehmen, um Clash of Clans zu einem sicheren und fairen Ort für alle zu machen.&lt;/p&gt;&lt;p&gt;Zuerst möchten wir dich darüber informieren, dass wir ab sofort regelmäßige Wellen an Sperrungen von Bot-Konten durchführen, mit denen unfaire Vorteile im Spiel erlangt werden. Dies ist zu einem größeren Problem geworden, weshalb wir härter dagegen durchgreifen.&lt;/p&gt;&lt;p&gt;Heute sperren wir dauerhaft alle Konten, die als Bots identifiziert wurden. Spieler, die Drittanbieter-Software verwenden, werden ebenfalls dauerhaft gesperrt.&lt;/p&gt;&lt;p&gt;Mehr über unsere Richtlinie erfährst du in unseren &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fterms-of-service%252Fde')"&gt;Nutzungsbedingungen&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;In Zukunft werden wir derartige Meldungen häufiger veröffentlichen.&lt;/p&gt;&lt;p&gt;Dein Clash of Clans-Team&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/de/news/779l3zb8zqR76lZvK4XBG0"/>
+    <category term="Sonstiges"/>
+    <published>2024-04-30T12:00:05+00:00</published>
   </entry>
   <entry>
     <id>4rYpiFnMgn3IIHpBWkCI4s</id>
