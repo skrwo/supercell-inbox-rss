@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-05-05T07:33:56.784045+00:00</updated>
+  <updated>2024-05-05T08:34:00.347736+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,16 @@
     <link href="https://hayday.inbox.supercell.com/#/zh/news/6F7LTwjuc6Tiky87FiRpap"/>
     <category term="最新情報"/>
     <published>2024-04-30T08:41:30+00:00</published>
+  </entry>
+  <entry>
+    <id>5SnsGGfJtjnuO17tqdyaLq</id>
+    <title>《卡通農場》第19週活動安排！</title>
+    <updated>2024-05-05T08:01:27.472000+00:00</updated>
+    <content>&lt;h1&gt;《卡通農場》第19週活動安排！&lt;/h1&gt;
+&lt;p&gt;親愛的農場主！這個春天大家過得好嗎？一起來看看新的一週有什麼精彩活動吧！所有活動都將於台北/香港時間16:00開始。如需了解每個活動的詳細資訊，請點擊遊戲內的活動公告板查看。&lt;/p&gt;&lt;p&gt;週一：幸運大轉盤活動（擴建物品）&lt;/p&gt;&lt;p&gt;週二：航運訂單活動（雙倍金幣）&lt;/p&gt;&lt;p&gt;週三：卡車訂單活動（額外禮券）&lt;/p&gt;&lt;p&gt;週四：小鎮遊客活動（擴建物品）&lt;/p&gt;&lt;p&gt;週五：釣魚區加速活動（龍蝦池和魚餌機的製作速度加快30%） + 農場歡樂季雙倍積分活動&lt;/p&gt;&lt;p&gt;週六：農場訪客雙倍金幣活動 + 卡車訂單雙倍經驗值活動&lt;/p&gt;&lt;p&gt;週日：生產設施活動（隨機3種設施的生產速度加快20%）+ 航運訂單活動（額外拼圖）&lt;/p&gt;&lt;p&gt;祝您度過愉快的一週！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/zh/news/5SnsGGfJtjnuO17tqdyaLq"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-05-05T08:00:03+00:00</published>
   </entry>
 </feed>
