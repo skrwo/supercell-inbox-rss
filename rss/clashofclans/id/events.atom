@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-eventEntries-id</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-05-06T11:33:41.698327+00:00</updated>
+  <updated>2024-05-06T12:47:45.360948+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -32,5 +32,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Rkw4DwwBuknvglDiO5Xxp/71f471ef9051d50d530b441c94b5534c/carousel_9x16_Haaland.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/aClKEVh7Km4"/>
     <published>2024-04-30T05:00:50+00:00</published>
+  </entry>
+  <entry>
+    <id>SGcJw0R6e1V1SMgWAckD5</id>
+    <title>Clash On!</title>
+    <updated>2024-05-06T12:40:25.133000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/Tq9GGscGL10"&gt;👉TONTON!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6UZ89bapuCe0L9FMSHj3n5/de38a70ca3bbb9d668b8aec53b5e3886/ThumbCarrousel.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Tq9GGscGL10"/>
+    <published>2024-05-06T12:05:02+00:00</published>
   </entry>
 </feed>
