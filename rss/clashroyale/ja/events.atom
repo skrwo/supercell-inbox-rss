@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-eventEntries-ja</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-05-06T08:34:09.562156+00:00</updated>
+  <updated>2024-05-06T09:32:59.686580+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -26,15 +26,6 @@
     <published>2023-12-01T08:26:30+00:00</published>
   </entry>
   <entry>
-    <id>57UzVLn1XwoNaNiUarJ1Ez</id>
-    <title>4月シーズン</title>
-    <updated>2024-04-04T14:43:48.946000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/ja/news/tn8Mh6cozcaC6rHY4wA96"&gt;👉読む👈&lt;/a&gt; -- &lt;a href="https://www.youtube.com/shorts/UfzZyh1gdiE"&gt;👉視聴👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1RWBOBo6CkqQETv8KqTxi0/d62704f8f75d020a3c31582a8cfb555c/CR_S58_Season_Carousel_Image_001.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <published>2024-04-01T09:04:23+00:00</published>
-  </entry>
-  <entry>
     <id>67vMsuhYiLJDDtlRaI3bWh</id>
     <title>🗞️</title>
     <updated>2024-04-28T06:45:13.300000+00:00</updated>
@@ -50,5 +41,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://squadbusters.com"/>
     <published>2024-04-26T09:03:59+00:00</published>
+  </entry>
+  <entry>
+    <id>3YwqrSnOlmZY4Z4lguIibl</id>
+    <title>5月シーズン</title>
+    <updated>2024-05-06T09:00:31.243000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/ja/news/2Vd5pMIios9xUcHXAytsWF"&gt;👉読む👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/67jyUpwT83ECTBYlDLGaM5/d319ebe0abf0418d805bc9813feae2f6/CR_S59_Season_Carousel_Image.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/2Vd5pMIios9xUcHXAytsWF"/>
+    <published>2024-05-06T09:00:03+00:00</published>
   </entry>
 </feed>
