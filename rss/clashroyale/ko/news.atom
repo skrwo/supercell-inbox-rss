@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-07T08:33:55.093079+00:00</updated>
+  <updated>2024-05-07T09:32:47.076995+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -433,7 +433,7 @@ A: 현재 럭키 드롭 보상은 인벤토리 보유 한도와 무관하게 지
   <entry>
     <id>2ikC5jHcoD2RU9oEavpmNH</id>
     <title>5월 밸런스 조정!</title>
-    <updated>2024-05-07T08:10:33.700000+00:00</updated>
+    <updated>2024-05-07T09:31:04.919000+00:00</updated>
     <content>&lt;p&gt;5월 밸런스 조정에서는 주로 카드 진화를 다룰 것입니다. 현재 진화는 일반적으로 매우 강력하여, 게임 내에서 가능한 한 많은 진화 카드를 배치하도록 유도하는 경향이 있습니다. 결과적으로 진화 카드가 전투의 승패를 결정하는 경우가 너무 잦습니다. 진화 카드는 비진화 카드보다 매치당 배치율이 훨씬 높으며, 상대적으로 더 큰 피해를 입힙니다.&lt;/p&gt;&lt;p&gt;이번 밸런스 변경의 목표는 카드 진화의 위력을 능력치가 아닌 그 고유한 특성에 집중시키는 것입니다. 이를 통해 카드 진화의 특별한 기능을 좀 더 전략적으로 사용할 수 있도록 장려하고자 합니다.&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;아처 진화&lt;/h1&gt;
 
