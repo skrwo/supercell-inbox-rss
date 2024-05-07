@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-07T02:43:40.172431+00:00</updated>
+  <updated>2024-05-07T03:32:43.543365+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -336,15 +336,5 @@
     <link href="https://youtu.be/devzvQFzGsQ"/>
     <category term="동영상"/>
     <published>2024-05-02T10:26:24+00:00</published>
-  </entry>
-  <entry>
-    <id>16K8rNVshaZVop08WyAur1</id>
-    <title>쇼다운 인 스타필드 : 어린이날 연휴 기간 운영 안내</title>
-    <updated>2024-05-03T03:16:29.405000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/16K8rNVshaZVop08WyAur1"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/b45pCV8XjSCDlSMglDt1j/1abc87967e6628a04c242b5be80d876a/0502_PR_BSxSSG______community_800x433______1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/post/Ugkx55eDZfMIQ75rZOuzmRQHrP7xPdFZciDm"/>
-    <category term="뉴스"/>
-    <published>2024-05-03T03:16:29+00:00</published>
   </entry>
 </feed>
