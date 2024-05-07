@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-06T23:33:35.594814+00:00</updated>
+  <updated>2024-05-07T01:35:10.326326+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -39,5 +39,14 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="eスポーツ"/>
     <published>2024-04-22T11:33:06+00:00</published>
+  </entry>
+  <entry>
+    <id>j4HDnRqnvWsZC0CzMeGDw</id>
+    <title>アジア太平洋地域4月マンスリー決勝戦</title>
+    <updated>2024-05-07T00:05:51.359000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YTvydM8NVLfwlhxTafWz9/07f5fc30436f431f7fc97561248c550d/MF04-jp.jpeg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=D2V6rHqbWjk"/>
+    <category term="eスポーツ"/>
+    <published>2024-05-07T00:05:51+00:00</published>
   </entry>
 </feed>
