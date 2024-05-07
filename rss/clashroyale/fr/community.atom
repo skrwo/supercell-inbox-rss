@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-communityEntries-fr</id>
   <title>Clashroyale - Community</title>
-  <updated>2024-05-07T11:32:50.402625+00:00</updated>
+  <updated>2024-05-07T12:46:42.160717+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Community</subtitle>
   <entry>
     <id>3zJPJyDBC9VxJLKpuTivQB</id>
     <title>DECK's incroyable avec 0 évolution !</title>
-    <updated>2024-05-07T11:32:50.402862+00:00</updated>
+    <updated>2024-05-07T12:46:42.160937+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>2cg8ny1MqU8GUVTeFmLinA</id>
     <title>TOP 5 des MEILLEURS DECKS de la SAISON !</title>
-    <updated>2024-05-07T11:32:50.402827+00:00</updated>
+    <updated>2024-05-07T12:46:42.160911+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>11MeOhLwbqTrvFhBvSDHmY</id>
     <title>Comment avoir une Troupe de Tour gratuitement ?</title>
-    <updated>2024-05-07T11:32:50.402798+00:00</updated>
+    <updated>2024-05-07T12:46:42.160884+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -42,7 +42,7 @@
   <entry>
     <id>4ETTtHDfnpP1XFIsT9Fjoo</id>
     <title>Gameplays exclusif de la prochaine Troupe de tour !</title>
-    <updated>2024-05-07T11:32:50.402748+00:00</updated>
+    <updated>2024-05-07T12:46:42.160856+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -53,7 +53,7 @@
   <entry>
     <id>7abeBkcTqyWYsdp7mpSwSj</id>
     <title>GAME ÉPIQUE VS ian77 pour le TOP 1 FR !🏆🇫🇷</title>
-    <updated>2024-05-07T11:32:50.402712+00:00</updated>
+    <updated>2024-05-07T12:46:42.160827+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -64,12 +64,23 @@
   <entry>
     <id>2pMrN1iHfP6We3Oxtos6q</id>
     <title>Gameplays évolution du Sorcier !</title>
-    <updated>2024-05-07T11:32:50.402658+00:00</updated>
+    <updated>2024-05-07T12:46:42.160792+00:00</updated>
     <author>
       <name>Mateo26</name>
     </author>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/63EtVw6PhJ0gu2YLZMeLhw/38d17d3b80908dfffaa7b1e57e1bdd59/guest-content-video-84-bba108ab-eba3-468d-89c6-bced0acbd6bb-etbe.png-1714490302535?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/O5F5sXrVOmw?si=VlcQxg0D8OXsiXy6"/>
     <published>2024-04-30T15:18:30+00:00</published>
+  </entry>
+  <entry>
+    <id>4eHjrvXfo49ZjgnYHmRtIy</id>
+    <title>CHAOS MAGIQUE - SAISON 59 | MAI 2024</title>
+    <updated>2024-05-07T12:46:42.160742+00:00</updated>
+    <author>
+      <name>Mateo26</name>
+    </author>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2jSb8GgXOrfx2DeoPJQCB1/9759224b0428dd81a802c159a29fc223/guest-content-video-84-bba108ab-eba3-468d-89c6-bced0acbd6bb-0wsb.png-1715084999293?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/wPx-3tSg8jQ"/>
+    <published>2024-05-07T12:30:05+00:00</published>
   </entry>
 </feed>
