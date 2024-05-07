@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-07T07:32:51.490415+00:00</updated>
+  <updated>2024-05-07T08:33:54.277120+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -434,5 +434,149 @@ de 25 a 29 de maio&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/z6PgsiTYKyMKgdUIwz0M1/0b6f21bbbc7c81536a7e6bab59bda1a1/CR_S59_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de lançamento"/>
     <published>2024-05-06T02:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2ikC5jHcoD2RU9oEavpmNH</id>
+    <title>Balanceamento de maio</title>
+    <updated>2024-05-07T08:10:33.700000+00:00</updated>
+    <content>&lt;p&gt;Vamos falar principalmente das evoluções de cartas no balanceamento de maio. Atualmente, as evoluções são muito poderosas, fazendo com que os jogadores mobilizem frequentemente o máximo possível de evoluções em um único jogo. Com isso, as evoluções frequentemente decidem as batalhas por conta própria. As cartas evoluídas têm uma taxa muito maior de mobilizações por partida e causam dano desproporcional em comparação com suas versões não evoluídas.&lt;/p&gt;&lt;p&gt;As alterações visam diminuir o poder básico das tropas para fortalecer as habilidades básicas delas. Queremos incentivar o uso mais estratégico das evoluções e das suas características exclusivas.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução de Arqueiras&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ABRfb0yuc0u5mRL68KRM5/c158c32f69d1570ab0d188d888a02d3c/archers-ev1__1_.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;❤️ Pontos de vida bônus:
+1,25x → 1,0x (-20%)
+&lt;b&gt;💥 Dano do superdisparo:&lt;/b&gt; +18%&lt;/p&gt;
+&lt;p&gt;Com as Arqueiras evoluídas ficando mais vulneráveis, reforçamos de novo o Superdisparo para que elas sejam uma carta de risco, mas também de recompensa.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Bárbaro&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7dLmoEB0enXcxUA4Gc5vK1/b16d3ba1b8c7f78fd1713a5b7d05e1d4/barbsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida bônus:&lt;/b&gt; 1,25x → 1,1x (-12%)
+&lt;b&gt;⏱️ Duração da melhoria:&lt;/b&gt; 2s → 3s (+50%)&lt;/p&gt;
+&lt;p&gt;Os pontos de vida extras dos Bárbaros evoluídos ficarão mais parecidos com os das outras evoluções de combate corpo a corpo, mas ainda resistirão à Bola de Fogo. O reforço vai durar mais tempo para ajudá-los a alcançar novos alvos com mais facilidade ao lutar contra várias tropas.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução dos Morcegos&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1GU3WFoB3ZqCdstrOFZd4N/c6a0bdf25de1e8e4138f9d5f1a035839/batsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Velocidade bônus do primeiro ataque:&lt;/b&gt;
+0,3s → 0,6s (+100%)&lt;/p&gt;
+&lt;p&gt;Os Morcegos evoluídos terão tanto potencial quanto antes, mas obter o valor máximo exigirá mais suporte.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Aríete de Batalha&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/AQAX9f6WC5SU6dJk98TlK/2a54a6a1336905dbdcf7c6ed72ee567a/battleramevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🫸 &lt;b&gt;Remoção do empurrão&lt;/b&gt; em &lt;b&gt;tropas resistentes&lt;/b&gt; (P.E.K.K.A, Mineiro Bombado etc.)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ℹ️&lt;/b&gt; O ajuste dos Bárbaros evoluídos também passa a valer para os Bárbaros do Aríete de Batalha.&lt;/p&gt;&lt;p&gt;O Aríete de Batalha evoluído terá mais opções de contra-ataque, pois não empurrará tropas resistentes como P.E.K.K.A e Mineiro Bombado. No entanto, ele ainda terá o mesmo potencial de antes na maioria dos casos.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Bombardeiro&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;🔄 Ciclos:&lt;/b&gt;
+1 → 2 (+100%)&lt;/p&gt;
+&lt;p&gt;O Bombardeiro evoluído está se tornando uma evolução de 2 ciclos para fazer com que os jogadores o usem com menos repetição e mais estratégia.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução da Pirotécnica&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RCKxx4SShYEM99tGgaQcu/db16e565c20f633a9f00d7f86fb958e1/firecrackerevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida bônus:&lt;/b&gt;
+1,3x → 1,0x (-23%)
+&lt;b&gt;💥⏱️ Duração da grande explosão:&lt;/b&gt;
+2,5s → 3s (+20%)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;💥⏱️ Duração da pequena explosão:&lt;/b&gt;
+2s → 2,5s (+25%)
+🐢 Foi adicionado um &lt;b&gt;efeito de desaceleração de movimento de 15%&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;A Pirotécnica evoluída também perderá os pontos de vida extras em troca de um ataque mais forte. As explosões da Pirotécnica também receberão um efeito de desaceleração de movimento de 15%, assim como o Veneno. A duração prolongada vai fazer com que a desaceleração seja mais efetiva e vai aumentar indiretamente o dano da carta.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Cavaleiro&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/UvZi04bi0o024a8DJ2ks6/a4ba12689e06108885a8f4feace80d0d/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida bônus:&lt;/b&gt;
+1,2x → 1,1x (-8%)&lt;/p&gt;
+&lt;p&gt;Além de sua poderosa habilidade de redução de dano, o Cavaleiro evoluído tem ótimas estatísticas para seu custo. Estamos ajustando as evoluções de combate corpo a corpo para que elas tenham pontos de vida extras semelhantes. Com isso, a resistência do Cavaleiro evoluído virá mais de sua habilidade do que dos pontos de vida bônus.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Morteiro&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lfmecFbx84dIbQNhAyh1l/c781c94e20ddd508fc5b2f1484d6de9c/mortarevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida bônus:&lt;/b&gt;
+1,2x → 1,0x (-17%)&lt;/p&gt;
+&lt;p&gt;Nossa intenção é fazer com que os jogadores invistam mais na defesa do Morteiro evoluído, pois a velocidade e o ataque são significativamente mais fortes do que os do Morteiro não evoluído.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Gigante Real (normal e evoluído)&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYeTJoHN7fMq5IwH3A7vB/49b351604dbd28cb13d91bfc593f5c1b/rg_rgevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida do Gigante Real:&lt;/b&gt;
+3072 → 3164 (+3%)
+&lt;b&gt;❤️ Pontos de vida bônus da evolução:&lt;/b&gt;
+1,1x → 1,0x (-10%)&lt;/p&gt;
+&lt;h1&gt;Evolução dos Recrutas Reais&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2D6VJCZSIitl2zbQOFsjHz/ee3dbaa6ae5a7af2df4a30cd83054c62/rrec_rrecevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida dos Recrutas Reais:&lt;/b&gt;
+532 → 547 (+3%)
+&lt;b&gt;❤️ Pontos de vida bônus da evolução:&lt;/b&gt;
+1,11x → 1,0x (-10%)&lt;/p&gt;
+&lt;p&gt;A diferença entre Gigantes Reais e Recrutas Reais evoluídos e não evoluídos era muito grande, especialmente considerando o custo de 6 unidades de elixir ou mais. Queremos diminuir a diferença deixando cada uma das versões originais um pouco mais fortes.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Esqueleto&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/45Z1nYQ2KLRaysGKYACib/304b410d7d0e1f6e88190422c1478af8/skeletonsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Velocidade bônus do primeiro ataque:&lt;/b&gt;
+0,4s → 0,5s (+25%)&lt;/p&gt;
+&lt;p&gt;Assim como os Morcegos evoluídos, a evolução dos Esqueletos perderá seu bônus de velocidade de ataque inicial e precisará de mais suporte para atingir seu potencial máximo.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução da Tesla&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida bônus:&lt;/b&gt;
+1,2x → 1,0x (-17%)
+&lt;b&gt;⚡ A evolução da Tesla também emitirá um pulso elétrico ao ser destruída.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A Tesla evoluída era vantajosa por seus pontos de vida extras e geralmente emitia apenas um pulso elétrico. Agora, ela sempre emitirá pelo menos dois pulsos elétricos: um ao ser mobilizada e outro ao ser destruída.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução da Valquíria&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oq0jbv3iyUHZlnIZ9dnkR/f6d458ce4cbf94196e3241876586c9b2/valkevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida bônus:&lt;/b&gt;
+1,15x → 1,1x (-4%)
+&lt;b&gt;💥 Dano do Tornado:&lt;/b&gt;
+76 → 84 (+11%)&lt;/p&gt;
+&lt;p&gt;A Valquíria evoluída sofrerá uma pequena redução nos pontos de vida adicionais, deixando-a mais parecida com as outras evoluções de combate corpo a corpo. Seu Tornado destruirá Esqueletos e Morcegos com um único golpe.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução dos Destruidores de Muros&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7g4QhbMobKAWYIgsFR9qh5/d479926b33e145b510b66d918caf948e/wallbreakersevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 Dano dos corredores:&lt;/b&gt;
+392 → 196 (-50%)
+&lt;b&gt;⏱️ Velocidade dos corredores:&lt;/b&gt;
+Rápida → Muito rápida&lt;/p&gt;
+&lt;p&gt;Os Destruidores de Muros evoluídos eram difíceis de contra-atacar e causavam muito mais dano. Como a sobrevivência é parte essencial da mecânica deles, retiramos o dano extra e aumentamos a velocidade de movimento.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Zap&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/GgCsLp0UrgdaPWVzJ3SHS/4d45563694b168396046eda5ef1ddadb/zapevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 Dano do 2º e 3º Zaps:&lt;/b&gt;
+1x → 0,5x (-50%)&lt;/p&gt;
+&lt;p&gt;A maior parte da força do Zap evoluído vinha do seu dano. O enfraquecimento deixará a carta mais focada em atordoar os inimigos.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Canhoneiro&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f4fgO90PDZyHeifrHWv1K/64faed848aef44d2f1681d16bbd3ce3d/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 Dano:&lt;/b&gt;
+422 → 401 (-5%)&lt;/p&gt;
+&lt;p&gt;O Canhoneiro causava dano de mais, especialmente quando ambas as torres atacavam a mesma tropa.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Duquesa das Adagas&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5yxT4j5DRq4Hx4LGKYzk3D/9ac3e07a1e14fac3cc422c20a40cb3aa/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida:&lt;/b&gt;
+3204 → 2768 (-14%)&lt;/p&gt;
+&lt;p&gt;Embora a Duquesa das Adagas tenha fraquezas óbvias, era muito difícil explorá-las repetidamente em razão dos seus altos pontos de vida.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Coletor de Elixir&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3gfMMjCrkyMhYldgOnbTWC/be44f69079298330eb296b16203b2ea6/elixircol.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Velocidade de produção:&lt;/b&gt;
+9s → 12s (+33%)
+&lt;b&gt;⏱️❤️ Tempo de vida:&lt;/b&gt;
+1min5s → 1min26s (+32%)&lt;/p&gt;
+&lt;p&gt;O Coletor de Elixir produzirá a mesma quantidade de elixir de antes, mas levará mais tempo. Tanto o Coletor de Elixir quanto a Duquesa das Adagas são mais fortes durante a geração normal de elixir. Agora que os decks de Coletor de Elixir têm uma tropa de torre sincronizada, é preciso criar equilíbrio levando em consideração a Duquesa das Adagas.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Escavadeira de Goblins&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1SasChghB3GEWD581b1hiv/20f9b45fba067dbc4892d208c7bb2c2f/goblindrill.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Geração do primeiro Goblin:&lt;/b&gt;
+0,5s → 0,8s (+60%)&lt;/p&gt;
+&lt;p&gt;O primeiro Goblin aparecia rápido demais, o que dificultava contra-atacar a Escavadeira de Goblins sem saber onde ela surgiria.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Veneno&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53SGVQmC6XmZVf2m7pifQa/30a2d325a3dfc46f988f8a79209592ab/poison.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;👑💥 Dano à torre da coroa/s:&lt;/b&gt;
+28 → 23 (-18%)&lt;/p&gt;
+&lt;p&gt;O Veneno é muito eficaz como condição de vitória durante a morte súbita. Estamos reduzindo o dano que ele causa às torres da coroa para incentivar outras estratégias que não dependam tanto da reutilização do Veneno.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/2ikC5jHcoD2RU9oEavpmNH"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notas de lançamento"/>
+    <published>2024-05-07T08:01:31+00:00</published>
   </entry>
 </feed>

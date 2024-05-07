@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 07 May 2024 07:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 08:33:55 +0000</lastBuildDate>
     <item>
       <title>2024 로드맵</title>
       <link>https://clashroyale.inbox.supercell.com/#/ko/news/6g54VT7JKlhc8E8g413MXe</link>
@@ -383,6 +383,149 @@ A: 현재 럭키 드롭 보상은 인벤토리 보유 한도와 무관하게 지
       <category>새 소식</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/z6PgsiTYKyMKgdUIwz0M1/0b6f21bbbc7c81536a7e6bab59bda1a1/CR_S59_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 May 2024 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5월 밸런스 조정!</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ko/news/2ikC5jHcoD2RU9oEavpmNH</link>
+      <description>&lt;p&gt;5월 밸런스 조정에서는 주로 카드 진화를 다룰 것입니다. 현재 진화는 일반적으로 매우 강력하여, 게임 내에서 가능한 한 많은 진화 카드를 배치하도록 유도하는 경향이 있습니다. 결과적으로 진화 카드가 전투의 승패를 결정하는 경우가 너무 잦습니다. 진화 카드는 비진화 카드보다 매치당 배치율이 훨씬 높으며, 상대적으로 더 큰 피해를 입힙니다.&lt;/p&gt;&lt;p&gt;이번 밸런스 변경의 목표는 카드 진화의 위력을 능력치가 아닌 그 고유한 특성에 집중시키는 것입니다. 이를 통해 카드 진화의 특별한 기능을 좀 더 전략적으로 사용할 수 있도록 장려하고자 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;아처 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ABRfb0yuc0u5mRL68KRM5/c158c32f69d1570ab0d188d888a02d3c/archers-ev1__1_.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 보너스 HP:&lt;/b&gt;
+1.25배 → 1.0배(-20%)
+&lt;b&gt;💥 파워 샷 피해량:&lt;/b&gt; +18%&lt;/p&gt;
+&lt;p&gt;아처 진화가 점점 더 약해지고 있습니다. 그래서 이 시점에서 다시 파워 샷 능력을 강력하게 만드는 것이 적절하다고 판단했습니다. 이제 위험도는 높지만 그만큼 적절히 사용하면 높은 보상을 주는 카드로 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;바바리안 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7dLmoEB0enXcxUA4Gc5vK1/b16d3ba1b8c7f78fd1713a5b7d05e1d4/barbsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 보너스 HP:&lt;/b&gt; 1.25배 → 1.1배(-12%)
+&lt;b&gt;⏱️ 부스터 지속 시간:&lt;/b&gt; 2초 → 3초(+50%)&lt;/p&gt;
+&lt;p&gt;바바리안 진화의 보너스 HP를 다른 근접 카드 진화와 같은 수치로 조정하였습니다. 하지만 여전히 파이어 볼에서 살아남을 수 있습니다. 버프 효과가 더 오래 지속되어, 여러 유닛과 싸울 때 새로운 공격 대상을 더 쉽게 공략할 수 있도록 도와줍니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;박쥐 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1GU3WFoB3ZqCdstrOFZd4N/c6a0bdf25de1e8e4138f9d5f1a035839/batsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ 첫 공격 속도 보너스:&lt;/b&gt;
+0.3초 → 0.6초(+100%)&lt;/p&gt;
+&lt;p&gt;박쥐 진화는 이전과 마찬가지로 많은 잠재력을 가지고 있지만, 최대로 활용하려면 더 많은 지원이 필요합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;배틀 램 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/AQAX9f6WC5SU6dJk98TlK/2a54a6a1336905dbdcf7c6ed72ee567a/battleramevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🫸 &lt;b&gt;무거운 유닛&lt;/b&gt; &lt;b&gt;밀어내기 능력 제거됨&lt;/b&gt;(예: P.E.K.K.A, 능력자 광부)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ℹ️&lt;/b&gt; 바바리안 진화의 밸런스 변경 사항이 배틀 램 바바리안에게도 적용됩니다.&lt;/p&gt;&lt;p&gt;배틀 램 진화가 이제 더 이상 P.E.K.K.A나 능력자 광부와 같은 무거운 유닛을 밀어내지 못합니다. 이에 따라 카운터 플레이가 더 늘어날 수 있겠지만, 대부분의 상황에서는 이전과 동일한 잠재력을 지닐 것입니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;폭탄병 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;🔄 순환 주기:&lt;/b&gt;
+1 → 2(+100%)&lt;/p&gt;
+&lt;p&gt;플레이어가 너무 자주 폭탄병 진화를 사용하지 않고 좀 더 전략적으로 사용할 수 있도록 순환 주기를 2회로 조정합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;로켓병 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RCKxx4SShYEM99tGgaQcu/db16e565c20f633a9f00d7f86fb958e1/firecrackerevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 보너스 HP:&lt;/b&gt;
+1.3배 → 1.0배(-23%)
+&lt;b&gt;💥⏱️ 큰 불꽃 지속 시간:&lt;/b&gt;
+2.5초 → 3초(+20%)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;💥⏱️ 작은 불꽃 지속 시간:&lt;/b&gt;
+2초 → 2.5초(+25%)
+🐢 &lt;b&gt;15% 이동 감속 효과&lt;/b&gt; 추가됨&lt;/p&gt;&lt;p&gt;로켓병 진화의 보너스 HP가 줄어든 대신 공격이 더 강력해집니다. 이제 로켓병의 불꽃은 독 마법처럼 15% 이동 감속 효과를 얻게 됩니다. 증가된 지속 시간으로 인해 감속 효과가 더욱 효과적이게 되며, 간접적으로 공격력이 증가합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;기사 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/UvZi04bi0o024a8DJ2ks6/a4ba12689e06108885a8f4feace80d0d/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 보너스 HP:&lt;/b&gt;
+1.2배 → 1.1배(-8%)&lt;/p&gt;
+&lt;p&gt;기사 진화 카드는 피해량을 감소시키는 강력한 능력 외에도 비용 대비 뛰어난 능력치를 보유하고 있습니다. 다른 근접 카드 진화들과 비슷한 보너스 HP를 갖도록 조정하여, 보너스 HP보다 고유의 능력이 진화 기사의 탱커 역할에 더 큰 영향을 주게 될 것입니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;박격포 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lfmecFbx84dIbQNhAyh1l/c781c94e20ddd508fc5b2f1484d6de9c/mortarevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 보너스 HP:&lt;/b&gt;
+1.2배 → 1.0배(-17%)&lt;/p&gt;
+&lt;p&gt;진화 박격포의 공격 속도와 피해량을 일반 박격포에 비해 대폭 향상시켰습니다. 이로써 진화 박격포를 방어하는 데 더 많은 노력을 기울여야 할 것입니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;로얄 자이언트(+진화)&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYeTJoHN7fMq5IwH3A7vB/49b351604dbd28cb13d91bfc593f5c1b/rg_rgevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 로얄 자이언트 HP:&lt;/b&gt;
+3072 → 3164(+3%)
+&lt;b&gt;❤️ 진화 보너스 HP:&lt;/b&gt;
+1.1배 → 1.0배(-10%)&lt;/p&gt;
+&lt;h1&gt;로얄 훈련병(+진화)&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2D6VJCZSIitl2zbQOFsjHz/ee3dbaa6ae5a7af2df4a30cd83054c62/rrec_rrecevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 로얄 훈련병 HP:&lt;/b&gt;
+532 → 547(+3%)
+&lt;b&gt;❤️ 진화 보너스 HP:&lt;/b&gt;
+1.11배 → 1.0배(-10%)&lt;/p&gt;
+&lt;p&gt;로얄 자이언트 및 로얄 훈련병의 진화와 일반 카드의 격차가 너무 컸습니다. 특히 비용이 6 엘릭서라는 점을 고려하면 더욱 그렇습니다. 일반 로얄 자이언트와 로얄 훈련병을 조금 더 강하게 만들어 이 격차를 줄이고 문제점을 보완하고자 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;해골 병사 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/45Z1nYQ2KLRaysGKYACib/304b410d7d0e1f6e88190422c1478af8/skeletonsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ 첫 공격 속도 보너스:&lt;/b&gt;
+0.4초 → 0.5초(+25%)&lt;/p&gt;
+&lt;p&gt;박쥐 진화와 마찬가지로 해골 병사의 첫 공격 속도 보너스가 사라집니다. 역시 최대한 활용하기 위해서는 더 많은 지원이 필요할 것입니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;뇌전탑 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 보너스 HP:&lt;/b&gt;
+1.2배 → 1.0배(-17%)
+&lt;b&gt;⚡ 이제 뇌전탑 진화가 파괴될 때 일렉트로 펄스를 방출합니다.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;뇌전탑 진화의 강점은 대부분 보너스 HP에서 비롯되었으며, 보통 일렉트로 펄스를 한 번 방출했습니다. 이제 배치 시 한 번 그리고 파괴될 때 한 번, 이렇게 적어도 두 번 일렉트로 펄스를 방출합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;발키리 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oq0jbv3iyUHZlnIZ9dnkR/f6d458ce4cbf94196e3241876586c9b2/valkevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 보너스 HP:&lt;/b&gt;
+1.15배 → 1.1배(-4%)
+&lt;b&gt;💥 토네이도 피해량:&lt;/b&gt;
+76 → 84(+11%)&lt;/p&gt;
+&lt;p&gt;발키리 진화의 보너스 HP가 살짝 너프되어 다른 근접 카드 진화와 같은 수치로 조정됩니다. 이제 한 번의 토네이도 공격으로 해골 병사와 박쥐를 처치합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;해골 돌격병 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7g4QhbMobKAWYIgsFR9qh5/d479926b33e145b510b66d918caf948e/wallbreakersevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 러너 피해량:&lt;/b&gt;
+392 → 196(-50%)
+&lt;b&gt;⏱️ 러너 속도:&lt;/b&gt;
+빠름 → 매우 빠름&lt;/p&gt;
+&lt;p&gt;진화한 해골 돌격병은 대응하기 어려웠고, 심지어 피해량도 매우 높았습니다. 해골 돌격병 진화는 살아남기 유리하게 디자인된 진화이니 만큼, 보너스 피해량을 없애고 대신 러너의 속도를 더욱 빠르게 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;감전 마법 진화&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/GgCsLp0UrgdaPWVzJ3SHS/4d45563694b168396046eda5ef1ddadb/zapevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 2번째 및 3번째 감전 마법 피해량:&lt;/b&gt;
+1배 → 0.5배(-50%)&lt;/p&gt;
+&lt;p&gt;감전 마법 진화의 대부분의 강점은 피해량에서 비롯되었습니다. 이번 너프를 통해 카드의 마비 기능에 좀 더 초점을 맞추려 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;대포 사수&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f4fgO90PDZyHeifrHWv1K/64faed848aef44d2f1681d16bbd3ce3d/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 피해량:&lt;/b&gt;
+422 → 401(-5%)&lt;/p&gt;
+&lt;p&gt;타워와 유닛에 너무 큰 피해를 입히는 대포 사수의 피해량을 하향 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;단검 공작부인&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5yxT4j5DRq4Hx4LGKYzk3D/9ac3e07a1e14fac3cc422c20a40cb3aa/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ HP:&lt;/b&gt;
+3204 → 2768(-14%)&lt;/p&gt;
+&lt;p&gt;단검 공작부인을 상대할 수 있는 약점이 분명히 있습니다. 하지만 단검 공작부인의 HP가 너무 높아 공략이 어려운 경향이 있었습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;엘릭서 정제소&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3gfMMjCrkyMhYldgOnbTWC/be44f69079298330eb296b16203b2ea6/elixircol.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ 생산 속도:&lt;/b&gt;
+9초 → 12초(+33%)
+&lt;b&gt;⏱️❤️ 수명:&lt;/b&gt;
+1분 5초 → 1분 26초(+32%)&lt;/p&gt;
+&lt;p&gt;엘릭서 정제소의 생산량은 유지되지만 생산 속도가 느려집니다. 엘릭서 정제소와 단검 공작부인 둘 다 1배 엘릭서 속도에서 더 강해집니다. 이 두 카드에는 강력한 시너지가 있기 때문에, 둘을 함께 염두에 두고 밸런스를 맞춰야 했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 드릴&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1SasChghB3GEWD581b1hiv/20f9b45fba067dbc4892d208c7bb2c2f/goblindrill.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ 첫 고블린 생성 시간:&lt;/b&gt;
+0.5초 → 0.8초(+60%)&lt;/p&gt;
+&lt;p&gt;첫 고블린 생성 시간이 너무 빨라 고블린 드릴의 배치를 예측하지 못하면 이에 대응하기 어려웠습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;독 마법&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53SGVQmC6XmZVf2m7pifQa/30a2d325a3dfc46f988f8a79209592ab/poison.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;👑💥 크라운 타워 초당 피해량:&lt;/b&gt;
+28 → 23(-18%)&lt;/p&gt;
+&lt;p&gt;독 마법이 서든 데스에 너무 효과적이라 자주 사용되었습니다. 다른 메인 카드 사용을 장려하고 독 마법 의존도와 사용 빈도를 낮추기 위해 크라운 타워 피해량을 감소시켰습니다.&lt;/p&gt;</description>
+      <guid isPermaLink="false">2ikC5jHcoD2RU9oEavpmNH</guid>
+      <category>새 소식</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 07 May 2024 08:01:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
