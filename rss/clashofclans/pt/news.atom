@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-newsEntries-pt</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-08T11:32:57.714913+00:00</updated>
+  <updated>2024-05-08T12:50:19.587885+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -357,15 +357,5 @@ Finais: 06/04 sábado 19h30min BRT &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;
     <link href="https://youtu.be/4qFTxwArAU0"/>
     <category term="Novidades"/>
     <published>2024-05-01T08:02:03+00:00</published>
-  </entry>
-  <entry>
-    <id>7JWnyi4uCun2cOJGZJMFdc</id>
-    <title>Ganhe uma camisa de futebol assinada por Haaland!</title>
-    <updated>2024-05-06T12:40:01.211000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/pt/news/7JWnyi4uCun2cOJGZJMFdc"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/azsBlWY9FcSIq98kpg3gG/58e4b5435e4e2f06b8501e98b2fb94b3/ES_kickupchallenge.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.tiktok.com/@clashofclans/video/7365145238706326816?lang=en"/>
-    <category term="Comunidade"/>
-    <published>2024-05-04T12:05:03+00:00</published>
   </entry>
 </feed>
