@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-08T09:33:46.397388+00:00</updated>
+  <updated>2024-05-08T10:34:28.634279+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -22,16 +22,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4XanwHug2IvJQio2XMDsxa/55c7c4fcdf7ac2666b5d0605e2c648d9/1023_SUP3533_ClashonPC_October_2023__1920x1080_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2023-10-24T15:42:26+00:00</published>
-  </entry>
-  <entry>
-    <id>7jXq2Y2BWK0Y3SHqZjFNBJ</id>
-    <title>드래곤 페스티벌 - 클래시 오브 클랜 애니메이션</title>
-    <updated>2024-02-12T13:28:09.547000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/7jXq2Y2BWK0Y3SHqZjFNBJ"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1OFGTDro09pcoKox7zRpGe/b583134a0691474c91a0eae9a4e01706/0208_COC________-_________-___________Thumbnail_906x500_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/Bntm1mE6-6I?si=l-RQ_eU-OGJDdH1T"/>
-    <category term="뉴스"/>
-    <published>2024-02-08T09:31:09+00:00</published>
   </entry>
   <entry>
     <id>73tuzblp2QFrRjkfUdRZRi</id>
