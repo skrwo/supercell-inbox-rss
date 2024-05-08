@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-05-08T10:34:32.525800+00:00</updated>
+  <updated>2024-05-08T11:33:01.834989+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4SzBxkSTW6n8jage3CkEJr</id>
-    <title>Acara Hay Day - Perubahan!</title>
-    <updated>2024-02-09T07:41:59.608000+00:00</updated>
-    <content>&lt;p&gt;Helo, Peladang! Pada hari Ahad, 11 Februari, kami akan ada Acara Pesanan Trak 2x XP dan Acara Memberi Makan Haiwan!
-Masa bermula: Hari Ahad, 11 Februari 8:00 UTC (16:00 MYT)
-Masa tamat: Hari Isnin, 12 Februari 8:00 UTC (16:00 MYT)&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/4SzBxkSTW6n8jage3CkEJr"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Berita"/>
-    <published>2024-02-08T09:42:26+00:00</published>
-  </entry>
   <entry>
     <id>3j5u8Gtq2uqDd5Sr6AqJCh</id>
     <title>Acara Hay Day Minggu 7!</title>

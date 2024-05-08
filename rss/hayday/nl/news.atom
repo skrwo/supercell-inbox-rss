@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-05-08T10:34:31.898466+00:00</updated>
+  <updated>2024-05-08T11:33:00.095900+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4SzBxkSTW6n8jage3CkEJr</id>
-    <title>Hay Day-evenementen: veranderingen!</title>
-    <updated>2024-02-09T07:41:59.608000+00:00</updated>
-    <content>&lt;p&gt;Hallo boeren! Op zondag 11 februari houden we een evenement met dubbele XP voor truckbestellingen én een veevoer-evenement!
-Starttijd: zondag 11 februari om 8:00 UTC
-Eindtijd: maandag 12 februari om 8:00 UTC&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/nl/news/4SzBxkSTW6n8jage3CkEJr"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nieuws"/>
-    <published>2024-02-08T09:42:26+00:00</published>
-  </entry>
   <entry>
     <id>3j5u8Gtq2uqDd5Sr6AqJCh</id>
     <title>Hay Day-evenementen: week 7!</title>
