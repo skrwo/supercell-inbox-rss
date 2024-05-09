@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-09T10:35:11.671358+00:00</updated>
+  <updated>2024-05-09T11:34:33.964800+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -161,11 +161,11 @@
   </entry>
   <entry>
     <id>rLO1czYYzCoocfwt1DaDg</id>
-    <title>Brawl Ball League 2024</title>
-    <updated>2024-05-09T08:37:30.914000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41TPy5ABkwhznL1oOKo6Gb/7975eab0130830bbd4fbe74af3c824d3/bbl_announcementv_6.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/BrawlBallLeague/status/1787482592960184423"/>
+    <title>Register today for the Brawl Ball League Open Qualifiers! </title>
+    <updated>2024-05-09T11:19:16.544000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78sbyswrsiANLQLtMX2ffr/7f119d2309cb33b5aedec3bc49d240a2/EN_Brawl_Ball_League_Open_Qualifiers.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://twitter.com/BrawlBallLeague/status/1788208098412290557"/>
     <category term="Esports"/>
-    <published>2024-05-07T16:19:41+00:00</published>
+    <published>2024-05-08T23:00:00+00:00</published>
   </entry>
 </feed>
