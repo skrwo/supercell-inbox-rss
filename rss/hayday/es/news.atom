@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-05-09T07:33:03.667666+00:00</updated>
+  <updated>2024-05-09T08:36:06.393124+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -229,7 +229,7 @@ Domingo: Edificios de producción potenciados (3 edificios aleatorios un 20 % m�
   <entry>
     <id>4P9zgR2JYnuuyut7T4svFd</id>
     <title>Eventos de la semana 18</title>
-    <updated>2024-04-28T08:46:50.612000+00:00</updated>
+    <updated>2024-05-09T08:13:16.705000+00:00</updated>
     <content>&lt;h1&gt;Eventos de la semana 18&lt;/h1&gt;
 &lt;p&gt;¡Hola! ¡Ya llega mayo! Empecemos el nuevo mes con unos cuantos eventos. Todos los eventos comienzan a las 08:00 UTC. Para saber más sobre cada uno de los eventos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;Lunes: Gira la ruleta (tiques extras).&lt;/p&gt;&lt;p&gt;Martes: Visitantes del pueblo (doble de XP).&lt;/p&gt;&lt;p&gt;Miércoles: Evento del barco (potenciadores extras) y doble de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Jueves: Visitantes de la granja (doble de monedas).&lt;/p&gt;&lt;p&gt;Viernes: Evento de pesca (peluquería para patos y telar de redes un 30 % más rápidos) y doble de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Sábado: Visitantes del pueblo (doble de XP).&lt;/p&gt;&lt;p&gt;Domingo: Cultivos prósperos (3 cultivos generarán 3 en vez de 2 cosechas).&lt;/p&gt;&lt;p&gt;¡Que tengas una buena semana!&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/es/news/4P9zgR2JYnuuyut7T4svFd"/>
