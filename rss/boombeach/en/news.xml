@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 May 2024 08:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 09:33:15 +0000</lastBuildDate>
     <item>
       <title>Boomiversary</title>
       <link>https://boombeach.inbox.supercell.com/#/en/news/7eldwAdYVJzcyphrvaM6uv</link>
@@ -121,7 +121,7 @@ Garrison upkeep:
 ● Campaign Missions will now award intel at a rate of one per 50 points. This intel reward is doubled for Boom Pass holders.&lt;/p&gt;&lt;h2&gt;Improvements&lt;/h2&gt;&lt;p&gt;● Hero ability upgrades can now be finished with Attack Plan.
 ● To fix the various player XP errors over the years, a function that recalculates player XP and player level was added. This will be run for every player the first time the game is opened after the update. There will be a popup showing the change if your XP was adjusted.
 ● Supply chests (“VP chests”) now stack up to 8, with a new one added every 6 hours.&lt;/p&gt;&lt;h2&gt;Balancing&lt;/h2&gt;&lt;p&gt;● Player level requirements for HQ levels 4-7 were reduced to make the early game faster. 
-● Rifleman build time is reduced to 10 seconds to reduce early game wait times. This increases with upgrades, as usual.
+● Rifleman build time is reduced to 10 seconds to reduce early game wait times.
 ● Attacking troops will prioritize engaging defending troops, including critters, that come in range, even if the attackers are firing at buildings at the time. Units will not retarget if the defending unit is already targeted by two or more attacking units.
 ● Removed VP gains and losses from resource base battles.
 ● Task Force intel cap has been increased by 50%.
