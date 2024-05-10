@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-eventEntries-ja</id>
   <title>Hayday - Event</title>
-  <updated>2024-05-10T06:35:19.742635+00:00</updated>
+  <updated>2024-05-10T07:34:01.640183+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -20,7 +20,7 @@
     <id>4rxCXuIlursfgl3dALxaPh</id>
     <title>事前登録</title>
     <updated>2024-04-28T07:08:34.204000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 90.25%&lt;/h1&gt;
+    <content>&lt;h1&gt;PROGRESS: 92.00%&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;📌 - 30M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;✅ - 20M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
@@ -37,7 +37,7 @@
     <id>1FsnqWUFCmbdZWRzRVEVDr</id>
     <title>予約注文</title>
     <updated>2024-04-26T11:25:35.015000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 90.25%&lt;/h1&gt;
+    <content>&lt;h1&gt;PROGRESS: 92.00%&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;📌 - 30M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;✅ - 20M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
@@ -49,22 +49,5 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://squadbusters.com"/>
     <published>2024-04-26T09:01:12+00:00</published>
-  </entry>
-  <entry>
-    <id>5Yx1Gq0DBs3SjpQp5RHRJP</id>
-    <title>ゴールデンウィークトラック目標</title>
-    <updated>2024-05-06T17:06:03.840000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 90.90%&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ - 7億 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3ew2MqiNtpxnUQaEP7kssO/79aecadf562d53ad4ad341f8e58c5d1a/fish400.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 3億5000万 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6E4fiFn53fA619pjN5vhQd/bbd4b9c4ac532a5ff3bbb48fca717caf/hhelmet.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 2億 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1hFWFvtSOPj0gGC6ehsFIQ/1a255e280e94a055ccc60a155bf1175c/fish300.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 1億2000万 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3IpkO4rXSPNEerTrqqVEEt/fb678b5dcf2536d5d7c038e552a52943/fish200.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 5000万 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6QtEdtGxJ5ct8N6Oe9sEGi/2efe854c7fa5ee1fc32b8229e4f93de8/fish100.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;a href="hayday://OpenDiamondShop"&gt;👉報酬👈&lt;/a&gt; -- &lt;a href="https://hayday.inbox.supercell.com/#/ja/news/6F7LTwjuc6Tiky87FiRpap"&gt;👉情報👈&lt;/a&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6RSIgnbCcIXLOoHIkc53T1/d162f4be7293e50ff49d48f297b3fcd6/inbox6.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <published>2024-04-30T08:42:16+00:00</published>
   </entry>
 </feed>
