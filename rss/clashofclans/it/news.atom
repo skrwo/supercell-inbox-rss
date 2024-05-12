@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-newsEntries-it</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-12T02:41:02.615198+00:00</updated>
+  <updated>2024-05-12T03:33:58.080176+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -197,5 +197,16 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/mbITcwxFMEtyj34IqACtb/197186c76b04361b9df9b9857206f84a/SUP3861_CoC_Goalkeeper_Event_Illustration_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Note di rilascio"/>
     <published>2024-05-06T12:22:00+00:00</published>
+  </entry>
+  <entry>
+    <id>364UcY1khXvOsV3Mjko0wZ</id>
+    <title>Gara delle basi - Maglietta di Haaland firmata</title>
+    <updated>2024-05-12T02:19:34.897000+00:00</updated>
+    <content>&lt;h1&gt;Ehilà!&lt;/h1&gt;
+&lt;p&gt;Muori anche tu dalla voglia di mostrarci le tue impareggiabili abilità di creatore di disposizioni e il tuo entusiasmo per la nuova stagione su Haaland? Beh, è il tuo giorno fortunato!&lt;/p&gt;&lt;p&gt;Siamo felicissimi di annunciare una gara che mette in palio gratis una maglietta di Haaland firmata dal campione in persona per la disposizione più creativa! Ecco come puoi partecipare.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Crea una disposizione del villaggio che incarni lo spirito della stagione di Haaland.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Condividila nei commenti del nostro post sui social ([Insert Link Here]) inserendo l&amp;#39;hashtag #ClashWithHaaland.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Riveleremo il vincitore nello stesso post in cui abbiamo annunciato questa gara &lt;b&gt;lunedì 13 maggio alle 8:00 UTC&lt;/b&gt;. Buona fortuna!&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/it/news/364UcY1khXvOsV3Mjko0wZ"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4UmDjz2dX7kjgfgeFcZVKC/77fcce83438cb35eed24efb6ec82f3ec/BaseBuilding_thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="community"/>
+    <published>2024-05-08T15:36:49+00:00</published>
   </entry>
 </feed>
