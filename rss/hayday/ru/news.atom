@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-05-12T06:34:40.367568+00:00</updated>
+  <updated>2024-05-12T07:33:07.060571+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>3j5u8Gtq2uqDd5Sr6AqJCh</id>
-    <title>События Hay Day: 7-я неделя</title>
-    <updated>2024-02-11T08:00:27.834000+00:00</updated>
-    <content>&lt;p&gt;Привет, фермеры! Встречайте еще одну февральскую неделю! Вы готовы?&lt;/p&gt;&lt;p&gt;Понедельник: дополнительные ваучеры на колесе фортуны.
-Вторник: вдвое больше монет за выполнение заказов на доставку грузовиком.
-Среда: вдвое больше опыта за загрузку пароходов.
-Четверг: материалы для улучшения амбара и силосной башни за обслуживание гостей города, посетивших 2–3 здания.
-Пятница: ускорение производства в рыболовной зоне на 30 % (утиный салон и вязальщик сетей) и вдвое больше очков Farm Pass.
-Суббота и воскресенье: глобальное событие с загрузкой парохода.&lt;/p&gt;&lt;p&gt;Все события начинаются в 8:00 UTC.&lt;/p&gt;&lt;p&gt;Подробнее о каждом из них можно узнать на доске событий.&lt;/p&gt;&lt;p&gt;Удачной недели!&lt;/p&gt;&lt;p&gt;#HayDay&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/3j5u8Gtq2uqDd5Sr6AqJCh"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Новости"/>
-    <published>2024-02-11T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>6a0IxzNpj9qsze3f46pZ6p</id>
     <title>События Hay Day: 8-я неделя</title>
