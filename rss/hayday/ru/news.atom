@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-05-13T09:34:27.610944+00:00</updated>
+  <updated>2024-05-13T10:35:48.096944+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -256,7 +256,7 @@
   <entry>
     <id>4QmUJH3eZMthbGX9axFAwv</id>
     <title>События Hay Day: 20-я неделя!</title>
-    <updated>2024-05-13T09:19:48.996000+00:00</updated>
+    <updated>2024-05-13T10:12:23.200000+00:00</updated>
     <content>&lt;h1&gt;События Hay Day: 20-я неделя!&lt;/h1&gt;
 &lt;p&gt;Привет, фермеры! Встречайте новую неделю, полную событий! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: куски головоломки на колесе фортуны.&lt;/p&gt;&lt;p&gt;Вторник: материалы для расширения за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Среда: дополнительные ваучеры за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Четверг: событие с посетителями фермы и распродажей на дому.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 20 % и удвоение очков Farm Pass.&lt;/p&gt;&lt;p&gt;Суббота: вдвое больше опыта за обслуживание гостей города и вдвое больше монет за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Воскресенье: ускорение дробилки (три случайных типа корма для животных будут производиться в два раза быстрее), а также вдвое больше монет за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Желаем отличной недели!&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/ru/news/4QmUJH3eZMthbGX9axFAwv"/>
