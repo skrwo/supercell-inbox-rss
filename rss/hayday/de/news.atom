@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-05-13T06:37:06.456037+00:00</updated>
+  <updated>2024-05-13T07:33:46.635024+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -252,5 +252,16 @@ Sonntag: Produktionsgebäude-Ereignis (20%iger Schub für drei zufällige Gebäu
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Neues"/>
     <published>2024-05-05T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4QmUJH3eZMthbGX9axFAwv</id>
+    <title>Ereigniswoche 20!</title>
+    <updated>2024-05-13T07:32:47.472000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 20!&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Wir haben eine ganze Woche voller neuer Ereignisse für dich! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Puzzlestücke)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagenereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Mittwoch: Schiffsereignis (zusätzliche Gutscheine)&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (Flohmarkt)&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den gesamten Angelbereich (20 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (doppelte EP) + Lieferwagenereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Sonntag: Flinkeres Futter (3 zufällige Arten Tierfutter werden doppelt so schnell produziert) + Schiffsereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/4QmUJH3eZMthbGX9axFAwv"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Neues"/>
+    <published>2024-05-12T10:21:52+00:00</published>
   </entry>
 </feed>

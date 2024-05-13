@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-13T06:36:57.510261+00:00</updated>
+  <updated>2024-05-13T07:32:56.792738+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>3i3r2UKFSO0netDnukHnJl</id>
-    <title>UN NUEVO GLADIADOR: BIENVENIDO iKAOSS (Reply Totem Brawl Stars 2024)</title>
-    <updated>2024-02-12T18:53:39.897000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3pwL269XNPbjtfRtz5kANI/60ea9e01f8e4ada1d958ade7ff5a7576/maxresdefault.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/0bWwDPmpuVs?si=Ztdnoq-73lzIOkci"/>
-    <category term="Esports"/>
-    <published>2024-02-12T18:50:45+00:00</published>
-  </entry>
-  <entry>
-    <id>25tA938cWYVNVit2G1Zk28</id>
-    <title>¡Nuestro NUEVO equipo está AQUÍ! | SK Brawl Stars 2024</title>
-    <updated>2024-02-12T18:53:25.878000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5TA3smYpGkTlRuaV88OJIH/56b36fda2436b71887b6f55825ff785f/maxresdefault__1_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/bznFxUH4MUw?si=rKI6BrP34nk56RGC"/>
-    <category term="Esports"/>
-    <published>2024-02-12T18:53:25+00:00</published>
-  </entry>
   <entry>
     <id>1FAkiasTB0BwKWGNxuRnRE</id>
     <title>¡Mapas del Campeonato #BSC24!</title>
