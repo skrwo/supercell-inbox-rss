@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-13T12:48:42.915184+00:00</updated>
+  <updated>2024-05-13T13:34:35.239498+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -36,16 +36,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66V0N7nSlomi1MSiL2GgLc/2fa1078807e64f95a3cb3f2fce99616b/tw_20231201_CR-Roadmap-2024-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2023-12-01T04:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>4KLkZ4CJO8JyA08pyuTJ6D</id>
-    <title>【DANY】掌握橋頭先機！操作係數超低！</title>
-    <updated>2024-02-13T13:56:27.625000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/4KLkZ4CJO8JyA08pyuTJ6D"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4MAOyx2mmFGQspnXx7xvOt/43f58ddc1a6e88b24be640a17af91534/tw_20240213_dany_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=n41X_KH6ZZc"/>
-    <category term="攻略"/>
-    <published>2024-02-13T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>5ywRLX4u858ozUHMpQzo7U</id>
@@ -556,7 +546,7 @@
   <entry>
     <id>2ikC5jHcoD2RU9oEavpmNH</id>
     <title>2024年5月平衡性調整！</title>
-    <updated>2024-05-13T09:20:20.159000+00:00</updated>
+    <updated>2024-05-13T13:11:20.585000+00:00</updated>
     <content>&lt;p&gt;我們將5月平衡性調整的重點放在進化卡牌上。目前，進化卡牌普遍都很強大，這導致玩家會盡可能地在一場對戰中多次部署進化卡牌。因此，決定對戰勝負的通常都是進化卡牌。與非進化卡牌相比，進化卡牌每場對戰的部署次數更高，且與進化前相比，卡牌進化後造成的傷害過高。&lt;/p&gt;&lt;p&gt;這次平衡性調整的目標是要將進化卡牌的強大之處從基礎屬性轉移到其獨特能力上。我們希望鼓勵玩家更有策略地使用進化卡牌及其獨特能力。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;進化弓箭手&lt;/h1&gt;
 

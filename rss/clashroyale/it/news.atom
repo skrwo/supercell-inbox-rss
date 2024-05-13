@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-13T12:48:39.710885+00:00</updated>
+  <updated>2024-05-13T13:34:36.748538+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -463,7 +463,7 @@ dal 25 al 29 maggio.&lt;/p&gt;</content>
   <entry>
     <id>2ikC5jHcoD2RU9oEavpmNH</id>
     <title>Modifiche di bilanciamento di maggio</title>
-    <updated>2024-05-13T09:20:20.159000+00:00</updated>
+    <updated>2024-05-13T13:11:20.585000+00:00</updated>
     <content>&lt;p&gt;Nelle modifiche di maggio, ci occuperemo principalmente delle evoluzioni, che, al momento, sono troppo forti in generale e spingono quindi i giocatori a usarle il più possibile durante una partita. Per questo motivo, molto spesso sono le evoluzioni a decidere le sorti della battaglia: hanno una percentuale di schieramento per partita superiore e infliggono una quantità di danni sproporzionata rispetto alle loro controparti non evolute.&lt;/p&gt;&lt;p&gt;Con questi nuovi cambi, ridurremo i valori delle statistiche di base di queste carte e daremo più risalto alle loro abilità uniche, in modo che gli utenti mettano in campo le carte evolute e sfruttino le loro caratteristiche in maniera più strategica.&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;Arcieri evoluti&lt;/h1&gt;
 
@@ -594,7 +594,11 @@ Aumentata da &amp;quot;rapida&amp;quot; a &amp;quot;molto rapida&amp;quot;.&lt;/
 +60% (da 0,5 secondi a 0,8).&lt;/p&gt;
 &lt;p&gt;Il primo goblin appariva troppo velocemente, il che rendeva difficile contrastare la trivella senza sapere dove sarebbe apparsa.&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;Veleno&lt;/h1&gt;
-</content>
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53SGVQmC6XmZVf2m7pifQa/30a2d325a3dfc46f988f8a79209592ab/poison.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;👑 💥 Danni al secondo alle torri della corona&lt;/b&gt;
+-18% (da 28 punti a 23).&lt;/p&gt;
+&lt;p&gt;In sudden death, il Veleno è una carta determinante troppo efficace, quindi abbiamo ridotto i danni alle torri della corona per incoraggiare i giocatori a usare altre carte determinanti e ad affidarsi di meno a questo incantesimo.&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/it/news/2ikC5jHcoD2RU9oEavpmNH"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Note di rilascio"/>

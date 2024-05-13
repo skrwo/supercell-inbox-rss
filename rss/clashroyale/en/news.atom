@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-13T12:48:36.536361+00:00</updated>
+  <updated>2024-05-13T13:34:40.149993+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -518,7 +518,7 @@ May 25 - 29&lt;/p&gt;</content>
   <entry>
     <id>2ikC5jHcoD2RU9oEavpmNH</id>
     <title>May Balance Changes!</title>
-    <updated>2024-05-13T09:20:20.159000+00:00</updated>
+    <updated>2024-05-13T13:11:20.585000+00:00</updated>
     <content>&lt;p&gt;For May&amp;#39;s balance changes, we will primarily address Card Evolutions. Currently, Evolutions are too generically powerful, leading players to frequently deploy as many Evolutions as possible within a single game. As a consequence, Evolutions too often decide battles by themselves. Evolved cards have a much higher deploys-per-match rate and deal disproportionate amounts of damage than their non-evolved counterparts. &lt;/p&gt;&lt;p&gt;These balance changes aim to shift Evolutions&amp;#39; power away from raw stats and towards their unique abilities. We want to encourage more strategic use of Evolutions and their distinct features.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;Archers Evolution&lt;/h1&gt;
 

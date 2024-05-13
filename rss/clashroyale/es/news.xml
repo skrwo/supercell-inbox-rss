@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 13 May 2024 12:48:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 13:34:51 +0000</lastBuildDate>
     <item>
       <title>ROADMAP 2024</title>
       <link>https://clashroyale.inbox.supercell.com/#/es/news/3xJZPjXzPR0obTElQ0YBKT</link>
@@ -394,6 +394,149 @@ del 25 al 29 de mayo&lt;/p&gt;</description>
       <category>Lo más destacado</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4TH7tUapCUsmnmBEAFolry/a8aedfad5975f4e5cea86b512a507209/magic_season_trailer.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 06 May 2024 15:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>¡Ajustes de equilibrio de mayo!</title>
+      <link>https://clashroyale.inbox.supercell.com/#/es/news/2ikC5jHcoD2RU9oEavpmNH</link>
+      <description>&lt;p&gt;En los ajustes de equilibrio de mayo, vamos a centrarnos principalmente en las evoluciones de las cartas. Ahora mismo, las evoluciones son poderosas de forma genérica, lo que lleva a los jugadores a desplegarlas lo máximo posible a lo largo de una misma partida. Como consecuencia, las evoluciones de las cartas a menudo deciden el resultado de las batallas por sí solas. Las cartas evolucionadas se despliegan mucho más por partida e infligen cantidades desproporcionadas de daño en comparación con sus versiones no evolucionadas.&lt;/p&gt;&lt;p&gt;Estos ajustes de equilibrio tienen como objetivo que las evoluciones sean más valiosas por su habilidades únicas que por el hecho de tener estadísticas muy altas. Queremos animar a los jugadores a que hagan un uso más estratégico de las evoluciones y de sus funciones únicas.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de las arqueras&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ABRfb0yuc0u5mRL68KRM5/c158c32f69d1570ab0d188d888a02d3c/archers-ev1__1_.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida extras:&lt;/b&gt;
+x1,25 → x1 (-20 %)
+&lt;b&gt;💥 Daño del superdisparo:&lt;/b&gt; +18 %&lt;/p&gt;
+&lt;p&gt;Ya que hemos hecho más frágiles a las arqueras, también hemos aumentado la potencia de su superdisparo. Así, aunque usarlas sea más arriesgado, valdrá la pena.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de los bárbaros&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7dLmoEB0enXcxUA4Gc5vK1/b16d3ba1b8c7f78fd1713a5b7d05e1d4/barbsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida extras:&lt;/b&gt; x1,25 → x1,1 (-12 %)
+&lt;b&gt;⏱️ Duración del potenciador:&lt;/b&gt; 2 s → 3 s (+50 %)&lt;/p&gt;
+&lt;p&gt;Los puntos de vida extras de la evolución de los bárbaros se parecerán más a los de otras evoluciones cuerpo a cuerpo, pero todavía sobrevivirán a una bola de fuego. Su potenciador durará más, lo que les permitirá alcanzar nuevos objetivos más fácilmente cuando luchen contra varias tropas.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de los murciélagos&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1GU3WFoB3ZqCdstrOFZd4N/c6a0bdf25de1e8e4138f9d5f1a035839/batsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Velocidad extra del primer ataque:&lt;/b&gt;
+0,3 s → 0,6 s (+100 %)&lt;/p&gt;
+&lt;p&gt;La evolución de los murciélagos tendrá el mismo potencial de siempre, pero necesitará más apoyo para sacarle el máximo partido.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución del ariete de batalla&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/AQAX9f6WC5SU6dJk98TlK/2a54a6a1336905dbdcf7c6ed72ee567a/battleramevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🫸 &lt;b&gt;Ya no hará retroceder&lt;/b&gt; a &lt;b&gt;las tropas pesadas&lt;/b&gt; (por ejemplo, la P.E.K.K.A. o el gran minero).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ℹ️&lt;/b&gt; Los ajustes de equilibrio de la evolución de los bárbaros también afectarán a los bárbaros del ariete de batalla.&lt;/p&gt;&lt;p&gt;Se podrá contrarrestar al ariete de batalla más fácilmente, ya que no empujará a las tropas pesadas, como a la P.E.K.K.A. o al gran minero. Aun así, seguirá teniendo el mismo potencial en la mayoría de casos.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución del bombardero&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;🔄 Ciclos:&lt;/b&gt;
+1 → 2 (+100 %)&lt;/p&gt;
+&lt;p&gt;La evolución del bombardero se convierte en una evolución de doble ciclo para animar a los jugadores a que la usen de forma más estratégica en lugar de desplegarla a la menor oportunidad.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de la lanzafuegos&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RCKxx4SShYEM99tGgaQcu/db16e565c20f633a9f00d7f86fb958e1/firecrackerevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida extras:&lt;/b&gt;
+x1,3 → x1 (-23 %)
+&lt;b&gt;💥⏱️ Duración de las chispas grandes:&lt;/b&gt;
+2,5 s → 3 s (+20 %)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;💥⏱️ Duración de las chispas pequeñas:&lt;/b&gt;
+2 s → 2,5 s (+25 %)
+🐢 Se ha añadido un &lt;b&gt;efecto de ralentización del 15 %&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;La evolución de la lanzafuegos también va a perder puntos de vida extras a cambio de un ataque más potente. Las chispas de la lanzafuegos además obtienen un efecto de ralentización del 15 %, como el veneno. Como su duración es mayor, el efecto de ralentización será más efectivo y, por lo tanto, impactará positivamente al daño que inflija.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución del caballero&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/UvZi04bi0o024a8DJ2ks6/a4ba12689e06108885a8f4feace80d0d/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida extras:&lt;/b&gt;
+x1,2 → x1,1 (-8 %)&lt;/p&gt;
+&lt;p&gt;Además de su poderosa habilidad de reducción de daño, el caballero cuenta con excelentes estadísticas, si tenemos en cuenta su coste. Vamos a equilibrar las evoluciones de las unidades cuerpo a cuerpo para que tengan una cantidad similar de puntos de vida extras. A partir de ahora, la resistencia de la evolución del caballero dependerá más de su habilidad que de sus puntos de vida adicionales.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución del mortero&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lfmecFbx84dIbQNhAyh1l/c781c94e20ddd508fc5b2f1484d6de9c/mortarevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida extras:&lt;/b&gt;
+x1,2 → x1 (-17 %)&lt;/p&gt;
+&lt;p&gt;Nuestro objetivo es que los jugadores se esfuercen en defender la evolución del mortero, ya que su ataque es mucho más fuerte y rápido en comparación con el de su versión no evolucionada.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Gigante noble (versión normal y evolucionada)&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYeTJoHN7fMq5IwH3A7vB/49b351604dbd28cb13d91bfc593f5c1b/rg_rgevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida del gigante noble:&lt;/b&gt;
+3072 → 3164 (+3 %)
+&lt;b&gt;❤️ Puntos de vida extras de la evolución:&lt;/b&gt;
+x1,1 → x1 (-10 %)&lt;/p&gt;
+&lt;h1&gt;Reclutas reales (versión normal y evolucionada)&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2D6VJCZSIitl2zbQOFsjHz/ee3dbaa6ae5a7af2df4a30cd83054c62/rrec_rrecevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida de los reclutas reales:&lt;/b&gt;
+532 → 547 (+3 %)
+&lt;b&gt;❤️ Puntos de vida extras de la evolución:&lt;/b&gt;
+x1,11 → x1 (-10 %)&lt;/p&gt;
+&lt;p&gt;La diferencia entre la versión normal y la evolucionada del gigante noble y de los reclutas reales era demasiado pronunciada, en especial teniendo en cuenta que cuestan 6 unidades de elixir o más. Queremos reducir un poco la diferencia entre ambas, así que también hemos potenciado un poco las cartas base.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de los esqueletos&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/45Z1nYQ2KLRaysGKYACib/304b410d7d0e1f6e88190422c1478af8/skeletonsevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Velocidad extra del primer ataque:&lt;/b&gt;
+0,4 s → 0,5 s (+25 %)&lt;/p&gt;
+&lt;p&gt;Al igual que la evolución de los murciélagos, la evolución de los esqueletos ya no contará con su velocidad adicional del primer ataque y necesitará de más apoyo para sacarle el máximo partido.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de la torre Tesla&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida extras:&lt;/b&gt;
+x1,2 → x1 (-17 %)
+&lt;b&gt;⚡ La evolución de la torre Tesla emitirá un pulso eléctrico cuando la destruyan.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;La evolución de la torre Tesla era especialmente valiosa por sus puntos de vida extras y normalmente solo generaba un pulso eléctrico. A partir de ahora, la evolución de la torre Tesla emitirá al menos dos pulsos eléctricos: uno cuando se despliegue y otro cuando la destruyan.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de la valquiria&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oq0jbv3iyUHZlnIZ9dnkR/f6d458ce4cbf94196e3241876586c9b2/valkevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida extras:&lt;/b&gt;
+x1,15 → x1,1 (-4 %)
+&lt;b&gt;💥 Daño del tornado:&lt;/b&gt;
+76 → 84 (+11 %)&lt;/p&gt;
+&lt;p&gt;Vamos a reducir los puntos de vida extras de la evolución de la valquiria, siguiendo la misma línea que con el resto de evoluciones de las unidades cuerpo a cuerpo. Su tornado ahora destruirá a los esqueletos y a los murciélagos con un solo ataque.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de los rompemuros&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7g4QhbMobKAWYIgsFR9qh5/d479926b33e145b510b66d918caf948e/wallbreakersevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 Daño del corredor:&lt;/b&gt;
+392 → 196 (-50 %)
+&lt;b&gt;⏱️ Velocidad del corredor:&lt;/b&gt;
+Alta → Muy alta&lt;/p&gt;
+&lt;p&gt;La evolución del rompemuros era un enemigo difícil de contrarrestar e infligía muchísimo más daño. Puesto que su diseño está centrado en la supervivencia, hemos reducido el daño extra y hemos aumentado su velocidad.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de la descarga&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/GgCsLp0UrgdaPWVzJ3SHS/4d45563694b168396046eda5ef1ddadb/zapevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 Daño de la segunda y de la tercera descargas:&lt;/b&gt;
+x1 → x0,5 (-50 %)&lt;/p&gt;
+&lt;p&gt;La evolución de la descarga era tan poderosa por la cantidad de daño que infligía. Con este cambio, el aturdimiento pasará a ser el protagonista.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Cañonero&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f4fgO90PDZyHeifrHWv1K/64faed848aef44d2f1681d16bbd3ce3d/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;💥 Daño:&lt;/b&gt;
+422 → 401 (-5 %)&lt;/p&gt;
+&lt;p&gt;El cañonero infligía demasiado daño, en especial cuando ambas torres apuntaban a una tropa.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Duquesa de dagas&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5yxT4j5DRq4Hx4LGKYzk3D/9ac3e07a1e14fac3cc422c20a40cb3aa/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Puntos de vida:&lt;/b&gt;
+3204 → 2768 (-14 %)&lt;/p&gt;
+&lt;p&gt;Aunque la duquesa de dagas tiene sus debilidades, era demasiado difícil aprovecharse de ellas debido a que tenía demasiados puntos de vida.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Recolector de elixir&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3gfMMjCrkyMhYldgOnbTWC/be44f69079298330eb296b16203b2ea6/elixircol.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Velocidad de producción:&lt;/b&gt;
+9 s → 12 s (+33 %)
+&lt;b&gt;⏱️❤️ Tiempo de vida:&lt;/b&gt;
+1 min 5 s → 1 m 26 s (+32 %)&lt;/p&gt;
+&lt;p&gt;El recolector de elixir producirá la misma cantidad de elixir que antes, pero le llevará más tiempo. Tanto el recolector de elixir como la duquesa de dagas son más fuertes con una producción normal de elixir. Ahora que los mazos del recolector de elixir tienen a una tropa de las torres con la que funcionan tan bien, hemos equilibrado la carta teniendo en cuenta a la duquesa de dagas.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Excavadora de duendes&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1SasChghB3GEWD581b1hiv/20f9b45fba067dbc4892d208c7bb2c2f/goblindrill.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Generación del primer duende:&lt;/b&gt;
+0,5 s → 0,8 s (+60 %)&lt;/p&gt;
+&lt;p&gt;El primer duende aparecía demasiado rápido, lo que hacía difícil contrarrestar a la excavadora de duendes sin saber dónde iba a aparecer.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Veneno&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53SGVQmC6XmZVf2m7pifQa/30a2d325a3dfc46f988f8a79209592ab/poison.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;👑💥 Daño/s. a las torres de coronas&lt;/b&gt;
+28 → 23 (-18 %)&lt;/p&gt;
+&lt;p&gt;El veneno prácticamente garantizaba la victoria en muerte súbita. Vamos a reducir su daño a las torres de coronas para animar a los jugadores a que usen otros métodos para obtener la victoria y que no recurran tanto al veneno.&lt;/p&gt;</description>
+      <guid isPermaLink="false">2ikC5jHcoD2RU9oEavpmNH</guid>
+      <category>Notas de actualización</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 07 May 2024 08:01:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
