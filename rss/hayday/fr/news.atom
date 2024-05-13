@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-05-13T08:35:51.119611+00:00</updated>
+  <updated>2024-05-13T09:34:28.518092+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -256,7 +256,7 @@ Dimanche : boost de production de 20 % pour 3 bâtiments aléatoires, événemen
   <entry>
     <id>4QmUJH3eZMthbGX9axFAwv</id>
     <title>Calendrier des événements Hay Day (semaine 20)</title>
-    <updated>2024-05-13T07:32:47.472000+00:00</updated>
+    <updated>2024-05-13T09:19:48.996000+00:00</updated>
     <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 20)&lt;/h1&gt;
 &lt;p&gt;Salut, amis de la ferme ! On a une super semaine d&amp;#39;événements qui arrive ! Tous les événements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, pièces de puzzle&lt;/p&gt;&lt;p&gt;Mardi : livraisons par camion, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;Mercredi : bateau, coupons supplémentaires&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, vide-grenier&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 20 % pour les poissons + points du pass Hay Day doublés&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, EXP doublée + livraisons par camion, pièces x2&lt;/p&gt;&lt;p&gt;Dimanche : événement nourriture pour animaux, 3 types de nourriture pour animaux aléatoires sont produits 2x plus rapidement + livraisons par bateau, pièces x2&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/fr/news/4QmUJH3eZMthbGX9axFAwv"/>
