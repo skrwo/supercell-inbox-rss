@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>squadbusters-newsEntries-es</id>
   <title>Squadbusters - News</title>
-  <updated>2024-05-15T10:34:27.709467+00:00</updated>
+  <updated>2024-05-15T11:33:08.051735+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -47,9 +47,19 @@
     <published>2024-04-23T09:20:37+00:00</published>
   </entry>
   <entry>
+    <id>2gG8P9MyV23OFnt9wBKjeY</id>
+    <title>¡Actualización opcional para iOS y Android!</title>
+    <updated>2024-04-29T10:23:40.681000+00:00</updated>
+    <content>&lt;p&gt;¡Ya está disponible una actualización opcional con los siguientes cambios!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Arregladas las repeticiones que no funcionaban&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido la degradación de personajes a una evolución anterior (corregido el sábado pasado).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Estamos trabajando para devolver a los personajes degradados al nivel de evolución que tenían antes del problema. Pronto lo solucionaremos.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido el problema de las invitaciones de equipo que aparecían durante la batalla.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha añadido un tiempo de espera y un retraso entre las ventanas emergentes para las solicitudes de equipo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha implementado un ajuste para desactivar las peticiones de unirse a un equipo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arreglado el problema de aceptar invitaciones de amigos cuando hay más de 1 invitación.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arreglados los fallos en dispositivos plegables.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido la pantalla negra que aparecía tras ser eliminado en el entrenamiento.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Las recompensas de los consumibles de batalla van hacia al botón de jugar en lugar de al botón de la tienda.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arreglado el temporizador del pase de gemas que no aparecía en algunas pantallas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido un emote que mostraba que estaba desbloqueado en el nivel 0.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Otras pequeñas correcciones&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;¡Asegúrate de actualizar el juego!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/es/news/2gG8P9MyV23OFnt9wBKjeY"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Novedades"/>
+    <published>2024-04-29T10:23:40+00:00</published>
+  </entry>
+  <entry>
     <id>3hYHeDGQ7SOoomaSThCsWY</id>
     <title>¡Recompensas gratuitas del lanzamiento global!</title>
-    <updated>2024-04-26T12:32:19.150000+00:00</updated>
+    <updated>2024-05-15T11:18:30.375000+00:00</updated>
     <content>&lt;p&gt;Para celebrar el lanzamiento global de &lt;b&gt;Squad Busters&lt;/b&gt;, conseguirás recompensas exclusivas gratis por cada una de las metas de preinscripción que alcance la comunidad.&lt;/p&gt;
 &lt;h1&gt;FUNCIONAMIENTO&lt;/h1&gt;
 &lt;p&gt;No hay uno ni dos, &lt;b&gt;¡sino CUATRO metas increíbles que alcanzar y desbloquear!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Quizá haya más, ¿quién sabe? 😶&lt;/p&gt;&lt;p&gt;¡Cuantas más preinscripciones haya en Google Play y en el App Store, más recompensas recibirá todo el mundo! La primera meta es de 1 millón de preinscripciones. Cuando se alcance una meta, se revelará la siguiente.&lt;/p&gt;&lt;p&gt;Estas son las recompensas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;10 000 monedas&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;El Tigre&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Cofres (comunes, especiales y épicos)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Emoji exclusivo del lanzamiento&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
@@ -61,18 +71,8 @@
 &lt;p&gt;¡ESO ES! Con cada meta que se alcance, se desbloquearán recompensas en el resto de juegos de Supercell:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Brawl Stars&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clash of Clans&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clash Royale&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Boom Beach&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Hay Day&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Asegúrate de reclamar las recompensas en los juegos ¡y prepárate para &lt;b&gt;el lanzamiento global de Squad Busters del 29 de mayo&lt;/b&gt;!&lt;/p&gt;
 </content>
     <link href="https://squadbusters.inbox.supercell.com/#/es/news/3hYHeDGQ7SOoomaSThCsWY"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Novedades"/>
-    <published>2024-04-26T09:20:40+00:00</published>
-  </entry>
-  <entry>
-    <id>2gG8P9MyV23OFnt9wBKjeY</id>
-    <title>¡Actualización opcional para iOS y Android!</title>
-    <updated>2024-04-29T10:23:40.681000+00:00</updated>
-    <content>&lt;p&gt;¡Ya está disponible una actualización opcional con los siguientes cambios!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Arregladas las repeticiones que no funcionaban&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido la degradación de personajes a una evolución anterior (corregido el sábado pasado).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Estamos trabajando para devolver a los personajes degradados al nivel de evolución que tenían antes del problema. Pronto lo solucionaremos.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido el problema de las invitaciones de equipo que aparecían durante la batalla.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha añadido un tiempo de espera y un retraso entre las ventanas emergentes para las solicitudes de equipo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha implementado un ajuste para desactivar las peticiones de unirse a un equipo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arreglado el problema de aceptar invitaciones de amigos cuando hay más de 1 invitación.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arreglados los fallos en dispositivos plegables.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido la pantalla negra que aparecía tras ser eliminado en el entrenamiento.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Las recompensas de los consumibles de batalla van hacia al botón de jugar en lugar de al botón de la tienda.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arreglado el temporizador del pase de gemas que no aparecía en algunas pantallas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido un emote que mostraba que estaba desbloqueado en el nivel 0.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Otras pequeñas correcciones&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;¡Asegúrate de actualizar el juego!&lt;/p&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/#/es/news/2gG8P9MyV23OFnt9wBKjeY"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="Novedades"/>
-    <published>2024-04-29T10:23:40+00:00</published>
+    <published>2024-05-15T07:00:00+00:00</published>
   </entry>
 </feed>

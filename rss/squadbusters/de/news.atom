@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-newsEntries-de</id>
   <title>Squadbusters - News</title>
-  <updated>2024-05-15T10:34:28.098586+00:00</updated>
+  <updated>2024-05-15T11:33:07.875025+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -46,9 +46,19 @@
     <published>2024-04-23T09:20:37+00:00</published>
   </entry>
   <entry>
+    <id>2gG8P9MyV23OFnt9wBKjeY</id>
+    <title>Optionales Update für iOS und Android!</title>
+    <updated>2024-04-29T10:23:40.681000+00:00</updated>
+    <content>&lt;p&gt;Ein optionales Update mit den folgenden Verbesserungen ist jetzt verfügbar!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fehlerhafte Wiederholungen wurden behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass Charaktere auf eine frühere Evolutionsstufe zurückgestuft wurden (behoben letzten Samstag)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Wir arbeiten daran, die zurückgestuften Charaktere wieder auf die Evolutionsstufe zurückzusetzen, die sie vor dem Problem hatten. Erwartet bald eine Fehlerbehebung!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass Gruppeneinladungen während eines Kampfes angezeigt wurden.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abklingzeit für Gruppenanfragen und Verzögerung zwischen Gruppenanfragen-Pop-ups hinzugefügt&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Eine Einstellung zur Deaktivierung von Gruppenanfragen wurde implementiert&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Das Problem mit dem Annehmen von Freundschaftseinladungen bei mehr als einer Einladung wurde behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abstürze auf faltbaren Geräten behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Schwarzer Bildschirm nach einer Niederlage im Training behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Belohnungen für Kampfverbrauchsgegenstände fliegen jetzt auf die Play-Taste und nicht mehr auf die Shop-Taste&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass der Juwelenpass-Timer in einigen Bildschirmen nicht angezeigt wurde&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Emote behoben, das anzeigt, dass es auf Stufe 0 freigeschaltet ist&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Andere kleine Verbesserungen&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Aktualisiert euer Spiel auf jeden Fall!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/de/news/2gG8P9MyV23OFnt9wBKjeY"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-04-29T10:23:40+00:00</published>
+  </entry>
+  <entry>
     <id>3hYHeDGQ7SOoomaSThCsWY</id>
     <title>Gratisbelohnungen zum globalen Launch!</title>
-    <updated>2024-04-26T12:32:19.150000+00:00</updated>
+    <updated>2024-05-15T11:18:30.375000+00:00</updated>
     <content>&lt;p&gt;Schalte zur Feier des globalen Launches von &lt;b&gt;Squad Busters&lt;/b&gt; für jeden Vorregistrierungs-Meilenstein, den die Community erreicht, EXKLUSIVE GRATISBELOHNUNGEN frei!&lt;/p&gt;
 &lt;h1&gt;SO FUNKTIONIERT‘S&lt;/h1&gt;
 &lt;p&gt;Es gibt nicht nur einen, nicht nur zwei, sondern &lt;b&gt;VIER tolle Meilensteine zum Freischalten!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nun, vielleicht sogar noch mehr – wer weiß? 😶&lt;/p&gt;&lt;p&gt;Je mehr Vorregistrierungen auf Google Play und im App Store verzeichnet werden, desto mehr Belohnungen bekommen alle! Der erste Meilenstein wird bei 1 Millionen Vorregistrierungen erreicht und der nächste wird jeweils enthüllt, sobald der vorherige freigeschaltet wurde!&lt;/p&gt;&lt;p&gt;Folgende Belohnungen gibt es:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;10.000 Münzen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;El Tigre&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Truhen (Gewöhnlich, Selten und Episch)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Exklusives Emote zum Launch&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
@@ -60,18 +70,8 @@
 &lt;p&gt;GENAU! Bei jedem Meilenstein werden auch in allen anderen Supercell-Spielen Belohnungen freigeschaltet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Brawl Stars&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clash of Clans&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clash Royale&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Boom Beach&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Hay Day&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fordere deine Belohnungen auch dort auf jeden Fall ein und bereite dich auf den &lt;b&gt;globalen Launch von Squad Busters am 29. Mai vor!&lt;/b&gt;&lt;/p&gt;
 </content>
     <link href="https://squadbusters.inbox.supercell.com/#/de/news/3hYHeDGQ7SOoomaSThCsWY"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
-    <published>2024-04-26T09:20:40+00:00</published>
-  </entry>
-  <entry>
-    <id>2gG8P9MyV23OFnt9wBKjeY</id>
-    <title>Optionales Update für iOS und Android!</title>
-    <updated>2024-04-29T10:23:40.681000+00:00</updated>
-    <content>&lt;p&gt;Ein optionales Update mit den folgenden Verbesserungen ist jetzt verfügbar!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fehlerhafte Wiederholungen wurden behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass Charaktere auf eine frühere Evolutionsstufe zurückgestuft wurden (behoben letzten Samstag)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Wir arbeiten daran, die zurückgestuften Charaktere wieder auf die Evolutionsstufe zurückzusetzen, die sie vor dem Problem hatten. Erwartet bald eine Fehlerbehebung!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass Gruppeneinladungen während eines Kampfes angezeigt wurden.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abklingzeit für Gruppenanfragen und Verzögerung zwischen Gruppenanfragen-Pop-ups hinzugefügt&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Eine Einstellung zur Deaktivierung von Gruppenanfragen wurde implementiert&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Das Problem mit dem Annehmen von Freundschaftseinladungen bei mehr als einer Einladung wurde behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abstürze auf faltbaren Geräten behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Schwarzer Bildschirm nach einer Niederlage im Training behoben&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Belohnungen für Kampfverbrauchsgegenstände fliegen jetzt auf die Play-Taste und nicht mehr auf die Shop-Taste&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass der Juwelenpass-Timer in einigen Bildschirmen nicht angezeigt wurde&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Emote behoben, das anzeigt, dass es auf Stufe 0 freigeschaltet ist&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Andere kleine Verbesserungen&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Aktualisiert euer Spiel auf jeden Fall!&lt;/p&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/#/de/news/2gG8P9MyV23OFnt9wBKjeY"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-04-29T10:23:40+00:00</published>
+    <published>2024-05-15T07:00:00+00:00</published>
   </entry>
 </feed>

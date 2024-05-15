@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-05-15T10:34:28.236276+00:00</updated>
+  <updated>2024-05-15T11:33:07.309488+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -47,10 +47,26 @@
     <published>2024-04-23T09:20:37+00:00</published>
   </entry>
   <entry>
+    <id>2gG8P9MyV23OFnt9wBKjeY</id>
+    <title>Optional Update for iOS and Android!</title>
+    <updated>2024-04-29T10:23:40.681000+00:00</updated>
+    <content>&lt;p&gt;An optional update with the following changes is now available!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed replays that were not working&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed characters downgrading to a previous evolution (fixed last Saturday)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;We are working on reverting the downgraded characters back to the evolution level they had before the issue. Expect a fix soon!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed party invites popping up while in Battle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added cooldown for party requests, and delay between party requests pop-ups&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Implemented a setting to disable ask-to-join party requests&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed accepting friend invites issue when having more than 1 invite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed crashes on foldable devices&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the black screen after getting busted during training&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Changed Battle consumables rewards flying to the Play button instead of the Shop button&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the Gem Pass timer not showing up on some screens&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an emote that is showing as unlocked at level 0&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Other small fixes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Make sure to update your game!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/2gG8P9MyV23OFnt9wBKjeY"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-04-29T10:23:40+00:00</published>
+  </entry>
+  <entry>
     <id>3hYHeDGQ7SOoomaSThCsWY</id>
     <title>Global Launch Free Rewards!</title>
-    <updated>2024-04-26T12:32:19.150000+00:00</updated>
-    <content>&lt;p&gt;To celebrate the global release of &lt;b&gt;Squad Busters&lt;/b&gt;, unlock FREE and EXCLUSIVE rewards for each pre-registration milestone the community achieves!&lt;/p&gt;
+    <updated>2024-05-15T11:18:30.375000+00:00</updated>
+    <content>&lt;h1&gt;New milestone unlocked! &lt;/h1&gt;
+&lt;p&gt;In order to THANK YOU all for supporting Squad Busters&amp;#39; launch, we&amp;#39;ve added a new milestone to the pre-registration reward track!&lt;/p&gt;&lt;p&gt;If we reach 40M pre-registrations before May 29, this beautiful Deco will be available at launch, and claimable for only a month!&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GVf4RB0pwJG6GjRimJtEH/01f3f46886f9052720b9c2e3b1f670b9/deco.png?w=3000&amp;h=3000&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Remember, each new player counts as a new pre-registration. Tell your friends, and let&amp;#39;s do this together!&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3Hp0SunaeqzWWOdDgKIEPh/07cb7913fc110ad13d7caebff55779ef/Screenshot_2024-05-15_at_14.25.00.png?w=2566&amp;h=822&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;Continue reading - Last Edit: April 26&lt;/h1&gt;
+&lt;p&gt;To celebrate the global release of &lt;b&gt;Squad Busters&lt;/b&gt;, unlock FREE and EXCLUSIVE rewards for each pre-registration milestone the community achieves!&lt;/p&gt;
 &lt;h1&gt;HOW IT WORKS&lt;/h1&gt;
 &lt;p&gt;We&amp;#39;ve got not just one, not two, but &lt;b&gt;FOUR awesome milestones to unlock!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Well, maybe even one more - who knows? 😶&lt;/p&gt;&lt;p&gt;The more pre-registrations on Google Play &amp;amp; the App Store, the more the rewards for everyone! The first milestone is at 1 million, and the next milestones will be revealed as we unlock the previous one!&lt;/p&gt;&lt;p&gt;These are the rewards:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;10000 Coins&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;El Tigre&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Chests (Common, Rare, and Epic)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Exclusive Global Emote&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4Qvmw3GSZjypLzm6STcOZ3/ac15c8f75f611a7c2e8168135d0ce8be/milestones.jpg?w=2080&amp;h=804&amp;f=center&amp;fit=fill"&gt;
@@ -61,18 +77,8 @@
 &lt;p&gt;YES! Each milestone will also unlock rewards in all the other Supercell games:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Brawl Stars&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clash of Clans&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clash Royale&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Boom Beach&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Hay Day&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Make sure to claim your rewards over there too, and be ready for &lt;b&gt;Squad Busters Global Launch on May 29th!&lt;/b&gt;&lt;/p&gt;
 </content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/3hYHeDGQ7SOoomaSThCsWY"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
-    <published>2024-04-26T09:20:40+00:00</published>
-  </entry>
-  <entry>
-    <id>2gG8P9MyV23OFnt9wBKjeY</id>
-    <title>Optional Update for iOS and Android!</title>
-    <updated>2024-04-29T10:23:40.681000+00:00</updated>
-    <content>&lt;p&gt;An optional update with the following changes is now available!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed replays that were not working&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed characters downgrading to a previous evolution (fixed last Saturday)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;We are working on reverting the downgraded characters back to the evolution level they had before the issue. Expect a fix soon!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed party invites popping up while in Battle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added cooldown for party requests, and delay between party requests pop-ups&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Implemented a setting to disable ask-to-join party requests&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed accepting friend invites issue when having more than 1 invite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed crashes on foldable devices&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the black screen after getting busted during training&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Changed Battle consumables rewards flying to the Play button instead of the Shop button&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the Gem Pass timer not showing up on some screens&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an emote that is showing as unlocked at level 0&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Other small fixes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Make sure to update your game!&lt;/p&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/#/en/news/2gG8P9MyV23OFnt9wBKjeY"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-04-29T10:23:40+00:00</published>
+    <published>2024-05-15T07:00:00+00:00</published>
   </entry>
 </feed>

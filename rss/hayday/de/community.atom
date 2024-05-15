@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-communityEntries-de</id>
   <title>Hayday - Community</title>
-  <updated>2024-05-15T10:34:27.184337+00:00</updated>
+  <updated>2024-05-15T11:33:04.531895+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Community</subtitle>
   <entry>
     <id>4NdrzyGogytD5iuZAtMTH8</id>
     <title>1000er Challenge Hay Day</title>
-    <updated>2024-05-15T10:34:27.184533+00:00</updated>
+    <updated>2024-05-15T11:33:04.532147+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>5skWMpgosrR9PYzU5bhGpv</id>
     <title>SCHNELL VIEL GELD</title>
-    <updated>2024-05-15T10:34:27.184504+00:00</updated>
+    <updated>2024-05-15T11:33:04.532116+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>3Z2iJmaLPNLJER2AD86AX9</id>
     <title>ALLE UPDATE INFOS</title>
-    <updated>2024-05-15T10:34:27.184473+00:00</updated>
+    <updated>2024-05-15T11:33:04.532084+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -42,7 +42,7 @@
   <entry>
     <id>nMkdaY0tkSikdypCBssdV</id>
     <title>APRIL UPDATE</title>
-    <updated>2024-05-15T10:34:27.184435+00:00</updated>
+    <updated>2024-05-15T11:33:04.532053+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -53,12 +53,34 @@
   <entry>
     <id>4VyUR1AF3ew6mMDRRv552g</id>
     <title>MAI UPDATES - DAIRY NEWS 😍</title>
-    <updated>2024-05-15T10:34:27.184362+00:00</updated>
+    <updated>2024-05-15T11:33:04.532021+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2IC8MgGFFWCEDRiE7HN19F/2bf59707acad87172940655aa852db81/guest-content-video-10-991b1391-3024-4dbc-a19c-5f8eac90d4f0-746u.png-1714472225545?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/y9Bp9arYjgg"/>
     <published>2024-04-30T10:17:12+00:00</published>
+  </entry>
+  <entry>
+    <id>4VSnKSpwnWlVS2C7bpVoyr</id>
+    <title>GOLD RAUSCH EVENT 🤑</title>
+    <updated>2024-05-15T11:33:04.531983+00:00</updated>
+    <author>
+      <name>SyromerB</name>
+    </author>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/RiYnhE94TsnrdDH6el777/44fa15457ccab3d7c189f6c080b553ed/guest-content-video-10-991b1391-3024-4dbc-a19c-5f8eac90d4f0-v4cw.png-1715771996977?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WGpJMV0DI_k"/>
+    <published>2024-05-15T11:20:03+00:00</published>
+  </entry>
+  <entry>
+    <id>56uGtprKRhBZW0UjiyFp5U</id>
+    <title>GOLD RAUSCH EVENT 🤑</title>
+    <updated>2024-05-15T11:33:04.531927+00:00</updated>
+    <author>
+      <name>SyromerB</name>
+    </author>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5x6R4kPcCnRy8mVXdYvkoe/8715dd90d42c1d2f0a89f857e21e0abc/guest-content-video-10-991b1391-3024-4dbc-a19c-5f8eac90d4f0-981y.png-1715772007164?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WGpJMV0DI_k"/>
+    <published>2024-05-15T11:20:13+00:00</published>
   </entry>
 </feed>
