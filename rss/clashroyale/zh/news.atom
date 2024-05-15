@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-15T14:33:48.027229+00:00</updated>
+  <updated>2024-05-15T15:33:11.084115+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -36,16 +36,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66V0N7nSlomi1MSiL2GgLc/2fa1078807e64f95a3cb3f2fce99616b/tw_20231201_CR-Roadmap-2024-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2023-12-01T04:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>2KeABF4kZLDGGAY5E214bq</id>
-    <title>Supercell MAKE：創作魔法皇家塔造型！</title>
-    <updated>2024-02-21T08:21:59.178000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/2KeABF4kZLDGGAY5E214bq"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2OduSnsyVyaML2XAVes7qc/507824f93c00f1b5242217701abb772d/thumbnail_960x540.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://supr.cl/make_ts"/>
-    <category term="社群"/>
-    <published>2024-02-15T13:54:02+00:00</published>
   </entry>
   <entry>
     <id>4q8PMynm1JFelPnxjQnQM9</id>
@@ -679,5 +669,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="更新說明"/>
     <published>2024-05-07T08:01:31+00:00</published>
+  </entry>
+  <entry>
+    <id>63XcJZv49gELlwyacBl6MR</id>
+    <title>進化法師🔥大揭秘</title>
+    <updated>2024-05-15T15:08:03.770000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/63XcJZv49gELlwyacBl6MR"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/50Yd9JaKbsCr0Bi7gdDQFA/3dc03239e28387f2bbe9e16a6f3fa922/evowizardloredrop.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/TRiBhXUELnw?feature=share"/>
+    <category term="趣味"/>
+    <published>2024-05-15T12:00:00+00:00</published>
   </entry>
 </feed>

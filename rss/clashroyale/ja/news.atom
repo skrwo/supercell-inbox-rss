@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-15T14:33:45.357120+00:00</updated>
+  <updated>2024-05-15T15:33:10.110739+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,15 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>2KeABF4kZLDGGAY5E214bq</id>
-    <title>Supercell MAKE：魔法のタワースキンを作成しましょう！</title>
-    <updated>2024-02-21T08:21:59.178000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/2KeABF4kZLDGGAY5E214bq"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2OduSnsyVyaML2XAVes7qc/507824f93c00f1b5242217701abb772d/thumbnail_960x540.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://supr.cl/make_ts"/>
-    <published>2024-02-15T13:54:02+00:00</published>
   </entry>
   <entry>
     <id>41qZ2LUFF3NXp3sJlXAL0M</id>
@@ -579,5 +570,15 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2024-05-07T08:01:31+00:00</published>
+  </entry>
+  <entry>
+    <id>63XcJZv49gELlwyacBl6MR</id>
+    <title>限界突破ウィザードの秘話🔥</title>
+    <updated>2024-05-15T15:08:03.770000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/63XcJZv49gELlwyacBl6MR"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/50Yd9JaKbsCr0Bi7gdDQFA/3dc03239e28387f2bbe9e16a6f3fa922/evowizardloredrop.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/TRiBhXUELnw?feature=share"/>
+    <category term="エンタメ"/>
+    <published>2024-05-15T12:00:00+00:00</published>
   </entry>
 </feed>
