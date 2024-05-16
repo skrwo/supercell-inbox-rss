@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-eventEntries-zh</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-05-16T09:32:55.089206+00:00</updated>
+  <updated>2024-05-16T10:34:18.770185+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -35,22 +35,5 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/67jyUpwT83ECTBYlDLGaM5/d319ebe0abf0418d805bc9813feae2f6/CR_S59_Season_Carousel_Image.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://clashroyale.inbox.supercell.com/#/zh/news/2Vd5pMIios9xUcHXAytsWF"/>
     <published>2024-05-06T09:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>67vMsuhYiLJDDtlRaI3bWh</id>
-    <title>🗞️</title>
-    <updated>2024-05-15T09:19:06.156000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 79.75%&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;📌 - 40M &lt;image src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zDCww7M1QJ75aB1LzTwxi/cd3c91d2544b60a5869c0569d4c222bf/Squad_deco_256.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 30M &lt;image src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7tbUYKBnU2S8LrDIZX4tO7/09b09c2991f20c3b92ce0ed2150ece7e/Clash_royale-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 20M &lt;image src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3JEcSAqUol3WyaU9VTzMJL/01f56d0e6e648ae6cc414be002f44d13/Clash_royale-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 5M &lt;image src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/43CuYLH5eMclYBfvzQavmb/6dd79043c779bad487ce0a8dd3910958/Clash_royale-2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;a href="https://squadbusters.com"&gt;👉破壞突擊隊，集合！Supercell全新遊戲正式上線，立即預訂！👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4BuKHgqfMUUHgdXhTc06Cz/a8831a51ce99b7ae0f39b848d2e0e751/royal-swirl.webp?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <link href="https://squadbusters.com"/>
-    <published>2024-04-26T09:03:59+00:00</published>
   </entry>
 </feed>

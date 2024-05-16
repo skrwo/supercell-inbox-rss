@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-eventEntries-en</id>
   <title>Boombeach - Event</title>
-  <updated>2024-05-16T09:33:00.834004+00:00</updated>
+  <updated>2024-05-16T10:34:27.364061+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox Event</subtitle>
@@ -83,39 +83,5 @@
     <content>⏱️ [TIMER] set to 22:59, 17.04.2024 (UTC) - Expired!</content>
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/Ycjxlulc6HUsdtfdNejrM/88996bb390ce4aabb260c673342d6b02/Carousel_V3.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <published>2024-04-15T08:45:31+00:00</published>
-  </entry>
-  <entry>
-    <id>68oFUEeqIjTe3Gcs2LqPXh</id>
-    <title>Pre-orders</title>
-    <updated>2024-05-15T08:10:46.428000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 79.75%&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;📌 - 40M &lt;image src="https://boombeach.inbox.supercell.com/cf7umh1jvp53/5NEKmpUmdAXVVNbHzN65PD/37730b7e5ffd03b3323a02a27bfe2488/Squad_deco_256.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 30M &lt;image src="https://boombeach.inbox.supercell.com/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 20M &lt;image src="https://boombeach.inbox.supercell.com/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 5M &lt;image src="https://boombeach.inbox.supercell.com/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;a href="https://squadbusters.com"&gt;👉Squad Up! Pre-order Supercell's new global game!👈&lt;/a&gt;</content>
-    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://squadbusters.com"/>
-    <published>2024-04-26T09:03:28+00:00</published>
-  </entry>
-  <entry>
-    <id>6M2uFb9weeDRzk3ke5Sp2k</id>
-    <title>Pre-registrations</title>
-    <updated>2024-05-15T08:11:26.041000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 79.75%&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;📌 - 40M &lt;image src="https://boombeach.inbox.supercell.com/cf7umh1jvp53/5NEKmpUmdAXVVNbHzN65PD/37730b7e5ffd03b3323a02a27bfe2488/Squad_deco_256.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 30M &lt;image src="https://boombeach.inbox.supercell.com/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 20M &lt;image src="https://boombeach.inbox.supercell.com/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 5M &lt;image src="https://boombeach.inbox.supercell.com/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;a href="https://squadbusters.com"&gt;👉Squad Up! Pre-register Supercell's new global game!👈&lt;/a&gt;</content>
-    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://squadbusters.com"/>
-    <published>2024-04-26T09:03:32+00:00</published>
   </entry>
 </feed>

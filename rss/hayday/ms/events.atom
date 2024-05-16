@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-eventEntries-ms</id>
   <title>Hayday - Event</title>
-  <updated>2024-05-16T09:32:59.203864+00:00</updated>
+  <updated>2024-05-16T10:34:24.607105+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -15,39 +15,5 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/cRcj4pkDW6Rh5ThtDKjVYxZNHJcNMJ9ukUsj4Qvsr1w/cc11b4a0a60932be2be4732bfa32eef7/1379298962_1625649229.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="hayday://OpenEventBoard"/>
     <published>2023-09-12T09:48:04+00:00</published>
-  </entry>
-  <entry>
-    <id>4rxCXuIlursfgl3dALxaPh</id>
-    <title>Prapendaftaran</title>
-    <updated>2024-05-15T09:14:06.266000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 79.75%&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;📌 - 40M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5wS63wGSZgNXlg7DjiSbSl/5f93205aa2553197741c0f3e88a848c7/Squad_deco_256.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 30M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7iFCSP4uoEcjpe7P3iQrwJ/cdf9a3fa4262b5bd93bc6e73fcbb997f/Hayday-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 20M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/CokXSB072zJTlL4XOySv9/8f7294da1c37013df369072df02cb2c2/Hayday-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 5M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5WEIaMhW8bvJKswzDR1pQn/67373768d0e84d5b37cc411921cb283a/Hayday-2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;a href="https://squadbusters.com"&gt;👉Bina skuad! Pradaftar permainan global Supercell yang baharu!👈&lt;/a&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://squadbusters.com"/>
-    <published>2024-04-26T09:00:51+00:00</published>
-  </entry>
-  <entry>
-    <id>1FsnqWUFCmbdZWRzRVEVDr</id>
-    <title>Prapesanan</title>
-    <updated>2024-05-15T09:14:17.019000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 79.75%&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;📌 - 40M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5wS63wGSZgNXlg7DjiSbSl/5f93205aa2553197741c0f3e88a848c7/Squad_deco_256.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 30M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3EbisKcaSENYYJnN0DI2Bu/76997abbdf2ad76149c8b1e2664802f9/Hayday-4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 20M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5PO2z5lflasOCsevSRr6iB/427c8b5254866ec8234bdd4e2b64def5/Hayday-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;✅ - 5M &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1Jq758Z1lNdPgiXj3RN4Sw/20316820d5cf3597d6a177c3a9dc2804/Hayday-2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;a href="https://squadbusters.com"&gt;👉Bina skuad! Prapesan permainan global Supercell yang baharu!👈&lt;/a&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/DB6tEuDKIrHfjJUBQtMYj/34fb1d09a739b2e3f13eff4578c5c8f9/Hayday-swirl.webp?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://squadbusters.com"/>
-    <published>2024-04-26T09:01:12+00:00</published>
   </entry>
 </feed>
