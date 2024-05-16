@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-16T15:32:51.658230+00:00</updated>
+  <updated>2024-05-16T16:36:15.453378+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>40D5v8t7xcPm0R2siV1Bve</id>
-    <title>#PiggyWeek Event!</title>
-    <updated>2024-02-20T19:34:20.077000+00:00</updated>
-    <content>&lt;p&gt;Piggy Week is here! &lt;/p&gt;&lt;p&gt;
-Starting today, we are having 3 special consecutive Mega Pigs to get you warmed up for the next Brawl Talk coming on February 24th!
-
-And the twist here is that each of these Mega Pigs will have its own game mode and Modifiers, different from each other and alongside all this, there will also be resource Events happening at the same time as the Mega Pigs, so everyone wins! 
-
-Unless you lose.
-
-Anyway, here’s the full schedule of events:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;February 16th&lt;/b&gt;: Brawl Ball Mega Pig + Coin Shower &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;February 20th&lt;/b&gt;: Knockout Mega Pig  + Double XP&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;February 24th&lt;/b&gt;: All Modes Mega Pig + Mastery 100% &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;February 27th&lt;/b&gt;: Event Ends
-
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;b&gt;Club Giveaways&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;
-At the end of this event, we will pick ONE HUNDRED CLUBS that have participated in at least one Mega Pig, and &lt;b&gt;everyone in those Clubs will get a Brawl Pass Plus for the upcoming season&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;
-
-The first Mega Pig is live now, so make sure you’re in a Club with other active players and start filling those Mega Pigs!&lt;/p&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/#/en/news/40D5v8t7xcPm0R2siV1Bve"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7gSr5taBlKwFz2zk7hfvMu/cec9abbeb67e60ab66a5ad07bccbf234/0216_Mega_Pig_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="Community"/>
-    <published>2024-02-16T10:59:15+00:00</published>
-  </entry>
   <entry>
     <id>3CFjSQzySKaHKpe1IKUx0f</id>
     <title>SUPERCELL MAKE: Vote for your favorite Gene and Sandy Skins!</title>
@@ -244,7 +222,7 @@ Mr. P Results!&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Winner! -&lt;b&gt; Dragon Fruit P&lt
   <entry>
     <id>1Z8og6lx80LlgyIaO8qudt</id>
     <title>Patch notes: Godzilla Attacks Brawl!</title>
-    <updated>2024-05-08T05:15:21.249000+00:00</updated>
+    <updated>2024-05-16T16:12:21.770000+00:00</updated>
     <content>&lt;h3&gt;Maintenance Break - May 3rd&lt;/h3&gt;&lt;p&gt;&lt;b&gt;BUG FIXES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed issue where Fame Profile Icon could be unlocked without reaching the required Fame&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sprout&amp;#39;s Super no longer blocks kaiju (Godzilla/Mechagodzilla) movement&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gray&amp;#39;s &amp;quot;Walking Cane&amp;quot; Gadget can no longer be used to pull kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mutation modifiers would occasionally disappear when a new event started&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Otis can no longer use his Gadget as a kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kaiju will no longer get stuck on buildings&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Friendly competition matches will now continue until required wins are achieved&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Extra Movement Speed and Health added to kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Extra Health added to buildings in City Smash&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;
 MUTATION CHANGES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Stu’s Gaso-Heal Star Power heals 50% less when the Mutation is active &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Rico and Ruffs&amp;#39; projectiles bounce less&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;
 RANKED FIXES &amp;amp; CHANGES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed the Ranked Star not appearing you get to the same rank twice or more&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Second Wind has only a 1% chance of being selected in a Ranked match&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;h3&gt;Android Optional Update - April 26th&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;An optional update is now available with fixes to some crashes on Android devices &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;h3&gt;Maintenance Break - April 25th&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed a game crash caused by Lily&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed a map of City Smash that couldn&amp;#39;t be completed&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Kit&amp;#39;s Gadget description&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Player Profile not being able to save information&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Count Pengula attack projectile texture&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Brawler Mutations being available in Duels in Friendly Mode&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Ranked Boost stopping one rank lower than it should&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ranked Boost rebalanced: Bronze (no boost), Silver (10%), Gold (20%), Diamond (30%), Mythic (50%), Legendary (75%), Master (100%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fixes for Android crashes and other fixes will be coming (hopefully) early next week!&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;New Brawler:  &lt;b&gt;Lily&lt;/b&gt; (Mythic)&lt;/h3&gt;&lt;p&gt;Type: Assassin&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Trait: &lt;b&gt;Charges Super when near opponents. Has invisible footsteps&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Attack: &lt;b&gt;Thorn in the side&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lily stabs in front of her. Has one ammo&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Super: &lt;b&gt;Flourish&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Throws a projectile in a straight line. If it hits an opponent, deal minor damage and teleport behind the opponent&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gadget: &lt;b&gt;Vanish&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lily enters the shadow realm for 3 seconds&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gadget: &lt;b&gt;Repot&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;The next Super becomes a thrown attack, and Lily will teleport to the impact point regardless of hitting a target&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Star Power: &lt;b&gt;Spiky&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;After teleporting to an opponent, Lily’s next Thorn in the side deals an additional 50% damage&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Star Power: &lt;b&gt;Vigilance&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lily gains 15% movement speed while an opponent is in range of her Super charge radius &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;
