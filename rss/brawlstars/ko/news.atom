@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-16T06:32:36.036725+00:00</updated>
+  <updated>2024-05-16T07:32:56.127811+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -311,5 +311,15 @@
     <link href="https://cafe.naver.com/brawlstars/1163185"/>
     <category term="뉴스"/>
     <published>2024-05-08T08:21:02+00:00</published>
+  </entry>
+  <entry>
+    <id>4SBZGfHEzXc9sLV6SiLPFb</id>
+    <title>[Showdown in Starfield] 스타필드 고양 5월 18일(토), 19일(일) 운영 안내</title>
+    <updated>2024-05-16T06:55:01.800000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/4SBZGfHEzXc9sLV6SiLPFb"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4804wFZqit0aF8SzBlZ3TP/af7fb249c5344fc111ff6dc5d9014ba6/0516_PR_BSxSSG______community_1080x1080_Inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1169437"/>
+    <category term="뉴스"/>
+    <published>2024-05-16T06:55:01+00:00</published>
   </entry>
 </feed>
