@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-17T07:32:58.755114+00:00</updated>
+  <updated>2024-05-17T08:34:17.916057+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>3CFjSQzySKaHKpe1IKUx0f</id>
-    <title>Supercell Make: 가장 마음에 드는 진 스킨과 샌디 스킨에 투표하세요!</title>
-    <updated>2024-02-20T19:32:59.930000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3CFjSQzySKaHKpe1IKUx0f"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5DQ7bUUzFehlDjJYChDvG7/c1ba8e8ef2518fe7f93dd5c3689f7c57/0215_SC_Make_voting_starts_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://make.supercell.com/en/campaign/26J1wTlSbFrtMaouVvZdj3"/>
-    <category term="커뮤니티"/>
-    <published>2024-02-17T08:00:00+00:00</published>
-  </entry>
   <entry>
     <id>7fhld5Ku63miudrlFrCoK3</id>
     <title>밸런스 조정의 뒷배경과 신규 브롤러 소식...? 🎙 (EN)</title>
@@ -263,16 +253,6 @@
     <published>2024-04-30T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>5Zs8PqjR9YCpKbWh0LPREa</id>
-    <title>⭐댓글 이벤트⭐이토록 모두가 브롤스타즈 영상 보고 댓글 남기면 브롤 패스가!?</title>
-    <updated>2024-05-01T10:16:20.136000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/5Zs8PqjR9YCpKbWh0LPREa"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6vXiQOvwisWGYjjlGddiJO/c19dbb739dd3d91e02046dcdb77507b9/01_TVC_________1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/GpKThzYiReQ?si=HsaxI2JtUuDD4_wN"/>
-    <category term="동영상"/>
-    <published>2024-05-01T10:16:20+00:00</published>
-  </entry>
-  <entry>
     <id>5NCqRyo6NjFu1WGpWTgwmJ</id>
     <title>고질라가 브롤스타즈에 출격!</title>
     <updated>2024-05-02T12:44:30.119000+00:00</updated>
@@ -303,6 +283,16 @@
     <published>2024-05-08T08:21:02+00:00</published>
   </entry>
   <entry>
+    <id>5Zs8PqjR9YCpKbWh0LPREa</id>
+    <title>⭐댓글 이벤트⭐이토록 모두가 브롤스타즈 영상 보고 댓글 남기면 브롤 패스가!?</title>
+    <updated>2024-05-17T08:28:15.407000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/5Zs8PqjR9YCpKbWh0LPREa"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6vXiQOvwisWGYjjlGddiJO/c19dbb739dd3d91e02046dcdb77507b9/01_TVC_________1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/GpKThzYiReQ?si=HsaxI2JtUuDD4_wN"/>
+    <category term="동영상"/>
+    <published>2024-05-15T15:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>4SBZGfHEzXc9sLV6SiLPFb</id>
     <title>[Showdown in Starfield] 스타필드 고양 5월 18일(토), 19일(일) 운영 안내</title>
     <updated>2024-05-16T06:55:01.800000+00:00</updated>
@@ -311,5 +301,15 @@
     <link href="https://cafe.naver.com/brawlstars/1169437"/>
     <category term="뉴스"/>
     <published>2024-05-16T06:55:01+00:00</published>
+  </entry>
+  <entry>
+    <id>4hUstuFxYzzJP0QSHi3c6j</id>
+    <title>🎊커뮤니티 이벤트🎊 이토록 모두가, 브롤스타즈!</title>
+    <updated>2024-05-17T08:24:31.569000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/4hUstuFxYzzJP0QSHi3c6j"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2SKcv0vbARL7uuRCDvkJx8/e83731796c10823c4e96ee23b2b45450/0517_BS_________________800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1170070"/>
+    <category term="커뮤니티"/>
+    <published>2024-05-17T08:24:31+00:00</published>
   </entry>
 </feed>
