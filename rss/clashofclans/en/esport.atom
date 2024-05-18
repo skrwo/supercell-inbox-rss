@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-05-18T18:33:25.252287+00:00</updated>
+  <updated>2024-05-18T19:33:01.544480+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -327,5 +327,14 @@ Millesime MG: Millesime MG consists of &lt;a href="javascript:window.sendCommand
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1X9Zdh8fKP6aGYGXQGe1mb/b3c4aa16c9a899dff985588378c7053d/SPS_article_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-05-17T14:58:23+00:00</published>
+  </entry>
+  <entry>
+    <id>6GoEv9f3PbLurRiooLZbeg</id>
+    <title>Rewatch the May Monthly Qualifier Day 1!</title>
+    <updated>2024-05-18T19:29:11.970000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/55NyYENQmSPAfUCggNEVEf/89d851a8f286ce152cc77328308e8384/COC_-_May_MQ_Day_1_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2148877034?t=00h23m48s"/>
+    <category term="Esports"/>
+    <published>2024-05-18T19:17:17+00:00</published>
   </entry>
 </feed>
