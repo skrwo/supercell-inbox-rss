@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>brawlstars-newsEntries-ru</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-18T06:33:51.014647+00:00</updated>
+  <updated>2024-05-18T07:32:47.019480+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>7fhld5Ku63miudrlFrCoK3</id>
-    <title>Время объяснить: Давайте поговорим о балансе!</title>
-    <updated>2024-02-20T19:31:52.227000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ru/news/7fhld5Ku63miudrlFrCoK3"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5kwsXpnt2VhqU65CvyWoKJ/8ee265014817903de4e0fb7d9df0fbf7/0216_Time_to_explain_Dani_1920x1080_v2_RU.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/SUhp-sPCO5I"/>
-    <category term="Сообщество"/>
-    <published>2024-02-18T06:00:00+00:00</published>
-  </entry>
   <entry>
     <id>6u5paM3hThMSQxNYHvjhgR</id>
     <title>Проголосуй за любимый скин!</title>
