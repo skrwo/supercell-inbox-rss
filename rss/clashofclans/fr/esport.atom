@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-05-19T18:33:22.906295+00:00</updated>
+  <updated>2024-05-19T19:33:24.225175+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -319,5 +319,14 @@ Millesime MG: Millesime MG consists of Natchoa, KingsMan, Hawk, TryHard and El T
     <link href="https://www.twitch.tv/videos/2148878702?t=00h21m11s"/>
     <category term="E-sport"/>
     <published>2024-05-18T19:17:17+00:00</published>
+  </entry>
+  <entry>
+    <id>5WV638B0y6EKSb8ZvSAs4c</id>
+    <title>Rewatch the May Monthly Qualifier Day 2!</title>
+    <updated>2024-05-19T19:04:39.555000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5lWSqfodbTg9g8EYdtg1gX/84583f731ad2c2ad07f7c466b4219cdd/COC_-_May_MQ_Thumb_Day_2_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/dBd4BMWiZYw?si=mdOYSJrzI2ecOKTD&amp;t=1138"/>
+    <category term="E-sport"/>
+    <published>2024-05-19T19:00:41+00:00</published>
   </entry>
 </feed>
