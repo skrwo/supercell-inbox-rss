@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-19T04:35:06.093746+00:00</updated>
+  <updated>2024-05-19T05:33:01.575290+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>R6foiF7dSbeQbBp3TM9A1</id>
-    <title>Brawl Event</title>
-    <updated>2024-03-27T13:37:09.821000+00:00</updated>
-    <content>&lt;a href="brawlstars://scidOpenWebSSO?url=https%3A%2F%2Fevent.supercell.com%2Fbrawlstars%3Fsso_client_id%3DCE657724-A952-4F2F-B2AA-A4E712EB685B"&gt;👉Brawl Event👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/#/en/news/R6foiF7dSbeQbBp3TM9A1"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6DODzPuOkC7bYbZuVd89vH/3b1524b14f20905c1dcffb998330233d/0226_Ranked_Patch_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-02-18T22:00:00+00:00</published>
-  </entry>
   <entry>
     <id>6u5paM3hThMSQxNYHvjhgR</id>
     <title>Vote for Sandy &amp; Gene's MAKE Skins!</title>
