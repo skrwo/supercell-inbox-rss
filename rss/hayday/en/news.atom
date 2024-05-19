@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-05-19T07:33:30.876707+00:00</updated>
+  <updated>2024-05-19T08:33:25.290891+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -315,5 +315,17 @@ Sunday: Production Building Boost Event (3 Random Buildings, 20% Boost) + Garden
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-05-12T10:21:52+00:00</published>
+  </entry>
+  <entry>
+    <id>26n7hE4ieDrN46XiLvGPJe</id>
+    <title>Hay Day Events Week 21! </title>
+    <updated>2024-05-19T08:00:30.186000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Events Week 21!&lt;/h1&gt;
+&lt;p&gt;Hello farmers! We have an action packed week up ahead with the Triple XP Week Event! All Events start at 8 AM UTC. Dive into the specifics of each Event by visiting our Event Board in the game. 
+&lt;/p&gt;&lt;p&gt;Monday: Spin the Wheel (Puzzle Pieces) + 3x XP Truck Orders&lt;/p&gt;&lt;p&gt;Tuesday: Truck Event (2x Coins) + 3x XP Boat Orders &lt;/p&gt;&lt;p&gt;Wednesday: Boat Event (Puzzle Pieces) + 3x XP Town Visitors &lt;/p&gt;&lt;p&gt;Thursday: Farm Visitor Event (2x Coins) + 3x XP Truck Orders &lt;/p&gt;&lt;p&gt;Friday: Fishing Production Boost Event (Duck Salon and Net Maker, 30%) + 3x XP Town Visitors + 2x Farm Pass Points &lt;/p&gt;&lt;p&gt;Saturday: Town Visitor (2x Coins) + 3x XP Boat Orders &lt;/p&gt;&lt;p&gt;Sunday: Fruit Boost Event (3 Fruit instead of 2, 3 random fruits) + 3x XP Truck Orders &lt;/p&gt;&lt;p&gt;Have a great week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/26n7hE4ieDrN46XiLvGPJe"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-05-19T08:00:03+00:00</published>
   </entry>
 </feed>

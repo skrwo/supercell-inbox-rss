@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>hayday-newsEntries-id</id>
   <title>Hayday - News</title>
-  <updated>2024-05-19T07:33:28.022904+00:00</updated>
+  <updated>2024-05-19T08:33:25.094823+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -241,5 +241,16 @@ Minggu: Acara Pelaju Bangunan Produksi (3 Bangunan Acak, Pelaju 20%) + Acara Mem
     <link href="https://hayday.inbox.supercell.com/#/id/news/6F7LTwjuc6Tiky87FiRpap"/>
     <category term="Promosi"/>
     <published>2024-04-30T08:41:30+00:00</published>
+  </entry>
+  <entry>
+    <id>26n7hE4ieDrN46XiLvGPJe</id>
+    <title>Acara Hay Day Minggu ke-21! </title>
+    <updated>2024-05-19T08:00:30.186000+00:00</updated>
+    <content>&lt;h1&gt;Acara Hay Day Minggu ke-21!&lt;/h1&gt;
+&lt;p&gt;Halo, Petani! Ada satu minggu penuh aksi dengan kehadiran Acara XP Lipat Tiga! Semua Acara dimulai pukul 08.00 UTC (15.00 WIB). Cermati detail masing-masing Acara dengan mengunjungi Papan Acara dalam game.&lt;/p&gt;&lt;p&gt;Senin: Putar Roda (Keping Puzzle) + 3x XP untuk Pesanan Truk&lt;/p&gt;&lt;p&gt;Selasa: Acara Truk (2x Koin) + 3x XP untuk Pesanan Perahu&lt;/p&gt;&lt;p&gt;Rabu: Acara Perahu (Keping Puzzle) + 3x XP Pengunjung Kota&lt;/p&gt;&lt;p&gt;Kamis: Acara Pengunjung Pertanian (2x Koin) + 3x XP untuk Pesanan Truk&lt;/p&gt;&lt;p&gt;Jumat: Acara Pelaju Produksi Memancing (Salon Bebek dan Pembuat Jaring, 30%) + 3x XP untuk Pengunjung Kota + 2x Poin Tiket Pertanian&lt;/p&gt;&lt;p&gt;Sabtu: Pengunjung Kota (2x Koin) + 3x XP untuk Pesanan Perahu&lt;/p&gt;&lt;p&gt;Minggu: Acara Pelaju Buah (3 Buah dan bukan 2 seperti biasanya, 3 Buah acak) + 3x XP untuk Pesanan Truk&lt;/p&gt;&lt;p&gt;Semoga minggumu seru!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/id/news/26n7hE4ieDrN46XiLvGPJe"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Promosi"/>
+    <published>2024-05-19T08:00:03+00:00</published>
   </entry>
 </feed>

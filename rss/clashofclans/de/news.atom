@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-19T07:33:25.091286+00:00</updated>
+  <updated>2024-05-19T08:33:24.110292+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -206,5 +206,17 @@ Wenn du lieber auf Facebook teilnehmen möchtest, KLICKE HIER&lt;/p&gt;&lt;p&gt;
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5g23mob0LOo81YPFI27O4c/0f31e52eb2eebf64fc2b47c7f0efad1b/FreeKickers_inboxThumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="community"/>
     <published>2024-05-18T12:07:26+00:00</published>
+  </entry>
+  <entry>
+    <id>3xeiJFJkwSFw4xYwDlSNey</id>
+    <title>Clash auf dem PC – Sonderangebot!</title>
+    <updated>2024-05-19T08:00:03.833000+00:00</updated>
+    <content>&lt;h1&gt;Hallo Häuptling!&lt;/h1&gt;
+&lt;p&gt;Nutze unser Sonderangebot für das &lt;b&gt;„Clash mit Haaland“&lt;/b&gt;-Medaillenereignis!&lt;/p&gt;&lt;p&gt;Wenn du den Ereignispass über Google Play Spiele auf dem PC kaufst, erhältst du einen Rabatt in Höhe von 4 $ bzw. einem gleichwertigen Betrag in deiner Landeswährung (Verrechnung beim Bezahlvorgang).&lt;/p&gt;&lt;p&gt;Besuche &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fplay.google.com%252Fstore%252Fapps%252Fdetails%253Fid%253Dcom.supercell.clashofclans%2526hl%253Dde')"&gt;play.google.com/googleplaygames&lt;/a&gt; vor dem 23. Mai und sichere dir dieses epische Angebot!&lt;/p&gt;&lt;p&gt;Das Angebot ist in den folgenden Regionen verfügbar: Vereinigte Staaten, Mexiko, Singapur, Malaysia, Indonesien, Südkorea, Taiwan, Hongkong, Australien, Thailand, Philippinen, Brasilien, Frankreich, Großbritannien, Deutschland, Türkei, Peru, Chile, Kolumbien, Indien.
+Die Berechtigung zur Nutzung des Angebots richtet sich nach der Art des Google-Kontos sowie dessen Einstellungen und Qualitäts-Checks.&lt;/p&gt;&lt;p&gt;&lt;i&gt;Weiterhin viel Spaß mit Clash!&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/de/news/3xeiJFJkwSFw4xYwDlSNey"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1ed0YANsW0ruhDsNQlAguX/6a6188d7e1b922e3920bd611b5159ec8/nologo_ClashonPC_Google_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="news"/>
+    <published>2024-05-19T08:00:03+00:00</published>
   </entry>
 </feed>
