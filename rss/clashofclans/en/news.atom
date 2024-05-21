@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-21T16:36:35.202943+00:00</updated>
+  <updated>2024-05-21T17:33:50.477927+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>73tuzblp2QFrRjkfUdRZRi</id>
-    <title>February Rewards! </title>
-    <updated>2024-02-22T09:30:14.186000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/en/news/73tuzblp2QFrRjkfUdRZRi"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6byZfm9gMsstwI9k0xBvQ5/ad8e662a72bd874b50ca08b7ca094dec/SUP3683-coc-clan-games-rewards-feb24-V1.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/ClashofClans/status/1760288338680942747"/>
-    <category term="News"/>
-    <published>2024-02-21T17:16:18+00:00</published>
-  </entry>
   <entry>
     <id>5Jm6pjSC8WkpbBYCb8s0nZ</id>
     <title>New Spell! </title>

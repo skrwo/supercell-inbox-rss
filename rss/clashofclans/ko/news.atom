@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-21T16:36:34.640071+00:00</updated>
+  <updated>2024-05-21T17:33:51.918743+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -22,16 +22,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4XanwHug2IvJQio2XMDsxa/55c7c4fcdf7ac2666b5d0605e2c648d9/1023_SUP3533_ClashonPC_October_2023__1920x1080_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2023-10-24T15:42:26+00:00</published>
-  </entry>
-  <entry>
-    <id>73tuzblp2QFrRjkfUdRZRi</id>
-    <title>2월 클랜 게임 보상!</title>
-    <updated>2024-02-22T09:30:14.186000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/73tuzblp2QFrRjkfUdRZRi"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1r6YvANDuWWezHAkvk9ho7/06bad4affa245e36cdef68ca79267d0d/0221_clan-game-rewards_KR_1264x876_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/post/UgkxZc0nXxFecnVLShvX5H_wS4by53pkcHRZ"/>
-    <category term="뉴스"/>
-    <published>2024-02-21T17:16:18+00:00</published>
   </entry>
   <entry>
     <id>5Jm6pjSC8WkpbBYCb8s0nZ</id>
@@ -308,16 +298,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/173t47Z7KTGECWV3l5nykn/a6887977f11d8408da9a3bcf1896c64e/0509_COC_holland_1920x1080_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="변경 사항"/>
     <published>2024-05-06T12:22:00+00:00</published>
-  </entry>
-  <entry>
-    <id>1J0ouYjIvn8VPh5uSpK82U</id>
-    <title>🎁 홀란드 대장의 역대급 이벤트!</title>
-    <updated>2024-05-09T04:30:44.766000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/1J0ouYjIvn8VPh5uSpK82U"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2hsOmGMUmmUzAbFv84IxLx/a8add0e72c3e72da86af5de4f07b6564/4W_0430_5_____________3.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://kko.to/AmOhT2X0nf"/>
-    <category term="커뮤니티"/>
-    <published>2024-05-09T04:00:00+00:00</published>
   </entry>
   <entry>
     <id>3xeiJFJkwSFw4xYwDlSNey</id>
