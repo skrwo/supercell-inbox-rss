@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 May 2024 13:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 14:33:46 +0000</lastBuildDate>
     <item>
       <title>Всё, что вам нужно знать!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -62,6 +62,14 @@
       <guid isPermaLink="false">1yohkcKJO7Efn7vh4EXnk9</guid>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 May 2024 08:21:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Официальное руководство для начинающих Squad Busters!</title>
+      <link>https://youtu.be/CD6koZwbkvU</link>
+      <guid isPermaLink="false">5dqjwCCF38MsmZxWJTzH3k</guid>
+      <category>Сообщество</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 21 May 2024 14:20:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

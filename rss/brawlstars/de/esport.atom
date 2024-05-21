@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-esportNewsEntries-de</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-21T13:32:56.313061+00:00</updated>
+  <updated>2024-05-21T14:33:14.532973+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -31,5 +31,21 @@ Melde dich jetzt für die Magenta eTrophy Brawl Stars an und qualifiziere dich m
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2xWyg0ZnwIjCkVS9ozvMSa/576df7db90b91f1288ad51630146f36b/inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-04-26T10:46:36+00:00</published>
+  </entry>
+  <entry>
+    <id>2p0WRKqbxf68UgQcdbxRWU</id>
+    <title>BSC Monthly Finals Watchparty in Köln!</title>
+    <updated>2024-05-21T10:53:28.340000+00:00</updated>
+    <content>&lt;p&gt;Es wird Zeit für eine weitere &lt;b&gt;EMEA Monthly Final Watchparty!&lt;/b&gt;
+
+Diesen Monat habt ihr wieder die Möglichkeit eure Lieblingsspieler live aus der SK Magenta Facility anzufeuern und anschließend unser Brawl Stars Team zu treffen.
+
+&lt;b&gt;Wann?&lt;/b&gt; Am 25.05.2024, um 12:00 - 20:00 Uhr
+
+bei &lt;b&gt;SK Magenta Facility&lt;/b&gt;, in Köln!&lt;/p&gt;&lt;p&gt;Wir freuen uns auf euch!&lt;/p&gt;
+&lt;a href="https://www.eventbrite.com/e/brawl-stars-emea-may-monthly-finals-watchparty-tickets-901394654677"&gt;👉Tickets gibt es hier!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2ChfTtFeZq4o2gbp5aft5D/62244b9b4e383759421ba8edfa6a090e/MayMFWeb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Esports"/>
+    <published>2024-05-21T10:53:28+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-21T13:33:03.917419+00:00</updated>
+  <updated>2024-05-21T14:33:15.339218+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -77,5 +77,14 @@
     <link href="https://twitter.com/BrawlBallLeague/status/1788208098412290557"/>
     <category term="Esports"/>
     <published>2024-05-09T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6f6qo7yarkicKjO4XDBYIm</id>
+    <title>¡Inscríbete en las Clasificatorias de Última Oportunidad de Brawl Professional Series!</title>
+    <updated>2024-05-21T13:34:29.156000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4I0QHJKvQWmnzHYfL1U8iw/92f8111dbad2eead048459dc18c7ad00/ES2_-BPS-Qualifiers-EMEA.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/brawlpseries/status/1791531369752850823?s=46"/>
+    <category term="Esports"/>
+    <published>2024-05-19T23:00:00+00:00</published>
   </entry>
 </feed>
