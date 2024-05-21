@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-21T07:33:35.289081+00:00</updated>
+  <updated>2024-05-21T08:35:25.782200+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -491,9 +491,21 @@
     <published>2024-05-06T12:22:00+00:00</published>
   </entry>
   <entry>
+    <id>3xeiJFJkwSFw4xYwDlSNey</id>
+    <title>《部落衝突》PC版特惠！</title>
+    <updated>2024-05-19T08:00:03.833000+00:00</updated>
+    <content>&lt;h1&gt;嘿，首領！&lt;/h1&gt;
+&lt;p&gt;在&lt;b&gt;並肩哈蘭德&lt;/b&gt;代幣活動期間，來獲取超值特惠吧！&lt;/p&gt;&lt;p&gt;在PC版透過Google Play Games購買「並肩哈蘭德」活動通行證，將有4美元（或你當地貨幣的等價金額）的折扣，並在結帳時生效。&lt;/p&gt;&lt;p&gt;5月23日前，前往&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fplay.google.com%252Fgoogleplaygames%252Fcom.supercell.clashofclans%253Fpcampaignid%253Dgtm-gpg-gip-smart-clans1')"&gt;play.google.com/googleplaygames&lt;/a&gt;，即可享受這個超級特惠！&lt;/p&gt;&lt;p&gt;此特惠適用於以下國家/地區：美國、墨西哥、新加坡、馬來西亞、印尼、韓國、台灣、香港、澳洲、泰國、菲律賓、巴西、法國、英國、德國、土耳其、秘魯、智利、哥倫比亞、印度。
+優惠資格取決於Google帳號類型、Google帳號設定及Google帳號品質檢查。&lt;/p&gt;&lt;p&gt;&lt;i&gt;全面開戰！&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3xeiJFJkwSFw4xYwDlSNey"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1ed0YANsW0ruhDsNQlAguX/6a6188d7e1b922e3920bd611b5159ec8/nologo_ClashonPC_Google_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-05-19T08:00:03+00:00</published>
+  </entry>
+  <entry>
     <id>3Uy8GSemen3VKz55vE0zOj</id>
-    <title>哈蘭德挑戰通關攻略（更新至第10關）</title>
-    <updated>2024-05-19T08:26:04.778000+00:00</updated>
+    <title>哈蘭德挑戰通關攻略（更新至第11關）</title>
+    <updated>2024-05-21T08:17:42.176000+00:00</updated>
     <content>&lt;p&gt;&#13;首領們，大家好！&#13;
 &#13;
 本月推出哈蘭德挑戰，一共12個足球主題的關卡！&lt;b&gt;通關獎勵&lt;/b&gt;有大家喜愛的&lt;b&gt;礦石&lt;/b&gt;等實用好康！&#13;
@@ -505,6 +517,11 @@
 各關卡推出後，本篇文章都會更新攻略唷，請記得回來看看！
 （關卡攻略以倒序排列）
 &#13;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;第11關：4-4-2陣形&lt;/b&gt;&lt;/p&gt;
+&lt;h1&gt;烏龜&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=qAwk4OWsa2U"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;金雄&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=KCv8DUqKWjQ"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;&lt;b&gt;第10關：獎盃大戰&lt;/b&gt;&lt;/p&gt;
 &lt;h1&gt;金雄&lt;/h1&gt;
 &lt;a href="https://www.youtube.com/watch?v=9AY5XogdLa8"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
@@ -558,18 +575,6 @@
     <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3Uy8GSemen3VKz55vE0zOj"/>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/01rhSAdIsi5s3ZN45FaFrU/74ec24370c6ce3f30a91e5d4140461dd/tw_20240501_challenge_creators_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
-    <published>2024-05-19T08:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>3xeiJFJkwSFw4xYwDlSNey</id>
-    <title>《部落衝突》PC版特惠！</title>
-    <updated>2024-05-19T08:00:03.833000+00:00</updated>
-    <content>&lt;h1&gt;嘿，首領！&lt;/h1&gt;
-&lt;p&gt;在&lt;b&gt;並肩哈蘭德&lt;/b&gt;代幣活動期間，來獲取超值特惠吧！&lt;/p&gt;&lt;p&gt;在PC版透過Google Play Games購買「並肩哈蘭德」活動通行證，將有4美元（或你當地貨幣的等價金額）的折扣，並在結帳時生效。&lt;/p&gt;&lt;p&gt;5月23日前，前往&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fplay.google.com%252Fgoogleplaygames%252Fcom.supercell.clashofclans%253Fpcampaignid%253Dgtm-gpg-gip-smart-clans1')"&gt;play.google.com/googleplaygames&lt;/a&gt;，即可享受這個超級特惠！&lt;/p&gt;&lt;p&gt;此特惠適用於以下國家/地區：美國、墨西哥、新加坡、馬來西亞、印尼、韓國、台灣、香港、澳洲、泰國、菲律賓、巴西、法國、英國、德國、土耳其、秘魯、智利、哥倫比亞、印度。
-優惠資格取決於Google帳號類型、Google帳號設定及Google帳號品質檢查。&lt;/p&gt;&lt;p&gt;&lt;i&gt;全面開戰！&lt;/i&gt;&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3xeiJFJkwSFw4xYwDlSNey"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1ed0YANsW0ruhDsNQlAguX/6a6188d7e1b922e3920bd611b5159ec8/nologo_ClashonPC_Google_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="最新情報"/>
-    <published>2024-05-19T08:00:03+00:00</published>
+    <published>2024-05-21T08:00:00+00:00</published>
   </entry>
 </feed>
