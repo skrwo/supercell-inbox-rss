@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-21T05:33:20.941091+00:00</updated>
+  <updated>2024-05-21T06:37:04.785928+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -30,6 +30,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/76f4um5B2MyTgITtlamTQ2/70e78531c929c2f6aa93cf462b69fa9c/0222_Make_vote_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-02-22T21:15:43+00:00</published>
+  </entry>
+  <entry>
+    <id>16WmmlEsyGj3e9y0XeaEYU</id>
+    <title>Brawl Stars Championship 2024</title>
+    <updated>2024-05-21T05:36:16.653000+00:00</updated>
+    <content>&lt;a href="brawlstars://scidOpenWebSSO?url=https%3A//event.supercell.com/brawlstars%3Fsso_client_id%3DCE657724-A952-4F2F-B2AA-A4E712EB685B%26pfg%3Dtrue"&gt;👉Event site👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/16WmmlEsyGj3e9y0XeaEYU"/>
+    <category term="News"/>
+    <published>2024-02-27T21:00:00+00:00</published>
   </entry>
   <entry>
     <id>31JP4mV4ZXeDnB4q5eldPo</id>
