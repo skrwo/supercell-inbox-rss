@@ -2,39 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-21T15:33:34.233027+00:00</updated>
+  <updated>2024-05-21T16:36:33.265240+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>eGH2XY301BRQFhKCYnzI6</id>
-    <title>2月部落競賽獎勵搶先看</title>
-    <updated>2024-02-21T17:50:10.780000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/eGH2XY301BRQFhKCYnzI6"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4eifxCJyYqFR20ULF3A9s6/d3bdf2afa5931da632004505f3f81c4a/tw_20240221_coc-clan-games-rewards-feb24-V1.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="最新情報"/>
-    <published>2024-02-21T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>3knd7SvkppDiDjrXQlXdhj</id>
-    <title>【烏龜】把握最後通關冷酷女皇挑戰的機會！</title>
-    <updated>2024-02-21T17:12:56.532000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3knd7SvkppDiDjrXQlXdhj"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5byTITgRLYEyktRVyIzifN/3a7ebe7cad991154e25ec5cee8097ee6/tw_20240222_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/MvruN19kgd4"/>
-    <category term="最新情報"/>
-    <published>2024-02-21T13:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>5MISgfWULcIBsnn8Vhr4Yv</id>
-    <title>【金雄】冷酷女皇挑戰還沒過？速看本部解法！</title>
-    <updated>2024-02-21T17:16:28.270000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/5MISgfWULcIBsnn8Vhr4Yv"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4in0ZCx6eZRwPsVQx1DDDZ/55e4e5146cee4d0dfdd52c1e097f76b6/tw_20240222_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/IS31BCMh9Tk"/>
-    <category term="最新情報"/>
-    <published>2024-02-21T13:02:00+00:00</published>
-  </entry>
   <entry>
     <id>6tuZJRQuiK2U8K6hLzg7Id</id>
     <title>【烏龜】更新搶先看！平衡性調整，還有各項等級提升與優化！</title>
@@ -576,5 +547,14 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/01rhSAdIsi5s3ZN45FaFrU/74ec24370c6ce3f30a91e5d4140461dd/tw_20240501_challenge_creators_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-05-21T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6sZ7XPBMe9ZuQe0OBNvcnj</id>
+    <title>5月部落競賽獎勵搶先看</title>
+    <updated>2024-05-21T16:26:24.396000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6sZ7XPBMe9ZuQe0OBNvcnj"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6ym0w3ItpHKoMFATO1QKvI/ac28c42454ad77c97e7168183cfc7da2/tw_20240521_COC_ClanGamesRewards_May.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-05-21T12:00:00+00:00</published>
   </entry>
 </feed>
