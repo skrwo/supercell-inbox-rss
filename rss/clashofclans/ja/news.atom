@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-21T09:33:24.716623+00:00</updated>
+  <updated>2024-05-21T10:34:33.286980+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -275,5 +275,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/mbITcwxFMEtyj34IqACtb/197186c76b04361b9df9b9857206f84a/SUP3861_CoC_Goalkeeper_Event_Illustration_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2024-05-06T12:22:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5jB0wCMponjprrsPRMok8I</id>
+    <title>【本日22:00~】GAKU vs Ryuta!! Hiroya vs yuta14!! ヒーロー縛り対決!! べビドラ人形プレゼント!!</title>
+    <updated>2024-05-21T10:13:09.651000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/5jB0wCMponjprrsPRMok8I"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/56iRfnKM0Ux8KhwxcJhF4z/9a52f86d61cc9216cbe06b97bd3b7f57/1vs1-33.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/B8Q8NCz4-Gk"/>
+    <category term="コミュニティ"/>
+    <published>2024-05-21T10:13:09+00:00</published>
   </entry>
 </feed>
