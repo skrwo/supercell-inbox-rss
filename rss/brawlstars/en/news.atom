@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-22T06:36:21.637115+00:00</updated>
+  <updated>2024-05-22T07:32:51.718415+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -199,10 +199,42 @@ Mr. P Results!&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Winner! -&lt;b&gt; Dragon Fruit P&lt
     <published>2024-04-18T20:38:43+00:00</published>
   </entry>
   <entry>
+    <id>g2HV5yji7bQwWX2KEm5Ao</id>
+    <title>New Supercell game going global!</title>
+    <updated>2024-05-15T12:08:10.252000+00:00</updated>
+    <content>&lt;h1&gt;New milestone unlocked! &lt;/h1&gt;
+&lt;p&gt;In order to THANK YOU all for supporting the Squad Busters launch, we&amp;#39;ve added a new milestone to the pre-registration reward track!&lt;/p&gt;&lt;p&gt;If we reach 40M pre-registrations before May 29, this beautiful Deco will be available at launch, and claimable for only a month!&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/niFEuZGPYLGWAaqtbAsgv/676c9abc2d42c3a0640079732cdadbeb/deco-900.png?w=900&amp;h=900&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;To celebrate the global release of &lt;b&gt;Squad Busters&lt;/b&gt;, all Supercell games are giving away &lt;b&gt;free rewards&lt;/b&gt; for each milestone the community achieves.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;How it works&lt;/h1&gt;
+&lt;p&gt;Pre-Register for Squad Busters on the App Store or Google Play before the global release on the &lt;b&gt;29th of May&lt;/b&gt;. By pre-registering you will get the game right away when it becomes globally available on the App Store or Google Play.&lt;/p&gt;&lt;p&gt;Follow the progress of the community effort on the reward tracker and don&amp;#39;t forget to claim the rewards as they unlock.&lt;/p&gt;&lt;p&gt;Progress updated daily.&lt;/p&gt;&lt;p&gt;Squad up and make sure to tell your friends!&lt;/p&gt;
+&lt;a href="htps://apple.com"&gt;👉App store link👈&lt;/a&gt;
+&lt;h1&gt;What is Squad Busters?&lt;/h1&gt;
+&lt;p&gt;Squad Busters is a game where you can play with your favorite Supercell characters in fun and action-packed matches. Travel through different worlds, collect new characters, and evolve them to take down massive monsters as you continually build your ultimate squad. &lt;/p&gt;
+&lt;p&gt;Currently available in Canada, Spain, Mexico, Finland, Denmark, Sweden, Norway, and Singapore, Squad Busters will release worldwide on May 29th.&lt;/p&gt;
+&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/g2HV5yji7bQwWX2KEm5Ao"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-04-26T09:07:55+00:00</published>
+  </entry>
+  <entry>
+    <id>5NCqRyo6NjFu1WGpWTgwmJ</id>
+    <title>Godzilla Attacks Brawl Stars!</title>
+    <updated>2024-05-02T12:44:30.119000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/5NCqRyo6NjFu1WGpWTgwmJ"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/15BUfkueB93VywZQBu8wdS/5829e8142d95b13e1f3664e64f0f2e4f/0501_Godzilla_BP_start_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/2ya8Oww8xWo"/>
+    <category term="Video"/>
+    <published>2024-05-02T10:26:24+00:00</published>
+  </entry>
+  <entry>
     <id>1Z8og6lx80LlgyIaO8qudt</id>
     <title>Patch notes: Godzilla Attacks Brawl!</title>
-    <updated>2024-05-16T16:12:21.770000+00:00</updated>
-    <content>&lt;h3&gt;Maintenance Break - May 3rd&lt;/h3&gt;&lt;p&gt;&lt;b&gt;BUG FIXES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed issue where Fame Profile Icon could be unlocked without reaching the required Fame&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sprout&amp;#39;s Super no longer blocks kaiju (Godzilla/Mechagodzilla) movement&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gray&amp;#39;s &amp;quot;Walking Cane&amp;quot; Gadget can no longer be used to pull kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mutation modifiers would occasionally disappear when a new event started&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Otis can no longer use his Gadget as a kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kaiju will no longer get stuck on buildings&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Friendly competition matches will now continue until required wins are achieved&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Extra Movement Speed and Health added to kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Extra Health added to buildings in City Smash&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;
+    <updated>2024-05-22T07:20:45.286000+00:00</updated>
+    <content>&lt;h3&gt;Maintenance Break - May 22nd&lt;/h3&gt;&lt;p&gt;&lt;b&gt;BUG FIXES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed a bug in Friendly Duels Battles where inviting a friend would overlap with your 2nd Brawler pick&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the SFX for all Mecha Godzilla and Godzilla Buzz Skins&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the Super VFX for Dynasty Mike and Dark Tide Carl&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Recolored Ranked Skins, Godzilla Sprays, Godzilla Pins, and Godzilla Player Icons are now available in the Catalog&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+&lt;/p&gt;&lt;h3&gt;Maintenance Break - May 3rd&lt;/h3&gt;&lt;p&gt;&lt;b&gt;BUG FIXES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed issue where Fame Profile Icon could be unlocked without reaching the required Fame&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sprout&amp;#39;s Super no longer blocks kaiju (Godzilla/Mechagodzilla) movement&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gray&amp;#39;s &amp;quot;Walking Cane&amp;quot; Gadget can no longer be used to pull kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mutation modifiers would occasionally disappear when a new event started&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Otis can no longer use his Gadget as a kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kaiju will no longer get stuck on buildings&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Friendly competition matches will now continue until required wins are achieved&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Extra Movement Speed and Health added to kaiju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Extra Health added to buildings in City Smash&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;
 MUTATION CHANGES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Stu’s Gaso-Heal Star Power heals 50% less when the Mutation is active &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Rico and Ruffs&amp;#39; projectiles bounce less&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;
 RANKED FIXES &amp;amp; CHANGES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed the Ranked Star not appearing you get to the same rank twice or more&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Second Wind has only a 1% chance of being selected in a Ranked match&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;h3&gt;Android Optional Update - April 26th&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;An optional update is now available with fixes to some crashes on Android devices &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;h3&gt;Maintenance Break - April 25th&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed a game crash caused by Lily&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed a map of City Smash that couldn&amp;#39;t be completed&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Kit&amp;#39;s Gadget description&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Player Profile not being able to save information&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Count Pengula attack projectile texture&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Brawler Mutations being available in Duels in Friendly Mode&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Ranked Boost stopping one rank lower than it should&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ranked Boost rebalanced: Bronze (no boost), Silver (10%), Gold (20%), Diamond (30%), Mythic (50%), Legendary (75%), Master (100%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fixes for Android crashes and other fixes will be coming (hopefully) early next week!&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;New Brawler:  &lt;b&gt;Lily&lt;/b&gt; (Mythic)&lt;/h3&gt;&lt;p&gt;Type: Assassin&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Trait: &lt;b&gt;Charges Super when near opponents. Has invisible footsteps&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Attack: &lt;b&gt;Thorn in the side&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lily stabs in front of her. Has one ammo&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Super: &lt;b&gt;Flourish&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Throws a projectile in a straight line. If it hits an opponent, deal minor damage and teleport behind the opponent&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gadget: &lt;b&gt;Vanish&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lily enters the shadow realm for 3 seconds&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gadget: &lt;b&gt;Repot&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;The next Super becomes a thrown attack, and Lily will teleport to the impact point regardless of hitting a target&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Star Power: &lt;b&gt;Spiky&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;After teleporting to an opponent, Lily’s next Thorn in the side deals an additional 50% damage&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Star Power: &lt;b&gt;Vigilance&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lily gains 15% movement speed while an opponent is in range of her Super charge radius &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;
 
@@ -293,37 +325,6 @@ Other
     <link href="https://brawlstars.inbox.supercell.com/#/en/news/1Z8og6lx80LlgyIaO8qudt"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
-    <published>2024-04-23T07:35:56+00:00</published>
-  </entry>
-  <entry>
-    <id>g2HV5yji7bQwWX2KEm5Ao</id>
-    <title>New Supercell game going global!</title>
-    <updated>2024-05-15T12:08:10.252000+00:00</updated>
-    <content>&lt;h1&gt;New milestone unlocked! &lt;/h1&gt;
-&lt;p&gt;In order to THANK YOU all for supporting the Squad Busters launch, we&amp;#39;ve added a new milestone to the pre-registration reward track!&lt;/p&gt;&lt;p&gt;If we reach 40M pre-registrations before May 29, this beautiful Deco will be available at launch, and claimable for only a month!&lt;/p&gt;
-&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/niFEuZGPYLGWAaqtbAsgv/676c9abc2d42c3a0640079732cdadbeb/deco-900.png?w=900&amp;h=900&amp;f=center&amp;fit=fill"&gt;
-&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;To celebrate the global release of &lt;b&gt;Squad Busters&lt;/b&gt;, all Supercell games are giving away &lt;b&gt;free rewards&lt;/b&gt; for each milestone the community achieves.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;How it works&lt;/h1&gt;
-&lt;p&gt;Pre-Register for Squad Busters on the App Store or Google Play before the global release on the &lt;b&gt;29th of May&lt;/b&gt;. By pre-registering you will get the game right away when it becomes globally available on the App Store or Google Play.&lt;/p&gt;&lt;p&gt;Follow the progress of the community effort on the reward tracker and don&amp;#39;t forget to claim the rewards as they unlock.&lt;/p&gt;&lt;p&gt;Progress updated daily.&lt;/p&gt;&lt;p&gt;Squad up and make sure to tell your friends!&lt;/p&gt;
-&lt;a href="htps://apple.com"&gt;👉App store link👈&lt;/a&gt;
-&lt;h1&gt;What is Squad Busters?&lt;/h1&gt;
-&lt;p&gt;Squad Busters is a game where you can play with your favorite Supercell characters in fun and action-packed matches. Travel through different worlds, collect new characters, and evolve them to take down massive monsters as you continually build your ultimate squad. &lt;/p&gt;
-&lt;p&gt;Currently available in Canada, Spain, Mexico, Finland, Denmark, Sweden, Norway, and Singapore, Squad Busters will release worldwide on May 29th.&lt;/p&gt;
-&lt;a href="https://youtu.be/cDCCpWJRWak"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/#/en/news/g2HV5yji7bQwWX2KEm5Ao"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/cyUqtENhJJro5vCxjzGC6/a8f6d0f86fa1a6407a3112c5e91520ba/Brwl_thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-04-26T09:07:55+00:00</published>
-  </entry>
-  <entry>
-    <id>5NCqRyo6NjFu1WGpWTgwmJ</id>
-    <title>Godzilla Attacks Brawl Stars!</title>
-    <updated>2024-05-02T12:44:30.119000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/en/news/5NCqRyo6NjFu1WGpWTgwmJ"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/15BUfkueB93VywZQBu8wdS/5829e8142d95b13e1f3664e64f0f2e4f/0501_Godzilla_BP_start_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/2ya8Oww8xWo"/>
-    <category term="Video"/>
-    <published>2024-05-02T10:26:24+00:00</published>
+    <published>2024-05-22T06:30:00+00:00</published>
   </entry>
 </feed>
