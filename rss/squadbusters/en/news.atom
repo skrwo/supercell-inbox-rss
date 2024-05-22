@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-05-22T07:33:02.950709+00:00</updated>
+  <updated>2024-05-22T08:36:56.688336+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -82,10 +82,23 @@
     <published>2024-05-15T07:00:00+00:00</published>
   </entry>
   <entry>
+    <id>5dqjwCCF38MsmZxWJTzH3k</id>
+    <title>Squad Busters Official Starter's Guide!</title>
+    <updated>2024-05-22T03:03:28.173000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/5dqjwCCF38MsmZxWJTzH3k"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/CD6koZwbkvU"/>
+    <category term="Community"/>
+    <published>2024-05-21T14:20:33+00:00</published>
+  </entry>
+  <entry>
     <id>1yohkcKJO7Efn7vh4EXnk9</id>
-    <title>Update Patch Notes! </title>
-    <updated>2024-05-22T07:29:14.496000+00:00</updated>
-    <content>&lt;p&gt;Squad Busters’ first update is packed full of content and improvements for a Global Launch like no other!
+    <title>Update Patch Notes + Bug Fixes! </title>
+    <updated>2024-05-22T07:52:31.833000+00:00</updated>
+    <content>&lt;p&gt;
+&lt;b&gt;MAINTENANCE - MAY 22, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fix for Referrals: The link can now be used by any player regardless of their progression level&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fix for the game crashing sometimes when opening Spell Event &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - MAY 21, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fix for future content showing up in the shop to early&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Removed Ice World maps from Squad League&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;UPDATE - MAY 21, 2024&lt;/b&gt;
+
+Squad Busters’ first update is packed full of content and improvements for a Global Launch like no other!
 &lt;b&gt;
 ULTRA EVOLUTIONS UNLEASHED&lt;/b&gt;
 
@@ -109,16 +122,6 @@ Follow our Social Media channels and your favorite Squad Busters content creator
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/1yohkcKJO7Efn7vh4EXnk9"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
-    <published>2024-05-21T08:21:11+00:00</published>
-  </entry>
-  <entry>
-    <id>5dqjwCCF38MsmZxWJTzH3k</id>
-    <title>Squad Busters Official Starter's Guide!</title>
-    <updated>2024-05-22T03:03:28.173000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/en/news/5dqjwCCF38MsmZxWJTzH3k"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/CD6koZwbkvU"/>
-    <category term="Community"/>
-    <published>2024-05-21T14:20:33+00:00</published>
+    <published>2024-05-22T07:00:00+00:00</published>
   </entry>
 </feed>
