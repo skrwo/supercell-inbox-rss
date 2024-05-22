@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-eventEntries-id</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-05-22T11:32:57.841054+00:00</updated>
+  <updated>2024-05-22T12:49:01.042887+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -15,5 +15,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Rkw4DwwBuknvglDiO5Xxp/71f471ef9051d50d530b441c94b5534c/carousel_9x16_Haaland.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/aClKEVh7Km4"/>
     <published>2024-04-30T05:00:50+00:00</published>
+  </entry>
+  <entry>
+    <id>1EIfxYH4wXUHdwcQw3Tmdn</id>
+    <title>🗞️</title>
+    <updated>2024-05-22T12:43:41+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/LSY9mYASb2Q"&gt;👉Tonton!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6OkKrvTwwSubQcgcs5KPaf/8ca3e9282760334f26e8599977ff7f7e/CoC_SC014_Football_ID_860x1320_Still_Inbox_v03_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/LSY9mYASb2Q"/>
+    <published>2024-05-20T15:20:58+00:00</published>
   </entry>
 </feed>
