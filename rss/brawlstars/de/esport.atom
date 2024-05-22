@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-esportNewsEntries-de</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-22T15:33:03.394334+00:00</updated>
+  <updated>2024-05-22T16:38:03.166479+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -31,6 +31,15 @@ Melde dich jetzt für die Magenta eTrophy Brawl Stars an und qualifiziere dich m
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2xWyg0ZnwIjCkVS9ozvMSa/576df7db90b91f1288ad51630146f36b/inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-04-26T10:46:36+00:00</published>
+  </entry>
+  <entry>
+    <id>6f6qo7yarkicKjO4XDBYIm</id>
+    <title>Meldet euch für die Last Chance Qualifiers der Brawl Professional Series an!</title>
+    <updated>2024-05-22T15:56:04.535000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1DCSV34e9aojUHS8VrBxfF/10239f2600c064c0d4a1c2d05c11d091/EN-BPS-Qualifiers-EMEA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/brawlpseries/status/1791531369752850823?s=46"/>
+    <category term="Esports"/>
+    <published>2024-05-19T23:00:00+00:00</published>
   </entry>
   <entry>
     <id>2p0WRKqbxf68UgQcdbxRWU</id>
