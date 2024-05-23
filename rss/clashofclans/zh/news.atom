@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-23T09:32:48.900593+00:00</updated>
+  <updated>2024-05-23T10:36:33.582110+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -474,9 +474,32 @@
     <published>2024-05-19T08:00:03+00:00</published>
   </entry>
   <entry>
+    <id>6sZ7XPBMe9ZuQe0OBNvcnj</id>
+    <title>5月部落競賽獎勵搶先看</title>
+    <updated>2024-05-22T02:25:50.517000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6sZ7XPBMe9ZuQe0OBNvcnj"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6ym0w3ItpHKoMFATO1QKvI/ac28c42454ad77c97e7168183cfc7da2/tw_20240521_COC_ClanGamesRewards_May.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-05-21T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1nYMPDjakzeYpTowmGWNNY</id>
+    <title>「礦石多更多」社群活動重磅登場！</title>
+    <updated>2024-05-23T08:17:36.231000+00:00</updated>
+    <content>&lt;h1&gt;「礦石多更多」社群活動！&lt;/h1&gt;
+&lt;p&gt;準備迎接全新社群活動吧！這次活動的核心是：參與&lt;b&gt;多更多&lt;/b&gt;、獎勵&lt;b&gt;多更多&lt;/b&gt;！&lt;/p&gt;&lt;p&gt;文字：整個活動期間，我們將記錄每位玩家在村莊多人模式進攻時造成的摧毀率百分比！你於多人模式的每場進攻，其摧毀率都會被計算至活動進度內。此外，在進攻時使用自由球野蠻人將能加快累積活動進度（沒錯，你需要部署他們）！摧毀率一旦達到指定的活動目標，將解鎖對應的里程碑，你也會獲得獎勵！總共有5項里程碑，因此，你最多能贏得5種不同的獎勵！
+感興趣嗎？請閱讀下方的活動詳情！&lt;/p&gt;&lt;p&gt;&lt;b&gt;活動詳情：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;開始時間：台北/香港時間2024年5月23日16:00&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;結束時間：台北/香港時間2024年5月31日16:00&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;里程碑和獎勵：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#1：總摧毀率達到3,750萬&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#2：總摧毀率達到7,500萬&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#3：總摧毀率達到1.5億&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#4：總摧毀率達到2.25億&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#5：總摧毀率達到3億&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;大家可以查看遊戲內新聞👇隨時了解活動進度&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5eEQW8iJoMkRuCjfkoi8T7/65b0597709f316c20fc453b4d76a528a/Football_tracker.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;活動結束時，將根據大家達到的里程碑數量來解鎖特殊獎勵！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成1個里程碑目標&lt;/b&gt;：訓練藥水&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成2個里程碑目標&lt;/b&gt;：1寶石加速軍隊訓練活動&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成3個里程碑目標&lt;/b&gt;：2倍勝利之星獎勵活動（包括礦石）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成4個里程碑目標&lt;/b&gt;：3倍勝利之星獎勵活動（包括礦石）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成5個里程碑目標&lt;/b&gt;：4倍勝利之星獎勵活動（包括礦石）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;*達成目標後，勝利之星獎勵活動和1寶石加速軍隊訓練活動會在台北/香港時間6月1日16:00開始，持續到6月3日16:00。&lt;/i&gt;&lt;/p&gt;&lt;p&gt;除了上述&lt;b&gt;大家都能獲得&lt;/b&gt;的獎勵之外，每達成一個里程碑目標，我們還會在社群平台上送出一些&lt;b&gt;超讚&lt;/b&gt;獎勵！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;達成1個里程碑目標：皮卡超人雕像x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;達成2個里程碑目標：全套足球系列造型x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;達成3個里程碑目標：萬能之書x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;達成4個里程碑目標：厄林·哈蘭德簽名球衣x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;達成5個里程碑目標：50,000寶石x2&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;心動了嗎？那就快進入遊戲發起進攻，並在社群平台上追蹤我們，來贏取這些獎勵吧！&lt;/p&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ClashOfClans%252Ffeatured')"&gt;YouTube&lt;/a&gt; | &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fclashofclans%252F')"&gt;Instagram&lt;/a&gt; | &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fx.com%252FClashofClans')"&gt;X &lt;/a&gt;| &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.facebook.com%252FClashofClans')"&gt;Facebook&lt;/a&gt; | &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.tiktok.com%252F%2540clashofclans')"&gt;TikTok&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1nYMPDjakzeYpTowmGWNNY"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/h8aX6LK4IRNTXEIMGsUSW/f3dd5ea91d04726f7510e987568fe362/Thumb-website.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="社群"/>
+    <published>2024-05-23T08:00:04+00:00</published>
+  </entry>
+  <entry>
     <id>3Uy8GSemen3VKz55vE0zOj</id>
-    <title>哈蘭德挑戰通關攻略（更新至第11關）</title>
-    <updated>2024-05-21T08:17:42.176000+00:00</updated>
+    <title>哈蘭德挑戰通關攻略（更新至第12關）</title>
+    <updated>2024-05-23T09:42:40.770000+00:00</updated>
     <content>&lt;p&gt;&#13;首領們，大家好！&#13;
 &#13;
 本月推出哈蘭德挑戰，一共12個足球主題的關卡！&lt;b&gt;通關獎勵&lt;/b&gt;有大家喜愛的&lt;b&gt;礦石&lt;/b&gt;等實用好康！&#13;
@@ -488,6 +511,11 @@
 各關卡推出後，本篇文章都會更新攻略唷，請記得回來看看！
 （關卡攻略以倒序排列）
 &#13;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;第12關：終極決賽&lt;/b&gt;&lt;/p&gt;
+&lt;h1&gt;烏龜&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=ytPex77om44"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;金雄&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=V-0B6NHtlPs"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;&lt;b&gt;第11關：4-4-2陣形&lt;/b&gt;&lt;/p&gt;
 &lt;h1&gt;烏龜&lt;/h1&gt;
 &lt;a href="https://www.youtube.com/watch?v=qAwk4OWsa2U"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
@@ -546,29 +574,6 @@
     <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3Uy8GSemen3VKz55vE0zOj"/>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/01rhSAdIsi5s3ZN45FaFrU/74ec24370c6ce3f30a91e5d4140461dd/tw_20240501_challenge_creators_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
-    <published>2024-05-21T08:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>6sZ7XPBMe9ZuQe0OBNvcnj</id>
-    <title>5月部落競賽獎勵搶先看</title>
-    <updated>2024-05-22T02:25:50.517000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6sZ7XPBMe9ZuQe0OBNvcnj"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6ym0w3ItpHKoMFATO1QKvI/ac28c42454ad77c97e7168183cfc7da2/tw_20240521_COC_ClanGamesRewards_May.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="最新情報"/>
-    <published>2024-05-21T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>1nYMPDjakzeYpTowmGWNNY</id>
-    <title>「礦石多更多」社群活動重磅登場！</title>
-    <updated>2024-05-23T08:17:36.231000+00:00</updated>
-    <content>&lt;h1&gt;「礦石多更多」社群活動！&lt;/h1&gt;
-&lt;p&gt;準備迎接全新社群活動吧！這次活動的核心是：參與&lt;b&gt;多更多&lt;/b&gt;、獎勵&lt;b&gt;多更多&lt;/b&gt;！&lt;/p&gt;&lt;p&gt;文字：整個活動期間，我們將記錄每位玩家在村莊多人模式進攻時造成的摧毀率百分比！你於多人模式的每場進攻，其摧毀率都會被計算至活動進度內。此外，在進攻時使用自由球野蠻人將能加快累積活動進度（沒錯，你需要部署他們）！摧毀率一旦達到指定的活動目標，將解鎖對應的里程碑，你也會獲得獎勵！總共有5項里程碑，因此，你最多能贏得5種不同的獎勵！
-感興趣嗎？請閱讀下方的活動詳情！&lt;/p&gt;&lt;p&gt;&lt;b&gt;活動詳情：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;開始時間：台北/香港時間2024年5月23日16:00&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;結束時間：台北/香港時間2024年5月31日16:00&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;里程碑和獎勵：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#1：總摧毀率達到3,750萬&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#2：總摧毀率達到7,500萬&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#3：總摧毀率達到1.5億&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#4：總摧毀率達到2.25億&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#5：總摧毀率達到3億&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;大家可以查看遊戲內新聞👇隨時了解活動進度&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5eEQW8iJoMkRuCjfkoi8T7/65b0597709f316c20fc453b4d76a528a/Football_tracker.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;活動結束時，將根據大家達到的里程碑數量來解鎖特殊獎勵！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成1個里程碑目標&lt;/b&gt;：訓練藥水&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成2個里程碑目標&lt;/b&gt;：1寶石加速軍隊訓練活動&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成3個里程碑目標&lt;/b&gt;：2倍勝利之星獎勵活動（包括礦石）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成4個里程碑目標&lt;/b&gt;：3倍勝利之星獎勵活動（包括礦石）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;達成5個里程碑目標&lt;/b&gt;：4倍勝利之星獎勵活動（包括礦石）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;*達成目標後，勝利之星獎勵活動和1寶石加速軍隊訓練活動會在台北/香港時間6月1日16:00開始，持續到6月3日16:00。&lt;/i&gt;&lt;/p&gt;&lt;p&gt;除了上述&lt;b&gt;大家都能獲得&lt;/b&gt;的獎勵之外，每達成一個里程碑目標，我們還會在社群平台上送出一些&lt;b&gt;超讚&lt;/b&gt;獎勵！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;達成1個里程碑目標：皮卡超人雕像x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;達成2個里程碑目標：全套足球系列造型x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;達成3個里程碑目標：萬能之書x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;達成4個里程碑目標：厄林·哈蘭德簽名球衣x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;達成5個里程碑目標：50,000寶石x2&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;心動了嗎？那就快進入遊戲發起進攻，並在社群平台上追蹤我們，來贏取這些獎勵吧！&lt;/p&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ClashOfClans%252Ffeatured')"&gt;YouTube&lt;/a&gt; | &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fclashofclans%252F')"&gt;Instagram&lt;/a&gt; | &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fx.com%252FClashofClans')"&gt;X &lt;/a&gt;| &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.facebook.com%252FClashofClans')"&gt;Facebook&lt;/a&gt; | &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.tiktok.com%252F%2540clashofclans')"&gt;TikTok&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1nYMPDjakzeYpTowmGWNNY"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/h8aX6LK4IRNTXEIMGsUSW/f3dd5ea91d04726f7510e987568fe362/Thumb-website.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="社群"/>
-    <published>2024-05-23T08:00:04+00:00</published>
+    <published>2024-05-23T09:30:00+00:00</published>
   </entry>
 </feed>
