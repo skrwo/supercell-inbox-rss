@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-05-22T23:32:58.313101+00:00</updated>
+  <updated>2024-05-23T01:37:21.668366+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -94,7 +94,7 @@
   <entry>
     <id>1yohkcKJO7Efn7vh4EXnk9</id>
     <title>Update Patch Notes + Bug Fixes! </title>
-    <updated>2024-05-22T14:22:14.285000+00:00</updated>
+    <updated>2024-05-23T01:19:47.458000+00:00</updated>
     <content>&lt;p&gt;
 &lt;b&gt;MAINTENANCE - MAY 22, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fix for Referrals: The link can now be used by any player regardless of their progression level&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fix for the game crashing sometimes when opening Spell Event &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - MAY 21, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fix for future content showing up in the shop to early&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Removed Ice World maps from Squad League&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;UPDATE - MAY 21, 2024&lt;/b&gt;
 
