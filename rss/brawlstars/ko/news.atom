@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-23T03:32:48.202370+00:00</updated>
+  <updated>2024-05-23T04:33:46.013724+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -266,5 +266,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2024-05-22T06:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4li3dE98jiBYVLK4rSlxTn</id>
+    <title>⭐쇼다운 인 스타필드 : 스타필드 안성 운영 변경 사항 안내!⭐</title>
+    <updated>2024-05-23T04:01:26.643000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/4li3dE98jiBYVLK4rSlxTn"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4LZfXOOLJr26bEUNPQ4fly/07e24d120e7a8337fa9c8a4ca37c5f79/0523_PR_BSxSSG_____________inbox_800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1174229"/>
+    <category term="뉴스"/>
+    <published>2024-05-23T04:01:26+00:00</published>
   </entry>
 </feed>
