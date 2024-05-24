@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-24T11:34:54.072705+00:00</updated>
+  <updated>2024-05-24T12:48:21.757540+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -16,12 +16,12 @@
     <published>2024-04-16T12:44:11+00:00</published>
   </entry>
   <entry>
-    <id>1KPLXUSlzSCxaqOMKbm3j5</id>
-    <title>⭐이벤트 종료⭐4월 월별 파이널 시청하고 기프트카드까지!? 🎁</title>
-    <updated>2024-04-26T04:03:28.106000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4sflUrfQioefSXbUoG78OV/90fb8f2c1c7fc189f815556a65e57b33/0426_BSC_event_sns_800x433_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1150887"/>
+    <id>2u5VowndcMbLPS2JuMAyIE</id>
+    <title>⭐이벤트⭐5월 월별 파이널 시청하고 기프트카드까지!? 🎁</title>
+    <updated>2024-05-24T12:02:55.805000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2ZQ4wXQwDyXXwT6jB2wgiN/90e541de2c3e3957bd65034711fe11c0/0524_BS_may-monthly-final_event_inbox_800x433_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1175097"/>
     <category term="커뮤니티"/>
-    <published>2024-04-26T04:03:28+00:00</published>
+    <published>2024-05-24T12:02:55+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-24T11:34:40.899760+00:00</updated>
+  <updated>2024-05-24T12:48:17.335337+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -96,5 +96,15 @@ Wie wir gehört haben, gefallen euch Community-Ereignisse. Daher haben wir Frank
     <link href="https://youtu.be/2ya8Oww8xWo"/>
     <category term="Video"/>
     <published>2024-05-02T10:26:24+00:00</published>
+  </entry>
+  <entry>
+    <id>5bLr4HHOGPbu0lt9pmxITl</id>
+    <title>BSC Monthly Finals Watchparty in Köln! Sei dabei!</title>
+    <updated>2024-05-24T12:22:55.195000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/de/news/5bLr4HHOGPbu0lt9pmxITl"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2ChfTtFeZq4o2gbp5aft5D/62244b9b4e383759421ba8edfa6a090e/MayMFWeb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="http://bit.ly/MonthlyFinalWatchparty"/>
+    <category term="Esports"/>
+    <published>2024-05-24T12:22:55+00:00</published>
   </entry>
 </feed>
