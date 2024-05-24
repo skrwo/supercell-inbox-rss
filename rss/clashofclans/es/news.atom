@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-newsEntries-es</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-24T18:35:34.311735+00:00</updated>
+  <updated>2024-05-24T19:33:28.243349+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>4TKcbUfzDPXn03QXThIdcN</id>
-    <title>¡Recompensas de Febrero!</title>
-    <updated>2024-02-24T19:12:43.994000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/es/news/4TKcbUfzDPXn03QXThIdcN"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/19ftJPuTnre9pQlqNB667l/f5a10ca21e50c852aadb80a74d532d63/ES_SUP3683-coc-clan-games-rewards-feb24-V1__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/ClashofClans/status/1760288338680942747"/>
-    <category term="Novedades"/>
-    <published>2024-02-24T19:12:43+00:00</published>
-  </entry>
   <entry>
     <id>5HCdeEQmuJSKD3sEi3pY5y</id>
     <title>¡Nuevo hechizo!</title>
