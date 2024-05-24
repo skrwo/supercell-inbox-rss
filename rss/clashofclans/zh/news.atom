@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-24T12:48:44.650126+00:00</updated>
+  <updated>2024-05-24T13:34:13.994762+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>6tuZJRQuiK2U8K6hLzg7Id</id>
-    <title>【烏龜】更新搶先看！平衡性調整，還有各項等級提升與優化！</title>
-    <updated>2024-02-24T13:14:02.911000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6tuZJRQuiK2U8K6hLzg7Id"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/60l9q6sePo5HZDdcSIhs6I/ecaef30b8209653c35129aec74dae0d0/tw_20240224_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=ke8zljqSQ7s"/>
-    <category term="最新情報"/>
-    <published>2024-02-24T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>66EAqUnEUhCiKutzyYPWiP</id>
-    <title>【金雄】帶你了解防禦、兵種提升上限，以及更多內容！</title>
-    <updated>2024-02-24T13:15:11.616000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/66EAqUnEUhCiKutzyYPWiP"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/rpIpFnQx2hVV2mEY71GkN/45d35cf91c94ccd09749ba02953b0e3d/tw_20240224_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=yU3swOSfzm0"/>
-    <category term="最新情報"/>
-    <published>2024-02-24T13:01:00+00:00</published>
-  </entry>
   <entry>
     <id>68K2eVYGR2lGUhoDGhFxcT</id>
     <title>【金雄】神盾新新裝備詳細實測！</title>
