@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-communityEntries-es</id>
   <title>Hayday - Community</title>
-  <updated>2024-05-25T04:35:51.240643+00:00</updated>
+  <updated>2024-05-25T05:32:45.655434+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Community</subtitle>
   <entry>
     <id>2YOzAmP5BqVE3OQlDXuX4l</id>
     <title>El pase de la granja de MARZO</title>
-    <updated>2024-05-25T04:35:51.240988+00:00</updated>
+    <updated>2024-05-25T05:32:45.655777+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>20u2qssIov6JSQu6HNKq0w</id>
     <title>Las danzas folclóricas de Letonia. Valle T54.</title>
-    <updated>2024-05-25T04:35:51.240959+00:00</updated>
+    <updated>2024-05-25T05:32:45.655749+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>598CpJgkYrNxC1FkOtkdB</id>
     <title>Resumen, novedades y cambios de actualización 2024</title>
-    <updated>2024-05-25T04:35:51.240928+00:00</updated>
+    <updated>2024-05-25T05:32:45.655721+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
@@ -42,7 +42,7 @@
   <entry>
     <id>4q98riKHmpf8EsLOBeTcmQ</id>
     <title>Calendario de pascua 2024</title>
-    <updated>2024-05-25T04:35:51.240895+00:00</updated>
+    <updated>2024-05-25T05:32:45.655693+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
@@ -53,7 +53,7 @@
   <entry>
     <id>5QAApe76Jy8Z4pqh70JoEj</id>
     <title>La belleza de África! Valle Temp 55</title>
-    <updated>2024-05-25T04:35:51.240840+00:00</updated>
+    <updated>2024-05-25T05:32:45.655663+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
@@ -64,7 +64,7 @@
   <entry>
     <id>56m3dacGxXZLdRl4Jb8QMP</id>
     <title>Novedades del Farm Pass Abril 2024</title>
-    <updated>2024-05-25T04:35:51.240803+00:00</updated>
+    <updated>2024-05-25T05:32:45.655634+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
@@ -75,7 +75,7 @@
   <entry>
     <id>62pY1EsMfvfRwgUl8o6YZ5</id>
     <title>Identidad cultural y arte de los tuk tuks. Valle T56</title>
-    <updated>2024-05-25T04:35:51.240768+00:00</updated>
+    <updated>2024-05-25T05:32:45.655596+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
@@ -86,7 +86,7 @@
   <entry>
     <id>3pM3OP8Tf2vRJLD1Zp5Zit</id>
     <title>Pase de la granja Mayo 2024</title>
-    <updated>2024-05-25T04:35:51.240728+00:00</updated>
+    <updated>2024-05-25T05:32:45.655546+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
@@ -97,12 +97,23 @@
   <entry>
     <id>5fKkEfICyqMjU2ViukpYWW</id>
     <title>La fiebre del oro! Nuevo evento de tareas</title>
-    <updated>2024-05-25T04:35:51.240674+00:00</updated>
+    <updated>2024-05-25T05:32:45.655509+00:00</updated>
     <author>
       <name>PILITUTORIALES</name>
     </author>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1bboBSdZdHeHIMFVp8CxHS/dd532b6441a22f93e87be57e95e409a4/guest-content-video-62-5411181f-39a3-4f11-a9c9-acee127e5804-ribq.jpeg-1715824357302?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/i0uPBij8W1M"/>
     <published>2024-05-16T01:52:43+00:00</published>
+  </entry>
+  <entry>
+    <id>2mMW9B6s6FMVLWqdmYwvDV</id>
+    <title>Regresa la feria del condado! Una nueva decoración!</title>
+    <updated>2024-05-25T05:32:45.655459+00:00</updated>
+    <author>
+      <name>PILITUTORIALES</name>
+    </author>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/Kq5vMMyVuxbAbK44z0Uze/b99187de4f18e0b01208ba35cc8d88ca/guest-content-video-62-5411181f-39a3-4f11-a9c9-acee127e5804-vye5.jpeg-1716614490882?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Nr_H3nymzC4?si=62Fah5E0DDpiQYeh"/>
+    <published>2024-05-25T05:21:37+00:00</published>
   </entry>
 </feed>
