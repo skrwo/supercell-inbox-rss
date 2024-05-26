@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-newsEntries-it</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-26T14:32:42.402561+00:00</updated>
+  <updated>2024-05-26T15:32:57.784306+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>6no6JPig4Qn0akBmNAwRHW</id>
-    <title>Nuovo incantesimo!</title>
-    <updated>2024-02-26T15:24:00.305000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/it/news/6no6JPig4Qn0akBmNAwRHW"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7fnyQh45GFG7J61IR0vU2w/67a896ec0828e2469a92fb0d3e4459a7/IT_SUP3804_TH16_Refresh_Thumbnail_1920x1080_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/s4hO_CfqM7M"/>
-    <category term="Aggiornamenti del gioco"/>
-    <published>2024-02-26T15:24:00+00:00</published>
-  </entry>
   <entry>
     <id>3bHav3e7nMGcxqSiw7O3ou</id>
     <title>Note di rilascio per l'aggiornamento di febbraio 2024</title>
