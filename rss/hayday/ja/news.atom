@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-05-26T07:33:01.732162+00:00</updated>
+  <updated>2024-05-26T08:33:58.463327+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-05-19T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>45AlBhUtgpRCKHieVID1xV</id>
+    <title>ヘイ・デイ イベントカレンダー第22週！</title>
+    <updated>2024-05-26T08:02:09.190000+00:00</updated>
+    <content>&lt;h1&gt;ヘイ・デイ イベントカレンダー第22週！&lt;/h1&gt;
+&lt;p&gt;農場主の皆さん、こんにちは！今週もイベントが盛りだくさんです！いずれのイベントも日本時間17時から始まります。各イベントの詳細は、ゲーム内のイベント掲示板からご確認ください。&lt;/p&gt;&lt;p&gt;月曜日：ルーレット回転（チケット）&lt;/p&gt;&lt;p&gt;火曜日：トラックのお仕事（納屋とサイロの拡張用アイテム）&lt;/p&gt;&lt;p&gt;水曜日：船のお仕事（ブースター）&lt;/p&gt;&lt;p&gt;木曜日：農場の訪問客（コイン2倍）&lt;/p&gt;&lt;p&gt;金曜日：釣り場の施設ブースト（ロブスタープール＆ルアー用作業台が30％スピードアップ）+ 農場パスポイント2倍&lt;/p&gt;&lt;p&gt;土曜日：町の訪問客（経験値2倍）&lt;/p&gt;&lt;p&gt;日曜日：作物ブースト（3種類の作物の収穫が2個から3個に増量）&lt;/p&gt;&lt;p&gt;それでは、楽しい1週間を！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/45AlBhUtgpRCKHieVID1xV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-05-26T08:00:03+00:00</published>
   </entry>
 </feed>

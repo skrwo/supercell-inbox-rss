@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-05-26T07:33:01.855875+00:00</updated>
+  <updated>2024-05-26T08:33:59.275572+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -202,5 +202,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أخبار"/>
     <published>2024-05-19T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>45AlBhUtgpRCKHieVID1xV</id>
+    <title>الأسبوع 22 من أحداث Hay Day</title>
+    <updated>2024-05-26T08:02:09.190000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 22 من أحداث Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! استعد لأسبوع آخر مليء بالأحداث! تبدأ كل الأحداث في الساعة 8 ص بتوقيت جرينتش. اطلع على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;الإثنين: تدوير العجلة (قسائم)&lt;/p&gt;&lt;p&gt;الثلاثاء: حدث الشاحنة (مواد ترقية إضافية للحظيرة والصومعة)&lt;/p&gt;&lt;p&gt;الأربعاء: حدث القارب (معززات)&lt;/p&gt;&lt;p&gt;الخميس: حدث زوار المزرعة (ضعف العملات)&lt;/p&gt;&lt;p&gt;الجمعة: حدث تعزيز إنتاجية الصيد (سرطان البحر والطعوم 30%) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;السبت: زوار البلدة (ضعف الخبرة)&lt;/p&gt;&lt;p&gt;الأحد: حدث تعزيز المحاصيل (3 حزم بدلاً من 2، 3 محاصيل عشوائية)&lt;/p&gt;&lt;p&gt;نتمنى لك قضاء أسبوع رائع!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/45AlBhUtgpRCKHieVID1xV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أخبار"/>
+    <published>2024-05-26T08:00:03+00:00</published>
   </entry>
 </feed>

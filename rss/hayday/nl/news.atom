@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-05-26T07:33:02.021528+00:00</updated>
+  <updated>2024-05-26T08:34:09.543424+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -241,5 +241,16 @@ Zondag: productiegebouwenboost (20% boost voor 3 willekeurige gebouwen) + tuinhu
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Nieuws"/>
     <published>2024-05-19T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>45AlBhUtgpRCKHieVID1xV</id>
+    <title>Hay Day-evenementen: week 22!</title>
+    <updated>2024-05-26T08:02:09.190000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-evenementen: week 22!&lt;/h1&gt;
+&lt;p&gt;Hallo boeren! Een nieuwe week vol leuke evenementen gaat van start! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;Maandag: rad van fortuin (tegoedbonnen)&lt;/p&gt;&lt;p&gt;Dinsdag: truckbestellingen (extra upgrademateriaal voor je schuur en silo)&lt;/p&gt;&lt;p&gt;Woensdag: bootevenement (boosters)&lt;/p&gt;&lt;p&gt;Donderdag: boerderijbezoekersevenement (2x zoveel munten)&lt;/p&gt;&lt;p&gt;Vrijdag: visboost (30% boost voor kreeften en kunstaas) + dubbele boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Zaterdag: stadsbezoekersevenement (2x zoveel XP)&lt;/p&gt;&lt;p&gt;Zondag: gewassenboost (3 willekeurige gewassen leveren 3 in plaats van 2 gewassen op)&lt;/p&gt;&lt;p&gt;Een fijne week gewenst!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/45AlBhUtgpRCKHieVID1xV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nieuws"/>
+    <published>2024-05-26T08:00:03+00:00</published>
   </entry>
 </feed>
