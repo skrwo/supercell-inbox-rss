@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-05-26T06:35:05.872837+00:00</updated>
+  <updated>2024-05-26T07:33:04.013319+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4homoX6z6Rd4OycLgf2Fsz</id>
-    <title>Calendrier des événements Hay Day (semaine 9)</title>
-    <updated>2024-02-25T08:00:04.210000+00:00</updated>
-    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 9)&lt;/h1&gt;
-&lt;p&gt;C&amp;#39;est la dernière semaine de février, dites bonjour à mars ! Êtes-vous prêts pour de super événements ?!&lt;/p&gt;&lt;p&gt;Lundi : roue de la fortune, 1 pièce de puzzle garantie, possibilité d&amp;#39;en obtenir une 2e
-Mardi : livraisons par camion, EXP x2
-Mercredi : bateau, pièces x2
-Jeudi : visiteurs de la ville, EXP et réputation x2
-Vendredi : coin de pêche, boost de production de 20 % pour tous les bâtiments
-Samedi : visiteurs de la ville (pièces x2) et livraisons par camion (pièces x2)
-Dimanche : production des arbres et arbustes plus rapide, 3 arbustes produisent des fruits 2x plus vite + bateau, pièce de puzzle supplémentaire&lt;/p&gt;&lt;p&gt;Tous les événements commencent à 8 h UTC (9 h heure française)&lt;/p&gt;&lt;p&gt;Pour plus d&amp;#39;infos, allez voir le tableau des événements.&lt;/p&gt;&lt;p&gt;Passez une très bonne semaine !&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/4homoX6z6Rd4OycLgf2Fsz"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nouvelles"/>
-    <published>2024-02-25T08:00:04+00:00</published>
-  </entry>
   <entry>
     <id>Yu0ztuHaeKEHd520TltLx</id>
     <title>C dans l'œuf : mise à jour, Saint-Patrick, Pâques et plus !</title>

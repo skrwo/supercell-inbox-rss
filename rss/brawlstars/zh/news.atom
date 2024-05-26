@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-26T06:34:56.400580+00:00</updated>
+  <updated>2024-05-26T07:32:54.710218+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>6OF1rlwTwLWMNUiSGZeWTx</id>
-    <title>【盛主播】平衡性調整、極限威能、排位賽、超多造型💩通通帶你看！(ゝ∀･)</title>
-    <updated>2024-02-26T04:06:36.926000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6OF1rlwTwLWMNUiSGZeWTx"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2M4a89BZiB4TA9NjWF0v2N/44a2a29974a93979b7abfb14f4ccc6bc/tw_20240226_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/Rs1yYhpruoM"/>
-    <category term="最新情報"/>
-    <published>2024-02-26T04:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>4LedVjz7NkeuCFZbLQ0Seg</id>
-    <title>【嘿!兄弟】搶先了解極限威能、平衡性調整、排位賽等更新內容！(*´∀｀)</title>
-    <updated>2024-02-26T04:06:51.255000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/4LedVjz7NkeuCFZbLQ0Seg"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZXorumv95Y194ypnFN2GG/c4eb8a033e68d1c984711342ffc64cfc/tw_20240226_kaneo_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/4ilyZnq132U"/>
-    <category term="最新情報"/>
-    <published>2024-02-26T04:01:00+00:00</published>
-  </entry>
   <entry>
     <id>5xhmylTu0QhEMlshFn4baB</id>
     <title>【嘿!兄弟】安傑洛能成為最強射手🏹嗎？有哪些特點？</title>

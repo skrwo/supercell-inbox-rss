@@ -2,61 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-05-26T06:35:07.583998+00:00</updated>
+  <updated>2024-05-26T07:33:04.470276+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
-  <entry>
-    <id>7eldwAdYVJzcyphrvaM6uv</id>
-    <title>Boomiversary</title>
-    <updated>2024-02-26T12:51:06.916000+00:00</updated>
-    <content>&lt;h1&gt;Anniversary Update!&lt;/h1&gt;
-&lt;p&gt;We&amp;#39;re thrilled to announce that the 10th-anniversary update is now live! We can&amp;#39;t wait for you to explore all the features that we have been working on!&lt;/p&gt;&lt;p&gt;Below, you&amp;#39;ll be able to find all the details of this update.&lt;/p&gt;
-&lt;h1&gt;Changes and fixes&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Bug fixes:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;● Building attack speed bonus now correctly applies to all buildings, previously the effect was smaller than displayed for slow firing units;
-● Fixed building attack speed / life leech bonus being incorrectly shown on enemy buildings when the player has activated it;
-● Fixed a case where the battle ends too early if a shielded Headquarters was being attacked by laser type damage only;
-● Fixed scores and resource amounts sometimes not being updated in the UI;
-● Fixed Mega Crab bonus reward rounding. When players had resource reward statues, displayed rewards differed from those received;
-● Fixed battle ending before chopper spawns units if chopper is the last troop;
-● Fixes in music loops and transition;
-● Fixed crash when rapidly upgrading buildings. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Gameplay and balance changes:
-&lt;/b&gt;
-● VP chest timer is increased to 6 hours;
-● Streamlined HQ1 - HQ4 progress by unlocking buildings only when they become useful. &lt;/p&gt;&lt;p&gt;&lt;b&gt;UI changes: 
-&lt;/b&gt;
-● Implemented a new Warships battle HUD, which displays the state of each Engine Room separately. The engines are displayed from left to right as they are situated in the base;
-● Removed separate use button for classified items. They can now be used from the speedup popup;
-● Unit boost multinode info now shows the stat increase gained from the boost;
-● Fixed dark mode cloud color on the edges of the screen;
-● Building suggestor UI fixes;
-● Changed beam extension statistic to percentage in troop info;
-● Melon Bombardier info screen now shows bonus damage from projectile shrapnel;
-● Updated loading tips, added one for using creator codes;
-● Updated Mech and CryoBombardier texts to include info about stunning and changing targets.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Advertisements:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;● Added the possibility to watch an ad for extra rewards when opening the daily chest in the shop;
-● Added a beach chest. It allows a player to receive random rewards by watching an ad. &lt;/p&gt;
-&lt;h1&gt;New Features&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;New decorations:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;● During March, players can unlock a commemorative 10th anniversary statue;
-● Anniversary Crab now features a new reward statue. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Mystical Monument:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;● New ornamental building which becomes available at HQ 20;
-● Each upgrade costs one of four random resources. These options can be rerolled with gems.
-● The monument has visual upgrades at levels 1,100,200,300;
-● The monument gives random bonuses at a rate of one every 20 levels on average. These bonuses do not affect combat balance. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Seasonal Campaign:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;● Campaign becomes available at HQ 5;
-● Campaign seasons start at the same time as Warships seasons and last until the next season starts;
-● A set of missions is unlocked each week;
-● Completing missions award progress on the reward track;
-● This reward track contains both regular and premium rewards: Regular reward track contains chests, with contents identical to Supply Chests;
-&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Players can purchase a Boom Pass to unlock premium rewards;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Boom Pass holders can purchase progress on the track using gems;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Rewards must be claimed before the season ends.
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;New unique items from premium reward track:&lt;/b&gt;
-● Enhanced Admiral’s Key: Boom Pass contains full access to the current Warships season. This access is granted when Boom Pass is purchased, regardless of Headquarters level;
-● New currency: Build Tokens: Build Tokens can be used to start building upgrades when the builder is busy;
-● Sculptor gains extra slots to queue statues for sculpting: These expire at the end of the season, but assigned statues will be completed;
-● Optimizers: These come in three variations: building, unit upgrade and sculpting. They give a percentage reduction to the time required. This bonus increases as you claim more optimizers. Bonus is applied when a project starts, so it is not added retroactively to ongoing projects. Optimizer bonuses expire at the end of the season but projects started during the season enjoy full benefits even if the season ends;
-● Skins: Once unlocked, skins are permanently available. Skin menu for the island, buildings and troops can be accessed from Headquarters.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
-    <link href="https://boombeach.inbox.supercell.com/#/en/news/7eldwAdYVJzcyphrvaM6uv"/>
-    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
-    <category term="Blog"/>
-    <published>2024-02-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>6gFWymbUMWlfTjhx8GWHWT</id>
     <title>New Supercell game</title>
