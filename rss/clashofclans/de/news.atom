@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-26T12:46:15.611209+00:00</updated>
+  <updated>2024-05-26T13:33:40.193181+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>5Jm6pjSC8WkpbBYCb8s0nZ</id>
-    <title>Neuer Zauber!</title>
-    <updated>2024-03-05T13:00:49.949000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/de/news/5Jm6pjSC8WkpbBYCb8s0nZ"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Qh8Q6LpVvpSpAhxwofodd/a7e0e5ffa622e1829dd251cc4d302b7d/U_berwucherungszauber.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/s4hO_CfqM7M"/>
-    <category term="Updates"/>
-    <published>2024-02-26T13:00:03+00:00</published>
-  </entry>
   <entry>
     <id>3bHav3e7nMGcxqSiw7O3ou</id>
     <title>Februar-Update 2024 – Patch-Hinweise</title>
