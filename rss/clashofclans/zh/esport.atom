@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-esportNewsEntries-zh</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-05-27T09:34:07.445703+00:00</updated>
+  <updated>2024-05-27T10:35:29.973588+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -431,5 +431,14 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3WKGnCx01T6Y89Y8CpDcwF/3e4185c62bc26d752c13894ab6366a81/tw_20240522_COC---May-MF-AYNTK-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="賽事"/>
     <published>2024-05-22T15:59:27+00:00</published>
+  </entry>
+  <entry>
+    <id>1wmPQwQvjFjj7xzrbmQrIV</id>
+    <title>重溫月度決賽第1天精彩!</title>
+    <updated>2024-05-27T10:24:14.278000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/eoURPoADNIAp45kUjxzYs/7b40d04aaaa66e388b93b79fd58c95b1/tw_20240525_turtle_live_thumb_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Ix5x8HHYbvc"/>
+    <category term="賽事"/>
+    <published>2024-05-25T17:52:34+00:00</published>
   </entry>
 </feed>
