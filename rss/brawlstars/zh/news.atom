@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-27T05:32:59.504829+00:00</updated>
+  <updated>2024-05-27T06:38:52.012925+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>5xhmylTu0QhEMlshFn4baB</id>
-    <title>【嘿!兄弟】安傑洛能成為最強射手🏹嗎？有哪些特點？</title>
-    <updated>2024-02-27T06:17:44.263000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/5xhmylTu0QhEMlshFn4baB"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/JeTaTUBMZb5pfQ0l5nl2Q/e61bf99259ffa4bbc1a431a13e1f4c1d/tw_20240227_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=Sjbiywxy5kw"/>
-    <category term="最新情報"/>
-    <published>2024-02-27T05:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>5KzWWn31TISk1rLYjrJU5z</id>
-    <title>【盛主播】能毒能飛還跑超快的安傑洛( ´_ゝ｀)，強度如何？</title>
-    <updated>2024-02-27T06:19:03.858000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/5KzWWn31TISk1rLYjrJU5z"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2bm7uENBbd1QsgK1dDOLOn/6db08596406b56eb0680160a0e89fd3e/tw_20240227_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=gRePTUBT_6g"/>
-    <category term="最新情報"/>
-    <published>2024-02-27T05:01:00+00:00</published>
-  </entry>
   <entry>
     <id>31JP4mV4ZXeDnB4q5eldPo</id>
     <title>《荒野亂鬥》電競賽事合作夥伴計畫</title>
