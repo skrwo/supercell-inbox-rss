@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-27T03:35:54.627896+00:00</updated>
+  <updated>2024-05-27T04:35:14.385392+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -24,16 +24,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/KDnie2-3hCFofNTfqLff1RTlpu9SCGL2i4s_YrrsNCQ/b968706bb849ff905814d9a86159e6ee/en_20182405_scid_large_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2018-08-27T11:06:00+00:00</published>
-  </entry>
-  <entry>
-    <id>5T4cQj5IxlHHTCeg4ryTAx</id>
-    <title>新しい呪文登場！</title>
-    <updated>2024-02-27T04:12:14.192000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/5T4cQj5IxlHHTCeg4ryTAx"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6vEOEjdKSXumHYeSwDU2ub/2bc8420b48c51afea8876992804e7506/SUP3804_TH16_Refresh_Thumbnail_1920x1080_2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/SYXTzRwt3yo"/>
-    <category term="ゲームアップデート"/>
-    <published>2024-02-27T04:12:14+00:00</published>
   </entry>
   <entry>
     <id>3bHav3e7nMGcxqSiw7O3ou</id>
