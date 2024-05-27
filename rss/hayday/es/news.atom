@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-05-27T12:49:06.144897+00:00</updated>
+  <updated>2024-05-27T13:32:55.865487+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -252,5 +252,15 @@ Domingo: Edificios de producción potenciados (3 edificios aleatorios un 20 % m�
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Noticias"/>
     <published>2024-05-26T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>2xgZwJCXdIoZvVmW2ZMtG</id>
+    <title>Tráiler de las noticias huevásticas rockeras</title>
+    <updated>2024-05-27T13:29:37.182000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/2xgZwJCXdIoZvVmW2ZMtG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5MEu1mWoUzQ2Mjh0W0rasz/8fd8e0729cb09408f8acb8cd86cb8445/trailer_inbox.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/H4QZqxAl52o"/>
+    <category term="Noticias"/>
+    <published>2024-05-27T13:04:44+00:00</published>
   </entry>
 </feed>
