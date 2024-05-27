@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-27T08:36:17.289741+00:00</updated>
+  <updated>2024-05-27T09:34:16.146541+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -28,6 +28,16 @@ Town Hall 16 players can now also upgrade an additional 100 Wall segments to lev
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2kBY2JRZdNRdZPhxbNuO9A/4af7f217267bc9e04553b1910098c54b/thumbnail_TH16_LoadingScreen_171123_Layers_Extended.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-02-27T10:50:32+00:00</published>
+  </entry>
+  <entry>
+    <id>4drrVEG4BBLZ3Y6Jlhm8p8</id>
+    <title>Clash of Clans World Championship Live Events 2024</title>
+    <updated>2024-05-27T08:57:47.957000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/en/news/4drrVEG4BBLZ3Y6Jlhm8p8"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7MUblCy9e8jEtyt9au7lMz/d29e02a6e34d5b63175488fa1af8cd2c/900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://scidOpenWebSSO?url=https%3A//event.supercell.com/clashofclans/%3Fsso_client_id%3DFFF18471-7B7F-4BBC-9826-7436EDEB01EA%26pfg%3Dtrue"/>
+    <category term="News"/>
+    <published>2024-02-27T21:00:00+00:00</published>
   </entry>
   <entry>
     <id>3IbcmXhHUgceTorFtXWLh5</id>
