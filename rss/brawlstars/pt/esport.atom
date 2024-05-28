@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-28T19:32:38.396340+00:00</updated>
+  <updated>2024-05-28T20:33:32.379263+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>3OXFZKZQ1RSvdqd8VAMDA7</id>
-    <title>MAPAS DO CAMPEONATO #CMBS24</title>
-    <updated>2024-02-28T16:33:54.906000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5c402U8RsMQlEDEIJ22I5t/98da11c709784f491f6600d66aeeaec0/ES_Map_Pool.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/Brawl_esports/status/1760680687143944379?s=20"/>
-    <category term="Esports"/>
-    <published>2024-02-28T16:33:54+00:00</published>
-  </entry>
   <entry>
     <id>4Q8UHRGpbHsB5sTDY5GPbA</id>
     <title>Inscreva-se no Torneio CBBS!</title>
@@ -56,5 +47,32 @@ A Copa Brasileira de Brawl Stars é organizada pela&lt;b&gt; COP&lt;/b&gt;A, já
     <link href="https://twitter.com/Brawl_esports/status/1774100708041888196"/>
     <category term="Esports"/>
     <published>2024-04-02T09:52:08+00:00</published>
+  </entry>
+  <entry>
+    <id>3PDCTZ5Wf7E0SfoZGbPLeO</id>
+    <title>Parabéns F/A MiniPekkas!</title>
+    <updated>2024-05-28T20:20:39.061000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7yQ5gRHuEf99NfxM2FRk5l/f01e7560bf14a02aa17a36a1898ab224/pt-BSC_MF_Winners_MiniPekkas.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=mwqZhsHw9Ps"/>
+    <category term="Esports"/>
+    <published>2024-05-28T20:20:39+00:00</published>
+  </entry>
+  <entry>
+    <id>6dpEanDn5Ajovjkmj251bH</id>
+    <title>Parabéns Reply Totem!</title>
+    <updated>2024-05-28T20:20:41.167000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rTE1BmiT6H7rLf2tP9v6/7e54f83f0a8f1a094c51c3a6093fff4e/pt-BSC_MF_Winners_Reply_Totem.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=k7x3MoCd9JY"/>
+    <category term="Esports"/>
+    <published>2024-05-28T20:20:41+00:00</published>
+  </entry>
+  <entry>
+    <id>7oVZjCU5zh2OJ7dnkPv6W9</id>
+    <title>INSCREVA-SE AGORA!</title>
+    <updated>2024-05-28T20:23:42.148000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/40Jf3COwuV41GwBQ5W05mZ/e7648cf5319f0bbff029d2c6687a3ef2/PT_INSCRIC_O_ES_16_9_02.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/ecopagg/status/1795440715264385416"/>
+    <category term="Esports"/>
+    <published>2024-05-28T20:23:42+00:00</published>
   </entry>
 </feed>
