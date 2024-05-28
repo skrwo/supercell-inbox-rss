@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-esportNewsEntries-de</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-05-28T10:36:21.118277+00:00</updated>
+  <updated>2024-05-28T11:33:25.326538+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -362,5 +362,23 @@ Millesime MG: Millesime MG bestehend aus &lt;a href="javascript:window.sendComma
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/13yGcmGFYeViMgX2AjuCgk/f6e4580c7360d3248f24bef392b2b5fd/DE_COC_-_May_MF_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-Sports"/>
     <published>2024-05-22T15:59:27+00:00</published>
+  </entry>
+  <entry>
+    <id>1wmPQwQvjFjj7xzrbmQrIV</id>
+    <title>Wiederholung von Tag 1 des Monatsfinales Mai!</title>
+    <updated>2024-05-28T11:04:30.611000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/o7fYVbWd3wWa4WLOBYbbC/44f61dcd36639a0fb0433dcaa4ac3185/DE_COC_-_May_MF_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href=" https://www.youtube.com/watch?v=QjFHb34izDo"/>
+    <category term="E-Sports"/>
+    <published>2024-05-25T17:52:34+00:00</published>
+  </entry>
+  <entry>
+    <id>7nRZbbQDKLBnYU5tHW1LLD</id>
+    <title>Wiederholung von Tag 2 des Monatsfinales Mai!</title>
+    <updated>2024-05-28T11:06:02.450000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6A1Nq5G8Bc8Xt6bNchOm8i/391df27f9cf0dd79a055ae174f870c32/DE_COC_-_May_MF_Thumb_16x9_Tag2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href=" https://www.youtube.com/watch?v=f_uILKcLMxk"/>
+    <category term="E-Sports"/>
+    <published>2024-05-27T10:23:09+00:00</published>
   </entry>
 </feed>

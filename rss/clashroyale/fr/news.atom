@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-28T10:36:03.623812+00:00</updated>
+  <updated>2024-05-28T11:33:02.384631+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>7ke67SkO0Fn5dsfCOCXjtr</id>
-    <title>#Electrolution</title>
-    <updated>2024-02-28T11:00:04.522000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/7ke67SkO0Fn5dsfCOCXjtr"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7JstyuqAnsgWVD4huMKk8Q/b4f9a0f7482fcedd9f417af05d83557e/inboxteaser.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Temps forts"/>
-    <published>2024-02-28T11:00:04+00:00</published>
-  </entry>
   <entry>
     <id>5bis0kZUvGeVbwv7k0gvnE</id>
     <title>ÉVÉNEMENT D'ANNIVERSAIRE !</title>
@@ -579,5 +570,14 @@ Rapide → Très rapide&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4EzWQyg56dCBeUUgkx18LA/60775173cabda4ad314f7ad919c01f50/Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Actualités"/>
     <published>2024-05-15T15:00:44+00:00</published>
+  </entry>
+  <entry>
+    <id>6tHxJcV01Kfe1WASMuXN9T</id>
+    <title>Les soucis arrivent...</title>
+    <updated>2024-05-28T11:00:31.695000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/6tHxJcV01Kfe1WASMuXN9T"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7oh1Uek070in0eOHocIOXN/c7695d4d18b1152a3f55745c1983634f/cr-goblin-barrel-teaser-illustration-Final_1920x1080.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Temps forts"/>
+    <published>2024-05-28T11:00:06+00:00</published>
   </entry>
 </feed>
