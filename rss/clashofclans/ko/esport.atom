@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-05-28T01:38:54.110171+00:00</updated>
+  <updated>2024-05-28T02:42:14.631685+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -370,14 +370,5 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/43YEMYW7T5KDRNLUuiULqX/f91161f3be44a24e0bda257764990928/0523_5_______inbox_contents_1920x1080_05.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="e스포츠"/>
     <published>2024-05-22T15:59:27+00:00</published>
-  </entry>
-  <entry>
-    <id>2f5pdWcmmETXEhf2E1aOIH</id>
-    <title>5월 월별 파이널 시청하고 보상 받자! 🎁</title>
-    <updated>2024-05-24T03:28:36.370000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/E6p96A8fcyXDOppVsvBq4/357e02f3654dc1dcf39c9bf8ef5ddfa7/0525_COC_may-monthly-final_event_inbox-thumb_900x506_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://forms.gle/Qmt391e5vuv2GN687"/>
-    <category term="e스포츠"/>
-    <published>2024-05-26T03:00:00+00:00</published>
   </entry>
 </feed>
