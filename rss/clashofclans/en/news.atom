@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-28T16:37:31.095651+00:00</updated>
+  <updated>2024-05-28T17:33:34.091258+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -213,5 +213,15 @@ In addition to those rewards that will be enabled for &lt;b&gt;everyone&lt;/b&gt
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/h8aX6LK4IRNTXEIMGsUSW/f3dd5ea91d04726f7510e987568fe362/Thumb-website.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-05-23T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>2qq6iFzuzjtAMPiw9wpNXN</id>
+    <title>Books of Clash Vol. 3 Is Here!</title>
+    <updated>2024-05-28T17:00:03.061000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/en/news/2qq6iFzuzjtAMPiw9wpNXN"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5t1F1fTGgWHUdJja0rZNwy/7e9beb60b84b0f3ae45beb264319842c/Booksofclash_Vol3_SocialPostsDF_CLASH-COMICS_BOOKS-OF-CLASH-VOL-3-SOCIAL-POST_1600x900_1.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://booksofclash.com/books/books-of-clash-volume-3/"/>
+    <category term="News"/>
+    <published>2024-05-28T17:00:03+00:00</published>
   </entry>
 </feed>

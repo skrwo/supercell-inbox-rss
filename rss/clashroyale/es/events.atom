@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-eventEntries-es</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-05-28T16:37:17.964519+00:00</updated>
+  <updated>2024-05-28T17:33:32.307051+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -25,5 +25,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/67jyUpwT83ECTBYlDLGaM5/d319ebe0abf0418d805bc9813feae2f6/CR_S59_Season_Carousel_Image.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://clashroyale.inbox.supercell.com/#/es/news/2Vd5pMIios9xUcHXAytsWF"/>
     <published>2024-05-06T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>yB7TCmDIExMubeOewgmPH</id>
+    <title>🗞️</title>
+    <updated>2024-05-28T17:00:17.205000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://booksofclash.com/books/books-of-clash-volume-3/"&gt;👉Comprar👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1xWUmVJSwYjvnkg1VLa605/d785838b11f2de9f05d6cf26949f6465/BOC_CR_NewsTab_Vol3__1_.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://booksofclash.com/books/books-of-clash-volume-3/"/>
+    <published>2024-05-28T17:00:03+00:00</published>
   </entry>
 </feed>
