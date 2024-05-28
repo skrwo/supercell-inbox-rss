@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-05-28T08:37:32.851853+00:00</updated>
+  <updated>2024-05-28T09:33:08.906500+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -59,7 +59,7 @@
   <entry>
     <id>3hYHeDGQ7SOoomaSThCsWY</id>
     <title>Global Launch Free Rewards!</title>
-    <updated>2024-05-22T03:04:41.110000+00:00</updated>
+    <updated>2024-05-28T09:26:11.665000+00:00</updated>
     <content>&lt;h1&gt;New milestone unlocked! &lt;/h1&gt;
 &lt;p&gt;In order to THANK YOU all for supporting the Squad Busters launch, we&amp;#39;ve added a new milestone to the pre-registration reward track!&lt;/p&gt;&lt;p&gt;If we reach 40M pre-registrations before May 29, this beautiful Deco will be available at launch, and claimable for only a month!&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GVf4RB0pwJG6GjRimJtEH/01f3f46886f9052720b9c2e3b1f670b9/deco.png?w=3000&amp;h=3000&amp;f=center&amp;fit=fill"&gt;
@@ -94,7 +94,7 @@
   <entry>
     <id>1yohkcKJO7Efn7vh4EXnk9</id>
     <title>Update Patch Notes + Bug Fixes! </title>
-    <updated>2024-05-28T08:12:47.461000+00:00</updated>
+    <updated>2024-05-28T09:01:16.480000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;MAINTENANCE - MAY 28, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fix for Piñata member count where was possible to send invites to players who had a full Piñata&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Squad Journey: reducing Portal Energy requirements in Desert World&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Win Streak:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Bonus Taps: + 2 bonus taps start one level earlier (with 4 wins)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Win Streak re-buy reworked caps at 5000 coins at the 10th win&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1st position now gives 5 upgrade taps instead of 4&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bringing rest of the servers and databases online in preparation for launch day 🚀&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - MAY 24, 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Piñata Festival fixes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Score updates propagate now correctly&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Piñata parties can&amp;#39;t have more than 5 players anymore&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an issue where you could add yourself to the Piñata party&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;OPTIONAL UPDATE - MAY 23, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed various crashes occurring while in Battle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Shop and other minor visual issues&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Super Pass rewards info showing incorrect reward amounts&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Enabled the News section for Traditional Chinese&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;We are aware of the issues related to the Piñata Festival, and we are working on them. Thanks for the reports!&lt;/p&gt;&lt;p&gt;&lt;b&gt;
 MAINTENANCE - MAY 22, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fix for Referrals: The link can now be used by any player regardless of their progression level&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fix for the game crashing sometimes when opening Spell Event &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - MAY 21, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fix for future content showing up in the shop too early&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Removed Ice World maps from Squad League&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;UPDATE - MAY 21, 2024&lt;/b&gt;
 
