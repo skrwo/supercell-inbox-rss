@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-eventEntries-de</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-05-29T13:32:49.633100+00:00</updated>
+  <updated>2024-05-29T14:33:45.520511+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -37,7 +37,7 @@
   <entry>
     <id>6I0udo3a6Muu8bHXviN1fx</id>
     <title>🗞️</title>
-    <updated>2024-05-22T03:06:47.990000+00:00</updated>
+    <updated>2024-05-29T14:05:49.120000+00:00</updated>
     <content>&lt;h1&gt;PROGRESS: 100.00%&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;✅ - 40M &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7IWVPAm2j58nfDTuRVadso/4af9eece638e0d7c046c81669e29b5d1/boom-trimmed.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
@@ -46,9 +46,9 @@
 &lt;li&gt;✅ - 5M &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6FMZA3OoWZEXINyhpdmPeG/d026ebbe2551d80a08849cfc975932e9/squad_reward_2.png.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;a href="https://squadbusters.inbox.supercell.com/#/de/news/3hYHeDGQ7SOoomaSThCsWY"&gt;👉Mehr dazu👈&lt;/a&gt;</content>
+&lt;a href="squadbusters-inbox://OpenShop"&gt;👉ABHOLEN!👈&lt;/a&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4NXhZJZFtgA1fAR9h6PyWw/42669b1010ad31f733cd23079af2b26c/Squad-tracker-BG-ezgif.com-resize.webp?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://squadbusters.inbox.supercell.com/#/de/news/3hYHeDGQ7SOoomaSThCsWY"/>
+    <link href="squadbusters-inbox://OpenShop"/>
     <published>2024-04-26T09:20:53+00:00</published>
   </entry>
 </feed>
