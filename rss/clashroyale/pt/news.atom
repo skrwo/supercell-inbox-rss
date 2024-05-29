@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-29T14:33:38.407404+00:00</updated>
+  <updated>2024-05-29T15:34:42.009403+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -577,5 +577,15 @@ Rápida → Muito rápida&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/G2raWXjuh1DrhE3bsg9GI/3453d98b08bb1f2315e044111a471119/cr-teaser-illustration-Final_1920x1080.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Destaques"/>
     <published>2024-05-28T11:00:06+00:00</published>
+  </entry>
+  <entry>
+    <id>4Yec9HVxHY9t1P0qzY3nbF</id>
+    <title>Prévia da mecânica da evolução do Barril de Goblins!</title>
+    <updated>2024-05-29T15:05:03.197000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/4Yec9HVxHY9t1P0qzY3nbF"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1L0UraCKxfiRx3irMKaCPn/c0cf746de572a781db532ba77fa2523f/gbevogameplay.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/clashroyale"/>
+    <category term="Destaques"/>
+    <published>2024-05-29T15:05:03+00:00</published>
   </entry>
 </feed>
