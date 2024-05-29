@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>squadbusters-newsEntries-it</id>
   <title>Squadbusters - News</title>
-  <updated>2024-05-29T10:36:41.386627+00:00</updated>
+  <updated>2024-05-29T11:33:10.336667+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -98,5 +98,15 @@
     <link href="https://youtu.be/aFHM24c86p0"/>
     <category term="Video"/>
     <published>2024-05-28T11:28:09+00:00</published>
+  </entry>
+  <entry>
+    <id>3CC0pvM1XmswaHddkBHNUQ</id>
+    <title>Ci si diverte di più quando si LOTTA IN SQUARDA!</title>
+    <updated>2024-05-29T10:48:12.304000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/it/news/3CC0pvM1XmswaHddkBHNUQ"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/QMH_SGJciQY"/>
+    <category term="Video"/>
+    <published>2024-05-29T10:47:12+00:00</published>
   </entry>
 </feed>

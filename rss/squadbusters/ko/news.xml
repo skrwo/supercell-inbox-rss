@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 29 May 2024 10:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 11:33:10 +0000</lastBuildDate>
     <item>
       <title>알아둬야 할 모든 것!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -70,6 +70,14 @@
       <guid isPermaLink="false">1yohkcKJO7Efn7vh4EXnk9</guid>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>스쿼드와 함께라면 인생이 더욱 즐거워집니다!</title>
+      <link>https://youtu.be/QMH_SGJciQY</link>
+      <guid isPermaLink="false">3CC0pvM1XmswaHddkBHNUQ</guid>
+      <category>동영상</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 May 2024 10:47:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
