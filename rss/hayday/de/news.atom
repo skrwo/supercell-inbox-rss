@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-05-30T18:38:31.762815+00:00</updated>
+  <updated>2024-05-30T19:32:59.862707+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>Yu0ztuHaeKEHd520TltLx</id>
-    <title>Farmerjournal: Neues Update, St. Patrick‘s Day, Ostern und mehr!</title>
-    <updated>2024-03-01T15:25:24.439000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/Yu0ztuHaeKEHd520TltLx"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/66RJPiGQP0v4NxSklrobyA/6a5ae3cb47b43c86d32a24236bced621/HD-thumb-draft-03.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/r8MlQJsSsA4"/>
-    <category term="Updates"/>
-    <published>2024-02-29T08:01:41+00:00</published>
-  </entry>
   <entry>
     <id>2TCOJbMhdtZbsrKVJKxkx</id>
     <title>Ereigniswoche 10!</title>
@@ -262,5 +252,15 @@ Sonntag: Produktionsgebäude-Ereignis (20%iger Schub für drei zufällige Gebäu
     <link href="https://youtu.be/H4QZqxAl52o"/>
     <category term="Neues"/>
     <published>2024-05-27T13:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>327tcjIfc8NZ0JV4aHpivq</id>
+    <title>Rock ’n’ Roll-Update</title>
+    <updated>2024-05-30T19:15:14.638000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/327tcjIfc8NZ0JV4aHpivq"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/14I1rdBN2dHnIXwegpj5bP/b1744d0143b0203bab2e65ed2cd08298/HayDay_junedairynews_popup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/5LI0VZxx8gQ"/>
+    <category term="Neues"/>
+    <published>2024-05-30T18:52:55+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-eventEntries-ru</id>
   <title>Hayday - Event</title>
-  <updated>2024-05-30T18:38:32.407371+00:00</updated>
+  <updated>2024-05-30T19:33:00.593581+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -15,5 +15,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/cRcj4pkDW6Rh5ThtDKjVYxZNHJcNMJ9ukUsj4Qvsr1w/cc11b4a0a60932be2be4732bfa32eef7/1379298962_1625649229.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="hayday://OpenEventBoard"/>
     <published>2023-09-12T09:48:04+00:00</published>
+  </entry>
+  <entry>
+    <id>7iRi7ZgyBYS1pTyBwDJNjC</id>
+    <title>Рок-н-ролльное обновление</title>
+    <updated>2024-05-30T19:01:18.342000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/5LI0VZxx8gQ"&gt;👉Смотреть 👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2UqVWnBc4Fd7lGfsqWuF4r/9260298b36467bccbc7ae9df30c723e4/inbox2223.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/5LI0VZxx8gQ"/>
+    <published>2024-05-30T18:59:54+00:00</published>
   </entry>
 </feed>
