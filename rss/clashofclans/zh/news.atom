@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-05-30T07:34:41.826837+00:00</updated>
+  <updated>2024-05-30T08:35:30.566244+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>1X8Ay7opVE2BW2v69ccnzr</id>
-    <title>【金雄】挑戰難度太高？跟著步驟不翻車！</title>
-    <updated>2024-03-01T08:04:36.845000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1X8Ay7opVE2BW2v69ccnzr"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2Br7cnyhKbVmBM4dIFEytE/dcf73b9392e8dbd489b4ec159688a20b/tw_20240301_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=0nebRllPEgs"/>
-    <category term="最新情報"/>
-    <published>2024-03-01T08:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>4aE03pYjMZLAIV726KwtVH</id>
-    <title>【烏龜】細細拆解新挑戰！參考解法按部過！</title>
-    <updated>2024-03-01T08:04:28.996000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/4aE03pYjMZLAIV726KwtVH"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/33JX6dCYwOWnEHonsQpiv0/47e3c3b9f62df8ab7e3857fddcf01c57/tw_20240301_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/5vkU-kWZZUQ"/>
-    <category term="最新情報"/>
-    <published>2024-03-01T08:01:00+00:00</published>
-  </entry>
   <entry>
     <id>CAZ8zyi4xOAUTQr4ctzvl</id>
     <title>【XBB】全新打法！藤蔓蓋大本？</title>
