@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-30T14:33:31.662599+00:00</updated>
+  <updated>2024-05-30T15:33:10.724420+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,16 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>5xLPbMkepz6MksdGoxNOLu</id>
-    <title>Supercell MAKE: 투표가 시작되었습니다!</title>
-    <updated>2024-03-01T13:29:11.377000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/5xLPbMkepz6MksdGoxNOLu"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2IFMyknBFTUDVOUByvjQrp/69cde716e1e3bd1f2a86c70ca5e1c16e/MAKE_votes.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://make.supercell.com/en/campaign/7emAHCbI5uM2hrvIiWRLKh?sort=random&amp;finalist=0"/>
-    <category term="커뮤니티"/>
-    <published>2024-03-01T13:29:11+00:00</published>
   </entry>
   <entry>
     <id>18982Y1mmWWT5LosiAFjbT</id>
@@ -582,5 +572,15 @@ A: 현재 럭키 드롭 보상은 인벤토리 보유 한도와 무관하게 지
     <link href="https://youtube.com/shorts/yr7McAj_Ru8?si=MjwgCUkWnqddz7Us"/>
     <category term="하이라이트"/>
     <published>2024-05-29T15:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4tvLr0fQjobgr19w52g2kM</id>
+    <title>고블린 통 진화 애니메이션!</title>
+    <updated>2024-05-30T15:05:19.421000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/4tvLr0fQjobgr19w52g2kM"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4sw3ShN6VndtQNcUtLfHi9/979174b639f6e048e38f5bc3e1ee9a1f/goblinbarrelevoanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/clashroyale"/>
+    <category term="하이라이트"/>
+    <published>2024-05-30T15:05:02+00:00</published>
   </entry>
 </feed>

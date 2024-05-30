@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-05-30T14:33:25.528886+00:00</updated>
+  <updated>2024-05-30T15:32:49.239591+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>5L7RUjfGVWpwb2WbQsdJB8</id>
-    <title>BSC Partner Program</title>
-    <updated>2024-03-11T07:47:54.938000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1KjjuqYGw27qfbvYS8AMKs/321ec34672a893c47d281ce2a8a151fd/BSC_Wallpaper.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://supercell.com/en/games/brawlstars/blog/esports/brawl-esports-partner-program/"/>
-    <category term="Esports"/>
-    <published>2024-03-01T15:12:56+00:00</published>
-  </entry>
   <entry>
     <id>vZwVqdgfE6GeclPp6HNrn</id>
     <title>FUT 2024 Roster Reveal</title>
