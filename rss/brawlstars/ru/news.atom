@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>brawlstars-newsEntries-ru</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-31T14:33:00.982503+00:00</updated>
+  <updated>2024-05-31T15:32:44.771659+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -156,5 +156,15 @@ Room to Read - https://www.roomtoread.org/
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Hn4jTeS0NQtp7FOaYaT4W/c9bb923ffe61eaf996e61061be9f944f/0422_Godzilla_update_release_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2024-05-22T06:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6ueIkDgEMObFtIm5CsuHuh</id>
+    <title>Музыкальный клип DragonForce и Brawl Stars: «Сказание о Драко»</title>
+    <updated>2024-05-31T15:01:56.328000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ru/news/6ueIkDgEMObFtIm5CsuHuh"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/10RamA0wGzmIBadlIaXHwc/5e8c3da2ea5faa5707305c94c49c3048/thumbs_dragonforce.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/R1hiRWjRJVk?si=K9QIDuB1UFwTJkQO"/>
+    <category term="видео"/>
+    <published>2024-05-31T15:01:43+00:00</published>
   </entry>
 </feed>

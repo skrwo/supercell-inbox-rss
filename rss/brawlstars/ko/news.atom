@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-31T14:32:56.492296+00:00</updated>
+  <updated>2024-05-31T15:32:42.842097+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -259,5 +259,15 @@
     <link href="https://cafe.naver.com/brawlstars/1179743"/>
     <category term="뉴스"/>
     <published>2024-05-31T04:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>6ueIkDgEMObFtIm5CsuHuh</id>
+    <title>뮤직비디오: 드래곤포스 &amp; 브롤스타즈 - 드라코 이야기</title>
+    <updated>2024-05-31T15:01:56.328000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/6ueIkDgEMObFtIm5CsuHuh"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/10RamA0wGzmIBadlIaXHwc/5e8c3da2ea5faa5707305c94c49c3048/thumbs_dragonforce.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/R1hiRWjRJVk?si=K9QIDuB1UFwTJkQO"/>
+    <category term="동영상"/>
+    <published>2024-05-31T15:01:43+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-05-31T14:32:57.240451+00:00</updated>
+  <updated>2024-05-31T15:32:45.367419+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -100,5 +100,15 @@ Wie wir gehört haben, gefallen euch Community-Ereignisse. Daher haben wir Frank
     <link href="http://bit.ly/MonthlyFinalWatchparty"/>
     <category term="Esports"/>
     <published>2024-05-24T12:22:55+00:00</published>
+  </entry>
+  <entry>
+    <id>6ueIkDgEMObFtIm5CsuHuh</id>
+    <title>Musikvideo: DragonForce &amp; Brawl Stars – A Draco Tale</title>
+    <updated>2024-05-31T15:01:56.328000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/de/news/6ueIkDgEMObFtIm5CsuHuh"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/10RamA0wGzmIBadlIaXHwc/5e8c3da2ea5faa5707305c94c49c3048/thumbs_dragonforce.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/R1hiRWjRJVk?si=K9QIDuB1UFwTJkQO"/>
+    <category term="Video"/>
+    <published>2024-05-31T15:01:43+00:00</published>
   </entry>
 </feed>
