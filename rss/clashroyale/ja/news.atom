@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-05-31T23:33:38.099133+00:00</updated>
+  <updated>2024-06-01T01:43:23.237157+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -567,5 +567,19 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4sw3ShN6VndtQNcUtLfHi9/979174b639f6e048e38f5bc3e1ee9a1f/goblinbarrelevoanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/clashroyale"/>
     <published>2024-05-30T15:05:02+00:00</published>
+  </entry>
+  <entry>
+    <id>1EXd7XWtK47QPRmYZwFusF</id>
+    <title>コウモリ限界突破イベント「群れの脅威！」</title>
+    <updated>2024-06-01T00:04:58.637000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1GU3WFoB3ZqCdstrOFZd4N/c6a0bdf25de1e8e4138f9d5f1a035839/batsevo.png?w=400&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;コウモリの限界突破イベントが5/31 18:00にスタート。6月3日まで、できるだけ多くのクラウンを獲得して、3つの限界突破シャードと2つの新しいスタンプなどの報酬をゲットしましょう。&lt;/p&gt;&lt;p&gt;以下が報酬一覧です。（必要合計クラウン数）&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;5,000ゴールド（4）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ランダムなノーマルカード100枚（6）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ノーマルトレードチケット1枚（×12）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;コウモリの群れカード500枚（×18）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;コウモリの群れ限界突破シャード 1枚（×30）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スタンプ（×60）※50エメラルドが必要となります&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ランダムなレアカード100枚（×90）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スタンプ（×120)　※50エメラルドが必要となります&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;コウモリの群れ限界突破シャード2枚（×150）
+
+参加資格：キングタワーレベル7以上
+&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/1EXd7XWtK47QPRmYZwFusF"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3o0XWNSfIKwwh65Cd0jtqf/9597bc4227a1f1f51605042c0a667368/batsevent_thumb.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-06-01T00:04:58+00:00</published>
   </entry>
 </feed>
