@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-01T07:33:02.640514+00:00</updated>
+  <updated>2024-06-01T08:34:13.308140+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -241,5 +241,15 @@ If you prefer to participate on Facebook, &lt;a href="javascript:window.sendComm
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5pWFRfz2XlOKR1Zbxpvdnz/4d31e20628688d42822559adba96c1f2/3StarWithHaalandChallenge_InboxThumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-05-29T15:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>vDMtxo7lhswl4uXRMeGq0</id>
+    <title>Welcome to the Wild West Season!</title>
+    <updated>2024-06-01T08:00:09.489000+00:00</updated>
+    <content>&lt;p&gt;Saddle Up, Chief! Welcome to the Wild West June Season!&lt;/p&gt;&lt;p&gt;Dust off your boots and grab your hats because the Wild West June Season has arrived in Clash of Clans! This month, we’re taking you on an epic journey back to the frontier, where new adventures and rewards await. &lt;/p&gt;&lt;p&gt;What is coming in the Wild West Season?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;June 1-30: A brand-new set of Season Pass Challenges!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;June 1-10: Clan War League.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;June 11-21: Get ready for a Super Troop Medal Event featuring Super Wall Breaker!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;June 19-29: New &amp;amp; Improved Streak Event.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;June 22-28: Clan Games!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Enjoy the new Wild West Season!&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/en/news/vDMtxo7lhswl4uXRMeGq0"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6lxWYsxWLniTCOFSraEzQB/048870d9ee3136fcbe26af66b753b68d/inbox_thumbnail_WILDWEST.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-06-01T08:00:09+00:00</published>
   </entry>
 </feed>

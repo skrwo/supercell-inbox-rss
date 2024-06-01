@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-01T07:33:00.266887+00:00</updated>
+  <updated>2024-06-01T08:34:16.284630+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -188,5 +188,15 @@ Untuk mengirim melalui Facebook, &lt;a href="javascript:window.sendCommand('Open
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/61y3fW1tNVWpSVjrHCfTgP/e013569b6ddc01a69d7714690da52a71/ID-3StarWithHaaland_InboxThumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Komunitas"/>
     <published>2024-05-29T15:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>vDMtxo7lhswl4uXRMeGq0</id>
+    <title>Selamat Datang di Musim Dunia Koboi!</title>
+    <updated>2024-06-01T08:00:09.489000+00:00</updated>
+    <content>&lt;p&gt;Howdy, Chief! Selamat Datang di Musim Dunia Koboi Edisi Juni!&lt;/p&gt;&lt;p&gt;Sepatumu berdebu dan topimu akan jadi bagian dari musim ini karena Musim Dunia Koboi kini tiba di Clash of Clans! Di bulan ini, kita semua akan berada di petualangan epik menaklukkan kawasan liar yang menawarkan petualangan seru dan hadiah melimpah.&lt;/p&gt;&lt;p&gt;Jadi, apa yang akan kita temukan di Musim Dunia Koboi?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1 Juni–30 Juni: Ada rangkaian serba baru untuk Tantangan Tiket Musim!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 Juni–10 Juni: Liga Perang Klan!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;11 Juni–21 Juni: Ayo sambut Acara Medali Peleton Super yang akan dimeriahkan oleh Peremuk Tembok Super!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;19 Juni–29 Juni: Acara Berantai serba baru yang lebih keren!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;22 Juni–28 Juni: Permainan Klan!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Selamat menikmati Musim Dunia Koboi!&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/id/news/vDMtxo7lhswl4uXRMeGq0"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6lxWYsxWLniTCOFSraEzQB/048870d9ee3136fcbe26af66b753b68d/inbox_thumbnail_WILDWEST.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2024-06-01T08:00:09+00:00</published>
   </entry>
 </feed>
