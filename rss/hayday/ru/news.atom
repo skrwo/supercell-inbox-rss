@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-06-02T07:32:52.601185+00:00</updated>
+  <updated>2024-06-02T08:34:00.444496+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>2TCOJbMhdtZbsrKVJKxkx</id>
-    <title>События Hay Day: 10-я неделя</title>
-    <updated>2024-03-03T08:00:33.349000+00:00</updated>
-    <content>&lt;h1&gt;События Hay Day: 10-я неделя&lt;/h1&gt;
-&lt;p&gt;Фермеры, готовьтесь к новому месяцу событий! Надевайте комбинезоны и вперед! Все события начинаются в 8:00 UTC. Подробности о каждом событии можно узнать на доске событий в игре.
-Понедельник: дополнительные ваучеры на колесе фортуны.
-Вторник: дополнительные материалы для улучшения амбара и силосной башни за выполнение заказов на доставку грузовиком.
-Среда: дополнительные ускорители за загрузку пароходов.
-Четверг: вдвое больше монет за обслуживание посетителей фермы.
-Пятница: ускорение производства в рыболовной зоне на 30 % (утиный салон и вязальщик сетей), а также удвоение очков Farm Pass и глобальное событие помощи в честь Международного женского дня.
-Суббота: вдвое больше опыта и репутации за обслуживание гостей города, а также глобальное событие помощи в честь Международного женского дня.
-Воскресенье: три случайных растения будут приносить в полтора раза больше урожая, а также глобальное событие помощи в честь Международного женского дня.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/2TCOJbMhdtZbsrKVJKxkx"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Новости"/>
-    <published>2024-03-03T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>7DZRwDKdg9aGSTW85dc6bM</id>
     <title>События Hay Day: 11-я неделя</title>

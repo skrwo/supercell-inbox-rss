@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-06-02T07:32:50.965606+00:00</updated>
+  <updated>2024-06-02T08:34:01.706789+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>2TCOJbMhdtZbsrKVJKxkx</id>
-    <title>Eventi di Hay Day (settimana n. 10)</title>
-    <updated>2024-03-03T08:00:33.349000+00:00</updated>
-    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 10)&lt;/h1&gt;
-&lt;p&gt;Anche questo sarà un mese ricco di eventi, perciò che aspetti? È tempo di rimboccarsi le maniche e mettersi al lavoro! Tutti gli eventi iniziano alle 8:00 UTC. Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.
-Lunedì: buoni extra (gira la ruota).
-Martedì: materiali extra per i miglioramenti per granaio e silo (ordini del furgone).
-Mercoledì: potenziamenti extra (ordini per la barca).
-Giovedì: monete doppie (visitatori della fattoria).
-Venerdì: potenziamento del 30% per alcuni edifici per la pesca (salone delle anatre e retificio), punti doppi del Pass della fattoria ed evento globale di aiuto in occasione della Festa della donna.
-Sabato: XP e reputazione doppi (visitatori della città) ed evento globale di aiuto in occasione della Festa della donna.
-Domenica: potenziamento colture (3 unità invece di 2 da 3 colture a caso) ed evento globale di aiuto in occasione della Festa della donna.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/2TCOJbMhdtZbsrKVJKxkx"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notizie"/>
-    <published>2024-03-03T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>7DZRwDKdg9aGSTW85dc6bM</id>
     <title>Eventi di Hay Day (settimana n. 11)</title>
@@ -262,5 +244,16 @@ Domenica: potenziamento del 20% per 3 edifici produttivi a caso ed evento d&amp;
     <link href="https://youtu.be/5LI0VZxx8gQ"/>
     <category term="Notizie"/>
     <published>2024-05-30T18:52:55+00:00</published>
+  </entry>
+  <entry>
+    <id>43L6F3AzO6X5XlZeYM1Kac</id>
+    <title>Eventi di Hay Day (settimana n. 23)</title>
+    <updated>2024-06-02T08:01:03.855000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 23)&lt;/h1&gt;
+&lt;p&gt;Ehilà, anche il mese di giugno sarà pieno di eventi, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: pezzi del puzzle (gira la ruota).&lt;/p&gt;&lt;p&gt;Martedì: buoni (ordini per la barca).&lt;/p&gt;&lt;p&gt;Mercoledì: monete doppie (ordini per la barca).&lt;/p&gt;&lt;p&gt;Giovedì: monete doppie (visitatori della fattoria).&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 30% per due edifici per la pesca (vasca per aragoste e banco da lavoro per esche), punti del Pass della fattoria doppi ed evento di aiuto arcobaleno.&lt;/p&gt;&lt;p&gt;Sabato: oggetti espansione (visitatori della città), pezzi del puzzle (ordini per la barca) ed evento di aiuto arcobaleno.&lt;/p&gt;&lt;p&gt;Domenica: monete doppie (ordini per la barca) ed evento di aiuto arcobaleno.&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/43L6F3AzO6X5XlZeYM1Kac"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-06-02T08:00:03+00:00</published>
   </entry>
 </feed>

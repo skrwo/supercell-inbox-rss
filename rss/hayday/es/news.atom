@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-06-02T07:32:53.427015+00:00</updated>
+  <updated>2024-06-02T08:34:02.617350+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>2TCOJbMhdtZbsrKVJKxkx</id>
-    <title>Eventos de la semana 10</title>
-    <updated>2024-03-03T08:00:33.349000+00:00</updated>
-    <content>&lt;h1&gt;Eventos de la semana 10&lt;/h1&gt;
-&lt;p&gt;¡Prepárate para un nuevo mes lleno de eventos semanales! ¡Enfúndate los guantes y ponte manos a la obra! Todos los eventos comienzan a las 8:00 UTC. Para saber más sobre cada uno de los eventos, échale un vistazo al tablón de eventos en el juego.
-Lunes: Gira la ruleta (tiques extras).
-Martes: Pedidos de la camioneta (materiales de mejora del granero y el silo extras).
-Miércoles: Evento del barco (potenciadores extras).
-Jueves: Visitantes de la granja (doble de monedas).
-Viernes: Evento de pesca (peluquería para patos y telar de redes un 30 % más rápidos); además, doble de puntos para el pase de la granja y evento de ayuda global (Día Internacional de la Mujer).
-Sábado: Visitantes del pueblo (doble de XP y de reputación); además, evento de ayuda global (Día Internacional de la Mujer).
-Domingo: Cultivos prósperos (3 cultivos generarán 3 cosechas en lugar de 2); además, evento de ayuda global (Día Internacional de la Mujer).&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/2TCOJbMhdtZbsrKVJKxkx"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Noticias"/>
-    <published>2024-03-03T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>7DZRwDKdg9aGSTW85dc6bM</id>
     <title>Eventos de la semana 11</title>
