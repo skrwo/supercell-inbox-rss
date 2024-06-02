@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-02T13:32:58.002526+00:00</updated>
+  <updated>2024-06-02T14:32:42.364391+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,27 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>18982Y1mmWWT5LosiAFjbT</id>
-    <title>限界突破テスラ＆ザップのプレイ映像⚡</title>
-    <updated>2024-03-04T11:35:28.061000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/18982Y1mmWWT5LosiAFjbT"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2eeEY5eENpz6XzhwMraGAN/561917e70dda48129b9b16729ddc7238/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/CDxAPBTWpwo?feature=share"/>
-    <published>2024-03-03T15:05:46+00:00</published>
-  </entry>
-  <entry>
-    <id>59FzGyhmGTTluXsyXUYILs</id>
-    <title>3月のバランス調整</title>
-    <updated>2024-03-06T10:43:20.410000+00:00</updated>
-    <content>&lt;p&gt;&lt;b&gt;上記の変更は、3月5日（火）に予定されているメンテナンス後に実装されます。&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;限界突破ナイト🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;攻撃速度：1.1秒→&lt;/b&gt; &lt;b&gt;1.2秒（+9％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ダメージ上昇：10％→0％（-9％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;リトルプリンス🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;射程：6→5.5&lt;/b&gt; &lt;b&gt;（-8％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;限界突破見習い親衛隊🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ダメージ上昇：6％→0％（-6％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ゴブジャイアント🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ヒットポイント：-3％&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;スケルトンラッシュ🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;効果時間：9.5秒→&lt;/b&gt; &lt;b&gt;9秒（-5％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;限界突破ボンバー🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;バウンスの射程：3マス→2.5マス（-17％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;限界突破アイススピリット🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;攻撃範囲：1.5マス→&lt;/b&gt; &lt;b&gt;2マス（+33％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;限界突破バルキリー🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;HP上昇：0％→&lt;/b&gt; &lt;b&gt;15％（+15％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;マジックアーチャー🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;初撃速度：0.8秒→&lt;/b&gt; &lt;b&gt;0.7秒（-13％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;P.E.K.K.A🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;射程：1.2マス - 中距離→&lt;/b&gt; &lt;b&gt;1.6マス - 長距離（-33％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ゴールドナイト🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;スキルのクールダウン：11秒→8秒（-27％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;モンク🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ヒットポイント：+8％&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ゴブリンドリル - リワーク&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;稼働時間：9秒→&lt;/b&gt; &lt;b&gt;10秒&lt;/b&gt; &lt;b&gt;（+11％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;生成開始：1秒→&lt;/b&gt; &lt;b&gt;0.5秒（-50％）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ヒットポイント&lt;/b&gt;：&lt;b&gt;-9％&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;p&gt;上記の変更でダイナミックかつバランスの取れた環境になることを願っています。戦略やデッキ構成の変化を見るのが今から楽しみです。私たちも動向を注視いたしますが、皆さまからのご意見も大歓迎です。ぜひお声をお聞かせください。&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oWZudRT8v7HMWySlferCq/dfdea4cce5e85189181202bfc886de99/emotes_wallbreakerevo_lovepocalypse_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/59FzGyhmGTTluXsyXUYILs"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/78Gc2AFIUXQYkybNZUegMo/2aa346587b046a176eaf0e330ba05010/Untitled-2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="リリース情報"/>
-    <published>2024-03-04T11:06:28+00:00</published>
   </entry>
   <entry>
     <id>4DXKtzDuVtM0JpBiGiUTzY</id>

@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-02T13:32:58.304399+00:00</updated>
+  <updated>2024-06-02T14:32:40.561037+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>18982Y1mmWWT5LosiAFjbT</id>
-    <title>GAMEPLAY DE TESLA ET D'ÉLECTROCUTION ÉVOLUÉS ⚡</title>
-    <updated>2024-03-04T11:35:28.061000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/18982Y1mmWWT5LosiAFjbT"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2eeEY5eENpz6XzhwMraGAN/561917e70dda48129b9b16729ddc7238/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/CDxAPBTWpwo?feature=share"/>
-    <category term="Temps forts"/>
-    <published>2024-03-03T15:05:46+00:00</published>
-  </entry>
-  <entry>
-    <id>59FzGyhmGTTluXsyXUYILs</id>
-    <title>CHANGEMENTS D'ÉQUILIBRAGE DE MARS</title>
-    <updated>2024-03-06T10:43:20.410000+00:00</updated>
-    <content>&lt;p&gt;&lt;b&gt;CES CHANGEMENTS SORTIRONT APRÈS LA MAINTENANCE DU MARDI 5 MARS&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Chevalier évolué 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Vitesse de frappe bonus : 1,1 s →&lt;/b&gt; &lt;b&gt;1,2 s (+9,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Dégâts bonus : 10 % → 0 % (-9,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Petit prince 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Portée : 6 → 5,5&lt;/b&gt; (&lt;b&gt;-8,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Recrues royales évoluées 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Dégâts bonus : 6 % → 0 % (-6,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Gobelin géant 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Points de vie : -3,00 %&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cimetière 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Durée : 9,5 s →&lt;/b&gt; &lt;b&gt;9 s (-5,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bombardier évolué 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Portée des rebonds : 3 cases → 2,5 cases (-17.00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Esprits de glace évolués 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Portée de l&amp;#39;explosion : 1,5 case →&lt;/b&gt; &lt;b&gt;2 cases (+33,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Valkyrie évoluée 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Points de vie bonus : 0 % →&lt;/b&gt; &lt;b&gt;15 % (+15,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Archère d&amp;#39;élite 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Vitesse du premier coup : 0,8 s →&lt;/b&gt; &lt;b&gt;0,7 s (-13,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;P.E.K.K.A 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Portée : 1,2 case/ moyenne →&lt;/b&gt; &lt;b&gt;1,6 case/ longue (+33,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Chevalier d&amp;#39;or 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Récupération de la capacité : 11 s → 8 s (-27,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Moine 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Points de vie : +8,00 %&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Foreuse gobeline - Ajustements&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Durée : 9 s →&lt;/b&gt; &lt;b&gt;10 s&lt;/b&gt; (+&lt;b&gt;11,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Début de la génération : 1 s →&lt;/b&gt; &lt;b&gt;0,5 s (-50,00 %)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Points de vie&lt;/b&gt; : &lt;b&gt;-9,00 %&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;p&gt;Ces changements reflètent notre engagement à vous offrir une expérience de jeu équilibrée et dynamique dans Clash Royale. Nous avons hâte de voir la manière dont ces ajustements influenceront vos stratégies et vos decks dans l&amp;#39;arène ! Comme toujours, nous resterons attentifs aux effets de ces changements ainsi qu&amp;#39;à vos retours.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oWZudRT8v7HMWySlferCq/dfdea4cce5e85189181202bfc886de99/emotes_wallbreakerevo_lovepocalypse_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/59FzGyhmGTTluXsyXUYILs"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/78Gc2AFIUXQYkybNZUegMo/2aa346587b046a176eaf0e330ba05010/Untitled-2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notes de patch"/>
-    <published>2024-03-04T11:06:28+00:00</published>
-  </entry>
   <entry>
     <id>4DXKtzDuVtM0JpBiGiUTzY</id>
     <title>GAMEPLAY DE L'ÉLECTROCUTION ÉVOLUÉE !</title>

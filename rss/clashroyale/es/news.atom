@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-02T13:32:59.824260+00:00</updated>
+  <updated>2024-06-02T14:32:40.263109+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,28 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cb3HMPOCmfIQ1i06KsHAi/422ccb72d93f268b1935c257ce2999d9/Thumbnail_Roadmap.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2023-12-01T15:42:54+00:00</published>
-  </entry>
-  <entry>
-    <id>18982Y1mmWWT5LosiAFjbT</id>
-    <title>MECÁNICAS DE LAS EVOLUCIONES DE LA TORRE TESLA Y DE LA DESCARGA ⚡</title>
-    <updated>2024-03-04T11:35:28.061000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/18982Y1mmWWT5LosiAFjbT"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2eeEY5eENpz6XzhwMraGAN/561917e70dda48129b9b16729ddc7238/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/CDxAPBTWpwo?feature=share"/>
-    <category term="Lo más destacado"/>
-    <published>2024-03-03T15:05:46+00:00</published>
-  </entry>
-  <entry>
-    <id>59FzGyhmGTTluXsyXUYILs</id>
-    <title>AJUSTES DE EQUILIBRIO DE MARZO</title>
-    <updated>2024-03-06T10:43:20.410000+00:00</updated>
-    <content>&lt;p&gt;&lt;b&gt;ESTOS CAMBIOS SERÁN EFECTIVOS EN EL JUEGO EL MARTES, 5 DE MARZO, TRAS UNA PAUSA DE MANTENIMIENTO.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Evolución del caballero 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;La velocidad de ataque extra ha pasado de 1,1 segundos a&lt;/b&gt; &lt;b&gt;1,2 segundos (+9 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;El daño extra que inflige se ha reducido del 10 % al 0 % (-9 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Principito 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;El alcance se ha reducido de 6 a 5,5&lt;/b&gt; &lt;b&gt;(-8 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Alcance de la habilidad de embestida de 4,5 casillas a 4 (-11%).&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Evolución de los reclutas reales 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;El daño extra que infligen se ha reducido del 6 % al 0 % (-6 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Duende gigante 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Sus puntos de vida se han reducido un 3 %&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cementerio 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;La duración se ha reducido de 9,5 segundos a&lt;/b&gt; &lt;b&gt;9 segundos (-5 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Evolución del bombardero 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;El alcance del rebote se ha reducido de 3 casillas a 2,5 casillas (-17 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Evolución del espíritu de hielo 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;El radio de efecto ha aumentado de 1,5 casillas a&lt;/b&gt; &lt;b&gt;2 casillas (+33 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Evolución de la valquiria 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Sus puntos de vida extras se han aumentado de un 0 % a un&lt;/b&gt; &lt;b&gt;15 % (+15 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Arquero Mágico  🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;La velocidad del primer ataque ha pasado de 0,8 segundos a&lt;/b&gt; &lt;b&gt;0,7 segundos (-13.00 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;P.E.K.K.A. 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Su alcance ha pasado de 1,2 casillas (medio) a&lt;/b&gt; &lt;b&gt;1,6 casillas (largo) (+33 %)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Caballero dorado 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;La recarga de la habilidad se ha reducido de 11 segundos a 8 segundos (-27 %).&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Monje 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Sus puntos de vida se han aumentado un 8 %.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Excavadora de duendes: cambios&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;La duración se ha aumentado de 9 segundos a&lt;/b&gt; &lt;b&gt;10 segundos&lt;/b&gt; (+&lt;b&gt;11 %).&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;La generación empieza a partir de 1 segundo en lugar de a partir de&lt;/b&gt; &lt;b&gt;0,5 segundos (-50 %).&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Sus puntos de vida&lt;/b&gt; &lt;b&gt;se han reducido un 9 %.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Estos cambios reflejan nuestro fuerte compromiso con crear una experiencia de juego en Clash Royale que sea equilibrada y dinámica. Tenemos muchas ganas de ver cómo influirán estos ajustes a las estrategias y los mazos en la arena. Como siempre, estaremos pendientes de los efectos que tendrán estos cambios en el juego, y nos mantendremos atentos a los comentarios de los jugadores.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oWZudRT8v7HMWySlferCq/dfdea4cce5e85189181202bfc886de99/emotes_wallbreakerevo_lovepocalypse_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/59FzGyhmGTTluXsyXUYILs"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/78Gc2AFIUXQYkybNZUegMo/2aa346587b046a176eaf0e330ba05010/Untitled-2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notas de actualización"/>
-    <published>2024-03-04T11:06:28+00:00</published>
   </entry>
   <entry>
     <id>4DXKtzDuVtM0JpBiGiUTzY</id>

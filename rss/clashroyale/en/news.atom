@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-02T13:33:01.020407+00:00</updated>
+  <updated>2024-06-02T14:32:39.740485+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,28 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cb3HMPOCmfIQ1i06KsHAi/422ccb72d93f268b1935c257ce2999d9/Thumbnail_Roadmap.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2023-11-30T14:59:31+00:00</published>
-  </entry>
-  <entry>
-    <id>18982Y1mmWWT5LosiAFjbT</id>
-    <title>TESLA &amp; ZAP EVOLUTION GAMEPLAY ⚡</title>
-    <updated>2024-03-04T11:35:28.061000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/18982Y1mmWWT5LosiAFjbT"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2eeEY5eENpz6XzhwMraGAN/561917e70dda48129b9b16729ddc7238/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/CDxAPBTWpwo?feature=share"/>
-    <category term="Highlights"/>
-    <published>2024-03-03T15:05:46+00:00</published>
-  </entry>
-  <entry>
-    <id>59FzGyhmGTTluXsyXUYILs</id>
-    <title>MARCH BALANCE CHANGES</title>
-    <updated>2024-03-06T10:43:20.410000+00:00</updated>
-    <content>&lt;p&gt;&lt;b&gt;THESE CHANGES WILL BE LIVE AFTER A MAINTENANCE BREAK ON TUESDAY, MARCH 5TH&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Knight Evolution 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bonus Hit Speed: 1.1sec →&lt;/b&gt; &lt;b&gt; 1.2sec (+9.00%)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bonus Damage: 10% →  0% (-9.00%)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Little Prince 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Range: 6 → 5.5&lt;/b&gt; (&lt;b&gt;-8.00%)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ability Dash Range 4.5 tiles &amp;gt; 4 tiles (-11%)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Royal Recruits Evolution 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bonus Damage: 6% → 0% (-6.00%)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Goblin Giant 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Hit Points: -3.00% &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Graveyard 🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Duration: 9.5sec →&lt;/b&gt; &lt;b&gt; 9sec (-5.00%) &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bomber Evolution 🔽 &lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bounce Range: 3 tiles &amp;gt; 2.5 tiles (-17.00%) &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ice Spirits Evolution 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Splash Radius: 1.5tiles→&lt;/b&gt;  &lt;b&gt;2tiles (+33.00%) &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Valkyrie Evolution  🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bonus Hit Points: 0% →&lt;/b&gt; &lt;b&gt; 15% (+15.00%) &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Magic Archer 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;First Hit Speed: 0.8sec →&lt;/b&gt; &lt;b&gt; 0.7sec (-13.00%) &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;P.E.K.K.A 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Range: 1.2 tiles/Medium →&lt;/b&gt; &lt;b&gt;1.6 tiles/Long (+33.00%) &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Golden Knight 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ability Cooldown: 11sec → 8 sec (-27.00%)&lt;/b&gt; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Monk 🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Hitpoints: 8.00% &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Goblin Drill - Rework&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Duration: 9sec →&lt;/b&gt; &lt;b&gt; 10sec&lt;/b&gt; (+&lt;b&gt;11.00%) &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Spawn Start: 1sec →&lt;/b&gt; &lt;b&gt; 0.5sec (-50.00%) &lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Hitpoints&lt;/b&gt;: &lt;b&gt;-9.00%&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;These changes are part of our ongoing commitment to providing a balanced and dynamic Clash Royale experience. We&amp;#39;re eager to see how these adjustments will influence the strategies and decks across the arenas. As always, we&amp;#39;ll be closely monitoring the effects of these changes and welcome your feedback.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oWZudRT8v7HMWySlferCq/dfdea4cce5e85189181202bfc886de99/emotes_wallbreakerevo_lovepocalypse_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/59FzGyhmGTTluXsyXUYILs"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/78Gc2AFIUXQYkybNZUegMo/2aa346587b046a176eaf0e330ba05010/Untitled-2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Release Notes"/>
-    <published>2024-03-04T11:06:28+00:00</published>
   </entry>
   <entry>
     <id>4DXKtzDuVtM0JpBiGiUTzY</id>

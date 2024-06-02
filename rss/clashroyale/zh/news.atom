@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-02T13:32:58.602684+00:00</updated>
+  <updated>2024-06-02T14:32:41.429412+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -36,38 +36,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66V0N7nSlomi1MSiL2GgLc/2fa1078807e64f95a3cb3f2fce99616b/tw_20231201_CR-Roadmap-2024-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2023-12-01T04:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>18982Y1mmWWT5LosiAFjbT</id>
-    <title>特斯拉電磁塔和電擊法術的進化玩法⚡</title>
-    <updated>2024-03-04T11:35:28.061000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/18982Y1mmWWT5LosiAFjbT"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2eeEY5eENpz6XzhwMraGAN/561917e70dda48129b9b16729ddc7238/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/CDxAPBTWpwo?feature=share"/>
-    <category term="精彩時刻"/>
-    <published>2024-03-03T15:05:46+00:00</published>
-  </entry>
-  <entry>
-    <id>4M2pucppfcCL99dyI67KFE</id>
-    <title>【阿酸】又一進化建築卡牌──特斯拉電磁塔有何特別之處？</title>
-    <updated>2024-03-03T16:25:22.510000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/4M2pucppfcCL99dyI67KFE"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/52L2rJ4xaxf50S2zJgOva0/5a1ad2d083ca8ccedc2835a3ed81725d/tw_20240304_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=d3tDylnEqq0"/>
-    <category term="最新情報"/>
-    <published>2024-03-03T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>59FzGyhmGTTluXsyXUYILs</id>
-    <title>2024年3月平衡性調整</title>
-    <updated>2024-03-06T10:43:20.410000+00:00</updated>
-    <content>&lt;p&gt;挑戰者們，大家好！ &lt;/p&gt;&lt;p&gt;&lt;b&gt;以下&lt;/b&gt;&lt;b&gt;調整已於3月5日（週二）系統維護後實裝&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化騎士🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化後攻擊速度：從1.1秒調整為&lt;/b&gt; &lt;b&gt;1.2秒（+9%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化後傷害加成：從10%調整為0%（-9%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;小王子🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;射程：從6縮短至5.5&lt;/b&gt;（&lt;b&gt;-8%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;皇家支援衝鋒距離：從4.5格減少至4格&lt;/b&gt;（&lt;b&gt;-11%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化皇家衛隊🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化後傷害加成：從6%調整為0%（-6%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林巨人🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;生命值：降低3%&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;骷髏召喚🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;持續時間：從9.5秒縮短至&lt;/b&gt; &lt;b&gt;9秒（-5%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化炸彈兵🔽&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;彈跳範圍：從3格縮短至2.5格（-17%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化冰雪精靈🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;濺射範圍：從1.5格提升至&lt;/b&gt; &lt;b&gt;2格（+33%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化瓦基麗武神🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;進化後生命值加成：從0%提升至&lt;/b&gt; &lt;b&gt;15%（+15%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;神箭射手🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;首次出手速度：從0.8秒調整為&lt;/b&gt; &lt;b&gt;0.7秒（-13%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;皮卡超人🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;射程：從1.2格（中距離近戰）提升至&lt;/b&gt; &lt;b&gt;1.6格（遠距離近戰）（+33%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;金甲騎士🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;技能冷卻時間：從11秒縮短至8秒（-27%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;絕世武僧🔼&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;生命值：提升8%&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林鑽地機重製&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;持續時間：從9秒延長至&lt;/b&gt; &lt;b&gt;10秒&lt;/b&gt;（+&lt;b&gt;11%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;召喚開始速度：從1秒縮短至&lt;/b&gt; &lt;b&gt;0.5秒（-50%）&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;生命值：&lt;/b&gt; &lt;b&gt;-9%&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;我們之所以做出這些調整，是希望能為大家提供平衡且動態的遊戲體驗，這也是我們一直在持續努力的目標。我們非常期待能看到這些調整在競技場上帶來全新的策略和牌組變化。跟往常一樣，我們會密切關注這些調整帶來的影響，同時歡迎大家提出建議與想法。&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oWZudRT8v7HMWySlferCq/dfdea4cce5e85189181202bfc886de99/emotes_wallbreakerevo_lovepocalypse_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/59FzGyhmGTTluXsyXUYILs"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/78Gc2AFIUXQYkybNZUegMo/2aa346587b046a176eaf0e330ba05010/Untitled-2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="更新說明"/>
-    <published>2024-03-04T11:06:28+00:00</published>
   </entry>
   <entry>
     <id>4DXKtzDuVtM0JpBiGiUTzY</id>
