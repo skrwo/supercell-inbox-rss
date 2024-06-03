@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-03T05:34:37.564091+00:00</updated>
+  <updated>2024-06-03T06:37:45.148814+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -99,16 +99,6 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47AmiF3PK8NXYsz6PK3qX2/1d6b66f149f3392bb408daab3ea37a36/0418_Make_vote_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="커뮤니티"/>
     <published>2024-04-18T20:38:43+00:00</published>
-  </entry>
-  <entry>
-    <id>3KUYQcFBTNQsrIL5ynafED</id>
-    <title>🎊EVENT🎊 '쇼다운 인 스타필드' 방문 인증! 🔥</title>
-    <updated>2024-04-25T04:20:11.522000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3KUYQcFBTNQsrIL5ynafED"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5uGdBp2O7WxFx16JWKhLdE/ef1959b5503baf2d88a0848cdd46e6c3/0425____-_-____-__-___inbox_800x433_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1150091"/>
-    <category term="커뮤니티"/>
-    <published>2024-04-25T04:20:11+00:00</published>
   </entry>
   <entry>
     <id>g2HV5yji7bQwWX2KEm5Ao</id>
@@ -251,6 +241,16 @@
     <published>2024-05-23T04:01:26+00:00</published>
   </entry>
   <entry>
+    <id>3KUYQcFBTNQsrIL5ynafED</id>
+    <title>🎊EVENT🎊 '쇼다운 인 스타필드' 방문 인증! 🔥</title>
+    <updated>2024-06-03T06:23:08.216000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3KUYQcFBTNQsrIL5ynafED"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5uGdBp2O7WxFx16JWKhLdE/ef1959b5503baf2d88a0848cdd46e6c3/0425____-_-____-__-___inbox_800x433_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1150091"/>
+    <category term="커뮤니티"/>
+    <published>2024-05-31T15:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>6ueIkDgEMObFtIm5CsuHuh</id>
     <title>뮤직비디오: 드래곤포스 &amp; 브롤스타즈 - 드라코 이야기</title>
     <updated>2024-05-31T15:01:56.328000+00:00</updated>
@@ -259,5 +259,15 @@
     <link href="https://youtu.be/R1hiRWjRJVk?si=K9QIDuB1UFwTJkQO"/>
     <category term="동영상"/>
     <published>2024-05-31T15:01:43+00:00</published>
+  </entry>
+  <entry>
+    <id>2MZ2LnuoP9EC079Ky4NOi4</id>
+    <title>🎊 '쇼다운 인 스타필드' 이벤트 참여하고 전설 스타 드롭 받자! 🎊</title>
+    <updated>2024-06-03T06:28:10.319000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/2MZ2LnuoP9EC079Ky4NOi4"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5AJByZ0iBsvuHxNhRqLeux/036a7d82ab2a3a9f98579be9f059da16/0603_BSXSSG______InboxNews_800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/post/UgkxyFgewez0p5p6HDeOzihi3UwIP_wC7RU5"/>
+    <category term="뉴스"/>
+    <published>2024-06-03T06:28:10+00:00</published>
   </entry>
 </feed>
