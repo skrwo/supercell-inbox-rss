@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-03T08:36:16.342775+00:00</updated>
+  <updated>2024-06-03T09:33:19.873615+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -580,5 +580,28 @@ Aumentata da &amp;quot;rapida&amp;quot; a &amp;quot;molto rapida&amp;quot;.&lt;/
     <link href="https://www.youtube.com/clashroyale"/>
     <category term="Momenti salienti"/>
     <published>2024-05-30T15:05:02+00:00</published>
+  </entry>
+  <entry>
+    <id>2ba2X3NUqVQjdY8f5dXKhN</id>
+    <title>EVENTI E SFIDE DI GIUGNO</title>
+    <updated>2024-06-03T09:11:04.060000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/51qtBTb2nvZwxJJKQMxvDV/c335de48168888f78774608be69619ab/icon_menu_tournament__1_.png?w=216&amp;h=216&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Barile goblin evoluto (1v1 e 2v2): dal 3 al 10 giugno.&lt;/b&gt;
+💥 Con questi goblin furbacchioni, non si può mai stare tranquilli!
+⚔️ Sfida dedicata: dal 7 al 10 giugno.
+🏆 Ricompensa: gettoni stagionali.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Potere goblin&lt;/b&gt; &lt;b&gt;(1v1 e 2v2): dal 10 al 17 giugno.&lt;/b&gt;
+⚡ Un antico potere ha risvegliato delle abilità speciali nei goblin! Sarai in grado di sfruttarle?
+⚔️ Sfida dedicata: dal 14 al 17 giugno.
+🏆 Ricompensa: gettoni stagionali.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Mazzi classici&lt;/b&gt; &lt;b&gt;(1v1 e 2v2): dal 17 al 24 giugno.&lt;/b&gt;
+🚀 Buttati subito nella mischia usando i mazzi più popolari, ma senza tirare in ballo domatori di cinghiali o gran cavalieri!
+⚔️ Sfida dedicata: dal 21 al 24 giugno.
+🏆 Ricompensa: una decorazione per lo stendardo.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Capanna festaiola&lt;/b&gt; &lt;b&gt;(1v1 e 2v2): dal 24 giugno al 1º luglio.&lt;/b&gt;
+🎉 Le feste goblin spaccano di brutto, perciò cosa aspetti a unirti ai loro festeggiamenti da capogiro?
+⚔️ Sfida dedicata: dal 28 giugno al 3 luglio.
+🏆 Ricompensa: una decorazione per lo stendardo.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/2ba2X3NUqVQjdY8f5dXKhN"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1gQgFzHDJj0I6ha0KjQ1WO/e43e36eb8b8f071d5e1256a06a315aa9/CR_S60_Article_Thumbnail-V1-01.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Note di rilascio"/>
+    <published>2024-06-03T09:04:24+00:00</published>
   </entry>
 </feed>

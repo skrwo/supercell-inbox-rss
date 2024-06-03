@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-03T08:36:18.405581+00:00</updated>
+  <updated>2024-06-03T09:33:31.159563+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -641,5 +641,28 @@ Check out the reward list below:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3o0XWNSfIKwwh65Cd0jtqf/9597bc4227a1f1f51605042c0a667368/batsevent_thumb.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-05-31T06:37:36+00:00</published>
+  </entry>
+  <entry>
+    <id>2ba2X3NUqVQjdY8f5dXKhN</id>
+    <title>JUNE EVENTS &amp; CHALLENGES</title>
+    <updated>2024-06-03T09:11:04.060000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/51qtBTb2nvZwxJJKQMxvDV/c335de48168888f78774608be69619ab/icon_menu_tournament__1_.png?w=216&amp;h=216&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Goblin Barrel Evo (1v1 and 2v2): June 3 - 10 &lt;/b&gt;
+💥 These crafty goblins will always keep you guessing! 
+⚔️ Challenge: June 7 - 10 
+🏆 Reward: Season Tokens&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Goblin Power!&lt;/b&gt; &lt;b&gt;(1v1 and 2v2): June 10 - 17&lt;/b&gt;
+⚡ An ancient call awakens special powers in all Goblins! Will you answer? 
+⚔️ Challenge: June 14 - 17
+🏆 Reward: Season Tokens&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Classic Decks&lt;/b&gt; &lt;b&gt;(1v1 and 2v2): June 17 - 24&lt;/b&gt;
+🚀 Jump into quick battles with popular decks! No Hog Rider or Mega Knight!
+⚔️ Challenge: June 21 - 24
+🏆 Reward: Banner&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Goblin Party Hut&lt;/b&gt;&lt;b&gt; (1v1 and 2v2): June 24 - July 1&lt;/b&gt;
+🎉 Ain&amp;#39;t no party like a goblin party! The Party Hut is back and ready to light up this dance floor! 
+⚔️ Challenge: June 28 - June 3
+🏆 Reward: Banner&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/2ba2X3NUqVQjdY8f5dXKhN"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1gQgFzHDJj0I6ha0KjQ1WO/e43e36eb8b8f071d5e1256a06a315aa9/CR_S60_Article_Thumbnail-V1-01.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Release Notes"/>
+    <published>2024-06-03T09:04:24+00:00</published>
   </entry>
 </feed>

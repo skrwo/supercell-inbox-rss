@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-03T08:36:19.377418+00:00</updated>
+  <updated>2024-06-03T09:33:23.229348+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -560,5 +560,28 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3o0XWNSfIKwwh65Cd0jtqf/9597bc4227a1f1f51605042c0a667368/batsevent_thumb.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-06-01T00:04:58+00:00</published>
+  </entry>
+  <entry>
+    <id>2ba2X3NUqVQjdY8f5dXKhN</id>
+    <title>6月のイベント＆チャレンジ</title>
+    <updated>2024-06-03T09:11:04.060000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/51qtBTb2nvZwxJJKQMxvDV/c335de48168888f78774608be69619ab/icon_menu_tournament__1_.png?w=216&amp;h=216&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;限界突破ゴブリンバレル（1対1＆協力バトル）：6月3日～10日&lt;/b&gt;
+💥本物のゴブリンが入ったバレルはどーっちだ？
+⚔️チャレンジ：6月7日～10日
+🏆報酬：シーズンチケット&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;ゴブリンの力！&lt;/b&gt; &lt;b&gt;（1対1＆協力バトル）：6月10日～17日&lt;/b&gt;
+⚡太古のエネルギーがゴブリンたちの力を呼び覚ましました！あなたは手懐けることができますか？
+⚔️チャレンジ：6月14日～17日
+🏆報酬：シーズンチケット&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;クラシックデッキ&lt;/b&gt; &lt;b&gt;（1対1＆協力バトル）：6月17日～24日&lt;/b&gt;
+🚀人気のデッキを使ってバトルしましょう！ホグライダーやメガナイトは使えません！
+⚔️チャレンジ：6月21日～24日
+🏆報酬：バナー&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;ゴブリンのパーティー小屋&lt;/b&gt; &lt;b&gt;（1対1＆協力バトル）：6月24日～7月1日&lt;/b&gt;
+🎉ゴブリンパーティーに勝るものなし！帰ってきたパーティー小屋で、ゴブリンたちと一緒に踊り狂いましょう！
+⚔️チャレンジ：6月28日～7月3日
+🏆報酬：バナー&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/2ba2X3NUqVQjdY8f5dXKhN"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1gQgFzHDJj0I6ha0KjQ1WO/e43e36eb8b8f071d5e1256a06a315aa9/CR_S60_Article_Thumbnail-V1-01.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="リリース情報"/>
+    <published>2024-06-03T09:04:24+00:00</published>
   </entry>
 </feed>

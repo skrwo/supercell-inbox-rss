@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-03T08:36:15.330468+00:00</updated>
+  <updated>2024-06-03T09:33:27.358704+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -552,5 +552,28 @@
     <link href="https://www.youtube.com/clashroyale"/>
     <category term="Лучшие моменты"/>
     <published>2024-05-30T15:05:02+00:00</published>
+  </entry>
+  <entry>
+    <id>2ba2X3NUqVQjdY8f5dXKhN</id>
+    <title>ИЮНЬСКИЕ СОБЫТИЯ И ИСПЫТАНИЯ</title>
+    <updated>2024-06-03T09:11:04.060000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/51qtBTb2nvZwxJJKQMxvDV/c335de48168888f78774608be69619ab/icon_menu_tournament__1_.png?w=216&amp;h=216&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Эволюция гоблинской бочки (1 на 1 и 2 на 2): 3–10 июня&lt;/b&gt;
+💥 Гоблины очень коварны — никогда не знаешь, чего от них ожидать.
+⚔️ Испытание: 7–10 июля.
+🏆 Награда: сезонные токены.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Сила гоблинов&lt;/b&gt; &lt;b&gt;(1 на 1 и 2 на 2): 10–17 июня&lt;/b&gt;
+⚡ Зов древних пробудил в гоблинах особые силы! Сможешь ли ты с ними совладать?
+⚔️ Испытание: 14–17 июня.
+🏆 Награда: сезонные токены.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Классические колоды&lt;/b&gt; &lt;b&gt;(1 на 1 и 2 на 2): 17–24 июня&lt;/b&gt;
+🚀 Сразись популярными колодами без всадников на кабане или мегарыцарей!
+⚔️ Испытание: 21–24 июня.
+🏆 Награда: знамя.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Праздничная хижина гоблинов&lt;/b&gt; &lt;b&gt;(1 на 1 и 2 на 2): 24 июня — 1 июля&lt;/b&gt;
+🎉 Гоблины снова устроили крутую вечеринку в праздничной хижине!
+⚔️ Испытание: 28 июня — 3 июля.
+🏆 Награда: знамя.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/2ba2X3NUqVQjdY8f5dXKhN"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1gQgFzHDJj0I6ha0KjQ1WO/e43e36eb8b8f071d5e1256a06a315aa9/CR_S60_Article_Thumbnail-V1-01.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Информация о версии"/>
+    <published>2024-06-03T09:04:24+00:00</published>
   </entry>
 </feed>
