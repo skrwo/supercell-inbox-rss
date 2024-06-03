@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Jun 2024 01:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 02:44:11 +0000</lastBuildDate>
     <item>
       <title>知っておきたいこと！</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -80,14 +80,6 @@
       <pubDate>Wed, 22 May 2024 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>スクワッドで人生に喜びを！</title>
-      <link>https://youtu.be/QMH_SGJciQY</link>
-      <guid isPermaLink="false">3CC0pvM1XmswaHddkBHNUQ</guid>
-      <category>ビデオ</category>
-      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 May 2024 10:47:12 +0000</pubDate>
-    </item>
-    <item>
       <title>スクワッド・バスターズグローバルリリースキャンペーン</title>
       <link>https://squadbusters.inbox.supercell.com/#/ja/news/73A0CokvrHwxu6jxrhDrY2</link>
       <description>&lt;p&gt;5月29日より、「スクワッド・バスターズ」がグローバルリリースされました！🎉&lt;/p&gt;&lt;p&gt;スクワッド・バスターズ公式X（&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fx.com%252FSquadBusters_JP')"&gt;@SquadBusters_JP&lt;/a&gt;）で、グローバルリリースを記念したキャンペーンを開催中！&lt;/p&gt;&lt;p&gt;この機会に、公式Xアカウントをフォローしよう📲✨&lt;/p&gt;&lt;p&gt;▼スクワッド・バスターズ公式Xアカウントはこちら
@@ -123,6 +115,14 @@
       <category>コミュニティ</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/54TMCNgUNOgKw19Izy0F7P/b137f74e5e6b09c154bfd7708b373765/20240523_SQU_TW_release_CP_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Thu, 30 May 2024 02:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>スクワッドで人生に喜びを！</title>
+      <link>https://youtu.be/QMH_SGJciQY</link>
+      <guid isPermaLink="false">3CC0pvM1XmswaHddkBHNUQ</guid>
+      <category>ビデオ</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 May 2024 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

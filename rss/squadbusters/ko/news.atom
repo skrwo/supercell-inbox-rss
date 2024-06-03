@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-03T01:42:11.031938+00:00</updated>
+  <updated>2024-06-03T02:44:08.299653+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -80,13 +80,23 @@
     <published>2024-05-22T07:00:00+00:00</published>
   </entry>
   <entry>
+    <id>6g5xYslzlo7Cgpay1685zi</id>
+    <title>다 같이 놀자! 스쿼드 업! 🏃‍♂️🏃‍♀️</title>
+    <updated>2024-06-03T02:30:20.916000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/6g5xYslzlo7Cgpay1685zi"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/367G78nvusYWf2Zho2Shb1/0e68bff02d43d33d814a6940413c3542/800x433_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/kV7lICsTQ5U?si=_b17iUXshqDdebVk"/>
+    <category term="동영상"/>
+    <published>2024-05-30T15:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>3CC0pvM1XmswaHddkBHNUQ</id>
     <title>스쿼드와 함께라면 인생이 더욱 즐거워집니다!</title>
-    <updated>2024-05-31T11:06:54.723000+00:00</updated>
+    <updated>2024-06-03T02:29:58.914000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ko/news/3CC0pvM1XmswaHddkBHNUQ"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7m2PJp7f7MOTkvY0rbmjEi/a41d1e077adfe0ec11bf91219973d406/800x433_02__1_.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/_YXG9Vu_oVE"/>
     <category term="동영상"/>
-    <published>2024-05-29T10:47:12+00:00</published>
+    <published>2024-05-31T15:00:00+00:00</published>
   </entry>
 </feed>

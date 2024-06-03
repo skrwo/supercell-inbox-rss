@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-03T01:41:07.148201+00:00</updated>
+  <updated>2024-06-03T02:43:18.358927+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -249,16 +249,6 @@
     <link href="https://cafe.naver.com/brawlstars/1174229"/>
     <category term="뉴스"/>
     <published>2024-05-23T04:01:26+00:00</published>
-  </entry>
-  <entry>
-    <id>5KLdc1UJgzRDn7wvtDj9py</id>
-    <title>[Showdown in Starfield] 스타필드 안성 주말 운영 안내</title>
-    <updated>2024-05-31T04:29:52.542000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/5KLdc1UJgzRDn7wvtDj9py"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7FtlSR1edFRFJa2oN8neRU/766f12ff5ee65cf2d39902916f45a9e2/0531_BSxSSG____-__-__-___800x433__Inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1179743"/>
-    <category term="뉴스"/>
-    <published>2024-05-31T04:29:52+00:00</published>
   </entry>
   <entry>
     <id>6ueIkDgEMObFtIm5CsuHuh</id>

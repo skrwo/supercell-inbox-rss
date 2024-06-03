@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-06-03T01:42:01.710907+00:00</updated>
+  <updated>2024-06-03T02:43:59.916052+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -248,7 +248,7 @@ Dimanche : boost de production de 20 % pour 3 bâtiments aléatoires, événemen
   <entry>
     <id>43L6F3AzO6X5XlZeYM1Kac</id>
     <title>Calendrier des événements Hay Day (semaine 23)</title>
-    <updated>2024-06-03T01:20:47.342000+00:00</updated>
+    <updated>2024-06-03T02:42:39.332000+00:00</updated>
     <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 23)&lt;/h1&gt;
 &lt;p&gt;Salut, amis de la ferme ! Le mois de juin est arrivé ! Tous les événements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, pièces de puzzle&lt;/p&gt;&lt;p&gt;Mardi : bateau, coupons&lt;/p&gt;&lt;p&gt;Mercredi : bateau, pièces x2&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, pièces x2&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 30 % pour les homards et les appâts + points du pass Hay Day doublés + événement d&amp;#39;entraide arc-en-ciel&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, matériaux d&amp;#39;extension + bateau, pièces de puzzle + événement d&amp;#39;entraide arc-en-ciel&lt;/p&gt;&lt;p&gt;Dimanche : bateau, pièces x2 + événement d&amp;#39;entraide arc-en-ciel&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/fr/news/43L6F3AzO6X5XlZeYM1Kac"/>

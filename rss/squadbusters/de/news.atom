@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-newsEntries-de</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-03T01:42:12.992160+00:00</updated>
+  <updated>2024-06-03T02:44:11.112470+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -104,21 +104,21 @@ WARTUNGSARBEITEN – 24. MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Fehlerbehebungen z
   <entry>
     <id>6g5xYslzlo7Cgpay1685zi</id>
     <title>Launch-Trailer: Zeit für SQUAD UP!</title>
-    <updated>2024-05-29T07:11:50.439000+00:00</updated>
+    <updated>2024-06-03T02:30:20.916000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/de/news/6g5xYslzlo7Cgpay1685zi"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/25D3moTFbNdLO3zf9SrVrX/bfc15667c678e2d2adf986bb120dc20c/CGI_Thumb_1920x1080.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/aFHM24c86p0"/>
     <category term="Video"/>
-    <published>2024-05-28T11:28:09+00:00</published>
+    <published>2024-05-30T15:00:00+00:00</published>
   </entry>
   <entry>
     <id>3CC0pvM1XmswaHddkBHNUQ</id>
     <title>Mehr Spaß im SQUAD!</title>
-    <updated>2024-05-31T11:06:54.723000+00:00</updated>
+    <updated>2024-06-03T02:29:58.914000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/de/news/3CC0pvM1XmswaHddkBHNUQ"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/QMH_SGJciQY"/>
     <category term="Video"/>
-    <published>2024-05-29T10:47:12+00:00</published>
+    <published>2024-05-31T15:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-03T01:42:13.318266+00:00</updated>
+  <updated>2024-06-03T02:44:11.870790+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -90,16 +90,6 @@
     <published>2024-05-22T07:00:00+00:00</published>
   </entry>
   <entry>
-    <id>3CC0pvM1XmswaHddkBHNUQ</id>
-    <title>スクワッドで人生に喜びを！</title>
-    <updated>2024-05-31T11:06:54.723000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/3CC0pvM1XmswaHddkBHNUQ"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/QMH_SGJciQY"/>
-    <category term="ビデオ"/>
-    <published>2024-05-29T10:47:12+00:00</published>
-  </entry>
-  <entry>
     <id>73A0CokvrHwxu6jxrhDrY2</id>
     <title>スクワッド・バスターズグローバルリリースキャンペーン</title>
     <updated>2024-05-30T02:44:25.247000+00:00</updated>
@@ -136,5 +126,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/54TMCNgUNOgKw19Izy0F7P/b137f74e5e6b09c154bfd7708b373765/20240523_SQU_TW_release_CP_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-05-30T02:44:25+00:00</published>
+  </entry>
+  <entry>
+    <id>3CC0pvM1XmswaHddkBHNUQ</id>
+    <title>スクワッドで人生に喜びを！</title>
+    <updated>2024-06-03T02:29:58.914000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/3CC0pvM1XmswaHddkBHNUQ"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/QMH_SGJciQY"/>
+    <category term="ビデオ"/>
+    <published>2024-05-31T15:00:00+00:00</published>
   </entry>
 </feed>
