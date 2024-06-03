@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-06-03T07:33:30.125574+00:00</updated>
+  <updated>2024-06-03T08:36:51.296692+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -244,5 +244,16 @@
     <link href="https://youtu.be/5LI0VZxx8gQ"/>
     <category term="Новости"/>
     <published>2024-05-30T18:52:55+00:00</published>
+  </entry>
+  <entry>
+    <id>43L6F3AzO6X5XlZeYM1Kac</id>
+    <title>События Hay Day: 23-я неделя!</title>
+    <updated>2024-06-03T08:10:28.685000+00:00</updated>
+    <content>&lt;h1&gt;События Hay Day: 23-я неделя!&lt;/h1&gt;
+&lt;p&gt;Привет, фермеры! Наступил июнь! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: куски головоломки на колесе фортуны.&lt;/p&gt;&lt;p&gt;Вторник: дополнительные ваучеры за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Среда: вдвое больше монет за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Четверг: вдвое больше монет за обслуживание посетителей фермы.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 30 % (раковый пруд и станок для приманок), удвоение очков Farm Pass, а также радужное событие помощи.&lt;/p&gt;&lt;p&gt;Суббота: материалы для расширения за обслуживание гостей города, куски головоломки за загрузку пароходов, а также радужное событие помощи.&lt;/p&gt;&lt;p&gt;Воскресенье: вдвое больше монет за загрузку пароходов и радужное событие помощи.&lt;/p&gt;&lt;p&gt;Желаем отличной недели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/43L6F3AzO6X5XlZeYM1Kac"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2024-06-02T08:00:03+00:00</published>
   </entry>
 </feed>
