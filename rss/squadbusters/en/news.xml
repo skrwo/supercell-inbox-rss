@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Jun 2024 07:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 08:35:59 +0000</lastBuildDate>
     <item>
       <title>All you need to know!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -82,6 +82,22 @@
       <pubDate>Tue, 21 May 2024 14:20:33 +0000</pubDate>
     </item>
     <item>
+      <title>Launch trailer: Time to SQUAD UP!</title>
+      <link>https://youtu.be/aFHM24c86p0</link>
+      <guid isPermaLink="false">6g5xYslzlo7Cgpay1685zi</guid>
+      <category>Video</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 May 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Life's more fun when you SQUAD UP! 🐔</title>
+      <link>https://youtu.be/QMH_SGJciQY</link>
+      <guid isPermaLink="false">3CC0pvM1XmswaHddkBHNUQ</guid>
+      <category>Video</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 May 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Update Patch Notes + Fixes! </title>
       <link>https://squadbusters.inbox.supercell.com/#/en/news/1yohkcKJO7Efn7vh4EXnk9</link>
       <description>&lt;p&gt;&lt;b&gt;MAINTENANCE - JUNE 4,2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed an issue to ensure pre-registration emotes are delivered to Soft Launch players&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an issue where Piñata groups appeared empty in the middle of the event&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Improved the chances of MEGA Unit comebacks, making them more likely when at low Squad sizes&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Implemented fixes to prevent out-of-sync issues during matches&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Made server-side improvements&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - MAY 28, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fix for Piñata member count where was possible to send invites to players who had a full Piñata&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Squad Journey: reducing Portal Energy requirements in Desert World&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Win Streak:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Bonus Taps: + 2 bonus taps start one level earlier (with 4 wins)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Win Streak re-buy reworked caps at 5000 coins at the 10th win&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1st position now gives 5 upgrade taps instead of 4&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bringing rest of the servers and databases online in preparation for launch day 🚀&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - MAY 24, 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Piñata Festival fixes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Score updates propagate now correctly&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Piñata parties can&amp;#39;t have more than 5 players anymore&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an issue where you could add yourself to the Piñata party&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;OPTIONAL UPDATE - MAY 23, 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed various crashes occurring while in Battle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Shop and other minor visual issues&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Super Pass rewards info showing incorrect reward amounts&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Enabled the News section for Traditional Chinese&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;We are aware of the issues related to the Piñata Festival, and we are working on them. Thanks for the reports!&lt;/p&gt;&lt;p&gt;&lt;b&gt;
@@ -111,23 +127,7 @@ Follow our Social Media channels and your favorite Squad Busters content creator
       <guid isPermaLink="false">1yohkcKJO7Efn7vh4EXnk9</guid>
       <category>Game Updates</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Launch trailer: Time to SQUAD UP!</title>
-      <link>https://youtu.be/aFHM24c86p0</link>
-      <guid isPermaLink="false">6g5xYslzlo7Cgpay1685zi</guid>
-      <category>Video</category>
-      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 May 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Life's more fun when you SQUAD UP! 🐔</title>
-      <link>https://youtu.be/QMH_SGJciQY</link>
-      <guid isPermaLink="false">3CC0pvM1XmswaHddkBHNUQ</guid>
-      <category>Video</category>
-      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 May 2024 15:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Jun 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
