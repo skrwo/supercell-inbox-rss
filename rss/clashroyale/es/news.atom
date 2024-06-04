@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-04T18:36:46.916956+00:00</updated>
+  <updated>2024-06-04T19:32:36.262432+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -588,5 +588,16 @@ x1 → x0,5 (-50 %)&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1gQgFzHDJj0I6ha0KjQ1WO/e43e36eb8b8f071d5e1256a06a315aa9/CR_S60_Article_Thumbnail-V1-01.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2024-06-03T09:04:24+00:00</published>
+  </entry>
+  <entry>
+    <id>7tXoUqMzn0MXlynCkyvuF4</id>
+    <title>¡REÚNE A LOS DUENDES!</title>
+    <updated>2024-06-04T19:05:58.100000+00:00</updated>
+    <content>&lt;p&gt;Reúne al ejército de duendes, se acerca algo grande...
+A partir del 7 de junio a las 09:00 UTC, si &lt;b&gt;inicias sesión todos los días&lt;/b&gt;, conseguirás &lt;b&gt;cartas de duendes&lt;/b&gt;, un &lt;b&gt;estandarte de duendes&lt;/b&gt; y la &lt;b&gt;evolución del mortero&lt;/b&gt; de forma gratuita. Asegúrate de reclamarlas a diario, ya que si un día no lo haces, perderás la recompensa.&lt;/p&gt;&lt;p&gt;Echa un vistazo a la lista de recompensas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;2500 &lt;b&gt;duendes con lanza&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 &lt;b&gt;estandarte de duendes&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2500 &lt;b&gt;pandillas de duendes&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 &lt;b&gt;fragmento de evolución del mortero&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;500 &lt;b&gt;chozas de duendes&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 &lt;b&gt;fragmento de evolución del mortero&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;125 &lt;b&gt;barriles de duendes&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 &lt;b&gt;fragmento de evolución del mortero&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;125 &lt;b&gt;excavadoras de duendes&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3 &lt;b&gt;fragmentos de evolución del mortero&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;⚠️ Requisitos: Debes tener un rey de nivel 7 o superior.&lt;/p&gt;&lt;p&gt;¡Nos vemos en la arena!&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/7tXoUqMzn0MXlynCkyvuF4"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Noticias"/>
+    <published>2024-06-04T18:56:21+00:00</published>
   </entry>
 </feed>
