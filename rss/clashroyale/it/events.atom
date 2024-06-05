@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-eventEntries-it</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-06-05T08:35:13.712350+00:00</updated>
+  <updated>2024-06-05T09:34:44.491019+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -25,5 +25,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7C8MqTPcLF06uqNt9rGvBk/38a800c4833e105760e52f90a5a265b6/BOC_CR_NewsTab_Vol3_NoText__1_.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://booksofclash.com/books/books-of-clash-volume-3/"/>
     <published>2024-05-28T17:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3UGuqlWCqBaeBmDw4B4iR8</id>
+    <title>STAGIONE DI GIUGNO</title>
+    <updated>2024-06-05T09:28:21.075000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/it/news/2ba2X3NUqVQjdY8f5dXKhN"&gt;👉LEGGI👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/rpAOE5Fcy5fqRSjdNcs2K/2556a5972bd3f5e5eff1a6be0a8a1197/CR_S60_Season_Carousel_Image.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/2ba2X3NUqVQjdY8f5dXKhN"/>
+    <published>2024-06-03T09:10:12+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-05T08:35:19.246246+00:00</updated>
+  <updated>2024-06-05T09:34:52.892012+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -375,16 +375,25 @@ Millesime MG: Millesime MG consists of Natchoa, KingsMan, Hawk, TryHard and El T
   <entry>
     <id>1wmPQwQvjFjj7xzrbmQrIV</id>
     <title>Re Regardez le jour 1 des Finales Mensuelles de Mai</title>
-    <updated>2024-05-28T11:04:30.611000+00:00</updated>
+    <updated>2024-06-05T09:19:17.299000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4R0pjhkew8KMyZCOacVSFT/928b0ebed9a92e14cdf5a5adbba3c2cd/FR_COC---May-MF-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/live/Bpcn513_Ags?si=A7142JCaakXPH-Xn&amp;t=672"/>
     <category term="E-sport"/>
     <published>2024-05-25T17:52:34+00:00</published>
   </entry>
   <entry>
+    <id>7nRZbbQDKLBnYU5tHW1LLD</id>
+    <title>Re Regardez le jour 2 des Finales Mensuelles de Mai</title>
+    <updated>2024-06-05T09:18:21.300000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6xJhlc3HGSgShC4NfyiH65/a3c05c92d9e8d87b6899c97ee477c3dc/FR_COC---May-MF-Thumb-16x9-jour2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/KhMrrXSCzlo?si=zNkeMNO1JP6ltt8V&amp;t=407"/>
+    <category term="E-sport"/>
+    <published>2024-05-25T23:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>5lkCewncD7VVHgDFfL2nuN</id>
     <title>Félicitations, VM Legacy !</title>
-    <updated>2024-06-03T17:28:42.090000+00:00</updated>
+    <updated>2024-06-05T09:28:54.168000+00:00</updated>
     <content>&lt;h1&gt;Félicitations aux champions de la finale mensuelle de mai : VM Legacy !&lt;/h1&gt;
 &lt;p&gt;Salut, chefs !&lt;/p&gt;&lt;p&gt;La compétitions mensuelle de mai est officiellement terminée. Au cours du dernier mois, d&amp;#39;incroyables équipes de Clash of Clans se sont affrontées dans les qualifications ouvertes de mai, puis dans les qualifications mensuelles de mai, pour enfin terminer avec la deuxième finale mensuelle du mondial de Clash 2024 #ClashWorlds.&lt;/p&gt;&lt;p&gt;&lt;b&gt;On connaît désormais le gagnant du ticket d&amp;#39;or de la finale mensuelle mensuelle de mai du Championnat du monde Clash of Clans !&lt;/b&gt;&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/56MhoIOOcMYun67HhMspmT/1fb2ed4a8cd106e73ee7ffd5f2d3af56/VM_LEGACY_GOLDEN_TICKET.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
@@ -399,14 +408,5 @@ Millesime MG: Millesime MG consists of Natchoa, KingsMan, Hawk, TryHard and El T
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5YjWJmaGgMXuPcBpO1vCpr/ef985caf8862334dbe66b1eb39b8a50b/VM_LEGACY_GOLDEN_TICKET.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sport"/>
     <published>2024-05-26T17:37:04+00:00</published>
-  </entry>
-  <entry>
-    <id>7nRZbbQDKLBnYU5tHW1LLD</id>
-    <title>Re Regardez le jour 2 des Finales Mensuelles de Mai</title>
-    <updated>2024-05-28T11:06:02.450000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6xJhlc3HGSgShC4NfyiH65/a3c05c92d9e8d87b6899c97ee477c3dc/FR_COC---May-MF-Thumb-16x9-jour2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/KhMrrXSCzlo?si=zNkeMNO1JP6ltt8V&amp;t=407"/>
-    <category term="E-sport"/>
-    <published>2024-05-27T10:23:09+00:00</published>
   </entry>
 </feed>
