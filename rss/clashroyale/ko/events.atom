@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-eventEntries-ko</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-06-05T13:32:49.673941+00:00</updated>
+  <updated>2024-06-05T14:34:59.707410+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -28,22 +28,12 @@
   </entry>
   <entry>
     <id>3UGuqlWCqBaeBmDw4B4iR8</id>
-    <title>6월 시즌</title>
-    <updated>2024-06-05T13:05:44.518000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/2ba2X3NUqVQjdY8f5dXKhN"&gt;👉읽어보기👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/rpAOE5Fcy5fqRSjdNcs2K/2556a5972bd3f5e5eff1a6be0a8a1197/CR_S60_Season_Carousel_Image.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/2ba2X3NUqVQjdY8f5dXKhN"/>
-    <published>2024-06-03T09:10:12+00:00</published>
-  </entry>
-  <entry>
-    <id>6l1g8U36n6cyF1EJ5dKGku</id>
     <title>🗞️</title>
-    <updated>2024-06-03T09:26:32.244000+00:00</updated>
+    <updated>2024-06-05T14:18:45.781000+00:00</updated>
     <content>&lt;br&gt;
 &lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/2ba2X3NUqVQjdY8f5dXKhN"&gt;👉읽어보기👈&lt;/a&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2jFnIWXQltANcvFivZNz4m/ecc66c9a44db8d552ec9a1e5f97bf315/0603_season60_inboxKV__960x764__D.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://clashroyale.inbox.supercell.com/#/ko/news/2ba2X3NUqVQjdY8f5dXKhN"/>
-    <published>2024-06-03T09:26:32+00:00</published>
+    <published>2024-06-03T09:10:12+00:00</published>
   </entry>
 </feed>
