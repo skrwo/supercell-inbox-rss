@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-esportNewsEntries-zh</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-05T09:34:58.901698+00:00</updated>
+  <updated>2024-06-05T10:35:50.721814+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -417,6 +417,15 @@ Clash Champs在令人難以置信的Clash嘉年華週末中脫穎而出，贏得
     <link href="https://www.youtube.com/watch?v=Ix5x8HHYbvc"/>
     <category term="賽事"/>
     <published>2024-05-25T17:52:34+00:00</published>
+  </entry>
+  <entry>
+    <id>7nRZbbQDKLBnYU5tHW1LLD</id>
+    <title>重燃5月月度決賽第2天熱血!</title>
+    <updated>2024-06-05T10:02:29.709000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6jLf2lXZlPZ5yS8Tk79dQe/1185e0e3569d295b84d6148af5ed7e31/tw_20240527_COC---May-MF-Thumb-Day2_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=qeQHW-9Fqmg"/>
+    <category term="賽事"/>
+    <published>2024-05-25T23:00:00+00:00</published>
   </entry>
   <entry>
     <id>5lkCewncD7VVHgDFfL2nuN</id>
