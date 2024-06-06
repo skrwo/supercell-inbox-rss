@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-06-06T16:36:42.445468+00:00</updated>
+  <updated>2024-06-06T17:33:46.308911+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>3kgWc4v2QeR7MBi71APPAT</id>
-    <title>Tribe Gaming Roster is BACK!</title>
-    <updated>2024-03-08T17:09:07.279000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1JTFa1tdsR496LjW0wkszY/e357b33d19f2e0639146897cac9cbbbc/16X9_NO_SPONSORS.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/TribeGaming/status/1766147396063342873"/>
-    <category term="Esports"/>
-    <published>2024-03-08T17:09:07+00:00</published>
-  </entry>
   <entry>
     <id>25sByXWmLSkwJB3H5dRWP8</id>
     <title>Congrats Crazy Raccoon!</title>
