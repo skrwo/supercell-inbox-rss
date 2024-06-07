@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-07T02:44:50.012541+00:00</updated>
+  <updated>2024-06-07T03:34:31.990177+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -162,5 +162,15 @@
     <link href="https://youtu.be/R1hiRWjRJVk?si=K9QIDuB1UFwTJkQO"/>
     <category term="동영상"/>
     <published>2024-05-31T15:01:43+00:00</published>
+  </entry>
+  <entry>
+    <id>7vj7SjobxC7Z4myvRnzmmh</id>
+    <title>&lt;쇼다운 인 스타필드&gt;에 방문해주신 모든 브롤러 여러분께 감사드립니다! 💖</title>
+    <updated>2024-06-07T03:32:03.966000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/7vj7SjobxC7Z4myvRnzmmh"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2k4EOcthRpJYRASpiAqA9H/f18ef7e380a9cf8f07230d32b4c004cb/0607_BSxSSG____-_-____-___Inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/post/UgkxrtzeMV8HLr_BzXNrxYqEZlzgjanAzvbk"/>
+    <category term="뉴스"/>
+    <published>2024-06-07T03:32:03+00:00</published>
   </entry>
 </feed>
