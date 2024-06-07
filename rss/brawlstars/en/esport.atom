@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-06-07T15:32:51.874765+00:00</updated>
+  <updated>2024-06-07T16:39:28.913746+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -149,5 +149,14 @@
     <link href="https://x.com/Brawl_esports/status/1794894820709945693"/>
     <category term="Esports"/>
     <published>2024-05-27T16:35:35+00:00</published>
+  </entry>
+  <entry>
+    <id>5oH3hbPHUCb0qqkthcLnrZ</id>
+    <title>TOP 10 BEST Brawl Esports Moments with Bobby (May)</title>
+    <updated>2024-06-07T16:38:37.659000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6mnp3ne6FhEVaqDLJzAeMA/ab8aa8302c056b2a3aab3c19e26deba0/Top_10_Best_Plays_-_May_Bobby.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/LlWAyOWim-E?feature=shared"/>
+    <category term="Esports"/>
+    <published>2024-06-07T16:38:37+00:00</published>
   </entry>
 </feed>
