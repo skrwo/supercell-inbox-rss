@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-07T09:33:08.442057+00:00</updated>
+  <updated>2024-06-07T10:35:51.365170+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -172,5 +172,15 @@
     <link href="https://www.youtube.com/post/UgkxrtzeMV8HLr_BzXNrxYqEZlzgjanAzvbk"/>
     <category term="뉴스"/>
     <published>2024-06-07T03:32:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3HCuERGiLkG7n4xRrMMhMW</id>
+    <title>우리가 함께 만나 즐거웠던 쇼다운 인 스타필드 41일 간의 여정! 🤩</title>
+    <updated>2024-06-07T10:06:56.398000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3HCuERGiLkG7n4xRrMMhMW"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4OcoQf59aS7e5H2quGYFVn/6ac263ab88d7aea5a43d2b108a9aafb2/0607_BSXSSG_______inbox_800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ktKrkm6znCE?si=bnMcUK6jCNWSvz9Z"/>
+    <category term="동영상"/>
+    <published>2024-06-07T10:06:56+00:00</published>
   </entry>
 </feed>
