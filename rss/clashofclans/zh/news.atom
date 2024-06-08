@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-08T09:33:25.449788+00:00</updated>
+  <updated>2024-06-08T10:34:24.764054+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -466,5 +466,25 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="遊戲更新"/>
     <published>2024-06-03T11:24:27+00:00</published>
+  </entry>
+  <entry>
+    <id>6fEiIQqSLfkL6gsfE8pKpD</id>
+    <title>【金雄】狂野西部挑戰路線解法！</title>
+    <updated>2024-06-08T09:48:57.518000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6fEiIQqSLfkL6gsfE8pKpD"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5IZLI20TILlhUbB3PrzSRG/3a903e0ddb5d0fc58f6e3942642a0b8c/tw_20240608_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=72FRxHNt0EQ"/>
+    <category term="最新情報"/>
+    <published>2024-06-08T09:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>rij3LeJ4ApjWMBlnFsyWV</id>
+    <title>【烏龜】全新挑戰通關思路！</title>
+    <updated>2024-06-08T09:49:07.464000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/rij3LeJ4ApjWMBlnFsyWV"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1YCACbDAf2L8WE4cS9d7R0/58971e21c91aff396ae499ac44f983d3/tw_20240608_turtle_video_thumb.jpg.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=1B1BdmQrf_Q"/>
+    <category term="最新情報"/>
+    <published>2024-06-08T09:46:00+00:00</published>
   </entry>
 </feed>
