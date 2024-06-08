@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-08T18:34:46.218987+00:00</updated>
+  <updated>2024-06-08T19:32:52.326737+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>2Whl7OB8apTVgCxSWE2wXh</id>
-    <title>【烏龜】史詩裝備強度如何？新活動超詳解！</title>
-    <updated>2024-03-10T15:53:39.163000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2Whl7OB8apTVgCxSWE2wXh"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/17fyCAPOlZshdOEcm7s7fk/3b9e6f9437cc69f78a4d894a181c8298/tw_20240310_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=G-HRs3An2wQ"/>
-    <category term="最新情報"/>
-    <published>2024-03-10T13:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>4vo1e2BAuoaJpNNGDnXY74</id>
-    <title>【金雄】搶先了解最新活動與大守護者裝備！</title>
-    <updated>2024-03-10T15:54:46.961000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/4vo1e2BAuoaJpNNGDnXY74"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4cFAUPnOzF9l5AbE75bDgw/c47097f3435426ff6cce59c99226a57f/tw_20240310_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=MTWoGnSCDAY"/>
-    <category term="最新情報"/>
-    <published>2024-03-10T13:31:00+00:00</published>
-  </entry>
   <entry>
     <id>3IbcmXhHUgceTorFtXWLh5</id>
     <title>超級飛龍秀活動 </title>
