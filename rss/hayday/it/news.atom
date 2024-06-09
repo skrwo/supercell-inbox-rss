@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-06-09T07:32:59.462016+00:00</updated>
+  <updated>2024-06-09T08:33:09.451277+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7DZRwDKdg9aGSTW85dc6bM</id>
-    <title>Eventi di Hay Day (settimana n. 11)</title>
-    <updated>2024-03-13T11:17:42.673000+00:00</updated>
-    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 11)&lt;/h1&gt;
-&lt;p&gt;Preparati a un&amp;#39;altra settimana ricca di eventi, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.
-Lunedì: un permesso di espansione garantito in gira la ruota con possibilità di trovarne un secondo.
-Martedì: buoni extra (ordini del furgone).
-Mercoledì: monete doppie (ordini per la barca).
-Giovedì: mercatino dell&amp;#39;usato (visitatori della fattoria).
-Venerdì: potenziamento del 30% per due edifici per la pesca (vasca per aragoste e banco da lavoro per esche) e punti doppi del Pass della fattoria.
-Sabato: oggetti espansione extra da visitatori della città serviti in 2 o 3 edifici ed evento globale della barca per la Festa di San Patrizio.
-Domenica: monete doppie (visitatori della fattoria) ed evento globale della barca per la Festa di San Patrizio.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/7DZRwDKdg9aGSTW85dc6bM"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notizie"/>
-    <published>2024-03-10T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>7oU6iGsWCbx76ENga9ui4N</id>
     <title>Eventi di Hay Day (settimana n. 12)</title>
@@ -255,5 +237,16 @@ Domenica: potenziamento del 20% per 3 edifici produttivi a caso ed evento d&amp;
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-06-02T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4uJR587AHolFRgSWf2xhUw</id>
+    <title>Eventi di Hay Day (settimana n. 24)</title>
+    <updated>2024-06-09T08:02:09.572000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 24)&lt;/h1&gt;
+&lt;p&gt;Ehilà, speriamo che ti stia godendo i festeggiamenti per il compleanno e che non veda l&amp;#39;ora di scoprire gli eventi in arrivo, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: oggetti espansione (gira la ruota).&lt;/p&gt;&lt;p&gt;Martedì: oggetti espansione (ordini del furgone) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Mercoledì: buoni (ordini del furgone) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Giovedì: monete doppie (visitatori della fattoria) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 20% per tutti gli edifici di pesca e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Sabato: materiali per i miglioramenti del silo e del granaio (visitatori della città) e XP doppi (ordini del furgone).&lt;/p&gt;&lt;p&gt;Domenica: potenziamento del 20% per 3 edifici produttivi a caso.&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/4uJR587AHolFRgSWf2xhUw"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-06-09T08:00:03+00:00</published>
   </entry>
 </feed>

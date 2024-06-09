@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-06-09T07:32:57.920772+00:00</updated>
+  <updated>2024-06-09T08:33:07.421392+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7DZRwDKdg9aGSTW85dc6bM</id>
-    <title>Hay Day-evenementen: week 11</title>
-    <updated>2024-03-13T11:17:42.673000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day-evenementen: week 11&lt;/h1&gt;
-&lt;p&gt;Hoi boer! Er staat een nieuwe lading wekelijkse evenementen voor je klaar! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.
-Maandag: rad van fortuin (1 gegarandeerde uitbreidingsvergunning, kans op 2)
-Dinsdag: truckbestellingen (extra tegoedbonnen)
-Woensdag: bootevenement (2x zoveel munten)
-Donderdag: boerderijbezoekersevenement (rommelmarkt)
-Vrijdag: visboost (30% boost voor kreeften en kunstaas) + dubbele boerderijkaartpunten
-Zaterdag: stadsbezoekersevenement (stadsbezoekers die je in 2 of 3 gebouwen bedient, belonen je met extra uitbreidingsitems voor je boerderij of stad) + wereldwijd bootevenement (St. Patrick&amp;#39;s Day)
-Zondag: boerderijbezoekers (2x zoveel munten) + wereldwijd bootevenement (St. Patrick&amp;#39;s Day)&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/nl/news/7DZRwDKdg9aGSTW85dc6bM"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nieuws"/>
-    <published>2024-03-10T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>7oU6iGsWCbx76ENga9ui4N</id>
     <title>Hay Day-evenementen: week 12</title>
@@ -255,5 +237,16 @@ Zondag: productiegebouwenboost (20% boost voor 3 willekeurige gebouwen) + tuinhu
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Nieuws"/>
     <published>2024-06-02T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4uJR587AHolFRgSWf2xhUw</id>
+    <title>Hay Day-evenementen: week 24!</title>
+    <updated>2024-06-09T08:02:09.572000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-evenementen: week 24!&lt;/h1&gt;
+&lt;p&gt;Hallo boeren! We hopen dat je al volop aan het genieten bent van de verjaardagsfestiviteiten! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;Maandag: rad van fortuin (uitbreidingsmateriaal)&lt;/p&gt;&lt;p&gt;Dinsdag: truckbestellingen (uitbreidingsmateriaal) + 3x zoveel boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Woensdag: truckbestellingen (tegoedbonnen) + 3x zoveel boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Donderdag: boerderijbezoekersevenement (2x zoveel munten) + 3x zoveel boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Vrijdag: visboost (20% boost voor alle vissen) + 3x zoveel boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Zaterdag: stadsbezoekers (silo- en schuurmateriaal) + truckbestellingen (2x zoveel XP)&lt;/p&gt;&lt;p&gt;Zondag: productiegebouwenboost (20% boost voor 3 willekeurige gebouwen)&lt;/p&gt;&lt;p&gt;Een fijne week gewenst!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/4uJR587AHolFRgSWf2xhUw"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nieuws"/>
+    <published>2024-06-09T08:00:03+00:00</published>
   </entry>
 </feed>

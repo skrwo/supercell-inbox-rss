@@ -2,29 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-06-09T07:32:59.661447+00:00</updated>
+  <updated>2024-06-09T08:33:09.759171+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7DZRwDKdg9aGSTW85dc6bM</id>
-    <title>Hay Day Events Week 11</title>
-    <updated>2024-03-13T11:17:42.673000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Events Week 11&lt;/h1&gt;
-&lt;p&gt;Get ready, farmers, for the next volume of Weekly Events! All Events start at 8 AM UTC.  Dive into the specifics of each Event by visiting our Event Board in the game.   
-&lt;b&gt;
-&lt;/b&gt;Monday: Spin the Wheel Event (1 Land Expansion Permit Guaranteed, Possibility for 2) 
-Tuesday: Truck Order Event (Extra Vouchers) 
-Wednesday: Boat Event (2x Coins)
-Thursday: Farm Visitor Event (Yard Sale)
-Friday: Friday: Fishing Production Boost Event (Lobster Pool and Lure Workbench, 30% boost) + Double Farm Pass Points 
-Saturday: Town Visitors Event (Extra Land Expansion Materials for 2+3 Buildings)  +  Global Boat Event (St. Patricks Day)
-Sunday: Farm Visitors (2x Coins)  + Global Boat Event (St. Patricks Day)&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/en/news/7DZRwDKdg9aGSTW85dc6bM"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-03-10T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>7oU6iGsWCbx76ENga9ui4N</id>
     <title>Hay Day Events Week 12</title>
@@ -299,5 +280,16 @@ Sunday: Production Building Boost Event (3 Random Buildings, 20% Boost) + Garden
     <link href="https://youtu.be/9G7TmdOoQxk"/>
     <category term="News"/>
     <published>2024-06-07T07:30:24+00:00</published>
+  </entry>
+  <entry>
+    <id>4uJR587AHolFRgSWf2xhUw</id>
+    <title>Hay Day Events Week 24!</title>
+    <updated>2024-06-09T08:02:09.572000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Events Week 24!&lt;/h1&gt;
+&lt;p&gt;Hello farmers! We hope you have been enjoying the Birthday Celebrations so far! All Events start at 8 AM UTC. Dive into the specifics of each Event by visiting our Event Board in the game. &lt;/p&gt;&lt;p&gt;Monday: Spin the Wheel (Expansion Materials)&lt;/p&gt;&lt;p&gt;Tuesday: Truck Event (Expansion Materials) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Wednesday: Truck Event (Vouchers) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Thursday: Farm Visitor Event (2x Coins) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Friday: Fishing Production Boost Event (All 20% Boost) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Saturday: Town Visitor (Silo and Barn Materials) + Truck Event (2x XP)&lt;/p&gt;&lt;p&gt;Sunday:  Production Building Event (3 random buildings, 20% boost)&lt;/p&gt;&lt;p&gt;Have a great week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/4uJR587AHolFRgSWf2xhUw"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-06-09T08:00:03+00:00</published>
   </entry>
 </feed>

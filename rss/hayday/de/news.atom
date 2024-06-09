@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-06-09T07:32:58.288782+00:00</updated>
+  <updated>2024-06-09T08:33:07.102664+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7DZRwDKdg9aGSTW85dc6bM</id>
-    <title>Ereigniswoche 11!</title>
-    <updated>2024-03-13T11:17:42.673000+00:00</updated>
-    <content>&lt;h1&gt;Ereigniswoche 11!&lt;/h1&gt;
-&lt;p&gt;Mach dich bereit für die nächste bunte Reihe an wöchentlichen Ereignissen! Alle Ereignisse beginnen um 9 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.
-Montag: Glücksrad-Ereignis (eine Landerweiterungserlaubnis garantiert, Chance auf zwei)
-Dienstag: Lieferwagenbestellungen-Ereignis (zusätzliche Gutscheine)
-Mittwoch: Schiffsereignis (doppelte Münzen)
-Donnerstag: Farmbesucher-Ereignis (Flohmarkt)
-Freitag: Produktionsschub für den Angelbereich (Hummerpool und Köder-Werkbank, 30 %) + Doppelte Farmpasspunkte
-Samstag: Stadtbesucher-Ereignis (zusätzliche Landerweiterungsmaterialien für Besucher, die in zwei und drei Gebäuden bedient wurden) + Globales Schiffsereignis (St. Patrick‘s Day)
-Sonntag: Farmbesucher-Ereignis (doppelte Münzen) + Globales Schiffsereignis (St. Patrick‘s Day)&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/7DZRwDKdg9aGSTW85dc6bM"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-03-10T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>7oU6iGsWCbx76ENga9ui4N</id>
     <title>Ereigniswoche 12</title>
@@ -255,5 +237,16 @@ Sonntag: Produktionsgebäude-Ereignis (20%iger Schub für drei zufällige Gebäu
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Neues"/>
     <published>2024-06-02T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4uJR587AHolFRgSWf2xhUw</id>
+    <title>Ereigniswoche 24!</title>
+    <updated>2024-06-09T08:02:09.572000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 24!&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Wir hoffen, du hattest bisher Spaß mit den Feierlichkeiten zu unserem Geburtstag! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagenereignis (Erweiterungsmaterialien) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;Mittwoch: Lieferwagenereignis (Gutscheine) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (doppelte Münzen) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den gesamten Angelbereich (20 %) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (Verbesserungsmaterialien für Silo und Scheune) + Lieferwagenereignis (doppelte EP)&lt;/p&gt;&lt;p&gt;Sonntag: Produktionsgebäude-Ereignis (Schub für 3 zufällige Gebäude, 20 %)&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/4uJR587AHolFRgSWf2xhUw"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Neues"/>
+    <published>2024-06-09T08:00:03+00:00</published>
   </entry>
 </feed>

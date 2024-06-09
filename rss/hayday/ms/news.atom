@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-06-09T07:32:58.980336+00:00</updated>
+  <updated>2024-06-09T08:33:06.467609+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7DZRwDKdg9aGSTW85dc6bM</id>
-    <title>Acara Hay Day Minggu 11!</title>
-    <updated>2024-03-13T11:17:42.673000+00:00</updated>
-    <content>&lt;h1&gt;Acara Hay Day Minggu 11!&lt;/h1&gt;
-&lt;p&gt;Bersedia, Peladang, untuk Acara Mingguan di bulan baharu! Semua acara bermula pada 8:00 UTC (16:00 MYT) Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.
-Isnin: Acara Putaran Nasib (1 permit peluasan terjamin, mungkin boleh dapat 2)
-Selasa: Acara Pesanan Trak (Baucar tambahan)
-Rabu: Acara Bot (2x syiling)
-Khamis: Acara Pelawat Ladang (Jualan halaman)
-Jumaat: Acara Galakan Pengeluaran Memancing (Kolam udang kara dan meja kerja umpan, 30% galakan) + Mata Pas Ladang berganda
-Sabtu: Acara Pelawat Bandar (Bahan peluasan tanah tambahan untuk 2-3 bangunan) + Acara Bot Global (Hari St Patrick)
-Ahad: Pelawat Ladang (2x syiling) + Acara Bot Global (Hari St Patrick)&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/7DZRwDKdg9aGSTW85dc6bM"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Berita"/>
-    <published>2024-03-10T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>4BAdc4LGgqU2bK4MnOwOMA</id>
     <title>Acara Hay Day Minggu 13!</title>
@@ -227,5 +209,16 @@ Ahad: Acara Galakan Bangunan Pengeluaran (3 bangunan rawak, 20% galakan) + Acara
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Berita"/>
     <published>2024-06-02T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4uJR587AHolFRgSWf2xhUw</id>
+    <title>Acara Hay Day Minggu 24!</title>
+    <updated>2024-06-09T08:02:09.572000+00:00</updated>
+    <content>&lt;h1&gt;Acara Hay Day Minggu 24!&lt;/h1&gt;
+&lt;p&gt;Helo, peladang! Kami berharap anda menikmati sambutan hari jadi setakat ini! Semua acara bermula pada 8:00 UTC (16:00 MYT). Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;Isnin: Putaran Nasib (Bahan peluasan tanah)&lt;/p&gt;&lt;p&gt;Selasa: Acara Trak (Bahan peluasan tanah) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Rabu: Acara Trak (Baucar) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Khamis: Acara Pelawat Ladang (2x syiling) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Jumaat: Acara Galakan Pengeluaran Memancing (Semua 20% galakan) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Sabtu: Pelawat Bandar (Bahan silo dan bangsal) + Acara Trak (2x XP)&lt;/p&gt;&lt;p&gt;Ahad: Acara Galakan Bangunan Pengeluaran (3 bangunan rawak, 20% galakan)&lt;/p&gt;&lt;p&gt;Semoga minggu anda ceria!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/4uJR587AHolFRgSWf2xhUw"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2024-06-09T08:00:03+00:00</published>
   </entry>
 </feed>
