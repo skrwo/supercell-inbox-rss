@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-09T10:33:46.728460+00:00</updated>
+  <updated>2024-06-09T11:32:49.906989+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>dsCMA3aHAStXRzmael26p</id>
-    <title>【金雄】火從天降挑戰！不翻車一次過！</title>
-    <updated>2024-03-11T10:01:27.478000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/dsCMA3aHAStXRzmael26p"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4yddmzBfruDCBNyZHNyoX6/e98060412d5043901d3fcfcc004ad1a1/tw_20240311_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=m5fKME2ucro"/>
-    <category term="最新情報"/>
-    <published>2024-03-11T10:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>2E0GUAOJkDFKv1il7MOPVO</id>
-    <title>【烏龜】輕鬆通過挑戰！還有機會贏黃金通行證！</title>
-    <updated>2024-03-11T10:03:25.655000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2E0GUAOJkDFKv1il7MOPVO"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3aYii0Axok06tgXr9pHdLo/fc855f4dc2a9d914ee872f741d22eaa2/tw_20240311_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=117KiBZPg9I"/>
-    <category term="最新情報"/>
-    <published>2024-03-11T10:01:00+00:00</published>
-  </entry>
   <entry>
     <id>6OrwnPddoUwIXAkUQj8YVJ</id>
     <title>3月部落競賽獎勵搶先看</title>
