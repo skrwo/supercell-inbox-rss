@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-10T07:33:42.026215+00:00</updated>
+  <updated>2024-06-10T08:36:52.936712+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -558,5 +558,15 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3gpS7naxpLLEDTtwWSRkcq/5dc85e483d0398c7b716300b933ae9c9/cr-goblin-chain-reward-in-game-thumbnail_notext.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-06-04T18:56:21+00:00</published>
+  </entry>
+  <entry>
+    <id>37cVtkZELdj9SKoVTLTMxA</id>
+    <title>ゴブリンバレルの秘話🟢</title>
+    <updated>2024-06-10T08:28:43.265000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/37cVtkZELdj9SKoVTLTMxA"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6E7TJA0B9L4kas6SvNYdOO/41aff29ce14ed319be979d4c75163bb5/goblinbarrellore.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/d2qfn3wd6dQ"/>
+    <category term="エンタメ"/>
+    <published>2024-06-08T15:35:21+00:00</published>
   </entry>
 </feed>

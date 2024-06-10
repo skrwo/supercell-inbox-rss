@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-06-10T07:33:49.924814+00:00</updated>
+  <updated>2024-06-10T08:37:03.880009+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -237,6 +237,16 @@ Sunnuntai: kolmen sattumanvaraisen tuotantorakennuksen 20 %:n tehostus ja puutar
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Uutiset"/>
     <published>2024-06-02T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1QSvAxWOUYKLZJsKC5h3n9</id>
+    <title>Hay Dayn 12-vuotissynttärijuhlat</title>
+    <updated>2024-06-10T07:41:16.650000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/1QSvAxWOUYKLZJsKC5h3n9"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5peuqb8pfdZIG9L0KhhBWh/395ee5f1a28122072b42525e30a0f6a9/Screenshot_2024-06-04_at_22.09.59__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/9G7TmdOoQxk"/>
+    <category term="Uutiset"/>
+    <published>2024-06-07T07:30:24+00:00</published>
   </entry>
   <entry>
     <id>4uJR587AHolFRgSWf2xhUw</id>
