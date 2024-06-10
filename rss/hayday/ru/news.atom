@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-06-10T09:35:26.081249+00:00</updated>
+  <updated>2024-06-10T10:37:41.172988+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -258,5 +258,22 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Новости"/>
     <published>2024-06-09T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5s7JPNiBBYSakFaT3VhzdK</id>
+    <title>Летнее обновление — информация</title>
+    <updated>2024-06-10T09:57:50.236000+00:00</updated>
+    <content>&lt;h1&gt;Встречайте свежее обновление и готовьтесь к рок-н-ролльной вечеринке в честь дня рождения Hay Day!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Новые функции&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Коллекции украшений&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Теперь вы можете похвастаться своей коллекцией украшений при помощи новой стильной книги! В ней собраны ваши наборы украшений, и каждая страница посвящена отдельной теме. В июне это рок-н-ролл!&lt;/p&gt;&lt;p&gt;Закончите коллекцию, собрав все перечисленные украшения, и получите награду за свои труды.&lt;/p&gt;&lt;p&gt;Вы также можете зайти на ферму другого игрока и посмотреть его прогресс, коснувшись очаровательного пуделя рядом с домиком для цыплят Farm Pass.&lt;/p&gt;&lt;p&gt;Помните, что каждая коллекция доступна в течение ограниченного времени, так что не забывайте проверять свою книгу — в ней содержится вся необходимая информация о текущих наборах украшений.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Улучшения магазина украшений&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Мы добавили новые категории и систему фильтров в магазин украшений. Когда мы убедимся, что благодаря им использование украшений стало удобнее, мы добавим их для всех игроков в течение следующих недель.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ящики-сюрпризы&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Благодаря ящикам-сюрпризам вы можете получать эксклюзивные украшения и предметы веселым и увлекательным способом (почти как колесо фортуны). Некоторые из этих ящиков будут доступны в качестве наград, а другие — в составе акций в магазине.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Новый контент&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Новое временное производственное здание:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;машина для воздушных шаров.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4pcgZ94dH8e3D1NGBmr9yD/8a196d4bc94b28933cf4ca7a7e48b2b6/balloon_inbox.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Новые продукты:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;воздушные шары в рок-н-ролльном стиле.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2eCDc0fWXhdV0zpM3pqGtg/1532c5bed9ea827f82c013a3b4674965/ballons.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Рок-н-ролльные украшения&lt;/p&gt;&lt;p&gt;Гитарист, музыкальные легенды, барабанщик, афиша, плакат группы, встреча с фанатами, рок-н-ролльщики и другие!&lt;/p&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5Jamnq7PIszaPx4UOX9Z2g/999752bafc08535e44b8a2954ff77103/rock_inbox.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Исправления:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;цыплята Farm Pass стали на 35 % быстрее;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ускорители, купленные в сезонном каталоге, теперь не занимают место на складе ускорителей;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;события с ускорением производственных зданий теперь доступны и на 14-м уровне (до разблокировки мастерства на 15-м уровне);&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;книга друзей: кнопка поиска вернулась, и мы также обновили область прокрутки, чтобы она не перекрывала деревянную панель.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;! Важно&lt;/b&gt;: с этого момента награда с алмазами за обновление игры будет доступна в магазине в качестве бесплатной акции. Почтальон Альфред больше не будет привозить ее лично.&lt;/p&gt;&lt;p&gt;Обязательно посмотрите последний выпуск «Молочных новостей», чтобы узнать подробности будущих событий!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/5s7JPNiBBYSakFaT3VhzdK"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5TDNNcL7Oo7jFHJT0gU8mr/0c5d7354228ba22cb73389abf7f68b83/HayDay_ReleaseNotes_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2024-06-10T09:55:04+00:00</published>
   </entry>
 </feed>

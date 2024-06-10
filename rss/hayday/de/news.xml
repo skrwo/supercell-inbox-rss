@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 10 Jun 2024 09:35:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 10:37:54 +0000</lastBuildDate>
     <item>
       <title>Ereigniswoche 12</title>
       <link>https://hayday.inbox.supercell.com/#/de/news/7oU6iGsWCbx76ENga9ui4N</link>
@@ -234,6 +234,22 @@ Sonntag: Produktionsgebäude-Ereignis (20%iger Schub für drei zufällige Gebäu
       <category>Neues</category>
       <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Sun, 09 Jun 2024 08:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Versionshinweise zum Sommer-Update</title>
+      <link>https://hayday.inbox.supercell.com/#/de/news/5s7JPNiBBYSakFaT3VhzdK</link>
+      <description>&lt;h1&gt;Mach dich fürs neue Update mit einer Rock ’n’ Roll-Show zu Hay Days Geburtstag bereit!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Neue Funktionen:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Dekorationssammlungen&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Deine Dekorationssammlungen lassen sich nun in einem schicken Buchformat präsentieren! Jede Seite ist einem deiner Dekosets eines bestimmten Themas gewidmet. Im Juni geht‘s um Rock ’n’ Roll!&lt;/p&gt;&lt;p&gt;Schließe Sammlungen ab, indem du dir alle aufgelisteten Dekorationen sicherst. Für deine harte Arbeit bekommst du dann besondere Belohnungen!&lt;/p&gt;&lt;p&gt;Du kannst die Farmen anderer Spieler besuchen und ihren Fortschritt sehen, indem du auf den niedlichen Pudel neben dem Farmpass-Kükenhaus tippst.&lt;/p&gt;&lt;p&gt;Bedenke, dass jede Sammlung nur eine bestimmte Zeit lang verfügbar ist. Behalte also dein Sammelbuch im Auge. Dort findest du alle Informationen zu aktuellen Dekosets.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Verbesserungen am Dekorationenshop&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wir haben neue Kategorien und Filtersysteme für den Dekorationenshop erstellt. Sobald wir geprüft haben, ob sie den Dekoprozess angenehmer machen, werden wir die Änderungen im Laufe der nächsten Wochen für alle Spieler verfügbar machen.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Überraschungskisten&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Überraschungskisten bieten dir, ähnlich wie das Glücksrad, einen spaßigen und spannenden Weg, an exklusive Dekorationen oder Gegenstände zu kommen. Einige dieser netten Kisten findest du als Belohnungen oder als Angebote im Shop.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Neue Inhalte:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Neues temporäres Produktionsgebäude:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Luftballonmaschine&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4pcgZ94dH8e3D1NGBmr9yD/8a196d4bc94b28933cf4ca7a7e48b2b6/balloon_inbox.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Neue Produkte:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ballons im Rock ’n’ Roll-Stil&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2eCDc0fWXhdV0zpM3pqGtg/1532c5bed9ea827f82c013a3b4674965/ballons.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Rock ’n’ Roll-Dekorationen:&lt;/p&gt;&lt;p&gt;Freue dich auf die Dekos Gitarrist, Musikidole, Schlagzeuger, Konzertschild, Bandposter, Fantreffen, Rocktänzer und mehr!&lt;/p&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5Jamnq7PIszaPx4UOX9Z2g/999752bafc08535e44b8a2954ff77103/rock_inbox.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Fehlerbehebungen:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Das Farmpassküken ist 35 % schneller.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Schübe aus dem Saisonkatalog nehmen keinen Lagerplatz mehr ein.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Schubereignisse für Produktionsgebäude sind nun auch auf Level 14 verfügbar (bevor Meisterungen auf Level 15 freigeschaltet werden).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Freundebuch: Die Suchschaltfläche ist zurück. Wir haben auch den Scrollbereich angepasst, damit er sich nicht mehr mit dem Holzbrett überschneidet.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Wichtiger Hinweis&lt;/b&gt;: Ab jetzt ist die Diamantenbelohnung fürs Aktualisieren des Spiels als Gratisangebot im Shop verfügbar und wird nicht mehr von unserem treuen Postboten Alfred geliefert.&lt;/p&gt;&lt;p&gt;Sieh dir die neueste Folge unseres Farmerjournals an, um mehr über die kommenden Ereignisse zu erfahren.&lt;/p&gt;</description>
+      <guid isPermaLink="false">5s7JPNiBBYSakFaT3VhzdK</guid>
+      <category>Neues</category>
+      <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5TDNNcL7Oo7jFHJT0gU8mr/0c5d7354228ba22cb73389abf7f68b83/HayDay_ReleaseNotes_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Mon, 10 Jun 2024 09:55:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
