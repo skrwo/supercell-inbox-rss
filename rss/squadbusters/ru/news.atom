@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>squadbusters-newsEntries-ru</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-10T06:39:20.083512+00:00</updated>
+  <updated>2024-06-10T07:33:50.973563+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
