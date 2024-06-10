@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-10T11:34:38.743097+00:00</updated>
+  <updated>2024-06-10T12:50:41.489708+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -436,5 +436,25 @@
     <link href="https://www.youtube.com/watch?v=1B1BdmQrf_Q"/>
     <category term="最新情報"/>
     <published>2024-06-08T09:46:00+00:00</published>
+  </entry>
+  <entry>
+    <id>12Y0mq3vGGogGMtV2pgQ1Z</id>
+    <title>【烏龜】超級炸彈人活動詳解與火箭長矛介紹！</title>
+    <updated>2024-06-10T12:09:51.228000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/12Y0mq3vGGogGMtV2pgQ1Z"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/59NcjBGaDqQn4ZlNo89gSB/8dc8f40bf4d4920d910d37af8ba0b3f5/tw_20240610_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=puhQ4ONm6Wk"/>
+    <category term="最新情報"/>
+    <published>2024-06-10T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6D9uxJUrzkKWbERLY7fCxa</id>
+    <title>【金雄】神盾新裝備實戰分析！新活動介紹！</title>
+    <updated>2024-06-10T12:11:19.565000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6D9uxJUrzkKWbERLY7fCxa"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4Xp8JaEZn7BF0F6da5tEzB/499290866aae2b998c096235529f0593/tw_20240610_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=PhdiibNTmpw"/>
+    <category term="最新情報"/>
+    <published>2024-06-10T12:01:00+00:00</published>
   </entry>
 </feed>
