@@ -2,510 +2,6 @@
     "entries": {
         "eventEntries": [
             {
-                "id": "6M2uFb9weeDRzk3ke5Sp2k",
-                "metadata": {
-                    "id": "6M2uFb9weeDRzk3ke5Sp2k",
-                    "publishedAt": "2024-04-26T09:03:40.770Z",
-                    "publishedVersion": 14
-                },
-                "targeting": {
-                    "country": [],
-                    "platform": [
-                        "android"
-                    ],
-                    "builderHallLevel": [],
-                    "townHallLevel": [],
-                    "campaignId": "wobbly",
-                    "avatarIds": [],
-                    "hideFromYoungPlayer": false
-                },
-                "postDate": "1714122212",
-                "sortDate": "1714122212",
-                "lang": "en",
-                "title": "",
-                "type": "progressTrackerEntry",
-                "ctas": {
-                    "10627Z1MzkySDS5wxUZoja": {
-                        "title": null,
-                        "type": "url",
-                        "urlType": "url",
-                        "id": "10627Z1MzkySDS5wxUZoja",
-                        "order": "0",
-                        "variant": "blue",
-                        "url": "https://squadbusters.com",
-                        "label": "Squad Up! Pre-register Supercell's new global game!"
-                    }
-                },
-                "background": {
-                    "small": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=172&h=264&f=center&fit=fill",
-                        "width": 172,
-                        "height": 264
-                    },
-                    "smallRetina": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=344&h=528&f=center&fit=fill",
-                        "width": 344,
-                        "height": 528
-                    },
-                    "medium": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=430&h=660&f=center&fit=fill",
-                        "width": 430,
-                        "height": 660
-                    },
-                    "mediumRetina": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=516&h=792&f=center&fit=fill",
-                        "width": 516,
-                        "height": 792
-                    },
-                    "large": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=688&h=1056&f=center&fit=fill",
-                        "width": 688,
-                        "height": 1056
-                    },
-                    "largeRetina": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=860&h=1320&f=center&fit=fill",
-                        "width": 860,
-                        "height": 1320
-                    }
-                },
-                "milestones": [
-                    {
-                        "unlocked": false,
-                        "progress": 25,
-                        "image": {
-                            "small": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/1s944Vfz8M97qyycSQjnsk/055d51202870f2124cb11330d218a8b1/Boombeach-1.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "1M"
-                    },
-                    {
-                        "unlocked": false,
-                        "progress": 50,
-                        "image": {
-                            "small": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/5Ogo6sz9x78CgZqkYLJ0O9/d6041f3e7d53cab88cda68ecba66c3e0/Boombeach-2.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "?M"
-                    },
-                    {
-                        "unlocked": false,
-                        "progress": 75,
-                        "image": {
-                            "small": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/55fXi1WogbY49XLHSqKadt/bc20d7386b1a625c952dbf391bef37fe/Boombeach-3.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "?M"
-                    },
-                    {
-                        "unlocked": false,
-                        "progress": 100,
-                        "image": {
-                            "small": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/562biPpIzJfYifJ0pJssZp/f1af462cad845a69ad36b4282f2e0361/Boombeach-4.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "?M"
-                    }
-                ],
-                "tracker": {
-                    "progress": 13.750000000000002,
-                    "direction": "horizontal"
-                }
-            },
-            {
-                "id": "68oFUEeqIjTe3Gcs2LqPXh",
-                "metadata": {
-                    "id": "68oFUEeqIjTe3Gcs2LqPXh",
-                    "publishedAt": "2024-04-26T09:03:33.321Z",
-                    "publishedVersion": 15
-                },
-                "targeting": {
-                    "country": [],
-                    "platform": [
-                        "ios"
-                    ],
-                    "builderHallLevel": [],
-                    "townHallLevel": [],
-                    "campaignId": "wobbly",
-                    "avatarIds": [],
-                    "hideFromYoungPlayer": false
-                },
-                "postDate": "1714122208",
-                "sortDate": "1714122208",
-                "lang": "en",
-                "title": "",
-                "type": "progressTrackerEntry",
-                "ctas": {
-                    "5TtsV2gdYLomBXRKDe6g9j": {
-                        "title": null,
-                        "type": "url",
-                        "urlType": "url",
-                        "id": "5TtsV2gdYLomBXRKDe6g9j",
-                        "order": "0",
-                        "variant": "blue",
-                        "url": "https://squadbusters.com",
-                        "label": "Squad Up! Pre-order Supercell's new global game!"
-                    }
-                },
-                "background": {
-                    "small": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=172&h=264&f=center&fit=fill",
-                        "width": 172,
-                        "height": 264
-                    },
-                    "smallRetina": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=344&h=528&f=center&fit=fill",
-                        "width": 344,
-                        "height": 528
-                    },
-                    "medium": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=430&h=660&f=center&fit=fill",
-                        "width": 430,
-                        "height": 660
-                    },
-                    "mediumRetina": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=516&h=792&f=center&fit=fill",
-                        "width": 516,
-                        "height": 792
-                    },
-                    "large": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=688&h=1056&f=center&fit=fill",
-                        "width": 688,
-                        "height": 1056
-                    },
-                    "largeRetina": {
-                        "title": "animated-swirl.webp",
-                        "path": "/cf7umh1jvp53/4gv2GjIv2UMusUet6JDj03/3949b87378938ccdb3ef83e91610d423/animated-swirl.webp?w=860&h=1320&f=center&fit=fill",
-                        "width": 860,
-                        "height": 1320
-                    }
-                },
-                "milestones": [
-                    {
-                        "unlocked": false,
-                        "progress": 25,
-                        "image": {
-                            "small": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "Boombeach-1.png",
-                                "path": "/cf7umh1jvp53/40Yij5PrCUwr16UNFy7uod/00196675f8d3655b365f0cba98d00278/Boombeach-1.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "1M"
-                    },
-                    {
-                        "unlocked": false,
-                        "progress": 50,
-                        "image": {
-                            "small": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "Boombeach-2.png",
-                                "path": "/cf7umh1jvp53/uF7Hr2hy3L6mRuuo4lnOT/44b2824acddff2ed0eec13b24acaef3d/Boombeach-2.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "?M"
-                    },
-                    {
-                        "unlocked": false,
-                        "progress": 75,
-                        "image": {
-                            "small": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "Boombeach-3.png",
-                                "path": "/cf7umh1jvp53/w39m1AVjA91RORRdKlsKH/922e677ba2801a00c39432a30f63275e/Boombeach-3.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "?M"
-                    },
-                    {
-                        "unlocked": false,
-                        "progress": 100,
-                        "image": {
-                            "small": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "Boombeach-4.png",
-                                "path": "/cf7umh1jvp53/6HwFimemytPabkMGtbqe0M/f2c1300335eb07fdaa5889b535735c82/Boombeach-4.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "?M"
-                    }
-                ],
-                "tracker": {
-                    "progress": 13.750000000000002,
-                    "direction": "horizontal"
-                }
-            },
-            {
                 "id": "2zDc3i52sUYf3sSjOIaVoW",
                 "metadata": {
                     "id": "2zDc3i52sUYf3sSjOIaVoW",
@@ -889,7 +385,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1714122621",
+                "timerTarget": "1718103605",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -956,7 +452,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1714122621",
+                "timerTarget": "1718103605",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -1023,7 +519,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1714122621",
+                "timerTarget": "1718103605",
                 "hideTitle": false,
                 "background": {
                     "small": {
@@ -1067,8 +563,332 @@
         ],
         "newsEntries": [
             {
-                "id": "6gFWymbUMWlfTjhx8GWHWT",
+                "id": "4gPvm1zq9tkN6LCZf48MB0",
                 "index": 0,
+                "targeting": null,
+                "metadata": {
+                    "id": "4gPvm1zq9tkN6LCZf48MB0",
+                    "publishedVersion": 9,
+                    "publishedAt": "2024-06-11T09:52:50.106Z"
+                },
+                "postDate": "1717196400",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "June events",
+                "categories": [
+                    {
+                        "title": "Blog",
+                        "color": "#379348"
+                    }
+                ],
+                "newUntil": "1717542000",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/2RdqgNwFKYc1TN9aipfcme/5f8a6c850dc7dd871173baf37aceb48f/BlogPost_Thumbnail.png?w=180&h=99&f=center&fit=fill",
+                        "width": 180,
+                        "height": 99
+                    },
+                    "smallRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/2RdqgNwFKYc1TN9aipfcme/5f8a6c850dc7dd871173baf37aceb48f/BlogPost_Thumbnail.png?w=360&h=197&f=center&fit=fill",
+                        "width": 360,
+                        "height": 197
+                    },
+                    "medium": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/2RdqgNwFKYc1TN9aipfcme/5f8a6c850dc7dd871173baf37aceb48f/BlogPost_Thumbnail.png?w=450&h=247&f=center&fit=fill",
+                        "width": 450,
+                        "height": 247
+                    },
+                    "mediumRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/2RdqgNwFKYc1TN9aipfcme/5f8a6c850dc7dd871173baf37aceb48f/BlogPost_Thumbnail.png?w=540&h=296&f=center&fit=fill",
+                        "width": 540,
+                        "height": 296
+                    },
+                    "large": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/2RdqgNwFKYc1TN9aipfcme/5f8a6c850dc7dd871173baf37aceb48f/BlogPost_Thumbnail.png?w=720&h=394&f=center&fit=fill",
+                        "width": 720,
+                        "height": 394
+                    },
+                    "largeRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/2RdqgNwFKYc1TN9aipfcme/5f8a6c850dc7dd871173baf37aceb48f/BlogPost_Thumbnail.png?w=900&h=493&f=center&fit=fill",
+                        "width": 900,
+                        "height": 493
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/6uOJ2w2gpUOzsK4wOVMHPG/a5406e6192d4ce59d338aefafde1531e/BlogPost_Hero.png?w=390&h=130&f=center",
+                        "width": 390,
+                        "height": 130
+                    },
+                    "smallRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/6uOJ2w2gpUOzsK4wOVMHPG/a5406e6192d4ce59d338aefafde1531e/BlogPost_Hero.png?w=780&h=260&f=center",
+                        "width": 780,
+                        "height": 260
+                    },
+                    "medium": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/6uOJ2w2gpUOzsK4wOVMHPG/a5406e6192d4ce59d338aefafde1531e/BlogPost_Hero.png?w=975&h=325&f=center",
+                        "width": 975,
+                        "height": 325
+                    },
+                    "mediumRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/6uOJ2w2gpUOzsK4wOVMHPG/a5406e6192d4ce59d338aefafde1531e/BlogPost_Hero.png?w=1170&h=390&f=center",
+                        "width": 1170,
+                        "height": 390
+                    },
+                    "large": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/6uOJ2w2gpUOzsK4wOVMHPG/a5406e6192d4ce59d338aefafde1531e/BlogPost_Hero.png?w=1560&h=520&f=center",
+                        "width": 1560,
+                        "height": 520
+                    },
+                    "largeRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/6uOJ2w2gpUOzsK4wOVMHPG/a5406e6192d4ce59d338aefafde1531e/BlogPost_Hero.png?w=1950&h=650&f=center",
+                        "width": 1950,
+                        "height": 650
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "June events",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>Rocket Choppa: 3 - 9\n\nTank &amp; Warrior Mania: 7 - 9\n\rExplosive Drones: 10 - 12\n\rRifleman &amp; Laser Ranger Mania: 14 - 16\n\rRain Maker: 17 - 23\n\rZooka Mania: 21 - 23\n\rRemote Hack: 24 - 26\n\rLife Leech Crab: 28 - 30</p><p></p>"
+                    }
+                }
+            },
+            {
+                "id": "1ngy1Ey1Rr3NE7ZKXA0RGm",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
+                    "id": "1ngy1Ey1Rr3NE7ZKXA0RGm",
+                    "publishedVersion": 11,
+                    "publishedAt": "2024-05-02T14:31:41.799Z"
+                },
+                "postDate": "1714518000",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "May events",
+                "categories": [
+                    {
+                        "title": "Blog",
+                        "color": "#379348"
+                    }
+                ],
+                "newUntil": "1714863600",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/4ySdstnZiNWQdTPFxuqGAx/3e13849417f6dbbef437fe12284014d5/BlogPost_Thumbnail.png?w=180&h=99&f=center&fit=fill",
+                        "width": 180,
+                        "height": 99
+                    },
+                    "smallRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/4ySdstnZiNWQdTPFxuqGAx/3e13849417f6dbbef437fe12284014d5/BlogPost_Thumbnail.png?w=360&h=197&f=center&fit=fill",
+                        "width": 360,
+                        "height": 197
+                    },
+                    "medium": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/4ySdstnZiNWQdTPFxuqGAx/3e13849417f6dbbef437fe12284014d5/BlogPost_Thumbnail.png?w=450&h=247&f=center&fit=fill",
+                        "width": 450,
+                        "height": 247
+                    },
+                    "mediumRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/4ySdstnZiNWQdTPFxuqGAx/3e13849417f6dbbef437fe12284014d5/BlogPost_Thumbnail.png?w=540&h=296&f=center&fit=fill",
+                        "width": 540,
+                        "height": 296
+                    },
+                    "large": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/4ySdstnZiNWQdTPFxuqGAx/3e13849417f6dbbef437fe12284014d5/BlogPost_Thumbnail.png?w=720&h=394&f=center&fit=fill",
+                        "width": 720,
+                        "height": 394
+                    },
+                    "largeRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/4ySdstnZiNWQdTPFxuqGAx/3e13849417f6dbbef437fe12284014d5/BlogPost_Thumbnail.png?w=900&h=493&f=center&fit=fill",
+                        "width": 900,
+                        "height": 493
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/7dBvFukSe2VWloctjDE3qP/3954c096764a5185860bf4e3ef02d586/BlogPost_Hero.png?w=390&h=130&f=center",
+                        "width": 390,
+                        "height": 130
+                    },
+                    "smallRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/7dBvFukSe2VWloctjDE3qP/3954c096764a5185860bf4e3ef02d586/BlogPost_Hero.png?w=780&h=260&f=center",
+                        "width": 780,
+                        "height": 260
+                    },
+                    "medium": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/7dBvFukSe2VWloctjDE3qP/3954c096764a5185860bf4e3ef02d586/BlogPost_Hero.png?w=975&h=325&f=center",
+                        "width": 975,
+                        "height": 325
+                    },
+                    "mediumRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/7dBvFukSe2VWloctjDE3qP/3954c096764a5185860bf4e3ef02d586/BlogPost_Hero.png?w=1170&h=390&f=center",
+                        "width": 1170,
+                        "height": 390
+                    },
+                    "large": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/7dBvFukSe2VWloctjDE3qP/3954c096764a5185860bf4e3ef02d586/BlogPost_Hero.png?w=1560&h=520&f=center",
+                        "width": 1560,
+                        "height": 520
+                    },
+                    "largeRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/7dBvFukSe2VWloctjDE3qP/3954c096764a5185860bf4e3ef02d586/BlogPost_Hero.png?w=1950&h=650&f=center",
+                        "width": 1950,
+                        "height": 650
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "May events:",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>Hasty Crab: 3 - 5</p><p>Melon Bombardier: 6 - 12</p><p>Warships Season 61: 6 - 26</p><p>ZookaGren Mania: 10 - 12</p><p>Speed Serum: 13 - 15</p><p>CryoLaR Mania: 17 - 19</p><p>Lazortron: 20 - 26</p><p>RifleMech Mania: 24 - 26</p><p>Super Warrior: 27 - 29</p><p>Tribal Crab: 31 - Jun 2</p>"
+                    }
+                }
+            },
+            {
+                "id": "2bvnrvCc19PAdLbfNrvPeT",
+                "index": 2,
+                "targeting": null,
+                "metadata": {
+                    "id": "2bvnrvCc19PAdLbfNrvPeT",
+                    "publishedVersion": 10,
+                    "publishedAt": "2024-04-30T09:37:30.311Z"
+                },
+                "postDate": "1714431600",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "HQ 26",
+                "categories": [
+                    {
+                        "title": "Updates",
+                        "color": "#007ecc"
+                    }
+                ],
+                "newUntil": "1714863600",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/6LaoJqlzg7aA3NJl42gVtP/b28e02384b09389838f1de16d7d025af/BlogPost_Thumbnail.png?w=180&h=99&f=center&fit=fill",
+                        "width": 180,
+                        "height": 99
+                    },
+                    "smallRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/6LaoJqlzg7aA3NJl42gVtP/b28e02384b09389838f1de16d7d025af/BlogPost_Thumbnail.png?w=360&h=197&f=center&fit=fill",
+                        "width": 360,
+                        "height": 197
+                    },
+                    "medium": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/6LaoJqlzg7aA3NJl42gVtP/b28e02384b09389838f1de16d7d025af/BlogPost_Thumbnail.png?w=450&h=247&f=center&fit=fill",
+                        "width": 450,
+                        "height": 247
+                    },
+                    "mediumRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/6LaoJqlzg7aA3NJl42gVtP/b28e02384b09389838f1de16d7d025af/BlogPost_Thumbnail.png?w=540&h=296&f=center&fit=fill",
+                        "width": 540,
+                        "height": 296
+                    },
+                    "large": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/6LaoJqlzg7aA3NJl42gVtP/b28e02384b09389838f1de16d7d025af/BlogPost_Thumbnail.png?w=720&h=394&f=center&fit=fill",
+                        "width": 720,
+                        "height": 394
+                    },
+                    "largeRetina": {
+                        "title": "BlogPost_Thumbnail.png",
+                        "path": "/cf7umh1jvp53/6LaoJqlzg7aA3NJl42gVtP/b28e02384b09389838f1de16d7d025af/BlogPost_Thumbnail.png?w=900&h=493&f=center&fit=fill",
+                        "width": 900,
+                        "height": 493
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/5rBQ5pEuOMy1dHlS0UzQAY/0ddc035d584d85b76b24afc0d789dfa9/BlogPost_Hero.png?w=390&h=130&f=center",
+                        "width": 390,
+                        "height": 130
+                    },
+                    "smallRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/5rBQ5pEuOMy1dHlS0UzQAY/0ddc035d584d85b76b24afc0d789dfa9/BlogPost_Hero.png?w=780&h=260&f=center",
+                        "width": 780,
+                        "height": 260
+                    },
+                    "medium": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/5rBQ5pEuOMy1dHlS0UzQAY/0ddc035d584d85b76b24afc0d789dfa9/BlogPost_Hero.png?w=975&h=325&f=center",
+                        "width": 975,
+                        "height": 325
+                    },
+                    "mediumRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/5rBQ5pEuOMy1dHlS0UzQAY/0ddc035d584d85b76b24afc0d789dfa9/BlogPost_Hero.png?w=1170&h=390&f=center",
+                        "width": 1170,
+                        "height": 390
+                    },
+                    "large": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/5rBQ5pEuOMy1dHlS0UzQAY/0ddc035d584d85b76b24afc0d789dfa9/BlogPost_Hero.png?w=1560&h=520&f=center",
+                        "width": 1560,
+                        "height": 520
+                    },
+                    "largeRetina": {
+                        "title": "BlogPost_Hero.png",
+                        "path": "/cf7umh1jvp53/5rBQ5pEuOMy1dHlS0UzQAY/0ddc035d584d85b76b24afc0d789dfa9/BlogPost_Hero.png?w=1950&h=650&f=center",
+                        "width": 1950,
+                        "height": 650
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "Welcome to the April update \"Take Cover\"",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<h2>HQ 26 </h2><p>HQ can now be upgraded to level 26. After the upgrade, the following will become available: \n\n\u25cf An additional Wood Storage can be built.\n\u25cf Three mines and one shock mine can be added.\n\u25cf The following buildings can be upgraded: Sawmill, Vault, Weapon Lab, Gunboat, Landing Craft, and Armory.\n\u25cf The following defenses can be upgraded: Sniper Tower, Machine Gun, Mortar, Cannon, Flamethrower, Boom Cannon, Rocket Launcher, Critter Launcher.\n\u25cf Once the armory has been upgraded, the following units and abilities can be upgraded: Rifleman, Heavy, Zooka, Warrior, Tank, Medic, Grenadier, Scorcher, Laser Ranger, Cryoneer, Bombardier, Mech, Artillery, Medkit, Barrage, Critters, Mines, Boom Mines.\n\u25cf All heroes can be upgraded one level.\n\u25cf After the upgrade, Kavan\u2019s Crystal Critters and Bullit\u2019s Taunt can be upgraded to level 7.</p><h3>New feature: Proto Module Conversion</h3><p> After upgrading the Weapon Lab, players can convert proto modules for a small sum in gems. The building UI has a new tab for this conversion.</p><h3>New feature: Garrisons</h3><p>\u25cf The Bunker is a new defensive building.\n\u25cf Players can build two bunkers at HQ 26.\n\u25cf At HQ 26, the bunkers can be upgraded to level 8.\n\u25cf The bunker has a feature called &quot;Air Defense&quot;, which reduces the damage the bunker takes from Artillery and Barrage abilities from the gunboat. <i>Damage from troops is unaffected</i>. \n\u25cf The bunker has no offensive capabilities on its own. The player must garrison troops in the bunker.\n\u25cf The bunker has a housing limit, which determines how many troops it can hold. The bunker can not hold large troops like Tanks, Mechs, or Scorchers. The bunker will also not hold prototroops.\n\u25cf The bunker can hold four different types of troops at the same time. Units can be freely mixed within the housing limit.\n\u25cf Units inside the bunker fire at attacking enemies with their current stats. Units are affected by defender\u2019s boosts from offensive statues or tribes.\n \u25cf Some troops have an improved range while garrisoned inside the bunker. Riflemen, Heavies: +50%. Zookas, Cryoneers, Laser Rangers: +20%. For Cryoneers and Laser Rangers, this extends the distance at which the laser is fired, not the length of the laser.\n\u25cf When the bunker is destroyed, the garrison exits and continues to fight the attackers.\n\u25cf The garrison is restored after each battle. Even if a base is raided multiple times, the garrison will always defend the base.\n\n\nGarrison upkeep:\n\n\u25cf Garrisoning troops does not cost resources. Instead, the troops require a constant upkeep in gold. This cost per hour is indicated in the UI.\n\u25cf This upkeep is automatically deducted from the gold produced by the Residences. Island gold production and existing gold reserves do not affect upkeep.\n\u25cf Troops can not be placed in bunkers if their upkeep would exceed base gold production. Base gold production is affected by green statues and other bonuses. This allows the player to put costlier troops in the garrison. If base gold production drops below current upkeep, troops are removed from the garrison.</p><h2>Warships</h2><p>\u25cf Added icons to the various choice nodes when inactive.\n\u25cf Negative nodes now check that the player has unlocked enough defenses before allowing a reduction in those defenses.\n\u25cf Choice nodes now allow selecting defenses even if a negative node choice has caused their available count to be 0. Previously, the choice nodes would have treated such defenses as locked.</p><h2><b>Fixes </b></h2><p>\u25cf Fixed icon and text overlapping in info/speed up popup.\n\u25cf Fixed door animation for Fortified Residence skin.\n\u25cf Fixed rank up screen info button not opening rank popup.\n\u25cf Fixed wrong rank shown in daily reward ad popup.\n\u25cf Fixed erroneously showing player resources when visiting other player\u2019s islands from warships.\n\u25cf Fixed a crash if player receives ER state updates from previous WS battle while in island battle.\n\u25cf Fixed an error that caused submarine rewards always to be shards. Now, shallower dives give fragments, while deeper dives give crystals.</p><h2>Seasonal Campaign &amp; Boom Pass</h2><p>\u25cf Sounds have been added to the Seasonal Campaign UI.\n\u25cf Challenge missions now have a different icon background color.\n\u25cf All missions now have a progress bar.\n\u25cf Added functionality that prevents buying the Boom Pass if too little time remains in the Season.\n\u25cf There are now indicators for mission progress in the home base and on the archipelago map.\n\u25cf Missions can now be pinned to appear first on the list.\n\u25cf All players can now purchase season points with gems to progress the reward track. Previously, only Boom Pass holders had this option.\n\u25cf Missions can now be rerolled with gems. The cost increases after each reroll. The button is in the information popup.\n\u25cf Campaign Missions will now award intel at a rate of one per 50 points. This intel reward is doubled for Boom Pass holders.</p><h2>Improvements</h2><p>\u25cf Hero ability upgrades can now be finished with Attack Plan.\n\u25cf To fix the various player XP errors over the years, a function that recalculates player XP and player level was added. This will be run for every player the first time the game is opened after the update. There will be a popup showing the change if your XP was adjusted.\n\u25cf Supply chests (\u201cVP chests\u201d) now stack up to 8, with a new one added every 6 hours.</p><h2>Balancing</h2><p>\u25cf Player level requirements for HQ levels 4-7 were reduced to make the early game faster. \n\u25cf Rifleman build time is reduced to 10 seconds to reduce early game wait times.\n\u25cf Attacking troops will prioritize engaging defending troops, including critters, that come in range, even if the attackers are firing at buildings at the time. Units will not retarget if the defending unit is already targeted by two or more attacking units.\n\u25cf Removed VP gains and losses from resource base battles.\n\u25cf Task Force intel cap has been increased by 50%.\n\u25cf Classified items cap has been increased to 5.\n\u25cf At HQ 25, Brick\u2019s Iron Will and Everspark\u2019s Critter Swarm can be upgraded to level 7.</p><p></p>"
+                    }
+                }
+            },
+            {
+                "id": "6gFWymbUMWlfTjhx8GWHWT",
+                "index": 3,
                 "targeting": {
                     "country": [],
                     "platform": [],
@@ -1080,8 +900,8 @@
                 },
                 "metadata": {
                     "id": "6gFWymbUMWlfTjhx8GWHWT",
-                    "publishedVersion": 12,
-                    "publishedAt": "2024-04-26T09:03:25.501Z"
+                    "publishedVersion": 16,
+                    "publishedAt": "2024-05-15T11:50:01.797Z"
                 },
                 "postDate": "1714122198",
                 "lang": "en",
@@ -1175,36 +995,91 @@
                 },
                 "details": {
                     "0": {
-                        "title": "",
+                        "title": "New milestone unlocked! ",
                         "order": "0",
                         "type": "textBlock",
-                        "body": "<h3>To celebrate the global release of <b>Squad Busters</b>, all Supercell games are giving away <b>free and exclusive rewards</b> for the community to achieve.</h3><p></p>"
+                        "body": "<p>In order to THANK YOU all for supporting the Squad Busters launch, we&#39;ve added a new milestone to the pre-registration reward track!</p><p>If we reach 40M pre-registrations before May 29, this beautiful Deco will be available at launch, and claimable for only a month!</p>"
                     },
                     "1": {
-                        "title": "How it works",
+                        "title": null,
                         "order": "1",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "deco-900.png",
+                                "path": "/cf7umh1jvp53/3Xz7bcdi0xyNgPYAPJQvqH/967106dbd78dd6e4d53998604389ed22/deco-900.png?w=180&h=180&f=center&fit=fill",
+                                "width": 180,
+                                "height": 180
+                            },
+                            "smallRetina": {
+                                "title": "deco-900.png",
+                                "path": "/cf7umh1jvp53/3Xz7bcdi0xyNgPYAPJQvqH/967106dbd78dd6e4d53998604389ed22/deco-900.png?w=360&h=360&f=center&fit=fill",
+                                "width": 360,
+                                "height": 360
+                            },
+                            "medium": {
+                                "title": "deco-900.png",
+                                "path": "/cf7umh1jvp53/3Xz7bcdi0xyNgPYAPJQvqH/967106dbd78dd6e4d53998604389ed22/deco-900.png?w=450&h=450&f=center&fit=fill",
+                                "width": 450,
+                                "height": 450
+                            },
+                            "mediumRetina": {
+                                "title": "deco-900.png",
+                                "path": "/cf7umh1jvp53/3Xz7bcdi0xyNgPYAPJQvqH/967106dbd78dd6e4d53998604389ed22/deco-900.png?w=540&h=540&f=center&fit=fill",
+                                "width": 540,
+                                "height": 540
+                            },
+                            "large": {
+                                "title": "deco-900.png",
+                                "path": "/cf7umh1jvp53/3Xz7bcdi0xyNgPYAPJQvqH/967106dbd78dd6e4d53998604389ed22/deco-900.png?w=720&h=720&f=center&fit=fill",
+                                "width": 720,
+                                "height": 720
+                            },
+                            "largeRetina": {
+                                "title": "deco-900.png",
+                                "path": "/cf7umh1jvp53/3Xz7bcdi0xyNgPYAPJQvqH/967106dbd78dd6e4d53998604389ed22/deco-900.png?w=900&h=900&f=center&fit=fill",
+                                "width": 900,
+                                "height": 900
+                            }
+                        }
+                    },
+                    "2": {
+                        "title": "",
+                        "order": "2",
+                        "type": "textBlock",
+                        "body": "<hr/><p></p>"
+                    },
+                    "3": {
+                        "title": "",
+                        "order": "3",
+                        "type": "textBlock",
+                        "body": "<p>To celebrate the global release of <b>Squad Busters</b>, all Supercell games are giving away <b>free and exclusive rewards</b> for the community to achieve.</p>"
+                    },
+                    "4": {
+                        "title": "How it works",
+                        "order": "4",
                         "type": "textBlock",
                         "body": "<p>Pre-Register for Squad Busters on the App Store or Google Play before the global release on the <b>29th of May</b>. By pre-registering you will get the game right away when it becomes globally available on the App Store or Google Play.</p><p>Follow the progress of the community effort on the reward tracker and don&#39;t forget to claim the rewards as they unlock.</p><p>Progress updated daily.</p><p>Squad up and make sure to tell your friends!</p>"
                     },
-                    "2": {
+                    "5": {
                         "title": null,
                         "type": "buttonBlock",
                         "urlType": "url",
                         "id": "3kzHikunLk0ZuOxHSpICD4",
-                        "order": "2",
+                        "order": "5",
                         "variant": "blue",
                         "url": "htps://apple.com",
                         "label": "App store link"
                     },
-                    "3": {
+                    "6": {
                         "title": "What is Squad Busters?",
-                        "order": "3",
+                        "order": "6",
                         "type": "textBlock",
                         "body": "<p>Squad Busters is a game where you can play with your favorite Supercell characters in fun and action-packed matches. Travel through different worlds, collect new characters, and evolve them to take down massive monsters as you continually build your ultimate squad. </p>"
                     },
-                    "4": {
+                    "7": {
                         "title": "",
-                        "order": "4",
+                        "order": "7",
                         "type": "videoBlock",
                         "author": "",
                         "embed": {
@@ -1251,126 +1126,6 @@
                                 "height": 493
                             }
                         }
-                    }
-                }
-            },
-            {
-                "id": "7eldwAdYVJzcyphrvaM6uv",
-                "index": 1,
-                "targeting": null,
-                "metadata": {
-                    "id": "7eldwAdYVJzcyphrvaM6uv",
-                    "publishedVersion": 12,
-                    "publishedAt": "2024-02-26T12:51:06.916Z"
-                },
-                "postDate": "1708905600",
-                "lang": "en",
-                "section": "newsEntries",
-                "title": "Boomiversary",
-                "categories": [
-                    {
-                        "title": "Blog",
-                        "color": "#379348"
-                    }
-                ],
-                "newUntil": "1709251200",
-                "type": "newsEntry",
-                "listingSize": "large",
-                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
-                "thumbnail": {
-                    "small": {
-                        "title": "Thumb.png",
-                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=180&h=99&f=center&fit=fill",
-                        "width": 180,
-                        "height": 99
-                    },
-                    "smallRetina": {
-                        "title": "Thumb.png",
-                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=360&h=197&f=center&fit=fill",
-                        "width": 360,
-                        "height": 197
-                    },
-                    "medium": {
-                        "title": "Thumb.png",
-                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=450&h=247&f=center&fit=fill",
-                        "width": 450,
-                        "height": 247
-                    },
-                    "mediumRetina": {
-                        "title": "Thumb.png",
-                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=540&h=296&f=center&fit=fill",
-                        "width": 540,
-                        "height": 296
-                    },
-                    "large": {
-                        "title": "Thumb.png",
-                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=720&h=394&f=center&fit=fill",
-                        "width": 720,
-                        "height": 394
-                    },
-                    "largeRetina": {
-                        "title": "Thumb.png",
-                        "path": "/cf7umh1jvp53/1FkfHnG2KUHawdg5fkuztc/39ee1e4e1fcf82ae91aab11aca74ef15/Thumb.png?w=900&h=493&f=center&fit=fill",
-                        "width": 900,
-                        "height": 493
-                    }
-                },
-                "heroImage": {
-                    "small": {
-                        "title": "Hero.png",
-                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=390&h=130&f=center",
-                        "width": 390,
-                        "height": 130
-                    },
-                    "smallRetina": {
-                        "title": "Hero.png",
-                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=780&h=260&f=center",
-                        "width": 780,
-                        "height": 260
-                    },
-                    "medium": {
-                        "title": "Hero.png",
-                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=975&h=325&f=center",
-                        "width": 975,
-                        "height": 325
-                    },
-                    "mediumRetina": {
-                        "title": "Hero.png",
-                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=1170&h=390&f=center",
-                        "width": 1170,
-                        "height": 390
-                    },
-                    "large": {
-                        "title": "Hero.png",
-                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=1560&h=520&f=center",
-                        "width": 1560,
-                        "height": 520
-                    },
-                    "largeRetina": {
-                        "title": "Hero.png",
-                        "path": "/cf7umh1jvp53/1OdNGUSiZAmi9xCmfaMXCu/46f152c613d0a8dd1eeec71b7d965449/Hero.png?w=1950&h=650&f=center",
-                        "width": 1950,
-                        "height": 650
-                    }
-                },
-                "details": {
-                    "0": {
-                        "title": "Anniversary Update!",
-                        "order": "0",
-                        "type": "textBlock",
-                        "body": "<p>We&#39;re thrilled to announce that the 10th-anniversary update is now live! We can&#39;t wait for you to explore all the features that we have been working on!</p><p>Below, you&#39;ll be able to find all the details of this update.</p>"
-                    },
-                    "1": {
-                        "title": "Changes and fixes",
-                        "order": "1",
-                        "type": "textBlock",
-                        "body": "<p><b>Bug fixes:</b></p><p>\u25cf Building attack speed bonus now correctly applies to all buildings, previously the effect was smaller than displayed for slow firing units;\n\u25cf Fixed building attack speed / life leech bonus being incorrectly shown on enemy buildings when the player has activated it;\n\u25cf Fixed a case where the battle ends too early if a shielded Headquarters was being attacked by laser type damage only;\n\u25cf Fixed scores and resource amounts sometimes not being updated in the UI;\n\u25cf Fixed Mega Crab bonus reward rounding. When players had resource reward statues, displayed rewards differed from those received;\n\u25cf Fixed battle ending before chopper spawns units if chopper is the last troop;\n\u25cf Fixes in music loops and transition;\n\u25cf Fixed crash when rapidly upgrading buildings. </p><p><b>Gameplay and balance changes:\n</b>\n\u25cf VP chest timer is increased to 6 hours;\n\u25cf Streamlined HQ1 - HQ4 progress by unlocking buildings only when they become useful. </p><p><b>UI changes: \n</b>\n\u25cf Implemented a new Warships battle HUD, which displays the state of each Engine Room separately. The engines are displayed from left to right as they are situated in the base;\n\u25cf Removed separate use button for classified items. They can now be used from the speedup popup;\n\u25cf Unit boost multinode info now shows the stat increase gained from the boost;\n\u25cf Fixed dark mode cloud color on the edges of the screen;\n\u25cf Building suggestor UI fixes;\n\u25cf Changed beam extension statistic to percentage in troop info;\n\u25cf Melon Bombardier info screen now shows bonus damage from projectile shrapnel;\n\u25cf Updated loading tips, added one for using creator codes;\n\u25cf Updated Mech and CryoBombardier texts to include info about stunning and changing targets.</p><p><b>Advertisements:</b></p><p>\u25cf Added the possibility to watch an ad for extra rewards when opening the daily chest in the shop;\n\u25cf Added a beach chest. It allows a player to receive random rewards by watching an ad. </p>"
-                    },
-                    "2": {
-                        "title": "New Features",
-                        "order": "2",
-                        "type": "textBlock",
-                        "body": "<p><b>New decorations:</b></p><p>\u25cf During March, players can unlock a commemorative 10th anniversary statue;\n\u25cf Anniversary Crab now features a new reward statue. </p><p><b>Mystical Monument:</b></p><p>\u25cf New ornamental building which becomes available at HQ 20;\n\u25cf Each upgrade costs one of four random resources. These options can be rerolled with gems.\n\u25cf The monument has visual upgrades at levels 1,100,200,300;\n\u25cf The monument gives random bonuses at a rate of one every 20 levels on average. These bonuses do not affect combat balance. </p><p><b>Seasonal Campaign:</b></p><p>\u25cf Campaign becomes available at HQ 5;\n\u25cf Campaign seasons start at the same time as Warships seasons and last until the next season starts;\n\u25cf A set of missions is unlocked each week;\n\u25cf Completing missions award progress on the reward track;\n\u25cf This reward track contains both regular and premium rewards: Regular reward track contains chests, with contents identical to Supply Chests;\n</p><ul><li><p>Players can purchase a Boom Pass to unlock premium rewards;</p></li><li><p>Boom Pass holders can purchase progress on the track using gems;</p></li><li><p>Rewards must be claimed before the season ends.\n</p></li></ul><p><b>New unique items from premium reward track:</b>\n\u25cf Enhanced Admiral\u2019s Key: Boom Pass contains full access to the current Warships season. This access is granted when Boom Pass is purchased, regardless of Headquarters level;\n\u25cf New currency: Build Tokens: Build Tokens can be used to start building upgrades when the builder is busy;\n\u25cf Sculptor gains extra slots to queue statues for sculpting: These expire at the end of the season, but assigned statues will be completed;\n\u25cf Optimizers: These come in three variations: building, unit upgrade and sculpting. They give a percentage reduction to the time required. This bonus increases as you claim more optimizers. Bonus is applied when a project starts, so it is not added retroactively to ongoing projects. Optimizer bonuses expire at the end of the season but projects started during the season enjoy full benefits even if the season ends;\n\u25cf Skins: Once unlocked, skins are permanently available. Skin menu for the island, buildings and troops can be accessed from Headquarters.</p><p></p>"
                     }
                 }
             }

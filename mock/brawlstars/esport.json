@@ -2,8 +2,682 @@
     "entries": {
         "esportNewsEntries": [
             {
-                "id": "28H8biAsy1kaHDt9fi1xpR",
+                "id": "5oH3hbPHUCb0qqkthcLnrZ",
                 "index": 0,
+                "targeting": null,
+                "metadata": {
+                    "id": "5oH3hbPHUCb0qqkthcLnrZ",
+                    "publishedVersion": 10,
+                    "publishedAt": "2024-06-07T16:38:37.659Z"
+                },
+                "postDate": "1717778317",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "TOP 10 BEST Brawl Esports Moments with Bobby (May)",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1718108468",
+                "esportRegions": [
+                    "APAC",
+                    "EMEA",
+                    "LATAM S",
+                    "NA & LATAM N"
+                ],
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "4sqkQzC98aJli85ZSKLv3v",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/LlWAyOWim-E?feature=shared"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "Top_10_Best_Plays_-_May_Bobby.png",
+                        "path": "/xdjcscmv3zo3/6mnp3ne6FhEVaqDLJzAeMA/ab8aa8302c056b2a3aab3c19e26deba0/Top_10_Best_Plays_-_May_Bobby.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "Top_10_Best_Plays_-_May_Bobby.png",
+                        "path": "/xdjcscmv3zo3/6mnp3ne6FhEVaqDLJzAeMA/ab8aa8302c056b2a3aab3c19e26deba0/Top_10_Best_Plays_-_May_Bobby.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "Top_10_Best_Plays_-_May_Bobby.png",
+                        "path": "/xdjcscmv3zo3/6mnp3ne6FhEVaqDLJzAeMA/ab8aa8302c056b2a3aab3c19e26deba0/Top_10_Best_Plays_-_May_Bobby.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "Top_10_Best_Plays_-_May_Bobby.png",
+                        "path": "/xdjcscmv3zo3/6mnp3ne6FhEVaqDLJzAeMA/ab8aa8302c056b2a3aab3c19e26deba0/Top_10_Best_Plays_-_May_Bobby.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "Top_10_Best_Plays_-_May_Bobby.png",
+                        "path": "/xdjcscmv3zo3/6mnp3ne6FhEVaqDLJzAeMA/ab8aa8302c056b2a3aab3c19e26deba0/Top_10_Best_Plays_-_May_Bobby.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "Top_10_Best_Plays_-_May_Bobby.png",
+                        "path": "/xdjcscmv3zo3/6mnp3ne6FhEVaqDLJzAeMA/ab8aa8302c056b2a3aab3c19e26deba0/Top_10_Best_Plays_-_May_Bobby.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "7bB1rsPCSQTx4NeoU4egEx",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
+                    "id": "7bB1rsPCSQTx4NeoU4egEx",
+                    "publishedVersion": 5,
+                    "publishedAt": "2024-05-27T16:35:35.787Z"
+                },
+                "postDate": "1716827735",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Congrats Motomamis FA!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1718108468",
+                "esportRegions": [
+                    "NA & LATAM N"
+                ],
+                "type": "externalNewsEntry",
+                "url": "https://x.com/Brawl_esports/status/1794894820709945693",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "BSC MF Winners Moto SPS.png",
+                        "path": "/xdjcscmv3zo3/7BiMIhm4cqwbrkTeko8bs5/6ef97092a7ac13262559c640d2dfbfa1/BSC_MF_Winners_Moto_SPS.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "BSC MF Winners Moto SPS.png",
+                        "path": "/xdjcscmv3zo3/7BiMIhm4cqwbrkTeko8bs5/6ef97092a7ac13262559c640d2dfbfa1/BSC_MF_Winners_Moto_SPS.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "BSC MF Winners Moto SPS.png",
+                        "path": "/xdjcscmv3zo3/7BiMIhm4cqwbrkTeko8bs5/6ef97092a7ac13262559c640d2dfbfa1/BSC_MF_Winners_Moto_SPS.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "BSC MF Winners Moto SPS.png",
+                        "path": "/xdjcscmv3zo3/7BiMIhm4cqwbrkTeko8bs5/6ef97092a7ac13262559c640d2dfbfa1/BSC_MF_Winners_Moto_SPS.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "BSC MF Winners Moto SPS.png",
+                        "path": "/xdjcscmv3zo3/7BiMIhm4cqwbrkTeko8bs5/6ef97092a7ac13262559c640d2dfbfa1/BSC_MF_Winners_Moto_SPS.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "BSC MF Winners Moto SPS.png",
+                        "path": "/xdjcscmv3zo3/7BiMIhm4cqwbrkTeko8bs5/6ef97092a7ac13262559c640d2dfbfa1/BSC_MF_Winners_Moto_SPS.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "5Bm3YxgBi59LzoQLV3BHzF",
+                "index": 2,
+                "targeting": null,
+                "metadata": {
+                    "id": "5Bm3YxgBi59LzoQLV3BHzF",
+                    "publishedVersion": 4,
+                    "publishedAt": "2024-05-27T16:34:44.373Z"
+                },
+                "postDate": "1716827684",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Congrats F/A MiniPekkas!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1718108468",
+                "esportRegions": [
+                    "LATAM S"
+                ],
+                "type": "externalNewsEntry",
+                "url": "https://x.com/Brawl_esports/status/1794805747416699227",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "BSC MF Winners MiniPekkas SPS.png",
+                        "path": "/xdjcscmv3zo3/2T8IkY9vf7BAAb95tIoRBd/0d37d8e6a305f99079459bb7cb4ad422/BSC_MF_Winners_MiniPekkas_SPS.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "BSC MF Winners MiniPekkas SPS.png",
+                        "path": "/xdjcscmv3zo3/2T8IkY9vf7BAAb95tIoRBd/0d37d8e6a305f99079459bb7cb4ad422/BSC_MF_Winners_MiniPekkas_SPS.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "BSC MF Winners MiniPekkas SPS.png",
+                        "path": "/xdjcscmv3zo3/2T8IkY9vf7BAAb95tIoRBd/0d37d8e6a305f99079459bb7cb4ad422/BSC_MF_Winners_MiniPekkas_SPS.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "BSC MF Winners MiniPekkas SPS.png",
+                        "path": "/xdjcscmv3zo3/2T8IkY9vf7BAAb95tIoRBd/0d37d8e6a305f99079459bb7cb4ad422/BSC_MF_Winners_MiniPekkas_SPS.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "BSC MF Winners MiniPekkas SPS.png",
+                        "path": "/xdjcscmv3zo3/2T8IkY9vf7BAAb95tIoRBd/0d37d8e6a305f99079459bb7cb4ad422/BSC_MF_Winners_MiniPekkas_SPS.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "BSC MF Winners MiniPekkas SPS.png",
+                        "path": "/xdjcscmv3zo3/2T8IkY9vf7BAAb95tIoRBd/0d37d8e6a305f99079459bb7cb4ad422/BSC_MF_Winners_MiniPekkas_SPS.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "713LZ29nlkPmIfsfmoIo50",
+                "index": 3,
+                "targeting": null,
+                "metadata": {
+                    "id": "713LZ29nlkPmIfsfmoIo50",
+                    "publishedVersion": 9,
+                    "publishedAt": "2024-05-27T16:33:43.171Z"
+                },
+                "postDate": "1716827623",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Congrats Reply Totem!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1718108468",
+                "esportRegions": [
+                    "EMEA"
+                ],
+                "type": "externalNewsEntry",
+                "url": "https://x.com/Brawl_esports/status/1794401010842210465",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "BSC MF Winners Reply Totem SPS.png",
+                        "path": "/xdjcscmv3zo3/1M0BFbntwAwJutIdLvvjP4/64c17f930dd0e001505d5e5d786c50a0/BSC_MF_Winners_Reply_Totem_SPS.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "BSC MF Winners Reply Totem SPS.png",
+                        "path": "/xdjcscmv3zo3/1M0BFbntwAwJutIdLvvjP4/64c17f930dd0e001505d5e5d786c50a0/BSC_MF_Winners_Reply_Totem_SPS.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "BSC MF Winners Reply Totem SPS.png",
+                        "path": "/xdjcscmv3zo3/1M0BFbntwAwJutIdLvvjP4/64c17f930dd0e001505d5e5d786c50a0/BSC_MF_Winners_Reply_Totem_SPS.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "BSC MF Winners Reply Totem SPS.png",
+                        "path": "/xdjcscmv3zo3/1M0BFbntwAwJutIdLvvjP4/64c17f930dd0e001505d5e5d786c50a0/BSC_MF_Winners_Reply_Totem_SPS.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "BSC MF Winners Reply Totem SPS.png",
+                        "path": "/xdjcscmv3zo3/1M0BFbntwAwJutIdLvvjP4/64c17f930dd0e001505d5e5d786c50a0/BSC_MF_Winners_Reply_Totem_SPS.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "BSC MF Winners Reply Totem SPS.png",
+                        "path": "/xdjcscmv3zo3/1M0BFbntwAwJutIdLvvjP4/64c17f930dd0e001505d5e5d786c50a0/BSC_MF_Winners_Reply_Totem_SPS.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "4TtrUOeXtJqoypdez2EgTj",
+                "index": 4,
+                "targeting": null,
+                "metadata": {
+                    "id": "4TtrUOeXtJqoypdez2EgTj",
+                    "publishedVersion": 8,
+                    "publishedAt": "2024-05-27T16:32:42.599Z"
+                },
+                "postDate": "1716827562",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Congrats Coco Loco!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1718108468",
+                "esportRegions": [
+                    "APAC"
+                ],
+                "type": "externalNewsEntry",
+                "url": "https://x.com/Brawl_esports/status/1794319339770073222",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "BSC MF Winners Coco Loco SPS.png",
+                        "path": "/xdjcscmv3zo3/6OA1P6u6ZrSVVy9XAO8GOk/e8e8a3d3c4a7a17e2972ce4bd51e30be/BSC_MF_Winners_Coco_Loco_SPS.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "BSC MF Winners Coco Loco SPS.png",
+                        "path": "/xdjcscmv3zo3/6OA1P6u6ZrSVVy9XAO8GOk/e8e8a3d3c4a7a17e2972ce4bd51e30be/BSC_MF_Winners_Coco_Loco_SPS.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "BSC MF Winners Coco Loco SPS.png",
+                        "path": "/xdjcscmv3zo3/6OA1P6u6ZrSVVy9XAO8GOk/e8e8a3d3c4a7a17e2972ce4bd51e30be/BSC_MF_Winners_Coco_Loco_SPS.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "BSC MF Winners Coco Loco SPS.png",
+                        "path": "/xdjcscmv3zo3/6OA1P6u6ZrSVVy9XAO8GOk/e8e8a3d3c4a7a17e2972ce4bd51e30be/BSC_MF_Winners_Coco_Loco_SPS.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "BSC MF Winners Coco Loco SPS.png",
+                        "path": "/xdjcscmv3zo3/6OA1P6u6ZrSVVy9XAO8GOk/e8e8a3d3c4a7a17e2972ce4bd51e30be/BSC_MF_Winners_Coco_Loco_SPS.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "BSC MF Winners Coco Loco SPS.png",
+                        "path": "/xdjcscmv3zo3/6OA1P6u6ZrSVVy9XAO8GOk/e8e8a3d3c4a7a17e2972ce4bd51e30be/BSC_MF_Winners_Coco_Loco_SPS.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "wbKZlhfOoKHCD5ohEuKnM",
+                "index": 5,
+                "targeting": null,
+                "metadata": {
+                    "id": "wbKZlhfOoKHCD5ohEuKnM",
+                    "publishedVersion": 11,
+                    "publishedAt": "2024-05-27T10:17:08.926Z"
+                },
+                "postDate": "1716805028",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Sign up now for the All Stars LATAM!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1716850800",
+                "esportRegions": [
+                    "LATAM S"
+                ],
+                "type": "externalNewsEntry",
+                "url": "https://x.com/ecopagg/status/1794121557402333318",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "AS_SIGNUP-01.png",
+                        "path": "/xdjcscmv3zo3/6PNADBSOx2VPxCo7mqMv8h/730bfb0b04d03fdcbfe7c6ff2a19ff7b/AS_SIGNUP-01.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "AS_SIGNUP-01.png",
+                        "path": "/xdjcscmv3zo3/6PNADBSOx2VPxCo7mqMv8h/730bfb0b04d03fdcbfe7c6ff2a19ff7b/AS_SIGNUP-01.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "AS_SIGNUP-01.png",
+                        "path": "/xdjcscmv3zo3/6PNADBSOx2VPxCo7mqMv8h/730bfb0b04d03fdcbfe7c6ff2a19ff7b/AS_SIGNUP-01.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "AS_SIGNUP-01.png",
+                        "path": "/xdjcscmv3zo3/6PNADBSOx2VPxCo7mqMv8h/730bfb0b04d03fdcbfe7c6ff2a19ff7b/AS_SIGNUP-01.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "AS_SIGNUP-01.png",
+                        "path": "/xdjcscmv3zo3/6PNADBSOx2VPxCo7mqMv8h/730bfb0b04d03fdcbfe7c6ff2a19ff7b/AS_SIGNUP-01.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "AS_SIGNUP-01.png",
+                        "path": "/xdjcscmv3zo3/6PNADBSOx2VPxCo7mqMv8h/730bfb0b04d03fdcbfe7c6ff2a19ff7b/AS_SIGNUP-01.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "6f6qo7yarkicKjO4XDBYIm",
+                "index": 6,
+                "targeting": null,
+                "metadata": {
+                    "id": "6f6qo7yarkicKjO4XDBYIm",
+                    "publishedVersion": 46,
+                    "publishedAt": "2024-05-22T15:56:04.535Z"
+                },
+                "postDate": "1716159600",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Sign up to the Brawl Professional Series Last Chance Qualifiers!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1716159600",
+                "esportRegions": [
+                    "EMEA"
+                ],
+                "type": "externalNewsEntry",
+                "url": "https://x.com/brawlpseries/status/1791531369752850823?s=46",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "EN-BPS-Qualifiers-EMEA.png",
+                        "path": "/xdjcscmv3zo3/1DCSV34e9aojUHS8VrBxfF/10239f2600c064c0d4a1c2d05c11d091/EN-BPS-Qualifiers-EMEA.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "EN-BPS-Qualifiers-EMEA.png",
+                        "path": "/xdjcscmv3zo3/1DCSV34e9aojUHS8VrBxfF/10239f2600c064c0d4a1c2d05c11d091/EN-BPS-Qualifiers-EMEA.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "EN-BPS-Qualifiers-EMEA.png",
+                        "path": "/xdjcscmv3zo3/1DCSV34e9aojUHS8VrBxfF/10239f2600c064c0d4a1c2d05c11d091/EN-BPS-Qualifiers-EMEA.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "EN-BPS-Qualifiers-EMEA.png",
+                        "path": "/xdjcscmv3zo3/1DCSV34e9aojUHS8VrBxfF/10239f2600c064c0d4a1c2d05c11d091/EN-BPS-Qualifiers-EMEA.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "EN-BPS-Qualifiers-EMEA.png",
+                        "path": "/xdjcscmv3zo3/1DCSV34e9aojUHS8VrBxfF/10239f2600c064c0d4a1c2d05c11d091/EN-BPS-Qualifiers-EMEA.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "EN-BPS-Qualifiers-EMEA.png",
+                        "path": "/xdjcscmv3zo3/1DCSV34e9aojUHS8VrBxfF/10239f2600c064c0d4a1c2d05c11d091/EN-BPS-Qualifiers-EMEA.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "6rfs4HXdbVsONpw8d7KIiO",
+                "index": 7,
+                "targeting": null,
+                "metadata": {
+                    "id": "6rfs4HXdbVsONpw8d7KIiO",
+                    "publishedVersion": 8,
+                    "publishedAt": "2024-05-10T14:39:29.376Z"
+                },
+                "postDate": "1715351969",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "BSC Monthly Finals Highlights - April",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1718108468",
+                "esportRegions": [
+                    "APAC",
+                    "EMEA",
+                    "LATAM S",
+                    "NA & LATAM N"
+                ],
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "1DCZTONvtbINy2JhZRrvg2",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/AU6UnrXqx20"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "BSC MF Highlights April.png",
+                        "path": "/xdjcscmv3zo3/6Y2vNHcs0Zvm1NB0rWPiYr/f497b8263eac6f89d9a3cee2a337e11c/BSC_MF_Highlights_April.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "BSC MF Highlights April.png",
+                        "path": "/xdjcscmv3zo3/6Y2vNHcs0Zvm1NB0rWPiYr/f497b8263eac6f89d9a3cee2a337e11c/BSC_MF_Highlights_April.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "BSC MF Highlights April.png",
+                        "path": "/xdjcscmv3zo3/6Y2vNHcs0Zvm1NB0rWPiYr/f497b8263eac6f89d9a3cee2a337e11c/BSC_MF_Highlights_April.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "BSC MF Highlights April.png",
+                        "path": "/xdjcscmv3zo3/6Y2vNHcs0Zvm1NB0rWPiYr/f497b8263eac6f89d9a3cee2a337e11c/BSC_MF_Highlights_April.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "BSC MF Highlights April.png",
+                        "path": "/xdjcscmv3zo3/6Y2vNHcs0Zvm1NB0rWPiYr/f497b8263eac6f89d9a3cee2a337e11c/BSC_MF_Highlights_April.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "BSC MF Highlights April.png",
+                        "path": "/xdjcscmv3zo3/6Y2vNHcs0Zvm1NB0rWPiYr/f497b8263eac6f89d9a3cee2a337e11c/BSC_MF_Highlights_April.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "rLO1czYYzCoocfwt1DaDg",
+                "index": 8,
+                "targeting": null,
+                "metadata": {
+                    "id": "rLO1czYYzCoocfwt1DaDg",
+                    "publishedVersion": 39,
+                    "publishedAt": "2024-05-09T12:03:10.194Z"
+                },
+                "postDate": "1715248800",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "Register today for the Brawl Ball League Open Qualifiers! ",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1715382000",
+                "esportRegions": [
+                    "EMEA"
+                ],
+                "type": "externalNewsEntry",
+                "url": "https://twitter.com/BrawlBallLeague/status/1788208098412290557",
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "EN Brawl Ball League Open Qualifiers.png",
+                        "path": "/xdjcscmv3zo3/78sbyswrsiANLQLtMX2ffr/7f119d2309cb33b5aedec3bc49d240a2/EN_Brawl_Ball_League_Open_Qualifiers.png?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "EN Brawl Ball League Open Qualifiers.png",
+                        "path": "/xdjcscmv3zo3/78sbyswrsiANLQLtMX2ffr/7f119d2309cb33b5aedec3bc49d240a2/EN_Brawl_Ball_League_Open_Qualifiers.png?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "EN Brawl Ball League Open Qualifiers.png",
+                        "path": "/xdjcscmv3zo3/78sbyswrsiANLQLtMX2ffr/7f119d2309cb33b5aedec3bc49d240a2/EN_Brawl_Ball_League_Open_Qualifiers.png?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "EN Brawl Ball League Open Qualifiers.png",
+                        "path": "/xdjcscmv3zo3/78sbyswrsiANLQLtMX2ffr/7f119d2309cb33b5aedec3bc49d240a2/EN_Brawl_Ball_League_Open_Qualifiers.png?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "EN Brawl Ball League Open Qualifiers.png",
+                        "path": "/xdjcscmv3zo3/78sbyswrsiANLQLtMX2ffr/7f119d2309cb33b5aedec3bc49d240a2/EN_Brawl_Ball_League_Open_Qualifiers.png?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "EN Brawl Ball League Open Qualifiers.png",
+                        "path": "/xdjcscmv3zo3/78sbyswrsiANLQLtMX2ffr/7f119d2309cb33b5aedec3bc49d240a2/EN_Brawl_Ball_League_Open_Qualifiers.png?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "5t4iUP9KhemOWA7xaTKnWv",
+                "index": 9,
+                "targeting": null,
+                "metadata": {
+                    "id": "5t4iUP9KhemOWA7xaTKnWv",
+                    "publishedVersion": 9,
+                    "publishedAt": "2024-05-02T17:20:56.513Z"
+                },
+                "postDate": "1714670456",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "TOP 10 BEST Brawl Esports Moments with Symantec",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#0000ff"
+                    }
+                ],
+                "newUntil": "1718108468",
+                "esportRegions": [
+                    "APAC",
+                    "EMEA",
+                    "LATAM S",
+                    "NA & LATAM N"
+                ],
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "2fJDvxcJ9OuO9MCA4s2HMA",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/WHBsjzc_f_g?feature=shared"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "WHBsjzc_f_g-HD.jpg",
+                        "path": "/xdjcscmv3zo3/20K3URz3uC0aRzvJVKuUXt/2e446fa4a25e3a25772a896484e2d08b/WHBsjzc_f_g-HD.jpg?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "WHBsjzc_f_g-HD.jpg",
+                        "path": "/xdjcscmv3zo3/20K3URz3uC0aRzvJVKuUXt/2e446fa4a25e3a25772a896484e2d08b/WHBsjzc_f_g-HD.jpg?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "WHBsjzc_f_g-HD.jpg",
+                        "path": "/xdjcscmv3zo3/20K3URz3uC0aRzvJVKuUXt/2e446fa4a25e3a25772a896484e2d08b/WHBsjzc_f_g-HD.jpg?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "WHBsjzc_f_g-HD.jpg",
+                        "path": "/xdjcscmv3zo3/20K3URz3uC0aRzvJVKuUXt/2e446fa4a25e3a25772a896484e2d08b/WHBsjzc_f_g-HD.jpg?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "WHBsjzc_f_g-HD.jpg",
+                        "path": "/xdjcscmv3zo3/20K3URz3uC0aRzvJVKuUXt/2e446fa4a25e3a25772a896484e2d08b/WHBsjzc_f_g-HD.jpg?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "WHBsjzc_f_g-HD.jpg",
+                        "path": "/xdjcscmv3zo3/20K3URz3uC0aRzvJVKuUXt/2e446fa4a25e3a25772a896484e2d08b/WHBsjzc_f_g-HD.jpg?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                }
+            },
+            {
+                "id": "28H8biAsy1kaHDt9fi1xpR",
+                "index": 10,
                 "targeting": null,
                 "metadata": {
                     "id": "28H8biAsy1kaHDt9fi1xpR",
@@ -20,7 +694,7 @@
                         "color": "#0000ff"
                     }
                 ],
-                "newUntil": "1714124039",
+                "newUntil": "1718108468",
                 "esportRegions": [
                     "APAC",
                     "EMEA",
@@ -75,73 +749,8 @@
                 }
             },
             {
-                "id": "4PzjAf434lHi7KRfSd2Z5x",
-                "index": 1,
-                "targeting": null,
-                "metadata": {
-                    "id": "4PzjAf434lHi7KRfSd2Z5x",
-                    "publishedVersion": 20,
-                    "publishedAt": "2024-04-17T03:24:03.923Z"
-                },
-                "postDate": "1713271451",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "Register now to the LPL Brawl Stars Asia Pacific Tour! ",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1713308340",
-                "esportRegions": [
-                    "APAC"
-                ],
-                "type": "externalNewsEntry",
-                "url": "https://letsplay.live/brawl-stars/",
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "LPL-Carousel-Guide-SIGN-UP.png",
-                        "path": "/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "LPL-Carousel-Guide-SIGN-UP.png",
-                        "path": "/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "LPL-Carousel-Guide-SIGN-UP.png",
-                        "path": "/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "LPL-Carousel-Guide-SIGN-UP.png",
-                        "path": "/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "LPL-Carousel-Guide-SIGN-UP.png",
-                        "path": "/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "LPL-Carousel-Guide-SIGN-UP.png",
-                        "path": "/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
-            },
-            {
                 "id": "5d1MZH2PnR7g4mg2MqrFHt",
-                "index": 2,
+                "index": 11,
                 "targeting": null,
                 "metadata": {
                     "id": "5d1MZH2PnR7g4mg2MqrFHt",
@@ -158,7 +767,7 @@
                         "color": "#0000ff"
                     }
                 ],
-                "newUntil": "1714124039",
+                "newUntil": "1718108468",
                 "esportRegions": [
                     "APAC",
                     "EMEA",
@@ -214,7 +823,7 @@
             },
             {
                 "id": "7GwDjKP31apGCdVVHHi6fz",
-                "index": 3,
+                "index": 12,
                 "targeting": null,
                 "metadata": {
                     "id": "7GwDjKP31apGCdVVHHi6fz",
@@ -231,7 +840,7 @@
                         "color": "#0000ff"
                     }
                 ],
-                "newUntil": "1714124039",
+                "newUntil": "1718108468",
                 "esportRegions": [
                     "APAC",
                     "EMEA",
@@ -287,7 +896,7 @@
             },
             {
                 "id": "2D5NkMA6UNAMH6IGHDjbRu",
-                "index": 4,
+                "index": 13,
                 "targeting": null,
                 "metadata": {
                     "id": "2D5NkMA6UNAMH6IGHDjbRu",
@@ -352,7 +961,7 @@
             },
             {
                 "id": "3KQIF9Lws4q8uK942YB4Mw",
-                "index": 5,
+                "index": 14,
                 "targeting": null,
                 "metadata": {
                     "id": "3KQIF9Lws4q8uK942YB4Mw",
@@ -417,7 +1026,7 @@
             },
             {
                 "id": "1LHVUeRVwE3KrWZMO8EysX",
-                "index": 6,
+                "index": 15,
                 "targeting": null,
                 "metadata": {
                     "id": "1LHVUeRVwE3KrWZMO8EysX",
@@ -482,7 +1091,7 @@
             },
             {
                 "id": "25sByXWmLSkwJB3H5dRWP8",
-                "index": 7,
+                "index": 16,
                 "targeting": null,
                 "metadata": {
                     "id": "25sByXWmLSkwJB3H5dRWP8",
@@ -499,7 +1108,7 @@
                         "color": "#0000ff"
                     }
                 ],
-                "newUntil": "1714124039",
+                "newUntil": "1718108468",
                 "esportRegions": [
                     "APAC"
                 ],
@@ -544,1022 +1153,9 @@
                         "height": 433
                     }
                 }
-            },
-            {
-                "id": "3kgWc4v2QeR7MBi71APPAT",
-                "index": 8,
-                "targeting": null,
-                "metadata": {
-                    "id": "3kgWc4v2QeR7MBi71APPAT",
-                    "publishedVersion": 7,
-                    "publishedAt": "2024-03-08T17:09:07.279Z"
-                },
-                "postDate": "1709917747",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "Tribe Gaming Roster is BACK!",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1714124039",
-                "esportRegions": [
-                    "NA & LATAM N"
-                ],
-                "type": "externalNewsEntry",
-                "url": "https://twitter.com/TribeGaming/status/1766147396063342873",
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "16X9 NO SPONSORS.png",
-                        "path": "/xdjcscmv3zo3/1JTFa1tdsR496LjW0wkszY/e357b33d19f2e0639146897cac9cbbbc/16X9_NO_SPONSORS.png?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "16X9 NO SPONSORS.png",
-                        "path": "/xdjcscmv3zo3/1JTFa1tdsR496LjW0wkszY/e357b33d19f2e0639146897cac9cbbbc/16X9_NO_SPONSORS.png?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "16X9 NO SPONSORS.png",
-                        "path": "/xdjcscmv3zo3/1JTFa1tdsR496LjW0wkszY/e357b33d19f2e0639146897cac9cbbbc/16X9_NO_SPONSORS.png?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "16X9 NO SPONSORS.png",
-                        "path": "/xdjcscmv3zo3/1JTFa1tdsR496LjW0wkszY/e357b33d19f2e0639146897cac9cbbbc/16X9_NO_SPONSORS.png?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "16X9 NO SPONSORS.png",
-                        "path": "/xdjcscmv3zo3/1JTFa1tdsR496LjW0wkszY/e357b33d19f2e0639146897cac9cbbbc/16X9_NO_SPONSORS.png?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "16X9 NO SPONSORS.png",
-                        "path": "/xdjcscmv3zo3/1JTFa1tdsR496LjW0wkszY/e357b33d19f2e0639146897cac9cbbbc/16X9_NO_SPONSORS.png?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
-            },
-            {
-                "id": "vZwVqdgfE6GeclPp6HNrn",
-                "index": 9,
-                "targeting": null,
-                "metadata": {
-                    "id": "vZwVqdgfE6GeclPp6HNrn",
-                    "publishedVersion": 8,
-                    "publishedAt": "2024-03-07T21:03:19.767Z"
-                },
-                "postDate": "1709845399",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "FUT 2024 Roster Reveal",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1714124039",
-                "esportRegions": [
-                    "EMEA"
-                ],
-                "type": "externalNewsEntry",
-                "url": "https://twitter.com/FUTesportsgg/status/1765754465250910230",
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "IMG_0118.PNG",
-                        "path": "/xdjcscmv3zo3/58n0G42FfhgpE8l0XfSWa6/13b822c20e25989859e7de84304710bb/IMG_0118.PNG?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "IMG_0118.PNG",
-                        "path": "/xdjcscmv3zo3/58n0G42FfhgpE8l0XfSWa6/13b822c20e25989859e7de84304710bb/IMG_0118.PNG?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "IMG_0118.PNG",
-                        "path": "/xdjcscmv3zo3/58n0G42FfhgpE8l0XfSWa6/13b822c20e25989859e7de84304710bb/IMG_0118.PNG?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "IMG_0118.PNG",
-                        "path": "/xdjcscmv3zo3/58n0G42FfhgpE8l0XfSWa6/13b822c20e25989859e7de84304710bb/IMG_0118.PNG?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "IMG_0118.PNG",
-                        "path": "/xdjcscmv3zo3/58n0G42FfhgpE8l0XfSWa6/13b822c20e25989859e7de84304710bb/IMG_0118.PNG?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "IMG_0118.PNG",
-                        "path": "/xdjcscmv3zo3/58n0G42FfhgpE8l0XfSWa6/13b822c20e25989859e7de84304710bb/IMG_0118.PNG?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
-            },
-            {
-                "id": "5L7RUjfGVWpwb2WbQsdJB8",
-                "index": 10,
-                "targeting": null,
-                "metadata": {
-                    "id": "5L7RUjfGVWpwb2WbQsdJB8",
-                    "publishedVersion": 30,
-                    "publishedAt": "2024-03-11T07:47:54.938Z"
-                },
-                "postDate": "1709305976",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "BSC Partner Program",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1714124039",
-                "esportRegions": [
-                    "APAC"
-                ],
-                "type": "externalNewsEntry",
-                "url": "https://supercell.com/en/games/brawlstars/blog/esports/brawl-esports-partner-program/",
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "BSC Wallpaper.png",
-                        "path": "/xdjcscmv3zo3/1KjjuqYGw27qfbvYS8AMKs/321ec34672a893c47d281ce2a8a151fd/BSC_Wallpaper.png?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "BSC Wallpaper.png",
-                        "path": "/xdjcscmv3zo3/1KjjuqYGw27qfbvYS8AMKs/321ec34672a893c47d281ce2a8a151fd/BSC_Wallpaper.png?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "BSC Wallpaper.png",
-                        "path": "/xdjcscmv3zo3/1KjjuqYGw27qfbvYS8AMKs/321ec34672a893c47d281ce2a8a151fd/BSC_Wallpaper.png?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "BSC Wallpaper.png",
-                        "path": "/xdjcscmv3zo3/1KjjuqYGw27qfbvYS8AMKs/321ec34672a893c47d281ce2a8a151fd/BSC_Wallpaper.png?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "BSC Wallpaper.png",
-                        "path": "/xdjcscmv3zo3/1KjjuqYGw27qfbvYS8AMKs/321ec34672a893c47d281ce2a8a151fd/BSC_Wallpaper.png?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "BSC Wallpaper.png",
-                        "path": "/xdjcscmv3zo3/1KjjuqYGw27qfbvYS8AMKs/321ec34672a893c47d281ce2a8a151fd/BSC_Wallpaper.png?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
-            },
-            {
-                "id": "190KMbEooI5d59iUlQn2yI",
-                "index": 11,
-                "targeting": null,
-                "metadata": {
-                    "id": "190KMbEooI5d59iUlQn2yI",
-                    "publishedVersion": 9,
-                    "publishedAt": "2024-02-27T17:06:32.671Z"
-                },
-                "postDate": "1709053592",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "UN NUEVO DESPERTAR | TEAM QUESO ROAD TO #BSC2024 \ud83e\uddc0\ud83d\udc99",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1714124039",
-                "esportRegions": [
-                    "LATAM S"
-                ],
-                "type": "videoNewsEntry",
-                "embed": {
-                    "id": "dGxCqOhmWtJJTI4BugJQp",
-                    "provider": "youtube",
-                    "url": "https://youtu.be/VJuYLU9oxPI?si=E7YKOqZ0LaAgmdZc"
-                },
-                "embedVideo": false,
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/7eRtLX4LvsVROVM2FKnmCh/3fe8b7599af1b52ec4de60f427bd5b5b/maxresdefault__1_.jpg?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/7eRtLX4LvsVROVM2FKnmCh/3fe8b7599af1b52ec4de60f427bd5b5b/maxresdefault__1_.jpg?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/7eRtLX4LvsVROVM2FKnmCh/3fe8b7599af1b52ec4de60f427bd5b5b/maxresdefault__1_.jpg?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/7eRtLX4LvsVROVM2FKnmCh/3fe8b7599af1b52ec4de60f427bd5b5b/maxresdefault__1_.jpg?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/7eRtLX4LvsVROVM2FKnmCh/3fe8b7599af1b52ec4de60f427bd5b5b/maxresdefault__1_.jpg?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/7eRtLX4LvsVROVM2FKnmCh/3fe8b7599af1b52ec4de60f427bd5b5b/maxresdefault__1_.jpg?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
-            },
-            {
-                "id": "1LoxtPvCRLbfIKMInJsZ52",
-                "index": 12,
-                "targeting": null,
-                "metadata": {
-                    "id": "1LoxtPvCRLbfIKMInJsZ52",
-                    "publishedVersion": 8,
-                    "publishedAt": "2024-02-22T17:10:07.986Z"
-                },
-                "postDate": "1708621807",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "Spacestation Gaming Joins the BSC!",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1714124039",
-                "esportRegions": [
-                    "NA & LATAM N"
-                ],
-                "type": "externalNewsEntry",
-                "url": "https://twitter.com/Spacestation/status/1760711063970959561",
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "GG9No3TWgAAiiqS.jpg",
-                        "path": "/xdjcscmv3zo3/1GCmhgwiwW9Ciomge6AhE6/3b72a3be8b876741a3427649092c2740/GG9No3TWgAAiiqS.jpg?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "GG9No3TWgAAiiqS.jpg",
-                        "path": "/xdjcscmv3zo3/1GCmhgwiwW9Ciomge6AhE6/3b72a3be8b876741a3427649092c2740/GG9No3TWgAAiiqS.jpg?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "GG9No3TWgAAiiqS.jpg",
-                        "path": "/xdjcscmv3zo3/1GCmhgwiwW9Ciomge6AhE6/3b72a3be8b876741a3427649092c2740/GG9No3TWgAAiiqS.jpg?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "GG9No3TWgAAiiqS.jpg",
-                        "path": "/xdjcscmv3zo3/1GCmhgwiwW9Ciomge6AhE6/3b72a3be8b876741a3427649092c2740/GG9No3TWgAAiiqS.jpg?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "GG9No3TWgAAiiqS.jpg",
-                        "path": "/xdjcscmv3zo3/1GCmhgwiwW9Ciomge6AhE6/3b72a3be8b876741a3427649092c2740/GG9No3TWgAAiiqS.jpg?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "GG9No3TWgAAiiqS.jpg",
-                        "path": "/xdjcscmv3zo3/1GCmhgwiwW9Ciomge6AhE6/3b72a3be8b876741a3427649092c2740/GG9No3TWgAAiiqS.jpg?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
-            },
-            {
-                "id": "7BVTiuDpfYwvhVGjGiW3Ch",
-                "index": 13,
-                "targeting": null,
-                "metadata": {
-                    "id": "7BVTiuDpfYwvhVGjGiW3Ch",
-                    "publishedVersion": 15,
-                    "publishedAt": "2024-02-28T13:45:27.189Z"
-                },
-                "postDate": "1708300800",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "NAVI Brawl Stars 2024 Roster Announcement",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1714124039",
-                "esportRegions": [
-                    "EMEA",
-                    "APAC"
-                ],
-                "type": "videoNewsEntry",
-                "embed": {
-                    "id": "61zFyzXRM1zen6eOb8ZNPz",
-                    "provider": "youtube",
-                    "url": "https://youtu.be/2BZtVhg55eE?feature=shared"
-                },
-                "embedVideo": false,
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "maxresdefault (2).jpg",
-                        "path": "/xdjcscmv3zo3/75ORH5SAc589nQe3KBGp3P/076d6e963ea49bdee0200dc6026ff3e5/maxresdefault__2_.jpg?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "maxresdefault (2).jpg",
-                        "path": "/xdjcscmv3zo3/75ORH5SAc589nQe3KBGp3P/076d6e963ea49bdee0200dc6026ff3e5/maxresdefault__2_.jpg?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "maxresdefault (2).jpg",
-                        "path": "/xdjcscmv3zo3/75ORH5SAc589nQe3KBGp3P/076d6e963ea49bdee0200dc6026ff3e5/maxresdefault__2_.jpg?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "maxresdefault (2).jpg",
-                        "path": "/xdjcscmv3zo3/75ORH5SAc589nQe3KBGp3P/076d6e963ea49bdee0200dc6026ff3e5/maxresdefault__2_.jpg?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "maxresdefault (2).jpg",
-                        "path": "/xdjcscmv3zo3/75ORH5SAc589nQe3KBGp3P/076d6e963ea49bdee0200dc6026ff3e5/maxresdefault__2_.jpg?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "maxresdefault (2).jpg",
-                        "path": "/xdjcscmv3zo3/75ORH5SAc589nQe3KBGp3P/076d6e963ea49bdee0200dc6026ff3e5/maxresdefault__2_.jpg?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
-            },
-            {
-                "id": "424DpOhNgxB13mDJi7vjYj",
-                "index": 14,
-                "targeting": null,
-                "metadata": {
-                    "id": "424DpOhNgxB13mDJi7vjYj",
-                    "publishedVersion": 22,
-                    "publishedAt": "2024-03-11T10:38:13.857Z"
-                },
-                "postDate": "1708214400",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "A NEW GLADIATOR: WELCOME iKAOSS (Reply Totem Brawl Stars 2024)",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1714124039",
-                "esportRegions": [
-                    "EMEA"
-                ],
-                "type": "videoNewsEntry",
-                "embed": {
-                    "id": "6CHHVTuVGOtJtyYp41L666",
-                    "provider": "youtube",
-                    "url": "https://youtu.be/0bWwDPmpuVs?si=Ztdnoq-73lzIOkci"
-                },
-                "embedVideo": false,
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "maxresdefault.jpg",
-                        "path": "/xdjcscmv3zo3/3pwL269XNPbjtfRtz5kANI/60ea9e01f8e4ada1d958ade7ff5a7576/maxresdefault.jpg?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "maxresdefault.jpg",
-                        "path": "/xdjcscmv3zo3/3pwL269XNPbjtfRtz5kANI/60ea9e01f8e4ada1d958ade7ff5a7576/maxresdefault.jpg?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "maxresdefault.jpg",
-                        "path": "/xdjcscmv3zo3/3pwL269XNPbjtfRtz5kANI/60ea9e01f8e4ada1d958ade7ff5a7576/maxresdefault.jpg?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "maxresdefault.jpg",
-                        "path": "/xdjcscmv3zo3/3pwL269XNPbjtfRtz5kANI/60ea9e01f8e4ada1d958ade7ff5a7576/maxresdefault.jpg?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "maxresdefault.jpg",
-                        "path": "/xdjcscmv3zo3/3pwL269XNPbjtfRtz5kANI/60ea9e01f8e4ada1d958ade7ff5a7576/maxresdefault.jpg?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "maxresdefault.jpg",
-                        "path": "/xdjcscmv3zo3/3pwL269XNPbjtfRtz5kANI/60ea9e01f8e4ada1d958ade7ff5a7576/maxresdefault.jpg?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
-            },
-            {
-                "id": "5VtCB7CgZ4x4RkTjfLstHg",
-                "index": 15,
-                "targeting": null,
-                "metadata": {
-                    "id": "5VtCB7CgZ4x4RkTjfLstHg",
-                    "publishedVersion": 15,
-                    "publishedAt": "2024-02-28T13:35:35.882Z"
-                },
-                "postDate": "1708128000",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "Our NEW Team is HERE! | SK Brawl Stars 2024",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#0000ff"
-                    }
-                ],
-                "newUntil": "1714124039",
-                "esportRegions": [
-                    "EMEA"
-                ],
-                "type": "videoNewsEntry",
-                "embed": {
-                    "id": "6VsfKMT3yvA0JNi2Dzb1hq",
-                    "provider": "youtube",
-                    "url": "https://youtu.be/bznFxUH4MUw?si=rKI6BrP34nk56RGC"
-                },
-                "embedVideo": false,
-                "listingSize": "large",
-                "thumbnail": {
-                    "small": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/5TA3smYpGkTlRuaV88OJIH/56b36fda2436b71887b6f55825ff785f/maxresdefault__1_.jpg?w=160&h=87&f=center&fit=fill",
-                        "width": 160,
-                        "height": 87
-                    },
-                    "smallRetina": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/5TA3smYpGkTlRuaV88OJIH/56b36fda2436b71887b6f55825ff785f/maxresdefault__1_.jpg?w=320&h=173&f=center&fit=fill",
-                        "width": 320,
-                        "height": 173
-                    },
-                    "medium": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/5TA3smYpGkTlRuaV88OJIH/56b36fda2436b71887b6f55825ff785f/maxresdefault__1_.jpg?w=400&h=217&f=center&fit=fill",
-                        "width": 400,
-                        "height": 217
-                    },
-                    "mediumRetina": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/5TA3smYpGkTlRuaV88OJIH/56b36fda2436b71887b6f55825ff785f/maxresdefault__1_.jpg?w=480&h=260&f=center&fit=fill",
-                        "width": 480,
-                        "height": 260
-                    },
-                    "large": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/5TA3smYpGkTlRuaV88OJIH/56b36fda2436b71887b6f55825ff785f/maxresdefault__1_.jpg?w=640&h=346&f=center&fit=fill",
-                        "width": 640,
-                        "height": 346
-                    },
-                    "largeRetina": {
-                        "title": "maxresdefault (1).jpg",
-                        "path": "/xdjcscmv3zo3/5TA3smYpGkTlRuaV88OJIH/56b36fda2436b71887b6f55825ff785f/maxresdefault__1_.jpg?w=800&h=433&f=center&fit=fill",
-                        "width": 800,
-                        "height": 433
-                    }
-                }
             }
         ],
         "esportCarouselEntries": [
-            {
-                "id": "4xcKWhKMbr90yAwfOAvizB",
-                "type": "liveEntry",
-                "title": "BSC April Monthly Finals",
-                "subtitle": "APAC",
-                "eventPromotionName": "APAC",
-                "eventPromotionLogo": {
-                    "small": {
-                        "title": "APAC.png",
-                        "path": "/xdjcscmv3zo3/3VtYkzbkK3us8eFt4imzCw/71326918696eb4558cf168c41c09fe65/APAC.png?w=26&h=26&f=center&fit=fill",
-                        "width": 26,
-                        "height": 26
-                    },
-                    "smallRetina": {
-                        "title": "APAC.png",
-                        "path": "/xdjcscmv3zo3/3VtYkzbkK3us8eFt4imzCw/71326918696eb4558cf168c41c09fe65/APAC.png?w=51&h=51&f=center&fit=fill",
-                        "width": 51,
-                        "height": 51
-                    },
-                    "medium": {
-                        "title": "APAC.png",
-                        "path": "/xdjcscmv3zo3/3VtYkzbkK3us8eFt4imzCw/71326918696eb4558cf168c41c09fe65/APAC.png?w=64&h=64&f=center&fit=fill",
-                        "width": 64,
-                        "height": 64
-                    },
-                    "mediumRetina": {
-                        "title": "APAC.png",
-                        "path": "/xdjcscmv3zo3/3VtYkzbkK3us8eFt4imzCw/71326918696eb4558cf168c41c09fe65/APAC.png?w=77&h=77&f=center&fit=fill",
-                        "width": 77,
-                        "height": 77
-                    },
-                    "large": {
-                        "title": "APAC.png",
-                        "path": "/xdjcscmv3zo3/3VtYkzbkK3us8eFt4imzCw/71326918696eb4558cf168c41c09fe65/APAC.png?w=102&h=102&f=center&fit=fill",
-                        "width": 102,
-                        "height": 102
-                    },
-                    "largeRetina": {
-                        "title": "APAC.png",
-                        "path": "/xdjcscmv3zo3/3VtYkzbkK3us8eFt4imzCw/71326918696eb4558cf168c41c09fe65/APAC.png?w=128&h=128&f=center&fit=fill",
-                        "width": 128,
-                        "height": 128
-                    }
-                },
-                "carouselImage": {
-                    "small": {
-                        "title": "BSC April MF Thumbnails APAC.png",
-                        "path": "/xdjcscmv3zo3/4AkaRcYqEd1piVd3keejlL/b9aa2f19f6c45afe5c46f05015cb5724/BSC_April_MF_Thumbnails_APAC.png?w=192&h=108&f=center&fit=fill",
-                        "width": 192,
-                        "height": 108
-                    },
-                    "smallRetina": {
-                        "title": "BSC April MF Thumbnails APAC.png",
-                        "path": "/xdjcscmv3zo3/4AkaRcYqEd1piVd3keejlL/b9aa2f19f6c45afe5c46f05015cb5724/BSC_April_MF_Thumbnails_APAC.png?w=384&h=216&f=center&fit=fill",
-                        "width": 384,
-                        "height": 216
-                    },
-                    "medium": {
-                        "title": "BSC April MF Thumbnails APAC.png",
-                        "path": "/xdjcscmv3zo3/4AkaRcYqEd1piVd3keejlL/b9aa2f19f6c45afe5c46f05015cb5724/BSC_April_MF_Thumbnails_APAC.png?w=480&h=270&f=center&fit=fill",
-                        "width": 480,
-                        "height": 270
-                    },
-                    "mediumRetina": {
-                        "title": "BSC April MF Thumbnails APAC.png",
-                        "path": "/xdjcscmv3zo3/4AkaRcYqEd1piVd3keejlL/b9aa2f19f6c45afe5c46f05015cb5724/BSC_April_MF_Thumbnails_APAC.png?w=576&h=324&f=center&fit=fill",
-                        "width": 576,
-                        "height": 324
-                    },
-                    "large": {
-                        "title": "BSC April MF Thumbnails APAC.png",
-                        "path": "/xdjcscmv3zo3/4AkaRcYqEd1piVd3keejlL/b9aa2f19f6c45afe5c46f05015cb5724/BSC_April_MF_Thumbnails_APAC.png?w=768&h=432&f=center&fit=fill",
-                        "width": 768,
-                        "height": 432
-                    },
-                    "largeRetina": {
-                        "title": "BSC April MF Thumbnails APAC.png",
-                        "path": "/xdjcscmv3zo3/4AkaRcYqEd1piVd3keejlL/b9aa2f19f6c45afe5c46f05015cb5724/BSC_April_MF_Thumbnails_APAC.png?w=960&h=540&f=center&fit=fill",
-                        "width": 960,
-                        "height": 540
-                    }
-                },
-                "livestreamEndTime": "2024-04-27T03:00:00.000-07:00",
-                "livestreamStartTime": "2024-04-26T23:00:00.000-07:00",
-                "readMoreButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "bYjss4EH6veCG9HX8NONP",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://event.supercell.com/brawlstars/",
-                    "label": "Remind Me!"
-                },
-                "subscribeButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "5i2pT1tcLXtA6qZ2lhbVB9",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://www.youtube.com/channel/UCjvzNXGGlnC4jcCnhglf8-Q",
-                    "label": "Subscribe!"
-                },
-                "watchLiveButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "7G7u7khjEYwnqCN7nOiAtF",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://event.supercell.com/brawlstars/",
-                    "label": "Watch Now!"
-                },
-                "esportRegions": [
-                    "APAC"
-                ]
-            },
-            {
-                "id": "fo8EQuzMUaFCAVFXYgIyP",
-                "type": "liveEntry",
-                "title": "BSC April Monthly Finals",
-                "subtitle": "EMEA",
-                "eventPromotionName": "EMEA",
-                "eventPromotionLogo": {
-                    "small": {
-                        "title": "EMEA.png",
-                        "path": "/xdjcscmv3zo3/74MBpRph0E5zpfqoqNTuRB/4409c6a3600c19d5e7cae9cf9770a3d9/EMEA.png?w=26&h=26&f=center&fit=fill",
-                        "width": 26,
-                        "height": 26
-                    },
-                    "smallRetina": {
-                        "title": "EMEA.png",
-                        "path": "/xdjcscmv3zo3/74MBpRph0E5zpfqoqNTuRB/4409c6a3600c19d5e7cae9cf9770a3d9/EMEA.png?w=51&h=51&f=center&fit=fill",
-                        "width": 51,
-                        "height": 51
-                    },
-                    "medium": {
-                        "title": "EMEA.png",
-                        "path": "/xdjcscmv3zo3/74MBpRph0E5zpfqoqNTuRB/4409c6a3600c19d5e7cae9cf9770a3d9/EMEA.png?w=64&h=64&f=center&fit=fill",
-                        "width": 64,
-                        "height": 64
-                    },
-                    "mediumRetina": {
-                        "title": "EMEA.png",
-                        "path": "/xdjcscmv3zo3/74MBpRph0E5zpfqoqNTuRB/4409c6a3600c19d5e7cae9cf9770a3d9/EMEA.png?w=77&h=77&f=center&fit=fill",
-                        "width": 77,
-                        "height": 77
-                    },
-                    "large": {
-                        "title": "EMEA.png",
-                        "path": "/xdjcscmv3zo3/74MBpRph0E5zpfqoqNTuRB/4409c6a3600c19d5e7cae9cf9770a3d9/EMEA.png?w=102&h=102&f=center&fit=fill",
-                        "width": 102,
-                        "height": 102
-                    },
-                    "largeRetina": {
-                        "title": "EMEA.png",
-                        "path": "/xdjcscmv3zo3/74MBpRph0E5zpfqoqNTuRB/4409c6a3600c19d5e7cae9cf9770a3d9/EMEA.png?w=128&h=128&f=center&fit=fill",
-                        "width": 128,
-                        "height": 128
-                    }
-                },
-                "carouselImage": {
-                    "small": {
-                        "title": "BSC April MF Thumbnails EMEA.png",
-                        "path": "/xdjcscmv3zo3/3WtHuJmPbYAONtQYYOuDvt/c9e7f5f46ad29af00cfab2d0f7a375e9/BSC_April_MF_Thumbnails_EMEA.png?w=192&h=108&f=center&fit=fill",
-                        "width": 192,
-                        "height": 108
-                    },
-                    "smallRetina": {
-                        "title": "BSC April MF Thumbnails EMEA.png",
-                        "path": "/xdjcscmv3zo3/3WtHuJmPbYAONtQYYOuDvt/c9e7f5f46ad29af00cfab2d0f7a375e9/BSC_April_MF_Thumbnails_EMEA.png?w=384&h=216&f=center&fit=fill",
-                        "width": 384,
-                        "height": 216
-                    },
-                    "medium": {
-                        "title": "BSC April MF Thumbnails EMEA.png",
-                        "path": "/xdjcscmv3zo3/3WtHuJmPbYAONtQYYOuDvt/c9e7f5f46ad29af00cfab2d0f7a375e9/BSC_April_MF_Thumbnails_EMEA.png?w=480&h=270&f=center&fit=fill",
-                        "width": 480,
-                        "height": 270
-                    },
-                    "mediumRetina": {
-                        "title": "BSC April MF Thumbnails EMEA.png",
-                        "path": "/xdjcscmv3zo3/3WtHuJmPbYAONtQYYOuDvt/c9e7f5f46ad29af00cfab2d0f7a375e9/BSC_April_MF_Thumbnails_EMEA.png?w=576&h=324&f=center&fit=fill",
-                        "width": 576,
-                        "height": 324
-                    },
-                    "large": {
-                        "title": "BSC April MF Thumbnails EMEA.png",
-                        "path": "/xdjcscmv3zo3/3WtHuJmPbYAONtQYYOuDvt/c9e7f5f46ad29af00cfab2d0f7a375e9/BSC_April_MF_Thumbnails_EMEA.png?w=768&h=432&f=center&fit=fill",
-                        "width": 768,
-                        "height": 432
-                    },
-                    "largeRetina": {
-                        "title": "BSC April MF Thumbnails EMEA.png",
-                        "path": "/xdjcscmv3zo3/3WtHuJmPbYAONtQYYOuDvt/c9e7f5f46ad29af00cfab2d0f7a375e9/BSC_April_MF_Thumbnails_EMEA.png?w=960&h=540&f=center&fit=fill",
-                        "width": 960,
-                        "height": 540
-                    }
-                },
-                "livestreamEndTime": "2024-04-27T08:00:00.000-07:00",
-                "livestreamStartTime": "2024-04-27T03:30:00.000-07:00",
-                "readMoreButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "bYjss4EH6veCG9HX8NONP",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://event.supercell.com/brawlstars/",
-                    "label": "Remind Me!"
-                },
-                "subscribeButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "5i2pT1tcLXtA6qZ2lhbVB9",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://www.youtube.com/channel/UCjvzNXGGlnC4jcCnhglf8-Q",
-                    "label": "Subscribe!"
-                },
-                "watchLiveButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "7G7u7khjEYwnqCN7nOiAtF",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://event.supercell.com/brawlstars/",
-                    "label": "Watch Now!"
-                },
-                "esportRegions": [
-                    "EMEA"
-                ]
-            },
-            {
-                "id": "1Z4fM1oo1U1GLfjsENdpLW",
-                "type": "liveEntry",
-                "title": "BSC April Monthly Finals ",
-                "subtitle": "South America",
-                "eventPromotionName": "South America",
-                "eventPromotionLogo": {
-                    "small": {
-                        "title": "South America.png",
-                        "path": "/xdjcscmv3zo3/6I9MLF2zHUalyP5ucTt9L0/65c72bc03c9f4879e443af6f37a31429/South_America.png?w=26&h=26&f=center&fit=fill",
-                        "width": 26,
-                        "height": 26
-                    },
-                    "smallRetina": {
-                        "title": "South America.png",
-                        "path": "/xdjcscmv3zo3/6I9MLF2zHUalyP5ucTt9L0/65c72bc03c9f4879e443af6f37a31429/South_America.png?w=51&h=51&f=center&fit=fill",
-                        "width": 51,
-                        "height": 51
-                    },
-                    "medium": {
-                        "title": "South America.png",
-                        "path": "/xdjcscmv3zo3/6I9MLF2zHUalyP5ucTt9L0/65c72bc03c9f4879e443af6f37a31429/South_America.png?w=64&h=64&f=center&fit=fill",
-                        "width": 64,
-                        "height": 64
-                    },
-                    "mediumRetina": {
-                        "title": "South America.png",
-                        "path": "/xdjcscmv3zo3/6I9MLF2zHUalyP5ucTt9L0/65c72bc03c9f4879e443af6f37a31429/South_America.png?w=77&h=77&f=center&fit=fill",
-                        "width": 77,
-                        "height": 77
-                    },
-                    "large": {
-                        "title": "South America.png",
-                        "path": "/xdjcscmv3zo3/6I9MLF2zHUalyP5ucTt9L0/65c72bc03c9f4879e443af6f37a31429/South_America.png?w=102&h=102&f=center&fit=fill",
-                        "width": 102,
-                        "height": 102
-                    },
-                    "largeRetina": {
-                        "title": "South America.png",
-                        "path": "/xdjcscmv3zo3/6I9MLF2zHUalyP5ucTt9L0/65c72bc03c9f4879e443af6f37a31429/South_America.png?w=128&h=128&f=center&fit=fill",
-                        "width": 128,
-                        "height": 128
-                    }
-                },
-                "carouselImage": {
-                    "small": {
-                        "title": "BSC April MF Thumbnails SA.png",
-                        "path": "/xdjcscmv3zo3/2RJILSI72dGwIvZcpumVNK/ec85a85b71e82712e487d2eb3f95f9c3/BSC_April_MF_Thumbnails_SA.png?w=192&h=108&f=center&fit=fill",
-                        "width": 192,
-                        "height": 108
-                    },
-                    "smallRetina": {
-                        "title": "BSC April MF Thumbnails SA.png",
-                        "path": "/xdjcscmv3zo3/2RJILSI72dGwIvZcpumVNK/ec85a85b71e82712e487d2eb3f95f9c3/BSC_April_MF_Thumbnails_SA.png?w=384&h=216&f=center&fit=fill",
-                        "width": 384,
-                        "height": 216
-                    },
-                    "medium": {
-                        "title": "BSC April MF Thumbnails SA.png",
-                        "path": "/xdjcscmv3zo3/2RJILSI72dGwIvZcpumVNK/ec85a85b71e82712e487d2eb3f95f9c3/BSC_April_MF_Thumbnails_SA.png?w=480&h=270&f=center&fit=fill",
-                        "width": 480,
-                        "height": 270
-                    },
-                    "mediumRetina": {
-                        "title": "BSC April MF Thumbnails SA.png",
-                        "path": "/xdjcscmv3zo3/2RJILSI72dGwIvZcpumVNK/ec85a85b71e82712e487d2eb3f95f9c3/BSC_April_MF_Thumbnails_SA.png?w=576&h=324&f=center&fit=fill",
-                        "width": 576,
-                        "height": 324
-                    },
-                    "large": {
-                        "title": "BSC April MF Thumbnails SA.png",
-                        "path": "/xdjcscmv3zo3/2RJILSI72dGwIvZcpumVNK/ec85a85b71e82712e487d2eb3f95f9c3/BSC_April_MF_Thumbnails_SA.png?w=768&h=432&f=center&fit=fill",
-                        "width": 768,
-                        "height": 432
-                    },
-                    "largeRetina": {
-                        "title": "BSC April MF Thumbnails SA.png",
-                        "path": "/xdjcscmv3zo3/2RJILSI72dGwIvZcpumVNK/ec85a85b71e82712e487d2eb3f95f9c3/BSC_April_MF_Thumbnails_SA.png?w=960&h=540&f=center&fit=fill",
-                        "width": 960,
-                        "height": 540
-                    }
-                },
-                "livestreamEndTime": "2024-04-28T13:00:00.000-07:00",
-                "livestreamStartTime": "2024-04-28T08:00:00.000-07:00",
-                "readMoreButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "bYjss4EH6veCG9HX8NONP",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://event.supercell.com/brawlstars/",
-                    "label": "Remind Me!"
-                },
-                "subscribeButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "5i2pT1tcLXtA6qZ2lhbVB9",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://www.youtube.com/channel/UCjvzNXGGlnC4jcCnhglf8-Q",
-                    "label": "Subscribe!"
-                },
-                "watchLiveButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "7G7u7khjEYwnqCN7nOiAtF",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://event.supercell.com/brawlstars/",
-                    "label": "Watch Now!"
-                },
-                "esportRegions": [
-                    "LATAM S"
-                ]
-            },
-            {
-                "id": "7D4LLEwCvnr5tasFm8kOI5",
-                "type": "liveEntry",
-                "title": "BSC April Monthly Finals ",
-                "subtitle": "North America",
-                "eventPromotionName": "North America",
-                "eventPromotionLogo": {
-                    "small": {
-                        "title": "North America.png",
-                        "path": "/xdjcscmv3zo3/4sjewULnB67qyh7McDAnNf/db6bf4f1735f7f25972471fce844bb35/North_America.png?w=26&h=26&f=center&fit=fill",
-                        "width": 26,
-                        "height": 26
-                    },
-                    "smallRetina": {
-                        "title": "North America.png",
-                        "path": "/xdjcscmv3zo3/4sjewULnB67qyh7McDAnNf/db6bf4f1735f7f25972471fce844bb35/North_America.png?w=51&h=51&f=center&fit=fill",
-                        "width": 51,
-                        "height": 51
-                    },
-                    "medium": {
-                        "title": "North America.png",
-                        "path": "/xdjcscmv3zo3/4sjewULnB67qyh7McDAnNf/db6bf4f1735f7f25972471fce844bb35/North_America.png?w=64&h=64&f=center&fit=fill",
-                        "width": 64,
-                        "height": 64
-                    },
-                    "mediumRetina": {
-                        "title": "North America.png",
-                        "path": "/xdjcscmv3zo3/4sjewULnB67qyh7McDAnNf/db6bf4f1735f7f25972471fce844bb35/North_America.png?w=77&h=77&f=center&fit=fill",
-                        "width": 77,
-                        "height": 77
-                    },
-                    "large": {
-                        "title": "North America.png",
-                        "path": "/xdjcscmv3zo3/4sjewULnB67qyh7McDAnNf/db6bf4f1735f7f25972471fce844bb35/North_America.png?w=102&h=102&f=center&fit=fill",
-                        "width": 102,
-                        "height": 102
-                    },
-                    "largeRetina": {
-                        "title": "North America.png",
-                        "path": "/xdjcscmv3zo3/4sjewULnB67qyh7McDAnNf/db6bf4f1735f7f25972471fce844bb35/North_America.png?w=128&h=128&f=center&fit=fill",
-                        "width": 128,
-                        "height": 128
-                    }
-                },
-                "carouselImage": {
-                    "small": {
-                        "title": "BSC April MF Thumbnails NA.png",
-                        "path": "/xdjcscmv3zo3/wGD29Afg0ZwgXY0f66JVK/42e2cd58e53bfad4859933fd22762c1d/BSC_April_MF_Thumbnails_NA.png?w=192&h=108&f=center&fit=fill",
-                        "width": 192,
-                        "height": 108
-                    },
-                    "smallRetina": {
-                        "title": "BSC April MF Thumbnails NA.png",
-                        "path": "/xdjcscmv3zo3/wGD29Afg0ZwgXY0f66JVK/42e2cd58e53bfad4859933fd22762c1d/BSC_April_MF_Thumbnails_NA.png?w=384&h=216&f=center&fit=fill",
-                        "width": 384,
-                        "height": 216
-                    },
-                    "medium": {
-                        "title": "BSC April MF Thumbnails NA.png",
-                        "path": "/xdjcscmv3zo3/wGD29Afg0ZwgXY0f66JVK/42e2cd58e53bfad4859933fd22762c1d/BSC_April_MF_Thumbnails_NA.png?w=480&h=270&f=center&fit=fill",
-                        "width": 480,
-                        "height": 270
-                    },
-                    "mediumRetina": {
-                        "title": "BSC April MF Thumbnails NA.png",
-                        "path": "/xdjcscmv3zo3/wGD29Afg0ZwgXY0f66JVK/42e2cd58e53bfad4859933fd22762c1d/BSC_April_MF_Thumbnails_NA.png?w=576&h=324&f=center&fit=fill",
-                        "width": 576,
-                        "height": 324
-                    },
-                    "large": {
-                        "title": "BSC April MF Thumbnails NA.png",
-                        "path": "/xdjcscmv3zo3/wGD29Afg0ZwgXY0f66JVK/42e2cd58e53bfad4859933fd22762c1d/BSC_April_MF_Thumbnails_NA.png?w=768&h=432&f=center&fit=fill",
-                        "width": 768,
-                        "height": 432
-                    },
-                    "largeRetina": {
-                        "title": "BSC April MF Thumbnails NA.png",
-                        "path": "/xdjcscmv3zo3/wGD29Afg0ZwgXY0f66JVK/42e2cd58e53bfad4859933fd22762c1d/BSC_April_MF_Thumbnails_NA.png?w=960&h=540&f=center&fit=fill",
-                        "width": 960,
-                        "height": 540
-                    }
-                },
-                "livestreamEndTime": "2024-04-28T18:00:00.000-07:00",
-                "livestreamStartTime": "2024-04-28T13:30:00.000-07:00",
-                "readMoreButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "bYjss4EH6veCG9HX8NONP",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://event.supercell.com/brawlstars/",
-                    "label": "Remind Me!"
-                },
-                "subscribeButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "5i2pT1tcLXtA6qZ2lhbVB9",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://www.youtube.com/channel/UCjvzNXGGlnC4jcCnhglf8-Q",
-                    "label": "Subscribe!"
-                },
-                "watchLiveButton": {
-                    "title": null,
-                    "type": "url",
-                    "urlType": "url",
-                    "id": "7G7u7khjEYwnqCN7nOiAtF",
-                    "order": "1",
-                    "variant": "primary",
-                    "url": "https://event.supercell.com/brawlstars/",
-                    "label": "Watch Now!"
-                },
-                "esportRegions": [
-                    "NA & LATAM N"
-                ]
-            },
             {
                 "id": "6thG1GOURSpe7cVOLswUJi",
                 "type": "eventEntry",
@@ -1863,11 +1459,11 @@
         "esportFullscreenEntries": []
     },
     "globals": {
+        "globalText.langNewer": "Newer",
         "globalText.copyToClipboard": "Copied to clipboard!",
         "globalText.langVoteResultsButtonLabel": "Show Results",
         "globalText.langVoteCheck": "Check vote",
         "globalText.toNews": "To News",
-        "globalText.langNewer": "Newer",
         "globalText.langVoteTryAgainLabel": "Oops, Try Again!",
         "globalText.langVoteDefaultButtonLabel": "Vote",
         "globalText.close": "Close",

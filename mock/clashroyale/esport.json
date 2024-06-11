@@ -2,13 +2,281 @@
     "entries": {
         "esportNewsEntries": [
             {
-                "id": "5vjQcEyTV1NVu8lu59bWM8",
+                "id": "5oaxK3o64UaAZvv461yamP",
                 "index": 0,
                 "targeting": null,
                 "metadata": {
+                    "id": "5oaxK3o64UaAZvv461yamP",
+                    "publishedVersion": 128,
+                    "publishedAt": "2024-05-24T15:29:13.287Z"
+                },
+                "postDate": "1715875200",
+                "lang": "en",
+                "section": "esportNewsEntries",
+                "title": "CRL24 May Monthly Finals!",
+                "categories": [
+                    {
+                        "title": "Esports",
+                        "color": "#19eb86"
+                    }
+                ],
+                "newUntil": "1718108397",
+                "esportRegions": [],
+                "type": "esportNewsEntry",
+                "listingSize": "small",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnailAlt": {
+                    "small": {
+                        "title": "CRL - Article Thumbnail 440x440.png",
+                        "path": "/9jtsgmsiuthj/1JHm9XgFQS42X9n0FUCf2o/7db9448fe10a4cbcddcd5d020fb310c1/CRL_-_Article_Thumbnail_440x440.png?w=88&h=88&f=center&fit=fill",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "smallRetina": {
+                        "title": "CRL - Article Thumbnail 440x440.png",
+                        "path": "/9jtsgmsiuthj/1JHm9XgFQS42X9n0FUCf2o/7db9448fe10a4cbcddcd5d020fb310c1/CRL_-_Article_Thumbnail_440x440.png?w=176&h=176&f=center&fit=fill",
+                        "width": 176,
+                        "height": 176
+                    },
+                    "medium": {
+                        "title": "CRL - Article Thumbnail 440x440.png",
+                        "path": "/9jtsgmsiuthj/1JHm9XgFQS42X9n0FUCf2o/7db9448fe10a4cbcddcd5d020fb310c1/CRL_-_Article_Thumbnail_440x440.png?w=220&h=220&f=center&fit=fill",
+                        "width": 220,
+                        "height": 220
+                    },
+                    "mediumRetina": {
+                        "title": "CRL - Article Thumbnail 440x440.png",
+                        "path": "/9jtsgmsiuthj/1JHm9XgFQS42X9n0FUCf2o/7db9448fe10a4cbcddcd5d020fb310c1/CRL_-_Article_Thumbnail_440x440.png?w=264&h=264&f=center&fit=fill",
+                        "width": 264,
+                        "height": 264
+                    },
+                    "large": {
+                        "title": "CRL - Article Thumbnail 440x440.png",
+                        "path": "/9jtsgmsiuthj/1JHm9XgFQS42X9n0FUCf2o/7db9448fe10a4cbcddcd5d020fb310c1/CRL_-_Article_Thumbnail_440x440.png?w=352&h=352&f=center&fit=fill",
+                        "width": 352,
+                        "height": 352
+                    },
+                    "largeRetina": {
+                        "title": "CRL - Article Thumbnail 440x440.png",
+                        "path": "/9jtsgmsiuthj/1JHm9XgFQS42X9n0FUCf2o/7db9448fe10a4cbcddcd5d020fb310c1/CRL_-_Article_Thumbnail_440x440.png?w=440&h=440&f=center&fit=fill",
+                        "width": 440,
+                        "height": 440
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "CRL - Hero Image.png",
+                        "path": "/9jtsgmsiuthj/4KBCdIz7ORNpwj2eRBaZ87/1c072f493653e102719beb451c1a806e/CRL_-_Hero_Image.png?w=144&h=81&f=center&fit=fill",
+                        "width": 144,
+                        "height": 81
+                    },
+                    "smallRetina": {
+                        "title": "CRL - Hero Image.png",
+                        "path": "/9jtsgmsiuthj/4KBCdIz7ORNpwj2eRBaZ87/1c072f493653e102719beb451c1a806e/CRL_-_Hero_Image.png?w=288&h=162&f=center&fit=fill",
+                        "width": 288,
+                        "height": 162
+                    },
+                    "medium": {
+                        "title": "CRL - Hero Image.png",
+                        "path": "/9jtsgmsiuthj/4KBCdIz7ORNpwj2eRBaZ87/1c072f493653e102719beb451c1a806e/CRL_-_Hero_Image.png?w=360&h=203&f=center&fit=fill",
+                        "width": 360,
+                        "height": 203
+                    },
+                    "mediumRetina": {
+                        "title": "CRL - Hero Image.png",
+                        "path": "/9jtsgmsiuthj/4KBCdIz7ORNpwj2eRBaZ87/1c072f493653e102719beb451c1a806e/CRL_-_Hero_Image.png?w=432&h=243&f=center&fit=fill",
+                        "width": 432,
+                        "height": 243
+                    },
+                    "large": {
+                        "title": "CRL - Hero Image.png",
+                        "path": "/9jtsgmsiuthj/4KBCdIz7ORNpwj2eRBaZ87/1c072f493653e102719beb451c1a806e/CRL_-_Hero_Image.png?w=576&h=324&f=center&fit=fill",
+                        "width": 576,
+                        "height": 324
+                    },
+                    "largeRetina": {
+                        "title": "CRL - Hero Image.png",
+                        "path": "/9jtsgmsiuthj/4KBCdIz7ORNpwj2eRBaZ87/1c072f493653e102719beb451c1a806e/CRL_-_Hero_Image.png?w=720&h=405&f=center&fit=fill",
+                        "width": 720,
+                        "height": 405
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": null,
+                        "order": "0",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "CRL - May MF Tournament Article.png",
+                                "path": "/9jtsgmsiuthj/5o3gfmmpaDFL0w7s0imf3q/79b112c0d24cbbe90ec6f45130f44146/CRL_-_May_MF_Tournament_Article.png?w=384&h=216&f=center&fit=fill",
+                                "width": 384,
+                                "height": 216
+                            },
+                            "smallRetina": {
+                                "title": "CRL - May MF Tournament Article.png",
+                                "path": "/9jtsgmsiuthj/5o3gfmmpaDFL0w7s0imf3q/79b112c0d24cbbe90ec6f45130f44146/CRL_-_May_MF_Tournament_Article.png?w=768&h=432&f=center&fit=fill",
+                                "width": 768,
+                                "height": 432
+                            },
+                            "medium": {
+                                "title": "CRL - May MF Tournament Article.png",
+                                "path": "/9jtsgmsiuthj/5o3gfmmpaDFL0w7s0imf3q/79b112c0d24cbbe90ec6f45130f44146/CRL_-_May_MF_Tournament_Article.png?w=960&h=540&f=center&fit=fill",
+                                "width": 960,
+                                "height": 540
+                            },
+                            "mediumRetina": {
+                                "title": "CRL - May MF Tournament Article.png",
+                                "path": "/9jtsgmsiuthj/5o3gfmmpaDFL0w7s0imf3q/79b112c0d24cbbe90ec6f45130f44146/CRL_-_May_MF_Tournament_Article.png?w=1152&h=648&f=center&fit=fill",
+                                "width": 1152,
+                                "height": 648
+                            },
+                            "large": {
+                                "title": "CRL - May MF Tournament Article.png",
+                                "path": "/9jtsgmsiuthj/5o3gfmmpaDFL0w7s0imf3q/79b112c0d24cbbe90ec6f45130f44146/CRL_-_May_MF_Tournament_Article.png?w=1536&h=864&f=center&fit=fill",
+                                "width": 1536,
+                                "height": 864
+                            },
+                            "largeRetina": {
+                                "title": "CRL - May MF Tournament Article.png",
+                                "path": "/9jtsgmsiuthj/5o3gfmmpaDFL0w7s0imf3q/79b112c0d24cbbe90ec6f45130f44146/CRL_-_May_MF_Tournament_Article.png?w=1920&h=1080&f=center&fit=fill",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "1": {
+                        "title": "The Clash Royale League May Monthly Finals is almost here!",
+                        "order": "1",
+                        "type": "textBlock",
+                        "body": "<p>#CRL24 is off to a hot start - in the April Monthly Finals, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FMohamedLightCr1')\">Mohamed Light</a> had an amazing lower bracket run to secure the first Golden Ticket of the year, but we\u2019re just getting started! We still have another seven Golden Tickets to award to the top competitors in competitive Clash Royale, and the road to another #CRL24 Golden Ticket is underway with the May Monthly Finals just around the corner!</p>"
+                    },
+                    "2": {
+                        "title": null,
+                        "order": "2",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "CRL - April MF Winner 16x9.png",
+                                "path": "/9jtsgmsiuthj/4vBnwFnUnY7MUePZ26Rd8g/4945c3a6f9ada770807804fb7dfd13c0/CRL_-_April_MF_Winner_16x9.png?w=384&h=216&f=center&fit=fill",
+                                "width": 384,
+                                "height": 216
+                            },
+                            "smallRetina": {
+                                "title": "CRL - April MF Winner 16x9.png",
+                                "path": "/9jtsgmsiuthj/4vBnwFnUnY7MUePZ26Rd8g/4945c3a6f9ada770807804fb7dfd13c0/CRL_-_April_MF_Winner_16x9.png?w=768&h=432&f=center&fit=fill",
+                                "width": 768,
+                                "height": 432
+                            },
+                            "medium": {
+                                "title": "CRL - April MF Winner 16x9.png",
+                                "path": "/9jtsgmsiuthj/4vBnwFnUnY7MUePZ26Rd8g/4945c3a6f9ada770807804fb7dfd13c0/CRL_-_April_MF_Winner_16x9.png?w=960&h=540&f=center&fit=fill",
+                                "width": 960,
+                                "height": 540
+                            },
+                            "mediumRetina": {
+                                "title": "CRL - April MF Winner 16x9.png",
+                                "path": "/9jtsgmsiuthj/4vBnwFnUnY7MUePZ26Rd8g/4945c3a6f9ada770807804fb7dfd13c0/CRL_-_April_MF_Winner_16x9.png?w=1152&h=648&f=center&fit=fill",
+                                "width": 1152,
+                                "height": 648
+                            },
+                            "large": {
+                                "title": "CRL - April MF Winner 16x9.png",
+                                "path": "/9jtsgmsiuthj/4vBnwFnUnY7MUePZ26Rd8g/4945c3a6f9ada770807804fb7dfd13c0/CRL_-_April_MF_Winner_16x9.png?w=1536&h=864&f=center&fit=fill",
+                                "width": 1536,
+                                "height": 864
+                            },
+                            "largeRetina": {
+                                "title": "CRL - April MF Winner 16x9.png",
+                                "path": "/9jtsgmsiuthj/4vBnwFnUnY7MUePZ26Rd8g/4945c3a6f9ada770807804fb7dfd13c0/CRL_-_April_MF_Winner_16x9.png?w=1920&h=1080&f=center&fit=fill",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "3": {
+                        "title": "",
+                        "order": "3",
+                        "type": "textBlock",
+                        "body": "<p>Let\u2019s take a closer look at the upcoming May Monthly Finals\u2026</p>"
+                    },
+                    "4": {
+                        "title": "The Road to the Golden Ticket",
+                        "order": "4",
+                        "type": "textBlock",
+                        "body": "<p>It all started with the May Path of Legends Race - millions of players battled it out for just under one month, climbing the Ladder leaderboard until we found the top 1000. Then came the May Monthly Qualifier - a two-day tournament consisting of a Swiss Stage and a Group Stage, where those top 1000 players competed until only 8 players remained. And now, these 8 players are advancing to the May Monthly Finals, a one-day, double-elimination bracket tournament where everything is on the line. They will fight for the largest-share of the $50,000 prize pool and a shot at a #CRL24 Golden Ticket!\u00a0</p>"
+                    },
+                    "5": {
+                        "title": "The May Monthly Finals will take place on May 18, starting at 14:00 UTC - mark your calendars and set a reminder, you\u2019re not going to want to miss this!",
+                        "order": "5",
+                        "type": "textBlock",
+                        "body": "<p>Let\u2019s take a look at this month\u2019s competitors\u2026</p>"
+                    },
+                    "6": {
+                        "title": null,
+                        "order": "6",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "CRL - May MF Starting Bracket.png",
+                                "path": "/9jtsgmsiuthj/6kapsIn6K23L2lDm6okSxv/856b7b6ee14558a5ea89285cc12f5a31/CRL_-_May_MF_Starting_Bracket.png?w=384&h=216&f=center&fit=fill",
+                                "width": 384,
+                                "height": 216
+                            },
+                            "smallRetina": {
+                                "title": "CRL - May MF Starting Bracket.png",
+                                "path": "/9jtsgmsiuthj/6kapsIn6K23L2lDm6okSxv/856b7b6ee14558a5ea89285cc12f5a31/CRL_-_May_MF_Starting_Bracket.png?w=768&h=432&f=center&fit=fill",
+                                "width": 768,
+                                "height": 432
+                            },
+                            "medium": {
+                                "title": "CRL - May MF Starting Bracket.png",
+                                "path": "/9jtsgmsiuthj/6kapsIn6K23L2lDm6okSxv/856b7b6ee14558a5ea89285cc12f5a31/CRL_-_May_MF_Starting_Bracket.png?w=960&h=540&f=center&fit=fill",
+                                "width": 960,
+                                "height": 540
+                            },
+                            "mediumRetina": {
+                                "title": "CRL - May MF Starting Bracket.png",
+                                "path": "/9jtsgmsiuthj/6kapsIn6K23L2lDm6okSxv/856b7b6ee14558a5ea89285cc12f5a31/CRL_-_May_MF_Starting_Bracket.png?w=1152&h=648&f=center&fit=fill",
+                                "width": 1152,
+                                "height": 648
+                            },
+                            "large": {
+                                "title": "CRL - May MF Starting Bracket.png",
+                                "path": "/9jtsgmsiuthj/6kapsIn6K23L2lDm6okSxv/856b7b6ee14558a5ea89285cc12f5a31/CRL_-_May_MF_Starting_Bracket.png?w=1536&h=864&f=center&fit=fill",
+                                "width": 1536,
+                                "height": 864
+                            },
+                            "largeRetina": {
+                                "title": "CRL - May MF Starting Bracket.png",
+                                "path": "/9jtsgmsiuthj/6kapsIn6K23L2lDm6okSxv/856b7b6ee14558a5ea89285cc12f5a31/CRL_-_May_MF_Starting_Bracket.png?w=1920&h=1080&f=center&fit=fill",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "7": {
+                        "title": "The Competitors",
+                        "order": "7",
+                        "type": "textBlock",
+                        "body": "<p>Take a look at the 8 players who will be competing in the May Monthly Finals and show your support to who you want to see be crowned champion!</p><ul><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FMohamedLightCr1')\"><u>Mohamed Light</u></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FFaust_cr')\"><u>SK Faust</u></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FIan77cr1')\"><u>Ian77</u></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FMutyan_cr')\"><u>Mugi</u></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FTaa_0922')\"><u>Taa</u></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FPedrotmcr')\"><u>CAL Pedro</u></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FCoco_CR04')\"><u>Coco</u></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FDOoOM_cr')\"><u>Dominik</u></a></p></li></ul><p>\nMohamed Light, Mugi and Ian77 return for their second Monthly Finals appearance in #CRL24. Will Mohamed Light once again reign as Champion? Will Ian77 or Mugi claim the Golden Ticket in their second #CRL24 Monthly Finals? Or will the May Monthly Finals Golden Ticket be awarded to another top competitor? Mark your calendars and tune in on May 18 at 14:00 UTC to find out!</p>"
+                    },
+                    "8": {
+                        "title": "Where to Watch",
+                        "order": "8",
+                        "type": "textBlock",
+                        "body": "<p>The best place to watch the official broadcast of the May Monthly Finals is the <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Fen%3Fpfg%3Dtrue')\"><u>Clash Royale Event Site</u></a>! On the Event Site, you can choose between 8 different languages to watch - English, Spanish, Portuguese, French, Italian, German, Japanese and Korean! But that\u2019s not all! By linking your Supercell ID, you can earn in-game rewards by making predictions and watching the match action live! Choose your language and check out the Event Site below\u2026</p><ul><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Fen%3Fpfg%3Dtrue')\">English</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Fes%3Fpfg%3Dtrue')\">Spanish</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Fpt%3Fpfg%3Dtrue')\">Portuguese</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Fde%3Fpfg%3Dtrue')\">German</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Fit%3Fpfg%3Dtrue')\">Italian</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Ffr%3Fpfg%3Dtrue')\">French</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Fjp%3Fpfg%3Dtrue')\">Japanese</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fevent.supercell.com%2Fclashroyale%2Fkr%3Fpfg%3Dtrue')\">Korean</a></p></li></ul><p>\nAnd that\u2019s it! Set a reminder, grab your popcorn, and lock in for the second #CRL24 Monthly Finals! Check out the <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fcrl-rules.scescdn.com%2F2024-en-v1')\"><u>2024 Clash Royale League ruleset</u></a> for more information. Stay tuned and make sure to follow <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FEsportsRoyaleEN')\"><u>Clash Royale Esports on X</u></a> and <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.instagram.com%2Fesportsroyale')\"><u>Instagram</u></a>, and visit our <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fesports.clashroyale.com%2F')\"><u>Website</u></a> to get all the latest updates!</p><p>\nSee you in the Arena,</p><p>Clash Royale Esports</p>"
+                    }
+                }
+            },
+            {
+                "id": "5vjQcEyTV1NVu8lu59bWM8",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
                     "id": "5vjQcEyTV1NVu8lu59bWM8",
-                    "publishedVersion": 126,
-                    "publishedAt": "2024-04-22T03:55:08.408Z"
+                    "publishedVersion": 150,
+                    "publishedAt": "2024-05-04T16:39:34.512Z"
                 },
                 "postDate": "1713454200",
                 "lang": "en",
@@ -155,7 +423,7 @@
                         "title": "Let\u2019s learn a bit more about these Community Tournaments\u2026",
                         "order": "2",
                         "type": "textBlock",
-                        "body": "<p><b>Dragon League by QLASH</b></p><p>Dragon League by QLASH is a 5-season competition, running from April through September. Each season will award Community Leaderboard points to players who make it to the final \u201cPhase\u201d of each season. Each season will consist of three Phases, and the tournament format for each season is as follows:</p><ul><li><p>Phase 1</p><ul><li><p>Ladder Tournament, followed by\u2026</p></li><li><p>2 Last Chance Qualifiers</p></li></ul></li><li><p>Phase 2</p><ul><li><p>A 128-player Double Elimination Bracket</p></li></ul></li><li><p>Phase 3</p><ul><li><p>16-player Double Elimination Bracket (awarding CRL Community Points)</p></li></ul></li></ul><p>You can learn more about the Dragon League by QLASH <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fesports.clashroyale.com%2Fnews%2Fintroducing-the-dragon-league-by-qlash')\">HERE</a>!</p><p>\n<b>Calalas Cup</b></p><p>The Calalas Cup is a 3-Phase tournament running from 19 April through 5 May. Players that advance to the third Phase will be awarded CRL Community Points. The tournament format is as follows:</p><ul><li><p>Phase 1</p><ul><li><p>In-game Qualifiers: 19 April - 21 April</p></li></ul></li><li><p>Phase 2</p><ul><li><p>24-player Group Stage tournament: 25 April - 28 April</p></li></ul></li><li><p>Phase 3</p><ul><li><p>16-player Final Bracket: 3 May - 5 May (awarding CRL Community Points)</p></li></ul></li></ul><p>You can learn more about the Calalas Cup <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fesports.clashroyale.com%2Fnews%2Fcompete-in-the-calalas-cup-2024')\">HERE</a>!</p><p></p><p><b>LPL Clash Royale World Tour 2024</b></p><p>LPL World Tour 2024 is a 2-season competition: Season 1 runs from 23 May to 23 June, and Season 2 runs from 18 July to 25 August. Each Season will have two Phases: Qualifiers &amp; Finals, and the following regions will be allowed to participate: NA, LATAM, EU, MENA, JP, SK, OCE &amp; SEA. The tournament format is as follows:</p><ul><li><p>Season 1:</p><ul><li><p>Qualifiers: 23 May - 26 May</p><ul><li><p>The Top 2 players from the Qualifiers for each region will head to the Finals</p></li></ul></li><li><p>Finals: 20 June - 23 June</p><ul><li><p>16-player Final Bracket (awarding CRL Community Points)</p></li></ul></li></ul></li><li><p>Season 2:</p><ul><li><p>Qualifiers: 18 July - 21 July</p><ul><li><p>The Top 2 players from the Qualifiers for each region will head to the Finals</p></li></ul></li></ul></li><li><p>Finals: 22 August - 25 August</p><ul><li><p>16-player Final Bracket (awarding CRL Community Points)</p></li></ul></li></ul><p></p><p><b>GKR 2024 Solo:</b></p><p>GKR 2024 Solo is a 3-Phase tournament running from 22 July through 4 August. The tournament format is as follows\u2026</p><ul><li><p>Phase 1</p><ul><li><p>Qualifiers: 22 July - 29 July</p></li></ul></li><li><p>Phase 2</p><ul><li><p>64-player Swiss Tournament: 30 July - 31 July</p></li></ul></li><li><p>Phase 3</p><ul><li><p>16-player Double Elimination bracket: 1 August - 4 August (awarding CRL Community Points)</p></li></ul></li></ul><p></p>"
+                        "body": "<p><b>Dragon League by QLASH</b></p><p>Dragon League by QLASH is a 5-season competition, running from April through September. Each season will award Community Leaderboard points to players who make it to the final \u201cPhase\u201d of each season. Each season will consist of three Phases, and the tournament format for each season is as follows:</p><ul><li><p>Phase 1</p><ul><li><p>Ladder Tournament, followed by\u2026</p></li><li><p>2 Last Chance Qualifiers</p></li></ul></li><li><p>Phase 2</p><ul><li><p>A 128-player Double Elimination Bracket</p></li></ul></li><li><p>Phase 3</p><ul><li><p>16-player Double Elimination Bracket (awarding CRL Community Points)</p></li></ul></li></ul><p>You can learn more about the Dragon League by QLASH <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fesports.clashroyale.com%2Fnews%2Fintroducing-the-dragon-league-by-qlash')\">HERE</a>!</p><p>\n<b>Calalas Cup</b></p><p>The Calalas Cup is a 3-Phase tournament running from 19 April through 5 May. Players that advance to the third Phase will be awarded CRL Community Points. The tournament format is as follows:</p><ul><li><p>Phase 1</p><ul><li><p>In-game Qualifiers: 19 April - 21 April</p></li></ul></li><li><p>Phase 2</p><ul><li><p>24-player Group Stage tournament: 25 April - 28 April</p></li></ul></li><li><p>Phase 3</p><ul><li><p>16-player Final Bracket: 3 May - 5 May (awarding CRL Community Points)</p></li></ul></li></ul><p>You can learn more about the Calalas Cup <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fesports.clashroyale.com%2Fnews%2Fcompete-in-the-calalas-cup-2024')\">HERE</a>!</p><p></p><p><b>LPL Clash Royale World Tour 2024</b></p><p>LPL World Tour 2024 is a 2-season competition, with each Season having two Phases: Qualifiers &amp; Finals. The tournament will be as follows:</p><ul><li><p>Season 1:</p><ul><li><p>Qualifiers: Dates to be confirmed</p></li><li><p>Finals: Dates to be confirmed (16-player Final Bracket, awarding CRL Community Points)</p></li></ul></li><li><p>Season 2:</p><ul><li><p>Qualifiers: Dates to be confirmed</p></li><li><p>Finals: Dates to be confirmed (16-player Final Bracket, awarding CRL Community Points)</p></li></ul></li></ul><p><b>GKR 2024 Solo:</b></p><p>GKR 2024 Solo is a 3-Phase tournament running from 22 July through 4 August. The tournament format is as follows\u2026</p><ul><li><p>Phase 1</p><ul><li><p>Qualifiers: 22 July - 29 July</p></li></ul></li><li><p>Phase 2</p><ul><li><p>64-player Swiss Tournament: 30 July - 31 July</p></li></ul></li><li><p>Phase 3</p><ul><li><p>16-player Double Elimination bracket: 1 August - 4 August (awarding CRL Community Points)</p></li></ul></li></ul><p></p>"
                     },
                     "3": {
                         "title": null,
@@ -163,38 +431,38 @@
                         "type": "imageBlock",
                         "image": {
                             "small": {
-                                "title": "CRL - Community Tournaments Points Leaderboard.png",
-                                "path": "/9jtsgmsiuthj/2gzZqSaTFkniY562MNQBfy/9b7ba3bc0b6c5e115f764a30ff10173b/CRL_-_Community_Tournaments_Points_Leaderboard.png?w=384&h=216&f=center&fit=fill",
+                                "title": "CRL - Community Tournaments Points Leaderboard_2.jpg",
+                                "path": "/9jtsgmsiuthj/1hNrcnrDXbjcYiOsRmYr4y/00b3b3da7606f6314e68f8be48b00c70/CRL_-_Community_Tournaments_Points_Leaderboard_2.jpg?w=384&h=216&f=center&fit=fill",
                                 "width": 384,
                                 "height": 216
                             },
                             "smallRetina": {
-                                "title": "CRL - Community Tournaments Points Leaderboard.png",
-                                "path": "/9jtsgmsiuthj/2gzZqSaTFkniY562MNQBfy/9b7ba3bc0b6c5e115f764a30ff10173b/CRL_-_Community_Tournaments_Points_Leaderboard.png?w=768&h=432&f=center&fit=fill",
+                                "title": "CRL - Community Tournaments Points Leaderboard_2.jpg",
+                                "path": "/9jtsgmsiuthj/1hNrcnrDXbjcYiOsRmYr4y/00b3b3da7606f6314e68f8be48b00c70/CRL_-_Community_Tournaments_Points_Leaderboard_2.jpg?w=768&h=432&f=center&fit=fill",
                                 "width": 768,
                                 "height": 432
                             },
                             "medium": {
-                                "title": "CRL - Community Tournaments Points Leaderboard.png",
-                                "path": "/9jtsgmsiuthj/2gzZqSaTFkniY562MNQBfy/9b7ba3bc0b6c5e115f764a30ff10173b/CRL_-_Community_Tournaments_Points_Leaderboard.png?w=960&h=540&f=center&fit=fill",
+                                "title": "CRL - Community Tournaments Points Leaderboard_2.jpg",
+                                "path": "/9jtsgmsiuthj/1hNrcnrDXbjcYiOsRmYr4y/00b3b3da7606f6314e68f8be48b00c70/CRL_-_Community_Tournaments_Points_Leaderboard_2.jpg?w=960&h=540&f=center&fit=fill",
                                 "width": 960,
                                 "height": 540
                             },
                             "mediumRetina": {
-                                "title": "CRL - Community Tournaments Points Leaderboard.png",
-                                "path": "/9jtsgmsiuthj/2gzZqSaTFkniY562MNQBfy/9b7ba3bc0b6c5e115f764a30ff10173b/CRL_-_Community_Tournaments_Points_Leaderboard.png?w=1152&h=648&f=center&fit=fill",
+                                "title": "CRL - Community Tournaments Points Leaderboard_2.jpg",
+                                "path": "/9jtsgmsiuthj/1hNrcnrDXbjcYiOsRmYr4y/00b3b3da7606f6314e68f8be48b00c70/CRL_-_Community_Tournaments_Points_Leaderboard_2.jpg?w=1152&h=648&f=center&fit=fill",
                                 "width": 1152,
                                 "height": 648
                             },
                             "large": {
-                                "title": "CRL - Community Tournaments Points Leaderboard.png",
-                                "path": "/9jtsgmsiuthj/2gzZqSaTFkniY562MNQBfy/9b7ba3bc0b6c5e115f764a30ff10173b/CRL_-_Community_Tournaments_Points_Leaderboard.png?w=1536&h=864&f=center&fit=fill",
+                                "title": "CRL - Community Tournaments Points Leaderboard_2.jpg",
+                                "path": "/9jtsgmsiuthj/1hNrcnrDXbjcYiOsRmYr4y/00b3b3da7606f6314e68f8be48b00c70/CRL_-_Community_Tournaments_Points_Leaderboard_2.jpg?w=1536&h=864&f=center&fit=fill",
                                 "width": 1536,
                                 "height": 864
                             },
                             "largeRetina": {
-                                "title": "CRL - Community Tournaments Points Leaderboard.png",
-                                "path": "/9jtsgmsiuthj/2gzZqSaTFkniY562MNQBfy/9b7ba3bc0b6c5e115f764a30ff10173b/CRL_-_Community_Tournaments_Points_Leaderboard.png?w=1920&h=1080&f=center&fit=fill",
+                                "title": "CRL - Community Tournaments Points Leaderboard_2.jpg",
+                                "path": "/9jtsgmsiuthj/1hNrcnrDXbjcYiOsRmYr4y/00b3b3da7606f6314e68f8be48b00c70/CRL_-_Community_Tournaments_Points_Leaderboard_2.jpg?w=1920&h=1080&f=center&fit=fill",
                                 "width": 1920,
                                 "height": 1080
                             }
@@ -216,7 +484,7 @@
             },
             {
                 "id": "75zQTOoJUAF7VaVWH8o1Z",
-                "index": 1,
+                "index": 2,
                 "targeting": null,
                 "metadata": {
                     "id": "75zQTOoJUAF7VaVWH8o1Z",
@@ -374,7 +642,7 @@
             },
             {
                 "id": "5EEc6J208rarbCYyMIU3Bq",
-                "index": 2,
+                "index": 3,
                 "targeting": null,
                 "metadata": {
                     "id": "5EEc6J208rarbCYyMIU3Bq",
@@ -391,7 +659,7 @@
                         "color": "#19eb86"
                     }
                 ],
-                "newUntil": "1714124581",
+                "newUntil": "1718108397",
                 "esportRegions": [],
                 "type": "esportNewsEntry",
                 "listingSize": "small",
@@ -556,7 +824,7 @@
             },
             {
                 "id": "1SpThsB6dBadCBYJhJ114z",
-                "index": 3,
+                "index": 4,
                 "targeting": null,
                 "metadata": {
                     "id": "1SpThsB6dBadCBYJhJ114z",
@@ -804,354 +1072,13 @@
                 }
             },
             {
-                "id": "ObWCGkj7NsBzRqbuIZLWm",
-                "index": 4,
-                "targeting": null,
-                "metadata": {
-                    "id": "ObWCGkj7NsBzRqbuIZLWm",
-                    "publishedVersion": 82,
-                    "publishedAt": "2024-03-07T19:36:24.367Z"
-                },
-                "postDate": "1709827200",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "Clash Royale League is back!",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#19eb86"
-                    }
-                ],
-                "newUntil": "1708128000",
-                "esportRegions": [],
-                "type": "esportNewsEntry",
-                "listingSize": "small",
-                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
-                "thumbnailAlt": {
-                    "small": {
-                        "title": "EN_CRL24_Square.jpg",
-                        "path": "/9jtsgmsiuthj/3ksQQmam3ViFMS7USkEkQe/82f1c846eab609754ddfb372aec768fb/EN_CRL24_Square.jpg?w=88&h=88&f=center&fit=fill",
-                        "width": 88,
-                        "height": 88
-                    },
-                    "smallRetina": {
-                        "title": "EN_CRL24_Square.jpg",
-                        "path": "/9jtsgmsiuthj/3ksQQmam3ViFMS7USkEkQe/82f1c846eab609754ddfb372aec768fb/EN_CRL24_Square.jpg?w=176&h=176&f=center&fit=fill",
-                        "width": 176,
-                        "height": 176
-                    },
-                    "medium": {
-                        "title": "EN_CRL24_Square.jpg",
-                        "path": "/9jtsgmsiuthj/3ksQQmam3ViFMS7USkEkQe/82f1c846eab609754ddfb372aec768fb/EN_CRL24_Square.jpg?w=220&h=220&f=center&fit=fill",
-                        "width": 220,
-                        "height": 220
-                    },
-                    "mediumRetina": {
-                        "title": "EN_CRL24_Square.jpg",
-                        "path": "/9jtsgmsiuthj/3ksQQmam3ViFMS7USkEkQe/82f1c846eab609754ddfb372aec768fb/EN_CRL24_Square.jpg?w=264&h=264&f=center&fit=fill",
-                        "width": 264,
-                        "height": 264
-                    },
-                    "large": {
-                        "title": "EN_CRL24_Square.jpg",
-                        "path": "/9jtsgmsiuthj/3ksQQmam3ViFMS7USkEkQe/82f1c846eab609754ddfb372aec768fb/EN_CRL24_Square.jpg?w=352&h=352&f=center&fit=fill",
-                        "width": 352,
-                        "height": 352
-                    },
-                    "largeRetina": {
-                        "title": "EN_CRL24_Square.jpg",
-                        "path": "/9jtsgmsiuthj/3ksQQmam3ViFMS7USkEkQe/82f1c846eab609754ddfb372aec768fb/EN_CRL24_Square.jpg?w=440&h=440&f=center&fit=fill",
-                        "width": 440,
-                        "height": 440
-                    }
-                },
-                "heroImage": {
-                    "small": {
-                        "title": "EN_CRL24_Thumbnail.jpg",
-                        "path": "/9jtsgmsiuthj/50ictVaHzvMwdNhfWARyJh/8ed9822ef9139cf8888cf044b678947e/EN_CRL24_Thumbnail.jpg?w=144&h=81&f=center&fit=fill",
-                        "width": 144,
-                        "height": 81
-                    },
-                    "smallRetina": {
-                        "title": "EN_CRL24_Thumbnail.jpg",
-                        "path": "/9jtsgmsiuthj/50ictVaHzvMwdNhfWARyJh/8ed9822ef9139cf8888cf044b678947e/EN_CRL24_Thumbnail.jpg?w=288&h=162&f=center&fit=fill",
-                        "width": 288,
-                        "height": 162
-                    },
-                    "medium": {
-                        "title": "EN_CRL24_Thumbnail.jpg",
-                        "path": "/9jtsgmsiuthj/50ictVaHzvMwdNhfWARyJh/8ed9822ef9139cf8888cf044b678947e/EN_CRL24_Thumbnail.jpg?w=360&h=203&f=center&fit=fill",
-                        "width": 360,
-                        "height": 203
-                    },
-                    "mediumRetina": {
-                        "title": "EN_CRL24_Thumbnail.jpg",
-                        "path": "/9jtsgmsiuthj/50ictVaHzvMwdNhfWARyJh/8ed9822ef9139cf8888cf044b678947e/EN_CRL24_Thumbnail.jpg?w=432&h=243&f=center&fit=fill",
-                        "width": 432,
-                        "height": 243
-                    },
-                    "large": {
-                        "title": "EN_CRL24_Thumbnail.jpg",
-                        "path": "/9jtsgmsiuthj/50ictVaHzvMwdNhfWARyJh/8ed9822ef9139cf8888cf044b678947e/EN_CRL24_Thumbnail.jpg?w=576&h=324&f=center&fit=fill",
-                        "width": 576,
-                        "height": 324
-                    },
-                    "largeRetina": {
-                        "title": "EN_CRL24_Thumbnail.jpg",
-                        "path": "/9jtsgmsiuthj/50ictVaHzvMwdNhfWARyJh/8ed9822ef9139cf8888cf044b678947e/EN_CRL24_Thumbnail.jpg?w=720&h=405&f=center&fit=fill",
-                        "width": 720,
-                        "height": 405
-                    }
-                },
-                "details": {
-                    "0": {
-                        "title": "",
-                        "order": "0",
-                        "type": "textBlock",
-                        "body": "<p>CRL is back with another year of the highest level of competitive Clash Royale!\u00a0</p><p>Following last year&#39;s format, this year will bring you top-tier gameplay with Monthly Qualifiers, Golden Tickets, an in-person event, and MORE!</p>"
-                    },
-                    "1": {
-                        "title": "",
-                        "order": "1",
-                        "type": "videoBlock",
-                        "author": "",
-                        "embed": {
-                            "url": "https://youtu.be/ysqNjOgLDXs",
-                            "provider": "youtube",
-                            "id": ""
-                        },
-                        "embedVideo": false,
-                        "thumbnail": {
-                            "small": {
-                                "title": "EN_CRL24_YT.jpg",
-                                "path": "/9jtsgmsiuthj/696Mj5LP8mpFdPd1xfAlcl/3e86f5835f67023e733019de931290d8/EN_CRL24_YT.jpg?w=192&h=108&f=center&fit=fill",
-                                "width": 192,
-                                "height": 108
-                            },
-                            "smallRetina": {
-                                "title": "EN_CRL24_YT.jpg",
-                                "path": "/9jtsgmsiuthj/696Mj5LP8mpFdPd1xfAlcl/3e86f5835f67023e733019de931290d8/EN_CRL24_YT.jpg?w=384&h=216&f=center&fit=fill",
-                                "width": 384,
-                                "height": 216
-                            },
-                            "medium": {
-                                "title": "EN_CRL24_YT.jpg",
-                                "path": "/9jtsgmsiuthj/696Mj5LP8mpFdPd1xfAlcl/3e86f5835f67023e733019de931290d8/EN_CRL24_YT.jpg?w=480&h=270&f=center&fit=fill",
-                                "width": 480,
-                                "height": 270
-                            },
-                            "mediumRetina": {
-                                "title": "EN_CRL24_YT.jpg",
-                                "path": "/9jtsgmsiuthj/696Mj5LP8mpFdPd1xfAlcl/3e86f5835f67023e733019de931290d8/EN_CRL24_YT.jpg?w=576&h=324&f=center&fit=fill",
-                                "width": 576,
-                                "height": 324
-                            },
-                            "large": {
-                                "title": "EN_CRL24_YT.jpg",
-                                "path": "/9jtsgmsiuthj/696Mj5LP8mpFdPd1xfAlcl/3e86f5835f67023e733019de931290d8/EN_CRL24_YT.jpg?w=768&h=432&f=center&fit=fill",
-                                "width": 768,
-                                "height": 432
-                            },
-                            "largeRetina": {
-                                "title": "EN_CRL24_YT.jpg",
-                                "path": "/9jtsgmsiuthj/696Mj5LP8mpFdPd1xfAlcl/3e86f5835f67023e733019de931290d8/EN_CRL24_YT.jpg?w=960&h=540&f=center&fit=fill",
-                                "width": 960,
-                                "height": 540
-                            }
-                        }
-                    },
-                    "2": {
-                        "title": "We are continuing with monthly competitions!",
-                        "order": "2",
-                        "type": "textBlock",
-                        "body": "<p>With the success the monthly competitions had in 2021 and 2023, there was no way we\u2019d let them out!\u00a0</p><p>Starting in April, the top 1000 players of the Path of Legends will be able to face each other in Monthly Qualifiers until only 8 players remain. The top 8 players will then move to the Monthly Finals, with the winner receiving a Golden Ticket directly to the CRL World Finals!</p><p>A total of 5 monthly competitions will be played in-game via the Tournament Hub from April to August. These competitions will award the top players with prize money, hand out Golden Tickets, and distribute CRL competitive points.</p>"
-                    },
-                    "3": {
-                        "title": "Golden Tickets, Competitive Points, and MORE!",
-                        "order": "3",
-                        "type": "textBlock",
-                        "body": "<p>We heard your dream is to set foot on the big stage, along with the best of the best, is that right? If so, here\u2019s how:</p><p><b>Golden Tickets</b> - By playing in the PoL and placing in the top 1000, you\u2019ll already increase your chances of winning a Golden Ticket, which will be awarded to the Champion of each Monthly Final. A total of 5 Golden Tickets will be awarded this way.</p><p><b>Competitive Points</b> - If you don\u2019t reach 1st place, you\u2019ll still earn CRL Competitive Points, which will sum up each month in a leaderboard. The player who places first by the end of August will automatically get the 6th Golden Ticket.</p><p><b>More?</b> - There are 2 more ways of securing a place at the World Finals. 1 Golden Ticket will be awarded to the champion of the Chinese Tournament, similar to last year. The final Golden Ticket will be awarded to the top player of yet another leaderboard. Wait, one more leaderboard? Yes! This year, 1 spot will be saved for the Community Tournaments. More news on this will be shared soon!</p>"
-                    },
-                    "4": {
-                        "title": "Check out the full monthly season calendar:",
-                        "order": "4",
-                        "type": "textBlock",
-                        "body": "<p><b>April</b>\n\u2022\tPath of Legends: 04/03 \u2013 01/04\n\u2022\tMonthly Qualifiers: 6th &amp; 7th\n\u2022\tMonthly Final: 13th \n\n<b>May</b>\n\u2022\tPath of Legends: 01/04 \u2013 06/05\n\u2022\tMonthly Qualifiers: 11th &amp; 12th\n\u2022\tMonthly Final: 18th \n\n<b>June</b>\n\u2022\tPath of Legends: 06/05 \u2013 03/06\n\u2022\tMonthly Qualifiers: 8th &amp; 9th\n\u2022\tMonthly Final: 15th \n\n<b>July</b>\n\u2022\tPath of Legends: 03/06 \u2013 01/07\n\u2022\tMonthly Qualifiers: 6th &amp; 7th\n\u2022\tMonthly Final: 13th \n\n<b>August</b>\n\u2022\tPath of Legends: 01/07 \u2013 05/08\n\u2022\tMonthly Qualifiers: 10th &amp; 11th\n\u2022\tMonthly Final: 17th</p>"
-                    },
-                    "5": {
-                        "title": "World Finals!",
-                        "order": "5",
-                        "type": "textBlock",
-                        "body": "<p>With a total of 8 players locked and ready, the Arena is set for the final showdown, which will take place in an in-person event later this year, crowning the #CRL24 World Champion!</p>"
-                    },
-                    "6": {
-                        "title": null,
-                        "order": "6",
-                        "type": "imageBlock",
-                        "image": {
-                            "small": {
-                                "title": "IMG_2315.jpg",
-                                "path": "/9jtsgmsiuthj/59AriO6kj5BlOCuDls2nh0/b3b38f2a222dcd28b47dbdea6cf5617e/IMG_2315.jpg?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            },
-                            "smallRetina": {
-                                "title": "IMG_2315.jpg",
-                                "path": "/9jtsgmsiuthj/59AriO6kj5BlOCuDls2nh0/b3b38f2a222dcd28b47dbdea6cf5617e/IMG_2315.jpg?w=512&h=512&f=center&fit=fill",
-                                "width": 512,
-                                "height": 512
-                            },
-                            "medium": {
-                                "title": "IMG_2315.jpg",
-                                "path": "/9jtsgmsiuthj/59AriO6kj5BlOCuDls2nh0/b3b38f2a222dcd28b47dbdea6cf5617e/IMG_2315.jpg?w=640&h=640&f=center&fit=fill",
-                                "width": 640,
-                                "height": 640
-                            },
-                            "mediumRetina": {
-                                "title": "IMG_2315.jpg",
-                                "path": "/9jtsgmsiuthj/59AriO6kj5BlOCuDls2nh0/b3b38f2a222dcd28b47dbdea6cf5617e/IMG_2315.jpg?w=768&h=768&f=center&fit=fill",
-                                "width": 768,
-                                "height": 768
-                            },
-                            "large": {
-                                "title": "IMG_2315.jpg",
-                                "path": "/9jtsgmsiuthj/59AriO6kj5BlOCuDls2nh0/b3b38f2a222dcd28b47dbdea6cf5617e/IMG_2315.jpg?w=1024&h=1024&f=center&fit=fill",
-                                "width": 1024,
-                                "height": 1024
-                            },
-                            "largeRetina": {
-                                "title": "IMG_2315.jpg",
-                                "path": "/9jtsgmsiuthj/59AriO6kj5BlOCuDls2nh0/b3b38f2a222dcd28b47dbdea6cf5617e/IMG_2315.jpg?w=1280&h=1280&f=center&fit=fill",
-                                "width": 1280,
-                                "height": 1280
-                            }
-                        }
-                    },
-                    "7": {
-                        "title": "",
-                        "order": "7",
-                        "type": "textBlock",
-                        "body": "<p>To find out more information on the schedule, rulebook, and everything in between, make sure to regularly check the in-game Esports Tab and follow us on <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FEsportsRoyaleEN')\"><u>X</u></a> and <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.instagram.com%2Fesportsroyale%2F')\"><u>Instagram</u></a> for all the latest Clash Royale Esports news! And in the meantime, maybe you should\u2026 warm up?</p><p>See you in the Arena,</p><p><i>Clash Royale Esports</i></p>"
-                    }
-                }
-            },
-            {
-                "id": "DW5aOLa1nbEIKup3j1QAC",
+                "id": "ruQGwvRwrpChmMOS0j0WNRbcMNVdDSdfMnraSbwJ1T8",
                 "index": 5,
                 "targeting": null,
                 "metadata": {
-                    "id": "DW5aOLa1nbEIKup3j1QAC",
-                    "publishedVersion": 82,
-                    "publishedAt": "2024-02-23T10:47:27.675Z"
-                },
-                "postDate": "1708185702",
-                "lang": "en",
-                "section": "esportNewsEntries",
-                "title": "Get ready for Clash Royale League 2024: CRL Warmup is back!",
-                "categories": [
-                    {
-                        "title": "Esports",
-                        "color": "#19eb86"
-                    }
-                ],
-                "newUntil": "1708560000",
-                "esportRegions": [],
-                "type": "esportNewsEntry",
-                "listingSize": "small",
-                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
-                "thumbnailAlt": {
-                    "small": {
-                        "title": "IG_POST.png",
-                        "path": "/9jtsgmsiuthj/1TOd5mCvw2DMG3971U6sGM/7c9e389cebc60a4450ee4b5c896eab36/IG_POST.png?w=88&h=88&f=center&fit=fill",
-                        "width": 88,
-                        "height": 88
-                    },
-                    "smallRetina": {
-                        "title": "IG_POST.png",
-                        "path": "/9jtsgmsiuthj/1TOd5mCvw2DMG3971U6sGM/7c9e389cebc60a4450ee4b5c896eab36/IG_POST.png?w=176&h=176&f=center&fit=fill",
-                        "width": 176,
-                        "height": 176
-                    },
-                    "medium": {
-                        "title": "IG_POST.png",
-                        "path": "/9jtsgmsiuthj/1TOd5mCvw2DMG3971U6sGM/7c9e389cebc60a4450ee4b5c896eab36/IG_POST.png?w=220&h=220&f=center&fit=fill",
-                        "width": 220,
-                        "height": 220
-                    },
-                    "mediumRetina": {
-                        "title": "IG_POST.png",
-                        "path": "/9jtsgmsiuthj/1TOd5mCvw2DMG3971U6sGM/7c9e389cebc60a4450ee4b5c896eab36/IG_POST.png?w=264&h=264&f=center&fit=fill",
-                        "width": 264,
-                        "height": 264
-                    },
-                    "large": {
-                        "title": "IG_POST.png",
-                        "path": "/9jtsgmsiuthj/1TOd5mCvw2DMG3971U6sGM/7c9e389cebc60a4450ee4b5c896eab36/IG_POST.png?w=352&h=352&f=center&fit=fill",
-                        "width": 352,
-                        "height": 352
-                    },
-                    "largeRetina": {
-                        "title": "IG_POST.png",
-                        "path": "/9jtsgmsiuthj/1TOd5mCvw2DMG3971U6sGM/7c9e389cebc60a4450ee4b5c896eab36/IG_POST.png?w=440&h=440&f=center&fit=fill",
-                        "width": 440,
-                        "height": 440
-                    }
-                },
-                "heroImage": {
-                    "small": {
-                        "title": "THUMBNAIL.png",
-                        "path": "/9jtsgmsiuthj/3s1ihKWDsX7JI3216j7ugI/8db75643f4abadb2a65d3f0260f794cb/THUMBNAIL.png?w=144&h=81&f=center&fit=fill",
-                        "width": 144,
-                        "height": 81
-                    },
-                    "smallRetina": {
-                        "title": "THUMBNAIL.png",
-                        "path": "/9jtsgmsiuthj/3s1ihKWDsX7JI3216j7ugI/8db75643f4abadb2a65d3f0260f794cb/THUMBNAIL.png?w=288&h=162&f=center&fit=fill",
-                        "width": 288,
-                        "height": 162
-                    },
-                    "medium": {
-                        "title": "THUMBNAIL.png",
-                        "path": "/9jtsgmsiuthj/3s1ihKWDsX7JI3216j7ugI/8db75643f4abadb2a65d3f0260f794cb/THUMBNAIL.png?w=360&h=203&f=center&fit=fill",
-                        "width": 360,
-                        "height": 203
-                    },
-                    "mediumRetina": {
-                        "title": "THUMBNAIL.png",
-                        "path": "/9jtsgmsiuthj/3s1ihKWDsX7JI3216j7ugI/8db75643f4abadb2a65d3f0260f794cb/THUMBNAIL.png?w=432&h=243&f=center&fit=fill",
-                        "width": 432,
-                        "height": 243
-                    },
-                    "large": {
-                        "title": "THUMBNAIL.png",
-                        "path": "/9jtsgmsiuthj/3s1ihKWDsX7JI3216j7ugI/8db75643f4abadb2a65d3f0260f794cb/THUMBNAIL.png?w=576&h=324&f=center&fit=fill",
-                        "width": 576,
-                        "height": 324
-                    },
-                    "largeRetina": {
-                        "title": "THUMBNAIL.png",
-                        "path": "/9jtsgmsiuthj/3s1ihKWDsX7JI3216j7ugI/8db75643f4abadb2a65d3f0260f794cb/THUMBNAIL.png?w=720&h=405&f=center&fit=fill",
-                        "width": 720,
-                        "height": 405
-                    }
-                },
-                "details": {
-                    "0": {
-                        "title": "",
-                        "order": "0",
-                        "type": "textBlock",
-                        "body": "<p>As we get closer to the start of this year&#39;s CRL season (more on the official program coming soon!), it is time to get yourself ready with the CRL Warmup, a competition that will help all players prepare for this new season of competitive Clash Royale!</p><p>The CRL Warmup will bring together the best players of the CRL23, along with 10 more players who will have the chance to participate in the Open Qualifiers on <b>February 23rd and 24th.</b>\n</p><p>The competition will consist of 3 stages:</p><p><b>Stage 1: Open Qualifiers</b></p><p>There will be a total of 5 Open Qualifiers, with each one being played in a 1000-player in-game tournament. The Top 16 will then move on and play a single-elimination bracket where the Top 2 will automatically qualify for Stage 2.</p><p>Friday, February 23rd:</p><ul><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.twitch.tv%2Frevolaimar')\">RevolAimar</a> at 16:00 UTC</p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.twitch.tv%2Fjuicyjcr')\">JuicyJ</a> at 20:00 UTC</p></li></ul><p>Saturday, February 24th:</p><ul><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCeByyP8Re3btC3LiH5pnI1w')\"><u>Rush</u></a> at 12:00 UTC</p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.twitch.tv%2FBigSpinCR')\"><u>BigSpin</u></a> at 19:00 UTC</p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2F%40ArtubeClash')\"><u>Artube Clash</u></a> at 23:00 UTC</p></li></ul><p>To participate in the Qualifiers, make sure to join the Clash Royale Community Events <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdiscord.gg%2FWpB6nAgTvk')\"><u>Discord server</u></a> and stay tuned to get notified when the tournament name and passwords are made available! Once you have all the details, head to the \u201cTournaments\u201d tab in-game and search for the tournament.</p><p><b></b></p><p><b>Stage 2: Group Stage</b></p><p>The 10 qualified players from Stage 1 will join 14 of the CRL23 top players on <b>March 2nd, 3rd, 9th, and 10th</b>, and will be divided into 4 groups of 6 players each. In this phase, they will play a single round-robin, with the Top 4 of each group advancing to the Grand Final.</p><p>The CRL23 confirmed players are <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FPedrotmClash')\"><u>PedroTM</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FPandoraRa11')\"><u>Pandora</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2Fairsurfercr')\"><u>Airsurfer</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FAdrielEduardo11')\"><u>Adriel</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2Frubizalez')\"><u>Rub\u00e9n</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FMohamedLight3')\"><u>Mohamed Light</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2Fardentoas191')\"><u>Ardentoas</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FSamuel_Bassotto')\"><u>Samuel Bassotto</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FVitor75u')\"><u>Vitor75</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FWallaceCR_')\"><u>Wallace</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FFaust_cr')\"><u>Faust</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FwoahSosaa')\"><u>Sosaa</u></a>, <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2Fmortenroyale')\"><u>Morten</u></a> and <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FTaa_0922')\">Taa</a>.</p><p><b></b></p><p><b>Stage 3: Final Bracket</b></p><p>To top it all off, from <b>March 15th to 17th</b>, the top 16 players from the Group Stage will face each other in a double-elimination for the title of Champion of the CRL Warmup and the biggest share of the prize pool!</p><p>A total of $15,000 prize pool will be shared among the top 8 players as follows:</p><ul><li><p>1st: $7,500</p></li><li><p>2nd: $3,000</p></li><li><p>3rd: $1,500</p></li><li><p>4th: $1,000</p></li><li><p>5th-8th: $500</p></li></ul><p></p><p>Find out more on the CRL Warmup <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1-eEido2iSgekm0cjs321eHbPSztwA4UGSAXyPMk7qME%2Fedit')\"><u>Rulebook</u></a> and <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdiscord.gg%2FWpB6nAgTvk')\"><u>Discord server</u></a>, and make sure to follow <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FEsportsRoyaleEN')\"><u>Esports Royale</u></a> and <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FRevolAimar')\"><u>RevolAimar</u></a> to find out all the latest news!</p><p><i>See you in the Arena,</i></p><p><i>Clash Royale Esports</i></p>"
-                    }
-                }
-            },
-            {
-                "id": "ruQGwvRwrpChmMOS0j0WNRbcMNVdDSdfMnraSbwJ1T8",
-                "index": 6,
-                "targeting": null,
-                "metadata": {
                     "id": "ruQGwvRwrpChmMOS0j0WNRbcMNVdDSdfMnraSbwJ1T8",
-                    "publishedVersion": 45,
-                    "publishedAt": "2024-04-11T13:44:15.830Z"
+                    "publishedVersion": 127,
+                    "publishedAt": "2024-06-07T12:06:45.472Z"
                 },
                 "postDate": "1674482400",
                 "lang": "en",
@@ -1163,7 +1090,7 @@
                         "color": "#005fae"
                     }
                 ],
-                "newUntil": "1714124581",
+                "newUntil": "1718108397",
                 "esportRegions": [],
                 "type": "esportNewsEntry",
                 "listingSize": "small",
@@ -1255,7 +1182,7 @@
                         "title": "",
                         "order": "1",
                         "type": "textBlock",
-                        "body": "<hr/>"
+                        "body": "<hr/><p></p>"
                     },
                     "2": {
                         "title": "",
@@ -1267,13 +1194,13 @@
                         "title": "",
                         "order": "3",
                         "type": "textBlock",
-                        "body": "<hr/>"
+                        "body": "<hr/><p><b>LPL Clash Royale World Tour 2024</b></p><p>LPL World Tour 2024 will be a 2-season competition. Each Season will consist of a Qualifiers stage and a 16-player final bracket awarding CRL community points.</p><p>More info coming soon!</p><hr/><p><b>GKR 2024 Solo</b></p><p>GKR 2024 Solo will be a 3-Phase tournament running from 22 July through 4 August. The last phase will be a 16-player final bracket awarding CRL community points.</p><p>More info coming soon!</p><hr/><p></p>"
                     },
                     "4": {
                         "title": "",
                         "order": "4",
                         "type": "textBlock",
-                        "body": "<p><b>Ongoing tournaments</b></p><p>Want to watch the world\u2019s best players in action? Here\u2019s where you will be able to find the ongoing tournaments supported by us! \n\n<b>Clash Royale League 2024</b></p><p>CRL is back with another year of the highest level of competitive Clash Royale! Following last year&#39;s format, 2024 brings you top-tier gameplay with Monthly Qualifiers, Golden Tickets, an in-person event, and more!</p><p><b>Format: </b>Starting in April, the top 1000 players of the Path of Legends will be able to face each other in Monthly Qualifiers until only 8 players remain. The top 8 players will then move to the Monthly Finals, with the winner receiving a Golden Ticket directly to the CRL World Finals. A total of 5 monthly competitions will be played in-game via the Tournament Hub from April to August. The top player of the CRL24 Leaderboard, a player from China, and the top player from the Community Tournaments Leaderboard will join the 5 players that qualified through the Monthly Qualifiers. At the World Finals, these 8 players will go head to head for the title of World Champion.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate in the CRL Monthly Qualifiers. Players must pass the fair play check, participate with clean accounts, and follow good sportsmanship.</p><hr/><p><b>Dragon League by QLASH</b></p><p>The QLASH App events reached the next level! We\u2019re excited to present a new event that will accompany the players throughout the entire Clash Royale competitive season!\nFrom fiery Qualifiers to scorching hot Monthly Finals, the format will reward skill and consistency, granting everyone the chance to compete for a share of the $30.000 prize pool and some exclusive Clash Royale League points for this year&#39;s community leaderboard!</p><p><b>Format: </b>Starting April 1st, the Dragon League will host 5 seasons, with a total of four stages, each leading to the Grand Final, later this year. Starting in the Path of Dragon, players will be able to play daily tournaments to gather points to the Dragon League Leaderboard. By placing in the top 96, these players along with 16 players from 2 Last Chance Qualifiers, will qualify for the Dragon&#39;s Breath Tournament, a 128 double-elimination bracket where the top 16 players move on to the Dragon League Monthly Final, playing a 16-player double-elimination bracket, which will also award points for the CRL community leaderboard. The best 3 players of each Monthly Final will have the chance to participate in a Grand Final event later this year.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate in the CRL Monthly Qualifiers. </p><hr/><p><b>Calals Cup 2024</b></p><p>The Calalas Cup 2024 is a brand-new competition, giving players the chance to compete for the 15,000\u20ac prize pool and earn points for the CRL24 Community Leaderboard!</p><p><b>Format:</b> From April 19th to May 5th, the Calalas Cup will be open for everyone to compete in and will be divided into three phases. In phase 1 players will be able to play 8 1000-player in-game qualifiers, with the top 4 players from each qualifier advancing to phase 2, the Group Stage. From there, the 32 qualified players will be divided into 4 groups of 8 players competing in a single round-robin format, with the top 4 from each group advancing to the final phase, a 16-player bracket, awarding points for the CRL Community Leaderboard.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate.</p>"
+                        "body": "<p><b>Ongoing tournaments</b></p><p>Want to watch the world\u2019s best players in action? Here\u2019s where you will be able to find the ongoing tournaments supported by us! \n\n<b>Clash Royale League 2024</b></p><p>CRL is back with another year of the highest level of competitive Clash Royale! Following last year&#39;s format, 2024 brings you top-tier gameplay with Monthly Qualifiers, Golden Tickets, an in-person event, and more!</p><p><b>Format: </b>Starting in April, the top 1000 players of the Path of Legends will be able to face each other in Monthly Qualifiers until only 8 players remain. The top 8 players will then move to the Monthly Finals, with the winner receiving a Golden Ticket directly to the CRL World Finals. A total of 5 monthly competitions will be played in-game via the Tournament Hub from April to August. The top player of the CRL24 Leaderboard, a player from China, and the top player from the Community Tournaments Leaderboard will join the 5 players that qualified through the Monthly Qualifiers. At the World Finals, these 8 players will go head to head for the title of World Champion.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate in the CRL Monthly Qualifiers. Players must pass the fair play check, participate with clean accounts, and follow good sportsmanship.</p><hr/><p><b>Dragon League by QLASH</b></p><p>The QLASH App events reached the next level! We\u2019re excited to present a new event that will accompany the players throughout the entire Clash Royale competitive season!\nFrom fiery Qualifiers to scorching hot Monthly Finals, the format will reward skill and consistency, granting everyone the chance to compete for a share of the $30.000 prize pool and some exclusive Clash Royale League points for this year&#39;s community leaderboard!</p><p><b>Format: </b>Starting April 1st, the Dragon League will host 5 seasons, with a total of four stages, each leading to the Grand Final, later this year. Starting in the Path of Dragon, players will be able to play daily tournaments to gather points to the Dragon League Leaderboard. By placing in the top 96, these players along with 16 players from 2 Last Chance Qualifiers, will qualify for the Dragon&#39;s Breath Tournament, a 128 double-elimination bracket where the top 16 players move on to the Dragon League Monthly Final, playing a 16-player double-elimination bracket, which will also award points for the CRL community leaderboard. The best 3 players of each Monthly Final will have the chance to participate in a Grand Final event later this year.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate.</p><hr/><p></p>"
                     },
                     "5": {
                         "title": "",
@@ -1285,7 +1212,7 @@
                         "title": "",
                         "order": "6",
                         "type": "textBlock",
-                        "body": "<p><b>Past tournaments</b></p><p>Below you\u2019ll find some of the past tournaments where players battled for prize money, trophies and glory. Feel free to check the VODs to rewatch all the action!</p><p><b>CRL Warmup 2023</b></p><p>CRL 2023 Warmup brought together last year\u2019s CRL World Finalists along with the 16 best players from open qualifiers! Three stages were played: Open Qualifiers, Double-Round Robin Group Stage and Single-Elimination Bracket finals.</p><p><b>Format and rules</b> <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1bXmBSgGl-_SYlZUKv21hJungIcHbuApbnNKWrW3yJ7Y%2Fedit')\">here</a>.\n<b>Participation </b>was free and open to 16 year old+ players.\n<b>Rewatch the finals:</b> <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fyoutu.be%2FaaH-3rxNNc4')\">here</a>!</p><p><b>\nAMG Cup</b></p><p>Sixteen of the best players in the world were invited to compete in a single elimination bracket during two days of competition. Every battle was played in Megadraft, a game mode that consists of picking cards from a total of 36 possible, with the order of choice alternating between the two opponents.</p><p><b>Format: </b>16 player single elimination bracket using Megadraft mode.</p><p><b>Participation criteria: </b>Invitational</p><p><b>Rewatch the finals</b> <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fyoutu.be%2F7ZbJmo4vzqI')\">here</a>!</p><hr/><p><b>Clash Royale League 2022</b></p><p>Throughout 2022, 16 players had the chance to qualify for the CRL World Finals. Six managed to do it through community tournaments that guaranteed the winner a Golden Ticket. The remaining ten achieved it during the 6-week official CRL qualifiers.</p><p>The World Finals took place in Helsinki, Finland, with a prize pool of $1.000,000 on the line! </p><ul><li><p>Participation was free and open to 16 year old+ players.</p></li><li><p>Format and rules <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fesports.clashroyale.com%2Fnews%2Fclash-royale-league-2022-world-finals')\">here</a>.</p></li><li><p>Rewatch the World Finals here! </p><ul><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.twitch.tv%2Fvideos%2F1598923960')\">Day 1</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.twitch.tv%2Fvideos%2F1599909508')\">Day 2</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.twitch.tv%2Fvideos%2F1600914042')\">Day 3</a><b>\n</b></p></li></ul></li></ul><p><b>LetsPlay.Live Clash Royale Asia-Pacific Tour</b></p><p>LPL Clash Royale Asia-Pacific Tour invited mobile esports fans across Oceania, Southeast Asia, Japan and Korea, to compete for a share of $27,500 AUD. The prize pool was shared across the tournament\u2019s two divisions: Open Division and Pro Division, with Pro Division being broadcast by LPL in English, Japanese and Korean!</p><ul><li><p>Participation was free and opened to 16 year old+ players residing in Japan, Korea, SEA or ANZ regions.</p></li><li><p>Format and rules <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fclash.s3.ap-southeast-2.amazonaws.com%2FLPL%2BCLASH%2BROYALE%2BASIA-PACIFIC%2BTOUR%2BRULESET.pdf')\">here</a>.</p></li><li><p>Rewatch the finals <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.twitch.tv%2Fvideos%2F1708505099')\">here</a>!</p></li></ul><p> <b>Dreamhack Dedsaf\u00edo Royale</b></p><p>Dedsafio Royale was held at one of the biggest live events of the year: DreamHack Valencia. </p><p>A total of 9 invited + 3 qualified players competed in the Dreamhack\u2019s mainstage for a share of 15.000\u20ac in prize pool!</p><ul><li><p>Participation was free and open to 16 year old+ players visiting Dreamhack.</p></li><li><p>Format and rules <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdreamhack.es%2Fdedsafio-royale-dreamhack%2F%23online')\">here</a>.</p></li><li><p>Rewatch the finals <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fyoutu.be%2Fyb8sVYAKysY')\">here</a>!</p></li></ul><hr/><p><b>RoyaleMSTRS: </b>Summer Clash </p><p>A 2-weekend event with 4 Open Qualifiers, each featuring a unique Party Game Mode! The 4 Qualifiers lead into the Combination Championship, featuring all 4 Party Game Modes!\n\nThe 4 Party Game Modes that were featured in this event were <b>3x Elixir, Triple Draft, Sudden Death and Heist</b></p><p><b>Format: </b>All 4 Qualifiers followed the same format, except that each Qualifier featured a single, unique Party Game Mode being played. Players competed in as many Qualifiers as they wanted until they qualified for the Combination Championship</p><ul><li><p><b>Open Registration, in-game tournament: </b>The in-game tournament used the Party Game Mode featured that Qualifier.</p></li><li><p><b>The Top 8 players</b> from the in-game tournament advanced to the single elimination bracket stage, where the Top 2 players qualified for the Combination Championship.</p></li><li><p><b>Combination Championship:</b> Once the 4 qualifier tournaments took place, the Top 2 players from each tournament qualified for the Combination Championship, a single elimination bracket. All matches were Best of 3 across various party game modes featured in the qualifier tournaments, except Grand Finals, which was a Best of 5.</p></li></ul><p><b>Participation criteria: </b>You needed to be 16 years old or older to participate.</p><hr/><p><b>BESF Cup</b></p><p>The Belgium Esports Federation brought you the BESF Cup, where you were able to compete in a solo and clan track to prove you are one of the best Clash Royale Players.</p><p><b>Format: </b>Eight qualifiers were held. In each one of them, two players qualified for the offline finals at the Pukkelpop<b> </b>music festival. The game format for all BESF Cup Solo Qualifiers was as follows: 1v1 in-game duel-friendly battle mode. Finals featured a 16-player bracket.</p><p><b>Participation criteria: </b>You needed to be 16+ years old or to participate and reside in any of the following countries: Albania, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kazakhstan, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North-Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom, Vatican city.</p><hr/><p><b>Meg 2023</b>\nMeg returned with the 2023 edition, covering multiple esports competitions with offline finals in Rio de Janeiro.</p><p><b>Format:</b> Three stages were played, the Open Qualifiers and the Playoffs online, and the Grand Finals Offline on the main event.</p><p><b>Participation criteria: </b>You needed to be 16 years old or older to participate. You needed to reside in the LATAM region.</p><hr/><p><b>RoyaleMSTRS</b></p><p>RoyaleMSTRS was back with their traditional 5 week season, and with it returned with the MSTRS Duels format! Their traditional series featured five weeks of competition and included 3 Open Qualifiers, 1 Wild Card Open, and Playoffs to determine a winner.</p><p><b>Format:</b> Players competed in weekly Qualifiers to earn Qualification Points. After three Open Qualifiers, the top 6 players received an automatic invite to the Playoffs. The other 2 players for the Playoffs were decided through the Wild Card Open, where the top 2 players at the end of the event qualified for the last 2 Playoff spots. The 8 players that qualified for the Playoffs were placed into a double-elimination bracket, with all upper bracket matchups being a Bo3 and the Grand Finals &amp; all lower bracket matchups being a Bo5.</p><p><b>Participation criteria: </b>You needed to be 16 years old or older to participate.</p><hr/><p><b>Clash Royale League 2023</b></p><p>The Clash Royale League had yet another year of high-level competition! With a new format, a total of 1.3 million USD on the line, and some epic matches to be played, Clash Royale League 2023 was set up to be better than ever! In 2023 we\u2019ve decided to take the best of the 2021 and 2022 CRL formats and combine them to make a perfect combination!</p><p><b>Format: </b>Starting February 6th with the Path of Legends, the top 1000 players were able to battle it out in Monthly Qualifiers until 8 players remained, who moved on to the Monthly Finals. A total of seven (7) monthly competitions were played in-game via the Tournament hub throughout the year. Through our seven months of competition we had 14 players qualified for the World Finals. They were joined by two players from China to make up the best 16 players in the world who had a chance to prove themselves in the Arena to be crowned World Champion.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate in the CRL Monthly Qualifiers. Players must pass the fair play check, participate with clean accounts, and follow good sportsmanship.</p><hr/><p><b>RoyaleMSTRS: King of the Hill </b></p><p>RoyaleMSTRS was back with 9 King of the Hill events over 9 months! With 24 games, each player was guaranteed at least three chances to become \u2018King\u2019 and remain on top. In addition to remaining King and continuing to play, each win awarded players $100!</p><p><b>Format: </b>Players competed in an in-game tournament, where the top 8 qualified players were invited to the \u2018Main Event\u2019 the following day. Those eight players were randomly sorted, and then the first two played a single game against each other without card restrictions. The winner stays on, the loser goes to the back of the line, and the next player challenges the previous winner.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate.</p><hr/><p><b>ESL Snapdragon Pro Series Season 3</b></p><p>The Snapdragon Pro Series featured 3 Open Cups of different formats: Duels, Mega Draft, and 2v2. The Season Finals had the duos compete in all 3 modes (1v1 Duels, 1v1 Mega Draft, 2v2) and crowned the best duo in Season 3 of the Snapdragon Pro Series!</p><p><b>Format</b>: Every Open format type listed below featured 3 Open Cups. The winners of these cups qualified directly to their corresponding Open Finals, while other competitors earned points towards their ranking. The Top 5 players from the ranking system also qualified for the Open Finals. The Top 8 players from their respective qualifiers faced off in a single-elimination bracket to crown the champion!</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate and live in the regions of NA, LATAM, Europe or MENA.</p><hr/><p><b>LPL World Tour - Season 2</b></p><p>The Tournament had a total of eight Open Qualifiers, with the top 2 players from each Open Qualifier entering the Pro Division and the rest placed in the Open Division. </p><p><b>Format:</b> In the Pro Division, the top 16 qualified players entered a 16-team Double-Elimination bracket to crown the global champion, and in the Open Division, players who did not qualify for the Pro Division were placed in a Single-Elimination bracket to find the best Open Division player.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate.</p><hr/><p><b>ESL Snapdragon Pro Series Season 4</b></p><p>Season 4 came packed with exciting opportunities, including a total prize pool of $25,000 and fresh ways to compete and emerge victorious. </p><p><b>Format: </b>The competition consisted of 3 open cups, a 2v2 Cup, a 1v1 Cup, and a 1v1 Mega Draft Cup, each having a Qualifier Phase, and Finals. The victors of these cups earned direct qualification to their respective Open Finals. Meanwhile, other competitors accumulated points to bolster their rankings. The top 5 players from the ranking system also secured a spot in the Open Finals. The top 8 players<b> </b>from their respective qualifiers engaged in a thrilling single-elimination bracket showdown to determine the ultimate champion!</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate. Players must reside in the following regions to participate: Europe &amp; MENA, North America, and Latin America</p><hr/><p><b>Dreamhack 2023 Circuit</b></p><p>Dreamhack was back, featuring 4 events, with each final being hosted at gaming festivals in Andorra, Valencia, Barcelona, and the Grand Finals in Valencia.</p><p><b>Format:</b> Each event had an Online Qualifier, qualifying 6 players for the offline event; an Offline Qualifier, qualifying 2 players for the main competitions, which was played in a single-elimination bracket. Players collected points to decide who qualified for the Dreamhack Grand Finals in Valencia, with the top 6 guaranteeing their spot. the remaining 2 spots were decided in an Online Qualifier that was played between the top 16 players (from 7th to 23rd places) and an Offline Qualifier in the event before the main competition.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate.</p><hr/><p><b>Queso Cup</b></p><p>After the success of the Queso Cup Teams Edition at the end of 2022, we brought you again a more team-driven competition; 4 organizations that were present in the past CRL Teams Edition competed throughout the year against four other teams that entered the event through open qualifiers. </p><p><b>Format:</b></p><ul><li><p>Split 1 (24th March - 23rd April): 8-team league format: One-way, 7 match days, and Final Bracket.</p></li><li><p>Split 2 (19th July - 27th August): 8-team league format: Double-way, 14 match days and Final Bracket.</p></li><li><p>Last Chance Qualifier (14th - 17th December): 8-team double elimination bracket (For extra points!)</p></li><li><p>Grand Finals (20th - 23rd December): The Best six teams at the end of the year will compete over four days in a double-elimination bracket. </p></li></ul><p><b>Participation criteria:</b> Open to every team of three to five players. Players need to be 16+ years old.</p><hr/><p><b>GKR Leagues</b></p><p>GKR was back with five new team-based competitions for 2023 with a total prize pool of $46,000! There were four competitions to participate in: Spring Split, Summer Split, Autumn Split and Winter Split. From there, you had the chance to qualify for the main event: the GKR Finals 2023.</p><p><b>Format:</b> For each Split, four (4) qualifiers were held to determine the eight (8) official participant teams. From then on, teams played a group stage to determine the top teams that would qualify for the playoffs. The winner of each Split automatically qualified for the GKR Finals 2023, having a total of four (4) teams meet on December 28th to determine the GKR 2023 World Champion.</p><p><b>Participation criteria: </b>Open to every team. One team captain + four players are needed for each team to participate.</p><hr/><p><b>National League Series - 14th Edition</b></p><p>The competition consisted of 2 regular splits and finals, taking the top 2 teams from each split to the Grand Finals.</p><p><b>Format: </b>Split 1 (National Series Red) and Split 2 (National Series Blue) started with an 8 team Group Phase in which the top 6 teams moved on to a single-elimination bracket, qualifying the top 2 teams from each split to the Grand Finals (National Series Gold)</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate.</p><hr/><p><b>CRL Warmup 2024</b></p><p>CRL Warmup brought together 14 of the CRL23 top players along with 10 players from 5 Qualifiers! The competition consisted of 3 stages: Open Qualifiers, a Double Round-Robin Group Stage, and a Double-elimination Final Bracket.</p><p><b>Format and rules</b> <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1-eEido2iSgekm0cjs321eHbPSztwA4UGSAXyPMk7qME%2Fedit')\">here</a>.</p><p><b>Participation </b>is free and open to 16-year-old+ players. </p>"
+                        "body": "<p><b>Past tournaments</b></p><p>Below you\u2019ll find some of the past tournaments where players battled for prize money, trophies, and glory!</p><hr/><p><b>CRL Warmup 2024</b></p><p>CRL Warmup brought together 14 of the CRL23 top players along with 10 players from 5 Qualifiers! The competition consisted of 3 stages: Open Qualifiers, a Double Round-Robin Group Stage, and a Double-elimination Final Bracket.</p><p><b>Format and rules</b> <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1-eEido2iSgekm0cjs321eHbPSztwA4UGSAXyPMk7qME%2Fedit')\">here</a>.</p><p><b>Participation </b>is free and open to 16-year-old+ players. </p><hr/><p><b>Calalas Cup 2024</b></p><p>The Calalas Cup 2024 was a brand-new competition, giving players the chance to compete for the 15,000\u20ac prize pool and earn points for the CRL24 Community Leaderboard!</p><p><b>Format:</b> From April 19th to May 5th, the Calalas Cup was open for everyone to compete in and was divided into three phases. In phase 1 players were able to play 8 1000-player in-game qualifiers, with the top 4 players from each qualifier advancing to phase 2, the Group Stage. From there, the 32 qualified players were divided into 4 groups of 8 players competing in a single round-robin format, with the top 4 from each group advancing to the final phase, a 16-player bracket, awarding points for the CRL Community Leaderboard.</p><p><b>Participation criteria: </b>You need to be 16 years old or older to participate.</p>"
                     },
                     "7": {
                         "title": "",
@@ -1304,44 +1231,44 @@
         ],
         "esportCarouselEntries": [
             {
-                "id": "34hQlGmkQSpHIfricC8uad",
+                "id": "4K2lSUAe3andjMqfPnQsIU",
                 "type": "eventEntry",
                 "title": "-",
                 "subtitle": "",
                 "carouselImage": {
                     "small": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/1l6Qf3tyiT41bez4MfKh2m/9eba77980e4b29c353c1c6eaadfd8c22/INGAME_960X764.png?w=192&h=153&f=center&fit=fill",
+                        "title": "Copy of CRL - June MQ Group Thumb In-game.png",
+                        "path": "/9jtsgmsiuthj/6cdogLdxbBFMahdUDgzDDm/3b86e5593410fa3d425aed562f6c94f1/Copy_of_CRL_-_June_MQ_Group_Thumb_In-game.png?w=192&h=153&f=center&fit=fill",
                         "width": 192,
                         "height": 153
                     },
                     "smallRetina": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/1l6Qf3tyiT41bez4MfKh2m/9eba77980e4b29c353c1c6eaadfd8c22/INGAME_960X764.png?w=384&h=306&f=center&fit=fill",
+                        "title": "Copy of CRL - June MQ Group Thumb In-game.png",
+                        "path": "/9jtsgmsiuthj/6cdogLdxbBFMahdUDgzDDm/3b86e5593410fa3d425aed562f6c94f1/Copy_of_CRL_-_June_MQ_Group_Thumb_In-game.png?w=384&h=306&f=center&fit=fill",
                         "width": 384,
                         "height": 306
                     },
                     "medium": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/1l6Qf3tyiT41bez4MfKh2m/9eba77980e4b29c353c1c6eaadfd8c22/INGAME_960X764.png?w=480&h=382&f=center&fit=fill",
+                        "title": "Copy of CRL - June MQ Group Thumb In-game.png",
+                        "path": "/9jtsgmsiuthj/6cdogLdxbBFMahdUDgzDDm/3b86e5593410fa3d425aed562f6c94f1/Copy_of_CRL_-_June_MQ_Group_Thumb_In-game.png?w=480&h=382&f=center&fit=fill",
                         "width": 480,
                         "height": 382
                     },
                     "mediumRetina": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/1l6Qf3tyiT41bez4MfKh2m/9eba77980e4b29c353c1c6eaadfd8c22/INGAME_960X764.png?w=576&h=458&f=center&fit=fill",
+                        "title": "Copy of CRL - June MQ Group Thumb In-game.png",
+                        "path": "/9jtsgmsiuthj/6cdogLdxbBFMahdUDgzDDm/3b86e5593410fa3d425aed562f6c94f1/Copy_of_CRL_-_June_MQ_Group_Thumb_In-game.png?w=576&h=458&f=center&fit=fill",
                         "width": 576,
                         "height": 458
                     },
                     "large": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/1l6Qf3tyiT41bez4MfKh2m/9eba77980e4b29c353c1c6eaadfd8c22/INGAME_960X764.png?w=768&h=611&f=center&fit=fill",
+                        "title": "Copy of CRL - June MQ Group Thumb In-game.png",
+                        "path": "/9jtsgmsiuthj/6cdogLdxbBFMahdUDgzDDm/3b86e5593410fa3d425aed562f6c94f1/Copy_of_CRL_-_June_MQ_Group_Thumb_In-game.png?w=768&h=611&f=center&fit=fill",
                         "width": 768,
                         "height": 611
                     },
                     "largeRetina": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/1l6Qf3tyiT41bez4MfKh2m/9eba77980e4b29c353c1c6eaadfd8c22/INGAME_960X764.png?w=960&h=764&f=center&fit=fill",
+                        "title": "Copy of CRL - June MQ Group Thumb In-game.png",
+                        "path": "/9jtsgmsiuthj/6cdogLdxbBFMahdUDgzDDm/3b86e5593410fa3d425aed562f6c94f1/Copy_of_CRL_-_June_MQ_Group_Thumb_In-game.png?w=960&h=764&f=center&fit=fill",
                         "width": 960,
                         "height": 764
                     }
@@ -1351,11 +1278,191 @@
                         "title": null,
                         "type": "url",
                         "urlType": "url",
-                        "id": "6MY79VLVVm6QpnYhicZZjF",
+                        "id": "579aFKmfCVvsVIyhkEgBaU",
                         "order": "0",
                         "variant": "red-play",
-                        "url": "https://www.youtube.com/watch?v=zf2SMalMz28",
+                        "url": "https://www.youtube.com/live/g-3bkL3tKDo?si=sJRWOUHZF95pjcH2&t=147",
                         "label": "Rewatch!"
+                    }
+                ],
+                "esportRegions": []
+            },
+            {
+                "id": "5qcJzzlopECpUCiBMmDvlA",
+                "type": "eventEntry",
+                "title": "-",
+                "subtitle": "",
+                "carouselImage": {
+                    "small": {
+                        "title": "dragon_league_in-game_DAY2.jpg",
+                        "path": "/9jtsgmsiuthj/5JMW1bCwo1MnKHFpCs6JWd/da80138269e591a2192a0026e26c5e21/dragon_league_in-game_DAY2.jpg?w=192&h=153&f=center&fit=fill",
+                        "width": 192,
+                        "height": 153
+                    },
+                    "smallRetina": {
+                        "title": "dragon_league_in-game_DAY2.jpg",
+                        "path": "/9jtsgmsiuthj/5JMW1bCwo1MnKHFpCs6JWd/da80138269e591a2192a0026e26c5e21/dragon_league_in-game_DAY2.jpg?w=384&h=306&f=center&fit=fill",
+                        "width": 384,
+                        "height": 306
+                    },
+                    "medium": {
+                        "title": "dragon_league_in-game_DAY2.jpg",
+                        "path": "/9jtsgmsiuthj/5JMW1bCwo1MnKHFpCs6JWd/da80138269e591a2192a0026e26c5e21/dragon_league_in-game_DAY2.jpg?w=480&h=382&f=center&fit=fill",
+                        "width": 480,
+                        "height": 382
+                    },
+                    "mediumRetina": {
+                        "title": "dragon_league_in-game_DAY2.jpg",
+                        "path": "/9jtsgmsiuthj/5JMW1bCwo1MnKHFpCs6JWd/da80138269e591a2192a0026e26c5e21/dragon_league_in-game_DAY2.jpg?w=576&h=458&f=center&fit=fill",
+                        "width": 576,
+                        "height": 458
+                    },
+                    "large": {
+                        "title": "dragon_league_in-game_DAY2.jpg",
+                        "path": "/9jtsgmsiuthj/5JMW1bCwo1MnKHFpCs6JWd/da80138269e591a2192a0026e26c5e21/dragon_league_in-game_DAY2.jpg?w=768&h=611&f=center&fit=fill",
+                        "width": 768,
+                        "height": 611
+                    },
+                    "largeRetina": {
+                        "title": "dragon_league_in-game_DAY2.jpg",
+                        "path": "/9jtsgmsiuthj/5JMW1bCwo1MnKHFpCs6JWd/da80138269e591a2192a0026e26c5e21/dragon_league_in-game_DAY2.jpg?w=960&h=764&f=center&fit=fill",
+                        "width": 960,
+                        "height": 764
+                    }
+                },
+                "ctaButtons": [
+                    {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "4GaooUQGOhtPgLZ0o7H3JB",
+                        "order": "0",
+                        "variant": "red-play",
+                        "url": "https://www.twitch.tv/videos/2155778051?t=00h15m29s",
+                        "label": "Rewatch!"
+                    }
+                ],
+                "esportRegions": []
+            },
+            {
+                "id": "2AHdaU3fZsDvWuhltS3sv9",
+                "type": "eventEntry",
+                "title": "-",
+                "subtitle": "",
+                "carouselImage": {
+                    "small": {
+                        "title": "INGAME.png",
+                        "path": "/9jtsgmsiuthj/5q8cs148MM9JgToY3A5AwL/a3fa56aaa6c1181e1449d229dbc294a3/INGAME.png?w=192&h=153&f=center&fit=fill",
+                        "width": 192,
+                        "height": 153
+                    },
+                    "smallRetina": {
+                        "title": "INGAME.png",
+                        "path": "/9jtsgmsiuthj/5q8cs148MM9JgToY3A5AwL/a3fa56aaa6c1181e1449d229dbc294a3/INGAME.png?w=384&h=306&f=center&fit=fill",
+                        "width": 384,
+                        "height": 306
+                    },
+                    "medium": {
+                        "title": "INGAME.png",
+                        "path": "/9jtsgmsiuthj/5q8cs148MM9JgToY3A5AwL/a3fa56aaa6c1181e1449d229dbc294a3/INGAME.png?w=480&h=382&f=center&fit=fill",
+                        "width": 480,
+                        "height": 382
+                    },
+                    "mediumRetina": {
+                        "title": "INGAME.png",
+                        "path": "/9jtsgmsiuthj/5q8cs148MM9JgToY3A5AwL/a3fa56aaa6c1181e1449d229dbc294a3/INGAME.png?w=576&h=458&f=center&fit=fill",
+                        "width": 576,
+                        "height": 458
+                    },
+                    "large": {
+                        "title": "INGAME.png",
+                        "path": "/9jtsgmsiuthj/5q8cs148MM9JgToY3A5AwL/a3fa56aaa6c1181e1449d229dbc294a3/INGAME.png?w=768&h=611&f=center&fit=fill",
+                        "width": 768,
+                        "height": 611
+                    },
+                    "largeRetina": {
+                        "title": "INGAME.png",
+                        "path": "/9jtsgmsiuthj/5q8cs148MM9JgToY3A5AwL/a3fa56aaa6c1181e1449d229dbc294a3/INGAME.png?w=960&h=764&f=center&fit=fill",
+                        "width": 960,
+                        "height": 764
+                    }
+                },
+                "ctaButtons": [
+                    {
+                        "title": null,
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "79fws8siu71w8hGwk62gzV",
+                        "order": "0",
+                        "variant": "red",
+                        "url": "https://www.youtube.com/live/XfoSziI-iaU?si=3puJwCCi2eG64oiX&t=1216",
+                        "label": "REWATCH!"
+                    }
+                ],
+                "esportRegions": []
+            },
+            {
+                "id": "Omc8EgvhGKECY1FgbMYY7",
+                "type": "eventEntry",
+                "title": "-",
+                "subtitle": "",
+                "carouselImage": {
+                    "small": {
+                        "title": "CRL - May MF Article 960x764.png",
+                        "path": "/9jtsgmsiuthj/2qwilzqPdJXXTkx9VGLZOq/98407d154ede34d6d3b9f5cf98f15b3c/CRL_-_May_MF_Article_960x764.png?w=192&h=153&f=center&fit=fill",
+                        "width": 192,
+                        "height": 153
+                    },
+                    "smallRetina": {
+                        "title": "CRL - May MF Article 960x764.png",
+                        "path": "/9jtsgmsiuthj/2qwilzqPdJXXTkx9VGLZOq/98407d154ede34d6d3b9f5cf98f15b3c/CRL_-_May_MF_Article_960x764.png?w=384&h=306&f=center&fit=fill",
+                        "width": 384,
+                        "height": 306
+                    },
+                    "medium": {
+                        "title": "CRL - May MF Article 960x764.png",
+                        "path": "/9jtsgmsiuthj/2qwilzqPdJXXTkx9VGLZOq/98407d154ede34d6d3b9f5cf98f15b3c/CRL_-_May_MF_Article_960x764.png?w=480&h=382&f=center&fit=fill",
+                        "width": 480,
+                        "height": 382
+                    },
+                    "mediumRetina": {
+                        "title": "CRL - May MF Article 960x764.png",
+                        "path": "/9jtsgmsiuthj/2qwilzqPdJXXTkx9VGLZOq/98407d154ede34d6d3b9f5cf98f15b3c/CRL_-_May_MF_Article_960x764.png?w=576&h=458&f=center&fit=fill",
+                        "width": 576,
+                        "height": 458
+                    },
+                    "large": {
+                        "title": "CRL - May MF Article 960x764.png",
+                        "path": "/9jtsgmsiuthj/2qwilzqPdJXXTkx9VGLZOq/98407d154ede34d6d3b9f5cf98f15b3c/CRL_-_May_MF_Article_960x764.png?w=768&h=611&f=center&fit=fill",
+                        "width": 768,
+                        "height": 611
+                    },
+                    "largeRetina": {
+                        "title": "CRL - May MF Article 960x764.png",
+                        "path": "/9jtsgmsiuthj/2qwilzqPdJXXTkx9VGLZOq/98407d154ede34d6d3b9f5cf98f15b3c/CRL_-_May_MF_Article_960x764.png?w=960&h=764&f=center&fit=fill",
+                        "width": 960,
+                        "height": 764
+                    }
+                },
+                "ctaButtons": [
+                    {
+                        "title": null,
+                        "type": "article",
+                        "urlType": "article",
+                        "id": "5uSnUo5US8UKBFkLXOqDZl",
+                        "order": "0",
+                        "variant": "gold",
+                        "label": "Read More!",
+                        "url": {
+                            "id": "5oaxK3o64UaAZvv461yamP",
+                            "section": "newsEntries"
+                        },
+                        "article": [
+                            {
+                                "id": "5oaxK3o64UaAZvv461yamP",
+                                "section": "newsEntries"
+                            }
+                        ]
                     }
                 ],
                 "esportRegions": []
@@ -1422,129 +1529,6 @@
                                 "section": "newsEntries"
                             }
                         ]
-                    }
-                ],
-                "esportRegions": []
-            },
-            {
-                "id": "1ZeQDxHHL12F7wCnGvE8yM",
-                "type": "eventEntry",
-                "title": "-",
-                "subtitle": "",
-                "carouselImage": {
-                    "small": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/2l4YBJ8hqKSEOD5r8dYHol/34993afe852b7f3951285ba51a1c4a6d/INGAME_960X764.png?w=192&h=153&f=center&fit=fill",
-                        "width": 192,
-                        "height": 153
-                    },
-                    "smallRetina": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/2l4YBJ8hqKSEOD5r8dYHol/34993afe852b7f3951285ba51a1c4a6d/INGAME_960X764.png?w=384&h=306&f=center&fit=fill",
-                        "width": 384,
-                        "height": 306
-                    },
-                    "medium": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/2l4YBJ8hqKSEOD5r8dYHol/34993afe852b7f3951285ba51a1c4a6d/INGAME_960X764.png?w=480&h=382&f=center&fit=fill",
-                        "width": 480,
-                        "height": 382
-                    },
-                    "mediumRetina": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/2l4YBJ8hqKSEOD5r8dYHol/34993afe852b7f3951285ba51a1c4a6d/INGAME_960X764.png?w=576&h=458&f=center&fit=fill",
-                        "width": 576,
-                        "height": 458
-                    },
-                    "large": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/2l4YBJ8hqKSEOD5r8dYHol/34993afe852b7f3951285ba51a1c4a6d/INGAME_960X764.png?w=768&h=611&f=center&fit=fill",
-                        "width": 768,
-                        "height": 611
-                    },
-                    "largeRetina": {
-                        "title": "INGAME_960X764.png",
-                        "path": "/9jtsgmsiuthj/2l4YBJ8hqKSEOD5r8dYHol/34993afe852b7f3951285ba51a1c4a6d/INGAME_960X764.png?w=960&h=764&f=center&fit=fill",
-                        "width": 960,
-                        "height": 764
-                    }
-                },
-                "ctaButtons": [
-                    {
-                        "title": null,
-                        "type": "article",
-                        "urlType": "article",
-                        "id": "57K6FuyP59CUgL7N5BC85W",
-                        "order": "0",
-                        "variant": "gold",
-                        "label": "Read more",
-                        "url": {
-                            "id": "75zQTOoJUAF7VaVWH8o1Z",
-                            "section": "newsEntries"
-                        },
-                        "article": [
-                            {
-                                "id": "75zQTOoJUAF7VaVWH8o1Z",
-                                "section": "newsEntries"
-                            }
-                        ]
-                    }
-                ],
-                "esportRegions": []
-            },
-            {
-                "id": "7zb4zQgY8zkmf8bZkPzpte",
-                "type": "eventEntry",
-                "title": "-",
-                "subtitle": "",
-                "carouselImage": {
-                    "small": {
-                        "title": "CRL - April MF Thumb in-game.png",
-                        "path": "/9jtsgmsiuthj/1tWr8Lwb90g2F7U50n9PzS/d81c71c6804facf9c5e2139b02749f83/CRL_-_April_MF_Thumb_in-game.png?w=192&h=153&f=center&fit=fill",
-                        "width": 192,
-                        "height": 153
-                    },
-                    "smallRetina": {
-                        "title": "CRL - April MF Thumb in-game.png",
-                        "path": "/9jtsgmsiuthj/1tWr8Lwb90g2F7U50n9PzS/d81c71c6804facf9c5e2139b02749f83/CRL_-_April_MF_Thumb_in-game.png?w=384&h=306&f=center&fit=fill",
-                        "width": 384,
-                        "height": 306
-                    },
-                    "medium": {
-                        "title": "CRL - April MF Thumb in-game.png",
-                        "path": "/9jtsgmsiuthj/1tWr8Lwb90g2F7U50n9PzS/d81c71c6804facf9c5e2139b02749f83/CRL_-_April_MF_Thumb_in-game.png?w=480&h=382&f=center&fit=fill",
-                        "width": 480,
-                        "height": 382
-                    },
-                    "mediumRetina": {
-                        "title": "CRL - April MF Thumb in-game.png",
-                        "path": "/9jtsgmsiuthj/1tWr8Lwb90g2F7U50n9PzS/d81c71c6804facf9c5e2139b02749f83/CRL_-_April_MF_Thumb_in-game.png?w=576&h=458&f=center&fit=fill",
-                        "width": 576,
-                        "height": 458
-                    },
-                    "large": {
-                        "title": "CRL - April MF Thumb in-game.png",
-                        "path": "/9jtsgmsiuthj/1tWr8Lwb90g2F7U50n9PzS/d81c71c6804facf9c5e2139b02749f83/CRL_-_April_MF_Thumb_in-game.png?w=768&h=611&f=center&fit=fill",
-                        "width": 768,
-                        "height": 611
-                    },
-                    "largeRetina": {
-                        "title": "CRL - April MF Thumb in-game.png",
-                        "path": "/9jtsgmsiuthj/1tWr8Lwb90g2F7U50n9PzS/d81c71c6804facf9c5e2139b02749f83/CRL_-_April_MF_Thumb_in-game.png?w=960&h=764&f=center&fit=fill",
-                        "width": 960,
-                        "height": 764
-                    }
-                },
-                "ctaButtons": [
-                    {
-                        "title": null,
-                        "type": "url",
-                        "urlType": "url",
-                        "id": "77BOAxDHp2aI5qEKNg2BKo",
-                        "order": "0",
-                        "variant": "red",
-                        "url": "https://www.youtube.com/live/q0QgH134szs?si=0_NvXoCPROqjjGPE&t=275",
-                        "label": "REWATCH!"
                     }
                 ],
                 "esportRegions": []
@@ -1698,38 +1682,38 @@
                 "subtitle": "",
                 "carouselImage": {
                     "small": {
-                        "title": "CRL_MF_Slider_INGAME.jpg",
-                        "path": "/9jtsgmsiuthj/5ttQSDQreaDLMoMogn1Pud/48acada3dfbaf666376d0fafeec39530/CRL_MF_Slider_INGAME.jpg?w=192&h=153&f=center&fit=fill",
+                        "title": "permanent article carousel.jpg",
+                        "path": "/9jtsgmsiuthj/7ynMvo6kfMG6hKqFk6t2iR/c39420f4d3cf50974d52ad0d8fd80ead/permanent_article_carousel.jpg?w=192&h=153&f=center&fit=fill",
                         "width": 192,
                         "height": 153
                     },
                     "smallRetina": {
-                        "title": "CRL_MF_Slider_INGAME.jpg",
-                        "path": "/9jtsgmsiuthj/5ttQSDQreaDLMoMogn1Pud/48acada3dfbaf666376d0fafeec39530/CRL_MF_Slider_INGAME.jpg?w=384&h=306&f=center&fit=fill",
+                        "title": "permanent article carousel.jpg",
+                        "path": "/9jtsgmsiuthj/7ynMvo6kfMG6hKqFk6t2iR/c39420f4d3cf50974d52ad0d8fd80ead/permanent_article_carousel.jpg?w=384&h=306&f=center&fit=fill",
                         "width": 384,
                         "height": 306
                     },
                     "medium": {
-                        "title": "CRL_MF_Slider_INGAME.jpg",
-                        "path": "/9jtsgmsiuthj/5ttQSDQreaDLMoMogn1Pud/48acada3dfbaf666376d0fafeec39530/CRL_MF_Slider_INGAME.jpg?w=480&h=382&f=center&fit=fill",
+                        "title": "permanent article carousel.jpg",
+                        "path": "/9jtsgmsiuthj/7ynMvo6kfMG6hKqFk6t2iR/c39420f4d3cf50974d52ad0d8fd80ead/permanent_article_carousel.jpg?w=480&h=382&f=center&fit=fill",
                         "width": 480,
                         "height": 382
                     },
                     "mediumRetina": {
-                        "title": "CRL_MF_Slider_INGAME.jpg",
-                        "path": "/9jtsgmsiuthj/5ttQSDQreaDLMoMogn1Pud/48acada3dfbaf666376d0fafeec39530/CRL_MF_Slider_INGAME.jpg?w=576&h=458&f=center&fit=fill",
+                        "title": "permanent article carousel.jpg",
+                        "path": "/9jtsgmsiuthj/7ynMvo6kfMG6hKqFk6t2iR/c39420f4d3cf50974d52ad0d8fd80ead/permanent_article_carousel.jpg?w=576&h=458&f=center&fit=fill",
                         "width": 576,
                         "height": 458
                     },
                     "large": {
-                        "title": "CRL_MF_Slider_INGAME.jpg",
-                        "path": "/9jtsgmsiuthj/5ttQSDQreaDLMoMogn1Pud/48acada3dfbaf666376d0fafeec39530/CRL_MF_Slider_INGAME.jpg?w=768&h=611&f=center&fit=fill",
+                        "title": "permanent article carousel.jpg",
+                        "path": "/9jtsgmsiuthj/7ynMvo6kfMG6hKqFk6t2iR/c39420f4d3cf50974d52ad0d8fd80ead/permanent_article_carousel.jpg?w=768&h=611&f=center&fit=fill",
                         "width": 768,
                         "height": 611
                     },
                     "largeRetina": {
-                        "title": "CRL_MF_Slider_INGAME.jpg",
-                        "path": "/9jtsgmsiuthj/5ttQSDQreaDLMoMogn1Pud/48acada3dfbaf666376d0fafeec39530/CRL_MF_Slider_INGAME.jpg?w=960&h=764&f=center&fit=fill",
+                        "title": "permanent article carousel.jpg",
+                        "path": "/9jtsgmsiuthj/7ynMvo6kfMG6hKqFk6t2iR/c39420f4d3cf50974d52ad0d8fd80ead/permanent_article_carousel.jpg?w=960&h=764&f=center&fit=fill",
                         "width": 960,
                         "height": 764
                     }

@@ -5,8 +5,8 @@
                 "id": "6I0udo3a6Muu8bHXviN1fx",
                 "metadata": {
                     "id": "6I0udo3a6Muu8bHXviN1fx",
-                    "publishedAt": "2024-04-26T09:50:38.068Z",
-                    "publishedVersion": 46
+                    "publishedAt": "2024-05-29T14:05:49.120Z",
+                    "publishedVersion": 173
                 },
                 "targeting": {
                     "country": [],
@@ -23,24 +23,15 @@
                 "title": "",
                 "type": "progressTrackerEntry",
                 "ctas": {
-                    "6i6VexhZtAntOrUhBBGbDq": {
+                    "17S0SSjTkAHnRA4cval7N8": {
                         "title": null,
-                        "type": "article",
-                        "urlType": "article",
-                        "id": "6i6VexhZtAntOrUhBBGbDq",
+                        "type": "url",
+                        "urlType": "url",
+                        "id": "17S0SSjTkAHnRA4cval7N8",
                         "order": "0",
-                        "variant": "blue",
-                        "label": "Read more",
-                        "url": {
-                            "id": "3hYHeDGQ7SOoomaSThCsWY",
-                            "section": "newsEntries"
-                        },
-                        "article": [
-                            {
-                                "id": "3hYHeDGQ7SOoomaSThCsWY",
-                                "section": "newsEntries"
-                            }
-                        ]
+                        "variant": "yellow",
+                        "url": "squadbusters-inbox://OpenShop",
+                        "label": "CLAIM!"
                     }
                 },
                 "background": {
@@ -83,51 +74,10 @@
                 },
                 "milestones": [
                     {
-                        "unlocked": false,
+                        "unlocked": true,
+                        "voucherId": null,
+                        "eventId": null,
                         "progress": 25,
-                        "image": {
-                            "small": {
-                                "title": "squad_reward_1.png.png",
-                                "path": "/epg71hpoul0m/4CWqewC3z2pboQVTwSow5V/86565a2086d607458e09ffffa628a7a2/squad_reward_1.png.png?w=51&h=51&f=center&fit=fill",
-                                "width": 51,
-                                "height": 51
-                            },
-                            "smallRetina": {
-                                "title": "squad_reward_1.png.png",
-                                "path": "/epg71hpoul0m/4CWqewC3z2pboQVTwSow5V/86565a2086d607458e09ffffa628a7a2/squad_reward_1.png.png?w=102&h=102&f=center&fit=fill",
-                                "width": 102,
-                                "height": 102
-                            },
-                            "medium": {
-                                "title": "squad_reward_1.png.png",
-                                "path": "/epg71hpoul0m/4CWqewC3z2pboQVTwSow5V/86565a2086d607458e09ffffa628a7a2/squad_reward_1.png.png?w=128&h=128&f=center&fit=fill",
-                                "width": 128,
-                                "height": 128
-                            },
-                            "mediumRetina": {
-                                "title": "squad_reward_1.png.png",
-                                "path": "/epg71hpoul0m/4CWqewC3z2pboQVTwSow5V/86565a2086d607458e09ffffa628a7a2/squad_reward_1.png.png?w=154&h=154&f=center&fit=fill",
-                                "width": 154,
-                                "height": 154
-                            },
-                            "large": {
-                                "title": "squad_reward_1.png.png",
-                                "path": "/epg71hpoul0m/4CWqewC3z2pboQVTwSow5V/86565a2086d607458e09ffffa628a7a2/squad_reward_1.png.png?w=205&h=205&f=center&fit=fill",
-                                "width": 205,
-                                "height": 205
-                            },
-                            "largeRetina": {
-                                "title": "squad_reward_1.png.png",
-                                "path": "/epg71hpoul0m/4CWqewC3z2pboQVTwSow5V/86565a2086d607458e09ffffa628a7a2/squad_reward_1.png.png?w=256&h=256&f=center&fit=fill",
-                                "width": 256,
-                                "height": 256
-                            }
-                        },
-                        "label": "1M"
-                    },
-                    {
-                        "unlocked": false,
-                        "progress": 50,
                         "image": {
                             "small": {
                                 "title": "squad_reward_2.png.png",
@@ -166,11 +116,13 @@
                                 "height": 256
                             }
                         },
-                        "label": "?M"
+                        "label": "5M"
                     },
                     {
-                        "unlocked": false,
-                        "progress": 75,
+                        "unlocked": true,
+                        "voucherId": null,
+                        "eventId": null,
+                        "progress": 50,
                         "image": {
                             "small": {
                                 "title": "squad_reward_3.png",
@@ -209,11 +161,13 @@
                                 "height": 256
                             }
                         },
-                        "label": "?M"
+                        "label": "20M"
                     },
                     {
-                        "unlocked": false,
-                        "progress": 100,
+                        "unlocked": true,
+                        "voucherId": null,
+                        "eventId": null,
+                        "progress": 75,
                         "image": {
                             "small": {
                                 "title": "squad_reward_4.png",
@@ -252,11 +206,56 @@
                                 "height": 256
                             }
                         },
-                        "label": "?M"
+                        "label": "30M"
+                    },
+                    {
+                        "unlocked": true,
+                        "voucherId": null,
+                        "eventId": null,
+                        "progress": 100,
+                        "image": {
+                            "small": {
+                                "title": "boom-trimmed.png",
+                                "path": "/epg71hpoul0m/7IWVPAm2j58nfDTuRVadso/4af9eece638e0d7c046c81669e29b5d1/boom-trimmed.png?w=51&h=51&f=center&fit=fill",
+                                "width": 51,
+                                "height": 51
+                            },
+                            "smallRetina": {
+                                "title": "boom-trimmed.png",
+                                "path": "/epg71hpoul0m/7IWVPAm2j58nfDTuRVadso/4af9eece638e0d7c046c81669e29b5d1/boom-trimmed.png?w=102&h=102&f=center&fit=fill",
+                                "width": 102,
+                                "height": 102
+                            },
+                            "medium": {
+                                "title": "boom-trimmed.png",
+                                "path": "/epg71hpoul0m/7IWVPAm2j58nfDTuRVadso/4af9eece638e0d7c046c81669e29b5d1/boom-trimmed.png?w=128&h=128&f=center&fit=fill",
+                                "width": 128,
+                                "height": 128
+                            },
+                            "mediumRetina": {
+                                "title": "boom-trimmed.png",
+                                "path": "/epg71hpoul0m/7IWVPAm2j58nfDTuRVadso/4af9eece638e0d7c046c81669e29b5d1/boom-trimmed.png?w=154&h=154&f=center&fit=fill",
+                                "width": 154,
+                                "height": 154
+                            },
+                            "large": {
+                                "title": "boom-trimmed.png",
+                                "path": "/epg71hpoul0m/7IWVPAm2j58nfDTuRVadso/4af9eece638e0d7c046c81669e29b5d1/boom-trimmed.png?w=205&h=205&f=center&fit=fill",
+                                "width": 205,
+                                "height": 205
+                            },
+                            "largeRetina": {
+                                "title": "boom-trimmed.png",
+                                "path": "/epg71hpoul0m/7IWVPAm2j58nfDTuRVadso/4af9eece638e0d7c046c81669e29b5d1/boom-trimmed.png?w=256&h=256&f=center&fit=fill",
+                                "width": 256,
+                                "height": 256
+                            }
+                        },
+                        "label": "40M"
                     }
                 ],
                 "tracker": {
-                    "progress": 13.750000000000002,
+                    "progress": 100,
                     "direction": "vertical"
                 }
             },
@@ -286,7 +285,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1714125057",
+                "timerTarget": "1718093822",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -342,7 +341,7 @@
                 "type": "eventEntry",
                 "ctas": {},
                 "displayTimer": false,
-                "timerTarget": "1714125057",
+                "timerTarget": "1718093822",
                 "hideTitle": false,
                 "background": {
                     "small": {
@@ -387,8 +386,8 @@
                 "id": "4lGTM4X1xaUQzVwT9PzbL",
                 "metadata": {
                     "id": "4lGTM4X1xaUQzVwT9PzbL",
-                    "publishedAt": "2024-04-23T08:15:43.959Z",
-                    "publishedVersion": 63
+                    "publishedAt": "2024-05-22T02:54:16.463Z",
+                    "publishedVersion": 69
                 },
                 "targeting": {
                     "country": [],
@@ -417,7 +416,7 @@
                     }
                 },
                 "displayTimer": false,
-                "timerTarget": "1714125057",
+                "timerTarget": "1718093822",
                 "hideTitle": true,
                 "background": {
                     "small": {
@@ -461,15 +460,324 @@
         ],
         "newsEntries": [
             {
-                "id": "3hYHeDGQ7SOoomaSThCsWY",
+                "id": "1yohkcKJO7Efn7vh4EXnk9",
                 "index": 0,
                 "targeting": null,
                 "metadata": {
-                    "id": "3hYHeDGQ7SOoomaSThCsWY",
-                    "publishedVersion": 51,
-                    "publishedAt": "2024-04-26T09:21:01.144Z"
+                    "id": "1yohkcKJO7Efn7vh4EXnk9",
+                    "publishedVersion": 469,
+                    "publishedAt": "2024-06-05T05:58:28.811Z"
                 },
-                "postDate": "1714123240",
+                "postDate": "1717484400",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Update Patch Notes + Fixes! ",
+                "categories": [
+                    {
+                        "title": "Game Updates",
+                        "color": "#cc0001"
+                    }
+                ],
+                "newUntil": "1717102800",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "Squad_BarbarianEvo_1.jpg",
+                        "path": "/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "Squad_BarbarianEvo_1.jpg",
+                        "path": "/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "Squad_BarbarianEvo_1.jpg",
+                        "path": "/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "Squad_BarbarianEvo_1.jpg",
+                        "path": "/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "Squad_BarbarianEvo_1.jpg",
+                        "path": "/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "Squad_BarbarianEvo_1.jpg",
+                        "path": "/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=320&h=89&f=center&fit=fill",
+                        "width": 320,
+                        "height": 89
+                    },
+                    "smallRetina": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=640&h=177&f=center&fit=fill",
+                        "width": 640,
+                        "height": 177
+                    },
+                    "medium": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=800&h=222&f=center&fit=fill",
+                        "width": 800,
+                        "height": 222
+                    },
+                    "mediumRetina": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=960&h=266&f=center&fit=fill",
+                        "width": 960,
+                        "height": 266
+                    },
+                    "large": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=1280&h=354&f=center&fit=fill",
+                        "width": 1280,
+                        "height": 354
+                    },
+                    "largeRetina": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=1600&h=443&f=center&fit=fill",
+                        "width": 1600,
+                        "height": 443
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p><b>MAINTENANCE - JUNE 4,2024</b></p><ul><li><p>Fixed an issue to ensure pre-registration emotes are delivered to Soft Launch players</p></li><li><p>Fixed an issue where Pi\u00f1ata groups appeared empty in the middle of the event</p></li><li><p>Improved the chances of MEGA Unit comebacks, making them more likely when at low Squad sizes</p></li><li><p>Implemented fixes to prevent out-of-sync issues during matches</p></li><li><p>Made server-side improvements</p></li></ul><p><b>MAINTENANCE - MAY 28, 2024</b></p><ul><li><p>Fix for Pi\u00f1ata member count where was possible to send invites to players who had a full Pi\u00f1ata</p></li><li><p>Squad Journey: reducing Portal Energy requirements in Desert World</p></li><li><p>Win Streak:</p><ul><li><p>Bonus Taps: + 2 bonus taps start one level earlier (with 4 wins)</p></li><li><p>Win Streak re-buy reworked caps at 5000 coins at the 10th win</p></li></ul></li><li><p>1st position now gives 5 upgrade taps instead of 4</p></li><li><p>Bringing rest of the servers and databases online in preparation for launch day \ud83d\ude80</p></li></ul><p><b>MAINTENANCE - MAY 24, 2024</b></p><p>Pi\u00f1ata Festival fixes:</p><ul><li><p>Score updates propagate now correctly</p></li><li><p>Pi\u00f1ata parties can&#39;t have more than 5 players anymore</p></li><li><p>Fixed an issue where you could add yourself to the Pi\u00f1ata party</p></li></ul><p><b>OPTIONAL UPDATE - MAY 23, 2024</b></p><ul><li><p>Fixed various crashes occurring while in Battle</p></li><li><p>Fixed Shop and other minor visual issues</p></li><li><p>Fixed Super Pass rewards info showing incorrect reward amounts</p></li><li><p>Enabled the News section for Traditional Chinese</p></li></ul><p>We are aware of the issues related to the Pi\u00f1ata Festival, and we are working on them. Thanks for the reports!</p><p><b>\nMAINTENANCE - MAY 22, 2024</b></p><ul><li><p>Fix for Referrals: The link can now be used by any player regardless of their progression level</p></li><li><p>Fix for the game crashing sometimes when opening Spell Event </p></li></ul><p><b>MAINTENANCE - MAY 21, 2024</b></p><ul><li><p>Fix for future content showing up in the shop too early</p></li><li><p>Removed Ice World maps from Squad League</p></li></ul><hr/><p><b>UPDATE - MAY 21, 2024</b>\n\nSquad Busters\u2019 first update is packed full of content and improvements for a Global Launch like no other!\n<b>\nULTRA EVOLUTIONS UNLEASHED</b>\n\nDiscover fantastic new looks and fabulous new abilities with <b>Ultra Evolutions</b>!</p><ul><li><p>All characters can now evolve to Ultra form and add some swagger to your Squad</p></li><li><p>Check out all of the 27 new Ultra Evolutions in the Squad tab in the game.\n</p></li></ul><p><b>COLLECT HAMMERS &amp; CUSTOMIZE YOUR PLAZA</b></p><p>The Plaza Shop is open for business!</p><ul><li><p>Buy tons of top shelf Plaza decorations from the Plaza Builder with Hammers!</p></li><li><p>Find Hammers in Battles, from rewards or in the Shop, and use them to build Plaza decorations!\n</p></li></ul><p><b>NEW GEM PASS SEASON: MOONLIGHT MATCHUP</b></p><p>Get ready for a new Gem Pass season full of prizes, including the two newest MEGA Units:</p><ul><li><p><b>MEGA Magical Shelly</b>: Dazzle others with her sparkling looks and Magic Blastwand!</p></li><li><p><b>MEGA Kitsune Witch</b>: Outfox foes with bountiful Skeleton hordes and a 3-bolt attack!</p></li></ul><p>The MEGA BANK will also return this season, and no longer requires buying a Super Pass!</p><p><b>\nBALANCING UPDATES</b></p><p>Everyone has a place in Squad Busters, and every unique character deserves its space to shine. These updates aim to help all Squad building choices feel meaningful, and to help enable countless paths to victory!\n</p><p><b>Character balancing:</b>\n\nSupply-focused units have improved abilities to better balance them with fighters</p><ul><li><p>Chicken gives 1 additional Turbo Boot</p></li><li><p>Baby Greg chops trees slightly faster</p></li><li><p>Goblin gives more Coins when joining the Squad</p></li><li><p>Trader gives 1 additional Gem after collecting enough Coins</p></li><li><p>Mavis can now get Gems from Carrots in addition to Coins\n</p></li></ul><p>Many characters have improved Health to help them last longer in fights, especially ranged units</p><ul><li><p>+100 Health: Goblin, Chicken, Archer Queen, Witch, Shelly, Nita, Max</p></li><li><p>+150 Health: Bo, Colt, Wizard</p></li><li><p>+200 Health: Medic, Dynamike, Pam, Penny, Tank (on foot)</p></li><li><p>+500 Health: MEGA Dragon Chicken\n</p></li></ul><p><b>Summoned unit balancing:</b></p><p>Witch Skeletons have consolidated strength to improve map readability and help unclog Portals</p><ul><li><p>Witch Skeletons have much more Health, but slightly reduced maximum lifetime</p></li><li><p>Witches summon slightly slower, but all at once, to a maximum of 12 Skeletons at a time</p></li><li><p>Skeleton Spell deploys fewer Skeletons</p></li></ul><p>Royale King Recruits have been drilled into shape to better guard their King</p><ul><li><p>Royal Recruits have more damage and tons more Health</p></li></ul><p><b>\nMEGA Unit balancing:</b></p><p>MEGA Units appear during matches less randomly, and more often when you need them (sometimes)</p><ul><li><p>MEGA Units are now much less likely to appear for players with a high position or big Squad</p><ul><li><p>Instead, they appear more often for Squads that have been diminished later in the match</p></li><li><p>Being close to getting busted and being in low position increases chances to find a MEGA\n</p></li></ul></li><li><p>Fewer MEGA units will be offered during matches</p><ul><li><p>MEGA Units will no longer appear until after 2:00 in the match</p></li><li><p>MEGA Units will no longer appear to Squads that already have a MEGA Unit</p></li><li><p>MEGA Units will no longer appear when using an Epic Key or Fusion Key</p></li><li><p>MEGA Units will no longer appear for a while after you refuse one from a Chest\n</p></li></ul></li><li><p>MEGA units also no longer increase Chest cost, to not interfere with Squad building</p></li></ul><p><b>Battle Mods balancing:</b></p><ul><li><p>Tree Giants: now have a chance to drop The Log Spell</p></li><li><p>Royal Haunt: Royal Ghosts drop more loot to better reward Ghost hunters</p></li><li><p>Epic Overload: has been moved to Royal World</p></li><li><p>Super Gem Mine: has been moved to Desert World\n</p></li></ul><p><b>Other balancing updates:</b></p><ul><li><p>Turbo now recharges faster, so there&#39;s more running and less waiting</p></li><li><p>Monsters now drop more Coins later in the match, to help ease rebuilding Squads</p></li><li><p>Greg&#39;s Trees, Bea&#39;s Hives, and Tank&#39;s Tanks reappear faster to improve availability</p></li><li><p>Blue Powerup Boxes drop 1 extra Coin to enable faster match starts</p></li><li><p>Royal World maps spawn more Guards to help keep up the action</p></li></ul><p><b>\nOTHER IMPROVEMENTS &amp; FIXES</b></p><ul><li><p>Keep an eye out for Chest Doublers in events and the Shop, and get 2x Reward Chest prizes!</p></li><li><p>Invite friends to play Squad Busters and earn Rewards for you and your friends!</p><ul><li><p>Check out the new Referral tab in your Friends list!</p></li></ul></li><li><p>Daily Deals can now be refreshed in the Shop for Coins</p></li><li><p>The Chest Ticket refresh timer now pauses instead of resets when filling up on Chest Tickets</p></li><li><p>Your Squad Next Battle has been updated to have much fewer locked characters per Battle for players before Squad League</p></li><li><p>Other performance improvements and bug fixes\n</p></li></ul><p><b>UPCOMING EVENTS &amp; CONTENT</b></p><p><b>Pi\u00f1ata Festival</b></p><p>Collect Pi\u00f1ata Sticks with friends and earn special Rewards!</p><ul><li><p>Look for a giant Pi\u00f1ata visiting you Plaza for your chance to collect Pi\u00f1ata Sticks in Battles!</p></li><li><p>Collect enough Pi\u00f1ata Sticks to open Pi\u00f1atas full of Coins and items for your Battle Bag!</p></li><li><p>Add friends to your Pi\u00f1ata hunt and make progress together!</p></li></ul><p><b>Ice World </b></p><ul><li><p>3 New Characters and 4 new Mods!</p></li></ul><p>\nFollow our Social Media channels and your favorite Squad Busters content creators to learn more about the upcoming content!\u00a0\n</p>"
+                    }
+                }
+            },
+            {
+                "id": "3CC0pvM1XmswaHddkBHNUQ",
+                "index": 1,
+                "targeting": null,
+                "metadata": {
+                    "id": "3CC0pvM1XmswaHddkBHNUQ",
+                    "publishedVersion": 75,
+                    "publishedAt": "2024-06-03T02:29:58.914Z"
+                },
+                "postDate": "1717167600",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Life's more fun when you SQUAD UP! \ud83d\udc14",
+                "categories": [
+                    {
+                        "title": "Video",
+                        "color": "#ffffff"
+                    }
+                ],
+                "newUntil": "1717534800",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "6fx0xbIXVDf96lIW1QHW0M",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/QMH_SGJciQY"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "LiveAction_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=192&h=108&f=center&fit=fill",
+                        "width": 192,
+                        "height": 108
+                    },
+                    "smallRetina": {
+                        "title": "LiveAction_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=384&h=216&f=center&fit=fill",
+                        "width": 384,
+                        "height": 216
+                    },
+                    "medium": {
+                        "title": "LiveAction_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=480&h=270&f=center&fit=fill",
+                        "width": 480,
+                        "height": 270
+                    },
+                    "mediumRetina": {
+                        "title": "LiveAction_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=576&h=324&f=center&fit=fill",
+                        "width": 576,
+                        "height": 324
+                    },
+                    "large": {
+                        "title": "LiveAction_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=768&h=432&f=center&fit=fill",
+                        "width": 768,
+                        "height": 432
+                    },
+                    "largeRetina": {
+                        "title": "LiveAction_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&h=540&f=center&fit=fill",
+                        "width": 960,
+                        "height": 540
+                    }
+                }
+            },
+            {
+                "id": "6g5xYslzlo7Cgpay1685zi",
+                "index": 2,
+                "targeting": null,
+                "metadata": {
+                    "id": "6g5xYslzlo7Cgpay1685zi",
+                    "publishedVersion": 64,
+                    "publishedAt": "2024-06-03T02:30:20.916Z"
+                },
+                "postDate": "1717081200",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Launch trailer: Time to SQUAD UP!",
+                "categories": [
+                    {
+                        "title": "Video",
+                        "color": "#ffffff"
+                    }
+                ],
+                "newUntil": "1717513200",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "49ThzOUsT26Ao5PDF9b45N",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/aFHM24c86p0"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "CGI_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=192&h=108&f=center&fit=fill",
+                        "width": 192,
+                        "height": 108
+                    },
+                    "smallRetina": {
+                        "title": "CGI_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=384&h=216&f=center&fit=fill",
+                        "width": 384,
+                        "height": 216
+                    },
+                    "medium": {
+                        "title": "CGI_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=480&h=270&f=center&fit=fill",
+                        "width": 480,
+                        "height": 270
+                    },
+                    "mediumRetina": {
+                        "title": "CGI_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=576&h=324&f=center&fit=fill",
+                        "width": 576,
+                        "height": 324
+                    },
+                    "large": {
+                        "title": "CGI_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=768&h=432&f=center&fit=fill",
+                        "width": 768,
+                        "height": 432
+                    },
+                    "largeRetina": {
+                        "title": "CGI_Thumb_1920x1080.jpg",
+                        "path": "/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=960&h=540&f=center&fit=fill",
+                        "width": 960,
+                        "height": 540
+                    }
+                }
+            },
+            {
+                "id": "5dqjwCCF38MsmZxWJTzH3k",
+                "index": 3,
+                "targeting": null,
+                "metadata": {
+                    "id": "5dqjwCCF38MsmZxWJTzH3k",
+                    "publishedVersion": 62,
+                    "publishedAt": "2024-05-29T07:10:05.031Z"
+                },
+                "postDate": "1716301233",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Squad Busters Official Starter's Guide!",
+                "categories": [
+                    {
+                        "title": "Community",
+                        "color": "#ffffff"
+                    }
+                ],
+                "newUntil": "1716498000",
+                "type": "videoNewsEntry",
+                "embed": {
+                    "id": "1qyyyVgIgUkSw4PzuCicHW",
+                    "provider": "youtube",
+                    "url": "https://youtu.be/CD6koZwbkvU"
+                },
+                "embedVideo": false,
+                "listingSize": "large",
+                "thumbnail": {
+                    "small": {
+                        "title": "SB_GL_Dev_update_YT_Thumb_01.png",
+                        "path": "/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=192&h=108&f=center&fit=fill",
+                        "width": 192,
+                        "height": 108
+                    },
+                    "smallRetina": {
+                        "title": "SB_GL_Dev_update_YT_Thumb_01.png",
+                        "path": "/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=384&h=216&f=center&fit=fill",
+                        "width": 384,
+                        "height": 216
+                    },
+                    "medium": {
+                        "title": "SB_GL_Dev_update_YT_Thumb_01.png",
+                        "path": "/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=480&h=270&f=center&fit=fill",
+                        "width": 480,
+                        "height": 270
+                    },
+                    "mediumRetina": {
+                        "title": "SB_GL_Dev_update_YT_Thumb_01.png",
+                        "path": "/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=576&h=324&f=center&fit=fill",
+                        "width": 576,
+                        "height": 324
+                    },
+                    "large": {
+                        "title": "SB_GL_Dev_update_YT_Thumb_01.png",
+                        "path": "/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=768&h=432&f=center&fit=fill",
+                        "width": 768,
+                        "height": 432
+                    },
+                    "largeRetina": {
+                        "title": "SB_GL_Dev_update_YT_Thumb_01.png",
+                        "path": "/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=960&h=540&f=center&fit=fill",
+                        "width": 960,
+                        "height": 540
+                    }
+                }
+            },
+            {
+                "id": "3hYHeDGQ7SOoomaSThCsWY",
+                "index": 4,
+                "targeting": null,
+                "metadata": {
+                    "id": "3hYHeDGQ7SOoomaSThCsWY",
+                    "publishedVersion": 252,
+                    "publishedAt": "2024-06-03T11:32:00.757Z"
+                },
+                "postDate": "1715756400",
                 "lang": "en",
                 "section": "newsEntries",
                 "title": "Global Launch Free Rewards!",
@@ -479,44 +787,44 @@
                         "color": "#ffffff"
                     }
                 ],
-                "newUntil": "1714683600",
+                "newUntil": "1716066000",
                 "type": "newsEntry",
                 "listingSize": "large",
                 "showInNewsFeed": "SHOW_IN_NEWS_FEED",
                 "thumbnail": {
                     "small": {
-                        "title": "thumb_inbox.jpg",
-                        "path": "/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=160&h=87&f=center&fit=fill",
+                        "title": "banner_rewards-800x4332.png",
+                        "path": "/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=160&h=87&f=center&fit=fill",
                         "width": 160,
                         "height": 87
                     },
                     "smallRetina": {
-                        "title": "thumb_inbox.jpg",
-                        "path": "/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=320&h=173&f=center&fit=fill",
+                        "title": "banner_rewards-800x4332.png",
+                        "path": "/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=320&h=173&f=center&fit=fill",
                         "width": 320,
                         "height": 173
                     },
                     "medium": {
-                        "title": "thumb_inbox.jpg",
-                        "path": "/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=400&h=217&f=center&fit=fill",
+                        "title": "banner_rewards-800x4332.png",
+                        "path": "/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=400&h=217&f=center&fit=fill",
                         "width": 400,
                         "height": 217
                     },
                     "mediumRetina": {
-                        "title": "thumb_inbox.jpg",
-                        "path": "/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=480&h=260&f=center&fit=fill",
+                        "title": "banner_rewards-800x4332.png",
+                        "path": "/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=480&h=260&f=center&fit=fill",
                         "width": 480,
                         "height": 260
                     },
                     "large": {
-                        "title": "thumb_inbox.jpg",
-                        "path": "/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=640&h=346&f=center&fit=fill",
+                        "title": "banner_rewards-800x4332.png",
+                        "path": "/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=640&h=346&f=center&fit=fill",
                         "width": 640,
                         "height": 346
                     },
                     "largeRetina": {
-                        "title": "thumb_inbox.jpg",
-                        "path": "/epg71hpoul0m/5irwwYPjAS6jzvDR3CSMG6/2b6b5f978874932130e7b70683d3b89a/thumb_inbox.jpg?w=800&h=433&f=center&fit=fill",
+                        "title": "banner_rewards-800x4332.png",
+                        "path": "/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=800&h=433&f=center&fit=fill",
                         "width": 800,
                         "height": 433
                     }
@@ -561,20 +869,118 @@
                 },
                 "details": {
                     "0": {
-                        "title": "",
+                        "title": "New milestone unlocked! ",
                         "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>In order to THANK YOU all for supporting the Squad Busters launch, we&#39;ve added a new milestone to the pre-registration reward track!</p><p>If we reach 40M pre-registrations before May 29, this beautiful Deco will be available at launch, and claimable for only a month!</p>"
+                    },
+                    "1": {
+                        "title": null,
+                        "order": "1",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "deco.png",
+                                "path": "/epg71hpoul0m/6GVf4RB0pwJG6GjRimJtEH/01f3f46886f9052720b9c2e3b1f670b9/deco.png?w=600&h=600&f=center&fit=fill",
+                                "width": 600,
+                                "height": 600
+                            },
+                            "smallRetina": {
+                                "title": "deco.png",
+                                "path": "/epg71hpoul0m/6GVf4RB0pwJG6GjRimJtEH/01f3f46886f9052720b9c2e3b1f670b9/deco.png?w=1200&h=1200&f=center&fit=fill",
+                                "width": 1200,
+                                "height": 1200
+                            },
+                            "medium": {
+                                "title": "deco.png",
+                                "path": "/epg71hpoul0m/6GVf4RB0pwJG6GjRimJtEH/01f3f46886f9052720b9c2e3b1f670b9/deco.png?w=1500&h=1500&f=center&fit=fill",
+                                "width": 1500,
+                                "height": 1500
+                            },
+                            "mediumRetina": {
+                                "title": "deco.png",
+                                "path": "/epg71hpoul0m/6GVf4RB0pwJG6GjRimJtEH/01f3f46886f9052720b9c2e3b1f670b9/deco.png?w=1800&h=1800&f=center&fit=fill",
+                                "width": 1800,
+                                "height": 1800
+                            },
+                            "large": {
+                                "title": "deco.png",
+                                "path": "/epg71hpoul0m/6GVf4RB0pwJG6GjRimJtEH/01f3f46886f9052720b9c2e3b1f670b9/deco.png?w=2400&h=2400&f=center&fit=fill",
+                                "width": 2400,
+                                "height": 2400
+                            },
+                            "largeRetina": {
+                                "title": "deco.png",
+                                "path": "/epg71hpoul0m/6GVf4RB0pwJG6GjRimJtEH/01f3f46886f9052720b9c2e3b1f670b9/deco.png?w=3000&h=3000&f=center&fit=fill",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    },
+                    "2": {
+                        "title": "",
+                        "order": "2",
+                        "type": "textBlock",
+                        "body": "<p>Remember, each new player counts as a new pre-registration. Tell your friends, and let&#39;s do this together!</p>"
+                    },
+                    "3": {
+                        "title": null,
+                        "order": "3",
+                        "type": "imageBlock",
+                        "image": {
+                            "small": {
+                                "title": "Screenshot 2024-05-15 at 14.25.00.png",
+                                "path": "/epg71hpoul0m/3Hp0SunaeqzWWOdDgKIEPh/07cb7913fc110ad13d7caebff55779ef/Screenshot_2024-05-15_at_14.25.00.png?w=513&h=164&f=center&fit=fill",
+                                "width": 513,
+                                "height": 164
+                            },
+                            "smallRetina": {
+                                "title": "Screenshot 2024-05-15 at 14.25.00.png",
+                                "path": "/epg71hpoul0m/3Hp0SunaeqzWWOdDgKIEPh/07cb7913fc110ad13d7caebff55779ef/Screenshot_2024-05-15_at_14.25.00.png?w=1026&h=329&f=center&fit=fill",
+                                "width": 1026,
+                                "height": 329
+                            },
+                            "medium": {
+                                "title": "Screenshot 2024-05-15 at 14.25.00.png",
+                                "path": "/epg71hpoul0m/3Hp0SunaeqzWWOdDgKIEPh/07cb7913fc110ad13d7caebff55779ef/Screenshot_2024-05-15_at_14.25.00.png?w=1283&h=411&f=center&fit=fill",
+                                "width": 1283,
+                                "height": 411
+                            },
+                            "mediumRetina": {
+                                "title": "Screenshot 2024-05-15 at 14.25.00.png",
+                                "path": "/epg71hpoul0m/3Hp0SunaeqzWWOdDgKIEPh/07cb7913fc110ad13d7caebff55779ef/Screenshot_2024-05-15_at_14.25.00.png?w=1540&h=493&f=center&fit=fill",
+                                "width": 1540,
+                                "height": 493
+                            },
+                            "large": {
+                                "title": "Screenshot 2024-05-15 at 14.25.00.png",
+                                "path": "/epg71hpoul0m/3Hp0SunaeqzWWOdDgKIEPh/07cb7913fc110ad13d7caebff55779ef/Screenshot_2024-05-15_at_14.25.00.png?w=2053&h=658&f=center&fit=fill",
+                                "width": 2053,
+                                "height": 658
+                            },
+                            "largeRetina": {
+                                "title": "Screenshot 2024-05-15 at 14.25.00.png",
+                                "path": "/epg71hpoul0m/3Hp0SunaeqzWWOdDgKIEPh/07cb7913fc110ad13d7caebff55779ef/Screenshot_2024-05-15_at_14.25.00.png?w=2566&h=822&f=center&fit=fill",
+                                "width": 2566,
+                                "height": 822
+                            }
+                        }
+                    },
+                    "4": {
+                        "title": "Continue reading - Last Edit: April 26",
+                        "order": "4",
                         "type": "textBlock",
                         "body": "<p>To celebrate the global release of <b>Squad Busters</b>, unlock FREE and EXCLUSIVE rewards for each pre-registration milestone the community achieves!</p>"
                     },
-                    "1": {
+                    "5": {
                         "title": "HOW IT WORKS",
-                        "order": "1",
+                        "order": "5",
                         "type": "textBlock",
                         "body": "<p>We&#39;ve got not just one, not two, but <b>FOUR awesome milestones to unlock!</b></p><p>Well, maybe even one more - who knows? \ud83d\ude36</p><p>The more pre-registrations on Google Play &amp; the App Store, the more the rewards for everyone! The first milestone is at 1 million, and the next milestones will be revealed as we unlock the previous one!</p><p>These are the rewards:</p><ul><li><p>10000 Coins</p></li><li><p>El Tigre</p></li><li><p>Chests (Common, Rare, and Epic)</p></li><li><p>Exclusive Global Emote</p></li></ul><p></p>"
                     },
-                    "2": {
+                    "6": {
                         "title": null,
-                        "order": "2",
+                        "order": "6",
                         "type": "imageBlock",
                         "image": {
                             "small": {
@@ -615,40 +1021,148 @@
                             }
                         }
                     },
-                    "3": {
+                    "7": {
                         "title": "",
-                        "order": "3",
+                        "order": "7",
                         "type": "textBlock",
                         "body": "<p>Pretty cool, huh?</p><p>All the unlocked rewards will be available in the game after Global Launch, and will stay in the shop FOR A MONTH! </p>"
                     },
-                    "4": {
+                    "8": {
                         "title": "HOW CAN I CONTRIBUTE?",
-                        "order": "4",
+                        "order": "8",
                         "type": "textBlock",
                         "body": "<p>If you\u2019re reading this, it means you\u2019re playing Squad Busters, therefore won\u2019t have the option to pre-register. But WORRY NOT: every single active player counts towards the progress!</p><p>Your mission starts here: Tell your friends, family, neighbors, and pets to pre-register for Squad Busters on Google Play or the App Store, follow the progress of the community effort on the reward tracker, and claim the rewards in ALL games as they unlock!</p>"
                     },
-                    "5": {
+                    "9": {
                         "title": "WAIT, ALL GAMES?",
-                        "order": "5",
+                        "order": "9",
                         "type": "textBlock",
                         "body": "<p>YES! Each milestone will also unlock rewards in all the other Supercell games:</p><ul><li><p>Brawl Stars</p></li><li><p>Clash of Clans</p></li><li><p>Clash Royale</p></li><li><p>Boom Beach</p></li><li><p>Hay Day</p></li></ul><p>Make sure to claim your rewards over there too, and be ready for <b>Squad Busters Global Launch on May 29th!</b></p>"
                     },
-                    "6": {
+                    "10": {
                         "title": "",
-                        "order": "6",
+                        "order": "10",
                         "type": "textBlock",
                         "body": ""
                     }
                 }
             },
             {
+                "id": "2gG8P9MyV23OFnt9wBKjeY",
+                "index": 5,
+                "targeting": null,
+                "metadata": {
+                    "id": "2gG8P9MyV23OFnt9wBKjeY",
+                    "publishedVersion": 31,
+                    "publishedAt": "2024-04-29T10:23:40.681Z"
+                },
+                "postDate": "1714386220",
+                "lang": "en",
+                "section": "newsEntries",
+                "title": "Optional Update for iOS and Android!",
+                "categories": [
+                    {
+                        "title": "News",
+                        "color": "#ffffff"
+                    }
+                ],
+                "newUntil": "1714770000",
+                "type": "newsEntry",
+                "listingSize": "large",
+                "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+                "thumbnail": {
+                    "small": {
+                        "title": "wiz_!_inbox.jpg",
+                        "path": "/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=160&h=87&f=center&fit=fill",
+                        "width": 160,
+                        "height": 87
+                    },
+                    "smallRetina": {
+                        "title": "wiz_!_inbox.jpg",
+                        "path": "/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=320&h=173&f=center&fit=fill",
+                        "width": 320,
+                        "height": 173
+                    },
+                    "medium": {
+                        "title": "wiz_!_inbox.jpg",
+                        "path": "/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=400&h=217&f=center&fit=fill",
+                        "width": 400,
+                        "height": 217
+                    },
+                    "mediumRetina": {
+                        "title": "wiz_!_inbox.jpg",
+                        "path": "/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=480&h=260&f=center&fit=fill",
+                        "width": 480,
+                        "height": 260
+                    },
+                    "large": {
+                        "title": "wiz_!_inbox.jpg",
+                        "path": "/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=640&h=346&f=center&fit=fill",
+                        "width": 640,
+                        "height": 346
+                    },
+                    "largeRetina": {
+                        "title": "wiz_!_inbox.jpg",
+                        "path": "/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&h=433&f=center&fit=fill",
+                        "width": 800,
+                        "height": 433
+                    }
+                },
+                "heroImage": {
+                    "small": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=320&h=89&f=center&fit=fill",
+                        "width": 320,
+                        "height": 89
+                    },
+                    "smallRetina": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=640&h=177&f=center&fit=fill",
+                        "width": 640,
+                        "height": 177
+                    },
+                    "medium": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=800&h=222&f=center&fit=fill",
+                        "width": 800,
+                        "height": 222
+                    },
+                    "mediumRetina": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=960&h=266&f=center&fit=fill",
+                        "width": 960,
+                        "height": 266
+                    },
+                    "large": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=1280&h=354&f=center&fit=fill",
+                        "width": 1280,
+                        "height": 354
+                    },
+                    "largeRetina": {
+                        "title": "banner_wiz.jpg",
+                        "path": "/epg71hpoul0m/42gqbh3fJUfCuAaCJb3xbt/ade0154afe8df330d8e48f3a0e631001/banner_wiz.jpg?w=1600&h=443&f=center&fit=fill",
+                        "width": 1600,
+                        "height": 443
+                    }
+                },
+                "details": {
+                    "0": {
+                        "title": "",
+                        "order": "0",
+                        "type": "textBlock",
+                        "body": "<p>An optional update with the following changes is now available!</p><ul><li><p>Fixed replays that were not working</p></li><li><p>Fixed characters downgrading to a previous evolution (fixed last Saturday)</p><ul><li><p>We are working on reverting the downgraded characters back to the evolution level they had before the issue. Expect a fix soon!</p></li></ul></li><li><p>Fixed party invites popping up while in Battle</p></li><li><p>Added cooldown for party requests, and delay between party requests pop-ups</p></li><li><p>Implemented a setting to disable ask-to-join party requests</p></li><li><p>Fixed accepting friend invites issue when having more than 1 invite</p></li><li><p>Fixed crashes on foldable devices</p></li><li><p>Fixed the black screen after getting busted during training</p></li><li><p>Changed Battle consumables rewards flying to the Play button instead of the Shop button</p></li><li><p>Fixed the Gem Pass timer not showing up on some screens</p></li><li><p>Fixed an emote that is showing as unlocked at level 0</p></li><li><p>Other small fixes</p></li></ul><p>Make sure to update your game!</p>"
+                    }
+                }
+            },
+            {
                 "id": "3PX7io2RhcJiEJQE9yIigg",
-                "index": 1,
+                "index": 6,
                 "targeting": null,
                 "metadata": {
                     "id": "3PX7io2RhcJiEJQE9yIigg",
-                    "publishedVersion": 140,
-                    "publishedAt": "2024-04-25T06:06:10.594Z"
+                    "publishedVersion": 144,
+                    "publishedAt": "2024-05-22T03:09:33.360Z"
                 },
                 "postDate": "1713864037",
                 "lang": "en",
@@ -710,12 +1224,12 @@
             },
             {
                 "id": "30GoLvOJ4NNQT5B1FZvCVP",
-                "index": 2,
+                "index": 7,
                 "targeting": null,
                 "metadata": {
                     "id": "30GoLvOJ4NNQT5B1FZvCVP",
-                    "publishedVersion": 96,
-                    "publishedAt": "2024-04-24T13:33:59.132Z"
+                    "publishedVersion": 100,
+                    "publishedAt": "2024-05-22T02:55:14.144Z"
                 },
                 "postDate": "1713853261",
                 "lang": "en",
@@ -777,7 +1291,7 @@
             },
             {
                 "id": "1D1NDyjKXuZ8tZz04eMVoL",
-                "index": 3,
+                "index": 8,
                 "targeting": null,
                 "metadata": {
                     "id": "1D1NDyjKXuZ8tZz04eMVoL",
@@ -844,12 +1358,12 @@
             },
             {
                 "id": "tdQvcI6vCnsfQOII5d8xM",
-                "index": 4,
+                "index": 9,
                 "targeting": null,
                 "metadata": {
                     "id": "tdQvcI6vCnsfQOII5d8xM",
-                    "publishedVersion": 108,
-                    "publishedAt": "2024-04-24T13:35:13.931Z"
+                    "publishedVersion": 112,
+                    "publishedAt": "2024-05-22T03:11:21.457Z"
                 },
                 "postDate": "1713786916",
                 "lang": "en",
@@ -913,6 +1427,7 @@
         "fullscreenEntries": []
     },
     "globals": {
+        "globalText.langLoadMore": "More!",
         "globalText.copyToClipboard": "Copied to clipboard!",
         "globalText.close": "Close",
         "globalText.thanksForVoting": "Thanks for voting",
@@ -970,8 +1485,7 @@
         "globalText.langFollowUs": "Follow Us!",
         "globalText.langSecondsCountdown": "Seconds",
         "globalText.langGo": "Go!",
-        "globalText.langOlder": "Older",
-        "globalText.langLoadMore": "More!"
+        "globalText.langOlder": "Older"
     },
     "socialLinks": [
         {
@@ -1057,7 +1571,7 @@
             }
         },
         {
-            "linkUrl": "https://twitter.com/squad_busters",
+            "linkUrl": "https://twitter.com/squadbustersx",
             "socialLinkImage": {
                 "small": {
                     "title": "X_logo.svg",
