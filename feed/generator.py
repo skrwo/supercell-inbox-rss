@@ -52,6 +52,20 @@ def get_button_html(
 
     return f'<a href="{url}">👉{label}👈</a>'
 
+def generate_poll_content(contents_html: list[str], poll_options: list[dict], inbox: SupercellInbox):
+    contents_html.append("📊 [POLL]")
+    contents_html.append("<ul>")
+    for option in poll_options:
+        title_html = ""
+        if title := option.get("title"):
+            title_html = f"<p>{title}</p>"
+        image = tuple(option["image"].values())[-1]
+        image_url = inbox.compose_resource_url(image["path"])
+        contents_html.append(
+            f'<li>{title_html}<img src="{image_url}"></li>'
+        )
+    contents_html.append("</ul>")
+
 
 def save_feed(feed: FeedGenerator, directory: str, language: str, filename: str):
     path = f"./rss/{directory}"
@@ -147,7 +161,7 @@ def generate_feed(
 
         if (details := entry.get("details")) or (
             ctas := entry.get("ctas") or (tracker := entry.get("tracker"))
-        ):
+        ) or (poll_options := entry.get("options")):
             contents_html = []
             if details:
                 for detail in details.values():
@@ -163,18 +177,7 @@ def generate_feed(
                             contents_html.append(f'<img src="{image_url}">')
                         contents_html.append(detail["body"])
                     elif detail_type == "pollBlock":
-                        contents_html.append("📊 [POLL]")
-                        contents_html.append("<ul>")
-                        for option in detail["poll"]["options"]:
-                            title_html = ""
-                            if title := option.get("title"):
-                                title_html = f"<p>{title}</p>"
-                            image = tuple(option["image"].values())[-1]
-                            image_url = inbox.compose_resource_url(image["path"])
-                            contents_html.append(
-                                f'<li>{title_html}<img src="{image_url}"></li>'
-                            )
-                        contents_html.append("</ul>")
+                        generate_poll_content(contents_html, detail["poll"]["options"], inbox)
                     elif detail_type == "buttonBlock":
                         if html := get_button_html(detail, language, inbox):
                             contents_html.append(html)
@@ -231,6 +234,12 @@ def generate_feed(
                         href=get_button_url(tuple(ctas.values())[0], language, inbox),
                         rel="alternate",
                     )
+            
+            if poll_options := entry.get("options"):
+                poll_title = entry.get("pollTitle")
+                if poll_title:
+                    contents_html.append(f"<h1>{poll_title}</h1>")
+                generate_poll_content(contents_html, poll_options, inbox)
 
             if contents_html:
                 e.content("\n".join(contents_html))
