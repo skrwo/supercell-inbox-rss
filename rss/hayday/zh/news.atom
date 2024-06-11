@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-06-11T09:32:51.921493+00:00</updated>
+  <updated>2024-06-11T10:36:49.549309+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -244,5 +244,18 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5TDNNcL7Oo7jFHJT0gU8mr/0c5d7354228ba22cb73389abf7f68b83/HayDay_ReleaseNotes_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-06-10T09:55:04+00:00</published>
+  </entry>
+  <entry>
+    <id>25DbUMHi6HknPsEHm0qEZG</id>
+    <title>生日里程碑介紹</title>
+    <updated>2024-06-11T09:36:53.250000+00:00</updated>
+    <content>&lt;p&gt;我們將抽取四位幸運的農場主，每人獲贈&lt;b&gt;100萬顆鑽石&lt;/b&gt;，還會為玩家社群的每位農場主送上一款專屬裝飾物！&lt;/p&gt;&lt;p&gt;為慶祝《卡通農場》12歲生日，我們籌備了一場全新社群里程碑活動！您需要做些什麼呢？在全新的氣球機中製作氣球，然後用這些氣球完成航運訂單，就可以獲得新的生日貨幣：&lt;b&gt;音符&lt;/b&gt;。&lt;/p&gt;&lt;p&gt;這次活動的目標是：所有農場主齊心合作，一起努力收集最多的音符。需要達到的里程碑如下：&lt;/p&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6YNobNw1f6WVtrunJELq0e/f2db3ed1ce10b9157b481578989a0728/INBOX_ART_2.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;10億音符 - 1個驚喜盒&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;20億音符 - 2個驚喜盒&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;40億音符 - 10顆鑽石&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;60億音符 - 1個「燈光師」裝飾物&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;請放心，使用音符兌換禮品目錄中的獎勵不會影響里程碑的進度。&lt;/p&gt;&lt;p&gt;但最令人興奮的是——在所有參加生日活動的農場主中，有四位可以獲得&lt;b&gt;100萬顆鑽石&lt;/b&gt;的獎勵。&lt;/p&gt;&lt;p&gt;&lt;b&gt;每達到一個里程碑&lt;/b&gt;，我們就會隨機抽取&lt;b&gt;一位玩家&lt;/b&gt;，向其贈送100萬顆鑽石！ 每位玩家都有相同的機率成為幸運兒。&lt;/p&gt;&lt;p&gt;解鎖獎勵後，就可以前往商店領取。從農場徽章特惠往後滑動一下，您會看到一些免費物品，這些就是獎勵囉！&lt;/p&gt;&lt;p&gt;本次社群活動將持續&lt;b&gt;10天&lt;/b&gt;，現在就可以參加囉！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/zh/news/25DbUMHi6HknPsEHm0qEZG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27gM1Nf8RAEBlgzLD7xNLD/6a0e9131b8b6cce93d5bc015064ec146/HayDay_Diamonds_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-06-11T09:35:08+00:00</published>
   </entry>
 </feed>

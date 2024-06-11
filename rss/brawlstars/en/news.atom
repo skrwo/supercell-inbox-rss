@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-11T09:32:45.626625+00:00</updated>
+  <updated>2024-06-11T10:36:32.968083+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -281,5 +281,15 @@ Milestones &amp;amp; Rewards&lt;/h3&gt;&lt;p&gt;The first three milestones unloc
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6VD28u9RoHm6MM8UPpI6si/cbd6d710a31e2923a6d42292c96d368e/0607_Thumbs_up_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-06-10T12:15:02+00:00</published>
+  </entry>
+  <entry>
+    <id>4L5DidFtjKvsQzwL96r8tt</id>
+    <title>Supercell MAKE: Vote for your favorite Belle Skin!</title>
+    <updated>2024-06-11T09:37:39.536000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/4L5DidFtjKvsQzwL96r8tt"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/65meCeOcBkxNDGYLi7Jk5u/9f91e240e8def9c423143f70cb1bd436/0412_SC_Make_voting_starts_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://make.supercell.com/en/campaign/6ZDfe85oawwxoLcQNHeTAy"/>
+    <category term="Community"/>
+    <published>2024-06-11T09:37:39+00:00</published>
   </entry>
 </feed>

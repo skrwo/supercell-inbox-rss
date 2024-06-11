@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-eventEntries-th</id>
   <title>Hayday - Event</title>
-  <updated>2024-06-11T09:32:51.492734+00:00</updated>
+  <updated>2024-06-11T10:36:50.965379+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -25,5 +25,21 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2UqVWnBc4Fd7lGfsqWuF4r/9260298b36467bccbc7ae9df30c723e4/inbox2223.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/5LI0VZxx8gQ"/>
     <published>2024-05-30T18:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>3CZ6WobCSrlv7rOl9EVhaY</id>
+    <title>เป้าหมายวันเกิด </title>
+    <updated>2024-06-11T10:03:06.328000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 1.00%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - 6 B &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/76itinrSCtyZlmcwNMMJdk/3513efbad189b3f5543c1a000f840a33/inbox4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 4 B &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/51wlSQakc28Ec7dKALldEk/827a468d8bdff6188a60b69e98f3f0de/inboxnew3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 2 B &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3c6XyoXB4ZjX4UunG1SdhY/6172a886f222a888646871a56101d8e1/inboxnew2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 1 B &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2iVBJwGuoQeudDnKPRkDX4/011161fa52fa263def8058ec5e60d1e7/inboxnew1.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="hayday://OpenDiamondShop"&gt;👉รางวัล👈&lt;/a&gt; -- &lt;a href="https://hayday.inbox.supercell.com/#/th/news/25DbUMHi6HknPsEHm0qEZG"&gt;👉ข้อมูล👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3nvqoScpG4tL7sFwif3E4E/81902efd9de6b6dade5d8a54feb3b010/Untitled-2_1.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <published>2024-06-11T09:35:24+00:00</published>
   </entry>
 </feed>
