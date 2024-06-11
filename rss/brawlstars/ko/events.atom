@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-eventEntries-ko</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-05-26T14:32:38.135532+00:00</updated>
+  <updated>2024-06-11T12:45:32.898655+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -17,15 +17,6 @@
     <published>2023-08-02T07:02:19+00:00</published>
   </entry>
   <entry>
-    <id>4ymn3iKpYaEoeXVfX7ZxbN</id>
-    <title>🗞️</title>
-    <updated>2024-04-12T10:30:03.450000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtube.com/shorts/d5UJHrAuP60?si=bJdzbYgLjl2p1_l0"&gt;👉티저 등장!👈&lt;/a&gt; -- &lt;a href="https://www.youtube.com/post/Ugkx_IIOB5wbdGlQhEC-KU-WSHffHctH0kQZ"&gt;👉기본 안내!👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6yBhxV43AvB5cFJeQsU3l7/15c9a6cb106d8472f38a0c33c8e6d28b/KV_inbox_var_800x1161_final.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <published>2024-04-12T10:30:03+00:00</published>
-  </entry>
-  <entry>
     <id>2azxxVt6rp53SUtQ5J9dqz</id>
     <title>🗞️</title>
     <updated>2024-04-20T15:10:46.025000+00:00</updated>
@@ -36,13 +27,56 @@
     <published>2024-04-19T12:17:08+00:00</published>
   </entry>
   <entry>
-    <id>1H3PSSPguxStqvTJxPyMYr</id>
+    <id>6oZxpgV7GjdU1J0sPfhMXw</id>
     <title>🗞️</title>
-    <updated>2024-04-29T08:54:43.145000+00:00</updated>
+    <updated>2024-05-30T09:11:06.225000+00:00</updated>
+    <content>&lt;h1&gt;다음으로 원하는 커뮤니티 게임 모드에 투표하세요!&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;듀얼&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6JSVPBWVSi29viry9w7xsT/a04b09fc289ff127f0d402bc68401d83/0522_item2_300x400.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;바스켓 브롤&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3YpGJIU36q2XcpjQFGp864/36f43e4afa220a5aae4e4fdf1cfe6e9d/0522_item3_300x400.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;발리 브롤&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6KoXjiaakLyv5T8uWT72DE/9098b50ecb47274569885b118608aaa6/0522__item1_300x400.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1PKT3gwP5dzoHFlGyXY4yN/059bc5cad08aeee47d6182d35407a936/0526_modes-poll_inbox_800x1161__KR.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2024-05-26T14:40:22+00:00</published>
+  </entry>
+  <entry>
+    <id>76PQqAcT7zm1S6mxjZj66j</id>
+    <title>🗞️</title>
+    <updated>2024-05-30T15:36:01.409000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="https://youtu.be/kYmsThvBM5g?si=V4UxB4cPYcnE-Zrk"&gt;👉보러 가기!👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3nLoNEoFgc8fC7SW0osJtw/a710f59038b5b4142bbdb50667e981bb/0426_Godzilla_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/kYmsThvBM5g?si=V4UxB4cPYcnE-Zrk"/>
-    <published>2024-04-29T08:02:08+00:00</published>
+&lt;a href="brawlstars://shop"&gt;👉드라코!👈&lt;/a&gt; -- &lt;a href="https://youtu.be/R1hiRWjRJVk?si=q0juJbkTmMhX3dDp"&gt;👉보러 가기!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6mYtFCRguSb94BP7QFcg3B/c5f48895f29ef685a1c10e09656ae091/0530_Draco_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2024-04-04T09:05:56+00:00</published>
+  </entry>
+  <entry>
+    <id>XQIKnrUZf9aPv8UHRN1Kh</id>
+    <title>🗞️</title>
+    <updated>2024-06-07T17:51:47.934000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="brawlstars://shop"&gt;👉사이버브롤👈&lt;/a&gt; -- &lt;a href="https://youtu.be/42UyaPHjgj0?si=MDaFFyYFTNWIbTYG"&gt;👉보러 가기!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4bqWxQVri0EG4QIuDSP1VB/e338588cfbcc9aa33d15a0b343786145/Cyberbrawl_Season_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2024-06-06T12:30:45+00:00</published>
+  </entry>
+  <entry>
+    <id>30wSNahrT4nkIRvkHGhNWf</id>
+    <title>6월 20일에 잠금 해제!</title>
+    <updated>2024-06-10T20:04:41.082000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 59.10%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N9skWnB4hR6kQ45NuDKMx/8d3f6473c104955ed158f9216385dea7/Brawl_1.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4QUBWFM2P1nzcXPmUscwiU/d89475c724a6d0bdf1e3a362fcb1fcac/Milestone_Double_XP_CROP-1.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4vuF3kDntczQcD5tA03ajf/2d0bb0b70e03b12e793e1b66a0c88be0/Milestone_Double_XP_CROP.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5KdUeflfgZhexHYz8Q1Hpg/225064386dc06f8dbedc969ec2a10d55/Milestone_Double_StarrDrops_CROP.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="https://youtu.be/1oYyHG_XOyM"&gt;👉보러 가기!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6lGIOfq1bP1oRjB5UyjrQ3/191c2e3fa8133e92c32cbe8a31943066/Carousel_Thumbsup_Background.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/1oYyHG_XOyM"/>
+    <published>2024-06-10T08:01:32+00:00</published>
   </entry>
 </feed>
