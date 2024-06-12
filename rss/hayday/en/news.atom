@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-06-12T14:31:14.285479+00:00</updated>
+  <updated>2024-06-12T15:29:28.206038+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -328,5 +328,15 @@ We are releasing a new way of showcasing your decoration collections in a stylis
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27gM1Nf8RAEBlgzLD7xNLD/6a0e9131b8b6cce93d5bc015064ec146/HayDay_Diamonds_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-06-11T09:35:08+00:00</published>
+  </entry>
+  <entry>
+    <id>3kffI09nnz2SI2p3rxxXUE</id>
+    <title>Million Diamonds Winners</title>
+    <updated>2024-06-12T14:59:00.246000+00:00</updated>
+    <content>&lt;h1&gt;Congratulations to the winners!&lt;/h1&gt;
+&lt;p&gt;Here are the farmers who won 1 million diamonds during the Birthday Milestone:&lt;/p&gt;&lt;p&gt;&lt;b&gt;Milestone 1: #YUR90R890&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Milestone 2:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Milestone 3:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Milestone 4:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;As a reminder, they were chosen randomly, and the requirements to participate were:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Be at least on level 17.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Participation in the Birthday Boat Event. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/3kffI09nnz2SI2p3rxxXUE"/>
+    <category term="Community"/>
+    <published>2024-06-12T14:57:57+00:00</published>
   </entry>
 </feed>

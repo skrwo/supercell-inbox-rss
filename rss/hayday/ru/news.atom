@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-06-12T14:31:11.058987+00:00</updated>
+  <updated>2024-06-12T15:29:24.231466+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -288,5 +288,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27gM1Nf8RAEBlgzLD7xNLD/6a0e9131b8b6cce93d5bc015064ec146/HayDay_Diamonds_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Новости"/>
     <published>2024-06-11T09:35:08+00:00</published>
+  </entry>
+  <entry>
+    <id>3kffI09nnz2SI2p3rxxXUE</id>
+    <title>Победители розыгрыша с миллионом алмазов</title>
+    <updated>2024-06-12T14:59:00.246000+00:00</updated>
+    <content>&lt;h1&gt;Поздравляем победителей!&lt;/h1&gt;
+&lt;p&gt;Вот фермеры, которые выиграли один миллион алмазов в событии с целями ко дню рождения:&lt;/p&gt;&lt;p&gt;&lt;b&gt;Цель 1: #YUR90R890&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Цель 2:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Цель 3:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Цель 4:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Напоминаем, что победители выбирались случайным образом, а требования к участию были следующие:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;как минимум 17-й уровень фермы;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;участие в событии с загрузкой пароходов в честь дня рождения.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/3kffI09nnz2SI2p3rxxXUE"/>
+    <category term="Сообщество"/>
+    <published>2024-06-12T14:57:57+00:00</published>
   </entry>
 </feed>

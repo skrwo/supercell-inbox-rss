@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-06-12T14:31:13.441597+00:00</updated>
+  <updated>2024-06-12T15:29:23.886612+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -288,5 +288,15 @@ Domingo: aceleração da produção em 20% de 3 prédios aleatórios + evento de
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27gM1Nf8RAEBlgzLD7xNLD/6a0e9131b8b6cce93d5bc015064ec146/HayDay_Diamonds_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-06-11T09:35:08+00:00</published>
+  </entry>
+  <entry>
+    <id>3kffI09nnz2SI2p3rxxXUE</id>
+    <title>Quem levou um milhão de diamantes</title>
+    <updated>2024-06-12T14:59:00.246000+00:00</updated>
+    <content>&lt;h1&gt;Parabéns aos vencedores!&lt;/h1&gt;
+&lt;p&gt;Aqui estão os fazendeiros que tiveram a colheita de 1 milhão de diamantes nas metas de aniversário:&lt;/p&gt;&lt;p&gt;&lt;b&gt;Meta 1: #YUR90R890&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Meta 2:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Meta 3:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Meta 4:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lembrando que os vencedores foram escolhidos aleatoriamente entre jogadores que:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Tivessem nível da fazenda 17 ou superior&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tivessem participado do evento do barco de aniversário&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/3kffI09nnz2SI2p3rxxXUE"/>
+    <category term="Comunidade"/>
+    <published>2024-06-12T14:57:57+00:00</published>
   </entry>
 </feed>

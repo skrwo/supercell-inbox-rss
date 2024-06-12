@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-12T14:31:01.728067+00:00</updated>
+  <updated>2024-06-12T15:29:13.195839+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -568,5 +568,14 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://youtube.com/shorts/d2qfn3wd6dQ"/>
     <category term="エンタメ"/>
     <published>2024-06-08T15:35:21+00:00</published>
+  </entry>
+  <entry>
+    <id>3s6MghxnccOxdf1NgGVzN5</id>
+    <title>ゴブリンクイーンの情報解禁動画</title>
+    <updated>2024-06-12T15:05:02.671000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/3s6MghxnccOxdf1NgGVzN5"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SEbsKDphdvC4lzBkytZ6k/8c6f05820adc233209d72e72114e167a/queenanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/_VnqcBnWM0k"/>
+    <published>2024-06-12T15:05:02+00:00</published>
   </entry>
 </feed>
