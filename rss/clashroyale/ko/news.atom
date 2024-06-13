@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-13T14:32:30.928993+00:00</updated>
+  <updated>2024-06-13T15:29:54.885394+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -567,5 +567,15 @@ A: 현재 럭키 드롭 보상은 인벤토리 보유 한도와 무관하게 지
     <link href="https://youtu.be/Jvijua4E62s?si=djoFMdflJgSOvx9Z"/>
     <category term="하이라이트"/>
     <published>2024-06-12T15:05:02+00:00</published>
+  </entry>
+  <entry>
+    <id>qxrqAtBsg6G2xdvdRZzxk</id>
+    <title>신규 고블린 카드: 게임 플레이 공개</title>
+    <updated>2024-06-13T15:05:06.664000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/qxrqAtBsg6G2xdvdRZzxk"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ggoSka26LGcac9AM6F8kc/4e2fbc4245936c1d7e91981f2c464a2d/3newgoblincards.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/zUIspPuAKhg?feature=share"/>
+    <category term="하이라이트"/>
+    <published>2024-06-13T15:05:06+00:00</published>
   </entry>
 </feed>

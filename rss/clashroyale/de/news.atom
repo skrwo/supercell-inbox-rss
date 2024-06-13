@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-13T14:32:33.884281+00:00</updated>
+  <updated>2024-06-13T15:29:51.996618+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -597,5 +597,15 @@ Verdiene ab dem 7. Juni um 11:00 Uhr MESZ &lt;b&gt;Koboldkarten&lt;/b&gt;, ein &
     <link href="https://youtu.be/_VnqcBnWM0k"/>
     <category term="Highlights"/>
     <published>2024-06-12T15:05:02+00:00</published>
+  </entry>
+  <entry>
+    <id>qxrqAtBsg6G2xdvdRZzxk</id>
+    <title>Neue Koboldkarten: Gameplay-Enthüllung</title>
+    <updated>2024-06-13T15:05:06.664000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/qxrqAtBsg6G2xdvdRZzxk"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ggoSka26LGcac9AM6F8kc/4e2fbc4245936c1d7e91981f2c464a2d/3newgoblincards.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/zUIspPuAKhg?feature=share"/>
+    <category term="Highlights"/>
+    <published>2024-06-13T15:05:06+00:00</published>
   </entry>
 </feed>
