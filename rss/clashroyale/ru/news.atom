@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-13T01:39:14.347672+00:00</updated>
+  <updated>2024-06-13T02:42:32.368287+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -25,16 +25,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2023-12-01T18:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>5PniLKOxURM6tUf8bK5oiM</id>
-    <title>История ⚡ эволюции разряда ⚡ </title>
-    <updated>2024-03-19T06:28:10.664000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/5PniLKOxURM6tUf8bK5oiM"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6hyhhwOpNPQc0TenFw0nu1/0755b74664a2914afa2ff53e98a7c725/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/Rtgpx2YLLO4?feature=share"/>
-    <category term="Развлечения"/>
-    <published>2024-03-14T21:31:13+00:00</published>
   </entry>
   <entry>
     <id>2ZDvdb8L3WyNV0co8JgE3j</id>
@@ -553,7 +543,7 @@
   <entry>
     <id>3s6MghxnccOxdf1NgGVzN5</id>
     <title>Видеоанонс королевы гоблинов</title>
-    <updated>2024-06-12T15:05:02.671000+00:00</updated>
+    <updated>2024-06-13T01:57:50.486000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/ru/news/3s6MghxnccOxdf1NgGVzN5"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SEbsKDphdvC4lzBkytZ6k/8c6f05820adc233209d72e72114e167a/queenanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/_VnqcBnWM0k"/>

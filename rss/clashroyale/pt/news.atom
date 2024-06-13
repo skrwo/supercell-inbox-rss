@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-13T01:39:15.849291+00:00</updated>
+  <updated>2024-06-13T02:42:32.667308+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -37,16 +37,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/dQRyndcSHunF7y9DdWXPo/89a21e654beb9a225874eeff8ef773d3/PT_CR_S53_Season_Hero_Cover.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de lançamento"/>
     <published>2023-11-06T09:01:04+00:00</published>
-  </entry>
-  <entry>
-    <id>5PniLKOxURM6tUf8bK5oiM</id>
-    <title>⚡ A história da evolução do Zap ⚡ </title>
-    <updated>2024-03-19T06:28:10.664000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/5PniLKOxURM6tUf8bK5oiM"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6hyhhwOpNPQc0TenFw0nu1/0755b74664a2914afa2ff53e98a7c725/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/Rtgpx2YLLO4?feature=share"/>
-    <category term="Diversão"/>
-    <published>2024-03-14T21:31:13+00:00</published>
   </entry>
   <entry>
     <id>2ZDvdb8L3WyNV0co8JgE3j</id>
@@ -576,7 +566,7 @@ A partir das 9h UTC de 7 de junho, ganhe &lt;b&gt;cartas de Goblins&lt;/b&gt;, u
   <entry>
     <id>3s6MghxnccOxdf1NgGVzN5</id>
     <title>Animação de revelação da Rainha Goblin</title>
-    <updated>2024-06-12T15:05:02.671000+00:00</updated>
+    <updated>2024-06-13T01:57:50.486000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/pt/news/3s6MghxnccOxdf1NgGVzN5"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SEbsKDphdvC4lzBkytZ6k/8c6f05820adc233209d72e72114e167a/queenanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/_VnqcBnWM0k"/>
