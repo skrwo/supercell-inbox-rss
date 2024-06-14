@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-14T07:29:04.837776+00:00</updated>
+  <updated>2024-06-14T08:32:33.789935+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -212,5 +212,15 @@
     <link href="https://make.supercell.com/en/campaign/6ZDfe85oawwxoLcQNHeTAy"/>
     <category term="커뮤니티"/>
     <published>2024-06-11T09:37:39+00:00</published>
+  </entry>
+  <entry>
+    <id>2YL1UpDyTGOP5EkYWFKiet</id>
+    <title>드라코 가젯 꿀팁을 알려주러 현실에 강림!</title>
+    <updated>2024-06-14T08:10:38.508000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/2YL1UpDyTGOP5EkYWFKiet"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2jLks8SierTcG3wFUYArTr/8f6533cff72ccb65a4e3db7b2316cda2/_PRABBIT______________________.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/veRTqta3_gU?si=H9D9Y4QqzMgMw5yK"/>
+    <category term="동영상"/>
+    <published>2024-06-14T08:08:06+00:00</published>
   </entry>
 </feed>
