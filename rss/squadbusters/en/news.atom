@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-14T10:33:00.862167+00:00</updated>
+  <updated>2024-06-14T11:29:19.567021+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -143,15 +143,5 @@ Follow our Social Media channels and your favorite Squad Busters content creator
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-06-04T07:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>5eu848Bh0m2n5LrE9n1hdH</id>
-    <title>애니메이션 : 그들이 뭉쳤다! [스쿼드 버스터즈]</title>
-    <updated>2024-06-14T07:42:41.417000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/en/news/5eu848Bh0m2n5LrE9n1hdH"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/a30OEBwTyh8fjz2mgzRIr/b7c014cc83b3dd90fee9f07f2c50e4d9/2W_0614_____________________________________.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/xrZXanK9wbM?si=4aZLVSGeAZz7KCCm"/>
-    <category term="Video"/>
-    <published>2024-06-14T07:42:41+00:00</published>
   </entry>
 </feed>
