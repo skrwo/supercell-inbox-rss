@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-14T19:29:21.698600+00:00</updated>
+  <updated>2024-06-14T20:29:02.233998+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -164,5 +164,15 @@
     <link href="https://www.youtube.com/watch?v=JjaJH0WS4nM"/>
     <category term="最新情報"/>
     <published>2024-06-10T06:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2DvXK9WqyEfBjyCoUVUYKn</id>
+    <title>YouTube首映：4個全新角色！？</title>
+    <updated>2024-06-14T20:13:18.901000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/2DvXK9WqyEfBjyCoUVUYKn"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/HBPhlzUSHyY"/>
+    <category term="更新說明"/>
+    <published>2024-06-14T20:00:40+00:00</published>
   </entry>
 </feed>
