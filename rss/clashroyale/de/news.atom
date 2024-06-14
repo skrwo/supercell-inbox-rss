@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-14T14:32:05.449413+00:00</updated>
+  <updated>2024-06-14T15:31:04.302313+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -576,5 +576,15 @@ Verdiene ab dem 7. Juni um 11:00 Uhr MESZ &lt;b&gt;Koboldkarten&lt;/b&gt;, ein &
     <link href="https://youtube.com/shorts/zUIspPuAKhg?feature=share"/>
     <category term="Highlights"/>
     <published>2024-06-13T15:05:06+00:00</published>
+  </entry>
+  <entry>
+    <id>3LyXpxV0vXa2ncJGQYpvnr</id>
+    <title>Koboldkönigin: Gameplay-Enthüllung</title>
+    <updated>2024-06-14T15:08:35.812000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/3LyXpxV0vXa2ncJGQYpvnr"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6E7TJA0B9L4kas6SvNYdOO/41aff29ce14ed319be979d4c75163bb5/goblinbarrellore.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/wYaNs2_wA54?feature=share"/>
+    <category term="Highlights"/>
+    <published>2024-06-14T15:05:03+00:00</published>
   </entry>
 </feed>
