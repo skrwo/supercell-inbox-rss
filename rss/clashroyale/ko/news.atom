@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-15T06:33:40.279753+00:00</updated>
+  <updated>2024-06-15T07:29:12.219306+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -556,5 +556,14 @@ A: 현재 럭키 드롭 보상은 인벤토리 보유 한도와 무관하게 지
     <link href="https://youtube.com/shorts/wYaNs2_wA54?feature=share"/>
     <category term="하이라이트"/>
     <published>2024-06-14T15:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>6IaeOM0GxhQVss2X8IFib1</id>
+    <title>월별 파이널 시청 인증하고 선물 받아가세요!🎁</title>
+    <updated>2024-06-15T07:07:03.499000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/6IaeOM0GxhQVss2X8IFib1"/>
+    <link href="https://cafe.naver.com/clashroyale/1502174"/>
+    <category term="커뮤니티"/>
+    <published>2024-06-15T07:07:03+00:00</published>
   </entry>
 </feed>
