@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-15T14:29:57.097856+00:00</updated>
+  <updated>2024-06-15T15:29:13.744606+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -586,5 +586,15 @@ Verdiene ab dem 7. Juni um 11:00 Uhr MESZ &lt;b&gt;Koboldkarten&lt;/b&gt;, ein &
     <link href="https://youtube.com/shorts/wYaNs2_wA54?feature=share"/>
     <category term="Highlights"/>
     <published>2024-06-14T15:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5QC6U19jTkyZGWqdNvpvJE</id>
+    <title>Eine neue Herrscherin ist da!</title>
+    <updated>2024-06-15T15:17:00.798000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/5QC6U19jTkyZGWqdNvpvJE"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Qnp65ZE2UehBNtD4hrAd5/6c19244efee86605ec9432b640cd14c4/CR_TVRoyale_Thumbnail_V1_002.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Fh-z_EhbtL4"/>
+    <category term="News"/>
+    <published>2024-06-15T15:00:03+00:00</published>
   </entry>
 </feed>

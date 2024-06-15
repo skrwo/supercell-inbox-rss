@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-15T14:29:57.307136+00:00</updated>
+  <updated>2024-06-15T15:29:16.306714+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -564,5 +564,15 @@ A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも�
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3Kw6RMfUASZr5X9LUVs2bK/61b7bc4877f85fd2665268dc6e0f4620/queengameplayreveal.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/gy1E72i3sxc"/>
     <published>2024-06-14T15:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5QC6U19jTkyZGWqdNvpvJE</id>
+    <title> TVロワイヤル：新ゲームモード！そして3枚の新カード！</title>
+    <updated>2024-06-15T15:17:00.798000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/5QC6U19jTkyZGWqdNvpvJE"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Qnp65ZE2UehBNtD4hrAd5/6c19244efee86605ec9432b640cd14c4/CR_TVRoyale_Thumbnail_V1_002.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=OmVCaWkbI4U"/>
+    <category term="ニュース"/>
+    <published>2024-06-15T15:00:03+00:00</published>
   </entry>
 </feed>

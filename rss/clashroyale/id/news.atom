@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-15T14:29:56.567016+00:00</updated>
+  <updated>2024-06-15T15:29:12.358630+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -549,5 +549,15 @@ Mulai dari 7 Juni 16.00 WIB (09.00 UTC), raih &lt;b&gt;Kartu Goblin&lt;/b&gt;, &
     <link href="https://youtube.com/shorts/wYaNs2_wA54?feature=share"/>
     <category term="Sorotan"/>
     <published>2024-06-14T15:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5QC6U19jTkyZGWqdNvpvJE</id>
+    <title>Penguasa Baru KINI TIBA!</title>
+    <updated>2024-06-15T15:17:00.798000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/5QC6U19jTkyZGWqdNvpvJE"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Qnp65ZE2UehBNtD4hrAd5/6c19244efee86605ec9432b640cd14c4/CR_TVRoyale_Thumbnail_V1_002.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Fh-z_EhbtL4"/>
+    <category term="Berita"/>
+    <published>2024-06-15T15:00:03+00:00</published>
   </entry>
 </feed>
