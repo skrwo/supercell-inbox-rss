@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-16T11:28:45.421491+00:00</updated>
+  <updated>2024-06-16T12:46:51.181155+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -84,15 +84,6 @@ Criterios de Participación: Todos los jugadores debían tener al menos 16 años
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3P0RDd11o21JzTJocBzFHA/4fe4982bcbe93f861f2a7af64247fcd2/ES_2024_Worlds_Schedule_Announcement-_Thumbnails.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eSports"/>
     <published>2024-03-06T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>5ipHY8qR4SUmvqeh6B0R40</id>
-    <title>Ver repetición de la fase de grupos - Día 2 - Warmup</title>
-    <updated>2024-03-18T12:28:44.290000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4Bn1Hp36M5KuEF9tK5ed7P/5b19974710f1bfc6328d39b84b660d8a/ES_00_Thumbnails_CoC_Worlds_Warmup_2024_-_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/nGA4D_06J7M?si=FI03zEdW_IM-aPJH&amp;t=1062"/>
-    <category term="eSports"/>
-    <published>2024-03-18T12:28:44+00:00</published>
   </entry>
   <entry>
     <id>3HFPUrRk3ply0IhzCVx6b9</id>
