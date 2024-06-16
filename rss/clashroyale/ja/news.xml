@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Jun 2024 09:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 10:33:15 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -22,34 +22,6 @@
       <category>リリース情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Fri, 01 Dec 2023 08:24:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>3月18日のゲームアップデート</title>
-      <link>https://clashroyale.inbox.supercell.com/#/ja/news/6MvOj4pQGF8bhmt0hJlWyQ</link>
-      <description>&lt;h1&gt;ラッキーボックスの実装とデイリータスクの仕様変更&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;クラッシュ・ロワイヤルにラッキーボックスが登場！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;デイリータスクをすべて完了すると、ラッキーボックスが手に入ります。ラッキーボックスの導入により、&lt;b&gt;魔法アイテム&lt;/b&gt;の入手手段が1つ増えることになります。&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DvvkdoLCiD5zIJcIDLa1e/ae847a59e3e566cc1d4f5fc9ca436040/MysteryBox_2.png?w=1753&amp;h=1596&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;📝ラッキーボックスのレア度&lt;/b&gt;&lt;/p&gt;&lt;p&gt;ラッキーボックスの開封時に画面をタップすると、レア度が上がり、より豪華な報酬を入手できる可能性があります。開封するには3回のタップが必要で、1タップごとにレア度が上昇するチャンスを得られます。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🌟レア度の種類&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ノーマル（レア度上昇確率：20％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;レア（レア度上昇確率：25％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スーパーレア（レア度上昇確率：30％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ウルトラレア&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🎁ラッキーボックス報酬&lt;/b&gt;&lt;/p&gt;&lt;p&gt;ラッキーボックスの報酬には以下が含まれます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ワイルドカード（すべてのレア度）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;エリートワイルドカード&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;強化の指南書または強化の秘伝書&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ワイルドシャード&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;バナーチケットの変更点&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/36dY9Z6b7t5waGv6m8RBnD/a4af3f18c9fd7b5c38f0d19efd15a6de/Cosmetic_Token_UI.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;4月のシーズンより、シーズンショップのバナーチケットの価格が変更されます。これに伴い、バナーチケットをデイリータスクから集めることができなくなりますが、マスタータスクやシーズンショップからは、これまで通り入手可能です。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ただし、シーズンショップ内でのバナーチケットの価格は調整されます。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;よくある質問&lt;/h1&gt;
-&lt;p&gt;Q：タスクの種類は毎日変わりますか？（例：バトル関連→スタンプ関連）
-A：日付が変わってもタスクが変わることはありません。&lt;/p&gt;&lt;p&gt;Q：日によって報酬の内容が変わることはありますか？
-A：現時点では変わることはありませんが、今後仕様が変更される可能性もあります。&lt;/p&gt;&lt;p&gt;Q：以前までは、デイリータスクの報酬は回収するまで消えることはありませんでしたが、これからも同じ仕様ですか？
-A：未回収の報酬はタスクのリセットとともに消えてしまいます。ご注意ください。&lt;/p&gt;&lt;p&gt;Q：タスクはいつリセットされますか？
-A：デイリータスクは、ショップのデイリーセールと同時にリセットされます。リセットの時刻はアカウント作成時のタイムゾーンに基づいて決定されます。&lt;/p&gt;&lt;p&gt;Q：クラウンラッシュで入手したクラウンは、タスクの達成に必要なクラウンの数としてカウントされますか？
-A：カウントされます。&lt;/p&gt;&lt;p&gt;Q：魔法アイテムを入手した際に保管枠に空きがない場合はどうなりますか？
-A：現在、ラッキーボックスの報酬は保管枠がいっぱいでも上限を超過して入手できるようになっていますが、この仕様は将来的に変更される可能性があります。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;その他改善およびバグ修正&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;伝説の道のバトルがクラロワTVで視聴可能に。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;デッキのコピー機能がタワーユニットにも適用。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;デッキ作成画面の仕様が改善。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;チャンピオンのスキルボタンの挙動を改善。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;呪文の影響を受けている限界突破スケルトンが、ゲームで意図されていない形で倒されてしまうバグを修正。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;引き続きクラッシュ・ロワイヤルをお楽しみください！&lt;/p&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3DcYXN8g7LOzs4THDF2NcU/e81262ccca7bb29a8f2fd2f35791b033/emotes_king_zapcrown_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</description>
-      <guid isPermaLink="false">6MvOj4pQGF8bhmt0hJlWyQ</guid>
-      <category>リリース情報</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/qP8zYbEtmirEB4rFgivr8/9b78578dcc0808447837c4937ef28619/Lucky_Drop_Article_Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Mon, 18 Mar 2024 08:43:29 +0000</pubDate>
     </item>
     <item>
       <title>✨ラッキーボックスが登場✨</title>

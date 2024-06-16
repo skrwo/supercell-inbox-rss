@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-16T09:29:29.407892+00:00</updated>
+  <updated>2024-06-16T10:33:06.289046+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,36 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cb3HMPOCmfIQ1i06KsHAi/422ccb72d93f268b1935c257ce2999d9/Thumbnail_Roadmap.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2023-12-01T15:42:54+00:00</published>
-  </entry>
-  <entry>
-    <id>6MvOj4pQGF8bhmt0hJlWyQ</id>
-    <title>ACTUALIZACIÓN DEL 18 DE MARZO</title>
-    <updated>2024-03-20T02:32:29.419000+00:00</updated>
-    <content>&lt;h1&gt;Cubos de la suerte y cambios en las tareas diarias&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;¡Los cubos de la suerte llegan a Clash Royale!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ahora puedes conseguir un cubo de la suerte al completar tareas diarias. Los cubos de la suerte ofrecen una nueva forma de conseguir &lt;b&gt;objetos mágicos&lt;/b&gt; al completar misiones.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DvvkdoLCiD5zIJcIDLa1e/ae847a59e3e566cc1d4f5fc9ca436040/MysteryBox_2.png?w=1753&amp;h=1596&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;📝 Calidades del cubo de la suerte&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Cuando recibes un cubo de la suerte, al tocarlo existe la posibilidad de mejorar su calidad y así conseguir recompensas superiores. Para abrir los cubos de la suerte tendrás que tocarlos tres veces y cada vez que los toques supondrá una oportunidad para mejorar su calidad.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🌟 Las calidades son las siguientes:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Común, con un 20 % de probabilidades de mejora&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Especial, con un 25 % de probabilidades de mejora&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Épica, con un 30 % de probabilidades de mejora&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Legendaria&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🎁 Recompensas del cubo de la suerte&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Entre las recompensas de los cubos de la suerte encontrarás:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Oro&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Comodines (de todas las calidades)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Comodines de élite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Libros de cartas y libro de libros&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fragmento de comodín&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;CAMBIO EN LAS FICHAS DE ESTANDARTE DE BATALLA&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/36dY9Z6b7t5waGv6m8RBnD/a4af3f18c9fd7b5c38f0d19efd15a6de/Cosmetic_Token_UI.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;El coste de las fichas de estandarte en la tienda de temporada se ajustará a partir de la temporada de abril, lo que significa que ya no se podrán obtener en las tareas diarias. Ahora podrás conseguirlas en tareas de maestría de cartas y en la tienda de temporada.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Se ha ajustado el coste total de las fichas de estandarte en la tienda de temporada.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;Preguntas frecuentes:&lt;/h1&gt;
-&lt;p&gt;P.: ¿Las misiones cambian todos los días? Por ejemplo, un día están relacionadas con las batallas y al día siguiente, con el uso de reacciones.
-R.: No, son consistentes.&lt;/p&gt;&lt;p&gt;P.: ¿Las recompensas cambian de un día para otro?
-R.: También se mantienen las mismas, pero podrían cambiar en el futuro.&lt;/p&gt;&lt;p&gt;P.: En el pasado, las recompensas de las tareas diarias permanecían hasta que las reclamabas. ¿Esto seguirá siendo así?
-R.: No, las recompensas que no se reclamen expirarán en el momento de reinicio.&lt;/p&gt;&lt;p&gt;P.: ¿Cuándo es el momento de reinicio?
-R.: El momento de reinicio de las tareas diarias coincide con el reinicio diario de la tienda, que depende de la zona horaria en la que se creara la cuenta.&lt;/p&gt;&lt;p&gt;P.: ¿Las coronas de la fiebre de coronas se incluyen en la tarea diaria de coronas?
-R.: Sí.&lt;/p&gt;&lt;p&gt;P.: ¿Cómo funcionan las tareas nuevas?
-R.: Ahora podrás progresar en varias tareas a la vez, lo que te permitirá completarlas con tan solo disputar tres batallas al día.&lt;/p&gt;&lt;p&gt;P.: ¿Qué pasa si mi inventario está lleno cuando reciba un objeto mágico?
-R.: Por ahora, los cubos de la suerte ignorarán los límites del inventario, aunque es posible que esto cambie en el futuro.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Mejoras de calidad y resolución de errores&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Las partidas del camino de leyendas ahora están disponibles en TV Royale.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La función de copiar mazo ahora incluye las tropas de las torres.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mejoras en la formación de mazos para disfrutar de una mejor experiencia de juego.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mejoras en la funcionalidad del botón de habilidad de los campeones.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Hemos solucionado un error que hacía que los esqueletos evolucionados perecieran de forma inconsistente al estar bajo el efecto de hechizos.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Gracias ¡y nos vemos en la arena!&lt;/p&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3DcYXN8g7LOzs4THDF2NcU/e81262ccca7bb29a8f2fd2f35791b033/emotes_king_zapcrown_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/6MvOj4pQGF8bhmt0hJlWyQ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/qP8zYbEtmirEB4rFgivr8/9b78578dcc0808447837c4937ef28619/Lucky_Drop_Article_Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notas de actualización"/>
-    <published>2024-03-18T08:43:29+00:00</published>
   </entry>
   <entry>
     <id>16iCviC1Z9IZdWNwxAsGcQ</id>

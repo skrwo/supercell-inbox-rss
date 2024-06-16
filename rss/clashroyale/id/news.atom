@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-16T09:29:32.419346+00:00</updated>
+  <updated>2024-06-16T10:33:04.833889+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -25,35 +25,6 @@ Sampai jumpa di Arena!&#13;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cb3HMPOCmfIQ1i06KsHAi/422ccb72d93f268b1935c257ce2999d9/Thumbnail_Roadmap.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Catatan Rilis"/>
     <published>2023-12-01T01:40:51+00:00</published>
-  </entry>
-  <entry>
-    <id>6MvOj4pQGF8bhmt0hJlWyQ</id>
-    <title>PEMBARUAN GAME - 18 MARET</title>
-    <updated>2024-03-20T02:32:29.419000+00:00</updated>
-    <content>&lt;h1&gt;Hadiah Hoki dan Perombakan Tugas Harian&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Hadiah Hoki tiba di Clash Royale!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Kamu kini bisa mendapatkan Hadiah Hoki dengan menyelesaikan Tugas Harian. Hadiah Hoki akan memberikan jalan baru untuk mendapatkan &lt;b&gt;Barang Sihir&lt;/b&gt; melalui Tugas.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DvvkdoLCiD5zIJcIDLa1e/ae847a59e3e566cc1d4f5fc9ca436040/MysteryBox_2.png?w=1753&amp;h=1596&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;📝 Kelangkaan Hadiah Hoki&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Saat mendapatkan Hadiah Hoki, kamu bisa mengetuknya untuk meningkatkan Kelangkaan dan konten hadiah! Hadiah Hoki dapat dibuka dengan tiga ketukan yang masing-masing akan memiliki peluang untuk meningkatkan Kelangkaan.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🌟 Kelangkaan ini mencakup:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Umum - dengan 20% peluang untuk naik tingkat kelangkaan&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Langka - dengan 25% peluang untuk naik tingkat kelangkaan&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Epik - dengan 30% peluang untuk naik tingkat kelangkaan&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Legendaris&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🎁 Konten Hadiah Hoki&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Konten Hadiah Hoki dapat berupa:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Emas&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kartu Joker (semua kelangkaan)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kartu Joker Elite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kitab Kartu &amp;amp; Mahakitab Sihir&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Keping Joker&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;PERUBAHAN TOKEN BENDERA PERTEMPURAN&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/36dY9Z6b7t5waGv6m8RBnD/a4af3f18c9fd7b5c38f0d19efd15a6de/Cosmetic_Token_UI.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Biaya Token Bendera di Toko Musim akan mengalami penyesuaian di awal Musim April. Singkat kata, Token Bendera kini tidak didapatkan dari Tugas Harian. Setelah ini, Token Bendera Pertempuran akan diraih melalui tugas Penguasaan Kartu dan Toko Musim.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Total harga Token Bendera di Toko Musim kini telah disesuaikan.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;T&amp;J (FAQ):&lt;/h1&gt;
-&lt;p&gt;T: Apakah Tugas Harian akan berubah? Misalnya &amp;quot;bertempur&amp;quot; hari ini dan &amp;quot;gunakan Emote&amp;quot; besok?
-J: Tugas Harian akan tetap sama.&lt;/p&gt;&lt;p&gt;Q: Apakah hadiah berubah dari hari ke hari?
-J: Hadiah akan tetap sama untuk saat ini dan mungkin akan berubah di masa mendatang.&lt;/p&gt;&lt;p&gt;T: Sebelum pembaruan ini, Hadiah Tugas Harian masih akan tersedia hingga diklaim. Apakah fitur ini masih ada?
-A: Tidak, hadiah yang belum diklaim akan kedaluwarsa saat pewaktu direset.&lt;/p&gt;&lt;p&gt;T: Kapan pewaktu direset?
-J: Reset pewaktu untuk Tugas Harian akan dilakukan bersamaan dengan reset harian Toko yang akan ditentukan oleh zona waktu lokasi di mana akun dibuat.&lt;/p&gt;&lt;p&gt;Q: Apakah Mahkota dari acara Gila Mahkota juga dihitung ke Tugas Harian?
-J: Ya.&lt;/p&gt;&lt;p&gt;T: Apa yang terjadi apabila Penyimpanan penuh saat saya mendapatkan Barang Sihir?
-A: Untuk saat ini, konten Hadiah Hoki akan mengabaikan batas penyimpanan. Sistem ini mungkin akan diubah di masa mendatang.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Perbaikan Bug dan Peningkatan Kualitas Hidup&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Pertempuran Jalur Legenda kini tersedia di TV Royale.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fitur Salin Dek kini juga menyalin Peleton Benteng.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fitur Penyusun Dek kini telah ditingkatkan untuk memberikan pengalaman yang lebih memanjakan.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Peningkatan pada Tombol Kemampuan Jawara&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bug yang menyebabkan Jerangkong tumbang tidak konsisten akibat Mantra kini telah diperbaiki.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Terima kasih dan sampai jumpa di Arena!&lt;/p&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3DcYXN8g7LOzs4THDF2NcU/e81262ccca7bb29a8f2fd2f35791b033/emotes_king_zapcrown_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/id/news/6MvOj4pQGF8bhmt0hJlWyQ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/qP8zYbEtmirEB4rFgivr8/9b78578dcc0808447837c4937ef28619/Lucky_Drop_Article_Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Catatan Rilis"/>
-    <published>2024-03-18T08:43:29+00:00</published>
   </entry>
   <entry>
     <id>16iCviC1Z9IZdWNwxAsGcQ</id>

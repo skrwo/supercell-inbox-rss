@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-16T09:29:28.519116+00:00</updated>
+  <updated>2024-06-16T10:33:19.296203+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,36 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cb3HMPOCmfIQ1i06KsHAi/422ccb72d93f268b1935c257ce2999d9/Thumbnail_Roadmap.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Versionshinweise"/>
     <published>2023-12-01T15:30:40+00:00</published>
-  </entry>
-  <entry>
-    <id>6MvOj4pQGF8bhmt0hJlWyQ</id>
-    <title>SPIELUPDATE – 18. MÄRZ</title>
-    <updated>2024-03-20T02:32:29.419000+00:00</updated>
-    <content>&lt;h1&gt;Glücksboxen &amp; Überarbeitung der Tagesaufgaben&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Glücksboxen halten in Clash Royale Einzug!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Du kannst jetzt durch das Abschließen von Tagesaufgaben Glücksboxen erhalten. Glücksboxen stellen eine neue Möglichkeit dar, mittels Aufgaben &lt;b&gt;Magische Gegenstände&lt;/b&gt; zu verdienen.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DvvkdoLCiD5zIJcIDLa1e/ae847a59e3e566cc1d4f5fc9ca436040/MysteryBox_2.png?w=1753&amp;h=1596&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;📝 Seltenheitsgrade von Glücksboxen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Wenn du eine Glücksbox erhältst, kannst du sie antippen, wodurch sich möglicherweise ihr Seltenheitsgrad erhöht und du bessere Belohnungen bekommst. Um eine Glücksbox zu öffnen, musst du sie dreimal antippen. Bei jedem Mal besteht die Chance, dass dadurch ihr Seltenheitsgrad steigt.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🌟 Es gibt folgende Seltenheitgrade:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Gewöhnlich, Chance auf Seltenheitssteigerung: 20 %&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Selten, Chance auf Seltenheitssteigerung: 25 %&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Episch, Chance auf Seltenheitssteigerung: 30 %&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Legendär&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🎁 Belohnungen von Glücksboxen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Glücksboxen können folgende Belohnungen beinhalten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Gold&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Joker (aller Seltenheitsgrade)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Elitejoker&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Buch der Karten &amp;amp; Universalbuch&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jokerfragment&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;ÄNDERUNG AN BANNERMARKEN&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/36dY9Z6b7t5waGv6m8RBnD/a4af3f18c9fd7b5c38f0d19efd15a6de/Cosmetic_Token_UI.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Die Kosten von Bannermarken im Saisonshop werden ab der Saison im April angepasst. Sie werden daher auch nicht mehr durch Tagesaufgaben erhältlich sein. Du wirst sie nun durch Kartenmeisterungsaufgaben und im Saisonshop bekommen können.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Die Gesamtkosten von Bannermarken im Saisonshop wurden angepasst.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;Häufig gestellte Fragen:&lt;/h1&gt;
-&lt;p&gt;Frage: Ändern sich die Aufgaben täglich (z. B. an einem Tag kampfbezogene und am nächsten Tag emotebezogene Aufgaben)?
-Antwort: Nein, es sind immer die gleichen Aufgaben.&lt;/p&gt;&lt;p&gt;Frage: Ändern sich die Belohnungen täglich?
-Antwort: Sie bleiben ebenfalls gleich, aber wir könnten in Zukunft Änderungen vornehmen.&lt;/p&gt;&lt;p&gt;Frage: Früher blieben Belohnungen von Tagesaufgaben bestehen, bis sie eingefordert wurden. Wird das weiterhin der Fall sein?
-Antwort: Nein. Nicht eingeforderte Belohnungen verfallen, wenn die Aufgaben zurückgesetzt werden.&lt;/p&gt;&lt;p&gt;Frage: Wann werden die Aufgaben zurückgesetzt?
-Antwort: Die Zurücksetzung der Tagesaufgaben fällt mit der täglichen Zurücksetzung des Shops zusammen. Die Zeit dafür hängt von der Zeitzone der Region ab, in der das Konto erstellt wurde.&lt;/p&gt;&lt;p&gt;Frage: Zählen Kronen aus dem Kronenrausch zu den Kronen für die entsprechende Tagesaufgabe?
-Antwort: Ja.&lt;/p&gt;&lt;p&gt;Frage: Wie funktionieren die neuen Aufgaben?
-Antwort: Du kannst an allen Aufgaben gleichzeitig arbeiten und sie dadurch innerhalb von nur drei Kämpfen pro Tag abschließen.&lt;/p&gt;&lt;p&gt;Frage: Was passiert, falls mein Inventar voll ist, wenn ich einen Magischen Gegenstand erhalte?
-Antwort: Zurzeit können Inventar-Obergrenzen durch Belohnungen von Glücksboxen überschritten werden, doch dies wird in Zukunft möglicherweise geändert.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Quality-of-Life-Änderungen &amp; Fehlerbehebungen&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Bei TV Royale sind jetzt Matches vom Legendenpfad verfügbar.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Funktion zum Kopieren von Decks berücksichtigt jetzt auch Turmtruppen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Das Deckbaumenü wurde verbessert, um für ein reibungsloseres Erlebnis zu sorgen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Das Verhalten der „Fähigkeit“-Schaltfläche von Champions wurde verbessert.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wir haben einen Fehler behoben, durch den entwickelte Skelette manchmal uneinheitlich starben, wenn sie von Zaubern betroffen waren.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Danke für dein Interesse und wir sehen uns in der Arena!&lt;/p&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3DcYXN8g7LOzs4THDF2NcU/e81262ccca7bb29a8f2fd2f35791b033/emotes_king_zapcrown_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/6MvOj4pQGF8bhmt0hJlWyQ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/qP8zYbEtmirEB4rFgivr8/9b78578dcc0808447837c4937ef28619/Lucky_Drop_Article_Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Versionshinweise"/>
-    <published>2024-03-18T08:43:29+00:00</published>
   </entry>
   <entry>
     <id>16iCviC1Z9IZdWNwxAsGcQ</id>

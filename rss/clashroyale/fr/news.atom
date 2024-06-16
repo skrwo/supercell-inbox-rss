@@ -2,39 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-16T09:29:38.713952+00:00</updated>
+  <updated>2024-06-16T10:33:08.599516+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>6MvOj4pQGF8bhmt0hJlWyQ</id>
-    <title>MISE À JOUR - 18 MARS</title>
-    <updated>2024-03-20T02:32:29.419000+00:00</updated>
-    <content>&lt;h1&gt;Cubes mystères &amp; nouvelles tâches du jour&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Les cubes mystères débarquent dans Clash Royale !&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Vous pouvez désormais obtenir un cube mystère en terminant une tâche du jour. Les cubes mystères offrent une nouvelle manière de gagner des &lt;b&gt;objets magiques&lt;/b&gt; grâce aux quêtes.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DvvkdoLCiD5zIJcIDLa1e/ae847a59e3e566cc1d4f5fc9ca436040/MysteryBox_2.png?w=1753&amp;h=1596&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;📝 Rareté des cubes mystères&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Quand vous recevez un cube mystère, appuyer dessus vous permettra peut-être d&amp;#39;augmenter sa rareté, pour gagner de meilleures récompenses. Vous devez appuyer trois fois sur un cube mystère pour l&amp;#39;ouvrir, avec à chaque fois une chance d&amp;#39;augmenter sa rareté de départ.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🌟 Les raretés sont les suivantes :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Commun, avec 20 % de chances d&amp;#39;amélioration&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Rare, avec 25 % de chances d&amp;#39;amélioration&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Épique, avec 30 % de chances d&amp;#39;amélioration&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Légendaire&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🎁 Récompenses des cubes mystères&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Les cubes mystères peuvent contenir les récompenses suivantes :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Or&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jokers (toutes raretés)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jokers d&amp;#39;élite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Livres des cartes &amp;amp; livre ultime&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fragment joker&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;CHANGEMENT DES JETONS DE BANNIÈRE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/36dY9Z6b7t5waGv6m8RBnD/a4af3f18c9fd7b5c38f0d19efd15a6de/Cosmetic_Token_UI.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Le coût des jetons de bannière dans le magasin de saison sera réajusté à partir de la saison d&amp;#39;avril. Cela signifie qu&amp;#39;il ne sera plus possible de les obtenir grâce aux tâches du jour. Vous pourrez désormais les obtenir grâce aux tâches de maîtrise des cartes ou dans le magasin de saison.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Le coût total des jetons de bannière dans le magasin de saison a été ajusté.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;h1&gt;FAQ :&lt;/h1&gt;
-&lt;p&gt;Q : Est-ce que les tâches changent chaque jour, par exemple « Combat ! » aujourd&amp;#39;hui, et « Émote ! » demain ?
-R : Non, elles restent les mêmes.&lt;/p&gt;&lt;p&gt;Q : Est-ce que les récompenses changent d&amp;#39;un jour à un autre ?
-R : Non, elles restent également les mêmes, mais cela changera peut-être dans le futur.&lt;/p&gt;&lt;p&gt;Q : Auparavant, les récompenses de tâches du jour restaient disponibles jusqu&amp;#39;à être récupérées. Est-ce que ça va changer ?
-R : Oui, toutes les récompenses non récupérées expireront au moment de la réinitialisation.&lt;/p&gt;&lt;p&gt;Q : Quand la réinitialisation a-t-elle lieu ?
-R : La réinitialisation des tâches du jour concorde avec celle du magasin, et elles sont basées sur le fuseau horaire de la région dans laquelle le compte a été créé.&lt;/p&gt;&lt;p&gt;Q : Les couronnes en Ruée vers les couronnes sont-elles prises en compte dans les tâches du jour ?
-R : Oui.&lt;/p&gt;&lt;p&gt;Q : Que se passe-t-il si mon inventaire est plein au moment où je reçois un objet magique ?
-R : À l&amp;#39;heure actuelle, les récompenses des cubes mystères ne sont pas soumises aux limites de l&amp;#39;inventaire, mais cela pourrait changer à l&amp;#39;avenir.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Améliorations pratiques &amp; corrections de bugs&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les combats du Hall des légendes sont désormais disponibles sur TV Royale.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La fonction Copier le deck inclut désormais les troupes de tour.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Modifications apportées à la création de deck pour améliorer la fluidité de l&amp;#39;expérience.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Améliorations apportées au bouton de capacité des champions.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction d&amp;#39;un bug qui faisait mourir les squelettes évolués de manière incohérente quand ils étaient affectés par des sorts.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Merci, et à bientôt dans l&amp;#39;arène !&lt;/p&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3DcYXN8g7LOzs4THDF2NcU/e81262ccca7bb29a8f2fd2f35791b033/emotes_king_zapcrown_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/6MvOj4pQGF8bhmt0hJlWyQ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/qP8zYbEtmirEB4rFgivr8/9b78578dcc0808447837c4937ef28619/Lucky_Drop_Article_Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notes de patch"/>
-    <published>2024-03-18T08:43:29+00:00</published>
-  </entry>
   <entry>
     <id>16iCviC1Z9IZdWNwxAsGcQ</id>
     <title>✨ LES CUBES MYSTÈRES SONT LÀ ✨</title>

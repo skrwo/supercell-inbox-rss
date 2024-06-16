@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-16T09:29:35.103945+00:00</updated>
+  <updated>2024-06-16T10:33:12.874372+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,56 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cb3HMPOCmfIQ1i06KsHAi/422ccb72d93f268b1935c257ce2999d9/Thumbnail_Roadmap.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2023-11-30T14:59:31+00:00</published>
-  </entry>
-  <entry>
-    <id>6MvOj4pQGF8bhmt0hJlWyQ</id>
-    <title>GAME UPDATE - LUCKY DROPS!</title>
-    <updated>2024-03-20T02:32:29.419000+00:00</updated>
-    <content>&lt;h1&gt;...and Daily Task Rework!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Lucky Drops are coming to Clash Royale!&lt;/b&gt;
-
-Now you can obtain a Lucky Drop by completing Daily Tasks. Lucky Drops offer a new method to earn M&lt;b&gt;agic Items&lt;/b&gt; through quests.
-
-&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DvvkdoLCiD5zIJcIDLa1e/ae847a59e3e566cc1d4f5fc9ca436040/MysteryBox_2.png?w=1753&amp;h=1596&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;📝 Lucky Drop Rarities&lt;/b&gt;
-
-Upon receiving a Lucky Drop, tapping on it can potentially upgrade its rarity for enhanced rewards. Lucky Drops require three taps to open, with each tap providing a chance to increase its starting rarity!&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🌟 The rarities include &lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Common&lt;/b&gt; with a &lt;b&gt;20%&lt;/b&gt; chance to upgrade&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Rare&lt;/b&gt; with a &lt;b&gt;25%&lt;/b&gt; chance to upgrade&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Epic&lt;/b&gt; with a &lt;b&gt;30%&lt;/b&gt; chance to upgrade&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Legendary (the highest rarity!)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;🎁 Lucky Drop Rewards 
-&lt;/b&gt;
-The rewards from Lucky Drops can include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Gold&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wild Cards (all rarities)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Elite Wild Cards&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Books of Cards&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Book of Books&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wild Shards&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;BATTLE BANNER TOKEN CHANGE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/36dY9Z6b7t5waGv6m8RBnD/a4af3f18c9fd7b5c38f0d19efd15a6de/Cosmetic_Token_UI.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;The cost of Banner Tokens in the Season Shop will be adjusted starting with the April Season. This means they will no longer be obtainable from Daily Tasks.&lt;/p&gt;&lt;p&gt;Instead, they can be obtained from Card Mastery tasks and the Season Shop.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;The total cost of Banner Tokens in the Season Shop has been adjusted.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;FAQs:&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; Do tasks change daily, such as &amp;quot;Battle&amp;quot; today, &amp;quot;Emote&amp;quot; tomorrow?
-&lt;b&gt;A:&lt;/b&gt; No, they remain consistent.
-
-&lt;b&gt;Q:&lt;/b&gt; Do rewards change from day to day?
-&lt;b&gt;A:&lt;/b&gt; They also stay the same, but changes may occur in the future.
-
-&lt;b&gt;Q:&lt;/b&gt; Previously, Daily Task Rewards remained until claimed. Will this continue?
-&lt;b&gt;A:&lt;/b&gt; No, unclaimed rewards will expire at the reset time.
-
-&lt;b&gt;Q:&lt;/b&gt; When is the reset time?
-&lt;b&gt;A:&lt;/b&gt; The reset for Daily Tasks aligns with the Daily Shop Reset, which is based on the creation location timezone of the account.
-
-&lt;b&gt;Q:&lt;/b&gt; Are crowns from Crown Rush included in the daily crown task?
-&lt;b&gt;A:&lt;/b&gt; Yes.
-
-&lt;b&gt;Q:&lt;/b&gt; How do new tasks work?
-&lt;b&gt;A:&lt;/b&gt; The tasks are tracked simultaneously, allowing one to complete them with as few as three battles per day.
-
-&lt;b&gt;Q: &lt;/b&gt;What happens if my inventory is full when I receive a Magic Item?
-&lt;b&gt;A: &lt;/b&gt;Currently, Lucky Drop rewards will ignore inventory limits, though this approach may be adjusted in the future.
-&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Quality of Life &amp; Bug fixes&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Path of Legends matches are now available on TV Royale&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The Copy Deck feature now includes Tower Troops&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Deck Builder improvements for a smoother experience&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Improvement in the behavior of the Champion&amp;#39;s Ability Button &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Evolved Skeletons are no longer inconsistently destroyed when affected by spells&#13;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tesla&amp;#39;s Evolution Star Level now displays correctly&#13;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed crashes when trying to collect Gold related rewards in Path of Legends&#13;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Clan Chat crashing and added performance improvements&#13;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Path of Legends leaderboards no longer glitch when switching between local/global&#13;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an interaction inconsistency between Tesla and Wall Breakers&#13;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed as issue where a player would have a #-1 number on their Top Ranked finishes Badge&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Thank you, and we will see you in the Arena! &lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3DcYXN8g7LOzs4THDF2NcU/e81262ccca7bb29a8f2fd2f35791b033/emotes_king_zapcrown_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/6MvOj4pQGF8bhmt0hJlWyQ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/qP8zYbEtmirEB4rFgivr8/9b78578dcc0808447837c4937ef28619/Lucky_Drop_Article_Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Release Notes"/>
-    <published>2024-03-18T08:43:29+00:00</published>
   </entry>
   <entry>
     <id>16iCviC1Z9IZdWNwxAsGcQ</id>
