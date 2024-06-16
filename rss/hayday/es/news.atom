@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-06-16T10:33:36.963758+00:00</updated>
+  <updated>2024-06-16T11:28:47.906325+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7oU6iGsWCbx76ENga9ui4N</id>
-    <title>Eventos de la semana 12</title>
-    <updated>2024-03-18T07:53:54.581000+00:00</updated>
-    <content>&lt;h1&gt;Eventos de la semana 12&lt;/h1&gt;
-&lt;p&gt;¡Hola! ¡Te aguarda una nueva semana de eventos! Todos los eventos comienzan a las 08:00 UTC. Para saber más sobre cada uno de los eventos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;Lunes: Evento de la ruleta (incluye 1 pieza de puzle, 2 como máximo).
-Martes: Evento de la camioneta (materiales de ampliación).
-Miércoles: Evento del barco (doble de monedas).
-Jueves: Visitantes de la granja (doble de XP).
-Viernes: Evento de pesca (todos los edificios de producción potenciados al 20 %) y doble de puntos del pase de la granja.
-Sábado: Los visitantes del pueblo que visiten 2 o 3 establecimientos te darán materiales para mejorar el granero y el silo, y pedidos de la camioneta (doble de monedas).
-Domingo: Edificios de producción potenciados (3 edificios aleatorios un 20 % más rápidos) y evento del barco (doble de monedas).&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/7oU6iGsWCbx76ENga9ui4N"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Noticias"/>
-    <published>2024-03-18T06:08:12+00:00</published>
-  </entry>
   <entry>
     <id>4BAdc4LGgqU2bK4MnOwOMA</id>
     <title>Eventos de la semana 13</title>

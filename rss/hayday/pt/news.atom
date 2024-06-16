@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-06-16T10:33:43.349401+00:00</updated>
+  <updated>2024-06-16T11:28:50.371895+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7oU6iGsWCbx76ENga9ui4N</id>
-    <title>Semana 12 de eventos do Hay Day</title>
-    <updated>2024-03-18T07:53:54.581000+00:00</updated>
-    <content>&lt;h1&gt;Semana 12 de eventos do Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Uma nova semana de eventos espera por você! Todos os eventos começam às 8h (fuso horário: UTC). Visite o quadro de eventos para descobrir os detalhes de cada evento.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com 1 peça de quebra-cabeça garantida, com chances de haver outra.
-Terça-feira: entregas do caminhão com mais materiais de expansão de terra.
-Quarta-feira: dobro de moedas com os pedidos do barco.
-Quinta-feira: dobro de XP com os visitantes da fazenda.
-Sexta-feira: aceleração da produção em 20% em toda a área de pescaria e o dobro de pontos no passe rural.
-Sábado: ganhe mais materiais de melhoria do celeiro e do silo com visitantes da cidade servidos em 2-3 prédios e o dobro de moedas com os pedidos do caminhão.
-Domingo: aceleração da produção em 20% de 3 prédios aleatórios e o dobro de moedas com os pedidos do barco.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/7oU6iGsWCbx76ENga9ui4N"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notícias"/>
-    <published>2024-03-18T06:08:12+00:00</published>
-  </entry>
   <entry>
     <id>4BAdc4LGgqU2bK4MnOwOMA</id>
     <title>Semana 13 de eventos do Hay Day</title>

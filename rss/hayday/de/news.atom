@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-06-16T10:33:40.812578+00:00</updated>
+  <updated>2024-06-16T11:28:48.309312+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7oU6iGsWCbx76ENga9ui4N</id>
-    <title>Ereigniswoche 12</title>
-    <updated>2024-03-18T07:53:54.581000+00:00</updated>
-    <content>&lt;h1&gt;Ereigniswoche 12&lt;/h1&gt;
-&lt;p&gt;Hallo Farmer! Eine neue ereignisreiche Woche erwartet dich! Alle Ereignisse beginnen um 9:00 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (1 Puzzlestück garantiert, Chance auf 2)
-Dienstag: Lieferwagenbestellungen-Ereignis (zusätzliche Landerweiterungsmaterialien)
-Mittwoch: Schiffsereignis (doppelte Münzen)
-Donnerstag: Farmbesucher-Ereignis (doppelte EP)
-Freitag: Produktionsschub für den gesamten Angelbereich (20%iger Schub für alle Gebäude) + doppelte Farmpasspunkte
-Samstag: Stadtbesucher-Ereignis (zusätzliche Verbesserungsmaterialien für Scheune und Silo als Belohnungen für Besucher, die in 2 und 3 Gebäuden bedient wurden) + Lieferwagenbestellungen-Ereignis (doppelte Münzen)
-Sonntag: Produktionsgebäude-Ereignis ( 20%iger Schub für drei zufällige Gebäude) + Schiffsereignis (doppelte Münzen)&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/7oU6iGsWCbx76ENga9ui4N"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-03-18T06:08:12+00:00</published>
-  </entry>
   <entry>
     <id>4BAdc4LGgqU2bK4MnOwOMA</id>
     <title>Ereigniswoche 13!</title>
