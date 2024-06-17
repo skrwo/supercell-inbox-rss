@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-17T05:35:21.451787+00:00</updated>
+  <updated>2024-06-17T06:38:26.691197+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -363,15 +363,5 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/QkF3KZh5pycVqY8Rsic9a/4beba804ab3552516f4556b4d8229c78/fc_16x9_Super_Wall_Breakers_Event_Illustration_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-06-10T11:27:09+00:00</published>
-  </entry>
-  <entry>
-    <id>WNAnWHFemqXB9GD5gtTv1</id>
-    <title>クマを刺激したらダメですよ! 新ユニット登場! </title>
-    <updated>2024-06-17T04:14:20.165000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/WNAnWHFemqXB9GD5gtTv1"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4fu3XkQqPFrClmfNRAaCy2/e0a5648ee4338b0386a40252d2809791/Thumbnail_16x9_Druid.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/4urMafJ1_tg"/>
-    <category term="ゲームアップデート"/>
-    <published>2024-06-16T12:00:02+00:00</published>
   </entry>
 </feed>
