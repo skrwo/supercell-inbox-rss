@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-17T15:30:50.408865+00:00</updated>
+  <updated>2024-06-17T16:36:38.820355+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,16 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cb3HMPOCmfIQ1i06KsHAi/422ccb72d93f268b1935c257ce2999d9/Thumbnail_Roadmap.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2023-11-30T14:59:31+00:00</published>
-  </entry>
-  <entry>
-    <id>16iCviC1Z9IZdWNwxAsGcQ</id>
-    <title>✨LUCKY DROPS ARE HERE✨</title>
-    <updated>2024-03-26T10:56:56.261000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/16iCviC1Z9IZdWNwxAsGcQ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6wiqzO0i31OQ00xErbTPf9/686d5e59739366e702f4f13caaab0d0e/luckydrop.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/2wHoOhgZDEI?feature=share"/>
-    <category term="Highlights"/>
-    <published>2024-03-19T16:10:03+00:00</published>
   </entry>
   <entry>
     <id>387I7fbqNa1EiBwAJgpvBJ</id>
