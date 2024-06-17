@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-17T09:29:56.574640+00:00</updated>
+  <updated>2024-06-17T10:36:16.998185+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -542,5 +542,153 @@ A partir das 9h UTC de 7 de junho, ganhe &lt;b&gt;cartas de Goblins&lt;/b&gt;, u
     <link href="https://youtu.be/Fh-z_EhbtL4"/>
     <category term="Notícias"/>
     <published>2024-06-15T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4a4B50NkhDsZBuSRWvuqxz</id>
+    <title>BALANCEAMENTO DE JUNHO</title>
+    <updated>2024-06-17T09:55:08.193000+00:00</updated>
+    <content>
+&lt;h1&gt;GIGANTE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/cvpF3Gd5OXtQ6K4hHbFVz/7139dcac3f3cab7384f1e069704eb5da/giant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏 &lt;b&gt;Alcance:&lt;/b&gt;
+1600 → 1200 (-25%)&lt;/p&gt;
+&lt;p&gt;O Gigante está infligindo muito dano para uma tropa resistente e geralmente acerta golpes extras devido ao seu alcance.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;PEQUENO PRÍNCIPE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Dano da habilidade:&lt;/b&gt;
+399 → 207 (-48%)💥 &lt;b&gt;Recuo obtido com a habilidade:&lt;/b&gt;
+2500 → 2000 (-20%)
+&lt;b&gt;⏱️ Velocidade do primeiro ataque da Guardiã:&lt;/b&gt; 2s → 5s (+150%)&lt;/p&gt;
+&lt;p&gt;Na habilidade Resgate Real, o alto dano, o grande recuo e a rapidez do primeiro golpe da Guardiã resultaram em muitos poderes divergentes que não são relevantes ao estilo do Pequeno Príncipe.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;EVOLUÇÃO DO CAVALEIRO&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Pontos de vida bônus:&lt;/b&gt; -9%&lt;/p&gt;
+&lt;p&gt;Embora a última atualização tenha dado uma melhoria de 1,1x PV à maioria das tropas de ataque próximo, a evolução do Cavaleiro ainda estava à frente. Por isso, retiramos os pontos de vida extras, pois a habilidade dele já dá um reforço eficaz à saúde. Não se preocupe! Ele ainda será a evolução de ataque próximo mais resistente de todas!&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;EVOLUÇÃO DA TESLA&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Dano do impulso elétrico:&lt;/b&gt;
+192 → 148 (-23%)&lt;/p&gt;&lt;p&gt;⏳ &lt;b&gt;Duração do atordoamento do impulso elétrico:&lt;/b&gt; -50%&lt;/p&gt;
+&lt;p&gt;Foi ótimo ver a popularidade do impulso elétrico da Tesla evoluída, mas tivemos que reduzir a onda de choque agora que ela tem um segundo impulso garantido.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;DOMADORA DE CARNEIRO&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1HOnYoZRRyRrhH7BQ4ecrx/2127d9bad5db865862b4cefb612406c9/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡ &lt;b&gt;Alcance da investida:&lt;/b&gt;
+300 → 150 (-50%)&lt;/p&gt;
+&lt;h1&gt;PRÍNCIPE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CpeMMVuFIw071qT0ubf9o/a8e6a0f8589a2fb53d69cb5bebd6ce4b/prince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡ &lt;b&gt;Alcance da investida:&lt;/b&gt;
+300 → 150 (-50%)&lt;/p&gt;
+&lt;p&gt;As investidas da Domadora de Carneiro e do Príncipe têm sido muito inconsistentes e fáceis de bloquear, especialmente devido ao seu alto custo de elixir. A partir de agora, ambas as tropas terão investidas bem mais rápidas após serem mobilizadas ou interrompidas.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;GOBLINS LANCEIROS&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💨&lt;b&gt;Velocidade do primeiro ataque:&lt;/b&gt; -40%&lt;/p&gt;
+&lt;p&gt;Os Goblins Lanceiros geralmente são eliminados antes de atacar, então esperamos que fiquem mais úteis com a mudança. A alteração também afetará Gangue de Goblins, Cabana de Goblins e Goblin Gigante.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;GOBLIN COM DARDO&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Damage:&lt;/b&gt;
+131 → 142 (+8%)&lt;/p&gt;
+&lt;p&gt;Goblin com Dardo é uma carta de alto risco que acabou ficando para trás, pois seu uso não compensa muito.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;JAULA DE GOBLIN&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2UiizHJFOpah1ewFynv6Sx/5b0d54bb846e7f1e744eee404d167e1d/goblincage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;❤️ &lt;b&gt;Pontos de vida da jaula:&lt;/b&gt;
+742 → 780 (+5%)&lt;/p&gt;
+&lt;p&gt;Os Goblins reforçaram as grades da jaula, pois ela estava bem mais fraca em comparação a outras defesas.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;VÁCUO&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡ &lt;b&gt;Atraso do primeiro golpe:&lt;/b&gt; (+150%)
+⏱️ &lt;b&gt;Frequência de golpes:&lt;/b&gt; (-13%)&lt;/p&gt;
+&lt;p&gt;O Vácuo deveria ser um feitiço com contra-ataque, mas o primeiro golpe era rápido demais para os oponentes reagirem. A mudança visa dar tempo para que os oponentes reajam ao Vácuo e controlem melhor a sua duração total.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;DUQUESA DAS ADAGAS&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Damage:&lt;/b&gt;
+153 → 112 (-27%)🗡️ &lt;b&gt;Recarga das adagas:&lt;/b&gt; -33%&lt;/p&gt;
+&lt;p&gt;A Duquesa das Adagas foi projetada para ser forte contra decks com ciclo rápido de cartas, mas ela está se mostrando muito eficaz até mesmo contra cartas de alto elixir. Por isso, queremos reduzir seu dano máximo e manter o dano mínimo aproximadamente o mesmo.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/4a4B50NkhDsZBuSRWvuqxz"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notas de lançamento"/>
+    <published>2024-06-16T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>tu0og4AGbhV2bBGq074TK</id>
+    <title>ATUALIZAÇÃO DE 17 DE JUNHO</title>
+    <updated>2024-06-17T10:34:30.966000+00:00</updated>
+    <content>&lt;h1&gt;É HORA DE ATUALIZAÇÃO!&lt;/h1&gt;
+&lt;p&gt;NOVAS CARTAS, ARENAS, BAÚS, UMA NOVA SOBERANA e muito mais!&lt;/p&gt;&lt;p&gt;A partir de 17 de junho, mergulhe na Jornada da Rainha Goblin com novas arenas, cartas, baús e recompensas empolgantes!&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/p9ldzfp3S2ZL20LxZQRDv/91a6d8c623ecf4f1e04f92988949e3c6/goblinqueenfinishing02_PNG.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;NOVO MODO DE JOGO!&lt;/h1&gt;
+&lt;p&gt;A Jornada da Rainha Goblin é um novo MODO DE JOGO, disponível para jogadores que já alcançaram a arena 12.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xNv4uM0HWRdBGMXnSO8Wx/ab2ee457d4072f48585b89da14739c27/image.png?w=1179&amp;h=1766&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Para acessar a Jornada da Rainha Goblin, toque no botão de seleção com o qual é possível alternar entre o caminho de troféus e a rota das lendas.&lt;/p&gt;
+&lt;h1&gt;ARENAS GOBLIN&lt;/h1&gt;
+&lt;p&gt;A jornada começa com quatro arenas Goblin especiais:&lt;/p&gt;
+&lt;h1&gt;MINA DE OURO&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Q8P4tVrSbUwHlHCTjVNFp/04a00d665efe67a0b6047a125c69373b/Goblin_Miner_Diorama_v02.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Arena inicial
+Limite de nível: 9&lt;/p&gt;
+&lt;h1&gt;FOSSO DE LAMA&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7qF0Wlpn5d5CztVFsJRlgm/33f72824c3c32bba16e76c5967f5baa1/Goblin_Mudpit_Diorama_vfinale.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Desbloqueia ao obter 1000 troféus
+Limite de nível: 11
+Desbloqueia mais um espaço de evolução&lt;/p&gt;
+&lt;h1&gt;PÁTIO DE SUCATA&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3SGZYiDdNg6mBBGmhALQNN/0e3b24b057ccc96658bc3f7281ff606f/ScrappyardIcon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Desbloqueia ao obter 2000 troféus
+Limite de nível: 13&lt;/p&gt;
+&lt;h1&gt;PALÁCIO ANCESTRAL&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7xemU6Qh2Bp0BgGp1bYfyY/abacbf8baaa972de593e4ad678ecc532/zigurate_top_DIORAMA_start.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Desbloqueia ao obter 3000 troféus
+Limite de nível: 15
+Desbloqueia mais um espaço de evolução&lt;/p&gt;
+&lt;p&gt;Ao obter 3400 troféus, um emote exclusivo estará esperando por você.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/8cFl55WZLJ1ynY1kZ1gyK/6398b0f1d1a3c881a672fe89dd6a18ed/emotes_goblinqueen_laugh_dl.webp?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;HABILIDADE E TORRE DA RAINHA GOBLIN&lt;/h1&gt;
+&lt;p&gt;A torre da Rainha Goblin introduz uma mecânica inédita&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mobilize 20 unidades de elixir com cartas de Goblins para carregar a habilidade da Rainha Goblin.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Quando estiver carregada, jogue mais uma carta Goblin para ativar a habilidade e arremessar Goblins Bebês aos dois lados da arena.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Atualmente, essa tropa de torre pode ser usada apenas na Jornada da Rainha, mas talvez ela seja usada em outros modos de jogo no futuro.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/314Cqj1tRoF0CrjWIvmhm9/7ba185c9856d3a4c8a28bcad16a82875/QueenGoblin_Pose02.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;NOVAS CARTAS GOBLIN!&lt;/h1&gt;
+&lt;p&gt;Três novas cartas Goblin podem ser desbloqueadas somente no modo de jogo Jornada da Rainha. Depois de desbloqueadas, &lt;b&gt;as cartas podem ser usadas nos outros modos: caminho de troféus e rota das lendas&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;GOBLIN DEMOLIDOR&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lBbl69EDrtDE9qYceVYIP/32d77cefbb0217b542c87b6337cb8d70/Goblin_Demolisher_card_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;O Goblin Demolidor é uma carta rara que causa dano em área e explode ao morrer. Quando está com pouca saúde, ele avança em direção à construção mais próxima. Essa carta pode ser desbloqueada na arena Mina de Ouro.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1aeSo4ByjOETi7bolwhw3g/d1fba38fe4f061d229d7d7a6b2eed41d/GoblinDynamite_Pose02_4K_FXtransp.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;MALDIÇÃO GOBLIN&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1aMDYvj4vHGM9ByF3TJn36/59778c88962723b70dc6dee885096462/Goblin_curse_spell_card_frame_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;A Maldição Goblin é uma carta épica que causa dano em área e transforma as tropas abatidas...
+Em Goblins!&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;MÁQUINA GOBLIN&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3hkw6xWco67jf3f1gHZvJl/0f7bd497dfa9b3b1f1df5c08b63204e7/Goblin_Machine_card_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;A Máquina Goblin foi equipada com dois braços para atacar inimigos próximos e com um foguete enorme para liquidar inimigos distantes. Essa carta lendária pode ser desbloqueada na arena Pátio de Sucata.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41fHQvve3M15UFu5GN0YdZ/87391a6631a9d702a3ad61390ce878fa/GoblinMecha_Pose02_4k.png?w=3403&amp;h=2700&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;BAÚS GOBLINS&lt;/h1&gt;
+&lt;p&gt;Três novos baús dos Goblins podem ser encontrados no jogo:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Suprimento Goblin&lt;/b&gt; (3 horas para abrir)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Baú Goblin&lt;/b&gt; (8 horas para abrir)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Tesouro Goblin&lt;/b&gt; (12 horas para abrir)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Os baús dos Goblins podem ser obtidos apenas no novo modo de jogo. Um baú dos Goblins aparecerá a cada três baús.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4UQR4tLQMS4Qgrc8M60IAv/cb89ce4cda2d2db3d9d3bb6d39336d9a/Layer_2.png?w=2129&amp;h=565&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;MELHORIAS&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;As batalhas da Guerra de Clãs agora concedem baús.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Os cubos da sorte agora podem conceder uma evolução completa, além de outras recompensas. A probabilidade de itens lendários aparecerem mudou:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Antes:&lt;/b&gt;* Livro lendário: 33,3% (1/3)* 50.000 curingas de elite: 33,3% (1/3)* Livro dos livros: 33.3% (1/3)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Depois:&lt;/b&gt;* Livro lendário: 33,3% (1/3)* 50.000 curingas de elite: 33,3% (1/3)* Livro dos livros: 22,2% (2/9)* Evolução completa: 11,1% (1/9)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A coleção de cartas agora tem filtros.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ao filtrar por evolução, você verá o progresso das evoluções.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Y7CwJLB5YXbG61pDaKr39/fb38f75bfb1acea6f75dc1682a134a69/Screenshot_2024-06-11_163802.png?w=548&amp;h=594&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Um recurso para denunciar nomes inadequados de jogadores foi adicionado ao jogo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A interface de gerenciamento e criação de decks foi atualizada.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Todos os modos de jogo agora têm os seus próprios criadores de decks.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Antes, o botão para copiar ou compartilhar decks ficava no canto inferior direito. Agora, ele se encontra na parte superior esquerda, onde novos decks também podem ser adicionados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A partir dessa atualização, ao liberar a rota das lendas, o deck ativo será copiado e inserido no primeiro espaço do criador de decks do modo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Para os jogadores que desbloquearam a rota das lendas antes da atualização, o criador de decks da rota das lendas copiará os decks do criador de decks do caminho de troféus que não estiverem vazios.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Os espaços de decks não serão mais desbloqueados com o nível do rei. Um máximo de 10 espaços de decks serão disponibilizados em todos os criadores de decks ao atingir o nível do rei 2.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/onrTR7PqZ3BPBPLA8ZJIN/a17a9562e9936c87795cf56c4282a0a9/e195a4ad-c5fc-42a6-91e8-747d190ebd80.png?w=1486&amp;h=598&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;CORREÇÃO DE ERROS&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigimos um erro que fazia com que a Tesla não emitisse um pulso ao ser destruída caso fosse eliminada de maneiras outras que não por uma unidade.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigimos o erro que permitia que a Tesla ficasse congelada ao ser mobilizada.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigimos o erro que impedia a exibição do ícone que avisava que uma recompensa poderia ser coletada nos eventos da comunidade.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A redução de dano agora é aplicada corretamente a unidades com dano ampliado, resolvendo o problema em que o bônus de dano ignorava a redução de dano em unidades com habilidades ou escudos ativos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As tarefas diárias foram devidamente ajustadas e agora consideram vitórias múltiplas em duelos na Guerra de Clãs como mais do que uma vitória.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O botão de item mágico não desaparece da tela de estatísticas de cartas de nível 15.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;Esperamos que goste da atualização, e nos vemos na arena!&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/tu0og4AGbhV2bBGq074TK"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notas de lançamento"/>
+    <published>2024-06-17T09:51:21+00:00</published>
   </entry>
 </feed>

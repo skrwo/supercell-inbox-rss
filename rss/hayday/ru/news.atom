@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-06-17T09:30:01.490946+00:00</updated>
+  <updated>2024-06-17T10:36:52.169673+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -281,5 +281,16 @@
     <link href="https://hayday.inbox.supercell.com/#/ru/news/3kffI09nnz2SI2p3rxxXUE"/>
     <category term="Сообщество"/>
     <published>2024-06-12T14:57:57+00:00</published>
+  </entry>
+  <entry>
+    <id>5VQFj6bnBTeoUmdXc0KWzd</id>
+    <title>События Hay Day: 25-я неделя!</title>
+    <updated>2024-06-17T09:43:44.234000+00:00</updated>
+    <content>&lt;h1&gt;События Hay Day: 25-я неделя!&lt;/h1&gt;
+&lt;p&gt;Привет, фермеры! Продолжаем отмечать день рождения Hay Day с новой неделей событий! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: ваучеры на колесе фортуны.&lt;/p&gt;&lt;p&gt;Вторник: вдвое больше опыта за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Среда: вдвое больше монет за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Четверг: событие с посетителями фермы и распродажей на дому.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 30 % (утиный салон и вязальщик сетей) и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;Суббота: вдвое больше опыта за обслуживание гостей города и вдвое больше монет за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Воскресенье: ускорение дробилки (три случайных типа корма для животных будут производиться вдвое быстрее).&lt;/p&gt;&lt;p&gt;Удачной недели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/5VQFj6bnBTeoUmdXc0KWzd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2024-06-17T09:41:59+00:00</published>
   </entry>
 </feed>

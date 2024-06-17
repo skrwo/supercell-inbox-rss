@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-06-17T09:30:05.047131+00:00</updated>
+  <updated>2024-06-17T10:36:46.092030+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -281,5 +281,16 @@ Sonntag: Produktionsgebäude-Ereignis (20%iger Schub für drei zufällige Gebäu
     <link href="https://hayday.inbox.supercell.com/#/de/news/3kffI09nnz2SI2p3rxxXUE"/>
     <category term="Community"/>
     <published>2024-06-12T14:57:57+00:00</published>
+  </entry>
+  <entry>
+    <id>5VQFj6bnBTeoUmdXc0KWzd</id>
+    <title>Ereigniswoche 25!</title>
+    <updated>2024-06-17T09:43:44.234000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 25!&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Viel Spaß mit einer neuen Woche voller Ereignisse und den Feierlichkeiten zu Hay Days Geburtstag! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Gutscheine)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagenereignis (doppelte EP)&lt;/p&gt;&lt;p&gt;Mittwoch: Lieferwagenereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (Flohmarkt)&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den Angelbereich (Entensalon und Seilerei, 30 %) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (doppelte EP) + Lieferwagenereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Sonntag: Flinkeres Futter (3 zufällige Arten Tierfutter werden doppelt so schnell produziert)&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine fantastische Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/5VQFj6bnBTeoUmdXc0KWzd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Neues"/>
+    <published>2024-06-17T09:41:59+00:00</published>
   </entry>
 </feed>

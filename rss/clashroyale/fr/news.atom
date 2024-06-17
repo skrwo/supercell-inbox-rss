@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-17T09:29:56.054236+00:00</updated>
+  <updated>2024-06-17T10:36:15.535415+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -533,5 +533,153 @@ Rapide → Très rapide&lt;/p&gt;
     <link href="https://youtu.be/Fh-z_EhbtL4"/>
     <category term="Actualités"/>
     <published>2024-06-15T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4a4B50NkhDsZBuSRWvuqxz</id>
+    <title>CHANGEMENTS D'ÉQUILIBRAGE DE JUIN</title>
+    <updated>2024-06-17T09:55:08.193000+00:00</updated>
+    <content>
+&lt;h1&gt;GÉANT&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/cvpF3Gd5OXtQ6K4hHbFVz/7139dcac3f3cab7384f1e069704eb5da/giant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏 &lt;b&gt;Portée :&lt;/b&gt;
+1 600 → 1 200 (-25 %)&lt;/p&gt;
+&lt;p&gt;Le géant inflige trop de dégâts pour un tank, et souvent quelques coups en trop à cause de sa portée.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;PETIT PRINCE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Dégâts de la capacité :&lt;/b&gt;
+399 → 207 (-48 %)💥 &lt;b&gt;Recul de la capacité :&lt;/b&gt;
+2 500 → 2 000 (-20 %)
+&lt;b&gt;⏱️ Vitesse de la 1re frappe de Gardienne :&lt;/b&gt; 2 sec → 5 sec (+150 %)&lt;/p&gt;
+&lt;p&gt;Les dégâts élevés, le recul important et la vitesse de la première frappe d&amp;#39;Escorte royale donnaient trop de puissance à Gardienne, et ne sont pas essentiels au design du Petit prince.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;CHEVALIER ÉVOLUÉ&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ PV bonus :&lt;/b&gt; -9 %&lt;/p&gt;
+&lt;p&gt;Même avec le boost de PV des évolutions de 10 % dans la dernière mise à jour, le chevalier évolué était toujours trop en tête de peloton. Nous supprimons ses PV bonus, car sa capacité booste déjà ses PV. Ne vous inquiétez pas, il reste l&amp;#39;évolution mêlée la plus tanky du jeu !&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;TESLA ÉVOLUÉE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Dégâts des ondes électro :&lt;/b&gt;
+192 → 148 (-23 %)&lt;/p&gt;&lt;p&gt;⏳ &lt;b&gt;Durée d&amp;#39;étourdissement des ondes :&lt;/b&gt; -50 %&lt;/p&gt;
+&lt;p&gt;Nous sommes heureux de voir le potentiel des ondes électro de la tesla évoluée, mais nous devons réduire légèrement leur puissance, maintenant que la deuxième onde est garantie.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;CAVABÉLIÈRE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1HOnYoZRRyRrhH7BQ4ecrx/2127d9bad5db865862b4cefb612406c9/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡ &lt;b&gt;Portée de la charge :&lt;/b&gt;
+300 → 150 (-50 %)&lt;/p&gt;
+&lt;h1&gt;PRINCE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CpeMMVuFIw071qT0ubf9o/a8e6a0f8589a2fb53d69cb5bebd6ce4b/prince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡ &lt;b&gt;Portée de la charge :&lt;/b&gt;
+300 → 150 (-50 %)&lt;/p&gt;
+&lt;p&gt;Les charges de la cavabélière et du prince ne sont pas assez régulières et trop faciles à interrompre, surtout pour des cartes à un coût en élixir aussi élevé. Dorénavant, ils chargeront beaucoup plus vite après un déploiement ou une interruption.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;GOBELINS À LANCES&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💨&lt;b&gt;Vitesse de la 1re frappe :&lt;/b&gt; -40 %&lt;/p&gt;
+&lt;p&gt;Les gobelins à lances se font souvent décimer avant même de pouvoir attaquer, nous espérons donc que ce changement les rendra plus utiles. Ce changement affectera également le gang de gobelins, la cabane de gobelins et le gobelin géant.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;GOBELIN À SARBACANE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Dégâts :&lt;/b&gt;
+131 → 142 (+8 %)&lt;/p&gt;
+&lt;p&gt;Le gobelin à sarbacane est une carte à haut risque, mais comme le risque n&amp;#39;en valait pas la chandelle, la carte a sombré lentement.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;CAGE GOBELINE&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2UiizHJFOpah1ewFynv6Sx/5b0d54bb846e7f1e744eee404d167e1d/goblincage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;❤️ &lt;b&gt;PV de la cage :&lt;/b&gt;
+742 → 780 (+5 %)&lt;/p&gt;
+&lt;p&gt;Les gobelins renforcent les murs de la cage, parce qu&amp;#39;elle a du mal à se faire une place parmi les autres bâtiments défensifs.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;NÉANT&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡ &lt;b&gt;Délai de la 1re frappe :&lt;/b&gt; (+150 %)
+⏱️ &lt;b&gt;Fréquence des frappes :&lt;/b&gt; (-13 %)&lt;/p&gt;
+&lt;p&gt;Le sort du Néant devait pouvoir être contré, mais la première frappe était trop rapide, et empêchait toute réaction de l&amp;#39;adversaire. Ce changement vise à laisser à l&amp;#39;adversaire le temps de réagir tout en ménageant sa durée totale.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;DUCHESSE AUX DAGUES&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Dégâts :&lt;/b&gt;
+153 → 112 (-27 %)🗡️ &lt;b&gt;Recharge des dagues :&lt;/b&gt; -33 %&lt;/p&gt;
+&lt;p&gt;La duchesse aux dagues accomplit un peu trop bien son but originel : être puissante contre les decks à cycle. Elle se défend trop bien contre les cartes à haut coût en élixir. Nous cherchons à réduire ses dégâts maximums tout en conservant ses dégâts minimums.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/4a4B50NkhDsZBuSRWvuqxz"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notes de patch"/>
+    <published>2024-06-16T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>tu0og4AGbhV2bBGq074TK</id>
+    <title>MISE À JOUR - 17 JUIN</title>
+    <updated>2024-06-17T10:34:30.966000+00:00</updated>
+    <content>&lt;h1&gt;NOUVELLE MISE À JOUR !&lt;/h1&gt;
+&lt;p&gt;NOUVELLES CARTES, NOUVELLES ARÈNES, NOUVELLE MONARQUE et plus !&lt;/p&gt;&lt;p&gt;À partir du 17 juin, découvrez la Marche de la Reine gobeline avec de nouvelles arènes, de nouvelles cartes, de nouveaux coffres et des récompenses exceptionnelles !&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/p9ldzfp3S2ZL20LxZQRDv/91a6d8c623ecf4f1e04f92988949e3c6/goblinqueenfinishing02_PNG.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;NOUVEAU MODE DE JEU !&lt;/h1&gt;
+&lt;p&gt;La Marche de la Reine gobeline est un nouveau MODE DE JEU, dispo pour tous les joueurs à partir de l&amp;#39;arène 12.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xNv4uM0HWRdBGMXnSO8Wx/ab2ee457d4072f48585b89da14739c27/image.png?w=1179&amp;h=1766&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Vous pouvez accéder à la Marche de la Reine gobeline depuis le même menu qui contient la voie des trophées et le Hall des légendes.&lt;/p&gt;
+&lt;h1&gt;ARÈNES GOBELINES&lt;/h1&gt;
+&lt;p&gt;La marche commence avec quatre arènes gobelines uniques :&lt;/p&gt;
+&lt;h1&gt;MINES D'OR&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Q8P4tVrSbUwHlHCTjVNFp/04a00d665efe67a0b6047a125c69373b/Goblin_Miner_Diorama_v02.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Arène de lancement
+Niveau max : 9&lt;/p&gt;
+&lt;h1&gt;CAMP DE BOUE&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7qF0Wlpn5d5CztVFsJRlgm/33f72824c3c32bba16e76c5967f5baa1/Goblin_Mudpit_Diorama_vfinale.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Débloquez l&amp;#39;arène à 1 000 trophées
+Niveau max : 11
+Débloquez +1 emplacement d&amp;#39;évolution&lt;/p&gt;
+&lt;h1&gt;DÉCHARGE&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3SGZYiDdNg6mBBGmhALQNN/0e3b24b057ccc96658bc3f7281ff606f/ScrappyardIcon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Débloquez l&amp;#39;arène à 2 000 trophées
+Niveau max : 13&lt;/p&gt;
+&lt;h1&gt;PALAIS ANCESTRAL&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7xemU6Qh2Bp0BgGp1bYfyY/abacbf8baaa972de593e4ad678ecc532/zigurate_top_DIORAMA_start.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Débloquez l&amp;#39;arène à 3 000 trophées
+Niveau max : 15
+Débloquez +1 emplacement d&amp;#39;évolution&lt;/p&gt;
+&lt;p&gt;Une émote exclusive vous attend à 3 400 trophées.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/8cFl55WZLJ1ynY1kZ1gyK/6398b0f1d1a3c881a672fe89dd6a18ed/emotes_goblinqueen_laugh_dl.webp?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;TOUR ET CAPACITÉ DE LA REINE GOBELINE&lt;/h1&gt;
+&lt;p&gt;La tour de la Reine gobeline ajoute une nouvelle mécanique unique :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Posez des cartes gobelines pour charger la capacité de la Reine gobeline, qui nécessite 20 unités d&amp;#39;élixir.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Une fois chargée, posez une autre carte gobeline pour l&amp;#39;activer. La Reine envoie alors des gobelins sur les deux voies.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Actuellement, cette troupe de tour ne peut être utilisée que dans la Marche de la Reine, mais elle sera peut-être ajoutée à d&amp;#39;autres modes de jeu à l&amp;#39;avenir.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/314Cqj1tRoF0CrjWIvmhm9/7ba185c9856d3a4c8a28bcad16a82875/QueenGoblin_Pose02.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;NOUVELLES CARTES GOBELINES !&lt;/h1&gt;
+&lt;p&gt;Trois nouvelles cartes gobelines arrivent, et elles ne peuvent être débloquées que dans la Marche de la Reine. Une fois débloquées, &lt;b&gt;elles peuvent être utilisées dans d&amp;#39;autres modes, dans la voie des trophées et le Hall des légendes&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;GOBELIN EXPLOSIF&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lBbl69EDrtDE9qYceVYIP/32d77cefbb0217b542c87b6337cb8d70/Goblin_Demolisher_card_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;Le gobelin explosif est une carte rare qui inflige des dégâts de zone et explose à sa mort. Quand ses PV sont bas, il fonce vers le bâtiment le plus proche. Vous pouvez le débloquer dans l&amp;#39;arène Mines d&amp;#39;or.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1aeSo4ByjOETi7bolwhw3g/d1fba38fe4f061d229d7d7a6b2eed41d/GoblinDynamite_Pose02_4K_FXtransp.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;MALÉDICTION GOBELINE&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1aMDYvj4vHGM9ByF3TJn36/59778c88962723b70dc6dee885096462/Goblin_curse_spell_card_frame_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;La malédiction gobeline est une carte épique qui inflige des dégâts de zone, et transforme les troupes éliminées...
+en gobelins !&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;MACHINE GOBELINE&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3hkw6xWco67jf3f1gHZvJl/0f7bd497dfa9b3b1f1df5c08b63204e7/Goblin_Machine_card_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;La machine gobeline a de quoi attaquer de près (deux gros bras) et de loin (une grosse roquette). Vous pouvez débloquer cette carte légendaire dans l&amp;#39;arène Décharge.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41fHQvve3M15UFu5GN0YdZ/87391a6631a9d702a3ad61390ce878fa/GoblinMecha_Pose02_4k.png?w=3403&amp;h=2700&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;COFFRES GOBELINS&lt;/h1&gt;
+&lt;p&gt;Trois nouveaux coffres gobelins sont disponibles :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Boîte gobeline&lt;/b&gt; (déblocage : 3 h)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Coffret gobelin&lt;/b&gt; (déblocage : 8 h)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Trésor gobelin&lt;/b&gt; (déblocage : 12 h)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vous pouvez obtenir les coffres gobelins dans le nouveau mode de jeu : un coffre gobelin apparaît tous les trois coffres.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4UQR4tLQMS4Qgrc8M60IAv/cb89ce4cda2d2db3d9d3bb6d39336d9a/Layer_2.png?w=2129&amp;h=565&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;AMÉLIORATIONS&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les combats des guerres de clans donnent désormais des coffres.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les cubes mystères peuvent désormais donner une évolution complète, en plus d&amp;#39;autres récompenses. Changements apportés aux taux d&amp;#39;apparition d&amp;#39;objets légendaires :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Avant :&lt;/b&gt;* Livre légendaire : 33,3 % (1/3)* 50 000 jokers d&amp;#39;élite : 33,3 % (1/3)* Livre ultime : 33,3 % (1/3)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Après :&lt;/b&gt;* Livre légendaire : 33,3 % (1/3)* 50 000 jokers d&amp;#39;élite : 33,3 % (1/3)* Livre ultime : 22,2 % (2/9)* Évolution complète : 11,1 % (1/9)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;De nouveaux filtres ont été ajoutés à la collection de cartes.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Filtrer par évolution affiche la progression des évolutions.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Y7CwJLB5YXbG61pDaKr39/fb38f75bfb1acea6f75dc1682a134a69/Screenshot_2024-06-11_163802.png?w=548&amp;h=594&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Vous pouvez désormais signaler un nom de joueur inapproprié.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;L&amp;#39;interface de création et de modification des decks a été mise à jour.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Chaque mode a désormais sa propre création de decks.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Avant, le bouton de partage ou de copie d&amp;#39;un deck se trouvait en bas à droite. Désormais, il se trouve en haut à gauche, où vous pouvez également ajouter de nouveaux decks.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Dans cette mise à jour, en débloquant le Hall des légendes, votre deck actif sera copié dans le premier emplacement de la création de decks du Hall des légendes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Pour les joueurs qui ont déjà débloqué le Hall des légendes, la création de decks du Hall des légendes va copier tous les emplacements de decks remplis de la voie des trophées.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les emplacements de decks ne seront plus débloqués avec le niveau du roi. Un maximum de 10 emplacements sera disponible dans tous les modes après avoir atteint le niveau 2 du roi.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/onrTR7PqZ3BPBPLA8ZJIN/a17a9562e9936c87795cf56c4282a0a9/e195a4ad-c5fc-42a6-91e8-747d190ebd80.png?w=1486&amp;h=598&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;CORRECTIONS DE BUGS&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correction de la tesla qui n&amp;#39;envoyait pas d&amp;#39;onde de choc si elle n&amp;#39;était pas éliminée par une autre unité.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Comportement de la tesla modifié quand elle est gelée pendant son déploiement.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction du bug à cause duquel l&amp;#39;icône « Prêt à récupérer » ne s&amp;#39;affichait pas quand une récompense était disponible dans les événements communautaires.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La réduction de dégâts s&amp;#39;applique correctement aux dégâts boostés, corrigeant un bug à cause duquel les boosts de dégâts ignoraient la réduction de dégâts sur les unités avec des capacités ou des boucliers actifs.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les tâches du jour prennent désormais en compte plus d&amp;#39;une victoire si le joueur gagne plusieurs duels en guerre de clans.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le bouton des objets magiques n&amp;#39;est plus supprimé de l&amp;#39;écran des stats quand une carte est au niveau 15.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;Profitez bien de la mise à jour, et à bientôt dans l&amp;#39;arène !&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/tu0og4AGbhV2bBGq074TK"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notes de patch"/>
+    <published>2024-06-17T09:51:21+00:00</published>
   </entry>
 </feed>

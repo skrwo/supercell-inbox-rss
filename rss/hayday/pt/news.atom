@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-06-17T09:30:04.812627+00:00</updated>
+  <updated>2024-06-17T10:36:45.126864+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -281,5 +281,16 @@ Domingo: aceleração da produção em 20% de 3 prédios aleatórios + evento de
     <link href="https://hayday.inbox.supercell.com/#/pt/news/3kffI09nnz2SI2p3rxxXUE"/>
     <category term="Comunidade"/>
     <published>2024-06-12T14:57:57+00:00</published>
+  </entry>
+  <entry>
+    <id>5VQFj6bnBTeoUmdXc0KWzd</id>
+    <title>Semana 25 de eventos do Hay Day</title>
+    <updated>2024-06-17T09:43:44.234000+00:00</updated>
+    <content>&lt;h1&gt;Semana 25 de eventos do Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Aproveite a nova semana de eventos enquanto comemora o aniversário do Hay Day! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com vales.&lt;/p&gt;&lt;p&gt;Terça-feira: dobro de XP com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Quarta-feira: dobro de moedas com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Quinta-feira: venda de itens usados com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;Sexta-feira: triplo de pontos do passe rural e aceleração da produção em 30% do salão dos patos e do redeiro.&lt;/p&gt;&lt;p&gt;Sábado: dobro de XP com os visitantes da cidade e dobro de moedas com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Domingo: três tipos aleatórios de ração serão produzidos com o dobro de velocidade.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/5VQFj6bnBTeoUmdXc0KWzd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notícias"/>
+    <published>2024-06-17T09:41:59+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-06-17T09:30:02.063681+00:00</updated>
+  <updated>2024-06-17T10:36:50.123783+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -270,5 +270,16 @@ Ahad: Acara Galakan Bangunan Pengeluaran (3 bangunan rawak, 20% galakan) + Acara
     <link href="https://hayday.inbox.supercell.com/#/ms/news/3kffI09nnz2SI2p3rxxXUE"/>
     <category term="Komuniti"/>
     <published>2024-06-12T14:57:57+00:00</published>
+  </entry>
+  <entry>
+    <id>5VQFj6bnBTeoUmdXc0KWzd</id>
+    <title>Acara Hay Day Minggu 25!</title>
+    <updated>2024-06-17T09:43:44.234000+00:00</updated>
+    <content>&lt;h1&gt;Acara Hay Day Minggu 25!&lt;/h1&gt;
+&lt;p&gt;Helo, peladang! Nikmatilah acara di minggu baharu sambil menyambut hari jadi Hay Day! Semua acara bermula pada 8:00 UTC (16:00 MYT). Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;Isnin: Putaran Nasib (Baucar)&lt;/p&gt;&lt;p&gt;Selasa: Acara Trak (2x XP)&lt;/p&gt;&lt;p&gt;Rabu: Acara Trak (2x syiling)&lt;/p&gt;&lt;p&gt;Khamis: Acara Pelawat Ladang (Jualan halaman)&lt;/p&gt;&lt;p&gt;Jumaat: Acara Galakan Pengeluaran Memancing (Salun Itik dan Pembuat Jaring, 30%) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Sabtu: Pelawat Bandar (2x XP) + Acara Trak (2x syiling)&lt;/p&gt;&lt;p&gt;Ahad: Acara Makanan Haiwan (3 jenis makanan haiwan rawak dihasilkan 2x lebih cepat)&lt;/p&gt;&lt;p&gt;Berseronoklah pada minggu ini!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/5VQFj6bnBTeoUmdXc0KWzd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2024-06-17T09:41:59+00:00</published>
   </entry>
 </feed>

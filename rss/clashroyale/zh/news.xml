@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 17 Jun 2024 09:29:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 10:36:20 +0000</lastBuildDate>
     <item>
       <title>學牌組好去處！</title>
       <link>https://clashroyale.inbox.supercell.com/#/zh/news/1x62odjI4OkIgZfBs6qQfR</link>
@@ -578,6 +578,80 @@
       <pubDate>Sun, 16 Jun 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>六月平衡性調整</title>
+      <link>https://clashroyale.inbox.supercell.com/#/zh/news/4a4B50NkhDsZBuSRWvuqxz</link>
+      <description>
+&lt;h1&gt;巨人&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/cvpF3Gd5OXtQ6K4hHbFVz/7139dcac3f3cab7384f1e069704eb5da/giant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏&lt;b&gt;射程：&lt;/b&gt;
+從1600縮短為1200（-25%）&lt;/p&gt;
+&lt;p&gt;對於一個肉盾來說，巨人的傷害有點太高了，而且因為他的射程，他常常還能多打幾下。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;小王子&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥&lt;b&gt;技能傷害：&lt;/b&gt;
+從399降低為207（-48%）💥&lt;b&gt;技能擊退：&lt;/b&gt;
+從2500縮短為2000（-20%）
+**⏱️專屬護衛首次出手速度：**從2秒延長為5秒（+150%）&lt;/p&gt;
+&lt;p&gt;皇家支援的高傷害、大幅擊退效果，還有專屬護衛飛快的首次出手速度，這些都為他增加了太多外在的強度，與小王子的整體設計關係不大。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;進化騎士&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️進化後生命值加成：&lt;/b&gt;-9%&lt;/p&gt;
+&lt;p&gt;雖然在上一次平衡性調整中，我們將大部分近戰進化卡牌的進化後生命值加成調整為原生命值的1.1倍，但進化騎士的表現依然一騎絕塵。所以我們決定取消他的進化後生命值加成，因為他的技能已經提升了他的有效生命值。別擔心，他仍然是最坦的近戰進化卡牌！&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;進化特斯拉電磁塔&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥&lt;b&gt;電磁脈衝傷害：&lt;/b&gt;
+從192降低為148（-23%）&lt;/p&gt;&lt;p&gt;⏳&lt;b&gt;電磁脈衝眩暈持續時間：&lt;/b&gt;-50%&lt;/p&gt;
+&lt;p&gt;雖然我們很高興看到進化特斯拉電磁塔的電磁脈衝技能大放異彩，但現在既然它一定會放出第二次脈衝，我們就需要降低衝擊波的強度。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;蠻羊騎士&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1HOnYoZRRyRrhH7BQ4ecrx/2127d9bad5db865862b4cefb612406c9/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡&lt;b&gt;衝鋒距離：&lt;/b&gt;
+從300降低為150（-50%）&lt;/p&gt;
+&lt;h1&gt;王子&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CpeMMVuFIw071qT0ubf9o/a8e6a0f8589a2fb53d69cb5bebd6ce4b/prince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡&lt;b&gt;衝鋒距離：&lt;/b&gt;
+從300降低為150（-50%）&lt;/p&gt;
+&lt;p&gt;蠻羊騎士和王子的衝鋒都太不穩定，而且很容易被打斷，而且他們聖水花費還偏高。從現在起，他們在被部署或被打斷後會更快發起衝鋒。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;哥布林投矛手&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💨&lt;b&gt;首次出手速度：&lt;/b&gt;-40%&lt;/p&gt;
+&lt;p&gt;哥布林投矛手往往還沒來得及攻擊就被消滅，因此我們希望這次調整能讓他們變得更可靠。以上調整也會影響哥布林大隊、哥布林小屋和哥布林巨人。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;吹箭哥布林&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥&lt;b&gt;傷害：&lt;/b&gt;
+從131提升至142（+8%）&lt;/p&gt;
+&lt;p&gt;吹箭哥布林是一張高風險高報酬的卡牌，但目前的報酬不夠高導致他遠不如其他卡牌。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;哥布林牢籠&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2UiizHJFOpah1ewFynv6Sx/5b0d54bb846e7f1e744eee404d167e1d/goblincage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;❤️&lt;b&gt;牢籠生命值：&lt;/b&gt;
+從742提升至780（+5%）&lt;/p&gt;
+&lt;p&gt;哥布林正在加固牢籠的牆壁，因為它明顯落後於其他防禦建築。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;虛空法術&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;⚡&lt;b&gt;首次攻擊延遲：&lt;/b&gt;+150%
+⏱️&lt;b&gt;攻擊頻率：&lt;/b&gt;-13%&lt;/p&gt;
+&lt;p&gt;虛空法術的設計初衷是一個可以被反制的法術，但目前首次攻擊生效太快，導致對手來不及反應。本次調整目的是在不影響法術持續時間的情況下，讓對手有機會對虛空法術做出應對。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;飛刀女爵&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥&lt;b&gt;傷害：&lt;/b&gt;
+從153降低為112（-27%）🗡️&lt;b&gt;飛刀裝填時間：&lt;/b&gt;-33%&lt;/p&gt;
+&lt;p&gt;我們原本對飛刀女爵的期望是能有效對抗速轉牌組，但對上高費卡牌時會略顯無力，不過她目前的表現已遠超這個預期。我們希望降低她的最高傷害，同時保持她的最低傷害不變。&lt;/p&gt;</description>
+      <guid isPermaLink="false">4a4B50NkhDsZBuSRWvuqxz</guid>
+      <category>更新說明</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Sun, 16 Jun 2024 15:00:03 +0000</pubDate>
+    </item>
+    <item>
       <title>【Xiake】 新玩法？帶你了解哥布林女皇！</title>
       <link>https://www.youtube.com/watch?v=QlHdIYVV7-M</link>
       <guid isPermaLink="false">VOBRgtLYfk4XauuISn80T</guid>
@@ -592,6 +666,78 @@
       <category>最新情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/ICFJucOIcp6PEEfk84MUg/43596dff60cebabc98fa21a74765b942/tw_20240617_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 17 Jun 2024 03:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6月17日遊戲更新</title>
+      <link>https://clashroyale.inbox.supercell.com/#/zh/news/tu0og4AGbhV2bBGq074TK</link>
+      <description>&lt;h1&gt;更新上線囉！&lt;/h1&gt;
+&lt;p&gt;全新卡牌、競技場、寶箱、一位新統治者，還有更多精彩內容！&lt;/p&gt;&lt;p&gt;從6月17日開始踏上哥布林女皇征途，體驗全新競技場、卡牌、寶箱和超讚獎勵！&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/p9ldzfp3S2ZL20LxZQRDv/91a6d8c623ecf4f1e04f92988949e3c6/goblinqueenfinishing02_PNG.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;全新遊戲模式！&lt;/h1&gt;
+&lt;p&gt;哥布林女皇征途是全新的遊戲模式，玩家達到12階競技場即可參加。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xNv4uM0HWRdBGMXnSO8Wx/ab2ee457d4072f48585b89da14739c27/image.png?w=1179&amp;h=1766&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;在之前選擇榮耀之路和傳奇之路模式的地方，點擊哥布林女皇征途，即可進入這個模式。&lt;/p&gt;
+&lt;h1&gt;哥布林競技場&lt;/h1&gt;
+&lt;p&gt;征途以四個獨特的哥布林主題競技場開始：&lt;/p&gt;
+&lt;h1&gt;哥布林金礦&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Q8P4tVrSbUwHlHCTjVNFp/04a00d665efe67a0b6047a125c69373b/Goblin_Miner_Diorama_v02.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;起始競技場
+等級上限：9&lt;/p&gt;
+&lt;h1&gt;危險泥坑&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7qF0Wlpn5d5CztVFsJRlgm/33f72824c3c32bba16e76c5967f5baa1/Goblin_Mudpit_Diorama_vfinale.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;獎盃數達到1000時解鎖該競技場
+等級上限：11
+進化欄位+1&lt;/p&gt;
+&lt;h1&gt;廢料場&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3SGZYiDdNg6mBBGmhALQNN/0e3b24b057ccc96658bc3f7281ff606f/ScrappyardIcon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;獎盃數達到2000時解鎖該競技場
+等級上限：13&lt;/p&gt;
+&lt;h1&gt;先祖宮殿&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7xemU6Qh2Bp0BgGp1bYfyY/abacbf8baaa972de593e4ad678ecc532/zigurate_top_DIORAMA_start.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;獎盃數達到3000時解鎖該競技場
+等級上限：15
+進化欄位+1&lt;/p&gt;
+&lt;p&gt;獎盃數達到3400時，可解鎖一款專屬表情。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/8cFl55WZLJ1ynY1kZ1gyK/6398b0f1d1a3c881a672fe89dd6a18ed/emotes_goblinqueen_laugh_dl.webp?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;哥布林女皇塔和技能&lt;/h1&gt;
+&lt;p&gt;哥布林女皇塔將引入一種獨特的遊戲機制：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;部署哥布林卡牌將為哥布林女皇的技能蓄能，花費達到20聖水即可完成蓄能。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;完成蓄能後，再部署一張哥布林卡牌將啟用該技能，派出「小小哥布林」飛往兩路進攻。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;目前該皇家塔部隊只能在女皇征途模式使用，但將來我們也可能會在其他遊戲模式中推出。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/314Cqj1tRoF0CrjWIvmhm9/7ba185c9856d3a4c8a28bcad16a82875/QueenGoblin_Pose02.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;全新哥布林卡牌！&lt;/h1&gt;
+&lt;p&gt;三張全新哥布林卡牌只能在女皇征途遊戲模式中解鎖。解鎖後，&lt;b&gt;可在其他遊戲模式使用他們，包括榮耀之路和傳奇之路&lt;/b&gt;。&lt;/p&gt;
+&lt;h1&gt;哥布林爆破狂&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lBbl69EDrtDE9qYceVYIP/32d77cefbb0217b542c87b6337cb8d70/Goblin_Demolisher_card_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;哥布林爆破狂是一張稀有卡牌，可造成範圍傷害並在被消滅時爆炸。生命值較低時，他會衝向距離最近的建築。可在哥布林金礦競技場解鎖他。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1aeSo4ByjOETi7bolwhw3g/d1fba38fe4f061d229d7d7a6b2eed41d/GoblinDynamite_Pose02_4K_FXtransp.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;哥布林詛咒&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1aMDYvj4vHGM9ByF3TJn36/59778c88962723b70dc6dee885096462/Goblin_curse_spell_card_frame_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;哥布林詛咒是一張史詩卡牌，可造成範圍傷害，那被它消滅的部隊會怎麼樣呢？
+他們會變成哥布林。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;哥布林機甲&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3hkw6xWco67jf3f1gHZvJl/0f7bd497dfa9b3b1f1df5c08b63204e7/Goblin_Machine_card_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;哥布林機甲用兩隻機械手臂處理近戰目標，用巨大火箭轟炸遠程目標。可在廢料場競技場解鎖這張傳奇卡。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41fHQvve3M15UFu5GN0YdZ/87391a6631a9d702a3ad61390ce878fa/GoblinMecha_Pose02_4k.png?w=3403&amp;h=2700&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;哥布林寶箱&lt;/h1&gt;
+&lt;p&gt;新增三種哥布林寶箱：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林收藏箱&lt;/b&gt;（解鎖需3小時）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林保險箱&lt;/b&gt;（解鎖需8小時）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林賞金箱&lt;/b&gt;（解鎖需12小時）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;哥布林寶箱只能在新遊戲模式中獲得，每三個寶箱中將有一個是哥布林寶箱。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4UQR4tLQMS4Qgrc8M60IAv/cb89ce4cda2d2db3d9d3bb6d39336d9a/Layer_2.png?w=2129&amp;h=565&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;遊戲性優化&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;現在可透過部落戰對戰獲得寶箱。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;現在幸運寶物除了本來就有的其他獎勵，還有機率直接解鎖完整進化卡牌。傳奇幸運寶物掉率表調整如下：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;調整前：&lt;/b&gt;* 傳奇卡牌之書：33.3%（1/3）* 50,000張精英魔法外卡：33.3%（1/3）* 全能之書：33.3%（1/3）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;調整後：&lt;/b&gt;* 傳奇卡牌之書：33.3%（1/3）* 50,000張精英魔法外卡：33.3%（1/3）* 全能之書：22.2%（2/9）* 解鎖完整進化卡牌：11.1%（1/9）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;牌庫現在新增全新排列選項。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;按進化排列現在可顯示進化進度。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Y7CwJLB5YXbG61pDaKr39/fb38f75bfb1acea6f75dc1682a134a69/Screenshot_2024-06-11_163802.png?w=548&amp;h=594&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;新增檢舉不當玩家名稱的功能。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;新增牌組和管理現有牌組的介面更新。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;現在每個模式都有專屬牌組編輯介面。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;之前，複製或分享牌組的按鈕位於右下方。現在被移到左上角，在這裡還可以新增牌組。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;從本次更新開始，解鎖傳奇之路會將使用中的牌組複製到傳奇之路牌組編輯介面的欄位1。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;對於在本次更新前就已解鎖傳奇之路的玩家，系統會將榮耀之路編輯介面中全部非空白的牌組複製到傳奇之路的牌組欄位中。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;牌組欄位將不再隨國王等級解鎖；國王等級達到2級後，所有模式的牌組編輯介面都會有最多10個牌組欄位。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/onrTR7PqZ3BPBPLA8ZJIN/a17a9562e9936c87795cf56c4282a0a9/e195a4ad-c5fc-42a6-91e8-747d190ebd80.png?w=1486&amp;h=598&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;問題修復&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;修復特斯拉電磁塔在未被其他單位摧毀的情況下，因持續時間結束而消失時不會發出脈衝的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復特斯拉電磁塔在部署過程中被凍結時的行為。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復社群活動中可領取獎勵時未顯示「可以領取」圖示的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;傷害減免現在可正確應用於傷害加成，因此解決單位使用技能或護盾啟用時，其傷害減免效果在面對傷害加成效果時不起作用的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;如果玩家在部落戰中贏得多場決鬥對戰，每日任務現在會正確計算超過一次的勝利。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;卡牌達到15級時，不再移除資訊介面的魔法物品按鈕。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;希望大家喜歡這次更新，我們競技場見！&lt;/p&gt;</description>
+      <guid isPermaLink="false">tu0og4AGbhV2bBGq074TK</guid>
+      <category>更新說明</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Jun 2024 09:51:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

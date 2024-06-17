@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-06-17T09:30:02.532057+00:00</updated>
+  <updated>2024-06-17T10:36:49.108004+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -281,5 +281,16 @@ Zondag: productiegebouwenboost (20% boost voor 3 willekeurige gebouwen) + tuinhu
     <link href="https://hayday.inbox.supercell.com/#/nl/news/3kffI09nnz2SI2p3rxxXUE"/>
     <category term="Community"/>
     <published>2024-06-12T14:57:57+00:00</published>
+  </entry>
+  <entry>
+    <id>5VQFj6bnBTeoUmdXc0KWzd</id>
+    <title>Hay Day-evenementen: week 25!</title>
+    <updated>2024-06-17T09:43:44.234000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-evenementen: week 25!&lt;/h1&gt;
+&lt;p&gt;Hallo boeren! Geniet van een week vol evenementen terwijl we Hay Days verjaardag vieren! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;Maandag: rad van fortuin (tegoedbonnen)&lt;/p&gt;&lt;p&gt;Dinsdag: truckevenement (2x zoveel XP)&lt;/p&gt;&lt;p&gt;Woensdag: truckevenement (2x zoveel munten)&lt;/p&gt;&lt;p&gt;Donderdag: boerderijbezoekersevenement (rommelmarkt)&lt;/p&gt;&lt;p&gt;Vrijdag: visboost (30% boost voor eenden en netten) + 3x zoveel boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Zaterdag: boerderijbezoekersevenement (2x zoveel XP) + truckevenement (2x zoveel munten)&lt;/p&gt;&lt;p&gt;Zondag: veevoerevenement (3 willekeurige soorten veevoer worden 2x sneller geproduceerd)&lt;/p&gt;&lt;p&gt;Een geweldige week gewenst!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/5VQFj6bnBTeoUmdXc0KWzd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nieuws"/>
+    <published>2024-06-17T09:41:59+00:00</published>
   </entry>
 </feed>

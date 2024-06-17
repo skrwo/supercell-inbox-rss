@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-06-17T09:30:04.554080+00:00</updated>
+  <updated>2024-06-17T10:36:53.154518+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -281,5 +281,16 @@ Dimanche : boost de production de 20 % pour 3 bâtiments aléatoires, événemen
     <link href="https://hayday.inbox.supercell.com/#/fr/news/3kffI09nnz2SI2p3rxxXUE"/>
     <category term="Communauté"/>
     <published>2024-06-12T14:57:57+00:00</published>
+  </entry>
+  <entry>
+    <id>5VQFj6bnBTeoUmdXc0KWzd</id>
+    <title>Calendrier des événements Hay Day (semaine 25)</title>
+    <updated>2024-06-17T09:43:44.234000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 25)&lt;/h1&gt;
+&lt;p&gt;Salut, amis de la ferme ! Profitez d&amp;#39;une nouvelle semaine d&amp;#39;événements pendant les festivités d&amp;#39;anniversaire de Hay Day ! Tous les événements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, coupons&lt;/p&gt;&lt;p&gt;Mardi : livraisons par camion, EXP x2&lt;/p&gt;&lt;p&gt;Mercredi : livraisons par camion, pièces x2&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, vide-grenier&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 30 % (salon de plumage et fabrique de filets) + points du pass Hay Day x3&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, EXP doublée + livraisons par camion, pièces x2&lt;/p&gt;&lt;p&gt;Dimanche : événement nourriture pour animaux, 3 types de nourriture pour animaux aléatoires sont produits 2x plus rapidement&lt;/p&gt;&lt;p&gt;Passez une très bonne semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/5VQFj6bnBTeoUmdXc0KWzd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nouvelles"/>
+    <published>2024-06-17T09:41:59+00:00</published>
   </entry>
 </feed>
