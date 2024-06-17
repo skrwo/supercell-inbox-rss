@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-17T21:29:40.229965+00:00</updated>
+  <updated>2024-06-17T22:31:21.849652+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -526,6 +526,16 @@
     <link href="https://youtu.be/Fh-z_EhbtL4"/>
     <category term="소식"/>
     <published>2024-06-15T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4a4B50NkhDsZBuSRWvuqxz</id>
+    <title>6월 밸런스 변경</title>
+    <updated>2024-06-17T21:55:25.049000+00:00</updated>
+    <content>[EMPTY]</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/4a4B50NkhDsZBuSRWvuqxz"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="새 소식"/>
+    <published>2024-06-16T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>tu0og4AGbhV2bBGq074TK</id>
