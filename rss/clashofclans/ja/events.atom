@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-eventEntries-ja</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-06-18T08:34:39.644564+00:00</updated>
+  <updated>2024-06-18T09:30:03.375773+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7n5UeN9uO8MuDXmtwWhHk/81c0d4060f3a97cfde0da349987c7bee/CoC_SC015_WildWest_JA_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/Pcq7fBsyouY"/>
     <published>2024-06-01T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1nJN3MC9WCJbG7q5jjSXRH</id>
+    <title>🗞️</title>
+    <updated>2024-06-18T09:03:37.948000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/2SM1PCJbnI0"&gt;👉視聴する👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7eEcELzWrWJxhRlRefdWJk/c97c5633afba941210030dfb7d385f7b/Carousel-ClashOn-JuneUpdate.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/2SM1PCJbnI0"/>
+    <published>2024-06-18T08:06:19+00:00</published>
   </entry>
 </feed>
