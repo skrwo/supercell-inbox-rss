@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-18T02:43:13.114137+00:00</updated>
+  <updated>2024-06-18T03:32:52.101002+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -540,7 +540,7 @@
   <entry>
     <id>4a4B50NkhDsZBuSRWvuqxz</id>
     <title>6月のバランス調整！</title>
-    <updated>2024-06-17T21:55:25.049000+00:00</updated>
+    <updated>2024-06-18T03:13:54.225000+00:00</updated>
     <content>
 &lt;h1&gt;ジャイアント&lt;/h1&gt;
 
@@ -552,20 +552,24 @@
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥&lt;b&gt;スキルのダメージ：&lt;/b&gt;
-399→207（-48％）💥&lt;b&gt;ノックバック能力：&lt;/b&gt;
+399→207（-48％）&lt;/p&gt;&lt;p&gt;💥&lt;b&gt;ノックバック能力：&lt;/b&gt;
 2500→2000（-20％）
-**⏱️ガーディアンの初撃速度：**2秒→5秒（+150％）&lt;/p&gt;
+
+&lt;b&gt;⏱️ガーディアンの初撃速度：&lt;/b&gt;
+2秒→5秒（+150％）&lt;/p&gt;
 &lt;p&gt;リトルプリンスは当初のコンセプトとは裏腹に、ガーディアンの高いダメージと強力なノックバック能力、そして速い初撃速度によって強すぎるカードになっていました。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;限界突破ナイト&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント上昇：&lt;/b&gt;-9％&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;❤️ヒットポイント上昇：
+&lt;/b&gt;-9％&lt;/p&gt;
 &lt;p&gt;前回のバランス調整で、多くの近接型限界突破カードのヒットポイント上昇率を1.1倍に変更しましたが、限界突破ナイトはそれでも衰えを見せません。そこで今回は、通常のナイトと同じ値までヒットポイント下げることにしました。とはいえ、ダメージ軽減能力は健在なので、近接型のタンクとして十分に活躍してくれるでしょう。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;限界突破テスラ&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥&lt;b&gt;限界突破テスラのパルスのダメージ：&lt;/b&gt;
-192→148（-23％）&lt;/p&gt;&lt;p&gt;⏳&lt;b&gt;パルスのスタン効果時間：&lt;/b&gt;-50％&lt;/p&gt;
+192→148（-23％）&lt;/p&gt;&lt;p&gt;⏳&lt;b&gt;パルスのスタン効果時間：
+&lt;/b&gt;-50％&lt;/p&gt;
 &lt;p&gt;限界突破テスラのパルス能力にスポットライトが当たったのは嬉しいことですが、2回のパルスが確約されている今、少し電力を抑えてもらう必要があります。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;ラムライダー&lt;/h1&gt;
 
@@ -581,7 +585,8 @@
 &lt;h1&gt;槍ゴブリン&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💨&lt;b&gt;初撃速度：&lt;/b&gt;+40％&lt;/p&gt;
+&lt;p&gt;💨&lt;b&gt;初撃速度：
+&lt;/b&gt;+40％&lt;/p&gt;
 &lt;p&gt;槍ゴブリンは攻撃する前に倒されてしまうことが多かったため、今回の変更で存在感を高めてほしいと思っています。この変更は、ゴブリンギャング、ゴブリンの小屋、ゴブジャイアントにも適用されます。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;吹き矢ゴブリン&lt;/h1&gt;
 
@@ -598,14 +603,16 @@
 &lt;h1&gt;ボイド&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡&lt;b&gt;初撃速度：&lt;/b&gt;-150％
-⏱️&lt;b&gt;攻撃間隔：&lt;/b&gt;-13％&lt;/p&gt;
+&lt;p&gt;⚡&lt;b&gt;初撃速度：&lt;/b&gt;
+-150％&lt;/p&gt;&lt;p&gt;⏱️&lt;b&gt;攻撃間隔：
+&lt;/b&gt;-13％&lt;/p&gt;
 &lt;p&gt;ボイドは対抗策があるカードとして実装されましたが、初撃速度が速すぎたため、防衛側は反応する時間がありませんでした。全体の効果時間は変わりませんが、今後はある程度余裕をもって対応できるようになるでしょう。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;ダガーガール&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥&lt;b&gt;ダメージ：&lt;/b&gt;
-153→112（-27％）🗡️&lt;b&gt;ダガーのチャージ時間：&lt;/b&gt;-33％&lt;/p&gt;
+153→112（-27％）&lt;/p&gt;&lt;p&gt;🗡️&lt;b&gt;ダガーのチャージ時間：&lt;/b&gt;
+-33％&lt;/p&gt;
 &lt;p&gt;ダガーガールは高回転デッキに強いタワーユニットとして考案されたはずでしたが、実際にはエリクサーコストの高いカードも難なく処理していました。今回の変更は、最少ダメージを変えることなく最大ダメージを下げることが狙いです。&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/4a4B50NkhDsZBuSRWvuqxz"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
