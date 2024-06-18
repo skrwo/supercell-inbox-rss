@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-06-18T05:32:01.685507+00:00</updated>
+  <updated>2024-06-18T06:36:31.615011+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -14,5 +14,14 @@
     <link href="https://cafe.naver.com/brawlstars/1175097"/>
     <category term="커뮤니티"/>
     <published>2024-05-24T12:02:55+00:00</published>
+  </entry>
+  <entry>
+    <id>4PzjAf434lHi7KRfSd2Z5x</id>
+    <title>LPL Brawl Stars Asia Pacific Tour 참가 신청이 시작되었습니다!</title>
+    <updated>2024-06-18T06:17:10.966000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://letsplay.live/brawl-stars/"/>
+    <category term="이스포츠"/>
+    <published>2024-06-18T07:00:00+00:00</published>
   </entry>
 </feed>

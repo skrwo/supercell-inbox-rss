@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-esportNewsEntries-zh</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-06-18T05:32:01.219739+00:00</updated>
+  <updated>2024-06-18T06:36:32.369399+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -101,5 +101,14 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2haR7IEZgKHwFwgkjAM2z0/16e87078ffb18e33cf02eef9aa7cd41a/tw-20240524-BSC-MAY-MF-APAC-thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="賽事情報"/>
     <published>2024-05-24T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4PzjAf434lHi7KRfSd2Z5x</id>
+    <title>LPL Brawl Stars 亞太巡迴賽現已開放報名！（台港澳可報名東南亞賽區）</title>
+    <updated>2024-06-18T06:17:10.966000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hG9LeB8ithBTBwfZ5f7AV/6340b27a8b6dab5bd34a47b3b857b252/tw_20240501_Carousel-Guide-SIGN-UP.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://letsplay.live/brawl-stars/"/>
+    <category term="賽事情報"/>
+    <published>2024-06-18T07:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-newsEntries-pt</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-18T05:32:10.236796+00:00</updated>
+  <updated>2024-06-18T06:36:37.274665+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -274,5 +274,15 @@ Interessado? Leia abaixo todos os detalhes do evento!&lt;/p&gt;&lt;p&gt;&lt;b&gt
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/QkF3KZh5pycVqY8Rsic9a/4beba804ab3552516f4556b4d8229c78/fc_16x9_Super_Wall_Breakers_Event_Illustration_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Novidades"/>
     <published>2024-06-10T11:27:09+00:00</published>
+  </entry>
+  <entry>
+    <id>WNAnWHFemqXB9GD5gtTv1</id>
+    <title>Não provoque o urso... Nova tropa! </title>
+    <updated>2024-06-18T06:31:21.552000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/pt/news/WNAnWHFemqXB9GD5gtTv1"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6trs6PVpcWb9vcK33QZjID/553621bf484408bdcaee83dd025f2ced/thumbnail_Yt_Druid.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=uhW69MHBMqk"/>
+    <category term="Atualizações do jogo"/>
+    <published>2024-06-16T12:00:02+00:00</published>
   </entry>
 </feed>
