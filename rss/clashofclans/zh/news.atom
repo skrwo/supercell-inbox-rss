@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-18T13:30:23.691745+00:00</updated>
+  <updated>2024-06-18T14:31:54.082690+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>6OrwnPddoUwIXAkUQj8YVJ</id>
-    <title>3月部落競賽獎勵搶先看</title>
-    <updated>2024-03-20T14:19:05.702000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6OrwnPddoUwIXAkUQj8YVJ"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6ELcmy0jip1xSd4NY3ItDJ/0779dc6432e31f239cdb34c028968695/tw_20240320_COC_ClanGamesRewards_March.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="賽事"/>
-    <published>2024-03-20T13:30:00+00:00</published>
-  </entry>
   <entry>
     <id>6uho6ParOVU1NCTcy7yods</id>
     <title>3月26日平衡性調整</title>
@@ -609,5 +600,25 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7cuZr6nRTBf50fq9kn79PK/5cbe1f2cb43964215de1bb9af6a95ec3/900x506_druid_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="更新詳情"/>
     <published>2024-06-18T08:07:05+00:00</published>
+  </entry>
+  <entry>
+    <id>6gwvPI7y1tyEoG1OTHE5xB</id>
+    <title>【金雄】金熊挑戰這麼解不翻車！</title>
+    <updated>2024-06-18T14:14:51.637000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6gwvPI7y1tyEoG1OTHE5xB"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/CHoFWfs3Ji45RuWTE1KpG/7c7a1ddbb618598921419624d97da539/tw_20240618_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Ha1yFVi4fxU"/>
+    <category term="最新情報"/>
+    <published>2024-06-18T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2oYhCzLW4VTuIRnZ8ub95O</id>
+    <title>【烏龜】熊出沒注意！帶你輕鬆通關！</title>
+    <updated>2024-06-18T14:15:55.529000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2oYhCzLW4VTuIRnZ8ub95O"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/53M7KgwO8TdnJwN5YSiFeJ/2f9c398664bcbc3c2297feb8fe279664/tw_20240618_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=I6VUeG1n65A"/>
+    <category term="最新情報"/>
+    <published>2024-06-18T12:01:00+00:00</published>
   </entry>
 </feed>
