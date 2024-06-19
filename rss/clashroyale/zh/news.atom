@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-19T11:28:52.358394+00:00</updated>
+  <updated>2024-06-19T12:48:47.514848+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -805,5 +805,20 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="更新說明"/>
     <published>2024-06-17T09:51:21+00:00</published>
+  </entry>
+  <entry>
+    <id>3yDGuC3evJTvLhkyaWgtmz</id>
+    <title>系統維護 - 問題修復和平衡性調整</title>
+    <updated>2024-06-19T12:34:16.460000+00:00</updated>
+    <content>&lt;h1&gt;問題修復&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;修復友誼戰經典牌組的卡牌等級，使其符合預期。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復傳奇魔法外卡的文字描述。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復導致鏡像模式友誼戰對戰開始異常的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復玩家卡在活動教學的問題。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;平衡性調整&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林機甲：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**火箭傷害：**從588降低為391（-33%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**火箭對皇家塔傷害：**降低50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**火箭攻擊速度：**從3.5秒延長為4秒（+14%）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林詛咒：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**傷害增強效果：**降低30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;這些調整將在系統維護後實裝。感謝您的耐心等待，我們對這些問題可能造成的不便深表歉意。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/3yDGuC3evJTvLhkyaWgtmz"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="更新說明"/>
+    <published>2024-06-19T08:19:30+00:00</published>
   </entry>
 </feed>

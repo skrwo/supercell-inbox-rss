@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-19T11:28:52.127159+00:00</updated>
+  <updated>2024-06-19T12:48:43.324999+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -730,9 +730,9 @@ They turn into goblins. &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
   <entry>
     <id>3yDGuC3evJTvLhkyaWgtmz</id>
     <title>MAINTENANCE - BUG FIXES AND BALANCE CHANGES</title>
-    <updated>2024-06-19T11:16:58.431000+00:00</updated>
+    <updated>2024-06-19T12:34:16.460000+00:00</updated>
     <content>&lt;h1&gt;BUG FIXES&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrected card levels in Friendly Classic Decks to match expected levels.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed broken text descriptions for Legendary Wild Cards.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the issue causing Friendly Mirror Match battles to start.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed players getting stuck in the events tutorial.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrected card levels in Friendly Classic Decks to match expected levels.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed broken text descriptions for Legendary Wild Cards.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the issue preventing Friendly Mirror Match battles to start.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed players getting stuck in the events tutorial.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;BALANCE CHANGES&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Goblin Machine:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Rocket Damage: &lt;/b&gt;Reduced from 588 to 391 (-33%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Rocket Crown Tower Damage: &lt;/b&gt;-50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Rocket Hit Speed: &lt;/b&gt;Increased from 3.5 seconds to 4 seconds (+14%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Goblin Curse:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Damage Amplification: &lt;/b&gt;Reduced from 50% to 35% (-30%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;These changes will go live right after maintenance. Thank you for your patience, and we apologize for any inconvenience the issues may have caused. &lt;/p&gt;

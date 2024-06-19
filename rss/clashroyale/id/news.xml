@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 19 Jun 2024 11:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 12:48:48 +0000</lastBuildDate>
     <item>
       <title>ROADMAP 2024</title>
       <link>https://clashroyale.inbox.supercell.com/#/id/news/49H5KVaRoMMDStkRNHXatm</link>
@@ -543,6 +543,20 @@ Mereka akan berubah menjadi Goblin!&lt;/p&gt;&lt;hr/&gt;
       <category>Catatan Rilis</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 17 Jun 2024 09:51:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>PEMELIHARAAN - PERBAIKAN BUG DAN PERUBAHAN KESEIMBANGAN</title>
+      <link>https://clashroyale.inbox.supercell.com/#/id/news/3yDGuC3evJTvLhkyaWgtmz</link>
+      <description>&lt;h1&gt;PERBAIKAN BUG&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Level Kartu di Dek Klasik Persahabatan dikoreksi untuk menyesuaikan level yang semestinya.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kesalahan pada teks deskripsi Kartu Joker Legendaris telah diperbaiki.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Masalah yang mencegah pertempuran Cermin Persahabatan dimulai telah diperbaiki.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Masalah di mana pemain terjebak di tutorial acara telah diperbaiki.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;PERUBAHAN KESEIMBANGAN&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mesin Goblin:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Kerusakan Roket:&lt;/b&gt;  Dikurangi dari 588 menjadi 391 (-33%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Kerusakan Benteng Mahkota dari Roket:&lt;/b&gt; -50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Kecepatan Serangan Roket:&lt;/b&gt; Bertambah dari 3,5 detik menjadi 4 detik (+14%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Kutukan Goblin:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Penguat Kerusakan:&lt;/b&gt; -30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;Perubahan ini akan berlaku tepat setelah pemeliharaan. Terima kasih atas kesabaran kalian dan mohon maaf atas ketidaknyamanan yang mungkin ditimbulkan.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</description>
+      <guid isPermaLink="false">3yDGuC3evJTvLhkyaWgtmz</guid>
+      <category>Catatan Rilis</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Wed, 19 Jun 2024 08:19:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

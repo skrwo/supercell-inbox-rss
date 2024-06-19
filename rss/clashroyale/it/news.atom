@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-19T11:28:51.568809+00:00</updated>
+  <updated>2024-06-19T12:48:45.170358+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -700,5 +700,20 @@ Diventano dei goblin!&lt;/p&gt;&lt;hr/&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Note di rilascio"/>
     <published>2024-06-17T09:51:21+00:00</published>
+  </entry>
+  <entry>
+    <id>3yDGuC3evJTvLhkyaWgtmz</id>
+    <title>MANUTENZIONE: CORREZIONI DI ERRORI E MODIFICHE DI BILANCIAMENTO</title>
+    <updated>2024-06-19T12:34:16.460000+00:00</updated>
+    <content>&lt;h1&gt;PROBLEMI RISOLTI&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corretto l&amp;#39;errore che si verificava nelle amichevoli coi mazzi classici, per cui le carte non rispettavano il livello massimo imposto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrette le descrizioni errate dei jolly leggendari.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto il problema che impediva l&amp;#39;avvio delle amichevoli della modalità Specchio.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto l&amp;#39;errore che impediva ai giocatori di completare il tutorial degli eventi.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;MODIFICHE DI BILANCIAMENTO&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Macchina goblin&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Danni del razzo&lt;/b&gt; ridotti del 33% (da 588 punti a 391).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Danni causati dal razzo alle torri della corona&lt;/b&gt; ridotti del 50%.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Velocità colpi del razzo&lt;/b&gt; aumentata del 14% (da 3,5 secondi a 4).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Maledizione goblin&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Amplificazione dei danni&lt;/b&gt; ridotta del 30%.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;Queste modifiche saranno effettive al termine della manutenzione. Ti ringraziamo per la pazienza e ci scusiamo per qualsiasi inconveniente che i problemi di gioco possano averti causato.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/3yDGuC3evJTvLhkyaWgtmz"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Note di rilascio"/>
+    <published>2024-06-19T08:19:30+00:00</published>
   </entry>
 </feed>
