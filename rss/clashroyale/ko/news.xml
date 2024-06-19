@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 19 Jun 2024 08:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 09:32:19 +0000</lastBuildDate>
     <item>
       <title>2024 로드맵</title>
       <link>https://clashroyale.inbox.supercell.com/#/ko/news/6g54VT7JKlhc8E8g413MXe</link>
@@ -622,6 +622,20 @@
       <category>새 소식</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 17 Jun 2024 09:51:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>점검 - 오류 수정 및 밸런스 조정</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ko/news/1Tm4UIRj7t15OE3I3SBkN2</link>
+      <description>&lt;h1&gt;오류 수정&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&amp;#39;클래식 덱&amp;#39; 이벤트에서 카드 레벨이 올바르게 표시되지 않는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;전설 와일드카드 설명 관련 텍스트 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;친선전에서 게임 모드 선택 시 반사경 모드로 진행되는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이벤트 튜토리얼을 진행할 수 없는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;밸런스 조정&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;고블린 머신 :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 피해량 : &lt;/b&gt;588 → 391 (-33%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 크라운 타워 피해량 : &lt;/b&gt;-50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 공격 속도 : &lt;/b&gt;3.5초 → 4초 (+14%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;고블린 저주 :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;피해량 증폭 : &lt;/b&gt;-30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;해당 변경 사항은 점검 후 바로 적용될 예정입니다.&lt;/p&gt;&lt;p&gt;기다려주셔서 감사드리며, 불편을 드려 죄송합니다.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</description>
+      <guid isPermaLink="false">1Tm4UIRj7t15OE3I3SBkN2</guid>
+      <category>새 소식</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Wed, 19 Jun 2024 08:47:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
