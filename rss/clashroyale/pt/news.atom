@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-19T14:30:55.659984+00:00</updated>
+  <updated>2024-06-19T15:30:15.055533+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -684,9 +684,9 @@ Em Goblins!&lt;/p&gt;&lt;hr/&gt;
   <entry>
     <id>3yDGuC3evJTvLhkyaWgtmz</id>
     <title>MANUTENÇÃO - BALANCEAMENTO E CORREÇÃO DE ERROS</title>
-    <updated>2024-06-19T12:34:16.460000+00:00</updated>
+    <updated>2024-06-19T14:42:05.631000+00:00</updated>
     <content>&lt;h1&gt;CORREÇÃO DE ERROS&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Os níveis das cartas nos decks das disputas amistosas clássicas agora condizem com os níveis esperados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As descrições textuais dos curingas lendários foram corrigidas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro do início das batalhas amistosas do Espelho.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro que fazia com que os jogadores ficassem presos no tutorial de eventos.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Os níveis das cartas nos decks das disputas amistosas clássicas agora condizem com os níveis esperados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As descrições textuais dos curingas lendários foram corrigidas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro que impedia o início das batalhas amistosas do Espelho.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro que fazia com que os jogadores ficassem presos no tutorial de eventos.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;BALANCEAMENTO DO JOGO&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Máquina Goblin:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Dano do foguete:&lt;/b&gt; reduzido de 588 para 391 (-33%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Dano do foguete à torre da coroa:&lt;/b&gt; -50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Velocidade de ataque do foguete:&lt;/b&gt; subiu de 3,5s para 4s (+14%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Maldição Goblin:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Amplificação de dano:&lt;/b&gt; -30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
 &lt;p&gt;Essas mudanças entrarão em vigor assim que a manutenção terminar. Agradecemos pela paciência e pedimos desculpas pelo inconveniente.&lt;/p&gt;

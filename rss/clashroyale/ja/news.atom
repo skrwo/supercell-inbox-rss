@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-19T14:30:55.436505+00:00</updated>
+  <updated>2024-06-19T15:30:13.761579+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -695,7 +695,7 @@
   <entry>
     <id>3yDGuC3evJTvLhkyaWgtmz</id>
     <title>メンテナンス：バグ修正とバランス調整</title>
-    <updated>2024-06-19T12:34:16.460000+00:00</updated>
+    <updated>2024-06-19T14:42:05.631000+00:00</updated>
     <content>&lt;h1&gt;バグ修正&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;クラシックデッキフレンドバトルで誤ったカードレベルが適用される不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ウルトラレアワイルドカードの説明文を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;鏡フレンドバトルが開始される不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;イベントのチュートリアルを完了できない不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;バランス調整&lt;/h1&gt;
