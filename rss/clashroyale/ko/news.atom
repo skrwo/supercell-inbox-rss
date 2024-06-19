@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-19T09:32:19.096455+00:00</updated>
+  <updated>2024-06-19T10:34:18.878294+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -681,7 +681,7 @@
     <content>&lt;h1&gt;오류 수정&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&amp;#39;클래식 덱&amp;#39; 이벤트에서 카드 레벨이 올바르게 표시되지 않는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;전설 와일드카드 설명 관련 텍스트 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;친선전에서 게임 모드 선택 시 반사경 모드로 진행되는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이벤트 튜토리얼을 진행할 수 없는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;밸런스 조정&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;고블린 머신 :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 피해량 : &lt;/b&gt;588 → 391 (-33%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 크라운 타워 피해량 : &lt;/b&gt;-50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 공격 속도 : &lt;/b&gt;3.5초 → 4초 (+14%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;고블린 저주 :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;피해량 증폭 : &lt;/b&gt;-30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;고블린 머신 :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 피해량 : &lt;/b&gt;588 → 391 (-33%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 크라운 타워 피해량 : &lt;/b&gt;-50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;로켓 공격 속도 : &lt;/b&gt;3.5초 → 4초 (+14%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;고블린 저주 :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;피해량 증폭 :&lt;/b&gt; 50% → 35%&lt;b&gt; (&lt;/b&gt;-30%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;해당 변경 사항은 점검 후 바로 적용될 예정입니다.&lt;/p&gt;&lt;p&gt;기다려주셔서 감사드리며, 불편을 드려 죄송합니다.&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/ko/news/1Tm4UIRj7t15OE3I3SBkN2"/>

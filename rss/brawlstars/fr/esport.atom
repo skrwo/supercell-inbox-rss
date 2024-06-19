@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-esportNewsEntries-fr</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-06-19T09:32:16.900062+00:00</updated>
+  <updated>2024-06-19T10:34:14.160545+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -32,5 +32,14 @@
     <link href="https://www.twitch.tv/videos/2130873996"/>
     <category term="Esports"/>
     <published>2024-04-26T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6onzhdF1ARkqacTEvBUX5K</id>
+    <title>BSC EMEA Mai Finale Mensuelle - Rediffusion</title>
+    <updated>2024-06-19T09:36:49.912000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rxTZ1g1m9ghAakcfn6cVY/c389729013acc6d8e17fb7e515766421/FR-BSC-MF-Winners-Reply-Totem.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2155000999"/>
+    <category term="Esports"/>
+    <published>2024-06-19T09:36:49+00:00</published>
   </entry>
 </feed>
