@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-19T07:28:52.761935+00:00</updated>
+  <updated>2024-06-19T08:33:26.583003+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -691,5 +691,20 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2024-06-17T09:51:21+00:00</published>
+  </entry>
+  <entry>
+    <id>3yDGuC3evJTvLhkyaWgtmz</id>
+    <title>メンテナンス：バグ修正とバランス調整</title>
+    <updated>2024-06-19T08:25:30.749000+00:00</updated>
+    <content>&lt;h1&gt;バグ修正&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;クラシックデッキフレンドバトルで誤ったカードレベルが適用される不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ウルトラレアワイルドカードの説明文を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;鏡フレンドバトルが開始される不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;イベントのチュートリアルを完了できない不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;バランス調整&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ゴブリンマシン：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**ロケットのダメージ：**588→391（-33％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ロケットのタワーへのダメージ：&lt;/b&gt;-50％&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**ロケットの攻撃速度：**3.5秒→4秒（-14％）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ゴブリンの呪い：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ダメージ増幅：&lt;/b&gt;-30％&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;上記の変更はメンテナンス後に実装される予定です。ご不便をおかけしますが、ご理解のほどよろしくお願いいたします。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/3yDGuC3evJTvLhkyaWgtmz"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="リリース情報"/>
+    <published>2024-06-19T08:19:30+00:00</published>
   </entry>
 </feed>

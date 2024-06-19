@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-19T07:28:54.236600+00:00</updated>
+  <updated>2024-06-19T08:33:25.550259+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -726,5 +726,20 @@ They turn into goblins. &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-06-17T09:51:21+00:00</published>
+  </entry>
+  <entry>
+    <id>3yDGuC3evJTvLhkyaWgtmz</id>
+    <title>MAINTENANCE - BUG FIXES AND BALANCE CHANGES</title>
+    <updated>2024-06-19T08:25:30.749000+00:00</updated>
+    <content>&lt;h1&gt;BUG FIXES&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrected card levels in Friendly Classic Decks to match expected levels.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed broken text descriptions for Legendary Wild Cards.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the issue causing Friendly Mirror Match battles to start.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed players getting stuck in the events tutorial.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BALANCE CHANGES&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Goblin Machine:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Rocket Damage: &lt;/b&gt;Reduced from 588 to 391 (-33%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Rocket Crown Tower Damage: &lt;/b&gt;-50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Rocket Hit Speed: &lt;/b&gt;Increased from 3.5 seconds to 4 seconds (+14%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Goblin Curse:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Damage Amplification: &lt;/b&gt;-30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;These changes will go live right after maintenance. Thank you for your patience, and we apologize for any inconvenience the issues may have caused. &lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/3yDGuC3evJTvLhkyaWgtmz"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Release Notes"/>
+    <published>2024-06-19T08:19:30+00:00</published>
   </entry>
 </feed>
