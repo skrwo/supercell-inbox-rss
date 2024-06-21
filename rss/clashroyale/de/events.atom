@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-eventEntries-de</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-06-21T10:34:04.464363+00:00</updated>
+  <updated>2024-06-21T11:28:59.030462+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
-  <entry>
-    <id>4K1TVZ2RsPnKi7vjni4jAt</id>
-    <title>🗞️</title>
-    <updated>2023-12-01T16:05:40.836000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/de/news/6RpFLG5DlFlQ8kc3CidIbV"&gt;👉LESEN👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4ehEINTyb1Buez0o4mIj1c/7839e3de16761c2f52bc8d4db28abfb5/Untitled-5.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/6RpFLG5DlFlQ8kc3CidIbV"/>
-    <published>2023-12-01T16:05:38+00:00</published>
-  </entry>
   <entry>
     <id>yB7TCmDIExMubeOewgmPH</id>
     <title>🗞️</title>
@@ -25,5 +15,14 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7C8MqTPcLF06uqNt9rGvBk/38a800c4833e105760e52f90a5a265b6/BOC_CR_NewsTab_Vol3_NoText__1_.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://booksofclash.com/books/books-of-clash-volume-3/"/>
     <published>2024-05-28T17:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>DpYm0BKU6JZzbqCoY42Gx</id>
+    <title>KOBOLDKÖNIGIN UPDATE</title>
+    <updated>2024-06-21T11:08:43.133000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://www.youtube.com/watch?v=Fh-z_EhbtL4"&gt;👉Ansehen!👈&lt;/a&gt; -- &lt;a href="https://clashroyale.inbox.supercell.com/#/de/news/tu0og4AGbhV2bBGq074TK"&gt;👉Lesen!👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/P3mr2Ig82tnMt5tG98lIV/8a5041d1ae577fc0af0b4b5de9d4f177/CR_S60_Season_Carousel_Image_GoblinQueen.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <published>2024-06-17T10:12:24+00:00</published>
   </entry>
 </feed>
