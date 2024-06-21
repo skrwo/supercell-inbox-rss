@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-eventEntries-en</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-06-21T08:32:52.570592+00:00</updated>
+  <updated>2024-06-21T09:28:56.747620+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -58,5 +58,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1i7qIwy09asPxNMwenIFgu/ee02240f3c378c618cf948efd030a4af/Thumb_event_BG2.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/u5h4fv-0oiA"/>
     <published>2024-06-10T08:01:32+00:00</published>
+  </entry>
+  <entry>
+    <id>63gVyCaMkWHPMBMOj9sEZu</id>
+    <title>🗞️</title>
+    <updated>2024-06-21T08:35:40.623000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/U0Mq3mJdwh4"&gt;👉Brawl Talk!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1pumQKHOtUOpo43s8tvnqp/c4ff7fc4426877cf78ccdd3c22938a17/0620_Brawl_Talk_Classic_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/U0Mq3mJdwh4"/>
+    <published>2024-06-21T08:35:19+00:00</published>
   </entry>
 </feed>
