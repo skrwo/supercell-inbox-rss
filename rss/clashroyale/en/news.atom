@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-21T16:35:11.994771+00:00</updated>
+  <updated>2024-06-21T17:31:22.930821+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>387I7fbqNa1EiBwAJgpvBJ</id>
-    <title>#CardEvolution</title>
-    <updated>2024-03-25T13:57:51.053000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/387I7fbqNa1EiBwAJgpvBJ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xAWY5mXX7o9kVEkWten6g/21ed7e43d8e8619daeb7077185878b66/Teaser_April2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Highlights"/>
-    <published>2024-03-23T17:00:03+00:00</published>
-  </entry>
   <entry>
     <id>6Eudrm8ihgpii2KaxhvtlY</id>
     <title>COMING SOON 📜🗡️</title>
