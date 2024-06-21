@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-21T09:28:59.596009+00:00</updated>
+  <updated>2024-06-21T10:34:04.465266+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -708,7 +708,7 @@ Truppen, die besiegt werden, verwandeln sich in Kobolde!&lt;/p&gt;&lt;hr/&gt;
   <entry>
     <id>3yDGuC3evJTvLhkyaWgtmz</id>
     <title>WARTUNGSARBEITEN – FEHLERBEHEBUNGEN UND ANPASSUNGEN DER SPIELBALANCE</title>
-    <updated>2024-06-19T14:42:05.631000+00:00</updated>
+    <updated>2024-06-21T09:58:24.097000+00:00</updated>
     <content>&lt;h1&gt;FEHLERBEHEBUNGEN&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;Kartenlevel in Klassikdeck-Testspielen wurden auf beabsichtigte Werte korrigiert.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Defekte Beschreibungen für legendäre Joker behoben.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ein Problem wurde behoben, das verhinderte, dass Freundschafts-Spiegelspiel-Kämpfe gestartet werden konnten.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Spieler bleiben nicht mehr im Ereignis-Tutorial stecken.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;ANPASSUNGEN DER SPIELBALANCE&lt;/h1&gt;

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-21T09:28:58.713730+00:00</updated>
+  <updated>2024-06-21T10:34:07.021930+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -677,7 +677,7 @@
   <entry>
     <id>3yDGuC3evJTvLhkyaWgtmz</id>
     <title>점검 - 오류 수정 및 밸런스 조정</title>
-    <updated>2024-06-19T14:42:05.631000+00:00</updated>
+    <updated>2024-06-21T09:58:24.097000+00:00</updated>
     <content>&lt;h1&gt;버그 수정&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&amp;#39;클래식 덱&amp;#39; 이벤트에서 카드 레벨이 올바르게 표시되지 않는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;전설 와일드카드 설명 관련 텍스트 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;친선전에서 게임 모드 선택 시 반사경 모드로 진행되지 않는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이벤트 튜토리얼을 진행할 수 없는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;밸런스 조정&lt;/h1&gt;

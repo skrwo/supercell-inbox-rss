@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-21T09:29:00.310104+00:00</updated>
+  <updated>2024-06-21T10:34:05.848548+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -653,9 +653,10 @@
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥&lt;b&gt;技能傷害：&lt;/b&gt;
-從399降低為207（-48%）💥&lt;b&gt;技能擊退：&lt;/b&gt;
+從399降低為207（-48%）
+💥&lt;b&gt;技能擊退：&lt;/b&gt;
 從2500縮短為2000（-20%）
-**⏱️專屬護衛首次出手速度：**從2秒延長為5秒（+150%）&lt;/p&gt;
+&lt;b&gt;⏱️專屬護衛首次出手速度&lt;/b&gt;：從2秒延長為5秒（+150%）&lt;/p&gt;
 &lt;p&gt;皇家支援的高傷害、大幅擊退效果，還有專屬護衛飛快的首次出手速度，這些都為他增加了太多外在的強度，與小王子的整體設計關係不大。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;進化騎士&lt;/h1&gt;
 
@@ -666,7 +667,8 @@
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥&lt;b&gt;電磁脈衝傷害：&lt;/b&gt;
-從192降低為148（-23%）&lt;/p&gt;&lt;p&gt;⏳&lt;b&gt;電磁脈衝眩暈持續時間：&lt;/b&gt;-50%&lt;/p&gt;
+從192降低為148（-23%）
+⏳&lt;b&gt;電磁脈衝眩暈持續時間：&lt;/b&gt;-50%&lt;/p&gt;
 &lt;p&gt;雖然我們很高興看到進化特斯拉電磁塔的電磁脈衝技能大放異彩，但現在既然它一定會放出第二次脈衝，我們就需要降低衝擊波的強度。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;蠻羊騎士&lt;/h1&gt;
 
@@ -706,7 +708,8 @@
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥&lt;b&gt;傷害：&lt;/b&gt;
-從153降低為112（-27%）🗡️&lt;b&gt;飛刀裝填時間：&lt;/b&gt;-33%&lt;/p&gt;
+從153降低為112（-27%）
+🗡️&lt;b&gt;飛刀裝填時間：&lt;/b&gt;-33%&lt;/p&gt;
 &lt;p&gt;我們原本對飛刀女爵的期望是能有效對抗速轉牌組，但對上高費卡牌時會略顯無力，不過她目前的表現已遠超這個預期。我們希望降低她的最高傷害，同時保持她的最低傷害不變。&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/zh/news/4a4B50NkhDsZBuSRWvuqxz"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
@@ -808,12 +811,10 @@
   </entry>
   <entry>
     <id>3yDGuC3evJTvLhkyaWgtmz</id>
-    <title>系統維護 - 問題修復和平衡性調整</title>
-    <updated>2024-06-19T14:42:05.631000+00:00</updated>
-    <content>&lt;h1&gt;問題修復&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;修復友誼戰經典牌組的卡牌等級，使其符合預期。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復傳奇魔法外卡的文字描述。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復導致鏡像模式友誼戰對戰開始異常的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復玩家卡在活動教學的問題。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h1&gt;平衡性調整&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林機甲：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**火箭傷害：**從588降低為391（-33%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**火箭對皇家塔傷害：**降低50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**火箭攻擊速度：**從3.5秒延長為4秒（+14%）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林詛咒：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**傷害增強效果：**降低30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+    <title>6月19日維護內容：問題修復和平衡性調整</title>
+    <updated>2024-06-21T09:58:24.097000+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;問題修復&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;修復友誼戰經典牌組的卡牌等級，使其符合預期。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復傳奇魔法外卡的文字描述。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復導致鏡像模式友誼戰對戰開始異常的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復玩家卡在活動教學的問題。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;平衡性調整&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林機甲：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;火箭傷害：&lt;/b&gt;從588降低為391（-33%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;火箭對皇家塔傷害：&lt;/b&gt;降低50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;火箭攻擊速度：&lt;/b&gt;從3.5秒延長為4秒（+14%）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;哥布林詛咒：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;傷害增強效果：&lt;/b&gt;降低30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;這些調整將在系統維護後實裝。感謝您的耐心等待，我們對這些問題可能造成的不便深表歉意。&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/zh/news/3yDGuC3evJTvLhkyaWgtmz"/>
