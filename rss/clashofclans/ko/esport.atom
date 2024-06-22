@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-22T19:29:14.397201+00:00</updated>
+  <updated>2024-06-22T20:29:07.769571+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -408,12 +408,21 @@
     <published>2024-06-20T15:58:13+00:00</published>
   </entry>
   <entry>
+    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
+    <title>6월 월별 파이널 1일차 다시보기!</title>
+    <updated>2024-06-22T19:42:19.014000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1TRjj6AYN974nAKNva59ll/6d05c9b53e5cfc2fc8ac6e312c896d58/COC---June-MF-Thumb-16x9_KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/6jevzB8sBYo?si=6J480F8y9bGZ-MeD"/>
+    <category term="e스포츠"/>
+    <published>2024-06-22T17:46:59+00:00</published>
+  </entry>
+  <entry>
     <id>NvyPfVgG7I8Nas97elfyV</id>
     <title>월별 파이널 시청하고 경품 받기! 🎁</title>
-    <updated>2024-06-22T03:25:31.168000+00:00</updated>
+    <updated>2024-06-22T19:49:27.137000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3RUKpN8doIXefWg36UZojW/66fa58a1ceeb2f60861210a1bda063ce/0622_______________Inbox_900x506.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://forms.gle/qVtJQ3C9vJBmRxhu6"/>
     <category term="e스포츠"/>
-    <published>2024-06-21T15:00:00+00:00</published>
+    <published>2024-06-22T19:00:00+00:00</published>
   </entry>
 </feed>
