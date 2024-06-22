@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-eventEntries-ko</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-06-22T14:30:56.881597+00:00</updated>
+  <updated>2024-06-22T15:28:57.670534+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -34,14 +34,5 @@
 &lt;a href="https://youtu.be/lo-Q6E_apoE?si=yMEZBLSOl-QtuKI2"&gt;👉영상 보기!👈&lt;/a&gt; -- &lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/tu0og4AGbhV2bBGq074TK"&gt;👉읽어보기!👈&lt;/a&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/30hcU8AMV66U5BYMY8l91m/73981e2c6479b8a7440545381e20580c/0603_season60_inboxKV__960x764__A.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <published>2024-06-17T10:12:24+00:00</published>
-  </entry>
-  <entry>
-    <id>6C7Cb5YHM7cULuXjUOzcz9</id>
-    <title>🗞️</title>
-    <updated>2024-06-22T11:32:44.313000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://cafe.naver.com/clashroyale/1503187"&gt;👉자세한 내용 확인!👈&lt;/a&gt; -- &lt;a href="https://www.youtube.com/live/cSpK_sOTEmw?si=Eakt2DzlugbyIb9S"&gt;👉시청하기!👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4sSZUAMrTXPhlS2EG4bIc6/63d6065685926025c76d02cce24b4794/0621_____InboxKV_____960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <published>2024-06-22T11:32:44+00:00</published>
   </entry>
 </feed>
