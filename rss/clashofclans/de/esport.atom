@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-esportNewsEntries-de</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-22T17:30:15.059963+00:00</updated>
+  <updated>2024-06-22T18:33:27.559306+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -134,24 +134,6 @@ Dein E-Sports-Team von Clash of Clans&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5OQ7pxi6FZx4h0HGRUKlGB/1dc22c2580c9f5cec68f5eeb32019678/DE_2024_Worlds_Announcement-_Thumbnails.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-Sports"/>
     <published>2024-03-19T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>1J0qz9CjAbvApcTRn2F0LX</id>
-    <title>Wiederholung Tag 1 der Worlds Warmup Finals!</title>
-    <updated>2024-03-26T14:51:25.602000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1iGcno5GHGfXo1fnlrukPS/f5736f9fc25b38ec6110513a95108722/DE_Worlds_Warmup_2024_Playoffs.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/6IcUVTK7CJw?si=0Y85a-JRYM00qzsI&amp;t=542"/>
-    <category term="E-Sports"/>
-    <published>2024-03-24T17:28:43+00:00</published>
-  </entry>
-  <entry>
-    <id>14kmf8VIUrxu2USIeQhauv</id>
-    <title>Wiederholung - Worlds Warmup Finale!</title>
-    <updated>2024-03-25T16:57:40.660000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4epIb9ce8EU6hfj1ongFj9/d387b68150df5b4939f1eb1d33f46473/DE_Worlds_Warmup_2024_Finale.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/5LAyrN3_QEM?si=WSP9Ey0qS5fiTJ88&amp;t=282"/>
-    <category term="E-Sports"/>
-    <published>2024-03-24T17:30:36+00:00</published>
   </entry>
   <entry>
     <id>5iS0cgaQurMHESABoYIOrj</id>

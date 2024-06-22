@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-22T17:30:15.490708+00:00</updated>
+  <updated>2024-06-22T18:33:20.309951+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -102,24 +102,6 @@ Participation Criteria: All Players had to be at least +16years old and reside i
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5Aq30zHUBYhDuNZ3oFKc9i/988d4da73bc69709b272f4b351bd82a6/2024_Worlds_Announcement-_Thumbnails.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-03-19T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>1J0qz9CjAbvApcTRn2F0LX</id>
-    <title>Rewatch Day 1 of the Worlds Warmup Finals!</title>
-    <updated>2024-03-26T14:51:25.602000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5UVgV0dF23n1muXd07QamA/d69667dbe220db90e08fabab6c0faf90/00_Thumbnails_CoC_Worlds_Warmup_2024_-_16x9__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/Cy6DPJoj_TY?si=1_I3mDV0HF6Rfze7&amp;t=334"/>
-    <category term="Esports"/>
-    <published>2024-03-24T17:28:43+00:00</published>
-  </entry>
-  <entry>
-    <id>14kmf8VIUrxu2USIeQhauv</id>
-    <title>Rewatch the Worlds Warmup Finals!</title>
-    <updated>2024-03-25T16:57:40.660000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/55HvMS1afuaS2bTOly6BWP/c4b7ecd94bd0b296b3ef1e4d99c39a12/00_Thumbnails_CoC_Worlds_Warmup_2024_-_Playoffs_Day_2__1___1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/Yobd97aPSj0?si=UPjFGaX9Y0-w3qgG&amp;t=391"/>
-    <category term="Esports"/>
-    <published>2024-03-24T17:30:36+00:00</published>
   </entry>
   <entry>
     <id>5iS0cgaQurMHESABoYIOrj</id>
@@ -401,5 +383,14 @@ Millesime MG and Tribe Gaming will receive a bye in Upper Bracket Round 1, immed
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4WCtShXtErsT915ZygyaGc/036a27269045b31e5f5eae954c4366b4/COC_-_June_MF_AYNTK_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-06-20T15:58:13+00:00</published>
+  </entry>
+  <entry>
+    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
+    <title>Rewatch Day 1 of the June Monthly Finals!</title>
+    <updated>2024-06-22T17:46:59.086000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7orIKobkxR8OqFEMnfyV8Z/1dc337839dc92a090d207dc168aaccc1/COC_-_June_MF_Thumb_Day_1_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/KNGMKcPL7FI?si=h7m2Y1ANfWEX8KZU&amp;t=1212"/>
+    <category term="Esports"/>
+    <published>2024-06-22T17:46:59+00:00</published>
   </entry>
 </feed>
