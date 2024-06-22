@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-22T16:35:12.908367+00:00</updated>
+  <updated>2024-06-22T17:30:08.804635+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -163,5 +163,15 @@ R: &lt;/b&gt;A nova atualização acabou de chegar com um novo balanceamento. Ai
     <link href="https://make.supercell.com/en/campaign/6ZDfe85oawwxoLcQNHeTAy"/>
     <category term="Comunidade"/>
     <published>2024-06-11T09:37:39+00:00</published>
+  </entry>
+  <entry>
+    <id>6UOQGHizyGRzEiXThRGV3a</id>
+    <title>O Brawl Talk dublado está de volta!</title>
+    <updated>2024-06-22T16:35:52.967000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/6UOQGHizyGRzEiXThRGV3a"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3BCIPMVzJVwvsE6yqT5P0m/a015adc0f16422d8838e99a4b3bae546/Picsart_24-06-22_11-25-47-835.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/7JGf4l4lQqE"/>
+    <category term="Comunidade"/>
+    <published>2024-06-22T16:35:52+00:00</published>
   </entry>
 </feed>
