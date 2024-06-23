@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-23T09:28:59.771389+00:00</updated>
+  <updated>2024-06-23T10:32:48.382553+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -393,5 +393,14 @@ Et n&amp;#39;oublions pas les $$$...&lt;/p&gt;
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2XXN2Lhg5LwI14jNoPZsma/121a8efc3e221d4964944458e7cde7e6/FR_COC---June-MF-AYNTK-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sport"/>
     <published>2024-06-20T15:58:13+00:00</published>
+  </entry>
+  <entry>
+    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
+    <title>Re-Regardez le Jour 1 des Finales Mensuelles de Juin</title>
+    <updated>2024-06-23T10:23:55.297000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7cO21y8YX7tIgBGx9c0tI/7c86a51a78d66eb9828ad81a15688107/FR_COC---June-MF-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/KNGMKcPL7FI?si=h7m2Y1ANfWEX8KZU&amp;t=1212"/>
+    <category term="E-sport"/>
+    <published>2024-06-22T17:46:59+00:00</published>
   </entry>
 </feed>
