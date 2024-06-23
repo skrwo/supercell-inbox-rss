@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-06-23T15:29:50.801598+00:00</updated>
+  <updated>2024-06-23T16:33:36.860142+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -292,5 +292,16 @@ Domingo: aceleração da produção em 20% de 3 prédios aleatórios + evento de
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-06-17T09:41:59+00:00</published>
+  </entry>
+  <entry>
+    <id>6bEiMooISVIs6VjlVfExqV</id>
+    <title>Semana 26 de eventos do Hay Day</title>
+    <updated>2024-06-23T16:32:43.154000+00:00</updated>
+    <content>&lt;h1&gt;Semana 26 de eventos do Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Outra semana repleta de eventos começou. Esperamos que esteja aproveitando as comemorações do nosso aniversário! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com materiais de expansão.&lt;/p&gt;&lt;p&gt;Terça-feira: vales com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Quarta-feira: dobro de moedas com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;Quinta-feira: dobro de moedas com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;Sexta-feira: aceleração da produção em 30% do tanque de lagostas e balcão de iscas e dobro de pontos no passe rural.&lt;/p&gt;&lt;p&gt;Sábado: visitantes da cidade com materiais de expansão.&lt;/p&gt;&lt;p&gt;Domingo: dobro de XP com os pedidos do caminhão e 3 tipos de árvores ou arbustos aleatórios produzirão frutos com o dobro de velocidade.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/6bEiMooISVIs6VjlVfExqV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notícias"/>
+    <published>2024-06-23T16:31:23+00:00</published>
   </entry>
 </feed>

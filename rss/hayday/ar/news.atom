@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-06-23T15:29:39.811763+00:00</updated>
+  <updated>2024-06-23T16:33:36.959343+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -260,5 +260,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أخبار"/>
     <published>2024-06-17T09:41:59+00:00</published>
+  </entry>
+  <entry>
+    <id>6bEiMooISVIs6VjlVfExqV</id>
+    <title>الأسبوع 26 من أحداث Hay Day</title>
+    <updated>2024-06-23T16:32:43.154000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 26 من أحداث Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! نتمنى أن تكون مستمتعًا باحتفالات عيد ميلاد اللعبة حتى الآن! تبدأ كل الأحداث في الساعة 8 ص بتوقيت جرينتش. اطلع على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;الإثنين: تدوير العجلة: (مواد توسعة)&lt;/p&gt;&lt;p&gt;الثلاثاء: حدث الشاحنة (القسائم)&lt;/p&gt;&lt;p&gt;الأربعاء: حدث زوار البلدة (ضعف العملات)&lt;/p&gt;&lt;p&gt;الخميس: حدث زوار المزرعة (ضعف العملات)&lt;/p&gt;&lt;p&gt;الجمعة: حدث تعزيز إنتاجية الصيد (سرطان البحر والطعوم 30%) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;السبت: حدث زوار البلدة (مواد توسعة)&lt;/p&gt;&lt;p&gt;الأحد: حدث الشاحنة (ضعف الخبرة) + تعزيز الفاكهة (ستنتج 3 أنواع عشوائية من الأشجار أو الشجيرات الفاكهة بسرعة مضاعفة)&lt;/p&gt;&lt;p&gt;نتمنى لك قضاء أسبوع ممتع!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/6bEiMooISVIs6VjlVfExqV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أخبار"/>
+    <published>2024-06-23T16:31:23+00:00</published>
   </entry>
 </feed>

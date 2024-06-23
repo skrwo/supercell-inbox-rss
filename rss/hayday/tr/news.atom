@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-06-23T15:29:46.072737+00:00</updated>
+  <updated>2024-06-23T16:33:37.220564+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -281,5 +281,16 @@ Pazar: Üretim Binası Hızlandırma Etkinliği (rastgele üç bina, %20 hızlan
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Haberler"/>
     <published>2024-06-17T09:41:59+00:00</published>
+  </entry>
+  <entry>
+    <id>6bEiMooISVIs6VjlVfExqV</id>
+    <title>Hay Day Etkinlikleri 26. Hafta!</title>
+    <updated>2024-06-23T16:32:43.154000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Etkinlikleri 26. Hafta!&lt;/h1&gt;
+&lt;p&gt;Merhaba çiftçiler! Umarız doğum günü kutlamaları eğlenceli geçiyordur. Etkinliklerle dolu bir hafta daha başlıyor! Tüm etkinlikler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;Pazartesi: Çarkıfelek Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;Salı: Kamyon Etkinliği (hediye çekleri)&lt;/p&gt;&lt;p&gt;Çarşamba: Kasaba Ziyaretçileri Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Perşembe: Çiftlik Ziyaretçileri Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Cuma: Balıkçılık Hızlandırma Etkinliği (ıstakozlar ve yemler %30) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;Cumartesi: Kasaba Ziyaretçileri Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;Pazar: Kamyon Etkinliği (iki kat TP) + Meyve Üretimi Hızlandırması (rastgele üç ağaç veya çalı türü iki kat hızlı meyve verir)&lt;/p&gt;&lt;p&gt;Harika bir hafta dileriz!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/6bEiMooISVIs6VjlVfExqV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Haberler"/>
+    <published>2024-06-23T16:31:23+00:00</published>
   </entry>
 </feed>
