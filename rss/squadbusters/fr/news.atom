@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>squadbusters-newsEntries-fr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-23T18:32:27.707257+00:00</updated>
+  <updated>2024-06-23T19:29:13.850893+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -119,9 +119,9 @@
     <published>2024-06-14T20:00:40+00:00</published>
   </entry>
   <entry>
-    <id>6YHiDc8klGYDndf3xTaDPD</id>
+    <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>Notes de patch de la mise à jour de juin</title>
-    <updated>2024-06-18T05:05:20.802000+00:00</updated>
+    <updated>2024-06-23T19:03:06.625000+00:00</updated>
     <content>&lt;h1&gt;LE MONDE GIVRE EST LÀ ❄️&lt;/h1&gt;
 &lt;p&gt;Bataille de boules de neige ! Combattez avec les cartes et les mods du monde Givre et éliminez des esprits de glace pour débloquer les nouveaux persos !&lt;/p&gt;&lt;p&gt;Tous les joueurs ayant atteint le monde Désert &lt;b&gt;pourront jouer dans le monde Givre pendant une semaine et commencer à débloquer les nouveaux persos&lt;/b&gt; !&lt;/p&gt;&lt;p&gt;Dès le début de l&amp;#39;événement, un esprit de glace viendra visiter votre Plaza. Commencez à éliminer des esprits de glace au combat pour gagner des coffres, y compris des coffres de glace qui &lt;b&gt;renferment obligatoirement des persos du monde Givre&lt;/b&gt;.&lt;/p&gt;
 &lt;h1&gt;Persos du monde Givre ☃️&lt;/h1&gt;
@@ -129,12 +129,15 @@
 &lt;h1&gt;JESSIE&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6hmiajJnFwo5PSE2CyMZHn/5822e3bcb67d8f4136f6db806f1ac0b7/jessie.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Construit des tourelles sur les coffres ouverts et tire de puissants orbes !&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Rareté : rare&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Évolutions :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;P&amp;#39;tit&lt;/b&gt; : construit une tourelle après avoir ouvert un coffre.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Classique&lt;/b&gt; : les tirs de Jessie rebondissent vers un ennemi proche.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super&lt;/b&gt; : donne le sort Tourelle.* &lt;b&gt;Sort Tourelle&lt;/b&gt; : une tourelle canarde rapidement vos ennemis !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra&lt;/b&gt; : les tourelles tirent beaucoup plus vite.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;SORCIER DE GLACE&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6ISDulibFUoCVWAHU4L13x/9d182fdc92e4da2a709bf3ff59bf7718/ice_wizard.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Donne le sort Gel extrême et gèle vos ennemis avec des rayons de glace.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Rareté : rare&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Évolutions :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;P&amp;#39;tit&lt;/b&gt; : donne le sort Gel extrême.* &lt;b&gt;Sort Gel extrême&lt;/b&gt; : ralentit les ennemis plus longtemps dans un blizzard encore plus gros !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Classique&lt;/b&gt; : lance des éclats de gel après 6 attaques.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super&lt;/b&gt; : transforme les sorts de gel en sorts Gel extrême.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra&lt;/b&gt; : les éclats de gel chargent beaucoup plus rapidement.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;DR T.&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1tEg0cPtyRfrbcK1168D39/cea4cc4946bef9f760ae06492c3dc92c/dr_t.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Dr T. est prêt à lâcher son méga crabe, mais seulement quand vous aurez assez de pièces ! Le méga crabe évolue ensuite en même temps que Dr T., ce qui augmente sa santé, ses dégâts et sa vitesse d&amp;#39;attaque.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Rareté : épique&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Évolutions :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;P&amp;#39;tit&lt;/b&gt; : obtenez 10 pièces pour déployer ou booster son méga crabe.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Classique&lt;/b&gt; : déploie le méga crabe V2.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super&lt;/b&gt; : déploie le méga crabe V3.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra&lt;/b&gt; : déploie le méga crabe V4.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Mods du monde Givre 🧊&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super esprits de glace&lt;/b&gt; : la carte fourmille d&amp;#39;esprits de glace géants.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Météorites golem&lt;/b&gt; : des golems remplis de gemmes tombent du ciel.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Coffres à 1 pièce&lt;/b&gt; : tous les coffres coûtent seulement une pièce.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Chaudrons de gemmes&lt;/b&gt; : des chaudrons de gemmes déversent un max de gemmes pour la première squad arrivée.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1GpY8qnYy0DB40qsqMzDyA/7a1ac48651df290a4e0e2765ca4a86c4/ice-banner.jpg?w=3840&amp;h=576&amp;f=center&amp;fit=fill"&gt;
@@ -142,6 +145,7 @@
 &lt;p&gt;&lt;b&gt;À partir de juillet,&lt;/b&gt; vous pourrez débloquer &lt;b&gt;la VOLEUSE&lt;/b&gt; dans un événement spécial !&lt;/p&gt;&lt;p&gt;Surveillez l&amp;#39;apparition de la voleuse sur votre Plaza pour avoir une chance de la débloquer ! L&amp;#39;événement sera disponible pour les joueurs ayant atteint le monde Désert.&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2gl0h736zyBEzSk1eZkfHM/12aa18594a1e5368c0d9cd8516d2bea9/bandit.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Les capacités de la voleuse sont axées sur les gemmes, et elle vous en donne dès que vous la choisissez dans un coffre.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Rareté : rare&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Évolutions :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;P&amp;#39;tit&lt;/b&gt; : donne 7 gemmes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Classique&lt;/b&gt; : donne 1 gemme à chaque gros monstre éliminé.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super&lt;/b&gt; : les gemmes reçues passent à 10.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra&lt;/b&gt; : les gemmes reçues passent à 2 en éliminant des gros monstres.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;LES SKINS DÉBARQUENT 👕&lt;/h1&gt;
 &lt;p&gt;Vous pouvez désormais changer l&amp;#39;apparence de vos persos en équipant un &lt;b&gt;SKIN&lt;/b&gt;. Un tas de nouveaux skins arriveront dans le magasin dans les prochaines semaines :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mavis guide de visite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Roi des barbares origami&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sorcier survêt&amp;#39;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sorcière kimono&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gobelin ninja&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2DNUH0iay14rG4mSakm4g5/0f81205c911e6317a55e67e76feaae36/skins_banner.png?w=1500&amp;h=300&amp;f=center&amp;fit=fill"&gt;
@@ -165,8 +169,8 @@
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;Le &lt;b&gt;barbare&lt;/b&gt; a plus de santé, pour l&amp;#39;aider à montrer comme il manie bien son épée.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Dynamike&lt;/b&gt; fait plus de dégâts pour pouvoir faire face à des adversaires plus résistants.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les abeilles de &lt;b&gt;Béa&lt;/b&gt; durent plus longtemps et celles de &lt;b&gt;Super Béa&lt;/b&gt; restent avec elle pour toute la durée du combat.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Penny&lt;/b&gt; obtient beaucoup plus de butin dans les trésors cachés pour que les trouver vaille davantage la peine.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le &lt;b&gt;coffre méchant&lt;/b&gt; a moins de santé, le rendant plus facile à ouvrir pour récupérer son butin.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vous avez maintenant plus de chances de trouver les sorts &lt;b&gt;Fournaise&lt;/b&gt; et &lt;b&gt;Rétrécissement&lt;/b&gt; au combat.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les &lt;b&gt;sorts de gel&lt;/b&gt; ralentissent davantage les squads ennemies, même en plein turbo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les &lt;b&gt;super boss&lt;/b&gt; de certains mods lâchent maintenant plus de &lt;b&gt;marteaux&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Autres améliorations et corrections 🔎&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Vous gagnez maintenant de l&amp;#39;énergie de portail&lt;/b&gt; juste en faisant des combats.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Les tickets de coffre uniques coûtent désormais moins de pièces, et vous pouvez en acheter plus d&amp;#39;un coup.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Si vous obtenez un perso déjà évolué au maximum dans un coffre,il sera converti en énergie de portail ou en EXP, plutôt que d&amp;#39;être ignoré.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Si une squad est éliminée en ouvrant un coffre, ce coffre réapparaîtra malgré tout au combat.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les pierres tombales n&amp;#39;empêchent plus les tanks, les essaims et les autres éléments de la carte d&amp;#39;apparaître.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction de l&amp;#39;échange de sorts du sorcier classique, qui faisait parfois lancer le sort accidentellement.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Améliorations diverses et corrections de l&amp;#39;observation des combats.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/6YHiDc8klGYDndf3xTaDPD"/>
+    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/34AZtN6rOayQ2EXQEPC6N0"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KM1CwSuDPQ26ItWqmyGTf/46d510fc200aeba9cbe15d5f5cea1260/beachbarb_1920x1080.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <published>2024-06-17T05:00:00+00:00</published>
+    <published>2024-06-16T21:00:00+00:00</published>
   </entry>
 </feed>

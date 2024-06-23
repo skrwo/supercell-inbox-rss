@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-23T18:32:27.463492+00:00</updated>
+  <updated>2024-06-23T19:29:13.689593+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -130,9 +130,9 @@
     <published>2024-06-14T20:00:40+00:00</published>
   </entry>
   <entry>
-    <id>6YHiDc8klGYDndf3xTaDPD</id>
+    <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>Notas da atualização de junho</title>
-    <updated>2024-06-18T05:05:20.802000+00:00</updated>
+    <updated>2024-06-23T19:03:06.625000+00:00</updated>
     <content>&lt;h1&gt;O MUNDO CONGELADO CHEGOU ❄️&lt;/h1&gt;
 &lt;p&gt;É uma festa no gelo! Jogue com os mapas e modificadores do Mundo Congelado e derrote Espíritos de Gelo para ganhar personagens exclusivos dessa nova área!&lt;/p&gt;&lt;p&gt;Os jogadores que já chegaram ao Mundo Desértico &lt;b&gt;vão poder jogar no Mundo Congelado por uma semana e começar a desbloquear os novos personagens&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;Quando o evento começar, um Espírito de Gelo vai visitar a sua praça. Derrote esses danadinhos em batalhas para ganhar muitos baús de recompensa, inclusive baús de gelo, que &lt;b&gt;sempre concedem personagens do Mundo Congelado&lt;/b&gt;.&lt;/p&gt;
 &lt;h1&gt;Personagens do Mundo Congelado ☃️&lt;/h1&gt;
@@ -140,12 +140,15 @@
 &lt;h1&gt;JESSIE&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6hmiajJnFwo5PSE2CyMZHn/5822e3bcb67d8f4136f6db806f1ac0b7/jessie.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Constrói torretas ao abrir baús e carrega um rifle que dispara energia!&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Raridade: rara&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Evoluções:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bebê&lt;/b&gt;: constrói uma torreta depois de abrir um baú.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Clássico&lt;/b&gt;: os disparos de Jessie ricocheteiam para um alvo próximo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super&lt;/b&gt;: disponibiliza um feitiço de torreta.* &lt;b&gt;Feitiço de torreta&lt;/b&gt;: irrita os inimigos com uma torreta de disparo rápido!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra&lt;/b&gt;: as torretas disparam com muito mais rapidez.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;MAGO DE GELO&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6ISDulibFUoCVWAHU4L13x/9d182fdc92e4da2a709bf3ff59bf7718/ice_wizard.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Disponibiliza o superfeitiço de gelo e congela inimigos com rajadas de gelo.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Raridade: rara&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Evoluções:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bebê&lt;/b&gt;: disponibiliza um superfeitiço de gelo.* &lt;b&gt;Superfeitiço de gelo&lt;/b&gt;: desacelera inimigos por mais tempo numa área maior!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Clássico&lt;/b&gt;: lança uma rajada de gelo depois de 6 ataques.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super&lt;/b&gt;: feitiços de gelo viram superfeitiços de gelo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra&lt;/b&gt;: a rajada de gelo é carregada com muito mais rapidez.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Dr. T&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1tEg0cPtyRfrbcK1168D39/cea4cc4946bef9f760ae06492c3dc92c/dr_t.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;O Dr. T está pronto para liberar o seu terrível Megacaranguejo, mas só depois de você coletar moedas suficientes! O Megacaranguejo evolui junto do Dr. T, recebendo mais saúde, dano e velocidade de ataque.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Raridade: épica&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Evoluções:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bebê&lt;/b&gt;: consiga 10 moedas para mobilizar ou acelerar o Megacaranguejo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Clássico&lt;/b&gt;: mobiliza o Megacaranguejo 2.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super&lt;/b&gt;: mobiliza o Megacaranguejo 3.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra&lt;/b&gt;: mobiliza o Megacaranguejo 4.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Modificadores do Mundo Congelado 🧊&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Superespíritos de Gelo&lt;/b&gt;: Espíritos de Gelo gigantes pulam por todas as partes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Meteoros de Golem&lt;/b&gt;: Golens cobertos de gemas caem do céu.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Baú por 1 moeda&lt;/b&gt;: todos os baús custam apenas 1 moeda.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Caldeirão de gemas&lt;/b&gt;: caldeirões de gemas derrubam uma grande quantidade de gemas, mas só para o primeiro esquadrão a chegar.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1GpY8qnYy0DB40qsqMzDyA/7a1ac48651df290a4e0e2765ca4a86c4/ice-banner.jpg?w=3840&amp;h=576&amp;f=center&amp;fit=fill"&gt;
@@ -153,6 +156,7 @@
 &lt;p&gt;&lt;b&gt;A partir de julho&lt;/b&gt;, você poderá desbloquear a &lt;b&gt;BANDIDA&lt;/b&gt; num evento especial!&lt;/p&gt;&lt;p&gt;Fique de olho na praça para desbloquear a Bandida. Ela pode aparecer a qualquer momento! O evento fica disponível para quem já atingiu o Mundo Desértico.&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2gl0h736zyBEzSk1eZkfHM/12aa18594a1e5368c0d9cd8516d2bea9/bandit.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;As habilidades da Bandida são focadas em gemas, que você recebe em grandes quantidades assim que ela sair de um baú.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Raridade: rara&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Evoluções:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bebê&lt;/b&gt;: dá 7 gemas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Clássico&lt;/b&gt;: dá 1 gema ao derrotar monstros gigantes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super&lt;/b&gt;: aumenta a quantidade de gemas obtidas para 10.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra&lt;/b&gt;: aumenta a quantidade de gemas obtidas ao derrotar monstros grandes para 2.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;OS VISUAIS ESTÃO AQUI 👕&lt;/h1&gt;
 &lt;p&gt;Agora você pode equipar &lt;b&gt;VISUAIS&lt;/b&gt; para mudar a aparência dos seus personagens. Nas próximas semanas, você encontrará vários visuais inéditos na loja:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mavis Guia Turística (visual para a Mavis).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Rei do Origami (visual para o Rei Bárbaro).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mago de Rua (visual para o Mago).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gueixa (visual para a Bruxa).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ninja (visual para o Goblin).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2DNUH0iay14rG4mSakm4g5/0f81205c911e6317a55e67e76feaae36/skins_banner.png?w=1500&amp;h=300&amp;f=center&amp;fit=fill"&gt;
@@ -176,8 +180,8 @@
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;O &lt;b&gt;Bárbaro&lt;/b&gt; tem mais saúde para exibir as suas habilidades com a espada.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O &lt;b&gt;Dynamike&lt;/b&gt; tem mais dano para bater de frente com adversários com mais saúde.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As abelhas da &lt;b&gt;Bea&lt;/b&gt; duram mais, e as abelhas da &lt;b&gt;Super Bea&lt;/b&gt; permanecem com a personagem durante toda a batalha.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A &lt;b&gt;Penny&lt;/b&gt; agora encontra muito mais recursos nos tesouros escondidos para garantir que os seus achados valham a pena.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O &lt;b&gt;Baú Perigoso&lt;/b&gt; tem menos vida para facilitar a obtenção dos recursos que ele protege.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As chances de encontrar os feitiços &lt;b&gt;Fornalha&lt;/b&gt; e &lt;b&gt;Redução&lt;/b&gt; nas batalhas foram aumentadas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A desaceleração causada pelos &lt;b&gt;feitiços de gelo&lt;/b&gt; é mais eficiente, mesmo durante a utilização do turbo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Os &lt;b&gt;superchefões&lt;/b&gt; de alguns modificadores de batalha geram mais &lt;b&gt;martelos&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Outras melhorias e correções 🔎&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Agora é possível obter energia de portal&lt;/b&gt; só de participar das batalhas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Uma unidade de vale-baú custa menos moedas e é possível comprar os vales em lotes maiores&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Os baús de recompensas agora convertem personagens maximizados em energia de portal ou XP, em vez de apenas ignorarem a recompensa.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Os baús continuam sendo gerados no mapa caso uma equipe seja abatida durante a sua abertura.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As lápides não bloqueiam a geração de tanques, colmeias e outros itens no mapa.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigimos o erro que permitia que um feitiço fosse acidentalmente lançado ao trocar de feitiços com o Mago clássico.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Diversas melhorias e correções para o modo espectador de batalhas.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/6YHiDc8klGYDndf3xTaDPD"/>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/34AZtN6rOayQ2EXQEPC6N0"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KM1CwSuDPQ26ItWqmyGTf/46d510fc200aeba9cbe15d5f5cea1260/beachbarb_1920x1080.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <published>2024-06-17T05:00:00+00:00</published>
+    <published>2024-06-16T21:00:00+00:00</published>
   </entry>
 </feed>

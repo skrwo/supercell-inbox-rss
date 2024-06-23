@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-newsEntries-de</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-23T18:32:27.600423+00:00</updated>
+  <updated>2024-06-23T19:29:12.579348+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -134,9 +134,9 @@ WARTUNGSARBEITEN – 24. MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Fehlerbehebungen z
     <published>2024-06-14T20:00:40+00:00</published>
   </entry>
   <entry>
-    <id>6YHiDc8klGYDndf3xTaDPD</id>
+    <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>Anmerkungen zum Patch im Juni-Update</title>
-    <updated>2024-06-18T05:05:20.802000+00:00</updated>
+    <updated>2024-06-23T19:03:06.625000+00:00</updated>
     <content>&lt;h1&gt;DIE EISWELT IST DA ❄️&lt;/h1&gt;
 &lt;p&gt;Es ist ein Fest auf dem Eis! Spiele die Maps der Eiswelt sowie Kampfmods und buste Eisgeister, um neue Charaktere der Eiswelt zu verdienen!&lt;/p&gt;&lt;p&gt;Alle Spieler, die die Wüstenwelt erreicht haben, &lt;b&gt;können eine Woche lang in der Eiswelt spielen und die neuen Charaktere freischalten!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Mit Beginn des Ereignisses wirst du einen Eisgeist auf deiner Plaza vorfinden. Buste Eisgeister in Kämpfen, um viele Belohnungstruhen zu verdienen. Darunter sind auch Eistruhen, die &lt;b&gt;Eiswelt-Charaktere garantieren&lt;/b&gt;.&lt;/p&gt;
 &lt;h1&gt;Eiswelt-Charaktere ☃️&lt;/h1&gt;
@@ -144,12 +144,15 @@ WARTUNGSARBEITEN – 24. MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Fehlerbehebungen z
 &lt;h1&gt;JESSIE&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6hmiajJnFwo5PSE2CyMZHn/5822e3bcb67d8f4136f6db806f1ac0b7/jessie.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Baut Geschütztürme auf geöffneten Truhen und hat einen mächtigen Kugelwerfer dabei!&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Seltenheit: selten&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Entwicklungen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mini:&lt;/b&gt; Baut nach Öffnen einer Truhe einen Geschützturm.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Klassisch:&lt;/b&gt; Jessies Schüsse prallen auf ein Ziel in der Nähe ab&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super:&lt;/b&gt; Gewährt einen Geschützturmzauber.* &lt;b&gt;Geschützturmzauber:&lt;/b&gt; Empfange deine Feinde mit einem Schnellfeuer-Geschützturm!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra:&lt;/b&gt; Geschütztürme schießen weitaus schneller.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;EISMAGIER&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6ISDulibFUoCVWAHU4L13x/9d182fdc92e4da2a709bf3ff59bf7718/ice_wizard.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Gewährt einen Superfrostzauber und lässt Feinde mit frostigen Eisblitzen bibbern.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Seltenheit: selten&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Entwicklungen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mini:&lt;/b&gt; Gewährt einen Superfrostzauber.* &lt;b&gt;Superfrostzauber:&lt;/b&gt; Verlangsamt Feinde für eine längere Zeit mit einem noch größeren Eissturm!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Klassisch:&lt;/b&gt; Schleudert nach sechs Angriffen einen Eisfächer.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super:&lt;/b&gt; Frostzauber werden zu Superfrostzaubern.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra:&lt;/b&gt; Der Eisfächer lädt sich viel schneller auf.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Dr. T&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1tEg0cPtyRfrbcK1168D39/cea4cc4946bef9f760ae06492c3dc92c/dr_t.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Dr. T ist bereit, seinen berüchtigten Megakrebs zu entfesseln, sobald du ausreichend Münzen gesammelt hast! Der Megakrebs entwickelt sich gemeinsam mit Dr. T und erhöht dadurch seine Trefferpunkte, Schaden und Angriffstempo.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Seltenheit: episch&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Entwicklungen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mini:&lt;/b&gt; Megakrebs-Einsatz oder -Schub nach dem Sammeln von 10 Münzen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Klassisch:&lt;/b&gt; Einsatz vom Megakrebs Mk. 2.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super:&lt;/b&gt; Einsatz vom Megakrebs Mk. 3.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra:&lt;/b&gt; Einsatz vom Megakrebs Mk. 4.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Eiswelt-Kampfmods 🧊&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super-Eisgeister:&lt;/b&gt; Riesige Eisgeister springen auf der Map herum.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Golem-Meteore:&lt;/b&gt; Lässt viele mit Juwelen besetzte Golems vom Himmel regnen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Truhen für 1 Münze:&lt;/b&gt; Alle Truhen kosten nur eine Münze.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Juwelentöpfe:&lt;/b&gt; Juwelentöpfe, die riesige Juwelenmengen an den Squad ausschütten, der sie sich zuerst schnappt.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1GpY8qnYy0DB40qsqMzDyA/7a1ac48651df290a4e0e2765ca4a86c4/ice-banner.jpg?w=3840&amp;h=576&amp;f=center&amp;fit=fill"&gt;
@@ -157,6 +160,7 @@ WARTUNGSARBEITEN – 24. MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Fehlerbehebungen z
 &lt;p&gt;&lt;b&gt;Ab Juli&lt;/b&gt; kannst du &lt;b&gt;DIE BANDITIN&lt;/b&gt; in einem Sonderereignis freischalten!&lt;/p&gt;&lt;p&gt;Für die Chance, die Banditin freizuschalten, halte auf deiner Plaza Ausschau nach ihr! Das Ereignis wird für Spieler verfügbar sein, die die Wüstenwelt erreicht haben.&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2gl0h736zyBEzSk1eZkfHM/12aa18594a1e5368c0d9cd8516d2bea9/bandit.png?w=300&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Bei den Fähigkeiten der Banditin dreht sich alles um Juwelen – von denen du eine Menge erhältst, sobald du sie in einer Truhe findest.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Seltenheit: selten&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Entwicklungen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mini:&lt;/b&gt; Gewährt 7 Juwelen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Klassisch:&lt;/b&gt; Gewährt 1 Juwel fürs Busten großer Monster.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super:&lt;/b&gt; Erhöht die Anzahl gewährter Juwelen auf 10.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra:&lt;/b&gt; Erhöht die Anzahl gewährter Juwelen fürs Busten großer Monster auf 2.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;SKINS SIND EINGETROFFEN 👕&lt;/h1&gt;
 &lt;p&gt;Verändere jetzt das Aussehen deiner Charaktere mit einem &lt;b&gt;SKIN&lt;/b&gt;! In den kommenden Wochen wird es eine Reihe neuer Skins im Shop geben:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Tourguide-Mavis&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Origami-Barbarenkönig&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Straßenzauberei-Magier&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kimono-Hexe&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ninja-Kobold&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2DNUH0iay14rG4mSakm4g5/0f81205c911e6317a55e67e76feaae36/skins_banner.png?w=1500&amp;h=300&amp;f=center&amp;fit=fill"&gt;
@@ -180,8 +184,8 @@ WARTUNGSARBEITEN – 24. MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Fehlerbehebungen z
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;Der &lt;b&gt;Barbar&lt;/b&gt; erhält mehr Trefferpunkte, sodass er seine Schwertkampf-Künste besser zur Geltung bringen kann.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Dynamike&lt;/b&gt; verfügt über verbesserten Schaden, um mit Feinden mit höherer Trefferpunktzahl mithalten zu können.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Beas&lt;/b&gt; Bienen wirken jetzt länger, und die der &lt;b&gt;Super-Bea&lt;/b&gt; bleiben während des gesamten Kampfes bei ihr.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Penny&lt;/b&gt; findet viel mehr Beute aus versteckten Schätzen, sodass sich ihr Reichtum bezahlt macht.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Truhenbedrohung&lt;/b&gt; hat weniger Trefferpunkte, was es einfacher macht, an die Beute zu gelangen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Der &lt;b&gt;Ofenzauber&lt;/b&gt; und der &lt;b&gt;Schrumpfzauber&lt;/b&gt; sind nun häufiger im Kampf zu finden.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Frostzauber&lt;/b&gt; haben jetzt eine effektivere Verlangsamung – auch während eines Turbos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Superbosse&lt;/b&gt; aus bestimmten Kampfmods gewähren jetzt mehr &lt;b&gt;Hämmer&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Weitere Verbesserungen und Fehlerbehebungen 🔎&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Du kannst jetzt Portalenergie verdienen&lt;/b&gt;, indem du einfach Kämpfe spielst.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Einzelne Truhentickets kosten nun weniger Münzen und können in größeren Stapeln gekauft werden.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Belohnungstruhen&lt;/b&gt; wandeln nun maximierte Charaktere in Portalenergie oder EP um, anstatt übersprungen zu werden.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Truhen verschwinden nun nicht dauerhaft im Kampf, wenn ein Squad beim Öffnen der Truhe gebustet wird.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Grabsteine blockieren nicht mehr das Erscheinen von Panzern, Nestern und anderen Gegenständen der Map.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde behoben, dass beim Zaubertausch mit dem klassischen Magier manchmal versehentlich ein Zauber gewirkt wurde.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Verschiedene Verbesserungen und Fehlerbehebungen für das Zuschauererlebnis bei Kämpfen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/#/de/news/6YHiDc8klGYDndf3xTaDPD"/>
+    <link href="https://squadbusters.inbox.supercell.com/#/de/news/34AZtN6rOayQ2EXQEPC6N0"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KM1CwSuDPQ26ItWqmyGTf/46d510fc200aeba9cbe15d5f5cea1260/beachbarb_1920x1080.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <published>2024-06-17T05:00:00+00:00</published>
+    <published>2024-06-16T21:00:00+00:00</published>
   </entry>
 </feed>
