@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-23T06:34:56.475223+00:00</updated>
+  <updated>2024-06-23T07:29:12.106498+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -256,5 +256,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3LMSwnX5SGAfvGsKybGaA3/c6a100e9a7deb2784a93f52fddeb1b51/20240607_SQU_TW_friend_recruitment_CP_inbox__2_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-06-18T02:55:52+00:00</published>
+  </entry>
+  <entry>
+    <id>McofO2t2n9QV1LaeVL3no</id>
+    <title>ドズル社が動画内でスクバス最強初心者を決定！！？</title>
+    <updated>2024-06-23T07:00:56.447000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/McofO2t2n9QV1LaeVL3no"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nyAAsoyRYe2v29oKIhSae/f2c76cfa4a1f0bf8203aa6d576ec07bc/1.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ZJAZp9LV4tU"/>
+    <category term="ビデオ"/>
+    <published>2024-06-23T07:00:52+00:00</published>
   </entry>
 </feed>
