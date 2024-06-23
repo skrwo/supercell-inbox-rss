@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-esportNewsEntries-de</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-23T10:32:47.448033+00:00</updated>
+  <updated>2024-06-23T11:29:10.355911+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -381,5 +381,14 @@ Millesime MG und Tribe Gaming erhalten ein Freilos in der oberen Runde 1 und sta
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1zOrnwZPBlWaiZjkGPETsZ/f5199d92484a33b12927ed13c7e84d10/DE_COC_-_June_MF_AYNTK_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-Sports"/>
     <published>2024-06-20T15:58:13+00:00</published>
+  </entry>
+  <entry>
+    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
+    <title>Wiederholung von Tag 1 der Monatsfinale im Juni!</title>
+    <updated>2024-06-23T10:44:49.817000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7MwTrlByYWasTVuuXO6vcg/a988871a19f5d0289919e2f46ea2e1ce/DE_COC_-_June_MF_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=OMS0wYK0_Io"/>
+    <category term="E-Sports"/>
+    <published>2024-06-22T17:46:59+00:00</published>
   </entry>
 </feed>
