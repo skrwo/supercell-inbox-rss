@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-23T07:29:07.870939+00:00</updated>
+  <updated>2024-06-23T08:30:13.689190+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -350,5 +350,14 @@ Il team di Esports di Clash of Clans&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1iDrpGnzNZkShMDpmkLvt9/a12b5a114790755a5d49780c3c44da61/IT_COC---June-MF-AYNTK-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-06-20T15:58:13+00:00</published>
+  </entry>
+  <entry>
+    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
+    <title>Rivedi il giorno 1 della Finale mensile di giugno!</title>
+    <updated>2024-06-23T08:26:21.620000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7ej2NMOah7Keg9fVTnJmrh/46ae06a0a5a56340352ce75c1189040e/it_COC---June-MF-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2178691902?filter=archives&amp;sort=time"/>
+    <category term="Esports"/>
+    <published>2024-06-22T17:46:59+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-23T07:29:11.943558+00:00</updated>
+  <updated>2024-06-23T08:30:19.832851+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -288,20 +288,22 @@
 &lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;遊兔啵 金雄KANEO VIDEO GAMING &lt;/a&gt;&lt;/p&gt;
 &lt;a href="https://www.youtube.com/watch?v=8ldHGEZf04o"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540powertech4165%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;PowerTech淮特 &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=ZmFwzG5rSeM"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+&lt;a href="https://www.youtube.com/watch?v=ZmFwzG5rSeM"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540CodeHeyBrother%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;嘿！兄弟&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=VRL3hJEwUtc"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/zh/news/2paCjYDqvVAj3LdYf9jkA3"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2uCWaUIGRVmllcx4Zoiqpz/b922a778865d020e8015f043c8328e43/tw_20240617_sneakpeeks_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-06-22T04:00:00+00:00</published>
   </entry>
   <entry>
-    <id>4xBnfoK0Ew41vk6qfUbJDm</id>
-    <title>【嘿!兄弟】寒冰世界新角實測搶先看！</title>
-    <updated>2024-06-22T10:17:06.026000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/4xBnfoK0Ew41vk6qfUbJDm"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6A5kY1WA2U1WEkxEbxgJgx/1b0e81ed158724c2406b5f603aef0533/tw_20240622_heybrother_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=VRL3hJEwUtc"/>
+    <id>5VkFVT9M9aqPxufc0vqolF</id>
+    <title>【烏龜】搶先了解寒冰世界活動時間與更多內容！</title>
+    <updated>2024-06-23T07:50:54.888000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/5VkFVT9M9aqPxufc0vqolF"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/d2Qr7QFFIL9vdIXoJLosa/cb40ea780ec32d77b7421fb4897f02eb/tw_20240623_turtle_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=zwu_S0hNPI0"/>
     <category term="最新情報"/>
-    <published>2024-06-22T04:01:00+00:00</published>
+    <published>2024-06-23T04:01:00+00:00</published>
   </entry>
 </feed>
