@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-esportNewsEntries-id</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-22T23:29:19.606900+00:00</updated>
+  <updated>2024-06-23T01:44:38.312747+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -345,5 +345,14 @@ TAPI BUKAN ITU SEMUA! Apa yang lebih baik dari pada menonton esports Clash of Cl
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3IZN62WfzslF30lnG04mcN/f0cc795438f3006dda860b6973632d02/ID-COC_-_June_MF_AYNTK_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-06-20T15:58:13+00:00</published>
+  </entry>
+  <entry>
+    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
+    <title>Tonton Ulang Hari ke-1 Final Bulanan Juni!</title>
+    <updated>2024-06-22T19:42:19.014000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/zSOYWIPJdhsYuK3FgHAWD/82995270fe8e71cedc77776b81a5102a/ID-COC_-_June_MF_Thumb_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=pyvCmGE3F5U"/>
+    <category term="Esports"/>
+    <published>2024-06-22T17:46:59+00:00</published>
   </entry>
 </feed>
