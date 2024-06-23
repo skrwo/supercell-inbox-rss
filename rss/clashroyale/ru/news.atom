@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-23T17:29:05.842003+00:00</updated>
+  <updated>2024-06-23T18:32:19.542195+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -25,15 +25,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2023-12-01T18:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>6Eudrm8ihgpii2KaxhvtlY</id>
-    <title>УЖЕ СКОРО 📜🗡️</title>
-    <updated>2024-04-01T11:33:37.613000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/6Eudrm8ihgpii2KaxhvtlY"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14ZgpMMSkFjQAf3wlMqpIj/baa10f3c4ad1c40fa033ef70517dc39a/DDTeaser.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Лучшие моменты"/>
-    <published>2024-03-25T18:13:44+00:00</published>
   </entry>
   <entry>
     <id>5ZKnYXJgMVZu5MNxmEUIfJ</id>
