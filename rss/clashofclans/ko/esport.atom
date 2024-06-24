@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-24T02:44:09.420723+00:00</updated>
+  <updated>2024-06-24T03:32:04.572864+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -424,5 +424,14 @@
     <link href="https://forms.gle/qVtJQ3C9vJBmRxhu6"/>
     <category term="e스포츠"/>
     <published>2024-06-22T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7lKVzqGf7FgTXcsbw2sjCv</id>
+    <title>6월 월별 파이널 2일차 다시보기!</title>
+    <updated>2024-06-24T03:23:33.942000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4BB5xMTcsndBRkixoSqyle/d696918ec8f39761f06af2b061b4f6af/COC---June-MF-Thumb-16x9_day2_KR__1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/65QZ-wEzmUI?si=3MgbBb_G5LW1etyh"/>
+    <category term="e스포츠"/>
+    <published>2024-06-23T17:50:15+00:00</published>
   </entry>
 </feed>
