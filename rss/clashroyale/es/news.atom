@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-24T17:30:04.960829+00:00</updated>
+  <updated>2024-06-24T18:35:04.606719+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -704,5 +704,15 @@ Que se convierten en duendes.&lt;/p&gt;&lt;hr/&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2024-06-19T08:19:30+00:00</published>
+  </entry>
+  <entry>
+    <id>1zZYXVIHL2y18tsRsxJgqY</id>
+    <title>🧌 Historia del demoledor duende 💥</title>
+    <updated>2024-06-24T17:37:17.187000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/1zZYXVIHL2y18tsRsxJgqY"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6U0SpMGuzLKylPGvGboT5j/efc256b376e464e7004eae9cc1a9cee6/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/Q-vZtP9-y5o"/>
+    <category term="Diversión"/>
+    <published>2024-06-22T15:30:03+00:00</published>
   </entry>
 </feed>
