@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-24T13:29:26.524100+00:00</updated>
+  <updated>2024-06-24T14:31:30.010632+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -24,16 +24,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/KDnie2-3hCFofNTfqLff1RTlpu9SCGL2i4s_YrrsNCQ/b968706bb849ff905814d9a86159e6ee/en_20182405_scid_large_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2018-08-27T11:06:00+00:00</published>
-  </entry>
-  <entry>
-    <id>6uho6ParOVU1NCTcy7yods</id>
-    <title>バランス調整のお知らせ（3月26日）</title>
-    <updated>2024-03-27T06:07:59.640000+00:00</updated>
-    <content>&lt;p&gt;今回のメンテナンスで、いくつかのバランス変更を行います。バランス変更はマルチアーチャータワー、ルートライダー、見習いウォーデン、そしてスピリットフォックスに変更があります。以下の変更点をご覧ください：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;マルチアーチャータワー&lt;b&gt;:&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;&lt;p&gt;レベル &lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;ダメージ(毎秒)(変更前)&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;ダメージ(毎秒)(変更後)&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;タウンホール&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;110 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;120 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;16&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;2&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;120 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;130 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;16&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ルートライダー&lt;b&gt;:&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;&lt;p&gt;レベル&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;ダメージ(毎秒)(変更前)&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;ダメージ(毎秒)(変更後)&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;ヒットポイント(変更前)&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;ヒットポイント(変更後)&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;タウンホール&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;210 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;190 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;6650 HP&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;6300 HP&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;15&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;2&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;230 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;210 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;7050 HP&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;6650 HP&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;15&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;250 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;230 DPS&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;7400 HP&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;7000 HP&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;16&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;見習いウォーデン&lt;b&gt;:&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;&lt;p&gt;レベル&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;オーラによるHP上昇(変更前)&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;オーラによるHP上昇(変更後)&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;タウンホール&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;24%&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;20%&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;13&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;2&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;26%&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;22%&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;13&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;28%&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;24%&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;14&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30%&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;26%&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;14&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スピリットフォックス&lt;b&gt;:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;全レベルでの可視時間を6秒に増加&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;この変更はゲームメカニクスに影響するため、メンテナンス中にすべてのリプレイが消去される可能性があります。ご迷惑をおかけして申し訳ございません！&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/6uho6ParOVU1NCTcy7yods"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="ニュース"/>
-    <published>2024-03-26T13:31:09+00:00</published>
   </entry>
   <entry>
     <id>5ik1ibvg7fuJtc5i6ogQmC</id>

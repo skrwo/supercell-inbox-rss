@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-24T13:29:15.301679+00:00</updated>
+  <updated>2024-06-24T14:31:24.292289+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>7H3gtP95GAhaQ1SZQC6VP2</id>
-    <title>新キャラ「メロディー」が超難易度の超火力で色々と攻撃の概念が覆されるんだけど</title>
-    <updated>2024-03-26T11:37:40.153000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/7H3gtP95GAhaQ1SZQC6VP2"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4nHtzqxBYmbXel586gSoQu/463bde653c595d8872bdb1d3b5828da7/maxresdefault.jpeg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=sYRwftjHbIs"/>
-    <category term="ビデオ"/>
-    <published>2024-03-26T11:37:40+00:00</published>
-  </entry>
-  <entry>
-    <id>2gCBGatMeCL3eZfC4yo0d5</id>
-    <title>【先行プレイ】新キャラ「メロディー」がぶっ壊れかと思ったけど…みんなどう思う？</title>
-    <updated>2024-03-26T11:39:46.370000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/2gCBGatMeCL3eZfC4yo0d5"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/kH9FY8QymUHzIYpFoXQXd/bdecd9d638863d3684dc294f307a02cd/maxresdefault2.jpeg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/bBl8NeMOEd8?si=qWdCmetuPLlg6iuy"/>
-    <category term="ビデオ"/>
-    <published>2024-03-26T11:39:46+00:00</published>
-  </entry>
   <entry>
     <id>6UHpdK8iAU9xPvjoDMN5Mn</id>
     <title>【ブロスタパスが当たる】メロディー先行リリース記念キャンペーン</title>
