@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-24T07:29:14.035624+00:00</updated>
+  <updated>2024-06-24T08:34:19.873929+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -138,7 +138,7 @@
   <entry>
     <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>6월 업데이트 노트!</title>
-    <updated>2024-06-23T19:03:06.625000+00:00</updated>
+    <updated>2024-06-24T07:56:44.350000+00:00</updated>
     <content>&lt;h1&gt;아이스 월드에 상륙합니다! ❄️&lt;/h1&gt;
 &lt;p&gt;꽁꽁 얼어붙은 아이스 월드 위로 아이스 스피릿이 지나갑니다. 👻&lt;/p&gt;&lt;p&gt;여러분도 아이스 월드의 신규 맵과 특수 모드를 즐기고 아이스 스피릿와 함께 신규 캐릭터도 미리 만나보세요!
 &lt;/p&gt;&lt;p&gt;&lt;b&gt;사막 월드에 진출한 모든 플레이어는 일주일 동안 아이스 월드를 체험하고 신규 캐릭터도 미리 잠금 해제할 수 있습니다!&lt;/b&gt;
@@ -199,5 +199,15 @@
     <link href="https://squadbusters.inbox.supercell.com/#/ko/news/34AZtN6rOayQ2EXQEPC6N0"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KM1CwSuDPQ26ItWqmyGTf/46d510fc200aeba9cbe15d5f5cea1260/beachbarb_1920x1080.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <published>2024-06-16T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4iwNQI6duzXYJX6Sz0zIu6</id>
+    <title>아이스월드 애니메이션</title>
+    <updated>2024-06-24T08:10:44.400000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/4iwNQI6duzXYJX6Sz0zIu6"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1hT2WZEfR9KwRO17JmPw9r/a8d81657bbe6de69c87a95fd7560091e/960x540_2.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/RoJSFZo_-BU?si=jdywES_WKgON-kbR"/>
+    <category term="동영상"/>
+    <published>2024-06-24T07:59:20+00:00</published>
   </entry>
 </feed>

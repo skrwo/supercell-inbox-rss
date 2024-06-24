@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-eventEntries-fr</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-06-24T07:29:03.838837+00:00</updated>
+  <updated>2024-06-24T08:34:16.555491+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -45,5 +45,23 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7eEcELzWrWJxhRlRefdWJk/c97c5633afba941210030dfb7d385f7b/Carousel-ClashOn-JuneUpdate.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/q2_YqPI_F1Y"/>
     <published>2024-06-18T08:06:19+00:00</published>
+  </entry>
+  <entry>
+    <id>Ya4LzJabqbDQyoSKPUik5</id>
+    <title>Événement Héros illimités</title>
+    <updated>2024-06-24T08:16:49.164000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 16.85%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 -  &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5Pr90iGWiiFoM2f7cznsnM/02286cb1caf4acc78420669c3b160b4d/12_days.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/oYfPfy2Cji8i0NbqjRQGj/b891e36b7f6379b5ce7cc5e194f5da89/9_days.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4SeF7BNqO7PNNlDPQQE7TU/50f182fe55306515fd8b7021c4837936/6_2_.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6lXQMeDdQuvdyVBnGmjpXF/03029d5e99040dbcaa0c6968e4ef2f9a/3-_NEW.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/20fyHaGx9KshQ7Rk66WCcE/8a91d970150833cdf59a71dcd1b11e31/1_2_.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="https://youtu.be/tAnC8Hvqhm8"&gt;👉En savoir plus👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2q1juYXQrFrzAmKECIsOLQ/de24f4fffb657ca86f3b45e1833c7019/Carousel_v1.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/tAnC8Hvqhm8"/>
+    <published>2024-06-24T08:08:16+00:00</published>
   </entry>
 </feed>

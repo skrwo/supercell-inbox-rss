@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-newsEntries-es</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-24T07:29:08.608691+00:00</updated>
+  <updated>2024-06-24T08:34:15.359739+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -290,5 +290,18 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7cuZr6nRTBf50fq9kn79PK/5cbe1f2cb43964215de1bb9af6a95ec3/900x506_druid_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2024-06-18T08:07:05+00:00</published>
+  </entry>
+  <entry>
+    <id>6ITTte5TRAALRs9hofnPgm</id>
+    <title>Evento de la comunidad: desbloqueo de los héroes ilimitados</title>
+    <updated>2024-06-24T08:10:46.569000+00:00</updated>
+    <content>&lt;h1&gt;Evento de la comunidad: desbloqueo de los héroes ilimitados&lt;/h1&gt;
+&lt;p&gt;¡Mantén los ojos bien abiertos! Hemos decidido darle a la comunidad lo que tanto estaba pidiendo: ¡poder usar a los héroes mientras están siendo mejorados!&lt;/p&gt;&lt;p&gt;El evento de los &lt;b&gt;héroes ilimitados&lt;/b&gt; se desbloqueará el 1 de julio, pero la duración del evento dependerá totalmente de la comunidad.&lt;/p&gt;&lt;p&gt;Esta vez, tendremos que trabajar juntos para reunir elixir oscuro y asegurarnos de que el evento dure lo máximo posible. ¡Manos a la obra!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Detalles del evento:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Inicio: 24 de junio de 2024 a las 11:00 EEST.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fin: 30 de junio de 2024 a las 11:00 EEST.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Objetivos&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objetivo 1: saquear 70 mil millones de unidades de elixir oscuro.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Cuando se alcance, se añadirá un día a la duración del evento.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Objetivo 2: saquear 100 mil millones de unidades de elixir oscuro.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Cuando se alcance, se añadirán tres días a la duración del evento.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Objetivo 3: saquear 125 mil millones de unidades de elixir oscuro.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Cuando se alcance, se añadirán seis días a la duración del evento.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Objetivo 4: saquear 150 mil millones de unidades de elixir oscuro.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Cuando se alcance, se añadirán nueve días a la duración del evento.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Objetivo 5: saquear 160 mil millones de unidades de elixir oscuro.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Cuando se alcance, se añadirán doce días a la duración del evento.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Si se alcanza el quinto objetivo, &lt;b&gt;el evento estará disponible durante 31 días, a partir del 1 de julio a las 11:00 EEST&lt;/b&gt; &lt;b&gt;.&lt;/b&gt; Eso significa que los héroes se podrán usar continuamente durante 31 días. Salvo que necesiten curarse, claro.&lt;/p&gt;&lt;p&gt;Podrás seguir el progreso del evento si echas un vistazo al buzón del juego. 👇&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3EyhNlwmMtsKWJtT3WxOBf/e53a8cd620c994675a7479c61ff030a2/ES_20240619_-_community_event_tracker.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Queremos que este sea un evento para recordar, ¡así que esforcémonos al máximo para sacarle el mayor partido posible!&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/es/news/6ITTte5TRAALRs9hofnPgm"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1ccNVOTotK5MSr6VBsSO3j/e49898d7c81a20ccc26db59fcf0090ca/ES_Thumb-UnlimitedHeroesEvent.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Comunidad"/>
+    <published>2024-06-24T08:10:46+00:00</published>
   </entry>
 </feed>
