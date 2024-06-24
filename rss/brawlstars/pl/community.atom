@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>brawlstars-communityEntries-pl</id>
   <title>Brawlstars - Community</title>
-  <updated>2024-06-24T15:30:24.130294+00:00</updated>
+  <updated>2024-06-24T16:35:42.171852+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Community</subtitle>
   <entry>
     <id>5aZqnqEaVX8g5WQyMqgD5f</id>
     <title>POCO RANK 35</title>
-    <updated>2024-06-24T15:30:24.130389+00:00</updated>
+    <updated>2024-06-24T16:35:42.171980+00:00</updated>
     <author>
       <name>Veni Gaming</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>7xAU7KXBj2kRuGwbZXd8r0</id>
     <title>TOP 1 GLOBAL RANKED - POLAK  - Easy</title>
-    <updated>2024-06-24T15:30:24.130336+00:00</updated>
+    <updated>2024-06-24T16:35:42.171944+00:00</updated>
     <author>
       <name>Veni Gaming</name>
     </author>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/8Z5SPkgiFNQvPUgmDxUpO/b1c71c25e2cbcf0411061ec7a1988a1c/guest-content-video-18-150daed2-9a3c-4869-b492-2d533e965595-bzas.jpeg-1717082229542?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/vnVTp37puMo"/>
     <published>2024-05-30T15:17:15+00:00</published>
+  </entry>
+  <entry>
+    <id>BmeUkUG6RWmGWTnv3IjBA</id>
+    <title>🔥WIELKI 🅣🅔🅢🅣 JEDNOROŻCA „BARRY”!🦄 *JAK GO ODBLOKOWAĆ?!*</title>
+    <updated>2024-06-24T16:35:42.171892+00:00</updated>
+    <author>
+      <name>Da Mian</name>
+    </author>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/lEBq85oxWiI70ryttNunS/e9f6ee747b0050119a5ae04ce6035a4e/guest-content-video-75-dc7d2bb8-9054-4579-9870-37d4b94ac36a-t0hf.png-1719244622607?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/RI6NHGhKL-M?"/>
+    <published>2024-06-24T15:57:09+00:00</published>
   </entry>
 </feed>
