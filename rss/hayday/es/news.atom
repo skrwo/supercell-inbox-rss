@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-06-25T07:29:16.440978+00:00</updated>
+  <updated>2024-06-25T08:33:55.420736+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4BAdc4LGgqU2bK4MnOwOMA</id>
-    <title>Eventos de la semana 13</title>
-    <updated>2024-03-26T12:17:40.905000+00:00</updated>
-    <content>&lt;h1&gt;Eventos de la semana 13&lt;/h1&gt;
-&lt;p&gt;¡Hola! ¡Última semana de eventos de marzo! Todos los eventos comienzan a las 08:00 UTC. Para saber más sobre cada uno de los eventos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;Lunes: Gira la ruleta (tiques extras).
-Martes: Pedidos de la camioneta (doble de XP).
-Miércoles: Evento del barco (doble de monedas).
-Jueves: Visitantes de la granja (doble de monedas).
-Viernes: Evento de pesca (peluquería para patos y telar de redes un 30 % más rápidos).
-Sábado: Visitantes del pueblo (doble de monedas) y pedidos de la camioneta (materiales para mejorar el granero y el silo adicionales).
-Domingo: Porcentaje del tiempo de pienso para animales (3 tipos de pienso para animales al azar se producen más rápido) y evento del barco (doble de monedas).&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/4BAdc4LGgqU2bK4MnOwOMA"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Noticias"/>
-    <published>2024-03-26T12:17:04+00:00</published>
-  </entry>
   <entry>
     <id>42tkGxu9HjMWYoSucMHnTs</id>
     <title>Noticias huevásticas: ¡todo el contenido nuevo de abril!</title>

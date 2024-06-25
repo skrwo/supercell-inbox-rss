@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-06-25T07:29:16.886686+00:00</updated>
+  <updated>2024-06-25T08:33:55.697337+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4BAdc4LGgqU2bK4MnOwOMA</id>
-    <title>Acara Hay Day Minggu 13!</title>
-    <updated>2024-03-26T12:17:40.905000+00:00</updated>
-    <content>&lt;h1&gt;Acara Hay Day Minggu 13&lt;/h1&gt;
-&lt;p&gt;Helo, Peladang! Acara minggu terakhir di bulan Mac! Semua acara bermula pada 8:00 UTC (16:00 MYT) Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;Isnin: Acara Putaran Nasib (Baucar tambahan)
-Selasa: Acara Pesanan Trak (2x XP)
-Rabu: Acara Bot (2x syiling)
-Khamis: Acara Pelawat Ladang (2x syiling)
-Jumaat: Acara Galakan Pengeluaran Memancing (Salun itik dan pembuat jaring, 30%)
-Sabtu: Acara Pelawat Bandar (2x syiling) + Acara Pesanan Trak (Bahan naik taraf bangsal &amp;amp; silo tambahan)
-Ahad: Mempercepat Penghasilan Makanan Haiwan (3 jenis makanan haiwan rawak) + Acara Bot (2x syiling)&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/4BAdc4LGgqU2bK4MnOwOMA"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Berita"/>
-    <published>2024-03-26T12:17:04+00:00</published>
-  </entry>
   <entry>
     <id>42tkGxu9HjMWYoSucMHnTs</id>
     <title>Berita Ladang: Kandungan baharu akan datang di April</title>

@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-06-25T07:29:16.624354+00:00</updated>
+  <updated>2024-06-25T08:33:58.976236+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4BAdc4LGgqU2bK4MnOwOMA</id>
-    <title>События Hay Day: 13-я неделя</title>
-    <updated>2024-03-26T12:17:40.905000+00:00</updated>
-    <content>&lt;h1&gt;События Hay Day: 13-я неделя&lt;/h1&gt;
-&lt;p&gt;Привет, фермеры! Встречайте последнюю мартовскую неделю событий! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: дополнительные ваучеры на колесе фортуны.
-Вторник: вдвое больше опыта за выполнение заказов на доставку грузовиком.
-Среда: вдвое больше монет за загрузку пароходов.
-Четверг: вдвое больше монет за обслуживание посетителей фермы.
-Пятница: ускорение производства в рыболовной зоне на 30 % (утиный салон и вязальщик сетей).
-Суббота: вдвое больше монет за обслуживание гостей города, а также дополнительные материалы для улучшения амбара и силосной башни за выполнение заказов на доставку грузовиком.
-Воскресенье: ускорение дробилки (три случайных типа корма для животных), а также вдвое больше монет за загрузку пароходов.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/4BAdc4LGgqU2bK4MnOwOMA"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Новости"/>
-    <published>2024-03-26T12:17:04+00:00</published>
-  </entry>
   <entry>
     <id>42tkGxu9HjMWYoSucMHnTs</id>
     <title>Молочные новости: новый апрельский контент!</title>

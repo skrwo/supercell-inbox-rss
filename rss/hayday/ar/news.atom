@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-06-25T07:29:17.778999+00:00</updated>
+  <updated>2024-06-25T08:33:57.593126+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4BAdc4LGgqU2bK4MnOwOMA</id>
-    <title>الأسبوع 13 من أحداث Hay Day</title>
-    <updated>2024-03-26T12:17:40.905000+00:00</updated>
-    <content>&lt;h1&gt;الأسبوع 13 من أحداث Hay Day&lt;/h1&gt;
-&lt;p&gt;مرحبًا أيها المزارعون! آخر أسبوع أحداث في مارس! تبدأ كل الأحداث في الساعة 8 ص بتوقيت جرينتش. اطلع على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;الإثنين: تدوير العجلة (قسائم إضافية)
-الثلاثاء: حدث طلبات الشاحنة (ضعف نقاط الخبرة)
-الأربعاء: حدث طلبات القارب (ضعف العملات)
-الخميس: حدث زوار المزرعة (ضعف العملات)
-الجمعة: حدث تعزيز إنتاجية الصيد (صالون البط وآلة صناعة الشباك، 30%)
-السبت: حدث زوار البلدة (ضعف العملات) + حدث طلبات الشاحنة (مواد ترقية إضافية للحظيرة والصومعة)
-الأحد: نسبة وقت علف الحيوانات (إنتاج 3 أنواع عشوائية من علف الحيوانات) + حدث القارب (ضعف العملات)&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ar/news/4BAdc4LGgqU2bK4MnOwOMA"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="أخبار"/>
-    <published>2024-03-26T12:17:04+00:00</published>
-  </entry>
   <entry>
     <id>42tkGxu9HjMWYoSucMHnTs</id>
     <title>أخبار المزرعة: كل المحتوى الجديد القادم في أبريل</title>
