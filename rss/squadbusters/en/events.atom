@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-eventEntries-en</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-06-25T06:37:31.750064+00:00</updated>
+  <updated>2024-06-25T07:29:19.017176+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -60,5 +60,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3EIa0S8HPO3jywcMoCvewL/ac58764d62efd5a09f0550cc69caf729/Ice_Feature_Art_1080x1920.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/bDQgCX2-zYA"/>
     <published>2024-06-24T10:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>1732VKNUzdtSTq2eBqm2Ye</id>
+    <title>🗞️</title>
+    <updated>2024-06-25T06:59:29.784000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="squadbusters-inbox://OpenShop"&gt;👉Go!👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/28YvThKvfyGokNYR3RHdnS/b61da3612cac986d4fc4b488092e6df5/inbox.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="squadbusters-inbox://OpenShop"/>
+    <published>2024-06-25T06:53:03+00:00</published>
   </entry>
 </feed>
