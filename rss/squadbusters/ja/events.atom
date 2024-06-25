@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-eventEntries-ja</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-06-24T23:30:59.285563+00:00</updated>
+  <updated>2024-06-25T01:40:19.528083+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -63,12 +63,12 @@
   </entry>
   <entry>
     <id>2ZhWUtpgNrJVLKARChBtXF</id>
-    <title>アイスワールドのアニメ動画</title>
-    <updated>2024-06-24T12:52:35.964000+00:00</updated>
+    <title>アイスワールド!!</title>
+    <updated>2024-06-25T00:46:06.439000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="youtube.com"&gt;👉今すぐ見る！👈&lt;/a&gt;</content>
+&lt;a href="https://youtu.be/bDQgCX2-zYA"&gt;👉今すぐ見る！👈&lt;/a&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3EIa0S8HPO3jywcMoCvewL/ac58764d62efd5a09f0550cc69caf729/Ice_Feature_Art_1080x1920.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="youtube.com"/>
+    <link href="https://youtu.be/bDQgCX2-zYA"/>
     <published>2024-06-24T10:14:08+00:00</published>
   </entry>
 </feed>
