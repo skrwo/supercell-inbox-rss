@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-eventEntries-fr</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-06-26T10:33:49.260518+00:00</updated>
+  <updated>2024-06-26T11:29:05.455909+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -64,5 +64,20 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1pumQKHOtUOpo43s8tvnqp/c4ff7fc4426877cf78ccdd3c22938a17/0620_Brawl_Talk_Classic_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/U0Mq3mJdwh4"/>
     <published>2024-06-21T08:35:19+00:00</published>
+  </entry>
+  <entry>
+    <id>240lUSWZer3cnyxiQVXhcM</id>
+    <title>🗞️</title>
+    <updated>2024-06-26T10:44:57.235000+00:00</updated>
+    <content>&lt;h1&gt;Quel est votre skin de Belle préféré ?&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/44lEHtDKjq3mMhhltaF5v8/89c67208fba5bf5260177476a0b75259/pitstop_belle.jpg?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4qh8mseRGLuj6TKDEaFVf6/7e3e3d251cd285893b10a15921d66b41/admiral_belle.jpg?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Wa4G1a03gRnOmbtE5fNFx/d97b5c2a61795dc6a4bd8911e555e4a5/toxic_belle.jpg?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41vcoDf1qzhaguGLCidmtS/09c4ecadb03c573ac4d28122dc35833f/dragon_belle.jpg?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/783tSARqYBly1YYB1sFz0a/63e7795f280baeb406af4b0400f227f9/Carousel_Belle_Make.jpg?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2024-06-26T07:30:09+00:00</published>
   </entry>
 </feed>
