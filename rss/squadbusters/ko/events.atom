@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-eventEntries-ko</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-06-26T12:49:35.551001+00:00</updated>
+  <updated>2024-06-26T13:30:52.329082+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -60,6 +60,16 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5jMRa1fU6g9eFXZrBAmux2/83f23b0f70c1a2111e0dd54f6bcd8680/________________.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="http://pf.kakao.com/_IhgxcG/friend"/>
     <published>2024-05-31T05:03:32+00:00</published>
+  </entry>
+  <entry>
+    <id>1732VKNUzdtSTq2eBqm2Ye</id>
+    <title>🗞️</title>
+    <updated>2024-06-26T12:51:08.089000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="squadbusters-inbox://OpenShop"&gt;👉신규 스킨!👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/28YvThKvfyGokNYR3RHdnS/b61da3612cac986d4fc4b488092e6df5/inbox.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="squadbusters-inbox://OpenShop"/>
+    <published>2024-06-25T06:53:03+00:00</published>
   </entry>
   <entry>
     <id>2ZhWUtpgNrJVLKARChBtXF</id>
