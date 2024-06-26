@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-newsEntries-pt</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-26T05:31:11.593994+00:00</updated>
+  <updated>2024-06-26T06:37:49.082093+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -293,5 +293,18 @@ Interessado? Leia abaixo todos os detalhes do evento!&lt;/p&gt;&lt;p&gt;&lt;b&gt
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3dzZaucyjGfYXUmjkSt13d/53f8c2ac375df68fa58d6f05dd5cc76b/PT-Thumb-UnlimitedHeroesEvent.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Comunidade"/>
     <published>2024-06-24T08:10:46+00:00</published>
+  </entry>
+  <entry>
+    <id>5dPlaja0zWk01oRh7cX6xr</id>
+    <title>Atualização da nossa Política de Jogo Limpo - Nova onda de bans</title>
+    <updated>2024-06-26T06:33:46.413000+00:00</updated>
+    <content>&lt;h1&gt;Atualização da nossa Política de Jogo Limpo - Nova onda de bans&lt;/h1&gt;
+&lt;p&gt;Olá, Chefe! Estamos dando continuidade ao nosso último &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fblog%252Fmisc%252Fupdate-to-our-fair-play-policy-and-next-steps%252F')"&gt;anúncio&lt;/a&gt; sobre levas de bans permanentes. Gostariamos de compartilhar de que teremos uma nova leva em breve.&lt;/p&gt;&lt;p&gt;
+Conforme mencionado anteriormente, nós estamos visando contas de bot, que são utilizadas para fornecer uma vantagem desleal no jogo. Dito isso, estaremos banindo permanentemente novas contas que foram identificadas como bots. Além disso, jogadores que utilizam softwares de terceiros também serão banidos permanentementes. &lt;/p&gt;&lt;p&gt;
+Nós continuaremos trazendo atualizações referentes aos nossos esforços em manter o Clash of Clans seguro e justo para todos jogadores.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;- Time do Clash of Clans&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/pt/news/5dPlaja0zWk01oRh7cX6xr"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/yF3NrpJSXa6i1D_WPB-x-z_6knTc_AgVx7x9ofIT1Jw/0fa6c332a7db2a5bb3ce502583bd58ed/fairplay.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Novidades"/>
+    <published>2024-06-26T06:23:13+00:00</published>
   </entry>
 </feed>

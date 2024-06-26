@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-26T05:31:09.178714+00:00</updated>
+  <updated>2024-06-26T06:37:47.666338+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -241,5 +241,16 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5z01U7cg3hSwYwpdg2aPwx/bfd81e07da9a0ab4b69e620b47786a2b/ID-Thumb-UnlimitedHeroesEvent.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Komunitas"/>
     <published>2024-06-24T08:10:46+00:00</published>
+  </entry>
+  <entry>
+    <id>5dPlaja0zWk01oRh7cX6xr</id>
+    <title>Pembaruan Main Bersih - Larangan Mendatang</title>
+    <updated>2024-06-26T06:33:46.413000+00:00</updated>
+    <content>&lt;h1&gt;Pembaruan Main Bersih - Larangan Mendatang&lt;/h1&gt;
+&lt;p&gt;Hey Chief,&lt;/p&gt;&lt;p&gt;Menindaklanjuti &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fid%252Fblog%252Fmisc%252Fpembaruan-pada-kebijakan-main-bersih-dan-langkah-selanjutnya%252F')"&gt;pengumuman &lt;/a&gt;kami mengenai gelombang larangan yang sering terjadi, kami ingin berbagi bahwa gelombang baru akan datang.&lt;/p&gt;&lt;p&gt;Seperti yang telah disebutkan sebelumnya, kami menargetkan akun bot yang digunakan untuk mendapatkan keuntungan tidak adil dalam permainan. Oleh karena itu, kami akan secara permanen melarang semua akun yang teridentifikasi sebagai bot. Pemain yang menggunakan perangkat lunak pihak ketiga juga akan dilarang secara permanen.&lt;/p&gt;&lt;p&gt;Kami akan terus berbagi pembaruan mengenai upaya kami untuk menjaga Clash of Clans tetap bersih dan adil untuk semua orang.&lt;/p&gt;&lt;p&gt;-Tim Clash of Clans&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/id/news/5dPlaja0zWk01oRh7cX6xr"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/yF3NrpJSXa6i1D_WPB-x-z_6knTc_AgVx7x9ofIT1Jw/0fa6c332a7db2a5bb3ce502583bd58ed/fairplay.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2024-06-26T06:23:13+00:00</published>
   </entry>
 </feed>
