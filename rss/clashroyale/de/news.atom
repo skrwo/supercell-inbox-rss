@@ -2,48 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-26T14:31:26.638499+00:00</updated>
+  <updated>2024-06-26T15:30:43.480441+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>4fAA69sutKoyH6lgkr4GX9</id>
-    <title>#KartenEvolution</title>
-    <updated>2024-03-28T14:35:03.181000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/4fAA69sutKoyH6lgkr4GX9"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xAWY5mXX7o9kVEkWten6g/21ed7e43d8e8619daeb7077185878b66/Teaser_April2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Highlights"/>
-    <published>2024-03-28T14:35:03+00:00</published>
-  </entry>
-  <entry>
-    <id>7N2DExDUOYoT8P03gTJC5y</id>
-    <title>DEMNÄCHST 📜🗡️</title>
-    <updated>2024-03-28T14:39:44.892000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/7N2DExDUOYoT8P03gTJC5y"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14ZgpMMSkFjQAf3wlMqpIj/baa10f3c4ad1c40fa033ef70517dc39a/DDTeaser.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Highlights"/>
-    <published>2024-03-28T14:39:44+00:00</published>
-  </entry>
-  <entry>
-    <id>2p4u51RUrkvVKzcMIaOWmp</id>
-    <title>🗡️ Vollständige Enthüllung morgen! 🗡️</title>
-    <updated>2024-03-28T15:01:59.966000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/2p4u51RUrkvVKzcMIaOWmp"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2qSrwzPxrYzdxoUToWlx9h/3bcb7a364aab84c6ff73539d273aa217/daggerduchessteaser_1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/UPgL_hdoj60"/>
-    <category term="Highlights"/>
-    <published>2024-03-28T14:45:15+00:00</published>
-  </entry>
-  <entry>
-    <id>727kLEKvJ1OOkWfikTlDO5</id>
-    <title>DOLCHHERZOGIN ENTHÜLLT 🗡️</title>
-    <updated>2024-03-28T14:50:05.567000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/727kLEKvJ1OOkWfikTlDO5"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6zOrtkhmEc3C1dP9VBuK2z/ce476398df85e623eaf0d531088e695b/daggerduchessanimation5.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=gghKJQOhE2M"/>
-    <category term="Highlights"/>
-    <published>2024-03-28T14:50:05+00:00</published>
-  </entry>
   <entry>
     <id>10u9PXBdGK9ha4EZkOCyjG</id>
     <title>Dolchherzogin-Gameplay!</title>
