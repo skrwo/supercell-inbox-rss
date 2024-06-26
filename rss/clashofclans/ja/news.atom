@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-26T06:37:47.472386+00:00</updated>
+  <updated>2024-06-26T07:29:30.155760+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -387,5 +387,20 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2ZRueZyACjdeaOAdrnMYK3/4d1b713a802ac1c4353d93c30f656de6/Thumb-UnlimitedHeroesEvent.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-06-24T08:10:46+00:00</published>
+  </entry>
+  <entry>
+    <id>5dPlaja0zWk01oRh7cX6xr</id>
+    <title>ゲームの安全性と公平性について -今後のお知らせ</title>
+    <updated>2024-06-26T07:13:55.221000+00:00</updated>
+    <content>&lt;h1&gt;ゲームの安全性と公平性について -今後のお知らせ&lt;/h1&gt;
+&lt;p&gt;こんにちはチーフ！
+前回&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fblog%252Fmisc%252Fupdate-to-our-fair-play-policy-and-next-steps%252F')"&gt;アナウンス&lt;/a&gt;をしたアカウントの停止対応などについてお知らせです！&lt;/p&gt;&lt;p&gt;以前お伝えしたとおり、我々はゲーム内で不当な利益を得るために使用されるボットアカウントなどを対象にしたアカウント停止対応を行なっております。
+ボットアカウントであることが確認された場合はすべて永久に停止し、サードパーティ製ソフトウェアを利用しているプレイヤーも永久停止とします。
+&lt;/p&gt;&lt;p&gt;クラッシュ・オブ・クランの安全性と公平性を維持するための取り組みについては、今後も最新情報をお伝えしていきます。&lt;/p&gt;&lt;p&gt;-The Clash of Clans Team
+&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/5dPlaja0zWk01oRh7cX6xr"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/yF3NrpJSXa6i1D_WPB-x-z_6knTc_AgVx7x9ofIT1Jw/0fa6c332a7db2a5bb3ce502583bd58ed/fairplay.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-06-26T06:23:13+00:00</published>
   </entry>
 </feed>

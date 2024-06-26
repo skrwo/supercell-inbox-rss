@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-26T06:37:51.983149+00:00</updated>
+  <updated>2024-06-26T07:29:38.395779+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -220,5 +220,26 @@ Follow our Social Media channels and your favorite Squad Busters content creator
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KM1CwSuDPQ26ItWqmyGTf/46d510fc200aeba9cbe15d5f5cea1260/beachbarb_1920x1080.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-06-16T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>RTgzLU4w6F6iiJU3YAFQN</id>
+    <title>Squad League Reset and Rewards!</title>
+    <updated>2024-06-26T07:10:31.817000+00:00</updated>
+    <content>&lt;p&gt;The current Squad League season is coming to its end, and we’re very excited to announce that everyone on the Global leaderboard as of Monday, July 1st, at 06:00 UTC, will receive a &lt;b&gt;Kimono Witch Skin for free&lt;/b&gt;, and before anyone else!&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/37R1gMjXl7vCtnKJ9m8K6l/7c1ccecdb1a32ae51c8e392970d1d9b6/Witch_02_Classic_KimonoWitch.png?w=1017&amp;h=1172&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Additionally, the &lt;b&gt;Top 3 players on the Global leaderboard&lt;/b&gt; will receive:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Top 1: 300,000 Coins&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Top 2: 200,000 Coins&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Top 3: 100,000 Coins&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;These rewards will be available in your shop for 30 days, so be sure to claim them!&lt;/p&gt;
+&lt;h1&gt;What does the end of a season mean, and what should you expect?&lt;/h1&gt;
+&lt;p&gt;With the introduction of a new World in the Squad Journey, the &lt;b&gt;Squad League will move to the end of the track&lt;/b&gt;. Here are some important details:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Players currently in Squad League will remain at Squad Journey level 90.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Squad League will move to level 120.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Players will need to advance through the Squad Journey to re-enter the Squad League.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Players with maxed Characters will receive Portal Energy from Chests when acquiring duplicates.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Once in Squad League, XP will be given instead.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Other sources of Portal Energy: New Characters merges, Book achievements, and Battles (with a daily cap of 300 from Battles).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Trophies will be halved for everyone, with a maximum cap of 4000. For example, a player with 5000 trophies will be reset to 2500, while anyone with 8000 or more will be capped at 4000.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;The reset is designed to make the Squad League leaderboards accessible to all players at the start of each new season.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Squad League level and Rank will not reset, meaning players will retain their current league (e.g., Silver) and continue from there once they re-enter the Squad League&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Feedback and Future Plans&lt;/h1&gt;
+&lt;p&gt;We&amp;#39;ve received a lot of feedback about Squad League, and although we don&amp;#39;t currently have a reward system tied to trophies, we&amp;#39;re definitely working on making it more exciting in the future. 
+
+In the meantime, we hope this article clarifies things and that the rewards make your efforts a bit more worthwhile!
+
+Thanks for your dedication! 🩷
+&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/RTgzLU4w6F6iiJU3YAFQN"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/565eVZZrhcsEwpLUMTKpGP/6fb0d31d042ecafe959e4c73b3baea4c/SquadIcon_WitchSkin_1920x1080_A.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-06-26T06:51:28+00:00</published>
   </entry>
 </feed>
