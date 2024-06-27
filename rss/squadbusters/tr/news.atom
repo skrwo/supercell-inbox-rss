@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>squadbusters-newsEntries-tr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-06-27T03:32:37.778111+00:00</updated>
+  <updated>2024-06-27T04:37:26.101459+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -175,5 +175,20 @@
     <link href="https://squadbusters.inbox.supercell.com/#/tr/news/34AZtN6rOayQ2EXQEPC6N0"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KM1CwSuDPQ26ItWqmyGTf/46d510fc200aeba9cbe15d5f5cea1260/beachbarb_1920x1080.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <published>2024-06-16T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>RTgzLU4w6F6iiJU3YAFQN</id>
+    <title>Takım Ligi Sıfırlaması ve Ödülleri!</title>
+    <updated>2024-06-27T04:29:30.191000+00:00</updated>
+    <content>&lt;p&gt;Şu anki takım ligi sezonu sona yaklaşıyor. 1 Temmuz Pazartesi, 07:00 UTC itibariyle Takım Ligindeki herkesin &lt;b&gt;Kimonolu Cadı kostümünü ücretsiz olarak&lt;/b&gt; alacağını duyurmaktan büyük heyecan duyuyoruz! Bu, Pazartesi 07:00 UTC&amp;#39;den önce Takım Liginde 90. seviyeye ulaşmanız halinde kostümün size verileceği anlamına geliyor!&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/37R1gMjXl7vCtnKJ9m8K6l/7c1ccecdb1a32ae51c8e392970d1d9b6/Witch_02_Classic_KimonoWitch.png?w=1017&amp;h=1172&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Küresel liderlik tablosundaki ilk üç oyuncu&lt;/b&gt; buna ek olarak şunları alacak:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1. Oyuncu: 300.000 Altın&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2. Oyuncu: 200.000 Altın&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3. Oyuncu: 100.000 Altın&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Bu ödüller 30 gün boyunca dükkanda olacak, bu süre içinde almayı unutmayın!&lt;/p&gt;
+&lt;h1&gt;Sezon nasıl biter ve sonrasında neler beklemelisiniz?&lt;/h1&gt;
+&lt;p&gt;Takım yolculuğuna yeni bir dünyanın eklenmesiyle &lt;b&gt;takım ligi yolun sonuna ilerler&lt;/b&gt;. Bazı önemli ayrıntılar şöyledir:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Şu anda takım liginde olan oyuncular 90. takım yolculuğu seviyesinde kalır.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Takım ligi 120. seviyeye ilerler.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Yeniden takım ligine girmek için oyuncuların takım yolculuğunda ilerlemeye devam etmesi gerekir.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Maksimuma ulaşmış karakterlere sahip oyuncular sandıklardan bu karakterlerin kopyaları yerine portal enerjisi alır.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Takım ligine ulaştığınızda ise portal enerjisi yerine DP alırsınız.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Portal enerjisi alabileceğiniz diğer kaynaklar: Yeni karakter birleştirmeleri, kitap başarıları ve savaşlar (savaşlarda günlük sınır 300&amp;#39;dür).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Herkesin kupa sayısı yarıya indirilir. Yarıya indirme işleminden sonra sahip olunabilecek maksimum kupa sayısı 4000&amp;#39;dir. Örneğin 5000 kupalı bir oyuncu sıfırlamanın ardından 2500, 8000 veya daha fazla kupalı bir oyuncu ise 4000 kupaya sahip olur.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Bu sıfırlamanın amacı tüm oyuncuların her sezon başında takım ligi liderlik tablolarına daha kolay ulaşmasını sağlamaktır.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Takım ligi seviyesi ve sıralaması sıfırlanmaz; yani oyuncular mevcut liglerini (ör. Gümüş) korur ve takım ligine yeniden girdiklerinde buradan devam ederler.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;Geri Bildirim ve Gelecek Planları&lt;/h1&gt;
+&lt;p&gt;Takım ligiyle ilgili çok sayıda geri bildirim aldık. Şu anda kupa sayısına bağlı bir ödül sistemimiz olmasa da kupa kazanmayı gelecekte daha heyecanlı hale getirmek için çalışmalarımız sürüyor.&lt;/p&gt;&lt;p&gt;Bu makalemizin bazı noktaları açıklığa kavuşturacağını ve bu geçici ödüllerin çabalarınızı daha değerli kılacağını umuyoruz!&lt;/p&gt;&lt;p&gt;Bağlılığınız için teşekkürler! 🩷&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/tr/news/RTgzLU4w6F6iiJU3YAFQN"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/565eVZZrhcsEwpLUMTKpGP/6fb0d31d042ecafe959e4c73b3baea4c/SquadIcon_WitchSkin_1920x1080_A.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <published>2024-06-26T12:00:00+00:00</published>
   </entry>
 </feed>
