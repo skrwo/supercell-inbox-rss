@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-esportNewsEntries-fr</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-06-27T07:29:25.316141+00:00</updated>
+  <updated>2024-06-27T08:34:46.987335+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -41,5 +41,14 @@
     <link href="https://www.twitch.tv/videos/2155000999"/>
     <category term="Esports"/>
     <published>2024-06-19T09:36:49+00:00</published>
+  </entry>
+  <entry>
+    <id>671Qp289QPU34n4QKW9QRA</id>
+    <title>Annonce des qualifications de la dernière chance</title>
+    <updated>2024-06-27T08:16:04.720000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3qR6hYHAh0szAaXnLl8CE2/afdbd3f17e05dff65c35cd050140f185/FR-LCQ-Trailer-Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/SA7YJiyp5g4?feature=shared"/>
+    <category term="Esports"/>
+    <published>2024-06-22T17:09:48+00:00</published>
   </entry>
 </feed>

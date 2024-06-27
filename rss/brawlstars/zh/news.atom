@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-27T07:29:38.154484+00:00</updated>
+  <updated>2024-06-27T08:34:46.451338+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -186,5 +186,25 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2jzhugaAjSKfmmoe7sGa34/0d321a42f5b4f4b97c824410f2284b60/tw_20240625-Update-Patch-Notes_1920x1080_v2.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="遊戲更新"/>
     <published>2024-06-25T07:24:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2Uk7AbSTinEAAzlwFSKjj7</id>
+    <title>【嘿!兄弟】🦄能打能補？這輔助角的強度如何？</title>
+    <updated>2024-06-27T07:44:48.769000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/2Uk7AbSTinEAAzlwFSKjj7"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2ILQSlM3A74xcgDcXfKeea/38bf5a2411667baa1730af01ab9ad7f3/tw_20240626_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=AgYlqWdMbl8"/>
+    <category term="最新情報"/>
+    <published>2024-06-27T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Zh6x1MYOFrbChH3e0Y71n</id>
+    <title>【盛主播】搶先解析新角貝瑞🍦！還有哪些特點？</title>
+    <updated>2024-06-27T07:46:27.842000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/Zh6x1MYOFrbChH3e0Y71n"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2LUHjNKcpn52Su20kfw0QV/44475a8f73406cca904ce8e7629a4b11/tw_20240626_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=xPq6foN9Uko"/>
+    <category term="最新情報"/>
+    <published>2024-06-27T07:01:00+00:00</published>
   </entry>
 </feed>
