@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-27T12:48:52.617856+00:00</updated>
+  <updated>2024-06-27T13:29:40.239101+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>5ik1ibvg7fuJtc5i6ogQmC</id>
-    <title>Gratis Mauerring!</title>
-    <updated>2024-03-29T13:08:06.506000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/de/news/5ik1ibvg7fuJtc5i6ogQmC"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3R5D6UUewjDiVBY256yjo7/f03aea19a44ed828232257e81ee1b0f3/FreeWallRing-DE.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9wn_oP8-5_0"/>
-    <category term="community"/>
-    <published>2024-03-29T13:00:02+00:00</published>
-  </entry>
   <entry>
     <id>3KKTHgN2ZJpwR4wb5L9JTT</id>
     <title>UNSER BISHER 💥 GRÖSSTES UPDATE IST DA!</title>
@@ -298,7 +288,7 @@ Interessiert? Lies unten für alle Details zum Event!&lt;/p&gt;&lt;p&gt;&lt;b&gt
   <entry>
     <id>5dPlaja0zWk01oRh7cX6xr</id>
     <title>Fairplay-Update - Bevorstehende Banns</title>
-    <updated>2024-06-27T04:10:48.877000+00:00</updated>
+    <updated>2024-06-27T13:07:38.650000+00:00</updated>
     <content>&lt;h1&gt;Fairplay-Update - Bevorstehende Banns&lt;/h1&gt;
 &lt;p&gt;Hallo Häuptling, im Anschluss an unsere &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fblog%252Fmisc%252Fupdate-to-our-fair-play-policy-and-next-steps%252F')"&gt;Ankündigung&lt;/a&gt; bezüglich der häufigen Bannwellen sind wir hier, um euch mitzuteilen, dass eine neue Bannwelle auf uns zukommt.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Wie bereits erwähnt, haben wir es auf Bot-Konten abgesehen, die dazu benutzt werden, sich einen unfairen Vorteil im Spiel zu verschaffen. Das heißt, dass wir alle Konten, die als Bots identifiziert wurden, dauerhaft sperren werden. Spieler, die Software von Drittanbietern verwenden, werden ebenfalls dauerhaft gesperrt.
 &lt;/p&gt;&lt;p&gt;Wir werden euch weiterhin über unsere Bemühungen informieren, Clash of Clans sicher und fair für alle zu halten.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;-Das Clash of Clans-Team&lt;/p&gt;</content>

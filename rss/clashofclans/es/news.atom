@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-newsEntries-es</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-27T12:48:53.203929+00:00</updated>
+  <updated>2024-06-27T13:29:37.250749+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>5ik1ibvg7fuJtc5i6ogQmC</id>
-    <title>¡Anillo de muro GRATIS!</title>
-    <updated>2024-03-29T13:08:06.506000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/es/news/5ik1ibvg7fuJtc5i6ogQmC"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2RuZi8ch0ZLwkUDUCLhE6I/dc6b004ede368c3ceaeae4e0fd64a73e/FreeWallRing-ES.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9wn_oP8-5_0"/>
-    <category term="Comunidad"/>
-    <published>2024-03-29T13:00:02+00:00</published>
-  </entry>
   <entry>
     <id>3KKTHgN2ZJpwR4wb5L9JTT</id>
     <title>¡LA MAYOR ACTUALIZACIÓN DE NUESTRA HISTORIA ESTÁ AQUÍ! 💥 </title>
@@ -296,7 +286,7 @@
   <entry>
     <id>5dPlaja0zWk01oRh7cX6xr</id>
     <title>Actualización de nuestra Política de juego limpio y seguro y próximos vetos</title>
-    <updated>2024-06-27T04:10:48.877000+00:00</updated>
+    <updated>2024-06-27T13:07:38.650000+00:00</updated>
     <content>&lt;h1&gt;Actualización de nuestra política de juego limpio y seguro y próximos vetos&lt;/h1&gt;
 &lt;p&gt;Hola jefe, siguiendo nuestro &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fes%252Fblog%252Fmisc%252Factualizaci%2525C3%2525B3n-de-nuestra-pol%2525C3%2525ADtica-de-juego-limpio-y-seguro-y-pr%2525C3%2525B3ximos-pasos%252F')"&gt;anuncio&lt;/a&gt; sobre las oleadas de vetos frecuentes, estamos aquí para compartir que se avecina una nueva oleada.&lt;/p&gt;&lt;p&gt;Como mencionamos antes, estamos apuntando a las cuentas de bots, que se usan para obtener una ventaja injusta en el juego. Dicho esto, vamos a vetar permanentemente todas las cuentas identificadas como bots. Los jugadores que utilicen software de terceros también serán vetados permanentemente.&lt;/p&gt;&lt;p&gt;Seguiremos compartiendo actualizaciones sobre nuestros esfuerzos para mantener Clash of Clans seguro y justo para todos.&lt;/p&gt;&lt;p&gt;El equipo de Clash of Clans&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/es/news/5dPlaja0zWk01oRh7cX6xr"/>

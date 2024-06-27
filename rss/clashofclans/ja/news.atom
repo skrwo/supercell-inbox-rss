@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-27T12:48:55.471034+00:00</updated>
+  <updated>2024-06-27T13:29:37.601794+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -24,16 +24,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/KDnie2-3hCFofNTfqLff1RTlpu9SCGL2i4s_YrrsNCQ/b968706bb849ff905814d9a86159e6ee/en_20182405_scid_large_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2018-08-27T11:06:00+00:00</published>
-  </entry>
-  <entry>
-    <id>5ik1ibvg7fuJtc5i6ogQmC</id>
-    <title>無料壁リング！</title>
-    <updated>2024-03-29T13:08:06.506000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/5ik1ibvg7fuJtc5i6ogQmC"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/754MmN5QH4f9qpafTiCQNi/dd3f501fa4d54cf514d2a729fc5053ee/FreeWallRing-JA__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9wn_oP8-5_0?si=2IfpJRyjjhk8rfJI"/>
-    <category term="コミュニティ"/>
-    <published>2024-03-29T13:00:02+00:00</published>
   </entry>
   <entry>
     <id>23X3fj7hCD5M9N1eCBoXZQ</id>
@@ -391,7 +381,7 @@
   <entry>
     <id>5dPlaja0zWk01oRh7cX6xr</id>
     <title>ゲームの安全性と公平性について -今後のお知らせ</title>
-    <updated>2024-06-27T04:10:48.877000+00:00</updated>
+    <updated>2024-06-27T13:07:38.650000+00:00</updated>
     <content>&lt;h1&gt;ゲームの安全性と公平性について -今後のお知らせ&lt;/h1&gt;
 &lt;p&gt;こんにちはチーフ！
 前回&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fblog%252Fmisc%252Fupdate-to-our-fair-play-policy-and-next-steps%252F')"&gt;アナウンス&lt;/a&gt;をしたアカウントの停止対応などについてお知らせです！&lt;/p&gt;&lt;p&gt;以前お伝えしたとおり、我々はゲーム内で不当な利益を得るために使用されるボットアカウントなどを対象にしたアカウント停止対応を行なっております。

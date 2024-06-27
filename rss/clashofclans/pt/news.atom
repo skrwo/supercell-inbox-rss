@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-newsEntries-pt</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-27T12:48:54.143377+00:00</updated>
+  <updated>2024-06-27T13:29:38.719736+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>5ik1ibvg7fuJtc5i6ogQmC</id>
-    <title>Anel de muro grátis!</title>
-    <updated>2024-03-29T13:08:06.506000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/pt/news/5ik1ibvg7fuJtc5i6ogQmC"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/I4B4jgYS0hamhkU58C8Xk/cf87255835f683f42124afa39ae56d97/FreeWallRing-PT.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9wn_oP8-5_0"/>
-    <category term="Comunidade"/>
-    <published>2024-03-29T13:00:02+00:00</published>
-  </entry>
   <entry>
     <id>3KKTHgN2ZJpwR4wb5L9JTT</id>
     <title>NOSSA 💥 MAIOR atualização até agora CHEGOU!</title>
@@ -297,7 +287,7 @@ Interessado? Leia abaixo todos os detalhes do evento!&lt;/p&gt;&lt;p&gt;&lt;b&gt
   <entry>
     <id>5dPlaja0zWk01oRh7cX6xr</id>
     <title>Atualização da nossa Política de Jogo Limpo - Nova onda de bans</title>
-    <updated>2024-06-27T04:10:48.877000+00:00</updated>
+    <updated>2024-06-27T13:07:38.650000+00:00</updated>
     <content>&lt;h1&gt;Atualização da nossa Política de Jogo Limpo - Nova onda de bans&lt;/h1&gt;
 &lt;p&gt;Olá, Chefe! Estamos dando continuidade ao nosso último &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fblog%252Fmisc%252Fupdate-to-our-fair-play-policy-and-next-steps%252F')"&gt;anúncio&lt;/a&gt; sobre levas de bans permanentes. Gostariamos de compartilhar de que teremos uma nova leva em breve.&lt;/p&gt;&lt;p&gt;
 Conforme mencionado anteriormente, nós estamos visando contas de bot, que são utilizadas para fornecer uma vantagem desleal no jogo. Dito isso, estaremos banindo permanentemente novas contas que foram identificadas como bots. Além disso, jogadores que utilizam softwares de terceiros também serão banidos permanentementes. &lt;/p&gt;&lt;p&gt;
