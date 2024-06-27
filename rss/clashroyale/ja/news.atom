@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-27T15:30:40.040887+00:00</updated>
+  <updated>2024-06-27T16:37:45.966043+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,15 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>32rfjCGqI5ufS8AouFsC5o</id>
-    <title>限界突破攻城バーバリアンが登場🐏</title>
-    <updated>2024-04-03T07:26:44.937000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/32rfjCGqI5ufS8AouFsC5o"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7L0NaSXr9zRIFnHAQ1rXVM/c93a21d8c6b1d4e8f165a986bf365ecd/battleramevo_thumbnail.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/F709XE9WxhM?feature=share"/>
-    <published>2024-03-29T16:05:02+00:00</published>
   </entry>
   <entry>
     <id>14iKq2Nr9X7oSv2u6PpYnd</id>
@@ -702,7 +693,7 @@
   <entry>
     <id>d78AqJd4Kj3Vot4MopyYo</id>
     <title>ゴブリンドリルとゴブジャイアントが限界を突破します！</title>
-    <updated>2024-06-27T15:10:08.495000+00:00</updated>
+    <updated>2024-06-27T16:09:58.745000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/d78AqJd4Kj3Vot4MopyYo"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7GyyZrErblV90j2hf1vXkx/ae50e524a2567ede11076c820ad2d16b/goblingiantevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/ODpY5pGayug"/>
