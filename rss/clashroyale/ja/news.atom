@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-28T07:29:02.532847+00:00</updated>
+  <updated>2024-06-28T08:32:20.561090+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -689,14 +689,5 @@
     <link href="https://youtube.com/shorts/H6r_TVcha0Q"/>
     <category term="エンタメ"/>
     <published>2024-06-22T15:30:03+00:00</published>
-  </entry>
-  <entry>
-    <id>d78AqJd4Kj3Vot4MopyYo</id>
-    <title>ゴブリンドリルとゴブジャイアントが限界を突破します！</title>
-    <updated>2024-06-28T04:19:27.417000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/d78AqJd4Kj3Vot4MopyYo"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7GyyZrErblV90j2hf1vXkx/ae50e524a2567ede11076c820ad2d16b/goblingiantevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/ODpY5pGayug"/>
-    <published>2024-06-27T15:10:02+00:00</published>
   </entry>
 </feed>
