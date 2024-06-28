@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-06-28T06:37:54.349169+00:00</updated>
+  <updated>2024-06-28T07:29:11.259937+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>42tkGxu9HjMWYoSucMHnTs</id>
-    <title>Молочные новости: новый апрельский контент!</title>
-    <updated>2024-03-29T07:50:55.823000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/42tkGxu9HjMWYoSucMHnTs"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5A4UUPPGxDj3JgxEXTSSzQ/3dbe53ea4bdaa8069ec300afe552f129/DairyNewsCover.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/vF1izB4TZf0"/>
-    <category term="Обновления"/>
-    <published>2024-03-29T07:46:28+00:00</published>
-  </entry>
-  <entry>
-    <id>5m5pYyMhe0cNTcSaiZMdN7</id>
-    <title>Событие с подписчиками YouTube</title>
-    <updated>2024-03-29T09:54:15.897000+00:00</updated>
-    <content>&lt;h1&gt;Участвуйте в событии с подписчиками YouTube и получайте замечательные награды!&lt;/h1&gt;
-&lt;p&gt;Наш YouTube-канал вот-вот наберет 2 миллиона подписчиков! В честь этого рубежа мы подготовили для вас увлекательное событие.&lt;/p&gt;&lt;p&gt;За каждые 20 000 новых подписчиков в игре будут появляться награды, пока мы не достигнем цели. Если же наш канал превзойдет все ожидания и наберет 2,2 миллиона подписчиков, то вы сможете получить украшение «Луковичные цветы».&lt;/p&gt;&lt;p&gt;Заглядывайте во входящие сообщения, чтобы следить за прогрессом в событии, а когда придет время, отправляйтесь в магазин, чтобы забрать награды. Они будут доступны бесплатно, и их можно будет найти сразу за акциями Farm Pass.&lt;/p&gt;&lt;p&gt;Давайте расти вместе! 🌼🎉&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/5m5pYyMhe0cNTcSaiZMdN7"/>
-    <category term="Новости"/>
-    <published>2024-03-29T07:53:17+00:00</published>
-  </entry>
   <entry>
     <id>4wCvW0sZ402sTO4JYxD9MU</id>
     <title>События Hay Day: 15-я неделя</title>

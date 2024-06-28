@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-06-28T06:37:49.225839+00:00</updated>
+  <updated>2024-06-28T07:29:11.822595+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>42tkGxu9HjMWYoSucMHnTs</id>
-    <title>農場快訊：四月更新內容</title>
-    <updated>2024-03-29T07:50:55.823000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/zh/news/42tkGxu9HjMWYoSucMHnTs"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5A4UUPPGxDj3JgxEXTSSzQ/3dbe53ea4bdaa8069ec300afe552f129/DairyNewsCover.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/vF1izB4TZf0"/>
-    <category term="遊戲更新"/>
-    <published>2024-03-29T07:46:28+00:00</published>
-  </entry>
   <entry>
     <id>4wCvW0sZ402sTO4JYxD9MU</id>
     <title>《卡通農場》第15週活動安排！</title>

@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-06-28T06:37:51.166967+00:00</updated>
+  <updated>2024-06-28T07:29:09.497401+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>42tkGxu9HjMWYoSucMHnTs</id>
-    <title>C dans l'œuf : tout le contenu inédit en avril !</title>
-    <updated>2024-03-29T07:50:55.823000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/42tkGxu9HjMWYoSucMHnTs"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5A4UUPPGxDj3JgxEXTSSzQ/3dbe53ea4bdaa8069ec300afe552f129/DairyNewsCover.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/vF1izB4TZf0"/>
-    <category term="Mises à jour"/>
-    <published>2024-03-29T07:46:28+00:00</published>
-  </entry>
-  <entry>
-    <id>5m5pYyMhe0cNTcSaiZMdN7</id>
-    <title>Infos sur les paliers YouTube</title>
-    <updated>2024-03-29T09:54:15.897000+00:00</updated>
-    <content>&lt;h1&gt;Participez au défi des paliers YouTube pour gagner des récompenses fantastiques !&lt;/h1&gt;
-&lt;p&gt;Nous sommes sur le point d&amp;#39;atteindre 2 millions d&amp;#39;abonnés sur notre chaîne YouTube ! Pour fêter ça, nous vous avons préparé un défi passionnant.&lt;/p&gt;&lt;p&gt;Chaque fois que 20 000 nouveaux amis se joindront à nous, nous distribuerons des récompenses en jeu, jusqu&amp;#39;à ce que notre objectif soit atteint. Et si la communauté dépasse nos attentes en atteignant 2,2 millions d&amp;#39;abonnés, la ravissante décoration Bulbes à fleurs sera à vous !&lt;/p&gt;&lt;p&gt;Surveillez votre boîte de réception pour suivre la progression vers cet objectif et le moment venu, récupérez vos récompenses dans le magasin. Elles vous y attendront en tant qu&amp;#39;objets gratuits, juste après les offres du pass Hay Day.&lt;/p&gt;&lt;p&gt;Poussons ensemble ! 🌼🎉&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/5m5pYyMhe0cNTcSaiZMdN7"/>
-    <category term="Nouvelles"/>
-    <published>2024-03-29T07:53:17+00:00</published>
-  </entry>
   <entry>
     <id>4wCvW0sZ402sTO4JYxD9MU</id>
     <title>Calendrier des événements Hay Day (semaine 15)</title>
