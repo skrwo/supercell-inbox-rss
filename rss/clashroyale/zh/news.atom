@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-28T03:32:39.418768+00:00</updated>
+  <updated>2024-06-28T04:32:56.175642+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -801,5 +801,35 @@
     <link href="https://www.youtube.com/watch?v=XgWrPQUemF0"/>
     <category term="攻略"/>
     <published>2024-06-23T09:27:07+00:00</published>
+  </entry>
+  <entry>
+    <id>d78AqJd4Kj3Vot4MopyYo</id>
+    <title>又高又壯的綠色夥伴  #CardEvolution</title>
+    <updated>2024-06-28T04:19:27.417000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/d78AqJd4Kj3Vot4MopyYo"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7GyyZrErblV90j2hf1vXkx/ae50e524a2567ede11076c820ad2d16b/goblingiantevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/FTYW8NHAkmE"/>
+    <category term="精彩時刻"/>
+    <published>2024-06-27T15:10:02+00:00</published>
+  </entry>
+  <entry>
+    <id>4B0Obupd7w4LTzuhnw7nYT</id>
+    <title>【阿酸】帶你搶先看進化哥布林巨人！對上英雄會是？</title>
+    <updated>2024-06-28T04:01:27.689000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/4B0Obupd7w4LTzuhnw7nYT"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3B8Ye62A1BzoK7OH1IL5KA/0f522d0f0b1cae8bf63a5623d4c82857/tw_20240628_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=bM9CIxz_9aI"/>
+    <category term="最新情報"/>
+    <published>2024-06-28T04:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5usGVOtlt592ELdXUXTFZG</id>
+    <title>【Xiake】哥布林巨人實戰中強度如何？</title>
+    <updated>2024-06-28T04:01:14.617000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/5usGVOtlt592ELdXUXTFZG"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5uRNnWir880q0Js05zZQrq/90b581604c8829a37a9af7ad51b8f3aa/tw_20240628_xiake_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=9WaFLebVUWg"/>
+    <category term="最新情報"/>
+    <published>2024-06-28T04:01:00+00:00</published>
   </entry>
 </feed>
