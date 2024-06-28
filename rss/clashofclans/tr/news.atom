@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>clashofclans-newsEntries-tr</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-28T10:34:43.043701+00:00</updated>
+  <updated>2024-06-28T11:29:21.466892+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -173,5 +173,16 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2lwRGo4cajletD3kKegi1J/b6920037f2c7ee95e65552097645a75d/Thumb-UnlimitedHeroesEvent.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Oyuncu topluluğu"/>
     <published>2024-06-24T08:10:46+00:00</published>
+  </entry>
+  <entry>
+    <id>5dPlaja0zWk01oRh7cX6xr</id>
+    <title>Adil Oyun Duyurusu - Gelecek Engellemeler</title>
+    <updated>2024-06-28T10:49:53.603000+00:00</updated>
+    <content>&lt;h1&gt;Adil Oyun Duyurusu - Gelecek Engellemeler&lt;/h1&gt;
+&lt;p&gt;Merhaba şef, sıklaştırdığımız engelleme dalgaları hakkındaki &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fblog%252Fmisc%252Fupdate-to-our-fair-play-policy-and-next-steps%252F')"&gt;duyurumuzun&lt;/a&gt; devamı olarak yeni bir dalganın daha yaklaştığını bildirmek istiyoruz.&lt;/p&gt;&lt;p&gt;Önceden de bahsettiğimiz gibi, oyunda haksız avantaj elde etme amacıyla kullanılan bot hesapları hedef alıyoruz. Bununla beraber, bot olarak belirlenen tüm hesapları kalıcı olarak engelleyeceğiz. Üçüncü taraf yazılımlardan faydalanan oyuncular da kalıcı olarak engellenecek.&lt;/p&gt;&lt;p&gt;Herkes için güvenli ve adil bir Clash of Clans ortamı sunmak için yaptığımız çalışmaları duyurmaya devam edeceğiz.&lt;/p&gt;&lt;p&gt;- Clash of Clans Ekibi&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/tr/news/5dPlaja0zWk01oRh7cX6xr"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/yF3NrpJSXa6i1D_WPB-x-z_6knTc_AgVx7x9ofIT1Jw/0fa6c332a7db2a5bb3ce502583bd58ed/fairplay.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Haberler"/>
+    <published>2024-06-26T06:23:13+00:00</published>
   </entry>
 </feed>
