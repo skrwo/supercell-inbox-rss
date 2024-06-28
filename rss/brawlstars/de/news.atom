@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-28T01:40:46.655791+00:00</updated>
+  <updated>2024-06-28T02:44:29.113558+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -118,15 +118,5 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5CfdLbRtCX2WK0UxW9lRH4/1ca96a865f7a11165d951af768568152/0624_Update_Patch_Notes_1920x1080_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Updates"/>
     <published>2024-06-25T07:24:00+00:00</published>
-  </entry>
-  <entry>
-    <id>60PU2QyCTpek1At8Anp5Gu</id>
-    <title>Einen BERRY schönen Tag!</title>
-    <updated>2024-06-28T00:46:07.164000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/de/news/60PU2QyCTpek1At8Anp5Gu"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6jYsc5wuxZvVlx1iyVRS8p/1ac4ffd2de9c5a18d11661af9a9c9342/Belle_Voting_800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/0xjh3hQX_Fk"/>
-    <category term="Video"/>
-    <published>2024-06-27T07:04:23+00:00</published>
   </entry>
 </feed>
