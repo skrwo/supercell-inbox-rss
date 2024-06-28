@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-06-28T12:49:39.159288+00:00</updated>
+  <updated>2024-06-28T13:29:16.189332+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -268,13 +268,29 @@ Domingo: Edificios de producción potenciados (3 edificios aleatorios un 20 % m�
     <published>2024-06-23T16:31:23+00:00</published>
   </entry>
   <entry>
+    <id>5cGBhqi18bgMvfYuo5kXso</id>
+    <title>Concurso culinario de Hay Day</title>
+    <updated>2024-06-28T13:26:25.017000+00:00</updated>
+    <content>&lt;h1&gt;Vota por tu plato favorito:&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Sopa de fideos&lt;/p&gt;&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2LYC5RK2IOCHYGZBUvIKfk/9cd91b81927aa0e2972845cc148aa250/Faith_Soup_2__1_.png?w=300&amp;h=400&amp;f=center&amp;fit=pad"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pizza de marisco&lt;/p&gt;&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7qimGKI2lVTNysiWr4oZKd/ec5a764c61b958b957ee6fd911d50067/WhatsApp_Image_2024-06-24_at_19.14.44_75e64319.jpg?w=300&amp;h=400&amp;f=center&amp;fit=pad"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pan de plátano&lt;/p&gt;&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3ScGNZG5oL9JlRvtIpVlev/f143af8ff83acb94dd05eccf7b80ff6a/Ale_Bread_2__1_.png?w=300&amp;h=400&amp;f=center&amp;fit=pad"&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/5cGBhqi18bgMvfYuo5kXso"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1rAGjRaoDvAukZOkO89qv9/fba35cebae9cd41e7522dde2f904a408/HD_Inbox_CollageDishes_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Comunidad"/>
+    <published>2024-06-28T13:25:00+00:00</published>
+  </entry>
+  <entry>
     <id>GvCqKEEnbSHO0CnLaNPLP</id>
     <title>Noticias huevásticas: empieza aquí tu colección</title>
-    <updated>2024-06-28T07:55:56.261000+00:00</updated>
+    <updated>2024-06-28T13:28:29.744000+00:00</updated>
     <link href="https://hayday.inbox.supercell.com/#/es/news/GvCqKEEnbSHO0CnLaNPLP"/>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1U9AiC9QquG1Lpu2eDzH6k/dac5cd4635d9a034fca8024f190608b8/HD-thumb-final-01-A.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/D78NHf7VRa8"/>
     <category term="Noticias"/>
-    <published>2024-06-28T07:52:20+00:00</published>
+    <published>2024-06-29T21:00:00+00:00</published>
   </entry>
 </feed>
