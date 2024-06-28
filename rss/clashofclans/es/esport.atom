@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-28T15:29:27.710756+00:00</updated>
+  <updated>2024-06-28T16:35:27.364776+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -41,32 +41,6 @@ Criterios de Participación: Todos los jugadores debían tener al menos 16 años
     <published>2023-01-17T11:02:00+00:00</published>
   </entry>
   <entry>
-    <id>5bYfclnbQd0vdf4mjb5RPN</id>
-    <title>¡El campeonato mundial vuelve en 2024!</title>
-    <updated>2024-03-07T15:43:53.880000+00:00</updated>
-    <content>&lt;h1&gt;¡El campeonato mundial vuelve en 2024!&lt;/h1&gt;
-&lt;p&gt;¡Hola, jefe! ¡Año nuevo, campeonato mundial de Clash of Clans nuevo! En este comunicado encontrarás un resumen del programa del campeonato mundial de Clash of Clans, diseñado para que puedas competir contra los mejores equipos del mundo de Clash of Clans y asegurar una parte de la bolsa de premios de &lt;b&gt;1 000 000 $&lt;/b&gt;.&lt;/p&gt;
-&lt;h1&gt;¡El campeonato mundial vuelve en 2024!&lt;/h1&gt;
-&lt;a href="https://www.youtube.com/watch?v=3ulVqG9Yr5s"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
-&lt;h1&gt;DE VUELTA A NUESTROS ORÍGENES&lt;/h1&gt;
-&lt;p&gt;En su momento os encantó y a nosotros también, ¡así que este año volvemos a traer las competiciones mensuales al ámbito competitivo de Clash of Clans!&lt;/p&gt;&lt;p&gt;&lt;b&gt;El campeonato mundial estará formado por:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Cuatro competiciones mensuales&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Una clasificatoria regional china&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Una clasificatoria de última oportunidad&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Y una final del campeonato mundial presencial&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h1&gt;COMPETICIONES MENSUALES&lt;/h1&gt;
-&lt;p&gt;Desde abril hasta julio, cada mes tendrás una oportunidad para asegurarte un tique de oro en las finales del campeonato mundial. Cada competición mensual tendrá tres fases: una clasificatoria abierta (o, como la llamamos nosotros, fase 1), una clasificatoria mensual de 128 equipos y una final mensual.&lt;/p&gt;&lt;p&gt;En resumen: si ganas la final mensual, conseguirás un tique de oro para tu equipo ¡que os llevará a las finales del campeonato mundial! ¡Pero eso no es todo! Quienes queden en segundo puesto cada mes tendrán garantizada una plaza en la clasificatoria de última oportunidad. ¡El segundo puesto es importante!&lt;/p&gt;&lt;p&gt;Te estarás preguntando cuándo empieza exactamente. No te preocupes, te mantendremos al tanto. Además, ¡es difícil no ver el icono del portal del torneo en la pantalla principal cuando llega la hora de registrarse!&lt;/p&gt;
-&lt;h1&gt;CLASIFICATORIA DE ÚLTIMA OPORTUNIDAD&lt;/h1&gt;
-&lt;p&gt;¿Qué sería de un año sin una clasificatoria de última oportunidad? Los cuatro equipos de las competiciones mensuales se enfrentarán a varios ganadores de los torneos de la comunidad por una oportunidad de ganar el último tique de oro que da acceso a las finales del campeonato mundial.&lt;/p&gt;
-&lt;h1&gt;¡MIRA EL CALEDARIO COMPLETO!&lt;/h1&gt;
-&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fechas de la clasificatoria mensual de abril:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Registro: del 26 al 31 de marzo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fase 1: del 1 al 6 de abril.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clasificatoria mensual: 13 y 14 de abril.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finales mensuales: 20 y 21 de abril.
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fechas de la clasificatoria mensual de mayo:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Registro: del 27 al 30 de abril.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fase 1: del 1 al 6 de mayo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clasificatoria mensual: 18 y 19 de mayo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finales mensuales: 25 y 26 de mayo.
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fechas de la clasificatoria mensual de junio:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Registro: del 28 al 31 de mayo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fase 1: del 1 al 6 de junio.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clasificatorias mensuales: 15 y 16 de junio.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finales mensuales: 22 y 23 de junio.
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fechas de la clasificatoria mensual de julio:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Registro: del 27 al 30 de junio.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fase 1: del 1 al 6 de julio.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clasificatoria mensual: 13 y 14 de julio.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finales mensuales: 20 y 21 de julio.
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fechas de la clasificatoria de última oportunidad:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;7 y 8 de septiembre.
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finales del campeonato mundial:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Noviembre de 2024.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Sabemos que tienes más preguntas ¡y prometemos responderlas pronto! Sigue la pestaña de eSports del juego y nuestra cuenta de &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;eSports de Clash of Clans en X&lt;/a&gt;, &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt;Instagram&lt;/a&gt; y &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')"&gt;nuestra página de eSports&lt;/a&gt; para no perderte ningún detalle.&lt;/p&gt;&lt;p&gt;El equipo de Clash of Clans&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/62wSND6LsMVYLJmH2sald8/2ee92bd2d060de0090aa373870b6f753/Announcement_Teaser_thumb_es.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="eSports"/>
-    <published>2024-02-15T13:59:42+00:00</published>
-  </entry>
-  <entry>
     <id>1riQAzfbFBHavBVZeYM4qj</id>
     <title>Programa del campeonato mundial de 2024</title>
     <updated>2024-03-11T07:31:11.909000+00:00</updated>
@@ -84,21 +58,6 @@ Criterios de Participación: Todos los jugadores debían tener al menos 16 años
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3P0RDd11o21JzTJocBzFHA/4fe4982bcbe93f861f2a7af64247fcd2/ES_2024_Worlds_Schedule_Announcement-_Thumbnails.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eSports"/>
     <published>2024-03-06T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>3HFPUrRk3ply0IhzCVx6b9</id>
-    <title>Campeonato mundial de CoC 2024: reglamento y formato</title>
-    <updated>2024-03-25T15:54:11.105000+00:00</updated>
-    <content>&lt;h1&gt;Buenas: &lt;/h1&gt;
-&lt;p&gt;Sabemos que tienes muchas ganas de conocer más cosas sobre el campeonato mundial de Clash of Clans de 2024, y ha llegado el momento de que los compartamos contigo.&lt;/p&gt;&lt;p&gt;En primer lugar, asegúrate de haber leído el &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fcoc-rules.scescdn.com%252F2024-ES')"&gt;reglamento oficial del campeonato mundial de Clash of Clans&lt;/a&gt; para conocer todos los detalles.&lt;/p&gt;&lt;p&gt;Las clasificatorias de este año contarán con tres fases: las clasificatorias abiertas, las clasificatorias mensuales y las finales mensuales. ¡Échale un vistazo al formato!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2KnFmLgqSmksg7lq32Dt8v/0597138aef5c6aedf6f1eedf21acf4c7/ES_2024_Worlds_Announcement_Format__1_.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Lee el &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fcompose.contentful.com%252Fspaces%252Flqe2co20rkhw%252Fpage%252F1riQAzfbFBHavBVZeYM4qj%253Flocale%253Des')"&gt;artículo con los horarios&lt;/a&gt; para conocer todas las fechas importantes y asegúrate de apuntarlas en el calendario para no perder la oportunidad de clasificarte.&lt;/p&gt;&lt;p&gt;La bolsa de premios del campeonato mundial de Clash of Clans será de 1 000 000 de dólares estadounidenses. Mientras se prepara la distribución para la clasificatoria de última oportunidad y para las finales mundiales, ¡échale un vistazo a la distribución de las finales mensuales!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6OIaiLO3xLzJWodJBMw4oL/b5047f4979f9d206442af11dc6107532/ES_2024_Worlds_Announcement_Prizes__1_.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;¡Eso es todo por hoy! Asegúrate de consultar la pestaña de eSports de Clash of Clans, &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')"&gt;la página web de eSports&lt;/a&gt;, nuestro perfil de &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;X&lt;/a&gt; y nuestro perfil de &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt;Instagram&lt;/a&gt; para no perderte nada relacionado con el campeonato mundial de Clash of Clans. #ClashWorlds&lt;/p&gt;&lt;p&gt;¡A dar guerra!
-El equipo de eSports de Clash of Clans&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5j18tXTqQZ1REDogIjY7XW/e8c135660e4e4874c7f63c00e4fe3d76/ES_2024_Worlds_Announcement-_Thumbnails.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="eSports"/>
-    <published>2024-03-19T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>5iS0cgaQurMHESABoYIOrj</id>

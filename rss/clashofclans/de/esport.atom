@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-esportNewsEntries-de</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-28T15:29:27.050137+00:00</updated>
+  <updated>2024-06-28T16:35:26.633734+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -85,28 +85,6 @@ Seht euch an, wie alle 8 Weltmeisterschaftsfinalisten an diesem Wochenende abges
     <published>2023-11-26T15:47:43+00:00</published>
   </entry>
   <entry>
-    <id>5bYfclnbQd0vdf4mjb5RPN</id>
-    <title>Die World Championship kehrt 2024 zurück!</title>
-    <updated>2024-03-07T15:43:53.880000+00:00</updated>
-    <content>&lt;h1&gt;Die Clash Worlds kehren 2024 zurück!&lt;/h1&gt;
-&lt;p&gt;Hallo Häuptling! Ein brandneues Jahr bedeutet auch eine brandneue World Championship in Clash of Clans! In dieser Ankündigung geben wir dir eine Übersicht über das World-Championship-Programm, das es dir ermöglicht, gegen die besten Clash of Clans-Teams der Welt anzutreten und dir einen Teil des Preisgelds in der Höhe von &lt;b&gt;1.000.000 $&lt;/b&gt; zu sichern!&lt;/p&gt;
-&lt;h1&gt;Clash of Clans World Championship returns for 2024!&lt;/h1&gt;
-&lt;a href="https://www.youtube.com/watch?v=3ulVqG9Yr5s"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
-&lt;h1&gt;ZURÜCK ZU DEN WURZELN&lt;/h1&gt;
-&lt;p&gt;Sowohl euch als auch uns haben die monatlichen Wettkämpfe in der Vergangenheit sehr viel Spaß gemacht. Daher bringen wir sie dieses Jahr in die kompetitive Welt von Clash of Clans zurück!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Die World Championship wird aus den folgenden Teilen bestehen:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Vier monatliche Wettkämpfe&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ein chinesischer regionaler Qualifier&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ein Last Chance Qualifier&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Das World Championship Final, das offline stattfinden wird&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h1&gt;MONATLICHE WETTKÄMPFE&lt;/h1&gt;
-&lt;p&gt;Von April bis Juli hast du jeden Monat die Chance, dir ein Goldenes Ticket zu den World Championship Finals zu sichern! Jeder monatliche Wettkampf besteht aus drei Phasen: einem Offenen Qualifier (oder „Phase 1“), einem Monatlichen Qualifier mit 128 Teams und einem Monatlichen Final.&lt;/p&gt;&lt;p&gt;Wenn du ein Monatliches Final gewinnst, bekommen du und ein Team ein Goldenes Ticket zu den World Championship Finals! Aber das war noch nicht alles. Sämtliche zweitplatzierten Teams jedes Monats qualifizieren sich für den Last Chance Qualifier. Es zählen also auch zweite Plätze!&lt;/p&gt;&lt;p&gt;Wann genau das Ganze beginnt? Keine Sorge, wir werden dich auf dem Laufenden halten. Das Symbol für den Turnier-Hub im Hauptmenü wirst du nicht übersehen können, wenn die Anmeldephase beginnt!&lt;/p&gt;
-&lt;h1&gt;LAST CHANCE QUALIFIER&lt;/h1&gt;
-&lt;p&gt;Was wäre spannende Championship-Action ohne einen Last Chance Qualifier? Die vier Teams aus den monatlichen Wettkämpfen treffen auf Sieger von Community-Turnieren und kämpfen um das letzte Goldene Ticket zu den World Championship Finals.&lt;/p&gt;
-&lt;h1&gt;SCHAUT EUCH DEN GESAMTEN ZEITPLAN AN!&lt;/h1&gt;
-&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Termine für das monatliche Qualifikationsturnier im April:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Anmeldungen - 26. bis 31. März&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Phase 1 - 1. bis 6. April&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Monatliches Qualifikationsturnier - 13. und 14. April&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Monatsfinale - 20. und 21. April&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Monatliche Qualifikationstermine im Mai:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Anmeldungen - 27. bis 30. April&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Phase 1 - 1. bis 6. Mai&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Monatliches Qualifikationsturnier - 18. und 19. Mai&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Monatsfinale - 25. und 26. Mai&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
-&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Termine der monatlichen Qualifikationsrunde im Juni:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Anmeldungen - 28. bis 31. Mai&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Phase 1 - 1. bis 6. Juni&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Monatliches Qualifikationsturnier - 15. und 16. Juni&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Monatsfinale - 22. und 23. Juni&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Monatliche Qualifikationstermine im Juli:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Anmeldungen - 27. bis 30. Juni&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Phase 1 - 1. bis 6. Juli&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Monatliches Qualifikationsturnier - 13. und 14. Juli&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Monatsfinale - 20. und 21. Juli&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Termine für den Last Chance Qualifier:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;7. und 8. September&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Weltfinale&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;November 2024&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Du hast sicher noch mehr Fragen – diese werden wir sehr bald beantworten! Folge den E-Sports-News im Spiel sowie dem &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;X-Profil von Clash of Clans Esports&lt;/a&gt;, unserem &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt;Instagram-Profil&lt;/a&gt; und der &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252Fde')"&gt;E-Sports-Website&lt;/a&gt;, um nichts zu verpassen!&lt;/p&gt;&lt;p&gt;Dein E-Sports-Team von Clash of Clans&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1BreMshpAlr0p3yAa58KYQ/db4dbb5cf0f47f0417cf780ec1d4cf1c/DE_Announcement_Teaser_thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="E-Sports"/>
-    <published>2024-02-15T13:59:42+00:00</published>
-  </entry>
-  <entry>
     <id>1riQAzfbFBHavBVZeYM4qj</id>
     <title>Zeitplan der World Championship 2024</title>
     <updated>2024-03-11T07:31:11.909000+00:00</updated>
@@ -119,21 +97,6 @@ Seht euch an, wie alle 8 Weltmeisterschaftsfinalisten an diesem Wochenende abges
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5bzLbQlL7uLwIZXWaxKhkK/9cce4e7f010d7eae642014ed2f6d47c6/2024_Worlds_Schedule_Announcement-_Thumbnails.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-Sports"/>
     <published>2024-03-06T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>3HFPUrRk3ply0IhzCVx6b9</id>
-    <title>Clash Worlds 2024 – Regelbuch und Format!</title>
-    <updated>2024-03-25T15:54:11.105000+00:00</updated>
-    <content>&lt;h1&gt;Hallo Häuptling! &lt;/h1&gt;
-&lt;p&gt;Wir wissen, dass du schon sehnsüchtig auf weitere Details zur Clash of Clans World Championship 2024 gewartet hast, und nun ist es endlich so weit, dass wir sie mit dir teilen können!&lt;/p&gt;&lt;p&gt;Zuallererst solltest du &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fcoc-rules.scescdn.com%252F2024-DE')"&gt;die offiziellen Wettbewerbsregeln der Clash of Clans World Championship&lt;/a&gt; lesen, um alle Details zu erfahren!&lt;/p&gt;&lt;p&gt;Wie wir bereits &lt;a href="javascript:window.sendCommand('OpenWeb?url=1OJEHE6o6rEAWHTJlcSulv')"&gt;in einer früheren Ankündigung erwähnt haben&lt;/a&gt;, werden die diesjährigen Qualifikationsrunden aus drei Phasen bestehen: Offene Qualifier, Monatliche Qualifier und Monatliche Finals. Sieh dir unten das Format an!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5EKiX7vDe7skpiXNGttgNv/0dd11d01cb3b5f46aff24ad3c167d3a5/DE_2024_Worlds_Announcement_Format.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Im &lt;a href="javascript:window.sendCommand('OpenWeb?url=1riQAzfbFBHavBVZeYM4qj')"&gt;offiziellen Zeitplan&lt;/a&gt; findest du alle relevanten Termine und kannst sie in deinem Kalender markieren, um deine Chancen zur Qualifizierung nicht zu verpassen!&lt;/p&gt;&lt;p&gt;Der gesamte Preispool für die diesjährigen Clash Worlds beläuft sich auf 1.000.000 $! Während die Details zur Verteilung für den Last Chance Qualifier und die World Finals noch vorbereitet werden, wirf einen Blick auf die endgültige Verteilung für die Monatlichen Finals!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1EtHx94McPXGxBG0HaV2EN/48358ddea9e454eae1de1ff5ea4d559c/DE_2024_Worlds_Announcement_Prizes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Das war‘s fürs Erste! Behalte den E-Sports-Reiter in Clash of Clans, die &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')"&gt;E-Sports-Website&lt;/a&gt;, &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;X&lt;/a&gt; und &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt;Instagram&lt;/a&gt; im Auge, um bezüglich der #ClashWorlds auf dem neusten Stand zu bleiben!&lt;/p&gt;&lt;p&gt;Weiterhin viel Spaß mit Clash!
-Dein E-Sports-Team von Clash of Clans&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5OQ7pxi6FZx4h0HGRUKlGB/1dc22c2580c9f5cec68f5eeb32019678/DE_2024_Worlds_Announcement-_Thumbnails.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="E-Sports"/>
-    <published>2024-03-19T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>5iS0cgaQurMHESABoYIOrj</id>

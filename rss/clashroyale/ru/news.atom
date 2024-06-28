@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-28T15:29:22.015953+00:00</updated>
+  <updated>2024-06-28T16:35:20.683771+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -25,16 +25,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2023-12-01T18:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>14iKq2Nr9X7oSv2u6PpYnd</id>
-    <title>📺 TV Royale начался!</title>
-    <updated>2024-04-04T05:57:02.648000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/14iKq2Nr9X7oSv2u6PpYnd"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2nKHUBfdENGuDEqafDZoTH/c18165122253426b44b5f473ee9d40c1/AprilTVRoyale.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/8pTCDhkHww4"/>
-    <category term="Информация о версии"/>
-    <published>2024-03-30T16:10:02+00:00</published>
   </entry>
   <entry>
     <id>tn8Mh6cozcaC6rHY4wA96</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-esportNewsEntries-pt</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-28T15:29:26.002191+00:00</updated>
+  <updated>2024-06-28T16:35:25.833451+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -54,32 +54,6 @@ Obrigado por uma incrível temporada de 2023 e Clash On!
     <published>2023-11-26T15:42:54+00:00</published>
   </entry>
   <entry>
-    <id>5bYfclnbQd0vdf4mjb5RPN</id>
-    <title>O campeonato mundial volta em 2024!</title>
-    <updated>2024-03-07T15:43:53.880000+00:00</updated>
-    <content>&lt;h1&gt;Campeonato Mundial de Clash of Clans volta em 2024!&lt;/h1&gt;
-&lt;p&gt;Olá, chefe! Com o ano novo vem um Campeonato de Clash of Clans novo! Neste anúncio, faremos um apanhado geral do Campeonato Mundial planejado especialmente para que você consiga competir contra as melhores equipes de Clash of Clans do mundo por uma parte da premiação total de &lt;b&gt;US$ 1 milhão&lt;/b&gt;!&lt;/p&gt;
-&lt;h1&gt;O Campeonato Mundial de Clash of Clans está de volta em 2024!&lt;/h1&gt;
-&lt;a href="https://www.youtube.com/watch?v=3ulVqG9Yr5s"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
-&lt;h1&gt;DE VOLTA ÀS RAÍZES&lt;/h1&gt;
-&lt;p&gt;Você adorava os velhos tempos, e nós também. Por isso, este ano, as competições mensais estão de volta no cenário competitivo de Clash of Clans!&lt;/p&gt;&lt;p&gt;&lt;b&gt;O Campeonato Mundial vai ser composto de:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Quatro competições mensais&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Uma classificatória da China&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Uma classificatória final&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Final mundial presencial&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;h1&gt;COMPETIÇÕES MENSAIS&lt;/h1&gt;
-&lt;p&gt;De abril a julho, todo mês será uma nova chance de garantir o ingresso dourado para a final do Campeonato Mundial! Cada competição mensal tem três fases: uma classificatória aberta (fase 1), uma classificatória com 128 equipes e a final mensal.&lt;/p&gt;&lt;p&gt;Quem vencer a final mensal garante o ingresso dourado, ou seja, uma vaga na final mundial para a equipe! Mas não é só isso. Todos os vice-campeões mensais têm vaga garantida na classificatória final. A prata também vale muito!&lt;/p&gt;&lt;p&gt;Quer saber exatamente quando começa? Não se preocupe, pois vamos sempre publicar informações. Além disso, o ícone da plataforma do torneio fica disponível na tela principal do jogo quando for hora de se inscrever!&lt;/p&gt;
-&lt;h1&gt;CLASSIFICATÓRIA FINAL&lt;/h1&gt;
-&lt;p&gt;Para manter o interesse ao longo de todo o ano, nada como a classificatória final. As quatro equipes vice-campeãs nas competições mensais enfrentam os vencedores de torneios da comunidade pela chance de ganhar o último ingresso dourado para a final mundial.&lt;/p&gt;
-&lt;h1&gt;CONFIRA A PROGRAMAÇÃO COMPLETA!&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Datas das classificatórias mensais de abril:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Inscrições: 26 de março a 31 de abril&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1ª fase: 1º a 6 de abril&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Classificatórias mensais: 13 e 14 de abril&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finais mensais: 20 e 21 de abril
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Datas das classificatórias mensais de maio:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Inscrições: 27 a 30 de abril&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1ª fase: 1º a 6 de maio&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Classificatórias mensais: 18 e 19 de maio&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finais mensais: 25 e 26 e maio
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Datas das classificatórias mensais de junho:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Inscrições: 28 a 31 de maio&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1ª fase: 1º a 6 de junho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Classificatórias mensais: 15 e 16 de junho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finais mensais: 22 e 23 de junho
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Datas das classificatórias mensais de julho:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Inscrições: 27 a 30 de junho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1ª fase: 1º a 6 de julho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Classificatórias mensais: 13 e 14 de julho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Finais mensais: 20 e 21 de julho
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Datas das classificatórias finais:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;7 e 8 de setembro
-&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Final mundial:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Novembro de 2024&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Imaginamos que você tenha mais dúvidas, e elas serão respondidas em breve! Acompanhe as notícias de e-sports nas redes de Clash of Clans para não perder nenhum detalhe: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;X&lt;/a&gt;, &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt;Instagram&lt;/a&gt; e o &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')"&gt;site de e-sports&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;-Equipe de e-sports de Clash of Clans&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1AE7dNfgAoXMoSEmkHwnbV/a7608273c168c65f4980422339f45f79/PT_Announcement_Teaser_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="E-sports"/>
-    <published>2024-02-15T13:59:42+00:00</published>
-  </entry>
-  <entry>
     <id>1riQAzfbFBHavBVZeYM4qj</id>
     <title>Cronograma do Campeonato Mundial de 2024</title>
     <updated>2024-03-11T07:31:11.909000+00:00</updated>
@@ -97,21 +71,6 @@ Obrigado por uma incrível temporada de 2023 e Clash On!
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2NbxKd6OCBGHQ2bd1yoazF/6d5e89df7813f42f2f36953d95fdbedb/PT-2024_Worlds_Schedule_Announcement-_Thumbnails.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sports"/>
     <published>2024-03-06T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>3HFPUrRk3ply0IhzCVx6b9</id>
-    <title>Campeonato mundial de CoC: formato e regulamento</title>
-    <updated>2024-03-25T15:54:11.105000+00:00</updated>
-    <content>&lt;h1&gt;Olá, chefe! &lt;/h1&gt;
-&lt;p&gt;A comunidade estava contando os minutos para obter mais informações sobre o Campeonato Mundial de Clash of Clans de 2024, e a hora da revelação chegou!&lt;/p&gt;&lt;p&gt;Antes de tudo, sugerimos a leitura do &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fcoc-rules.scescdn.com%252F2024-PT')"&gt;regulamento oficial do Campeonato Mundial de Clash of Clans&lt;/a&gt; com todas as informações relevantes.&lt;/p&gt;&lt;p&gt;As classificatórias deste ano ocorrem em três etapas: classificatória aberta, classificatória mensal e final mensal. Confira o formato abaixo!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/u086VmwBYFPu4IHVja3kO/0dfb57d49f9a841b9ba9a2339894fb46/PT-2024_Worlds_Announcement_Format.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Dê uma olhada no &lt;a href="javascript:window.sendCommand('OpenWeb?url=1riQAzfbFBHavBVZeYM4qj')"&gt;cronograma&lt;/a&gt; para ficar por dentro das datas importantes, anotá-las no caderninho e não perder nenhuma chance de se qualificar!&lt;/p&gt;&lt;p&gt;A premiação total do Campeonato Mundial de Clash of Clans é de 1 milhão de dólares! Os pormenores da distribuição da classificatória final e da final mundial ainda estão sendo discutidos, mas você já pode conferir os detalhes da distribuição da premiação da final mensal.&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2McD04Mdi0USgJtAoMB9Ak/e37518c0cc1a65a0fbb2daa89765ff79/PT-2024_Worlds_Announcement_Prizes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;E por hoje é só! Fique de olho na aba E-sports de Clash of Clans, no &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')"&gt;site de e-sports&lt;/a&gt;, no &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;X&lt;/a&gt;, no &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt;Instagram&lt;/a&gt; e na hashtag #ClashWorlds para ficar por dentro de todas as novidades sobre o campeonato de Clash of Clans!&lt;/p&gt;&lt;p&gt;Boas lutas!
--Equipe de e-sports de Clash of Clans&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1Hxu2u13bnRzPOdpThbuCX/e8f5781b10203d0a6c338ec9758a0601/PT-2024_Worlds_Announcement-_Thumbnails.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="E-sports"/>
-    <published>2024-03-19T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>5iS0cgaQurMHESABoYIOrj</id>

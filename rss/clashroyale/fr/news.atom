@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-06-28T15:29:24.254636+00:00</updated>
+  <updated>2024-06-28T16:35:22.632987+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>14iKq2Nr9X7oSv2u6PpYnd</id>
-    <title>📺 TV Royale est en ligne !</title>
-    <updated>2024-04-04T05:57:02.648000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/14iKq2Nr9X7oSv2u6PpYnd"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2nKHUBfdENGuDEqafDZoTH/c18165122253426b44b5f473ee9d40c1/AprilTVRoyale.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/8pTCDhkHww4"/>
-    <category term="Notes de patch"/>
-    <published>2024-03-30T16:10:02+00:00</published>
-  </entry>
   <entry>
     <id>tn8Mh6cozcaC6rHY4wA96</id>
     <title>DÉFIS ET ÉVÉNEMENTS D'AVRIL</title>
