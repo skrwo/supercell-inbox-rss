@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-06-29T09:29:28.938899+00:00</updated>
+  <updated>2024-06-29T10:32:26.191765+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -357,5 +357,14 @@ Clash On!&lt;/p&gt;&lt;p&gt;- The Clash of Clans Esports Team&lt;/p&gt;</content
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1X9Zdh8fKP6aGYGXQGe1mb/b3c4aa16c9a899dff985588378c7053d/SPS_article_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-06-23T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1AWdlCVQ15UjBVImyYpD4c</id>
+    <title>Rewatch SPS Cup 1 - Day 1!</title>
+    <updated>2024-06-29T10:17:25.866000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1eK3TMDrX5uSGJ4zEPJ0wR/e9c355ec12675089b17f4ee4ae6e424f/SPS_season_5_cup_1_day_2_thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2184593060?t=00h38m44s"/>
+    <category term="Esports"/>
+    <published>2024-06-29T10:17:25+00:00</published>
   </entry>
 </feed>
