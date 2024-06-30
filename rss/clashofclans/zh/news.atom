@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-06-30T07:29:46.655410+00:00</updated>
+  <updated>2024-06-30T08:31:23.347687+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>3tTGfehNHLxG0TeLXsPRDF</id>
-    <title>【烏龜】挑戰太難？試試看這2種解法思路！</title>
-    <updated>2024-04-01T08:03:52.143000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3tTGfehNHLxG0TeLXsPRDF"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5TP5IYJwsbEGipMrla4kDC/822f2e13842c3c957ae2fd3a2731e6c1/tw_20240401_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/__lgale7Xdk"/>
-    <category term="最新情報"/>
-    <published>2024-04-01T08:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>77mU6oy35Dr8pghGJZbIRz</id>
-    <title>【金雄】注意打法細節！力拼順利通關！</title>
-    <updated>2024-04-01T08:03:41.371000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/77mU6oy35Dr8pghGJZbIRz"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/357g11gzd0Uf3QNyfNheaf/a25a49ce51d66b6eed0676bda09393ba/tw_20240401_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=Debn5r7DvZY"/>
-    <category term="最新情報"/>
-    <published>2024-04-01T08:01:00+00:00</published>
-  </entry>
   <entry>
     <id>3KKTHgN2ZJpwR4wb5L9JTT</id>
     <title>有史以來💥最重大的更新來囉！</title>
