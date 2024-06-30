@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-30T05:30:33.235448+00:00</updated>
+  <updated>2024-06-30T06:35:05.691890+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>1qB5uj7hngSZvsCgqfpgEg</id>
-    <title>⭐이벤트 종료⭐ 아기상어 핀 인증하고 경품 받아가세요! 🦈</title>
-    <updated>2024-04-05T02:30:14.606000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/1qB5uj7hngSZvsCgqfpgEg"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Dw3YcqqFBFhCqj9qIt2k9/d298307fecafa3c8a8d93329205d2d8e/PR_0401_baby-shark_inbox_1600x866__01__2_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1131903"/>
-    <category term="커뮤니티"/>
-    <published>2024-04-01T04:03:01+00:00</published>
-  </entry>
   <entry>
     <id>1dcrBU9U3MMPtFIgwIOOGX</id>
     <title>🎊EVENT🎊 엔딩요정 멜로디 찾고 이벤트 경품 받아가세요! 🎤</title>

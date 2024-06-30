@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-esportNewsEntries-de</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-06-30T05:30:31.377788+00:00</updated>
+  <updated>2024-06-30T06:35:04.019359+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>1LHVUeRVwE3KrWZMO8EysX</id>
-    <title>Herzlichen Glückwunsch SK Gaming!</title>
-    <updated>2024-04-02T13:23:32.073000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2em1i7PcRl1Gi6MCcgvk60/dc7bb9c9cfffdb3fbe1bb066588eae04/BSC_MF_Winners_SK_Gaming.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/Brawl_esports/status/1774100708041888196"/>
-    <category term="Esports"/>
-    <published>2024-04-01T01:33:44+00:00</published>
-  </entry>
   <entry>
     <id>SzUotna26cZBazr5b0WZC</id>
     <title>Die Magenta eTrophy ist zurück!</title>
