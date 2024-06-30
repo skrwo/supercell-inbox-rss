@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-06-30T08:31:18.108937+00:00</updated>
+  <updated>2024-06-30T09:31:14.061343+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -206,5 +206,15 @@
     <link href="https://www.youtube.com/watch?v=xPq6foN9Uko"/>
     <category term="最新情報"/>
     <published>2024-06-27T07:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>60PU2QyCTpek1At8Anp5Gu</id>
+    <title>運氣超「貝」的一天！</title>
+    <updated>2024-06-30T09:03:32.525000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/60PU2QyCTpek1At8Anp5Gu"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6jYsc5wuxZvVlx1iyVRS8p/1ac4ffd2de9c5a18d11661af9a9c9342/Belle_Voting_800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/0xjh3hQX_Fk"/>
+    <category term="動畫"/>
+    <published>2024-06-27T07:04:23+00:00</published>
   </entry>
 </feed>
