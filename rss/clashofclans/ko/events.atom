@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-eventEntries-ko</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-07-01T07:29:14.619653+00:00</updated>
+  <updated>2024-07-01T08:35:43.336784+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -27,16 +27,6 @@
     <published>2023-10-25T07:42:33+00:00</published>
   </entry>
   <entry>
-    <id>2o2SG4aAPnPDCwmGudkVfL</id>
-    <title>🗞️</title>
-    <updated>2024-06-04T17:14:55.299000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/mGyOThmIYU8"&gt;👉시청하기!👈&lt;/a&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3mdeq8wfgp3bmm0DSgJom0/2c85950f8211dfe216726172a6188011/CoC_SC015_WildWest_KO_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/mGyOThmIYU8"/>
-    <published>2024-06-01T08:00:03+00:00</published>
-  </entry>
-  <entry>
     <id>1nJN3MC9WCJbG7q5jjSXRH</id>
     <title>6월 업데이트를 소개합니다!</title>
     <updated>2024-06-18T11:06:17.874000+00:00</updated>
@@ -45,5 +35,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7eEcELzWrWJxhRlRefdWJk/c97c5633afba941210030dfb7d385f7b/Carousel-ClashOn-JuneUpdate.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/fzuGDNwFsAQ"/>
     <published>2024-06-18T08:06:19+00:00</published>
+  </entry>
+  <entry>
+    <id>b8FE9Xag88ADqwc1zEasy</id>
+    <title>🗞️</title>
+    <updated>2024-07-01T08:00:04.131000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/DvmGZNP03aE"&gt;👉영상 시청하기!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/m6OwzeY8YodeSeSjYxgnO/cbc31cc055c1229d649f5fc8447b85a0/CoC_SC016_ClashGames_KO_860x1320_Still_Inbox_v02_gc_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/DvmGZNP03aE"/>
+    <published>2024-07-01T08:00:04+00:00</published>
   </entry>
 </feed>
