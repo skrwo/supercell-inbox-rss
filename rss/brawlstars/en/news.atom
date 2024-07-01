@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-01T15:29:51.349720+00:00</updated>
+  <updated>2024-07-01T16:38:18.738053+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -210,7 +210,7 @@ Milestones &amp;amp; Rewards&lt;/h3&gt;&lt;p&gt;The first three milestones unloc
   <entry>
     <id>724mxVVIBWEBTxmIIDVsKO</id>
     <title>PATCH NOTES: CLASSIC BRAWL UPDATE</title>
-    <updated>2024-07-01T14:47:44.357000+00:00</updated>
+    <updated>2024-07-01T16:26:01.732000+00:00</updated>
     <content>&lt;p&gt;FIXES&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Surge&amp;#39;s &amp;quot;Serve Ice Cold&amp;quot; Star Power&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Certain Brawlers&amp;#39; dash abilities going through walls&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Janet&amp;#39;s &amp;quot;Drop the Bass&amp;quot; Gadget&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Chat button in Friendly Battle Lobbies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ringmaster Byron&amp;#39;s win animation&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Friendship request reply buttons missing in some invites&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gale&amp;#39;s Super shooting more projectiles than it should&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Crashes when pressing the Friends button&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Crashes at the end of 5v5 matches&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Rank up Club notification clipping errors in the Club Chat&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jacky Cooky Skin missing her walking animation&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Looking for a Team interface errors&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Player Profile screen not loading properly&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;quot;Mute Team Invites/Do not Disturb&amp;quot; settings not being saved after the game is restarted&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Switch Brawler button in Starr Road disappearing in certain situations
 &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;BALANCE CHANGES
 
