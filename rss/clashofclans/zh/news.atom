@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-01T09:33:53.332622+00:00</updated>
+  <updated>2024-07-01T10:38:16.904969+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -610,5 +610,34 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/yF3NrpJSXa6i1D_WPB-x-z_6knTc_AgVx7x9ofIT1Jw/0fa6c332a7db2a5bb3ce502583bd58ed/fairplay.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-06-26T06:23:13+00:00</published>
+  </entry>
+  <entry>
+    <id>2HQje1BAUC4DWdKbKctYzp</id>
+    <title>【金雄】造型搶先看、挑戰輕鬆解！</title>
+    <updated>2024-07-01T09:36:17.800000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2HQje1BAUC4DWdKbKctYzp"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/29IX8j2VlOzpMqKitzYs6P/6ca6d379cbd4e5fa9e0daae717c18e56/tw_20240701_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=EY1hKGMVx6s"/>
+    <category term="最新情報"/>
+    <published>2024-07-01T08:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7PBUnEFFNvxNVS50T0g2B</id>
+    <title>【烏龜】按著步驟來！挑戰一點都不難！</title>
+    <updated>2024-07-01T09:37:04.053000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7PBUnEFFNvxNVS50T0g2B"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1mgRL46g0vmm50ZUaSX8nw/8692eecf3948054136f26a7bb6c51291/tw_20240701_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=i1rFcMylueA"/>
+    <category term="最新情報"/>
+    <published>2024-07-01T08:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>OmmpYzVDcoWiEjTb4FEfW</id>
+    <title>Clash運動會主題季活動表！</title>
+    <updated>2024-07-01T10:00:02.571000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/OmmpYzVDcoWiEjTb4FEfW"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/41hzPTKIxPEaladsQtXZJO/2db571ddbeb42aa9e215307f9fe191b6/tw_20240628_Season-Calendar-Clash-Games.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-07-01T10:00:02+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-01T09:33:56.498999+00:00</updated>
+  <updated>2024-07-01T10:38:06.943490+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -303,5 +303,14 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/yF3NrpJSXa6i1D_WPB-x-z_6knTc_AgVx7x9ofIT1Jw/0fa6c332a7db2a5bb3ce502583bd58ed/fairplay.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-06-26T06:23:13+00:00</published>
+  </entry>
+  <entry>
+    <id>OmmpYzVDcoWiEjTb4FEfW</id>
+    <title>클래시 게임 시즌이 시작됩니다!</title>
+    <updated>2024-07-01T10:00:02.571000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/OmmpYzVDcoWiEjTb4FEfW"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/HiydLDBqC33ZZ58WZeVTS/ba80b5c665f438ea62750bfaa4a30cf8/0628_July-Season-Calendar-Clash-Games_KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-07-01T10:00:02+00:00</published>
   </entry>
 </feed>

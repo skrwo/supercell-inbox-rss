@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-07-01T09:33:24.709667+00:00</updated>
+  <updated>2024-07-01T10:37:36.669984+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>2Pwl2veZWbDoT93efRuNkd</id>
-    <title>Parabéns Calabresos F/A</title>
-    <updated>2024-04-02T09:48:13.546000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4G7HvjsqGDYxG5XLwgT35H/3a3693c31666587d31cd2a46cbb3cd20/PT-BSC_MF_Winners_Calabresos.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/Brawl_esports/status/1774523118637436950"/>
-    <category term="Esports"/>
-    <published>2024-04-02T09:48:13+00:00</published>
-  </entry>
-  <entry>
-    <id>6SIpUR7QDK8pRfpmDFwKLJ</id>
-    <title>Parabéns SK Gaming!</title>
-    <updated>2024-04-02T09:52:08.684000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1LgtJt30jMBKgOyuT3K4Lj/a2decc608cd79146979f56e86f0972a2/PT-BSC_MF_Winners_SK_Gaming.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://twitter.com/Brawl_esports/status/1774100708041888196"/>
-    <category term="Esports"/>
-    <published>2024-04-02T09:52:08+00:00</published>
-  </entry>
   <entry>
     <id>3PDCTZ5Wf7E0SfoZGbPLeO</id>
     <title>Parabéns F/A MiniPekkas!</title>
