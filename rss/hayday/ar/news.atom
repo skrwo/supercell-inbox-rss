@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-07-01T06:39:59.507592+00:00</updated>
+  <updated>2024-07-01T07:29:17.224394+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -260,5 +260,16 @@
     <link href="https://youtu.be/D78NHf7VRa8"/>
     <category term="أخبار"/>
     <published>2024-06-29T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6k8wxWn8NScVLlyj0r96zN</id>
+    <title>الأسبوع 27 من أحداث Hay Day</title>
+    <updated>2024-07-01T07:11:23.134000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 27 من أحداث Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! الصيف في أوجه الآن في يوليو، استعدوا لشهر آخر مليء بالأحداث. تبدأ كل الأحداث في الساعة 8 ص بتوقيت جرينتش. اطلعوا على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;الإثنين: تدوير العجلة (قطع لغز) + 3 أمثال نقاط Farm Pass&lt;/p&gt;&lt;p&gt;الثلاثاء: حدث الشاحنة (مواد توسعة) + 3 أمثال نقاط Farm Pass&lt;/p&gt;&lt;p&gt;الأربعاء: حدث القارب (قسائم) + 3 أمثال نقاط Farm Pass&lt;/p&gt;&lt;p&gt;الخميس: تعزيز الآلات (تتضاعف سرعة إنتاج 3 آلات عشوائية)&lt;/p&gt;&lt;p&gt;الجمعة: حدث تعزيز إنتاجية الصيد (تعزيز 20% للكل) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;السبت: زوار البلدة (ضعف العملات)&lt;/p&gt;&lt;p&gt;الأحد: نسبة وقت الأشجار/الشجيرات (تنتج 3 شجيرات عشوائية الفواكه بضعف السرعة) + حدث الشاحنة (ضعف الخبرة)&lt;/p&gt;&lt;p&gt;نتمنى لكم قضاء أسبوع رائع!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/6k8wxWn8NScVLlyj0r96zN"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أخبار"/>
+    <published>2024-07-01T07:09:19+00:00</published>
   </entry>
 </feed>
