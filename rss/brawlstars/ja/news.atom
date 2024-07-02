@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-02T01:40:52.368202+00:00</updated>
+  <updated>2024-07-02T02:43:31.405854+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -396,7 +396,7 @@ https://event.brawlstars.com/jp&#13;
   <entry>
     <id>724mxVVIBWEBTxmIIDVsKO</id>
     <title>パッチノート：「クラシックブロスタ」アップデート</title>
-    <updated>2024-07-01T16:26:01.732000+00:00</updated>
+    <updated>2024-07-02T02:27:22.697000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;修正&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;サージのスターパワー「ベストタイミング」に関する不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;一部キャラクターのダッシュが壁を通り抜ける不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ジャネットのガジェット「低音スピーカー」に関する不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;フレンドバトルのチャットボタンに関する不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;リングマスター バイロンの勝利アニメーションを修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;フレンド申請が届いた際に、一部の申請に関して返信ができない不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲイルの必殺技に関する不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;フレンドボタンを押すとクラッシュする不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;5v5の試合終了時にクラッシュする不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;クラブチャット内でのランクアップ通知に関する不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ジャッキー COOKYのスキンに関するアニメーションの不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「チームを検索中」画面に関する不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;プレイヤーアイコンが正しくロードされない不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;チームへの招待のミュートなどがゲームを再起動すると保存されない不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スターロードでキャラクターを変更するボタンが消えてしまう不具合を修正。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;バランス調整&lt;/b&gt;
 
 &lt;b&gt;アンジェロ&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ハイパーチャージが溜まる速度が上昇 25 -&amp;gt; 35&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
