@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Jul 2024 10:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 11:29:33 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -612,7 +612,7 @@
 
 💥 &lt;b&gt;被ダメージ増加量：
 &lt;/b&gt;35% → 20%&lt;/p&gt;
-&lt;p&gt;ゴブリンの呪いは、効果の範囲と被ダメージ増加の効果で橋の戦いを常に支配しいました。特にレイジやザップと組み合わせるとその効果が顕著です。これらの組み合わせをより効果を薄くし、実行を難しくし、そして戦闘中に影響を受けるユニットを減らすことがこの調整の目的です。&lt;/p&gt;
+&lt;p&gt;ゴブリンの呪いは、効果の範囲と被ダメージ増加の効果で橋の戦いを常に支配していました。特にレイジやザップと組み合わせるとその効果が顕著です。&lt;/p&gt;&lt;p&gt;これらの組み合わせによる効果を薄く実行を難しくし、そして戦闘中に影響を受けるユニットを減らすことがこの調整の目的です。&lt;/p&gt;
 &lt;h1&gt;ダイナマイトゴブリン&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥 &lt;b&gt;死亡時ダメージ： &lt;/b&gt;
@@ -623,7 +623,7 @@
 &lt;b&gt;
 ⏱️ 攻撃速度：
 &lt;/b&gt;1.1秒 →  1.2秒 (+9%)&lt;/p&gt;
-&lt;p&gt;ダイナマイトゴブリンは、死亡時爆発の高いダメージと広い効果範囲で、ディフェンスもオフェンスも強かったため、その緩和を目的とした調整です。 &lt;/p&gt;
+&lt;p&gt;ダイナマイトゴブリンは、死亡時の爆発の高いダメージと広い効果範囲で、ディフェンスもオフェンスも強かったため、その緩和を目的とした調整です。 &lt;/p&gt;
 &lt;h1&gt;ゴブリンマシン&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;&lt;b&gt;❤️ ヒットポイント：&lt;/b&gt;
@@ -631,7 +631,7 @@
 &lt;b&gt;
 ⏱️ 初撃の速度：
 &lt;/b&gt;0.2秒 → 0.5秒 (+150%)&lt;/p&gt;
-&lt;p&gt;強力なロケット攻撃があるため破壊することが困難でした。他の5エリクサーの近接ユニットとの整合性を保つため、ゴブリンマシンのヒットポイントを減らし耐久力を減少させます。 &lt;/p&gt;
+&lt;p&gt;強力なロケット攻撃があるため破壊することが困難でした。他の5エリクサーの近接ユニットとのバランスをとるために、ゴブリンマシンのヒットポイントを減らし耐久力を減少させます。 &lt;/p&gt;
 &lt;h1&gt;プリンス&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;📏&lt;b&gt; 突撃助走距離：&lt;/b&gt;
@@ -648,7 +648,7 @@
 
 &lt;b&gt;⏱️ 攻撃速度：&lt;/b&gt;
 1.1秒 →  1.2秒 (+9%)&lt;/p&gt;
-&lt;p&gt;テスラはメタで最も支配的な防衛建造物で、強力な限界突破も持っています。&lt;/p&gt;
+&lt;p&gt;テスラはメタで最も支配的な防衛施設で、強力な限界突破も持っています。&lt;/p&gt;
 &lt;h1&gt;限界突破ウィザード&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;&lt;b&gt;❤️ シールドのヒットポイント：
