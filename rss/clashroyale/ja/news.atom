@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-02T09:29:32.930799+00:00</updated>
+  <updated>2024-07-02T10:34:14.281207+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -650,5 +650,71 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wCxJk84nKrTbQLGFfk3pw/542a67bb92eefc1bc08c72527cc353af/LoadingScreen_GoblinCraft2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2024-07-01T09:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>5Zmd0ZaDGi8Xc4lCVYS2tm</id>
+    <title>7月のバランス調整</title>
+    <updated>2024-07-02T10:18:24.066000+00:00</updated>
+    <content>&lt;h1&gt;ゴブリンの呪い&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;半径：
+&lt;/b&gt;4 → 3 (-25%)
+
+💥 &lt;b&gt;被ダメージ増加量：
+&lt;/b&gt;35% → 20%&lt;/p&gt;
+&lt;p&gt;ゴブリンの呪いは、効果の範囲と被ダメージ増加の効果で橋の戦いを常に支配しいました。特にレイジやザップと組み合わせるとその効果が顕著です。これらの組み合わせをより効果を薄くし、実行を難しくし、そして戦闘中に影響を受けるユニットを減らすことがこの調整の目的です。&lt;/p&gt;
+&lt;h1&gt;ダイナマイトゴブリン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;死亡時ダメージ： &lt;/b&gt;
+465 → 404 (-13%)
+
+🟢 &lt;b&gt;死亡時ダメージの半径：
+&lt;/b&gt;3 → 2.5 (-17%)
+&lt;b&gt;
+⏱️ 攻撃速度：
+&lt;/b&gt;1.1秒 →  1.2秒 (+9%)&lt;/p&gt;
+&lt;p&gt;ダイナマイトゴブリンは、死亡時爆発の高いダメージと広い効果範囲で、ディフェンスもオフェンスも強かったため、その緩和を目的とした調整です。 &lt;/p&gt;
+&lt;h1&gt;ゴブリンマシン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ ヒットポイント：&lt;/b&gt;
+2598 → 2196 (-15%)
+&lt;b&gt;
+⏱️ 初撃の速度：
+&lt;/b&gt;0.2秒 → 0.5秒 (+150%)&lt;/p&gt;
+&lt;p&gt;強力なロケット攻撃があるため破壊することが困難でした。他の5エリクサーの近接ユニットとの整合性を保つため、ゴブリンマシンのヒットポイントを減らし耐久力を減少させます。 &lt;/p&gt;
+&lt;h1&gt;プリンス&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏&lt;b&gt; 突撃助走距離：&lt;/b&gt;
+150 → 200 (33%)&lt;/p&gt;
+&lt;h1&gt;ラムライダー&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏&lt;b&gt; 突撃助走距離：&lt;/b&gt;
+150 → 200 (33%)&lt;/p&gt;
+&lt;p&gt;プリンスとラムライダーがメタで注目されていることは嬉しいですが、バフが過剰だったと認識しています。そのバフを軽減し、突撃に関する挙動を修正します。 &lt;/p&gt;
+&lt;h1&gt;テスラ&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥&lt;b&gt; ダメージ：&lt;/b&gt;
+230 → 220 (-4%)
+
+&lt;b&gt;⏱️ 攻撃速度：&lt;/b&gt;
+1.1秒 →  1.2秒 (+9%)&lt;/p&gt;
+&lt;p&gt;テスラはメタで最も支配的な防衛建造物で、強力な限界突破も持っています。&lt;/p&gt;
+&lt;h1&gt;限界突破ウィザード&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ シールドのヒットポイント：
+&lt;/b&gt;371 → 296 (-20%)&lt;/p&gt;
+&lt;p&gt;限界突破ウィザードのシールドは単純に破壊が難しく、この調整によって矢の雨で破壊することが可能になります。&lt;/p&gt;
+&lt;h1&gt;ダガーガール&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ダガーのチャージ時間：
+&lt;/b&gt;0.8秒 → 0.9秒 (+13%)
+
+&lt;b&gt;⏱️ 攻撃速度：&lt;/b&gt;
+0.35秒 →  0.45秒 (+29%)&lt;/p&gt;
+&lt;p&gt;ダガーがなくなった時のパニッシュが難しかった上、満タン時のバーストダメージが依然として高すぎました。この調整によって最大ダメージを与えることに必要な時間が長くなり、再び満タンになるまでの時間も伸びます。 &lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/5Zmd0ZaDGi8Xc4lCVYS2tm"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/AP9KwypRbvntkpcVBLrIM/971f2f7fb5f91df74bcdbf56bca1c485/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-07-02T08:37:05+00:00</published>
   </entry>
 </feed>
