@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-02T06:37:56.016784+00:00</updated>
+  <updated>2024-07-02T07:30:31.367477+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -196,5 +196,15 @@
     <link href="https://youtu.be/FrCX6_xGH2A"/>
     <category term="동영상"/>
     <published>2024-07-01T05:45:27+00:00</published>
+  </entry>
+  <entry>
+    <id>7LLCwAAGM2woS4bMyQXgIX</id>
+    <title>🎊 《App Store X 카카오페이》 캐시백 이벤트! 🎊</title>
+    <updated>2024-07-02T07:10:12.471000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/7LLCwAAGM2woS4bMyQXgIX"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/65wWB3CtHqIEsacaer5spP/fe334c658a6c19427ddf7d54dd29b56a/Screen_Shot_2024-06-27_at_5.28.12_PM.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1204254"/>
+    <category term="뉴스"/>
+    <published>2024-07-02T07:00:00+00:00</published>
   </entry>
 </feed>
