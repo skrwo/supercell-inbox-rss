@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-02T07:30:37.572408+00:00</updated>
+  <updated>2024-07-02T08:33:38.564406+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -312,5 +312,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/HiydLDBqC33ZZ58WZeVTS/ba80b5c665f438ea62750bfaa4a30cf8/0628_July-Season-Calendar-Clash-Games_KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-07-01T10:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>1OFe5pJaNW9U9Q18VnF6jo</id>
+    <title>7월 특별 이벤트 : 무제한으로 영웅을 사용하세요!</title>
+    <updated>2024-07-02T08:00:03.332000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/1OFe5pJaNW9U9Q18VnF6jo"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5cVyI4ivv07WMmhAhDlEdC/82f3ae3a8fe4c2b78f4cec1c43acfccf/inbox_thumbnail_heroes_unlimited.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Bnmu9KUH2AY"/>
+    <category term="뉴스"/>
+    <published>2024-07-02T08:00:03+00:00</published>
   </entry>
 </feed>

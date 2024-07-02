@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-02T07:30:37.968332+00:00</updated>
+  <updated>2024-07-02T08:33:40.733556+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -639,5 +639,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/41hzPTKIxPEaladsQtXZJO/2db571ddbeb42aa9e215307f9fe191b6/tw_20240628_Season-Calendar-Clash-Games.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-07-01T10:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>1OFe5pJaNW9U9Q18VnF6jo</id>
+    <title>七月特別活動：英雄在升級時也可參加戰鬥！</title>
+    <updated>2024-07-02T08:00:03.332000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1OFe5pJaNW9U9Q18VnF6jo"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5cVyI4ivv07WMmhAhDlEdC/82f3ae3a8fe4c2b78f4cec1c43acfccf/inbox_thumbnail_heroes_unlimited.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/BQtYFGClKo8"/>
+    <category term="最新情報"/>
+    <published>2024-07-02T08:00:03+00:00</published>
   </entry>
 </feed>

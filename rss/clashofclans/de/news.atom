@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-02T07:30:37.428111+00:00</updated>
+  <updated>2024-07-02T08:33:41.742915+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -295,5 +295,15 @@ Interessiert? Lies unten für alle Details zum Event!&lt;/p&gt;&lt;p&gt;&lt;b&gt
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6TT7D1V4N40ejJgCn2MZ9C/6180e588ca803a656b1f650cfbe69273/DE_Season_Calendar_Clash_Games.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="news"/>
     <published>2024-07-01T10:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>1OFe5pJaNW9U9Q18VnF6jo</id>
+    <title>Juli-Special: Nutze Helden während der Verbesserung im Kampf!</title>
+    <updated>2024-07-02T08:00:03.332000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/de/news/1OFe5pJaNW9U9Q18VnF6jo"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5cVyI4ivv07WMmhAhDlEdC/82f3ae3a8fe4c2b78f4cec1c43acfccf/inbox_thumbnail_heroes_unlimited.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/BQtYFGClKo8"/>
+    <category term="news"/>
+    <published>2024-07-02T08:00:03+00:00</published>
   </entry>
 </feed>
