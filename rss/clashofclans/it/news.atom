@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-newsEntries-it</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-02T13:29:36.363611+00:00</updated>
+  <updated>2024-07-02T14:30:08.921796+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>1oUHs1NeCc1UnDdAA3x9b6</id>
-    <title>Guida alla sfida "Sabbie dorate e vittorie stellate"!</title>
-    <updated>2024-04-04T16:18:25.925000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/it/news/1oUHs1NeCc1UnDdAA3x9b6"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/0ejY26JnRVSmXaDhjYDnx/678dc3e7513f0d146ba82ae82adaecbf/Haplo80.jpeg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=he3zNpZLnYo"/>
-    <category term="community"/>
-    <published>2024-04-03T12:44:00+00:00</published>
-  </entry>
   <entry>
     <id>syfVfvob0gXKgEy5XCKRw</id>
     <title>Tentacoli lunatici: note di rilascio</title>
