@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-02T23:29:17.158518+00:00</updated>
+  <updated>2024-07-03T01:40:25.433117+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,16 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>2C6negOhQA7hdq3Y7xaTy</id>
-    <title>단검 공작부인의 목소리</title>
-    <updated>2024-04-05T10:28:06.557000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/2C6negOhQA7hdq3Y7xaTy"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3kBoCbNj6Q9vKNbKaGHa65/78271d7aa8301f7af7251428faaac620/duchess_behindthescenes.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/OJAqI1bn0SA?si=XkhbwiCg-joo8JT3"/>
-    <category term="재미"/>
-    <published>2024-04-03T15:05:02+00:00</published>
   </entry>
   <entry>
     <id>37jDesb4I3CmFWl37X9B9J</id>
