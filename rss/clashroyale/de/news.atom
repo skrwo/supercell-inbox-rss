@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-03T08:34:22.202974+00:00</updated>
+  <updated>2024-07-03T09:30:35.049402+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -585,5 +585,62 @@ Truppen, die besiegt werden, verwandeln sich in Kobolde!&lt;/p&gt;&lt;hr/&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wCxJk84nKrTbQLGFfk3pw/542a67bb92eefc1bc08c72527cc353af/LoadingScreen_GoblinCraft2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Versionshinweise"/>
     <published>2024-07-01T09:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>5Zmd0ZaDGi8Xc4lCVYS2tm</id>
+    <title>Anpassungen der Spielbalance im Juli!</title>
+    <updated>2024-07-03T09:19:59.075000+00:00</updated>
+    <content>&lt;h1&gt;KOBOLDFLUCH&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Radius:&lt;/b&gt; 4 → 3 (-25 %)
+💥 &lt;b&gt;Schadensverstärkung:&lt;/b&gt;
+35 % → 20 %&lt;/p&gt;
+&lt;p&gt;Der Koboldfluch hat mit seinem großen Radius und seiner Schadensverstärkung regelmäßig Kämpfe an den Brücken dominiert, besonders in Kombination mit dem Wut- und Knallzauber. Wir möchten dafür sorgen, dass diese Kombinationen weniger mächtig und schwieriger einzusetzen sind. Außerdem sollen weniger Truppen davon beeinflusst werden.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;KOBOLDVERNICHTER&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Todesschaden:&lt;/b&gt;
+465 → 404 (-13 %)
+🟢 &lt;b&gt;Radius des Todesschadens:&lt;/b&gt; 3 → 2,5 (-17 %)
+&lt;b&gt;⏱️ Treffergeschwindigkeit:&lt;/b&gt;
+1,1 Sek. → 1,2 Sek. (+9 %)&lt;/p&gt;
+&lt;p&gt;Der Koboldvernichter hat mit dem großen Radius und Schaden seiner Todesexplosion zu effektiv Pushes gestoppt und Kronenturm-Schaden angerichtet.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;KOBOLDMASCHINE&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Trefferpunkte:&lt;/b&gt;
+2598 → 2196 (-15 %)
+&lt;b&gt;⏱️ Dauer, bis der erste Treffer erfolgt:&lt;/b&gt; 0,2 Sek. → 0,5 Sek. (+150 %)&lt;/p&gt;
+&lt;p&gt;Die Koboldmaschine war aufgrund ihrer mächtigen Raketenattacke zu schwer zu zerstören. Wir senken ihre TP, damit sie besser an die anderen Nahkämpfer unter den 5-Elixier-Truppen angepasst ist.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;PRINZ&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏 &lt;b&gt;Ansturmreichweite:&lt;/b&gt;
+150 → 200 (33 %)&lt;/p&gt;
+&lt;h1&gt;WIDDERREITERIN&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏 &lt;b&gt;Ansturmreichweite:&lt;/b&gt;
+150 → 200 (33 %)&lt;/p&gt;
+&lt;p&gt;Wir freuen uns darüber, dass der Prinz und die Widderreiterin wieder relevant in der Meta geworden sind. Leider haben wir sie aber etwas zu sehr verstärkt. Wir schrauben den Buff zurück und verhindern mit dieser Änderung einige unnatürliche Interaktionen in Verbindung mit dem Ansturm.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;TESLA&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Schaden:&lt;/b&gt;
+230 → 220 (-4 %)
+&lt;b&gt;⏱️ Treffergeschwindigkeit:&lt;/b&gt;
+1,1 Sek. → 1,2 Sek. (+9 %)&lt;/p&gt;
+&lt;p&gt;Der Tesla ist das dominante Verteidigungsgebäude in der Meta und verfügt außerdem über eine der stärksten Entwicklungen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;MAGIERENTWICKLUNG&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Schild-TP:&lt;/b&gt;
+371 → 296 (-20 %)&lt;/p&gt;
+&lt;p&gt;Der Schild des entwickelten Magiers war schlicht zu schwer zu durchbrechen. Jetzt kann dies mit Pfeilen erreicht werden.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;DOLCHHERZOGIN&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️&lt;/b&gt; &lt;b&gt;Dolchaufladung:&lt;/b&gt;
+0,8 Sek. → 0,9 Sek. (13 %)
+&lt;b&gt;⏱️ Treffergeschwindigkeit:&lt;/b&gt;
+0,35 Sek. → 0,45 Sek. (+29 %)&lt;/p&gt;
+&lt;p&gt;Es war zu schwer, die Dolchherzogin zu kontern, wenn sie keine Dolche mehr hatte, und sie verursachte bei voller Aufladung zu viel Burst-Schaden. Sie braucht nun länger, um einen Gegner per Burst zu besiegen und ihre Dolchattacke voll aufzuladen.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/5Zmd0ZaDGi8Xc4lCVYS2tm"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-07-02T08:37:05+00:00</published>
   </entry>
 </feed>

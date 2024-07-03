@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 03 Jul 2024 08:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 09:30:27 +0000</lastBuildDate>
     <item>
       <title>學牌組好去處！</title>
       <link>https://clashroyale.inbox.supercell.com/#/zh/news/1x62odjI4OkIgZfBs6qQfR</link>
@@ -692,6 +692,62 @@
       <category>更新說明</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wCxJk84nKrTbQLGFfk3pw/542a67bb92eefc1bc08c72527cc353af/LoadingScreen_GoblinCraft2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 01 Jul 2024 09:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>七月平衡性調整！</title>
+      <link>https://clashroyale.inbox.supercell.com/#/zh/news/5Zmd0ZaDGi8Xc4lCVYS2tm</link>
+      <description>&lt;h1&gt;哥布林詛咒&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;範圍:&lt;/b&gt; 從4縮小至3（-25%）
+💥 &lt;b&gt;傷害加成效果：&lt;/b&gt;
+從35%降低至20%&lt;/p&gt;
+&lt;p&gt;哥布林詛咒不僅範圍大，還能提供傷害加成，因此能在橋頭攻防中佔據優勢。尤其是與狂暴法術和電擊法術配合使用時，它的優勢更加明顯。透過本次調整，我們希望能限制這類法術組合的威力、提高操作難度，並減少哥布林詛咒影響的軍隊數量。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;哥布林爆破狂&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;死亡&lt;/b&gt; &lt;b&gt;附加傷害：&lt;/b&gt;
+從465降低至404（-13%）
+🟢 &lt;b&gt;死亡&lt;/b&gt; **附加傷害範圍：**從3縮小至2.5（-17%）
+&lt;b&gt;⏱️攻擊速度：&lt;/b&gt;
+從1.1秒延長至1.2秒（+9%）&lt;/p&gt;
+&lt;p&gt;在阻擋敵方推進、對皇家塔造成傷害這兩方面，哥布林爆破狂實在是太強了。這主要是由於他的死亡附加傷害範圍很大、傷害也很高。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;哥布林機甲&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️生命值：&lt;/b&gt;
+從2598降低至2196（-15%）
+**⏱️第一次出手速度：**從0.2秒延長為0.5秒（+150%）&lt;/p&gt;
+&lt;p&gt;憑藉強力的火箭攻擊，哥布林機甲往往很難被對手消滅。本次調整我們降低了他的生命值，讓他和其他5費近戰軍隊保持在相同水準。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;王子&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏&lt;b&gt;衝鋒觸發距離：&lt;/b&gt;
+從150提升至200（33%）&lt;/p&gt;
+&lt;h1&gt;蠻羊騎士&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏&lt;b&gt;衝鋒觸發距離：&lt;/b&gt;
+從150提升至200（33%）&lt;/p&gt;
+&lt;p&gt;我們很高興看到王子和蠻羊騎士能在目前版本中崛起，但我們之前對他們的加強似乎有點過頭了。我們回調了部分加強效果，同時移除一些反直覺的衝鋒互動。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;特斯拉電磁塔&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥&lt;b&gt;傷害：&lt;/b&gt;
+從230降低至220（-4%）
+&lt;b&gt;⏱️攻擊速度：&lt;/b&gt;
+從1.1秒延長至1.2秒（+9%）&lt;/p&gt;
+&lt;p&gt;特斯拉電磁塔是目前版本最強勢的防禦建築，而且它的進化強度也是遊戲中數一數二的。因此，我們對其進行了一些調整。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;進化法師&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️護盾生命值：&lt;/b&gt;
+從371降低至296（-20%）&lt;/p&gt;
+&lt;p&gt;進化法師的護盾實在是太厚了。本次調整後，萬箭齊發將可打破他的護盾。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;飛刀女爵&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️&lt;/b&gt; &lt;b&gt;飛刀蓄能：&lt;/b&gt;
+從0.8秒延長至0.9秒（13%）
+&lt;b&gt;⏱️攻擊速度：&lt;/b&gt;
+從0.35秒延長至0.45秒（+29%）&lt;/p&gt;
+&lt;p&gt;調整前，即使飛刀女爵的飛刀用光了，對手也很難對她造成太大威脅。此外，她在飛刀充足時的爆發傷害也過高了。現在，她攻擊敵方單位的速度會變慢，並且補充飛刀所需的時間也更長了。&lt;/p&gt;</description>
+      <guid isPermaLink="false">5Zmd0ZaDGi8Xc4lCVYS2tm</guid>
+      <category>最新情報</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 02 Jul 2024 08:37:05 +0000</pubDate>
     </item>
     <item>
       <title>【DANY】超騎王子鑽！一波殺進去！</title>

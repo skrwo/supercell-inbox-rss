@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 03 Jul 2024 08:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 09:30:30 +0000</lastBuildDate>
     <item>
       <title>2024 로드맵</title>
       <link>https://clashroyale.inbox.supercell.com/#/ko/news/6g54VT7JKlhc8E8g413MXe</link>
@@ -570,6 +570,62 @@
       <category>새 소식</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wCxJk84nKrTbQLGFfk3pw/542a67bb92eefc1bc08c72527cc353af/LoadingScreen_GoblinCraft2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 01 Jul 2024 09:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>7월 밸런스 조정!</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ko/news/5Zmd0ZaDGi8Xc4lCVYS2tm</link>
+      <description>&lt;h1&gt;고블린 저주&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;효과 반경:&lt;/b&gt; 4 → 3 (-25%)
+💥 &lt;b&gt;피해량 증폭:&lt;/b&gt;
+35% → 20%&lt;/p&gt;
+&lt;p&gt;고블린 저주는 넓은 효과 반경과 피해량 증폭으로 다리 전투에서 너무 강한 모습을 보였습니다. 특히 분노 마법과 감전 마법과의 조합은 사기에 가까웠죠. 이번 변경을 통해 이러한 마법과의 조합의 위력을 낮추고, 실행하기 어렵게 만들고, 전투 중 효과를 받는 유닛의 수를 줄이고자 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 데몰리셔&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;데스&lt;/b&gt; &lt;b&gt;피해량:&lt;/b&gt;
+465 → 404 (-13%)
+🟢 &lt;b&gt;데스&lt;/b&gt; &lt;b&gt;피해 반경:&lt;/b&gt; 3 → 2.5 (-17%)
+&lt;b&gt;⏱️ 공격 속도:&lt;/b&gt;
+1.1초 → 1.2초 (+9%)&lt;/p&gt;
+&lt;p&gt;고블린 데몰리셔는 처치 시의 큰 폭발 반경과 높은 피해량으로 적의 압박을 무력화하고 크라운 타워에 큰 피해를 입히는 데 지나치게 효과적이었습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 머신&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ HP:&lt;/b&gt;
+2598 → 2196 (-15%)
+&lt;b&gt;⏱️ 첫 공격 속도:&lt;/b&gt; 0.2초 → 0.5초 (+150%)&lt;/p&gt;
+&lt;p&gt;고블린 머신은 강력한 로켓 공격 때문에 처치하기가 너무 어려웠습니다. 다른 5 엘릭서 근접 유닛과의 균형을 위해 고블린 머신의 HP를 감소시켰습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;프린스&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏 &lt;b&gt;돌격 사정거리:&lt;/b&gt;
+150 → 200 (33%)&lt;/p&gt;
+&lt;h1&gt;램 라이더&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;📏 &lt;b&gt;돌격 사정거리:&lt;/b&gt;
+150 → 200 (33%)&lt;/p&gt;
+&lt;p&gt;프린스와 램 라이더가 메타에서 활약하는 것을 보니 정말 기뻤지만, 버프가 다소 과했던 것 같습니다. 이 버프를 약간 줄이고 돌격과 관련된 일부 직관적이지 않은 상호 작용을 제거하고자 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;뇌전탑&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;피해량:&lt;/b&gt;
+230 → 220 (-4%)
+&lt;b&gt;⏱️ 공격 속도:&lt;/b&gt;
+1.1초 → 1.2초 (+9%)&lt;/p&gt;
+&lt;p&gt;뇌전탑은 메타에서 아주 지배적인 방어 건물이며, 가장 강력한 진화 중 하나를 보유하고 있습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;마법사 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ 실드 HP:&lt;/b&gt;
+371 → 296 (-20%)&lt;/p&gt;
+&lt;p&gt;진화 마법사의 실드는 뚫기가 매우 어려웠습니다. 이제 화살로도 파괴할 수 있습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;단검 공작부인&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️&lt;/b&gt; &lt;b&gt;단검 충전:&lt;/b&gt;
+0.8초 → 0.9초 (13%)
+&lt;b&gt;⏱️ 공격 속도:&lt;/b&gt;
+0.35초 → 0.45초 (+29%)&lt;/p&gt;
+&lt;p&gt;단검 공작부인은 단검이 떨어진 상태일 때에도 상대하기 어려우며, 단검이 완충되면 너무 큰 피해를 주었습니다. 이제 공작부인이 단검을 모두 던지는 데 걸리는 시간이 더 길어지고, 완충에 필요한 시간도 늘어납니다.&lt;/p&gt;</description>
+      <guid isPermaLink="false">5Zmd0ZaDGi8Xc4lCVYS2tm</guid>
+      <category>소식</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 02 Jul 2024 08:37:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
