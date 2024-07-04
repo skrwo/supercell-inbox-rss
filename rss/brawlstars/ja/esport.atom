@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-07-04T08:33:37.311258+00:00</updated>
+  <updated>2024-07-04T09:31:20.366255+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -17,7 +17,7 @@
 さらに！オープン予選に参加したすべての人は、レジェンドレアのスタードロップまたは100エメラルドのどちらかが当たるキャンペーンに参加できます！
 
 詳細と登録はこちら：
-&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fletsplay.live%2Fbrawl-stars%2F')"&gt;https://letsplay.live/brawl-stars/&lt;/a&gt;&lt;/p&gt;</content>
+&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fletsplay.live%25252Fbrawl-stars%25252F')"&gt;https://letsplay.live/brawl-stars/&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h6cS7HqdwUxwvgPBggphT/b71527bd1637144334aafa579259c310/LPL-Carousel-Guide-SIGN-UP.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="eスポーツ"/>
     <published>2024-04-22T11:33:06+00:00</published>
