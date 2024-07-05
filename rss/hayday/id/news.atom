@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>hayday-newsEntries-id</id>
   <title>Hayday - News</title>
-  <updated>2024-07-05T07:29:44.001886+00:00</updated>
+  <updated>2024-07-05T08:33:05.501905+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -291,5 +291,15 @@ Minggu: Acara Pelaju Bangunan Produksi (3 Bangunan Acak, Pelaju 20%) + Acara Mem
     <link href="https://youtu.be/qzAOcaZeGY4"/>
     <category term="Komunitas"/>
     <published>2024-07-01T08:29:05+00:00</published>
+  </entry>
+  <entry>
+    <id>1hgTVENWabH3hiTPo0GsWQ</id>
+    <title>Perayaan Kontes Memasak Hay Day</title>
+    <updated>2024-07-05T07:38:09.383000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/id/news/1hgTVENWabH3hiTPo0GsWQ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/OiqdgA1YxR28l6vtpPWxv/e4f68680a19ffebe200ebace63c8730e/IMG_3580.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/TvW1XIRmtGo"/>
+    <category term="Komunitas"/>
+    <published>2024-07-05T07:36:44+00:00</published>
   </entry>
 </feed>
