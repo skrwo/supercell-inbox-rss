@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-07T15:29:19.604421+00:00</updated>
+  <updated>2024-07-07T16:33:39.921329+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -381,5 +381,14 @@ https://discord.gg/snapdragonproseries&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/14ZBkdKIBJIBbjfuzi29vr/82743e1d72b83a5fb1efa6e44cde9a51/FR_SPS_thumbnail_2024.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sport"/>
     <published>2024-06-23T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1ZHrELrRcncwXOGW3vibbU</id>
+    <title>Re-Regardez la SPS Cup 2 - Jour 2!</title>
+    <updated>2024-07-07T15:40:38.236000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/35WnRb2N5YPpRrc5y71VBe/84e3cbc62247e84a103166df60fccab1/FR_thumbnail_day_2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2191439841?t=00h11m10s"/>
+    <category term="E-sport"/>
+    <published>2024-07-07T16:00:00+00:00</published>
   </entry>
 </feed>
