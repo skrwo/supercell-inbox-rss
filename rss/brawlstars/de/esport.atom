@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-esportNewsEntries-de</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-07-08T12:47:56.844614+00:00</updated>
+  <updated>2024-07-08T13:32:21.083311+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -47,5 +47,19 @@ bei &lt;b&gt;SK Magenta Facility&lt;/b&gt;, in Köln!&lt;/p&gt;&lt;p&gt;Wir freu
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2ChfTtFeZq4o2gbp5aft5D/62244b9b4e383759421ba8edfa6a090e/MayMFWeb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-05-21T10:53:28+00:00</published>
+  </entry>
+  <entry>
+    <id>850m91oMmXMor9Jr6DkQY</id>
+    <title>EMEA Monthly Finals Watchparty in Köln!</title>
+    <updated>2024-07-08T12:59:27.282000+00:00</updated>
+    <content>&lt;p&gt;Schnappt euch eure Familie und Freunde und Augen aufgemacht: &lt;b&gt;Das letzte Monthly Final und die Qualifikation für die Brawl Stars WM 2024&lt;/b&gt; steht vor der Tür! 
+
+Feuert eure Lieblingsteams am &lt;b&gt;Samstag, den 20. Juli, live aus der SK Magenta Facility in Köln&lt;/b&gt; an. 
+
+Im Anschluss dürft ihr euch ebenfalls auf &lt;b&gt;ein Meet and Greet mit dem SK Gaming Brawl Stars Team&lt;/b&gt; freuen!&lt;/p&gt;
+&lt;a href="https://www.eventbrite.de/e/brawl-stars-emea-july-monthly-finals-watchparty-tickets-940211617257"&gt;👉Tickets gibt es hier!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4v8xvyQteCPL1mJUoRLpHA/4a5fbe347cb17829cc297b055cda8b18/JulyMFWeb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Esports"/>
+    <published>2024-07-08T12:59:27+00:00</published>
   </entry>
 </feed>
