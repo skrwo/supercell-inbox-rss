@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-07-08T06:39:11.005828+00:00</updated>
+  <updated>2024-07-08T07:29:59.090947+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -198,5 +198,17 @@
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/RTgzLU4w6F6iiJU3YAFQN"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/565eVZZrhcsEwpLUMTKpGP/6fb0d31d042ecafe959e4c73b3baea4c/SquadIcon_WitchSkin_1920x1080_A.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <published>2024-06-26T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7whM44GSqVt1q9ps76saRV</id>
+    <title>Pegue a Galinha e ganhe recompensas!</title>
+    <updated>2024-07-08T07:12:11.170000+00:00</updated>
+    <content>&lt;h1&gt;Participe do nosso primeiro evento da comunidade: Corrida da Galinha!&lt;/h1&gt;
+&lt;p&gt;Nos eventos da comunidade, suas ações ajudam a alcançar objetivos que concedem prêmios para todo mundo! Nesta primeira edição, contaremos a quantidade de &lt;b&gt;Galinhas usadas em batalha&lt;/b&gt; 🐔!&lt;/p&gt;&lt;p&gt;Ou seja, sempre que alguém pegar uma Galinha em um baú, isso contribui para o objetivo, e todos ficam mais próximos de desbloquear as recompensas!&lt;/p&gt;&lt;p&gt;Há cinco objetivos, e as recompensas são as seguintes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;10 milhões de Galinhas: 10 Dragões-galinha (megaunidade)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;20 milhões de Galinhas: 20 Galinhas bebês&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;50 milhões de Galinhas: 20.000 moedas&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;80 milhões de Galinhas: 80 Galinhas bebês&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;120 milhões de Galinhas: &lt;b&gt;visual Galinha Faixa Preta&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Para acompanhar o progresso do evento, fique de olho na aba de Notícias do jogo!&lt;/p&gt;&lt;p&gt;Sempre que a comunidade desbloquear um objetivo, as recompensas ficarão disponíveis na loja. O evento tem duração de 10 dias e termina em 18 de julho às 7h UTC.&lt;/p&gt;&lt;p&gt;Juntos, a gente consegue!&lt;/p&gt;
+&lt;a href="https://youtu.be/oiQGlxx8LVQ"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/7whM44GSqVt1q9ps76saRV"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3dLIRYQFymGKN2hnL5VSDk/346b244ce5feefcc59ec85151d3f56bc/SB_Chicken_event_inbox_thumb_final_01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Comunidade"/>
+    <published>2024-07-08T07:00:00+00:00</published>
   </entry>
 </feed>

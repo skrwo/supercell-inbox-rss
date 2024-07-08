@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>squadbusters-newsEntries-it</id>
   <title>Squadbusters - News</title>
-  <updated>2024-07-08T06:39:10.378842+00:00</updated>
+  <updated>2024-07-08T07:30:00.444485+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -187,5 +187,17 @@
     <link href="https://squadbusters.inbox.supercell.com/#/it/news/RTgzLU4w6F6iiJU3YAFQN"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/565eVZZrhcsEwpLUMTKpGP/6fb0d31d042ecafe959e4c73b3baea4c/SquadIcon_WitchSkin_1920x1080_A.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <published>2024-06-26T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7whM44GSqVt1q9ps76saRV</id>
+    <title>Scegli la gallina e vinci dei premi!</title>
+    <updated>2024-07-08T07:12:11.170000+00:00</updated>
+    <content>&lt;h1&gt;Ti presentiamo il nostro primissimo evento della community: INVASIONE DI GALLINE.&lt;/h1&gt;
+&lt;p&gt;L&amp;#39;obiettivo di questi eventi è quello di compiere certe azioni in gioco in modo da sbloccare dei premi favolosi per tutti! In questa edizione inaugurale, &lt;b&gt;conteremo le galline che i giocatori metteranno in squadra durante le battaglie&lt;/b&gt;! 🐔&lt;/p&gt;&lt;p&gt;In pratica, ogni volta che qualcuno prende una gallina da un baule, il contatore dei progressi collettivi salirà, permettendoci di fare dei passi avanti verso lo sblocco delle ricompense!&lt;/p&gt;&lt;p&gt;Ci sono cinque soglie da superare, ognuna con un requisito e un premio specifici.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;A 10 milioni di galline messe in squadra, si vincono 10 galline drago (un megapersonaggio).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A 20 milioni, si ricevono 20 galline baby.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A 50 milioni, 20.000 monete.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A 80 milioni, 80 galline baby.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A 120 milioni, &lt;b&gt;la skin &amp;#39;&amp;#39;cintura nera&amp;#39;&amp;#39; della gallina&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Puoi seguire l&amp;#39;andamento dell&amp;#39;evento direttamente da qui, nel menu delle notizie.&lt;/p&gt;&lt;p&gt;L&amp;#39;evento durerà 10 giorni, fino alle 7:00 UTC del 18 luglio, e le sue ricompense appariranno nel negozio non appena sarà raggiunta la loro soglia.&lt;/p&gt;&lt;p&gt;Diamoci da fare tutti insieme!&lt;/p&gt;
+&lt;a href="https://youtu.be/oiQGlxx8LVQ"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/it/news/7whM44GSqVt1q9ps76saRV"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3dLIRYQFymGKN2hnL5VSDk/346b244ce5feefcc59ec85151d3f56bc/SB_Chicken_event_inbox_thumb_final_01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Community"/>
+    <published>2024-07-08T07:00:00+00:00</published>
   </entry>
 </feed>
