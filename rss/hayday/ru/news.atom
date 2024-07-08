@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-07-08T10:35:54.352362+00:00</updated>
+  <updated>2024-07-08T11:29:57.943252+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -306,5 +306,15 @@
     <link href="https://youtu.be/TvW1XIRmtGo"/>
     <category term="Сообщество"/>
     <published>2024-07-05T07:36:44+00:00</published>
+  </entry>
+  <entry>
+    <id>1rGhOFHl88wvRax8mveMME</id>
+    <title>События 28-й недели в Hay Day!</title>
+    <updated>2024-07-08T11:29:15.354000+00:00</updated>
+    <content>&lt;p&gt;Привет, фермеры! Надеемся, что вы хорошо проводите лето. Встречайте новые события! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: ваучеры на колесе фортуны.&lt;/p&gt;&lt;p&gt;Вторник: материалы для улучшения амбара и силосной башни за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;Среда: ускорители за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Четверг: в два раза больше монет за обслуживание посетителей фермы.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 30 % (утиный салон и вязальщик сетей) и вдвое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;Суббота: вдвое больше опыта за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;Воскресенье: три случайных растения будут приносить в полтора раза больше урожая.&lt;/p&gt;&lt;p&gt;Желаем отличной недели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/1rGhOFHl88wvRax8mveMME"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2024-07-08T11:28:37+00:00</published>
   </entry>
 </feed>

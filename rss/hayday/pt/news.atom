@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-07-08T10:35:58.249304+00:00</updated>
+  <updated>2024-07-08T11:30:01.502354+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -306,5 +306,15 @@ Domingo: aceleração da produção em 20% de 3 prédios aleatórios + evento de
     <link href="https://youtu.be/TvW1XIRmtGo"/>
     <category term="Comunidade"/>
     <published>2024-07-05T07:36:44+00:00</published>
+  </entry>
+  <entry>
+    <id>1rGhOFHl88wvRax8mveMME</id>
+    <title>Semana 28 de eventos do Hay Day</title>
+    <updated>2024-07-08T11:29:15.354000+00:00</updated>
+    <content>&lt;p&gt;Olá! Esperamos que estejam aproveitando essa temporada refrescante, pois há mais eventos a caminho! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com vales.&lt;/p&gt;&lt;p&gt;Terça-feira: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;Quarta-feira: aceleradores com os pedidos do barco.&lt;/p&gt;&lt;p&gt;Quinta-feira: dobro de moedas com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;Sexta-feira: dobro de pontos do passe rural e aceleração da produção em 30% do salão dos patos e do redeiro.&lt;/p&gt;&lt;p&gt;Sábado: dobro de XP com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;Domingo: aceleração de 3 plantações aleatórias com rendimento de 3 unidades em cada colheita em vez de 2.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/1rGhOFHl88wvRax8mveMME"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notícias"/>
+    <published>2024-07-08T11:28:37+00:00</published>
   </entry>
 </feed>
