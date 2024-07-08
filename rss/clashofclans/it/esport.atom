@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-08T09:30:26.486172+00:00</updated>
+  <updated>2024-07-08T10:35:50.326926+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -341,5 +341,32 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3HNirnP4zjOt8M1Vq8Aabd/cc4a653b7a625b66445b88c888b529e4/IT_SPS_article_small_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-06-23T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1AWdlCVQ15UjBVImyYpD4c</id>
+    <title>Rivedi la SPS Cup 1 - Giorno 1!</title>
+    <updated>2024-07-08T10:15:58.459000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/62Gl2QZJLiO9u9KBR401n1/4c45ea78649fd8f8ce277458f665c1e2/it_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2184594865?t=00h07m42s"/>
+    <category term="Esports"/>
+    <published>2024-06-29T10:17:25+00:00</published>
+  </entry>
+  <entry>
+    <id>4CKznMtCrgeyyXABTIMYlJ</id>
+    <title>Rivedi la SPS Cup 1 - Giorno 2!</title>
+    <updated>2024-07-08T10:20:32.204000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3oVfdCzP3qRg0OnZNXKmEd/723d35f6fc3d33fa3430681a5a7cbcf4/IT___thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2185455057?t=00h13m25s"/>
+    <category term="Esports"/>
+    <published>2024-06-30T12:05:47+00:00</published>
+  </entry>
+  <entry>
+    <id>1ZHrELrRcncwXOGW3vibbU</id>
+    <title>Rivedi la SPS Cup 2 - Giorno 2!</title>
+    <updated>2024-07-08T10:22:50.301000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2cdHpM7BWuc0UAsAVYbM10/9d8576e4173f0bf1525e7367a5403a62/it_thumbnail_day_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2191438939?t=00h12m41s"/>
+    <category term="Esports"/>
+    <published>2024-07-07T16:00:00+00:00</published>
   </entry>
 </feed>
