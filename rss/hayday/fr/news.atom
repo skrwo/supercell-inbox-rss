@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-07-08T03:34:00.402745+00:00</updated>
+  <updated>2024-07-08T04:35:29.438840+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4wCvW0sZ402sTO4JYxD9MU</id>
-    <title>Calendrier des événements Hay Day (semaine 15)</title>
-    <updated>2024-04-08T12:51:53.832000+00:00</updated>
-    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 15)&lt;/h1&gt;
-&lt;p&gt;Salut, amis de la ferme ! Encore une semaine pleine d&amp;#39;événements en avril ! Tous les évènements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, coupons supplémentaires
-Mardi : visiteurs de la ville, matériaux d&amp;#39;amélioration de la grange et du silo en récompense pour les visiteurs se rendant dans 2 ou 3 bâtiments
-Mercredi : bateau, boosts supplémentaires
-Jeudi : visiteurs de la ferme, pièces x2
-Vendredi : coin de pêche, boost de production de 30 % pour le salon de plumage + points du pass Hay Day doublés
-Samedi : visiteurs de la ville + livraisons par camion, EXP x2
-Dimanche : boost pour 3 récoltes aléatoires, 3 unités récoltées au lieu de 2 + vide-grenier&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/4wCvW0sZ402sTO4JYxD9MU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nouvelles"/>
-    <published>2024-04-07T21:23:45+00:00</published>
-  </entry>
   <entry>
     <id>5S2LioDIS7Gu1vEYhTxQuI</id>
     <title>Calendrier des événements Hay Day (semaine 16)</title>

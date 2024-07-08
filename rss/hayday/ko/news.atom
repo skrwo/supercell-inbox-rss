@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-07-08T03:34:08.749918+00:00</updated>
+  <updated>2024-07-08T04:35:26.018907+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4wCvW0sZ402sTO4JYxD9MU</id>
-    <title>헤이데이 이벤트 15주 차!</title>
-    <updated>2024-04-08T12:51:53.832000+00:00</updated>
-    <content>&lt;h1&gt;헤이데이 이벤트 15주 차&lt;/h1&gt;
-&lt;p&gt;안녕하세요, 농부님! 이벤트로 가득한 4월의 새로운 한 주가 시작됩니다! 모든 이벤트는 오전 8시(UTC)에 시작합니다. 각 이벤트에 대한 자세한 정보는 해당 요일에 게임 내 이벤트 게시판을 확인하세요.&lt;/p&gt;&lt;p&gt;월요일: 행운의 룰렛(추가 쿠폰)
-화요일: 타운 방문객 이벤트(추가 헛간 및 농작물 저장소 개조 아이템 - 2~3 건물 방문 시)
-수요일: 화물선 이벤트(추가 부스터)
-목요일: 농장 방문객 이벤트(코인 2배)
-금요일: 낚시 생산 부스트 이벤트(오리집 30% 가속) + 농장 패스 포인트 2배
-토요일: 타운 방문객 이벤트 + 트럭 주문 이벤트(XP 2배)
-일요일: 농작물 부스트 이벤트(무작위 농작물 3종류 - 2개 대신 3개 수확) + 창고 세일&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ko/news/4wCvW0sZ402sTO4JYxD9MU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="뉴스"/>
-    <published>2024-04-07T21:23:45+00:00</published>
-  </entry>
   <entry>
     <id>5S2LioDIS7Gu1vEYhTxQuI</id>
     <title>헤이데이 이벤트 16주 차!</title>

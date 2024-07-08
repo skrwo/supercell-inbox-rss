@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-07-08T03:34:05.615419+00:00</updated>
+  <updated>2024-07-08T04:35:33.147254+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4wCvW0sZ402sTO4JYxD9MU</id>
-    <title>Hay Day-evenementen: week 15!</title>
-    <updated>2024-04-08T12:51:53.832000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day-evenementen: week 15!&lt;/h1&gt;
-&lt;p&gt;Hallo boeren! Een nieuwe week vol leuke evenementen gaat van start! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;Maandag: rad van fortuin (extra tegoedbonnen)
-Dinsdag: stadsbezoekersevenement (2 of 3 gebouwen geven extra upgrademateriaal voor je schuur en silo)
-Woensdag: bootevenement (extra boosters)
-Donderdag: boerderijbezoekersevenement (2x zoveel munten)
-Vrijdag: visboost (30% boost voor de eendensalon) + dubbele boerderijkaartpunten
-Zaterdag: stadsbezoekersevenement + truckbestellingen (2x zoveel XP)
-Zondag: gewassenboost (3 willekeurige gewassen leveren 3 in plaats van 2 gewassen op) + rommelmarkt&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/nl/news/4wCvW0sZ402sTO4JYxD9MU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nieuws"/>
-    <published>2024-04-07T21:23:45+00:00</published>
-  </entry>
   <entry>
     <id>5S2LioDIS7Gu1vEYhTxQuI</id>
     <title>Hay Day-evenementen: week 16!</title>

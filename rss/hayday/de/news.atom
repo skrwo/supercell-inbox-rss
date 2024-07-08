@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-07-08T03:34:02.325450+00:00</updated>
+  <updated>2024-07-08T04:35:36.034862+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4wCvW0sZ402sTO4JYxD9MU</id>
-    <title>Ereigniswoche 15!</title>
-    <updated>2024-04-08T12:51:53.832000+00:00</updated>
-    <content>&lt;h1&gt;Ereigniswoche 15&lt;/h1&gt;
-&lt;p&gt;Hallo Farmer! Eine weitere Aprilwoche voller Ereignisse! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (zusätzliche Gutscheine)
-Dienstag: Stadtbesucher-Ereignis (zusätzliche Verbesserungsmaterialien für Scheune und Silo als Belohnungen für Besucher, die in 2 und 3 Gebäuden bedient wurden)
-Mittwoch: Schiffsereignis (zusätzliche Schübe)
-Donnerstag: Farmbesucher-Ereignis (doppelte Münzen)
-Freitag: Produktionsschub für den Angelbereich (Entensalon, 30 %) + doppelte Farmpasspunkte
-Samstag: Stadtbesucher-Ereignis und Lieferwagenbestellungen-Ereignis (doppelte EP)
-Sonntag: Pflanzenschub-Ereignis (ernte bei 3 zufälligen Pflanzenarten 3 anstatt 2 Pflanzen) + Flohmarkt&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/4wCvW0sZ402sTO4JYxD9MU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-04-07T21:23:45+00:00</published>
-  </entry>
   <entry>
     <id>5S2LioDIS7Gu1vEYhTxQuI</id>
     <title>Ereigniswoche 16!</title>

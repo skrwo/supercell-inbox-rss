@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-07-08T03:34:06.898098+00:00</updated>
+  <updated>2024-07-08T04:35:24.080925+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4wCvW0sZ402sTO4JYxD9MU</id>
-    <title>Semana 15 de eventos do Hay Day!</title>
-    <updated>2024-04-08T12:51:53.832000+00:00</updated>
-    <content>&lt;h1&gt;Semana 15 de eventos do Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Começou mais uma semana de abril repleta de eventos! Todos os eventos começam às 8h (fuso horário: UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: vales extras na roda da sorte.
-Terça-feira: ganhe materiais extras de melhoria do celeiro e do silo com visitantes da cidade servidos em 2-3 prédios.
-Quarta-feira: aceleradores extras com os pedidos do barco.
-Quinta-feira: dobro de moedas com os visitantes da fazenda.
-Sexta-feira: aceleração da produção em 30% do salão dos patos e dobro de pontos no passe rural.
-Sábado: evento dos visitantes da cidade e dobro de XP com os pedidos do caminhão.
-Domingo: venda de itens usados e aceleração de 3 plantações aleatórias com rendimento de 3 unidades em cada colheita em vez de 2.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/4wCvW0sZ402sTO4JYxD9MU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notícias"/>
-    <published>2024-04-07T21:23:45+00:00</published>
-  </entry>
   <entry>
     <id>5S2LioDIS7Gu1vEYhTxQuI</id>
     <title>Semana 16 de eventos do Hay Day</title>
