@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-09T15:29:50.255733+00:00</updated>
+  <updated>2024-07-09T16:37:54.525325+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>15ys1WJFKVY21vx504Ub2i</id>
-    <title>【金雄】即將到來的新活動有哪些重點？</title>
-    <updated>2024-04-10T09:01:46.898000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/15ys1WJFKVY21vx504Ub2i"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/355FGh4cfo6q9aTSrGJgnH/42993a68c40bd72f1b626eac1f57bc9a/tw_20240410_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=eGbUs13vU78"/>
-    <category term="最新情報"/>
-    <published>2024-04-10T08:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>7HqbmmwljdFxOyFqT569Ki</id>
-    <title>【烏龜】搶先了解火箭氣球兵秀活動資訊！</title>
-    <updated>2024-04-10T09:02:32.941000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7HqbmmwljdFxOyFqT569Ki"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1v9lSrPocq1RiJAbVvjsZw/130c0c0382364e488e636a4418dbabeb/tw_20240410_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=DHoG0BKXKBE"/>
-    <category term="最新情報"/>
-    <published>2024-04-10T08:31:00+00:00</published>
-  </entry>
   <entry>
     <id>3mENdTmuwouQzoXJqUpnhT</id>
     <title>【烏龜】全新標記功能！還有提升可增援部隊？</title>
