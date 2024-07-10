@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-07-10T07:30:11.589030+00:00</updated>
+  <updated>2024-07-10T08:35:19.228644+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -295,5 +295,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-07-08T11:28:37+00:00</published>
+  </entry>
+  <entry>
+    <id>7nFV4fBjNoBMpBP8V2vrEm</id>
+    <title>七月農貿市集動畫</title>
+    <updated>2024-07-10T08:01:29.378000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/zh/news/7nFV4fBjNoBMpBP8V2vrEm"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/49CuljIORj8ywIvxrCOY8X/52d1e5ff2a5092a5a4108fd1149a4ff9/thumbcount1-min.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ci4sJtD7ZbY"/>
+    <category term="社群"/>
+    <published>2024-07-10T08:00:03+00:00</published>
   </entry>
 </feed>
