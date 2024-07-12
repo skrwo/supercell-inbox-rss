@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-12T03:32:02.879277+00:00</updated>
+  <updated>2024-07-12T04:32:42.061825+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>4lIjrM4L3ZyjMUah61JkHG</id>
-    <title>Battle Ram 🐏 Lore Drop</title>
-    <updated>2024-04-19T06:11:59.503000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/4lIjrM4L3ZyjMUah61JkHG"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2J1vmORGJmBLR63M5NivZ/b8c861c2c04b7188802edf47d88e519d/battleram_loredrop.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/NE3fi8ZIOtU?feature=share"/>
-    <category term="Fun"/>
-    <published>2024-04-12T15:05:02+00:00</published>
-  </entry>
   <entry>
     <id>3iAJhg8pLV8iG4BTvZrizd</id>
     <title>Mini Crown Chase Event!</title>
