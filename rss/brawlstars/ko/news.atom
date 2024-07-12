@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-12T08:34:28.267421+00:00</updated>
+  <updated>2024-07-12T09:30:00.903553+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -239,5 +239,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/L4FatsJJ1q6YRJQJH8UYU/4637878952adc2a66ec54d23fe029706/loading_screen_classic_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-07-12T07:01:27+00:00</published>
+  </entry>
+  <entry>
+    <id>ZK74L9Q3HjtFUAX7xCaWA</id>
+    <title>제가 지금 보고 있는 상자가 메가 상자 맞죠? 📦😲</title>
+    <updated>2024-07-12T09:12:51.708000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/ZK74L9Q3HjtFUAX7xCaWA"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2czkIG3HJJzZi9U9Hqhf9d/5295bd1acd657dbdd3621331c58f2b84/2W_0712___________.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Wtnno_dJ_mg"/>
+    <category term="동영상"/>
+    <published>2024-07-12T09:12:51+00:00</published>
   </entry>
 </feed>
