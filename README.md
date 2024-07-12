@@ -67,4 +67,4 @@ python -m feed
 This repository and its maintainers are not affiliated with Supercell. Using it or its source code may violate Terms of Service of Supercell or their games. I leave the responsibility to you.
 
 # Licence
-The source code of the Supercell Inbox RSS repository is released under the MIT licence. This basically means that you can do wathever you want with it, I don't care.
+The source code of the Supercell Inbox RSS repository is released under the MIT licence. This basically means that you can do whatever you want with it, I don't care.
