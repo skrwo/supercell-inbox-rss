@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-12T16:36:41.475207+00:00</updated>
+  <updated>2024-07-12T17:31:17.415005+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>3mENdTmuwouQzoXJqUpnhT</id>
-    <title>【烏龜】全新標記功能！還有提升可增援部隊？</title>
-    <updated>2024-04-13T12:06:35.860000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3mENdTmuwouQzoXJqUpnhT"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4Erh4eW7P8UCqrARrU6xin/e880fd19fa573700eaf83851b8b0c9bb/tw_20240413_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/eVfDkNnIIOY"/>
-    <category term="最新情報"/>
-    <published>2024-04-13T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>7wlXqm7GHLEsa9IBUccneZ</id>
-    <title>【金雄】快速了解部落各項優化！</title>
-    <updated>2024-04-13T12:06:50.762000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7wlXqm7GHLEsa9IBUccneZ"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2AtdPGCrMOS1ETDwNh6q9D/cd47e118190abea9d4ff6a53c5c37e43/tw_20240413_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/PchL-xP0M64"/>
-    <category term="最新情報"/>
-    <published>2024-04-13T12:01:00+00:00</published>
-  </entry>
   <entry>
     <id>7yzC2oIM4sO7lbA2bcV4H6</id>
     <title>【金雄】憤怒水母有何特別之處？</title>
