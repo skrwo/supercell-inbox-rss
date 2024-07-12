@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-eventEntries-ko</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-07-12T06:37:20.922568+00:00</updated>
+  <updated>2024-07-12T07:28:59.790348+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -89,5 +89,14 @@
 &lt;a href="https://cafe.naver.com/brawlstars/1205981"&gt;👉대회 안내!👈&lt;/a&gt; -- &lt;a href="https://naver.me/Gj6w1Edl"&gt;👉참가 신청!👈&lt;/a&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5rDm2Zxk9ibppScSSAnwzy/d71d19aa6d8f61f33e9dd0592c4e9f49/03_800x1161.jpg?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <published>2024-07-05T05:52:24+00:00</published>
+  </entry>
+  <entry>
+    <id>4b1odm7Jp1xMcZ4SPfpF98</id>
+    <title>🗞️</title>
+    <updated>2024-07-12T07:17:32.943000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtube.com/shorts/HPrukYlHu94"&gt;👉보러 가기!👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/ko/news/1EmjrgcJs2gIADXu55ZbWC"&gt;👉추가 정보!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/63sLzdoFQhhHTquRN7h2un/fc31acb86df63f62ecc4199ee59a26a6/loading_screen_classic_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2024-07-12T07:16:30+00:00</published>
   </entry>
 </feed>
