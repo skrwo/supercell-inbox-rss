@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-13T15:29:02.567188+00:00</updated>
+  <updated>2024-07-13T16:34:45.173631+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -672,5 +672,14 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-07-02T08:37:05+00:00</published>
+  </entry>
+  <entry>
+    <id>3VPxXmeTNBt0lOmcgj6fKA</id>
+    <title>限界突破ゴブリンドリル！</title>
+    <updated>2024-07-13T15:30:03.442000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/3VPxXmeTNBt0lOmcgj6fKA"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5awKozP0SBO0UQdpf9nkGy/17c117f84f320774623442ff0ec419b0/goblindrillevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/4UpoddXksAg?feature=share"/>
+    <published>2024-07-13T15:30:03+00:00</published>
   </entry>
 </feed>
