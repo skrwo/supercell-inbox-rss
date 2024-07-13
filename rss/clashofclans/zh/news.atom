@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-13T11:29:56.649819+00:00</updated>
+  <updated>2024-07-13T12:45:47.924829+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>7yzC2oIM4sO7lbA2bcV4H6</id>
-    <title>【金雄】憤怒水母有何特別之處？</title>
-    <updated>2024-04-14T12:10:56.828000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7yzC2oIM4sO7lbA2bcV4H6"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5CARd2TI5aGOEkSFESdWrj/8c2b0a47fe2d8967e202d28d446a7ff8/tw_20240414_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=b_Bm7VJ7GS4"/>
-    <category term="最新情報"/>
-    <published>2024-04-14T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>3bwCZ9KrozWCh8e3KpNzL2</id>
-    <title>【烏龜】全新戰寵會對戰局帶來什麼影響？</title>
-    <updated>2024-04-14T12:11:16.730000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3bwCZ9KrozWCh8e3KpNzL2"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2lVTFHXUiolGTIMDQ26TgG/a9f7dccd6e8ff090c107b7537c9c8d23/tw_20240414_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9JLXD0RjFX4"/>
-    <category term="最新情報"/>
-    <published>2024-04-14T12:01:00+00:00</published>
-  </entry>
   <entry>
     <id>syfVfvob0gXKgEy5XCKRw</id>
     <title>2024年4月喜怒無常的觸手：更新詳情</title>
