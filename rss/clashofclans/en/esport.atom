@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-14T14:32:40.291101+00:00</updated>
+  <updated>2024-07-14T15:40:35.195346+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -366,5 +366,32 @@ Clash On!&lt;/p&gt;&lt;p&gt;- The Clash of Clans Esports Team&lt;/p&gt;</content
     <link href="https://www.youtube.com/live/v0qgAIMh-uk?si=A9YtTq7gGNIg4yg8&amp;t=893"/>
     <category term="Esports"/>
     <published>2024-07-07T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1D4mdOBPsMd7ZrR2sqSqOX</id>
+    <title>Rewatch the China Qualifier Knock-out stage - Day 1!</title>
+    <updated>2024-07-14T14:43:08.793000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Enp8A5853L3BwluUbpwKI/62a02e5e420c2d92e963243cfd3d8ba1/rewatch_china_qualifier_knockout_stage.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2196449693?t=00h28m41s"/>
+    <category term="Esports"/>
+    <published>2024-07-13T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>xwukeAy7dilTk7jJYQGhf</id>
+    <title>Rewatch the July Monthly Qualifier - Day 1!</title>
+    <updated>2024-07-14T14:46:03.459000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4Snxftkk0Oim6vaAeZvKEw/e56e1db34e2020fd5b30cc5581b989df/COC_-_July_MQ_Thumb_Day_1_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2196602818?t=00h15m13s"/>
+    <category term="Esports"/>
+    <published>2024-07-13T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4n1pjw4YkmXoLpbCGaFzOL</id>
+    <title>Rewatch the China Qualifier Knock-out stage - Day 2!</title>
+    <updated>2024-07-14T14:43:47.816000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Enp8A5853L3BwluUbpwKI/62a02e5e420c2d92e963243cfd3d8ba1/rewatch_china_qualifier_knockout_stage.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2197291336?t=00h10m00s"/>
+    <category term="Esports"/>
+    <published>2024-07-14T12:00:00+00:00</published>
   </entry>
 </feed>
