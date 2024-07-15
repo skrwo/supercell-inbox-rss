@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-15T09:30:26.366189+00:00</updated>
+  <updated>2024-07-15T10:36:19.379179+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -356,5 +356,14 @@ Millesime MG: Millesime MG conformado por &lt;a href="javascript:window.sendComm
     <link href="https://www.youtube.com/live/ZfWdmcoYDUg?si=TIyIFyQCjzDCc3nE&amp;t=756"/>
     <category term="eSports"/>
     <published>2024-07-07T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>xwukeAy7dilTk7jJYQGhf</id>
+    <title>¡Ver repetición de la Clasificatoria Mensual de Julio - Día 1!</title>
+    <updated>2024-07-15T10:17:04.426000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3DtnN06dB3n46v6xU6ZMtg/17b1aab8a0211911ccdc970c80d33d49/ES_D1_COC_-_July_MQ_Thumb_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/VqFxH0d6LjY?t=474"/>
+    <category term="eSports"/>
+    <published>2024-07-13T18:00:00+00:00</published>
   </entry>
 </feed>

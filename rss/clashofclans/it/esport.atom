@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-15T09:30:26.727220+00:00</updated>
+  <updated>2024-07-15T10:36:07.595174+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -350,5 +350,41 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
     <link href="https://www.twitch.tv/videos/2191438939?t=00h12m41s"/>
     <category term="Esports"/>
     <published>2024-07-07T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1D4mdOBPsMd7ZrR2sqSqOX</id>
+    <title>Rivedi il China Qualifier Fase Knock-out - Giorno 1!</title>
+    <updated>2024-07-15T10:12:56.482000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6gpiAMQbdVum2WKY0O1UC7/aeda67c2960bf1f8e897af35bd3dcd87/IT_China-Qualifier-Knock-out-Stage-thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2196452165?t=00h04m52s"/>
+    <category term="Esports"/>
+    <published>2024-07-13T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>xwukeAy7dilTk7jJYQGhf</id>
+    <title>Rivedi la Qualificazione mensile di luglio - Giorno 1!</title>
+    <updated>2024-07-15T10:17:04.426000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/55VCcqmc3UZgitgHLnlnA9/868fa751d773d5060abca452bd293463/IT_COC---July-MQ-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2196601365?t=00h05m11s"/>
+    <category term="Esports"/>
+    <published>2024-07-13T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4n1pjw4YkmXoLpbCGaFzOL</id>
+    <title>Rivedi il China Qualifier Fase Knock-out - Giorno 2!</title>
+    <updated>2024-07-15T10:13:13.766000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6gpiAMQbdVum2WKY0O1UC7/aeda67c2960bf1f8e897af35bd3dcd87/IT_China-Qualifier-Knock-out-Stage-thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2197291861?t=00h04m55s"/>
+    <category term="Esports"/>
+    <published>2024-07-14T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5udYyejnjh5w52JB0OzQLr</id>
+    <title>Rivedi la Qualificazione mensile di luglio - Giorno 2!</title>
+    <updated>2024-07-15T10:17:17.246000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1lW2dPIDpapk13njGmCrgL/05f65e26cb7fa25b6aa730108c953bfa/IT2_COC---July-MQ-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2197446814?t=00h05m07s"/>
+    <category term="Esports"/>
+    <published>2024-07-14T18:45:22+00:00</published>
   </entry>
 </feed>
