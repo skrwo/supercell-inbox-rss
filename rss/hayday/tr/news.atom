@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-07-15T06:39:56.869502+00:00</updated>
+  <updated>2024-07-15T07:29:30.944330+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5S2LioDIS7Gu1vEYhTxQuI</id>
-    <title>Hay Day Etkinlikleri 16. Hafta!</title>
-    <updated>2024-04-14T08:17:22.350000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Etkinlikleri 16. Hafta!&lt;/h1&gt;
-&lt;p&gt;Günaydın çiftçiler! Bahçe haftamıza hoş geldiniz! Tüm etkinlikler sabah saat 11&amp;#39;de (8 AM UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;Pazartesi: Çarkıfelek Etkinliği (bir arazi genişletme izni garantili, ikincisini kazanmak da mümkün)
-Salı: Kamyon Siparişleri Etkinliği (ekstra hediye çekleri) + Vişne Ağacı x2
-Çarşamba: Tekne Etkinliği (iki kat altın)
-Perşembe: Çiftlik Ziyaretçileri Etkinliği (iki kat altın) + Elma Ağacı x2
-Cuma: Balık Üretimi Hızlandırma Etkinliği (ıstakoz ve yemler, %30 hızlandırma) + Bahçe Yardım Etkinliği + İki Kat Farm Pass Puanı
-Cumartesi: Kasaba Ziyaretçileri Etkinliği (2+3 bina için ekstra arazi genişletme malzemeleri) + Bahçe Yardım Etkinliği
-Pazar: Üretim Binası Hızlandırma Etkinliği (rastgele üç bina, %20 hızlandırma) + Bahçe Yardım Etkinliği&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/5S2LioDIS7Gu1vEYhTxQuI"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Haberler"/>
-    <published>2024-04-14T08:17:01+00:00</published>
-  </entry>
   <entry>
     <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
     <title>Toplam Ziyaretçi Hedefi</title>
@@ -315,5 +298,16 @@ Pazar: Üretim Binası Hızlandırma Etkinliği (rastgele üç bina, %20 hızlan
     <link href="https://youtu.be/ci4sJtD7ZbY"/>
     <category term="Topluluk"/>
     <published>2024-07-10T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3rWiTHl5rDrvEwfEmS8h4r</id>
+    <title>Hay Day Etkinlikleri 29. Hafta!</title>
+    <updated>2024-07-15T07:07:52.210000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Etkinlikleri 29. Hafta!&lt;/h1&gt;
+&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır mısınız? Tüm etkinlikler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;Pazartesi: Çarkıfelek Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;Salı: Kamyon Etkinliği (hediye çekleri)&lt;/p&gt;&lt;p&gt;Çarşamba: Tekne Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Perşembe: Çiftlik Ziyaretçileri (bahçe satışı)&lt;/p&gt;&lt;p&gt;Cuma: Balıkçılık Hızlandırma Etkinliği (ıstakozlar ve yemler %30) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;Cumartesi: Kasaba Ziyaretçileri Etkinliği (genişletme malzemeleri) + Kamyon Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Pazar: Üretim Binası Etkinliği (rastgele üç bina, %20 hızlandırma) + Tekne Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Harika bir hafta diliyoruz!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/3rWiTHl5rDrvEwfEmS8h4r"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Haberler"/>
+    <published>2024-07-15T07:05:50+00:00</published>
   </entry>
 </feed>

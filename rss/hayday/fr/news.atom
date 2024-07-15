@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-07-15T06:39:56.687553+00:00</updated>
+  <updated>2024-07-15T07:29:29.883933+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5S2LioDIS7Gu1vEYhTxQuI</id>
-    <title>Calendrier des événements Hay Day (semaine 16)</title>
-    <updated>2024-04-14T08:17:22.350000+00:00</updated>
-    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 16)&lt;/h1&gt;
-&lt;p&gt;Bonjour, amis de la ferme ! Bienvenue à la semaine du jardin ! Tous les évènements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la fortune, 1 permis d&amp;#39;extension garanti, possibilité d&amp;#39;en obtenir un 2e
-Mardi : livraisons par camion, coupons supplémentaires, cerisiers x2
-Mercredi : bateau, pièces x2
-Jeudi : visiteurs de la ferme, pièces x2, pommiers x2
-Vendredi : Production de homards et appâts +30 %, événement d&amp;#39;entraide du jardin, points du pass Hay Day x2
-Samedi : visiteurs de la ville, matériaux d&amp;#39;extension de la ferme en récompense pour les visiteurs se rendant dans 2 ou 3 bâtiments + événement d&amp;#39;entraide du jardin
-Dimanche : boost de production de 20 % pour 3 bâtiments aléatoires, événement d&amp;#39;entraide du jardin&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/5S2LioDIS7Gu1vEYhTxQuI"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nouvelles"/>
-    <published>2024-04-14T08:17:01+00:00</published>
-  </entry>
   <entry>
     <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
     <title>Infos sur l'événement : Objectif visiteurs</title>
@@ -326,5 +309,16 @@ Dimanche : boost de production de 20 % pour 3 bâtiments aléatoires, événemen
     <link href="https://youtu.be/ci4sJtD7ZbY"/>
     <category term="Communauté"/>
     <published>2024-07-10T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3rWiTHl5rDrvEwfEmS8h4r</id>
+    <title>Calendrier des événements Hay Day (semaine 29)</title>
+    <updated>2024-07-15T07:07:52.210000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 29)&lt;/h1&gt;
+&lt;p&gt;Salut, amis de la ferme ! Prêts pour une nouvelle semaine d&amp;#39;événements ? Tous les événements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;Mardi : événement du camion, coupons&lt;/p&gt;&lt;p&gt;Mercredi : événement du bateau, pièces x2&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, vide-grenier&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 30 % pour les homards et les appâts + points du pass Hay Day x2&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, matériaux d&amp;#39;extension + événement du camion, pièces x2&lt;/p&gt;&lt;p&gt;Dimanche : ferme, boost de production de 20 % pour 3 bâtiments aléatoires + événement du bateau, pièces x2&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/3rWiTHl5rDrvEwfEmS8h4r"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nouvelles"/>
+    <published>2024-07-15T07:05:50+00:00</published>
   </entry>
 </feed>

@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-07-15T06:39:57.463774+00:00</updated>
+  <updated>2024-07-15T07:29:29.547143+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5S2LioDIS7Gu1vEYhTxQuI</id>
-    <title>Hay Dayn tapahtumat viikolla 16</title>
-    <updated>2024-04-14T08:17:22.350000+00:00</updated>
-    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 16&lt;/h1&gt;
-&lt;p&gt;Hyvää huomenta, farmarit! Tervetuloa puutarhaviikolle! Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: 1–2 laajennuslupaa onnenpyörässä
-Tiistai: kuponkeja lisäpalkintona tavararekkatilauksista ja kirsikkasato tuplanopeudella
-Keskiviikko: tuplasti kolikoita laivatilauksista
-Torstai: tuplasti kolikoita farmivierailijoista ja omenasato tuplanopeudella
-Perjantai: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus, puutarhan auttamistapahtuma ja Farmipassi-pisteet tuplana
-Lauantai: laajennusesineitä lisäpalkintona kylävierailijoista (2–3 rakennuksesta) ja puutarhan auttamistapahtuma
-Sunnuntai: kolmen sattumanvaraisen tuotantorakennuksen 20 %:n tehostus ja puutarhan auttamistapahtuma&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/5S2LioDIS7Gu1vEYhTxQuI"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Uutiset"/>
-    <published>2024-04-14T08:17:01+00:00</published>
-  </entry>
   <entry>
     <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
     <title>Vierailijoiden virstanpylväät</title>
@@ -326,5 +309,16 @@ Sunnuntai: kolmen sattumanvaraisen tuotantorakennuksen 20 %:n tehostus ja puutar
     <link href="https://youtu.be/ci4sJtD7ZbY"/>
     <category term="Yhteisö"/>
     <published>2024-07-10T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3rWiTHl5rDrvEwfEmS8h4r</id>
+    <title>Hay Dayn tapahtumat viikolla 29</title>
+    <updated>2024-07-15T07:07:52.210000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 29&lt;/h1&gt;
+&lt;p&gt;Hei farmarit! Uusi tapahtumaviikko alkaa! Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: laajennusesineitä onnenpyörästä&lt;/p&gt;&lt;p&gt;Tiistai: kuponkeja lisäpalkintoina tavararekkatilauksista&lt;/p&gt;&lt;p&gt;Keskiviikko: tuplasti kolikoita laivatilauksista&lt;/p&gt;&lt;p&gt;Torstai: myyjäiset farmivierailijoille&lt;/p&gt;&lt;p&gt;Perjantai: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;Lauantai: laajennusesineitä kylävierailijoista + tuplasti kolikoita tavararekkatilauksista&lt;/p&gt;&lt;p&gt;Sunnuntai: kolmen sattumanvaraisen tuotantorakennuksen 20 %:n tehostus + tuplasti kolikoita laivatilauksista&lt;/p&gt;&lt;p&gt;Verratonta viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/3rWiTHl5rDrvEwfEmS8h4r"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Uutiset"/>
+    <published>2024-07-15T07:05:50+00:00</published>
   </entry>
 </feed>

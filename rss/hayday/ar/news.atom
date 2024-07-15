@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-07-15T06:39:57.045838+00:00</updated>
+  <updated>2024-07-15T07:29:29.141351+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5S2LioDIS7Gu1vEYhTxQuI</id>
-    <title>الأسبوع 16 من أحداث Hay Day!</title>
-    <updated>2024-04-14T08:17:22.350000+00:00</updated>
-    <content>&lt;h1&gt;الأسبوع 16 من أحداث Hay Day!&lt;/h1&gt;
-&lt;p&gt;صباح الخير أيها المزارعون! مرحبًا بكم في أسبوع الحدائق! تبدأ كل الأحداث في الساعة 8 ص بتوقيت جرينتش. اطلع على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;الإثنين: حدث تدوير العجلة (ترخيص توسعة أراضٍ واحد مضمون وفرصة الحصول على ترخيص ثانٍ)
-الثلاثاء: حدث طلبات الشاحنة (قسائم إضافية) + شجرة كرز عدد 2
-الأربعاء: حدث طلبات القارب (ضعف العملات)
-الخميس: زوار المزرعة (ضعف العملات) + شجرة تفاح عدد 2
-الجمعة: تعزيز بنسبة 30% لإنتاجية سرطان البحر والطعوم + حدث المساعدة في الحدائق + ضعف نقاط Farm Pass
-السبت: حدث زوار البلدة (مواد توسعة إضافية للأراضي لـ 2+3 مبان) + حدث المساعدة في الحدائق
-الأحد: حدث تعزيز مباني الإنتاج (3 مبانٍ عشوائية، تعزيز 20%) + حدث المساعدة في الحدائق&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ar/news/5S2LioDIS7Gu1vEYhTxQuI"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="أخبار"/>
-    <published>2024-04-14T08:17:01+00:00</published>
-  </entry>
   <entry>
     <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
     <title>معلومات عن إنجازات الزوار</title>
@@ -294,5 +277,16 @@
     <link href="https://youtu.be/ci4sJtD7ZbY"/>
     <category term="المجتمع"/>
     <published>2024-07-10T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3rWiTHl5rDrvEwfEmS8h4r</id>
+    <title>الأسبوع 29 من أحداث Hay Day</title>
+    <updated>2024-07-15T07:07:52.210000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 29 من أحداث Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! هل أنتم مستعدون لأسبوع جديد من الأحداث؟ تبدأ كل الأحداث في الساعة 8 ص بتوقيت جرينتش. اطلع على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;الإثنين: تدوير العجلة: (مواد توسعة)&lt;/p&gt;&lt;p&gt;الثلاثاء: حدث الشاحنة (القسائم)&lt;/p&gt;&lt;p&gt;الأربعاء: حدث طلبات القارب (ضعف العملات)&lt;/p&gt;&lt;p&gt;الخميس: حدث زوار المزرعة (عرض بيع الزينات)&lt;/p&gt;&lt;p&gt;الجمعة: حدث تعزيز إنتاجية الصيد (سرطان البحر والطعوم 30%) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;السبت: حدث زوار البلدة (مواد توسعة) + حدث الشاحنة (ضعف العملات)&lt;/p&gt;&lt;p&gt;الأحد: حدث مباني الإنتاج (3 مبانٍ عشوائية، تعزيز 20%) + حدث القارب (ضعف العملات)&lt;/p&gt;&lt;p&gt;نتمنى لكم قضاء أسبوع رائع!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/3rWiTHl5rDrvEwfEmS8h4r"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أخبار"/>
+    <published>2024-07-15T07:05:50+00:00</published>
   </entry>
 </feed>

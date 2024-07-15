@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-07-15T06:39:56.506444+00:00</updated>
+  <updated>2024-07-15T07:29:28.085382+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5S2LioDIS7Gu1vEYhTxQuI</id>
-    <title>헤이데이 이벤트 16주 차!</title>
-    <updated>2024-04-14T08:17:22.350000+00:00</updated>
-    <content>&lt;h1&gt;헤이데이 이벤트 16주 차!&lt;/h1&gt;
-&lt;p&gt;좋은 아침입니다, 농부님! 원예 주간에 어서 오세요! 모든 이벤트는 오전 8시(UTC)에 시작합니다. 각 이벤트에 대한 자세한 정보는 해당 요일에 게임 내 이벤트 게시판을 확인하세요.&lt;/p&gt;&lt;p&gt;월요일: 행운의 룰렛 이벤트(확장 허가서 1개 등장 - 일정 확률로 2개 등장)
-화요일: 트럭 주문 이벤트(추가 쿠폰) + 체리 나무 2배
-수요일: 화물선 이벤트(코인 2배)
-목요일: 농장 방문객(코인 2배) + 사과 나무 2배
-금요일: 낚시 생산 부스트(가재 수족관 및 미끼 작업대 30% 가속) + 정원 도움 이벤트 + 농장 패스 포인트 2배
-토요일: 타운 방문객 이벤트(추가 토지 확장 아이템 - 2~3 건물 방문 시) + 정원 협동 이벤트
-일요일: 생산시설 부스트 이벤트(무작위 시설 3개 20% 가속) + 정원 협동 이벤트&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ko/news/5S2LioDIS7Gu1vEYhTxQuI"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="뉴스"/>
-    <published>2024-04-14T08:17:01+00:00</published>
-  </entry>
   <entry>
     <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
     <title>방문객 마일스톤 정보</title>
@@ -326,5 +309,16 @@
     <link href="https://youtu.be/ci4sJtD7ZbY"/>
     <category term="커뮤니티"/>
     <published>2024-07-10T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3rWiTHl5rDrvEwfEmS8h4r</id>
+    <title>헤이데이 이벤트 29주 차!</title>
+    <updated>2024-07-15T07:07:52.210000+00:00</updated>
+    <content>&lt;h1&gt;헤이데이 이벤트 29주 차!&lt;/h1&gt;
+&lt;p&gt;안녕하세요, 농부님! 이번 주의 이벤트를 즐길 준비가 되셨나요? 모든 이벤트는 오전 8시(UTC)에 시작합니다. 각 이벤트에 대한 자세한 정보는 해당 요일에 게임 내 이벤트 게시판을 확인하세요.&lt;/p&gt;&lt;p&gt;월요일: 행운의 룰렛(확장 아이템)&lt;/p&gt;&lt;p&gt;화요일: 트럭 이벤트(쿠폰)&lt;/p&gt;&lt;p&gt;수요일: 화물선 이벤트(코인 2배)&lt;/p&gt;&lt;p&gt;목요일: 농장 방문객 이벤트(창고 세일)&lt;/p&gt;&lt;p&gt;금요일: 낚시 생산 부스트 이벤트(가재 수족관 및 미끼 작업대 30% 가속) + 농장 패스 포인트 2배&lt;/p&gt;&lt;p&gt;토요일: 타운 방문객 이벤트(확장 아이템) + 트럭 이벤트(코인 2배)&lt;/p&gt;&lt;p&gt;일요일: 생산시설 부스트 이벤트(무작위 시설 3개 20% 가속) + 화물선 이벤트(코인 2배)&lt;/p&gt;&lt;p&gt;즐거운 한 주 보내세요!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/3rWiTHl5rDrvEwfEmS8h4r"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-07-15T07:05:50+00:00</published>
   </entry>
 </feed>

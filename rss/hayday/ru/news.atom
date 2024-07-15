@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-07-15T06:39:56.957222+00:00</updated>
+  <updated>2024-07-15T07:29:27.363125+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5S2LioDIS7Gu1vEYhTxQuI</id>
-    <title>События Hay Day: 16-я неделя</title>
-    <updated>2024-04-14T08:17:22.350000+00:00</updated>
-    <content>&lt;h1&gt;События Hay Day: 16-я неделя&lt;/h1&gt;
-&lt;p&gt;Доброе утро, фермеры! Встречайте садовую неделю! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: одно разрешение на расширение на колесе фортуны, а также шанс появления второго.
-Вторник: дополнительные ваучеры за выполнение заказов на доставку грузовиком и ускорение вишневых деревьев в два раза.
-Среда: вдвое больше монет за загрузку пароходов.
-Четверг: вдвое больше монет за обслуживание посетителей фермы и ускорение яблонь в два раза.
-Пятница: ускорение производства в рыболовной зоне на 30 % (раки и приманки), в два раза больше очков Farm Pass и садовое событие помощи.
-Суббота: дополнительные материалы для расширения за обслуживание гостей города, посетивших 2–3 здания, и садовое событие помощи.
-Воскресенье: ускорение трех случайных производственных зданий на 20 % и садовое событие помощи.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/5S2LioDIS7Gu1vEYhTxQuI"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Новости"/>
-    <published>2024-04-14T08:17:01+00:00</published>
-  </entry>
   <entry>
     <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
     <title>Информация о событии с подписчиками</title>
@@ -326,5 +309,16 @@
     <link href="https://youtu.be/ci4sJtD7ZbY"/>
     <category term="Сообщество"/>
     <published>2024-07-10T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3rWiTHl5rDrvEwfEmS8h4r</id>
+    <title>События 29-й недели в Hay Day!</title>
+    <updated>2024-07-15T07:07:52.210000+00:00</updated>
+    <content>&lt;h1&gt;События 29-й недели в Hay Day!&lt;/h1&gt;
+&lt;p&gt;Привет, фермеры! Готовы к новой неделе? Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: разрешения на расширение на колесе фортуны.&lt;/p&gt;&lt;p&gt;Вторник: ваучеры за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Среда: вдвое больше монет за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Четверг: событие с посетителями фермы и распродажей на дому.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 30 % (раковый пруд и станок для приманок) и удвоение очков Farm Pass.&lt;/p&gt;&lt;p&gt;Суббота: материалы для расширения за обслуживание гостей города и вдвое больше монет за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Воскресенье: ускорение трех случайных производственных зданий на 20 % и вдвое больше монет за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Желаем отличной недели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/3rWiTHl5rDrvEwfEmS8h4r"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2024-07-15T07:05:50+00:00</published>
   </entry>
 </feed>

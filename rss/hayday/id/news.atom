@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>hayday-newsEntries-id</id>
   <title>Hayday - News</title>
-  <updated>2024-07-15T06:39:56.339773+00:00</updated>
+  <updated>2024-07-15T07:29:27.673301+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5S2LioDIS7Gu1vEYhTxQuI</id>
-    <title>Acara Hay Day Minggu ke-16!</title>
-    <updated>2024-04-14T08:17:22.350000+00:00</updated>
-    <content>&lt;h1&gt;Acara Hay Day Minggu ke-16!&lt;/h1&gt;
-&lt;p&gt;Selamat Pagi, Petani! Mari sambut Pekan Panen! Semua Acara dimulai pukul 08.00 UTC (15.00 WIB). Cermati detail masing-masing Acara dengan mengunjungi Papan Acara dalam game.&lt;/p&gt;&lt;p&gt;Senin: Acara Putar Roda (1 Izin Perluasan Tanah dijamin dengan peluang mendapatkan 2)
-Selasa: Acara Pesanan Truk (Voucher Ekstra) + Pohon Ceri 2 kali lebih cepat
-Rabu: Acara Perahu (2x Koin)
-Kamis : Pengunjung Pertanian (2x Koin) + Pohon Apel 2 kali lebih cepat
-Jumat: Produksi Lobster dan Umpan 30% + Acara Membantu Pekan Panen + 2x Poin Tiket Pertanian
-Sabtu: Acara Pengunjung Kota (Material Perluasan Tanah untuk 2+3 Bangunan) + Acara Membantu Pekan Panen
-Minggu: Acara Pelaju Bangunan Produksi (3 Bangunan Acak, Pelaju 20%) + Acara Membantu Pekan Panen&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/id/news/5S2LioDIS7Gu1vEYhTxQuI"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Promosi"/>
-    <published>2024-04-14T08:17:01+00:00</published>
-  </entry>
   <entry>
     <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
     <title>Info Ambang Pengunjung</title>
@@ -304,5 +287,16 @@ Minggu: Acara Pelaju Bangunan Produksi (3 Bangunan Acak, Pelaju 20%) + Acara Mem
     <link href="https://youtu.be/ci4sJtD7ZbY"/>
     <category term="Komunitas"/>
     <published>2024-07-10T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3rWiTHl5rDrvEwfEmS8h4r</id>
+    <title>Acara Hay Day Minggu ke-29!</title>
+    <updated>2024-07-15T07:07:52.210000+00:00</updated>
+    <content>&lt;h1&gt;Acara Hay Day Minggu ke-29!&lt;/h1&gt;
+&lt;p&gt;Halo, Petani! Sudah siap untuk Acara minggu ini? Semua Acara dimulai pukul 08.00 UTC (15.00 WIB). Cermati detail masing-masing Acara dengan mengunjungi Papan Acara dalam game.&lt;/p&gt;&lt;p&gt;Senin: Acara Putar Roda (Material Perluasan Tanah)&lt;/p&gt;&lt;p&gt;Selasa: Acara Truk (Voucher)&lt;/p&gt;&lt;p&gt;Rabu: Acara Perahu (2x Koin)&lt;/p&gt;&lt;p&gt;Kamis: Pengunjung Pertanian (Obral Bersih-bersih)&lt;/p&gt;&lt;p&gt;Jumat: Acara Pelaju Produksi Memancing (30% untuk Lobster dan Umpan) + 2x Poin Tiket Pertanian&lt;/p&gt;&lt;p&gt;Sabtu: Acara Pengunjung Kota (Material Perluasan Tanah) + Acara Truk (2x Koin)&lt;/p&gt;&lt;p&gt;Minggu: Acara Bangunan Produksi (3 Bangunan Acak, Pelaju 20%) + Acara Perahu (2x Koin)&lt;/p&gt;&lt;p&gt;Semoga minggumu seru!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/id/news/3rWiTHl5rDrvEwfEmS8h4r"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Promosi"/>
+    <published>2024-07-15T07:05:50+00:00</published>
   </entry>
 </feed>
