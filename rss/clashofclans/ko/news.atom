@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-17T11:29:12.163371+00:00</updated>
+  <updated>2024-07-17T12:49:18.443259+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -22,16 +22,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4XanwHug2IvJQio2XMDsxa/55c7c4fcdf7ac2666b5d0605e2c648d9/1023_SUP3533_ClashonPC_October_2023__1920x1080_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2023-10-24T15:42:26+00:00</published>
-  </entry>
-  <entry>
-    <id>IPSO7nXVxeSDU9dFd6xfo</id>
-    <title>연속 이벤트가 시작됩니다!</title>
-    <updated>2024-04-23T07:57:11.186000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/IPSO7nXVxeSDU9dFd6xfo"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5JcdEBpTrGTpLA2MXQTCbr/46a559f543f23535bfd6180ecdfb25cb/inbox_streak_event_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/PkyQEMlnyG8"/>
-    <category term="뉴스"/>
-    <published>2024-04-18T08:00:03+00:00</published>
   </entry>
   <entry>
     <id>54nuZZa4bbvBe20T2fK4YU</id>
