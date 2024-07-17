@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-17T06:38:01.507475+00:00</updated>
+  <updated>2024-07-17T07:29:26.546377+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -239,5 +239,15 @@
     <link href="https://youtu.be/Wtnno_dJ_mg"/>
     <category term="동영상"/>
     <published>2024-07-12T09:12:51+00:00</published>
+  </entry>
+  <entry>
+    <id>3760ohrz0sXPlhTTMZBi7a</id>
+    <title>《2024 브롤스타즈 학교 대항전 w.Gen.G Esports》 직관 티켓 안내</title>
+    <updated>2024-07-17T07:17:44.729000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3760ohrz0sXPlhTTMZBi7a"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/75kfCseyjmlUJTEnUr8UcE/0fdda1339962b6668772f2bba6e11f76/0718_BS______________inboxnews_800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1213112"/>
+    <category term="뉴스"/>
+    <published>2024-07-17T07:17:44+00:00</published>
   </entry>
 </feed>
