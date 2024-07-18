@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-18T13:31:09.271030+00:00</updated>
+  <updated>2024-07-18T14:32:09.756186+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>54nuZZa4bbvBe20T2fK4YU</id>
-    <title>遊戲現況</title>
-    <updated>2024-04-19T12:53:17.231000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/54nuZZa4bbvBe20T2fK4YU"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3uaNXJEs7qPargjxU4aoZU/436f73d9cc778da786245cdb8aa1e9aa/Thumb-03.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9bw_tNO7qIg"/>
-    <category term="最新情報"/>
-    <published>2024-04-19T12:02:03+00:00</published>
-  </entry>
   <entry>
     <id>7FFrmJyUzMQA4Y9kpI8rzt</id>
     <title>4月部落競賽獎勵搶先看</title>

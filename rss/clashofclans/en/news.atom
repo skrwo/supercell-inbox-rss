@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-18T13:31:16.955921+00:00</updated>
+  <updated>2024-07-18T14:32:08.651001+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>54nuZZa4bbvBe20T2fK4YU</id>
-    <title>The State of the Game</title>
-    <updated>2024-04-19T12:53:17.231000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/en/news/54nuZZa4bbvBe20T2fK4YU"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3Dc7WAeHrQu9WHTCmh3FM5/0a5b871b3be3740d0ae4033098719f2f/CoC_InsideTheBuildersHut_thumb_final_01.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9bw_tNO7qIg"/>
-    <category term="News"/>
-    <published>2024-04-19T12:02:03+00:00</published>
-  </entry>
   <entry>
     <id>4Pul8wevi9YQZernMls3Y5</id>
     <title>New Supercell game going global!</title>
