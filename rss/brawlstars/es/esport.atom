@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-07-18T09:29:56.019274+00:00</updated>
+  <updated>2024-07-18T10:34:55.450641+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -59,5 +59,19 @@
     <link href="https://x.com/ecopagg/status/1795099864369393679"/>
     <category term="Esports"/>
     <published>2024-05-27T15:39:57+00:00</published>
+  </entry>
+  <entry>
+    <id>3gtXUG9VZH7L2NUR4xQPQz</id>
+    <title>¡Llega el Dedsafio Brawl Stars!</title>
+    <updated>2024-07-18T09:38:07.230000+00:00</updated>
+    <content>&lt;h1&gt;¡Llega el Dedsafio Brawl Stars!&lt;/h1&gt;
+&lt;p&gt;De la mano de &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fdedreviil')"&gt;&lt;b&gt;ElDed&lt;/b&gt;&lt;/a&gt; os traemos una nueva competición de Brawl Stars donde tendremos un total de 48 Creadores de Contenido que demostrarán sus habilidades en juego: el &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fdedsafio')"&gt;&lt;b&gt;Dedsafio Brawl Stars&lt;/b&gt;&lt;/a&gt;.
+
+&lt;b&gt;¿Cuándo?&lt;/b&gt; El día &lt;b&gt;19 de Julio&lt;/b&gt; a las &lt;b&gt;21:00 UTC&lt;/b&gt; y que contará con la región de Norte y Sudamerica.&lt;/p&gt;&lt;p&gt;¡Vuestros Creadores de Contenido favoritos formarán equipos para superar sus propios límites y competir para convertirse en los primeros ganadores del &lt;b&gt;Dedsafio Brawl Stars&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;El &lt;b&gt;formato&lt;/b&gt; de competición está estructurado de la siguiente manera:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Se eligen 16 capitanes que escogerán a sus compañeros para formar equipos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tras tener determinados a los equipos, la competición se disputará en formato liga con unas 15 rondas disputadas por cada equipo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Los enfrentamientos de cada ronda se jugarán al mejor de 3 partidas &lt;b&gt;(BO3)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;El modo de juego, lo determinará una &lt;b&gt;ruleta&lt;/b&gt;, la cual girará y mostrará el modo de juego en el que se juega la ronda.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Los 4 mejores equipos, pasarán a la fase final.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La fase final tiene la misma dinámica de competición, pero las partidas se jugarán al mejor de 5 &lt;b&gt;(BO5)&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;El torneo contará con un total de &lt;b&gt;3000 $&lt;/b&gt; en premios repartidos entre los finalistas de la fase de liga.&lt;/p&gt;&lt;p&gt;Un formato de competición muy dinámico, donde viviremos muchas emociones, diversión y, sobre todo, ¡nos espera un gran nivel por parte de los Creadores de Contenido en este Dedsafío Brawl Stars!&lt;/p&gt;&lt;p&gt;&lt;b&gt;¿Dónde puedo verlo?&lt;/b&gt; Podéis seguir el &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.twitch.tv%25252Fdedsafio')"&gt;&lt;b&gt;canal de twitch del Dedsafio&lt;/b&gt;&lt;/a&gt; y los canales de los Creadores de Contenido que participarán, para no perderos tanto la fase de elección de mapa con la ruleta, como las mejores partidas de vuestros Creadores favoritos.
+
+¡Ve a por tus palomitas y disfruta de este gran evento! 🥳&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/23dxNEb7UBVqbDH46vGuKx/4aa5dd53d67f7cc99f9dc2d48601902b/thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Esports"/>
+    <published>2024-07-17T23:00:00+00:00</published>
   </entry>
 </feed>
