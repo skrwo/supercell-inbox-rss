@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-19T14:32:30.623481+00:00</updated>
+  <updated>2024-07-19T15:31:17.783459+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>3Q7KLMsfa5eUrepnu5140k</id>
-    <title>Musique de la duchesse aux dagues 🎵</title>
-    <updated>2024-04-24T06:44:16.877000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/3Q7KLMsfa5eUrepnu5140k"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/@ClashRoyale"/>
-    <category term="Fun"/>
-    <published>2024-04-20T15:00:03+00:00</published>
-  </entry>
   <entry>
     <id>5Qlw1XrUzSdDEeFhSjK2Nx</id>
     <title>Sortie mondiale d'un nouveau jeu Supercell !</title>

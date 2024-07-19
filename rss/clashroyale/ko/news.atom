@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-19T14:32:30.383904+00:00</updated>
+  <updated>2024-07-19T15:31:17.257757+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,16 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>3Q7KLMsfa5eUrepnu5140k</id>
-    <title>단검 공작부인의 음악 🎵</title>
-    <updated>2024-04-24T06:44:16.877000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/3Q7KLMsfa5eUrepnu5140k"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/wWm5FCg_j3o?si=VSHVrI_KEgf8tgRe"/>
-    <category term="재미"/>
-    <published>2024-04-20T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>5Qlw1XrUzSdDEeFhSjK2Nx</id>

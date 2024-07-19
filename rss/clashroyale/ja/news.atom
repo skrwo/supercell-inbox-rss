@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-19T14:32:28.924209+00:00</updated>
+  <updated>2024-07-19T15:31:17.973815+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,16 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>3Q7KLMsfa5eUrepnu5140k</id>
-    <title>ダガーガールの歌🎵</title>
-    <updated>2024-04-24T06:44:16.877000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/3Q7KLMsfa5eUrepnu5140k"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2a1LWnORwVvcCDs1nzplX7/887da2d52df3d92aba6a9d585cfb056c/DD_Thumbnail_Karaoke.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=lin1T7HEKw4"/>
-    <category term="エンタメ"/>
-    <published>2024-04-20T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>5Qlw1XrUzSdDEeFhSjK2Nx</id>
