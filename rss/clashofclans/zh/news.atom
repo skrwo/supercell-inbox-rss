@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-19T09:29:18.394316+00:00</updated>
+  <updated>2024-07-19T10:33:39.573928+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -538,5 +538,15 @@
     <link href="https://youtu.be/u461kS7zoRc"/>
     <category term="最新情報"/>
     <published>2024-07-17T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6nQWfNcoTiPTJjZ1aJtNJ8</id>
+    <title>【阿德老師】選對攻城器，三星率大增！</title>
+    <updated>2024-07-19T10:31:23.494000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6nQWfNcoTiPTJjZ1aJtNJ8"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5orZu5F7iPlgwvlj6Crm54/218eaa45f1c2e44461c69440f17458ee/tw_20240718_derderteacher_video_thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=z_hz7vOdcrw"/>
+    <category term="最新情報"/>
+    <published>2024-07-19T10:30:00+00:00</published>
   </entry>
 </feed>
