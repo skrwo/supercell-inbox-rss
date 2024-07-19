@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-19T01:42:16.589862+00:00</updated>
+  <updated>2024-07-19T02:45:23.378926+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -345,5 +345,15 @@ https://event.brawlstars.com/jp&#13;
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3V0Hw0qg7y63oY79mriEzb/b66eb152d0fc40ec635faaf213ffc0fc/20240711_BST_classic_BS_campaign_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-07-15T03:06:06+00:00</published>
+  </entry>
+  <entry>
+    <id>ltNLlz0JJAR7Mf9OZm0jB</id>
+    <title>知らないと戦犯！立ち回りで勝てるようになる初心者必見ブロスタ基礎講座！！【初心者講座】</title>
+    <updated>2024-07-19T02:12:13.584000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/ltNLlz0JJAR7Mf9OZm0jB"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6fA3ApFDQBUblkTvUX6uyw/a2bb6443f8abcb5c44990cb573b5314c/maxresdefault__1_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=fWD1MLTaoF8"/>
+    <category term="ビデオ"/>
+    <published>2024-07-19T02:12:13+00:00</published>
   </entry>
 </feed>
