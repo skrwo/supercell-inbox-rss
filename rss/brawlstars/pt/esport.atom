@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-07-21T11:29:22.972109+00:00</updated>
+  <updated>2024-07-21T12:46:47.771821+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -32,5 +32,14 @@
     <link href="https://x.com/ecopagg/status/1795440715264385416"/>
     <category term="Esports"/>
     <published>2024-05-28T20:23:42+00:00</published>
+  </entry>
+  <entry>
+    <id>792dAhe0a2v6FYpRKneTm</id>
+    <title>Vencedores de Julho | EMEA</title>
+    <updated>2024-07-21T11:50:05.022000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7nnfkKoPxz9xbpQefBJ0Pp/83f0421e566756cf3a02ed5733f795f3/PT-BSC_MF_Winners_ZETA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=IlVNlEHUufg"/>
+    <category term="Esports"/>
+    <published>2024-07-21T11:50:05+00:00</published>
   </entry>
 </feed>

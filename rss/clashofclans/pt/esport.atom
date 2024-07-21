@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-esportNewsEntries-pt</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-21T11:29:29.212382+00:00</updated>
+  <updated>2024-07-21T12:46:59.026687+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -411,5 +411,14 @@ Filipino: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2ioekkaUUdevZIJ49Pjs2k/fb3bf864201f74fad46699ebb3e4c157/PT-COC_-_July_MF_AYNTK_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sports"/>
     <published>2024-07-18T13:57:44+00:00</published>
+  </entry>
+  <entry>
+    <id>78VzczwKKjDJQum59l8gQD</id>
+    <title>Reveja o Dia 1 das Finais Mensais de Julho! </title>
+    <updated>2024-07-21T12:04:15.229000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1yVm9A08JtBSSkyE1wGOCo/3d04713da2345f75307aea02fc79bc90/PT-COC_-_July_MF_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/IRvo__DmPe8?si=Vq44PGFHDkXU1uDB"/>
+    <category term="E-sports"/>
+    <published>2024-07-20T18:06:34+00:00</published>
   </entry>
 </feed>
