@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-esportNewsEntries-ja</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-21T23:29:20.570925+00:00</updated>
+  <updated>2024-07-22T01:46:08.042173+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -319,5 +319,14 @@ $9,000を賭けて、様々なタウンホールレベルのベストプレイ�
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3YAaPYdCtwqFWeldimqLo/d54385158747df7e08efd6cf4a19ed18/COC_-_July_MF_AYNTK_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eスポーツ"/>
     <published>2024-07-18T13:57:44+00:00</published>
+  </entry>
+  <entry>
+    <id>78VzczwKKjDJQum59l8gQD</id>
+    <title>7月マンスリー決勝戦　DAY1をもう一度！</title>
+    <updated>2024-07-22T01:43:40.528000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4EgTR3txyPvAYH7bHP3lFb/afe5d0db4186e4f8414ebd79690b5ea6/COC_-_July_MF_Thumb_Day_1_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/KexjLmFP-2Q?feature=shared"/>
+    <category term="eスポーツ"/>
+    <published>2024-07-20T18:06:34+00:00</published>
   </entry>
 </feed>
