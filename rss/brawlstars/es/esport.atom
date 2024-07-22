@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-07-22T17:31:56.495175+00:00</updated>
+  <updated>2024-07-22T18:36:21.757270+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -59,6 +59,15 @@
     <link href="https://x.com/ecopagg/status/1795099864369393679"/>
     <category term="Esports"/>
     <published>2024-05-27T15:39:57+00:00</published>
+  </entry>
+  <entry>
+    <id>671Qp289QPU34n4QKW9QRA</id>
+    <title>Anuncio de la clasificatoria de última oportunidad</title>
+    <updated>2024-07-22T17:34:59.434000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7cc2t4BhXcQa16XKFal1tm/61543c78b1b5363f4dec88cc87e9f8a1/ES_LCQ_Trailer_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/SA7YJiyp5g4?feature=shared"/>
+    <category term="Esports"/>
+    <published>2024-06-22T17:09:48+00:00</published>
   </entry>
   <entry>
     <id>3gtXUG9VZH7L2NUR4xQPQz</id>
