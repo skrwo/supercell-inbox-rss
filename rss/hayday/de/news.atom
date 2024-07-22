@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-07-22T06:38:29.799039+00:00</updated>
+  <updated>2024-07-22T07:29:13.086602+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
-    <title>Besucher-Meilenstein-Herausforderung</title>
-    <updated>2024-04-18T06:59:41.910000+00:00</updated>
-    <content>&lt;h1&gt;Mach bei der Besucher-Meilenstein-Herausforderung mit, um den Halbmond-Pavillon zu verdienen!&lt;/h1&gt;
-&lt;p&gt;Geehrter Farmer, deine unerschöpflichen Anstrengungen, Lieferwagen um Lieferwagen zu beladen, sind überaus löblich. Deinen Bemühungen zum Trotz ist uns der Bezug der Dekoration „Halbmond-Pavillon“ allerdings bisher versagt geblieben. Doch es hat sich eine einmalige Gelegenheit aufgetan! Bediene heute und am morgigen Tag gemeinsam mit der Community 50 Millionen Besucher. Sollte es uns gelingen, dieses ehrgeizige Ziel zu erreichen, wirst du den majestätischen Halbmond-Pavillon ohne Kosten dein Eigen nennen können!&lt;/p&gt;&lt;p&gt;Streich es dir im Kalender an, denn nach dem Erreichen des Ziels wird er am Samstag als Beweis unserer gemeinsamen Anstrengungen im Shop verfügbar sein. Vereinen wir unsere Kräfte! Zusammen können wir es schaffen!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/1ZXHIw1T7YCCwtKRGYKzz3"/>
-    <category term="Neues"/>
-    <published>2024-04-18T06:59:41+00:00</published>
-  </entry>
-  <entry>
-    <id>l0Azc5YmeQl4S809ZRLrZ</id>
-    <title>Ereigniswoche 17!</title>
-    <updated>2024-04-21T15:24:41.353000+00:00</updated>
-    <content>&lt;h1&gt;Ereigniswoche 17!&lt;/h1&gt;
-&lt;p&gt;Hallo Farmer! Der April neigt sich dem Ende zu und wir haben eine weitere Woche voller toller Ereignisse für dich! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (1 Puzzlestück garantiert, Chance auf 2)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagenbestellungen-Ereignis (zusätzliche Landerweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Mittwoch: Schiffsereignis (zusätzliche Gutscheine)&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den gesamten Angelbereich (20 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (zusätzliche Verbesserungsmaterialien für Scheune und Silo) + Lieferwagenbestellungen-Ereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Sonntag: Flinkeres Futter (3 zufällige Arten Tierfutter) + Schiffsereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/l0Azc5YmeQl4S809ZRLrZ"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-04-21T15:24:26+00:00</published>
-  </entry>
   <entry>
     <id>4UHBuQ5Lr3ZSbzZiLEXnGp</id>
     <title>Ein neues Supercell-Spiel wird global veröffentlicht!</title>
@@ -320,5 +299,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Neues"/>
     <published>2024-07-15T07:05:50+00:00</published>
+  </entry>
+  <entry>
+    <id>7Mk9IpxRi0AKTWuJ4YV7Lo</id>
+    <title>Ereigniswoche 30!</title>
+    <updated>2024-07-22T07:03:42.248000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 30!&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Wir hoffen, du hattest bisher Spaß mit den Ereignissen in diesem Sommer! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Puzzlestücke)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagen-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Mittwoch: Schiffsereignis (Gutscheine)&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (doppelte Münzen) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den gesamten Angelbereich (20 %) + globales Schiffsereignis + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (Verbesserungsmaterialien für Silo und Scheune) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;Sonntag: Flinkeres Futter (3 zufällige Arten Tierfutter werden doppelt so schnell produziert) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/7Mk9IpxRi0AKTWuJ4YV7Lo"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Neues"/>
+    <published>2024-07-22T07:01:36+00:00</published>
   </entry>
 </feed>

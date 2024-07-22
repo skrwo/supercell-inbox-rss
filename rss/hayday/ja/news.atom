@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-07-22T06:38:30.608501+00:00</updated>
+  <updated>2024-07-22T07:29:15.184712+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1ZXHIw1T7YCCwtKRGYKzz3</id>
-    <title>訪問客チャレンジ</title>
-    <updated>2024-04-18T06:59:41.910000+00:00</updated>
-    <content>&lt;h1&gt;訪問客チャレンジに参加して、三日月のガゼボを手に入れましょう！&lt;/h1&gt;
-&lt;p&gt;農場主の皆さん、前回はトラックのお仕事に熱心に取り組んでいただきありがとうございます。しかし残念ながら、三日月のガゼボのデコレーションは手に入りませんでした。そんな中で、またとない絶好の機会が巡ってきました！今日と明日、合計5,000万人の訪問客のリクエストに応えましょう。目標を達成すると、三日月のガゼボのデコレーションが無料で手に入ります！&lt;/p&gt;&lt;p&gt;目標達成後は、土曜日にショップに並ぶので、しっかりと日付をメモしておいてくださいね！一致団結して、頑張りましょう！&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ja/news/1ZXHIw1T7YCCwtKRGYKzz3"/>
-    <category term="ニュース"/>
-    <published>2024-04-18T06:59:41+00:00</published>
-  </entry>
-  <entry>
-    <id>l0Azc5YmeQl4S809ZRLrZ</id>
-    <title>ヘイ・デイ イベントカレンダー第17週！</title>
-    <updated>2024-04-21T15:24:41.353000+00:00</updated>
-    <content>&lt;h1&gt;ヘイ・デイ イベントカレンダー第17週！&lt;/h1&gt;
-&lt;p&gt;農場主の皆さん、こんにちは！4月も終盤に入りました！モー最高なイベントでラストスパートをかけましょう！いずれのイベントも日本時間17時から始まります。ゲーム内のイベント掲示板から各イベントの詳細を確認しましょう。&lt;/p&gt;&lt;p&gt;月曜日：ルーレット回転（パズルピース1～2個）&lt;/p&gt;&lt;p&gt;火曜日：トラックのお仕事（土地拡張用アイテム）&lt;/p&gt;&lt;p&gt;水曜日：船のお仕事（チケット）&lt;/p&gt;&lt;p&gt;木曜日：農場の訪問客（コイン2倍）&lt;/p&gt;&lt;p&gt;金曜日：釣り場の施設ブースト（すべての魚が20％スピードアップ）+ 農場パスポイント2倍&lt;/p&gt;&lt;p&gt;土曜日：町の訪問客（納屋やサイロの拡張用アイテム）+ トラックのお仕事（コイン2倍）&lt;/p&gt;&lt;p&gt;日曜日：動物のエサの生産時間短縮（3種類のエサの生産速度がアップ）+ 船のお仕事（コイン2倍）&lt;/p&gt;&lt;p&gt;それでは、楽しい1週間を！&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ja/news/l0Azc5YmeQl4S809ZRLrZ"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="ニュース"/>
-    <published>2024-04-21T15:24:26+00:00</published>
-  </entry>
   <entry>
     <id>4UHBuQ5Lr3ZSbzZiLEXnGp</id>
     <title>Supercellの新作ゲームが全世界リリース！</title>
@@ -320,5 +299,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-07-15T07:05:50+00:00</published>
+  </entry>
+  <entry>
+    <id>7Mk9IpxRi0AKTWuJ4YV7Lo</id>
+    <title>ヘイ・デイ イベントカレンダー第30週！</title>
+    <updated>2024-07-22T07:03:42.248000+00:00</updated>
+    <content>&lt;h1&gt;ヘイ・デイ イベントカレンダー第30週！&lt;/h1&gt;
+&lt;p&gt;農場主の皆さん、こんにちは！今週も引き続き夏のイベントをお楽しみください！いずれのイベントも日本時間17時から始まります。各イベントの詳細は、ゲーム内のイベント掲示板からご確認ください。&lt;/p&gt;&lt;p&gt;月曜日：ルーレット回転（パズルピース）&lt;/p&gt;&lt;p&gt;火曜日：トラックのお仕事（拡張用アイテム）&lt;/p&gt;&lt;p&gt;水曜日：船のお仕事（チケット）&lt;/p&gt;&lt;p&gt;木曜日：農場の訪問客（コイン2倍）+ 船のお仕事（協力イベント）&lt;/p&gt;&lt;p&gt;金曜日：釣り場の施設ブースト（全施設の生産速度が20％アップ）+ 船のお仕事（協力イベント）+ 農場パスポイント2倍&lt;/p&gt;&lt;p&gt;土曜日：町の訪問客（サイロや納屋の拡張用アイテム）+ 船のお仕事（協力イベント）&lt;/p&gt;&lt;p&gt;日曜日：動物のエサ（3種類のエサの生産速度が2倍にアップ）+ 船のお仕事（協力イベント）&lt;/p&gt;&lt;p&gt;それでは、楽しい1週間を！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/7Mk9IpxRi0AKTWuJ4YV7Lo"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-07-22T07:01:36+00:00</published>
   </entry>
 </feed>
