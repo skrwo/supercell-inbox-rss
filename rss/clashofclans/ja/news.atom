@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-23T07:29:04.868265+00:00</updated>
+  <updated>2024-07-23T08:35:51.517149+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -318,6 +318,26 @@
     <link href="https://youtu.be/BQtYFGClKo8"/>
     <category term="ニュース"/>
     <published>2024-07-02T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>6QLALYkntlQ9AQEQZkJOdV</id>
+    <title>JP_【Yuta14配信】1vs1 Ryuta vs Lincoln and Kazuma(OE) ハードモード!! 7月シーズンクランリーグ入れ替え戦!!</title>
+    <updated>2024-07-23T07:42:56.910000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/6QLALYkntlQ9AQEQZkJOdV"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3dWGxgOIvqX89ADw3N3Arq/5470d7a025b086ea7442d5cde247e3c6/1vs1-35.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/live/ALkhiRF4Kc4?feature=share"/>
+    <category term="ニュース"/>
+    <published>2024-07-23T05:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2BuOvOBham6dgitZR2Z1y8</id>
+    <title>JP_【Yuta14配信】1vs1 GAKU, STARs, Yatta etc...!! ハードモード世界最強の首位決戦!!</title>
+    <updated>2024-07-23T07:42:58.864000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/2BuOvOBham6dgitZR2Z1y8"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3LhkLOp81LQwfmjySqhOTb/f9c3cbda0bb232b663852bb71d8d8a6d/1vs1-36.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/live/BSDssHItIWw?feature=share"/>
+    <category term="ニュース"/>
+    <published>2024-07-23T06:00:00+00:00</published>
   </entry>
   <entry>
     <id>7pLa805bvbwi7v4sGGX3In</id>
