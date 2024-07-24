@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-24T03:32:24.247923+00:00</updated>
+  <updated>2024-07-24T04:33:05.183673+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -374,6 +374,24 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7hNZLuBX4IbCb9N0nFVJ1Y/b3929c20a7673f3dd641ff89b979ca56/COC---July-MF-AYNTK-16x9_KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="e스포츠"/>
     <published>2024-07-18T13:57:44+00:00</published>
+  </entry>
+  <entry>
+    <id>78VzczwKKjDJQum59l8gQD</id>
+    <title>7월 월별 파이널 1일차 다시보기!</title>
+    <updated>2024-07-24T03:43:37.133000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/47kvlW0lxYjGj3JfIN8KBa/b78c9ebdf36183b9c13f07472a665ed6/COC---July-MF-Thumb-16x9_KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/tjg4euxrjW4?si=73F3s6NIpaFxuuvB"/>
+    <category term="e스포츠"/>
+    <published>2024-07-20T18:06:34+00:00</published>
+  </entry>
+  <entry>
+    <id>4tSVyQ2FkvUsRak8RaTAuL</id>
+    <title>7월 월별 파이널 2일차 다시보기!</title>
+    <updated>2024-07-24T03:44:55.537000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7gX2XBatTyuOObNoXMUjjk/3dfa4409ff8a9ff67ee4e281e4043207/COC---July-MF-Thumb-16x9_KR_day2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/yw9v-MQlRIs?si=8KuutVcx1IDSF1xa"/>
+    <category term="e스포츠"/>
+    <published>2024-07-21T17:21:48+00:00</published>
   </entry>
   <entry>
     <id>2lfzfzDAWHK2WxqFCQEdE7</id>
