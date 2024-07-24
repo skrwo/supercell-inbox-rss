@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-24T16:36:48.586390+00:00</updated>
+  <updated>2024-07-24T17:30:25.762232+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -731,5 +731,15 @@
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/6VvuqLm3Up8GhD059LHCGn"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6aDFlurwYdFJ1nl7nOwQBL/a86cd2f63a5c1f724823873d62c4ecc9/20240717_CR_CP_TW_Bestbout.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <published>2024-07-20T02:56:44+00:00</published>
+  </entry>
+  <entry>
+    <id>2ixcEuELchWQIjQe2x0R3F</id>
+    <title>ゴブリンのファンレター！</title>
+    <updated>2024-07-24T16:48:41.240000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/2ixcEuELchWQIjQe2x0R3F"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/0cbIR9anVQdruibmepCLF/2c31611fe6f0b52587894ac6f1ce8a1b/goblinfanmail.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/y-Rmf7dXOZg?feature=share"/>
+    <category term="エンタメ"/>
+    <published>2024-07-21T15:30:03+00:00</published>
   </entry>
 </feed>
