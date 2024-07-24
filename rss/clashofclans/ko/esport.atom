@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-24T05:32:23.777497+00:00</updated>
+  <updated>2024-07-24T06:38:49.971930+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -342,6 +342,28 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7myuZu89l3NAHdZcFnvoJK/7fd939ebebb8993a197492fdd24d77dd/0516_COC_SPS_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="e스포츠"/>
     <published>2024-06-23T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>61lOuGjxrWRlp3IUB4WGTj</id>
+    <title>마을회관 16레벨 트로피 레이스 참여하세요!</title>
+    <updated>2024-07-23T16:03:10.284000+00:00</updated>
+    <content>&lt;h1&gt;안녕하세요, 대장!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;트로피 레이스의 챔피언이 되고 싶으신가요?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Clash Champs의 가장 있기 있는 토너먼트 중 하나인 트로피 레이스 토너먼트를 준비하세요!&lt;/p&gt;&lt;p&gt;여러분의 트로피 획득 능력을 테스트하게 될 이번 트로피 레이스는 마을 회관 16레벨이라면 누구나 참여하실 수 있습니다.&lt;/p&gt;&lt;p&gt;토너먼트 이름에서 알 수 있듯이, 트로피 레이스에서 주어진 목표는 하나입니다. 주어진 시간 내에 가장 많은 숫자의 트로피를 획득하는 것이죠!
+
+말 그대로 정해진 기간 내 플레이어들과 경쟁하며 트로피를 획득하는 싸움입니다.&lt;/p&gt;&lt;p&gt;여러분이 공격을 잘하든 방어를 잘하든, 트로피 레이스에서 승리하기 위해서는 무엇보다도 꾸준함이 필요합니다.&lt;/p&gt;
+&lt;h1&gt;트로피 레이스 참가 등록은 어떻게 하나요?&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.clashchamps.com%252Fleaderboard%252F%253Ftid%253D9')"&gt;&lt;b&gt;이 곳을&lt;/b&gt;&lt;/a&gt;&lt;b&gt; &lt;/b&gt;통해 참가 등록 페이지로 이동 후 아래의 절차를 완료하세요.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;계정 태그를 등록하세요.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;여러분의 API 토큰을 통해 계정을 인증하세요. API 토큰은 아래의 경로에서 확인하실 수 있습니다. - 설정 &amp;gt; 추가 설정 &amp;gt; API 토큰 &amp;gt; &amp;quot;보기&amp;quot; 터치 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;위 항목을 모두 완료하셨다면 트로피 레이스에 참여할 준비는 끝났습니다! 트로피 레이스는 여러 개의 계정으로 참여할 수 있다는 점도 잊지 마세요. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;마을회관 16레벨 플레이어가 참여 가능한 마지막 트로피 레이스 토너먼트의 자세한 일정은 아래에서 확인해 주세요! &lt;/p&gt;
+&lt;h1&gt;마을회관 16레벨&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;등록 시작 : 진행 중!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;트로피 레이스 시작 : 7월 30일(화) 오전 00시 (KST)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;등록 마감 : 8월 17일(일) 오전 00시 (KST)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;트로피 레이스 종료 : 8월 19일(월) 오전 00시 (KST)
+&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;참가자들의 공정한 경쟁을 위해, 마을 회관 레벨 별로 최소 트로피 시작점이 적용됩니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;마을회관 16레벨 : 5,000 트로피&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;상금 안내&lt;/h1&gt;
+&lt;p&gt;최고의 트로피 레이스 플레이어로 선정된 상위 3명의 플레이어에게 지급되는 상금에 대해 만나볼 시간입니다.&lt;/p&gt;&lt;p&gt;상위 3명의 승자에게 주어지는 상금은 다음과 같이 배분됩니다. &lt;/p&gt;&lt;p&gt;&lt;b&gt;마을회관 16레벨&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1위 : 2,200 보석 + $250 기프트 카드(exclaim.gg) + Pro 베이스 팩 + 슈퍼셀 VIP 굿즈 상자 + $250&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2위 : 1,100 보석 + $150 기프트 카드(exclaim.gg) + Pro 베이스 팩 + 골드 등급 스킨 + $150&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3위 : 550 보석 + $100 기프트 카드(exclaim.gg) + Pro 베이스 팩 + 골드 등급 스킨 + $100&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;황금알 : 순위표를 확인하다가 여러분의 이름 옆에 표시된 황금색 알을 발견하셨나요? 그럼, 그 즉시 500 보석을 획득할 수 있습니다!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;스트리머 선물 : 토너먼트의 마지막 생중계에서 2개의 골드 등급 스킨을 선물로 드립니다!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;보석 이외에도 순위표에 등록된 플레이어 중 무작위 플레이어를 대상으로 추첨을 통해 지급되는 특별 상품이 준비되어 있습니다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;생중계를 시청하는 분들을 위한 Pro 베이스 팩, 스킨 이벤트&lt;/b&gt;도 준비되어 있으니 많은 기대 부탁드립니다!&lt;/p&gt;&lt;p&gt;추가적으로, &lt;b&gt;모든 참가자들에게는 계정 당 10개의 Champ Bucks가 지급&lt;/b&gt;됩니다.&lt;/p&gt;&lt;p&gt;Champ Bucks는 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.clashchamps.com%252Fchamp-bucks-rewards%252F')"&gt;&lt;u&gt;rewards store&lt;/u&gt;&lt;/a&gt;를 통해 여러 상품으로 교환 가능한 재화입니다.&lt;/p&gt;&lt;p&gt;Clash Champ 공식&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdiscord.gg%252Fclashchamps')"&gt; &lt;u&gt;디스코드&lt;/u&gt;&lt;/a&gt; 및&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FClashChamps_CoC')"&gt; &lt;u&gt;X(트위터)&lt;/u&gt;&lt;/a&gt;와 클래시 오브 클랜 공식 e스포츠&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;&lt;u&gt; X(트위터)&lt;/u&gt;&lt;/a&gt; 및&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt; &lt;u&gt;인스타그램&lt;/u&gt;&lt;/a&gt;에서 트로피 레이스와 관련된 최신 정보를 확인하세요!
+&lt;i&gt;
+
+그럼, 건투를 빕니다!&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3ZUzS5esepEGoIBKTYsNH5/1ce50c9766718c1647ccf7d3b6433baf/0724_COC_TH16-Trophy-Race_1920x1080__KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="e스포츠"/>
+    <published>2024-07-17T17:52:12+00:00</published>
   </entry>
   <entry>
     <id>4jhSZkXLyahqzkiUakifa7</id>
