@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jul 2024 15:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 16:36:53 +0000</lastBuildDate>
     <item>
       <title>알아둬야 할 모든 것!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -218,6 +218,14 @@
       <category>커뮤니티</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3dLIRYQFymGKN2hnL5VSDk/346b244ce5feefcc59ec85151d3f56bc/SB_Chicken_event_inbox_thumb_final_01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 08 Jul 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Twitch에서 스쿼드 버스터즈를 시청하고 보상을 받으세요!</title>
+      <link>https://www.twitch.tv/directory/category/squad-busters</link>
+      <guid isPermaLink="false">95WU7HIbIOOxqJqgsQith</guid>
+      <category>커뮤니티</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7f77msgivG6jfazxf1HmyS/f5ab1c8d0120180d13fd902340846572/SB_WATCH-TWITCH_800X433_22.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Wed, 24 Jul 2024 15:48:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

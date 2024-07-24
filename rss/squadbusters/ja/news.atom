@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-07-24T15:30:11.752423+00:00</updated>
+  <updated>2024-07-24T16:36:53.944005+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -381,5 +381,15 @@ Amazon、Amazon.co.jpおよびそれらのロゴはAmazon.com, Inc. またはそ
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3kKZLJ3PaSuPKBwpX73SU1/cdc7a6dd6a71b649cbf234f433caff79/20240607_SQU_emerald_challenge_CP_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-07-18T11:51:22+00:00</published>
+  </entry>
+  <entry>
+    <id>95WU7HIbIOOxqJqgsQith</id>
+    <title>Twitchでスクワッド・バスターズを視聴して報酬ゲット！</title>
+    <updated>2024-07-24T15:48:56.060000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/95WU7HIbIOOxqJqgsQith"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7f77msgivG6jfazxf1HmyS/f5ab1c8d0120180d13fd902340846572/SB_WATCH-TWITCH_800X433_22.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/directory/category/squad-busters"/>
+    <category term="コミュニティ"/>
+    <published>2024-07-24T15:48:56+00:00</published>
   </entry>
 </feed>
