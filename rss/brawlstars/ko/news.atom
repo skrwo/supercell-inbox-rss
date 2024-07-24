@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-24T02:45:30.059470+00:00</updated>
+  <updated>2024-07-24T03:32:15.110246+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -223,5 +223,15 @@
     <link href="https://cafe.naver.com/brawlstars/1213112"/>
     <category term="뉴스"/>
     <published>2024-07-17T07:17:44+00:00</published>
+  </entry>
+  <entry>
+    <id>3YpphZkQO2bqlJRTnpWhYN</id>
+    <title>🔥EVENT🔥 퀴즈의 정답과 함께 학교대항전 시청 인증을 남기면 경품이?!</title>
+    <updated>2024-07-24T03:09:00.188000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3YpphZkQO2bqlJRTnpWhYN"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5gPYB758XOKbIM4dU6zRNW/c82c54134c4f312bd0ea5acde4830eba/0723__________v4.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1217680"/>
+    <category term="커뮤니티"/>
+    <published>2024-07-24T03:09:00+00:00</published>
   </entry>
 </feed>
