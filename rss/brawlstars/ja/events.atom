@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-eventEntries-ja</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-07-25T06:38:09.925439+00:00</updated>
+  <updated>2024-07-25T07:28:56.801046+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -108,5 +108,15 @@
 &lt;a href="https://youtube.com/shorts/HPrukYlHu94"&gt;👉見る！👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/ja/news/1EmjrgcJs2gIADXu55ZbWC"&gt;👉詳細はこちら！👈&lt;/a&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/63sLzdoFQhhHTquRN7h2un/fc31acb86df63f62ecc4199ee59a26a6/loading_screen_classic_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <published>2024-07-12T07:16:30+00:00</published>
+  </entry>
+  <entry>
+    <id>6CWHdZwGtjKGemUPp8bnf2</id>
+    <title>🗞️</title>
+    <updated>2024-07-25T07:19:51.278000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/ndSA3_MOYkM?si=34XKtLI_ph7dsPsK"&gt;👉クランシー！👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5J0DYjRJ7VM18OONgHvIVi/a5b689c379e4f4d091f7411071286e4d/0725_Clancy_Early_Access_800x1161_v1.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ndSA3_MOYkM?si=34XKtLI_ph7dsPsK"/>
+    <published>2024-07-25T07:19:26+00:00</published>
   </entry>
 </feed>
