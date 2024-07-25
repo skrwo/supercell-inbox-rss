@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-07-25T03:31:52.572682+00:00</updated>
+  <updated>2024-07-25T04:37:01.035686+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -360,9 +360,26 @@
     <title>在Twitch上觀看《破壞突擊隊》，贏取獎勵！（需要連結Supercell ID與Twitch帳號）</title>
     <updated>2024-07-25T03:10:15.115000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/zh/news/95WU7HIbIOOxqJqgsQith"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7f77msgivG6jfazxf1HmyS/f5ab1c8d0120180d13fd902340846572/SB_WATCH-TWITCH_800X433_22.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6ZOZhC5smEQmMnEX0egzr1/63036bd5a83e8bffd36fa095037a6788/tw_20240725_SB_WATCH-TWITCH_800X433_2.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://www.twitch.tv/directory/category/squad-busters"/>
     <category term="社群"/>
     <published>2024-07-24T15:48:56+00:00</published>
+  </entry>
+  <entry>
+    <id>13oXMUtnucnorAfrNtuHhn</id>
+    <title>SB x Twitch 活動說明</title>
+    <updated>2024-07-25T04:12:24.778000+00:00</updated>
+    <content>&lt;p&gt;突擊隊長們，大家好！&#13;
+&#13;
+若你喜歡觀看直播的話！快快留意以下資訊！&#13;
+於&lt;b&gt;7月25日0點至7月29日7點58分（台北/香港時間）&lt;/b&gt;舉辦了&lt;b&gt;SB x Twitch活動&lt;/b&gt;，於Twitch觀看破壞突擊隊直播就有機會獲得包含金幣、寶箱與寶箱券的獎勵，請&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.twitch.tv%252Fdrops%252Fcampaigns%253FdropID%253D010777cf-37a8-11ef-b00f-0a58a9feac02')"&gt;前往活動頁面查看相關內容&lt;/a&gt;，或者參考以下說明：&lt;/p&gt;
+&lt;p&gt;1、於&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitch.supercell.com')"&gt;指定頁面&lt;/a&gt;綁定自己的Supercell ID 與 Twitch 帳號&lt;/p&gt;&lt;p&gt;2、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.twitch.tv%252Fdirectory%252Fcategory%252Fsquad-busters%253Ffilter%253Ddrops')"&gt;查看參與活動的直播頻道&lt;/a&gt;，並前往&lt;b&gt;觀看直播達指定時長&lt;/b&gt;&lt;/p&gt;&lt;p&gt;3、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.twitch.tv%252Fdrops%252Finventory')"&gt;查看自己的掉寶庫存&lt;/a&gt;&lt;/p&gt;&lt;p&gt;4、達成掉寶進度，於&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.twitch.tv%252Fdrops%252Finventory')"&gt;掉寶庫存頁面&lt;/a&gt;手動點選「立即領取」！&#13;
+&#13;
+5、開啟《破壞突擊隊》，於遊戲內跳出的彈窗介面，點選「領取」！&lt;/p&gt;
+&lt;p&gt;希望大家觀看直播開心，並拿到獎勵唷！&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/13oXMUtnucnorAfrNtuHhn"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/338TFpAiYNk4S6Dt7tLG8x/8c9034a3840105875eb8ed26d18073ac/tw_20240725_SB_WATCH-TWITCH_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-07-25T04:00:00+00:00</published>
   </entry>
 </feed>
