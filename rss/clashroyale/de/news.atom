@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-26T14:31:50.688453+00:00</updated>
+  <updated>2024-07-26T15:30:02.278941+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -601,5 +601,16 @@ Truppen, die besiegt werden, verwandeln sich in Kobolde!&lt;/p&gt;&lt;hr/&gt;
     <link href="https://youtube.com/shorts/y-Rmf7dXOZg?feature=share"/>
     <category term="Spaß"/>
     <published>2024-07-21T15:30:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5H2r6KUJiF8GgbUX9ZwLRP</id>
+    <title>BRING GOLD NACH HAUSE</title>
+    <updated>2024-07-26T15:14:04.303000+00:00</updated>
+    <content>&lt;p&gt;Bis zum 11. August bekommst du jeden Tag Gold, wenn dein Land Gold gewinnt! Je mehr Gold dein Land an einem Tag erreicht, desto mehr Gold kannst du verdienen! So viel Gold winkt dir täglich:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Land auf dem 1. Platz:&lt;/b&gt; 3000 Gold&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Land auf dem 2. Platz:&lt;/b&gt; 1500 Gold&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Land auf dem 3. Platz:&lt;/b&gt; 500 Gold&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Land auf dem 4. Platz oder darunter:&lt;/b&gt; 250 Gold&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vergiss nicht, dich täglich einzuloggen, um dir dein Gratisgold zu schnappen! Bist du bereit, Gold nach Hause zu bringen? #BringHomeTheGold&lt;/p&gt;&lt;p&gt;Um bei News auf dem Laufenden zu bleiben, folge den offiziellen Social-Media-Kanälen von Clash Royale:
+&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fx.com%2FClashRoyale%2Fstatus%2F1816487991650717770')"&gt;X&lt;/a&gt; – &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.instagram.com%2Fclashroyale%2F')"&gt;Instagram&lt;/a&gt; – &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2F%40ClashRoyale')"&gt;YouTube&lt;/a&gt; – &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.tiktok.com%2F%40clashroyale')"&gt;&lt;b&gt;TikTok&lt;/b&gt; &lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hinweis:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Welchem Land ein Spieler zugewiesen wird, hängt von dem Ort ab, an dem sein Spielkonto erstellt wurde.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Nur Länder, die im globalen Build unterstützt werden, werden berücksichtigt.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/5H2r6KUJiF8GgbUX9ZwLRP"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6jMjRs62Mf8qVkd29hjxYO/1b8d328fe0448f88735605e88cb613f9/ClashRoyale_BringHomeTheGold-Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Highlights"/>
+    <published>2024-07-26T14:50:02+00:00</published>
   </entry>
 </feed>
