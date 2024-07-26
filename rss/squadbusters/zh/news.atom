@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-07-26T09:29:50.925428+00:00</updated>
+  <updated>2024-07-26T10:35:13.284916+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -381,5 +381,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/338TFpAiYNk4S6Dt7tLG8x/8c9034a3840105875eb8ed26d18073ac/tw_20240725_SB_WATCH-TWITCH_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-07-25T04:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7uQfjuHlL4MX2j4SUnlFqj</id>
+    <title>【阿德老師】道具換算臺幣價格解析！</title>
+    <updated>2024-07-26T09:30:15.266000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/7uQfjuHlL4MX2j4SUnlFqj"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/49SeNzukQbqSdpioid5tFZ/162d8504e45712cc475a3ead27400ff5/tw_20240726_derderteacher_video_thumb.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=wP3gbbF6o2U"/>
+    <category term="最新情報"/>
+    <published>2024-07-26T09:30:00+00:00</published>
   </entry>
 </feed>
