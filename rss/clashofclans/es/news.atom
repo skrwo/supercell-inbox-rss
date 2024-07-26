@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-newsEntries-es</id>
   <title>Clashofclans - News</title>
-  <updated>2024-07-26T07:29:01.929178+00:00</updated>
+  <updated>2024-07-26T08:33:21.405399+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -232,5 +232,15 @@
     <link href="https://youtu.be/BQtYFGClKo8"/>
     <category term="Novedades"/>
     <published>2024-07-02T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>4QO9KTt48Zg3lrGoFcSeKg</id>
+    <title>¡El Clashiversario constructivo comienza ya!</title>
+    <updated>2024-07-26T07:53:52.428000+00:00</updated>
+    <content>&lt;p&gt;¡Prepárate para el 12.º Clashiversario con un 12 % de aceleración de la velocidad de construcción!&lt;/p&gt;&lt;p&gt;Dona tropas y podrás extender la duración de la aceleración hasta 29 días a partir del 2 de agosto, cuando comienza oficialmente el Clashiversario. Para alcanzar el último objetivo y conseguir esos 29 días de aceleración, toda la comunidad de Clash of Clans deberá donar &lt;b&gt;XX(DO NOT TRANSLATE - WILL INSERT NUMBER HERE MANUALLY)XX&lt;/b&gt; tropas antes del 2 de agosto a las 08:00 UTC. Si no se consigue alcanzar este objetivo, la aceleración durará 7, 12, 17 o 22 días en función de las metas que se hayan cumplido.&lt;/p&gt;&lt;p&gt;Por si te lo estabas preguntando, también cuentan los espacios en vivienda donados durante el evento, tanto en donaciones normales como en donaciones de guerra, además de los hechizos y las máquinas de asedio. Así que, ya sabes, ¡a donar se ha dicho! Y sí, la aceleración de las mejoras afecta tanto a la base del constructor como a la aldea principal.&lt;/p&gt;&lt;p&gt;Buena suerte... ¡y feliz Clashiversario!&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/es/news/4QO9KTt48Zg3lrGoFcSeKg"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5ChIGvY2vjk91QWdaM7rB0/3b0c9a02441d0d32bb51b5be8fe7410c/bonanza_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Novedades"/>
+    <published>2024-07-26T07:53:52+00:00</published>
   </entry>
 </feed>
