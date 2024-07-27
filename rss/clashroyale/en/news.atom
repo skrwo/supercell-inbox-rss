@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-27T15:28:56.331029+00:00</updated>
+  <updated>2024-07-27T16:35:27.244442+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>G4EmNGphakSIYQZG5pr2b</id>
-    <title>Too much hairspray? Or...</title>
-    <updated>2024-04-30T05:11:59.186000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/G4EmNGphakSIYQZG5pr2b"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7b9QFITFCGCA9BCY16fCEq/5475a751558c5e8fe858f8a7aa26a2bb/Sunday_-_Evo_Wizard_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Highlights"/>
-    <published>2024-04-28T15:00:03+00:00</published>
-  </entry>
   <entry>
     <id>FPY7Agt8KWLU1Tl4BaMfk</id>
     <title>A New Spell is coming! </title>
@@ -669,5 +660,15 @@ Note: &lt;/b&gt;Only countries/regions supported by the Global build will be con
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6jMjRs62Mf8qVkd29hjxYO/1b8d328fe0448f88735605e88cb613f9/ClashRoyale_BringHomeTheGold-Thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Highlights"/>
     <published>2024-07-26T14:50:02+00:00</published>
+  </entry>
+  <entry>
+    <id>25ONSvZMlym2sXVJbtZnur</id>
+    <title>Suspicious Bush Animation!</title>
+    <updated>2024-07-27T15:30:03.165000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/25ONSvZMlym2sXVJbtZnur"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7NMoKhnuVcFqJaKeM4rpJ/822df71e62281d6b7d59bfab6e746c9b/susbushanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/qY2AgKzldW8?feature=share"/>
+    <category term="Highlights"/>
+    <published>2024-07-27T15:30:03+00:00</published>
   </entry>
 </feed>

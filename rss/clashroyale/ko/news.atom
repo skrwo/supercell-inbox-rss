@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-27T15:28:57.241780+00:00</updated>
+  <updated>2024-07-27T16:35:25.601684+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,15 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>G4EmNGphakSIYQZG5pr2b</id>
-    <title>헤어스프레이가 너무 과했나요? 혹은...</title>
-    <updated>2024-04-30T05:11:59.186000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/G4EmNGphakSIYQZG5pr2b"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7b9QFITFCGCA9BCY16fCEq/5475a751558c5e8fe858f8a7aa26a2bb/Sunday_-_Evo_Wizard_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="하이라이트"/>
-    <published>2024-04-28T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>FPY7Agt8KWLU1Tl4BaMfk</id>

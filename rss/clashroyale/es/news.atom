@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-27T15:28:58.249973+00:00</updated>
+  <updated>2024-07-27T16:35:33.285427+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,15 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cb3HMPOCmfIQ1i06KsHAi/422ccb72d93f268b1935c257ce2999d9/Thumbnail_Roadmap.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2023-12-01T15:42:54+00:00</published>
-  </entry>
-  <entry>
-    <id>G4EmNGphakSIYQZG5pr2b</id>
-    <title>¿Demasiada laca? O...</title>
-    <updated>2024-04-30T05:11:59.186000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/G4EmNGphakSIYQZG5pr2b"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7b9QFITFCGCA9BCY16fCEq/5475a751558c5e8fe858f8a7aa26a2bb/Sunday_-_Evo_Wizard_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Lo más destacado"/>
-    <published>2024-04-28T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>FPY7Agt8KWLU1Tl4BaMfk</id>
