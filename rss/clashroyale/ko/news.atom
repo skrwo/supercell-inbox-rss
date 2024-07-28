@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-28T15:29:04.368307+00:00</updated>
+  <updated>2024-07-28T16:35:51.100679+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,16 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>FPY7Agt8KWLU1Tl4BaMfk</id>
-    <title>새로운 마법이 찾아옵니다! </title>
-    <updated>2024-04-30T09:58:34.509000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/FPY7Agt8KWLU1Tl4BaMfk"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5vfSOhiKvQctm5RfG4D24w/f644ca90e30dacd0d328b3a9869eea26/void_video_teaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/ZPL02pEeHLM?si=BBn49axPgPia_zfg"/>
-    <category term="하이라이트"/>
-    <published>2024-04-29T15:05:03+00:00</published>
   </entry>
   <entry>
     <id>7xsEY5u85MpmqnEcTvtRPE</id>
