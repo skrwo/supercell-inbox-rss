@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-newsEntries-th</id>
   <title>Hayday - News</title>
-  <updated>2024-07-29T07:30:09.333935+00:00</updated>
+  <updated>2024-07-29T08:35:17.902498+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1ucG9pIhzW0Jc4X2heg4Kj</id>
-    <title>Молочные новости!</title>
-    <updated>2024-04-30T08:04:44.451000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/th/news/1ucG9pIhzW0Jc4X2heg4Kj"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4AjEr2Y0cwUYUcddqCiQRw/44ba2004716be578e9c2a9b4993a9e38/HD_April_popup_draft_01.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/IU2TQ3vAt8k"/>
-    <category term="อัปเดตเกม"/>
-    <published>2024-04-30T08:04:44+00:00</published>
-  </entry>
   <entry>
     <id>6F7LTwjuc6Tiky87FiRpap</id>
     <title>ข้อมูลเป้าหมายโกลเด้นวีค</title>
@@ -282,5 +272,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ข่าว"/>
     <published>2024-07-22T07:01:36+00:00</published>
+  </entry>
+  <entry>
+    <id>mlyyRXji2ZKUstTzlxpIc</id>
+    <title>อีเวนท์สัปดาห์ที่ 31ของ Hay Day!</title>
+    <updated>2024-07-29T08:16:45.375000+00:00</updated>
+    <content>&lt;h1&gt;อีเวนท์สัปดาห์ที่ 31 ของ Hay Day&lt;/h1&gt;
+&lt;p&gt;สวัสดีชาวไร่! ถึงเวลาของอีกสัปดาห์ที่เต็มไปด้วยอีเวนท์แล้ว! ทุกอีเวนท์เริ่ม 8.00 UTC ดูรายละเอียดของแต่ละอีเวนท์ได้ที่กระดานอีเวนท์ในเกม&lt;/p&gt;&lt;p&gt;วันจันทร์: อีเวนท์หมุนวงล้อ (บัตรกำนัล)&lt;/p&gt;&lt;p&gt;วันอังคาร: ผู้มาเยือนเมือง (ค่าประสบการณ์ x2) + แต้ม Farm Pass x3&lt;/p&gt;&lt;p&gt;วันพุธ: อีเวนท์เรือ (บูสเตอร์) + แต้ม Farm Pass x3&lt;/p&gt;&lt;p&gt;วันพฤหัสบดี: อีเวนท์สิ่งก่อสร้างการผลิต (สุ่ม 3 หลังบูสต์ 20%) + แต้ม Farm Pass x3&lt;/p&gt;&lt;p&gt;วันศุกร์: อีเวนท์บูสต์การผลิตอุปกรณ์หาปลา (ซาลอนเป็ดและเครื่องทำตาข่ายบูสต์ 30%) + แต้ม Farm Pass x3&lt;/p&gt;&lt;p&gt;วันเสาร์: อีเวนท์ผู้มาเยือนเมือง (ค่าประสบการณ์ x2) + แต้ม Farm Pass x3&lt;/p&gt;&lt;p&gt;วันอาทิตย์: อีเวนท์บูสต์พืชผล (สุ่มพืชผล 3 ชนิดให้ผลิตผล 3 หน่วยแทนที่จะเป็น 2 หน่วยตามปกติ)&lt;/p&gt;&lt;p&gt;ขอให้มีสัปดาห์ที่ยอดเยี่ยม!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/th/news/mlyyRXji2ZKUstTzlxpIc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ข่าว"/>
+    <published>2024-07-29T08:14:53+00:00</published>
   </entry>
 </feed>
