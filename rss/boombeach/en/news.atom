@@ -2,70 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-07-29T14:32:42.181236+00:00</updated>
+  <updated>2024-07-29T15:31:36.143424+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
-  <entry>
-    <id>2bvnrvCc19PAdLbfNrvPeT</id>
-    <title>HQ 26</title>
-    <updated>2024-04-30T09:37:30.311000+00:00</updated>
-    <content>&lt;h1&gt;Welcome to the April update "Take Cover"&lt;/h1&gt;
-&lt;h2&gt;HQ 26 &lt;/h2&gt;&lt;p&gt;HQ can now be upgraded to level 26. After the upgrade, the following will become available: 
-
-● An additional Wood Storage can be built.
-● Three mines and one shock mine can be added.
-● The following buildings can be upgraded: Sawmill, Vault, Weapon Lab, Gunboat, Landing Craft, and Armory.
-● The following defenses can be upgraded: Sniper Tower, Machine Gun, Mortar, Cannon, Flamethrower, Boom Cannon, Rocket Launcher, Critter Launcher.
-● Once the armory has been upgraded, the following units and abilities can be upgraded: Rifleman, Heavy, Zooka, Warrior, Tank, Medic, Grenadier, Scorcher, Laser Ranger, Cryoneer, Bombardier, Mech, Artillery, Medkit, Barrage, Critters, Mines, Boom Mines.
-● All heroes can be upgraded one level.
-● After the upgrade, Kavan’s Crystal Critters and Bullit’s Taunt can be upgraded to level 7.&lt;/p&gt;&lt;h3&gt;New feature: Proto Module Conversion&lt;/h3&gt;&lt;p&gt; After upgrading the Weapon Lab, players can convert proto modules for a small sum in gems. The building UI has a new tab for this conversion.&lt;/p&gt;&lt;h3&gt;New feature: Garrisons&lt;/h3&gt;&lt;p&gt;● The Bunker is a new defensive building.
-● Players can build two bunkers at HQ 26.
-● At HQ 26, the bunkers can be upgraded to level 8.
-● The bunker has a feature called &amp;quot;Air Defense&amp;quot;, which reduces the damage the bunker takes from Artillery and Barrage abilities from the gunboat. &lt;i&gt;Damage from troops is unaffected&lt;/i&gt;. 
-● The bunker has no offensive capabilities on its own. The player must garrison troops in the bunker.
-● The bunker has a housing limit, which determines how many troops it can hold. The bunker can not hold large troops like Tanks, Mechs, or Scorchers. The bunker will also not hold prototroops.
-● The bunker can hold four different types of troops at the same time. Units can be freely mixed within the housing limit.
-● Units inside the bunker fire at attacking enemies with their current stats. Units are affected by defender’s boosts from offensive statues or tribes.
- ● Some troops have an improved range while garrisoned inside the bunker. Riflemen, Heavies: +50%. Zookas, Cryoneers, Laser Rangers: +20%. For Cryoneers and Laser Rangers, this extends the distance at which the laser is fired, not the length of the laser.
-● When the bunker is destroyed, the garrison exits and continues to fight the attackers.
-● The garrison is restored after each battle. Even if a base is raided multiple times, the garrison will always defend the base.
-
-
-Garrison upkeep:
-
-● Garrisoning troops does not cost resources. Instead, the troops require a constant upkeep in gold. This cost per hour is indicated in the UI.
-● This upkeep is automatically deducted from the gold produced by the Residences. Island gold production and existing gold reserves do not affect upkeep.
-● Troops can not be placed in bunkers if their upkeep would exceed base gold production. Base gold production is affected by green statues and other bonuses. This allows the player to put costlier troops in the garrison. If base gold production drops below current upkeep, troops are removed from the garrison.&lt;/p&gt;&lt;h2&gt;Warships&lt;/h2&gt;&lt;p&gt;● Added icons to the various choice nodes when inactive.
-● Negative nodes now check that the player has unlocked enough defenses before allowing a reduction in those defenses.
-● Choice nodes now allow selecting defenses even if a negative node choice has caused their available count to be 0. Previously, the choice nodes would have treated such defenses as locked.&lt;/p&gt;&lt;h2&gt;&lt;b&gt;Fixes &lt;/b&gt;&lt;/h2&gt;&lt;p&gt;● Fixed icon and text overlapping in info/speed up popup.
-● Fixed door animation for Fortified Residence skin.
-● Fixed rank up screen info button not opening rank popup.
-● Fixed wrong rank shown in daily reward ad popup.
-● Fixed erroneously showing player resources when visiting other player’s islands from warships.
-● Fixed a crash if player receives ER state updates from previous WS battle while in island battle.
-● Fixed an error that caused submarine rewards always to be shards. Now, shallower dives give fragments, while deeper dives give crystals.&lt;/p&gt;&lt;h2&gt;Seasonal Campaign &amp;amp; Boom Pass&lt;/h2&gt;&lt;p&gt;● Sounds have been added to the Seasonal Campaign UI.
-● Challenge missions now have a different icon background color.
-● All missions now have a progress bar.
-● Added functionality that prevents buying the Boom Pass if too little time remains in the Season.
-● There are now indicators for mission progress in the home base and on the archipelago map.
-● Missions can now be pinned to appear first on the list.
-● All players can now purchase season points with gems to progress the reward track. Previously, only Boom Pass holders had this option.
-● Missions can now be rerolled with gems. The cost increases after each reroll. The button is in the information popup.
-● Campaign Missions will now award intel at a rate of one per 50 points. This intel reward is doubled for Boom Pass holders.&lt;/p&gt;&lt;h2&gt;Improvements&lt;/h2&gt;&lt;p&gt;● Hero ability upgrades can now be finished with Attack Plan.
-● To fix the various player XP errors over the years, a function that recalculates player XP and player level was added. This will be run for every player the first time the game is opened after the update. There will be a popup showing the change if your XP was adjusted.
-● Supply chests (“VP chests”) now stack up to 8, with a new one added every 6 hours.&lt;/p&gt;&lt;h2&gt;Balancing&lt;/h2&gt;&lt;p&gt;● Player level requirements for HQ levels 4-7 were reduced to make the early game faster. 
-● Rifleman build time is reduced to 10 seconds to reduce early game wait times.
-● Attacking troops will prioritize engaging defending troops, including critters, that come in range, even if the attackers are firing at buildings at the time. Units will not retarget if the defending unit is already targeted by two or more attacking units.
-● Removed VP gains and losses from resource base battles.
-● Task Force intel cap has been increased by 50%.
-● Classified items cap has been increased to 5.
-● At HQ 25, Brick’s Iron Will and Everspark’s Critter Swarm can be upgraded to level 7.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
-    <link href="https://boombeach.inbox.supercell.com/#/en/news/2bvnrvCc19PAdLbfNrvPeT"/>
-    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/6LaoJqlzg7aA3NJl42gVtP/b28e02384b09389838f1de16d7d025af/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
-    <category term="Updates"/>
-    <published>2024-04-29T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>1ngy1Ey1Rr3NE7ZKXA0RGm</id>
     <title>May events</title>
