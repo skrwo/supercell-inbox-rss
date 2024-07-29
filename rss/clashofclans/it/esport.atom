@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-29T06:38:15.752325+00:00</updated>
+  <updated>2024-07-29T07:30:00.400809+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -415,5 +415,14 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6NO3NOBx5oezGMI4w51QLI/fdef63d2f1a453792770c216c6ddd0c9/it_COC---July-MF-Winner-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-07-21T17:33:53+00:00</published>
+  </entry>
+  <entry>
+    <id>1PewNLSGv7RVQYM8qlDJRE</id>
+    <title>Rivedi le finali delle qualificazioni cinesi!</title>
+    <updated>2024-07-29T07:27:25.771000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6b9GFg3PJnqtEMHCb0TV9/05165db173b942b8f7a9deb97e988823/it_Rewatch_China_Qualifier_Finals.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2209384974?t=00h08m47s"/>
+    <category term="Esports"/>
+    <published>2024-07-28T14:30:51+00:00</published>
   </entry>
 </feed>
