@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-07-30T07:29:02.694289+00:00</updated>
+  <updated>2024-07-30T08:32:36.279012+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -433,5 +433,14 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
     <link href="https://www.twitch.tv/videos/2209384974?t=00h08m47s"/>
     <category term="Esports"/>
     <published>2024-07-28T14:30:51+00:00</published>
+  </entry>
+  <entry>
+    <id>2nsf6CtDExVRpXFrb1NzmM</id>
+    <title>Rivedi la SPS Cup 3 - Giorno 2!</title>
+    <updated>2024-07-30T07:54:47.467000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3bjo3mJumrj0hzlsLySSTy/1cfa6b8dee9b7e868c2582823c1329bf/it2_SPS_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2209617709?t=00h09m19s"/>
+    <category term="Esports"/>
+    <published>2024-07-29T10:43:03+00:00</published>
   </entry>
 </feed>
