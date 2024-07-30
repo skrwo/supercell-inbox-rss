@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-eventEntries-ko</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-07-30T04:33:37.982457+00:00</updated>
+  <updated>2024-07-30T05:33:01.052196+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -45,16 +45,6 @@
     <published>2024-05-31T05:03:32+00:00</published>
   </entry>
   <entry>
-    <id>2ZhWUtpgNrJVLKARChBtXF</id>
-    <title>🗞️</title>
-    <updated>2024-06-26T07:02:14.336000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/RoJSFZo_-BU?si=GmMAhBuDOe3pAia5"&gt;👉영상 보기!👈&lt;/a&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3EIa0S8HPO3jywcMoCvewL/ac58764d62efd5a09f0550cc69caf729/Ice_Feature_Art_1080x1920.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/RoJSFZo_-BU?si=GmMAhBuDOe3pAia5"/>
-    <published>2024-06-24T10:14:08+00:00</published>
-  </entry>
-  <entry>
     <id>7r0l8ttxMnieiGPQ4wlyS3</id>
     <title>후다닭 러시</title>
     <updated>2024-07-17T08:06:57.164000+00:00</updated>
@@ -71,5 +61,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4dKzQexeeMz5QUgrhRotha/adb610b6580f4701aef0bc0103ba7245/bg_tracker_860x1080.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/9MQO010_2kE?feature=shared"/>
     <published>2024-07-08T07:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>54odTnn2AKzug4CYUuEX47</id>
+    <title>🗞️</title>
+    <updated>2024-07-30T04:39:28.972000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtube.com/shorts/TCmjHT0TExY?si=vf6GBIWWwI1QImc-"&gt;👉이벤트도? 🎁👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1OboLH0CkYF8A33dV67oPX/c96ccd6955bb40ac6b20b37b93de390f/2W_0708____________________________.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/TCmjHT0TExY?si=vf6GBIWWwI1QImc-"/>
+    <published>2024-07-30T04:35:49+00:00</published>
   </entry>
 </feed>
