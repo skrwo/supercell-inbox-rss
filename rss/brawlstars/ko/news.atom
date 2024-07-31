@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-31T09:30:15.070006+00:00</updated>
+  <updated>2024-07-31T10:31:10.998016+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>5NCqRyo6NjFu1WGpWTgwmJ</id>
-    <title>고질라가 브롤스타즈에 출격!</title>
-    <updated>2024-06-10T08:07:04.671000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/5NCqRyo6NjFu1WGpWTgwmJ"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/15BUfkueB93VywZQBu8wdS/5829e8142d95b13e1f3664e64f0f2e4f/0501_Godzilla_BP_start_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/devzvQFzGsQ"/>
-    <category term="동영상"/>
-    <published>2024-05-02T04:00:00+00:00</published>
-  </entry>
   <entry>
     <id>5Zs8PqjR9YCpKbWh0LPREa</id>
     <title>⭐이벤트 종료⭐이토록 모두가 브롤스타즈 영상 보고 댓글 남기면 브롤 패스가!?</title>

@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-07-31T09:30:14.476633+00:00</updated>
+  <updated>2024-07-31T10:31:08.802531+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>5NCqRyo6NjFu1WGpWTgwmJ</id>
-    <title>Godzilla Attacks Brawl Stars!</title>
-    <updated>2024-06-10T08:07:04.671000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/en/news/5NCqRyo6NjFu1WGpWTgwmJ"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/15BUfkueB93VywZQBu8wdS/5829e8142d95b13e1f3664e64f0f2e4f/0501_Godzilla_BP_start_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/2ya8Oww8xWo"/>
-    <category term="Video"/>
-    <published>2024-05-02T04:00:00+00:00</published>
-  </entry>
   <entry>
     <id>1Z8og6lx80LlgyIaO8qudt</id>
     <title>Patch notes: Godzilla Attacks Brawl!</title>
