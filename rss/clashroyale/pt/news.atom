@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-07-31T06:31:07.796747+00:00</updated>
+  <updated>2024-07-31T07:29:37.039458+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -37,16 +37,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/dQRyndcSHunF7y9DdWXPo/89a21e654beb9a225874eeff8ef773d3/PT_CR_S53_Season_Hero_Cover.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de lançamento"/>
     <published>2023-11-06T09:01:04+00:00</published>
-  </entry>
-  <entry>
-    <id>1YTu7rcuOdVTQKU25z0Gvq</id>
-    <title>O vácuo é voraz!</title>
-    <updated>2024-05-02T08:22:15.681000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/1YTu7rcuOdVTQKU25z0Gvq"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jgdnsCCtOAARZZ4hLOIrA/5554d949261be172a06ad781a9f89d31/void_animation_.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/@ClashRoyale/videos"/>
-    <category term="Destaques"/>
-    <published>2024-05-01T15:05:02+00:00</published>
   </entry>
   <entry>
     <id>2Vd5pMIios9xUcHXAytsWF</id>
