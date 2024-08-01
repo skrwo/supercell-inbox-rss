@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-01T07:29:08.605875+00:00</updated>
+  <updated>2024-08-01T08:34:58.173342+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -300,5 +300,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5ChIGvY2vjk91QWdaM7rB0/3b0c9a02441d0d32bb51b5be8fe7410c/bonanza_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-07-26T07:53:52+00:00</published>
+  </entry>
+  <entry>
+    <id>FonkAWXD5xY3kFHYi9oLJ</id>
+    <title>【簡単攻略】チャレンジ作りました!! 作者が教える"9000以上だ!!"チャレンジ!!</title>
+    <updated>2024-08-01T08:27:25.791000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/FonkAWXD5xY3kFHYi9oLJ"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/14gFErE3MDKNoDIGEbu8VL/a7d3412fa906a395170eedb2552975dc/cha.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/q3wuLdeOXM8"/>
+    <category term="コミュニティ"/>
+    <published>2024-08-01T08:27:25+00:00</published>
   </entry>
 </feed>

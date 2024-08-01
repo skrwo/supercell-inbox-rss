@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-01T07:29:12.123182+00:00</updated>
+  <updated>2024-08-01T08:34:56.803959+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -512,5 +512,25 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5ChIGvY2vjk91QWdaM7rB0/3b0c9a02441d0d32bb51b5be8fe7410c/bonanza_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-07-26T07:53:52+00:00</published>
+  </entry>
+  <entry>
+    <id>2yPcTi9J81WPxdAxatt7j3</id>
+    <title>【烏龜】通關秘訣看這邊！跟著路線輕鬆解！</title>
+    <updated>2024-08-01T08:30:22.315000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2yPcTi9J81WPxdAxatt7j3"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7E2V2Ow7Ig0N62NSa83N7N/e0a74f2ba24f3db4fd4e00c9ac871173/tw_20240801_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/fZZFcr5oy7g"/>
+    <category term="最新情報"/>
+    <published>2024-08-01T08:09:00+00:00</published>
+  </entry>
+  <entry>
+    <id>i7MHgvtWVe1vbQxcIBqQ9</id>
+    <title>【金雄】搶先看動漫新造型以及挑戰解法！</title>
+    <updated>2024-08-01T08:30:15.324000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/i7MHgvtWVe1vbQxcIBqQ9"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3GCjoaF4UlvUCCpxiTlOrD/fbb5df8ef0ac4851e7b9e4d7b99e4424/tw_20240801_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/8YL81D5vjwY"/>
+    <category term="最新情報"/>
+    <published>2024-08-01T08:10:00+00:00</published>
   </entry>
 </feed>

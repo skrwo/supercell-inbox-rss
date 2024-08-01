@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-communityEntries-de</id>
   <title>Clashofclans - Community</title>
-  <updated>2024-08-01T07:29:09.580071+00:00</updated>
+  <updated>2024-08-01T08:34:58.394815+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Community</subtitle>
   <entry>
     <id>5MUDxSOs9GvEt5wIKvyJkB</id>
     <title>Clash mit Haaland! Das neue Event!</title>
-    <updated>2024-08-01T07:29:09.580154+00:00</updated>
+    <updated>2024-08-01T08:34:58.394950+00:00</updated>
     <author>
       <name>MrMobilefanboy (code mbf)</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>2mge6x7noG3OCIcBaB29NO</id>
     <title>Fürchte den Raketenspeer! 3 Sterne Anleitung</title>
-    <updated>2024-08-01T07:29:09.580101+00:00</updated>
+    <updated>2024-08-01T08:34:58.394904+00:00</updated>
     <author>
       <name>MrMobilefanboy (code mbf)</name>
     </author>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6nvJvlXgNVA1GuaiwSBwD9/95f553af606abe9dddad0d6ca97d2ab6/guest-content-video-26-0fea5c36-fc3e-406c-bc56-fe29d3534425-ainu.jpeg-1717846588431?w=640&amp;h=358&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/BpSZ5tvXTgY"/>
     <published>2024-06-08T11:36:35+00:00</published>
+  </entry>
+  <entry>
+    <id>67EUNlUSIhHNzqpWGH0PJ6</id>
+    <title>Weit über 8000! Challenge - 3 Sterne</title>
+    <updated>2024-08-01T08:34:58.394841+00:00</updated>
+    <author>
+      <name>MrMobilefanboy (code mbf)</name>
+    </author>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6XumIcLwxwzXHFPK1NNDbP/b7d39aae676791ede9b28a1dafb40d7a/guest-content-video-26-0fea5c36-fc3e-406c-bc56-fe29d3534425-fd8v.jpeg-1722500724503?w=640&amp;h=358&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Oxw37co79AA"/>
+    <published>2024-08-01T08:25:31+00:00</published>
   </entry>
 </feed>
