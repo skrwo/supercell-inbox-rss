@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>brawlstars-eventEntries-ru</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-08-01T08:34:52.216798+00:00</updated>
+  <updated>2024-08-01T09:29:20.778352+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -24,5 +24,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5J0DYjRJ7VM18OONgHvIVi/a5b689c379e4f4d091f7411071286e4d/0725_Clancy_Early_Access_800x1161_v1.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/ndSA3_MOYkM?si=34XKtLI_ph7dsPsK"/>
     <published>2024-07-25T07:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>2sfs1Cg5UrxaNVwIMc1g1j</id>
+    <title>🗞️</title>
+    <updated>2024-08-01T09:07:56.747000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/RJw3Y-3EBFo"&gt;👉Пейнтбой!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/GtE0HOJbM0KSDFIg1dAqL/d6623977c1cb6f96b177675a266839d9/0801_Paint_Brawl_BP_Start_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/RJw3Y-3EBFo"/>
+    <published>2024-08-01T09:03:16+00:00</published>
   </entry>
 </feed>
