@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-01T17:31:12.860280+00:00</updated>
+  <updated>2024-08-01T18:36:22.596865+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -51,5 +51,14 @@ através dos perfis oficiais da COPA:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1G7YP18U2rX9REIP5ZtvFU/b70a5f458e6a099809dfc8f9678fa382/Anuncio_Ingame.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-07-23T17:31:37+00:00</published>
+  </entry>
+  <entry>
+    <id>21YYN4Lxt0AA6smWtpj3Hr</id>
+    <title>Confira a entrevista de Ark com Kaio Dog!</title>
+    <updated>2024-08-01T18:28:00.034000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2TG2biJx0BsBUHD1QMN4qv/ab967caf4f4c65282abe71b31557ec6e/image.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/wazqZYwvkZ0"/>
+    <category term="Esports"/>
+    <published>2024-08-01T18:28:00+00:00</published>
   </entry>
 </feed>
