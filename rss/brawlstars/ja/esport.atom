@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-01T09:29:23.434297+00:00</updated>
+  <updated>2024-08-01T10:35:35.297819+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -50,5 +50,14 @@
     <link href="https://www.youtube.com/watch?v=MBsSmsW81Bs"/>
     <category term="eスポーツ"/>
     <published>2024-07-23T09:03:24+00:00</published>
+  </entry>
+  <entry>
+    <id>5dLEjNlolgkjtRhMCgQV5k</id>
+    <title>エントリー受付中！ the LPL Brawl Stars Asia Pacific Tour Season 3! </title>
+    <updated>2024-08-01T10:00:55.243000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/dpR0rgTPKcinZCQlC7TnH/690e86620b0b21559787ad775bf344dc/EN-Season-3-in-game-announcement.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://letsplay.live/brawl-stars/"/>
+    <category term="eスポーツ"/>
+    <published>2024-08-01T10:00:55+00:00</published>
   </entry>
 </feed>
