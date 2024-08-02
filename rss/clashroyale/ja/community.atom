@@ -2,19 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-communityEntries-ja</id>
   <title>Clashroyale - Community</title>
-  <updated>2024-08-02T21:29:31.514864+00:00</updated>
+  <updated>2024-08-02T22:32:06.605563+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Community</subtitle>
   <entry>
     <id>5a2vFSRlVPtw3rvvZ6JNJM</id>
     <title>【クラロワ】新呪文ボイド VS 全カード。ボイドは超優秀な”エリアド製造機”！（先行プレイ）</title>
-    <updated>2024-08-02T21:29:31.514902+00:00</updated>
+    <updated>2024-08-02T22:32:06.605651+00:00</updated>
     <author>
       <name>kabutom</name>
     </author>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3q2y6NHPZtkZW1XGtP0NBB/86026f73246d9828e10416abd6dfb439/guest-content-video-64-9d860d13-39d6-4f84-a074-2068dd4e6b18-q2s4.jpeg-1714967422351?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=h3nkKUf6G_E"/>
     <published>2024-05-06T03:50:29+00:00</published>
+  </entry>
+  <entry>
+    <id>6TbKjdefDQgjNA8ZGvB0sO</id>
+    <title>【クラロワ】8月の進化カード「限界突破ゴブリンの檻」はタイマン専門のデスマッチ？！（先行プレイ）</title>
+    <updated>2024-08-02T22:32:06.605600+00:00</updated>
+    <author>
+      <name>kabutom</name>
+    </author>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/Yf5BECUJkgfLvnGs0YfDW/e9cc3765b792cd10ff0b2b0f68415ae0/guest-content-video-64-9d860d13-39d6-4f84-a074-2068dd4e6b18-xxww.jpeg-1722636956825?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=5UBwZsqe8vU"/>
+    <published>2024-08-02T22:16:04+00:00</published>
   </entry>
 </feed>
