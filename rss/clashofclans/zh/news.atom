@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-02T07:29:10.878216+00:00</updated>
+  <updated>2024-08-02T08:36:22.924297+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -532,5 +532,17 @@
     <link href="https://youtu.be/8YL81D5vjwY"/>
     <category term="最新情報"/>
     <published>2024-08-01T08:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3jmYmBujFsaf2NEWFrWmcu</id>
+    <title>歡慶《部落衝突》12周年！</title>
+    <updated>2024-08-02T08:00:13.512000+00:00</updated>
+    <content>&lt;h1&gt;歡慶《部落衝突》12周年！&lt;/h1&gt;
+&lt;p&gt;《部落衝突》推出滿12周年囉！&lt;/p&gt;&lt;p&gt;為了歡度周年慶，我們把整個遊戲都搬進了動漫世界！這是玩家社群（也就是你們）中呼聲最高的主題之一！&lt;/p&gt;&lt;p&gt;這次周期挑戰大家將可以體驗到：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;全新&lt;b&gt;動漫主題傳奇造型&lt;/b&gt;：野蠻人之王、大守護者和弓箭女皇都有新裝，神盾勇者的造型則可透過黃金通行證獲得！此外，我們還帶來了&lt;b&gt;動漫主題場景&lt;/b&gt;，來搭配換上新裝的英雄們！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;新的&lt;b&gt;周期挑戰&lt;/b&gt;現已開啟，並會持續到8月31日！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;所有玩家現在就可享受&lt;b&gt;雙倍勝利之星獎勵&lt;/b&gt;，持續到8月5日！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;周年挑戰&lt;/b&gt;分為兩部分：第一部分開放時間為8月1日至10日，第二部分則為8月7日至20日！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;8月9日至30日期間，大家可以參與全新的&lt;b&gt;代幣活動&lt;/b&gt;。本次活動有兩個非常獨特的限時兵種：&lt;b&gt;機甲超人&lt;/b&gt;和&lt;b&gt;掃帚女巫&lt;/b&gt;，還有弓箭女皇的英雄裝備：&lt;b&gt;複製魔鏡&lt;/b&gt;！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;本月的部落競賽時間為8月22日至28日，並且將有&lt;b&gt;額外的獎勵等級&lt;/b&gt;。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;《部落衝突》12周年快樂！&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/758sMSquTXwjUy2ipxPnuS/a230a3f3ea25206025e6910649a92556/tw_20240726_August_season_calendar.jpg?w=1080&amp;h=1920&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3jmYmBujFsaf2NEWFrWmcu"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1I1ckoURbVmfvX2G0RR0aP/d02275375bd65ebd3d687ea5d31292b0/thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="遊戲更新"/>
+    <published>2024-08-01T08:10:18+00:00</published>
   </entry>
 </feed>

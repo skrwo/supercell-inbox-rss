@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-02T07:29:03.514072+00:00</updated>
+  <updated>2024-08-02T08:35:46.866899+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -188,5 +188,15 @@
     <link href="https://cafe.naver.com/brawlstars/1217680"/>
     <category term="커뮤니티"/>
     <published>2024-07-24T03:09:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6M4Z7TKT0KGgRG0JPSN3aC</id>
+    <title>페인트 브롤 시즌 배경화면 등장! 🎨</title>
+    <updated>2024-08-02T08:23:52.905000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/6M4Z7TKT0KGgRG0JPSN3aC"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1XtiEi1O20A6ufLdEmR3MV/f0990755c5ebd7e16a34885771bc3e1a/0802_BS_S29_wallpaper_inbox_800x433_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="http://pf.kakao.com/_Wqxdwxj/106233047"/>
+    <category term="커뮤니티"/>
+    <published>2024-08-02T08:23:52+00:00</published>
   </entry>
 </feed>

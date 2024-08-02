@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-02T07:29:07.132121+00:00</updated>
+  <updated>2024-08-02T08:36:03.521450+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -630,5 +630,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JimwbJYL8scbt795JdFA4/2b3e6fde5f791a4a08dcd8bff92742cd/gqj_changes_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2024-07-29T09:29:02+00:00</published>
+  </entry>
+  <entry>
+    <id>646IjTtHR41QN3bauMYB3j</id>
+    <title>토너먼트에 참여하고 로얄 패스를 획득하세요!🎁</title>
+    <updated>2024-08-02T07:59:09.385000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/646IjTtHR41QN3bauMYB3j"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3k9v6Z9dAWC7SSZiGIQUXg/470cb1a67f87b36ae37ce10710de154b/0803______________-____960x563_.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/clashroyale/1506369"/>
+    <category term="커뮤니티"/>
+    <published>2024-08-02T07:59:09+00:00</published>
   </entry>
 </feed>
