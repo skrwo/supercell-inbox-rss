@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-03T01:41:45.244763+00:00</updated>
+  <updated>2024-08-03T02:44:03.550660+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -769,5 +769,25 @@
     <link href="https://youtu.be/ZIu1Hy2uANE"/>
     <category term="攻略"/>
     <published>2024-07-31T04:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3eUhbb2lkKMjJpA8834B3T</id>
+    <title>【Xiake】進化哥布林牢籠實戰搶先看！</title>
+    <updated>2024-08-03T02:17:53.132000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/3eUhbb2lkKMjJpA8834B3T"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6DUN7lC3ZRVhYwAzgkfLQ8/6b79bbc8f8c8a1735f9766781179337c/tw_20240803_xiake_video_thuumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=7orvtnlumVM"/>
+    <category term="最新情報"/>
+    <published>2024-08-03T02:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7ptDnJEq3fG9ha9yiSqsW</id>
+    <title>【阿酸】實測進化哥布林牢籠！帶你看懂機制！</title>
+    <updated>2024-08-03T02:21:59.522000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/7ptDnJEq3fG9ha9yiSqsW"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2CPpzLMS8HWK3OWgjwTOVI/494009bb5f91058fed694f7f224c0bec/tw_20240803_acidr_video_thuumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=RC6rJ6D0XqA"/>
+    <category term="最新情報"/>
+    <published>2024-08-03T02:01:00+00:00</published>
   </entry>
 </feed>
