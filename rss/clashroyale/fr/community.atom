@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-communityEntries-fr</id>
   <title>Clashroyale - Community</title>
-  <updated>2024-08-03T18:34:58.604168+00:00</updated>
+  <updated>2024-08-03T19:29:11.897051+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Community</subtitle>
   <entry>
     <id>4eHjrvXfo49ZjgnYHmRtIy</id>
     <title>CHAOS MAGIQUE - SAISON 59 | MAI 2024</title>
-    <updated>2024-08-03T18:34:58.604488+00:00</updated>
+    <updated>2024-08-03T19:29:11.897379+00:00</updated>
     <author>
       <name>Mateo26</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>5oi0ZnUxzTBRsZIcRMtXzd</id>
     <title>Découverte du nouveau sort sur Clash Royale !</title>
-    <updated>2024-08-03T18:34:58.604461+00:00</updated>
+    <updated>2024-08-03T19:29:11.897353+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>2fsQoAhTQWJ7odxZOAXPNJ</id>
     <title>ÉVÈNEMENT ÉVOLUTION DU GÉANT ROYAL</title>
-    <updated>2024-08-03T18:34:58.604429+00:00</updated>
+    <updated>2024-08-03T19:29:11.897325+00:00</updated>
     <author>
       <name>Mateo26</name>
     </author>
@@ -42,7 +42,7 @@
   <entry>
     <id>1AL2tbLZl6a06B7SCeUBhU</id>
     <title>Les 5 meilleurs DECK dans la nouvelle méta !</title>
-    <updated>2024-08-03T18:34:58.604380+00:00</updated>
+    <updated>2024-08-03T19:29:11.897296+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -53,7 +53,7 @@
   <entry>
     <id>68NWO2NklE92WYvXFCH36K</id>
     <title>Mon ancien DECK fait un CARNAGE sur Clash Royale !🤯</title>
-    <updated>2024-08-03T18:34:58.604350+00:00</updated>
+    <updated>2024-08-03T19:29:11.897267+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -64,7 +64,7 @@
   <entry>
     <id>46s5SL9slkHJeu5OIfN0Bt</id>
     <title>GAMEPLAYS ÉVOLUTION DU FÛT À GOBELINS !</title>
-    <updated>2024-08-03T18:34:58.604322+00:00</updated>
+    <updated>2024-08-03T19:29:11.897237+00:00</updated>
     <author>
       <name>Mateo26</name>
     </author>
@@ -75,7 +75,7 @@
   <entry>
     <id>M3adxsuN3e8RCuDrRROAS</id>
     <title>Squad Busters choisit mon deck clash royale !</title>
-    <updated>2024-08-03T18:34:58.604291+00:00</updated>
+    <updated>2024-08-03T19:29:11.897207+00:00</updated>
     <author>
       <name>Ouahleouff</name>
     </author>
@@ -86,7 +86,7 @@
   <entry>
     <id>23tGYi4rHSjh2nrpeQ4FDv</id>
     <title>Le RETOUR des RECRUES sur Clash Royale ?!</title>
-    <updated>2024-08-03T18:34:58.604254+00:00</updated>
+    <updated>2024-08-03T19:29:11.897174+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -97,12 +97,23 @@
   <entry>
     <id>1XtAqIy36qzgQZihDjIUxK</id>
     <title>NOUVEAU MODE, REINE GOBELINE ET BIEN PLUS - MISE À JOUR</title>
-    <updated>2024-08-03T18:34:58.604202+00:00</updated>
+    <updated>2024-08-03T19:29:11.897136+00:00</updated>
     <author>
       <name>Mateo26</name>
     </author>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/qGVZImgp0GqoGeSh6k2ZE/4f906590f497241d6ffd2d9485e8fe5a/guest-content-video-84-bba108ab-eba3-468d-89c6-bced0acbd6bb-jscn.png-1718551086997?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/n67bfELYzDw"/>
     <published>2024-06-16T15:18:14+00:00</published>
+  </entry>
+  <entry>
+    <id>1QkyjFclZgWpALXapDfpLz</id>
+    <title>Livestream: WoToP</title>
+    <updated>2024-08-03T19:29:11.897084+00:00</updated>
+    <author>
+      <name>WoToP</name>
+    </author>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1kHQdJCRvolQxeSmx1OXcf/bf409fbbfbfe566a125764faaa56040e/guest-content-livestream-61-7ee9d32c-ae45-41b9-88cf-d92a7c6774a7-2ufv.png-1722711003375?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/wotop_"/>
+    <published>2024-08-03T18:50:09+00:00</published>
   </entry>
 </feed>
