@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-eventEntries-ko</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-08-04T13:28:54.292888+00:00</updated>
+  <updated>2024-08-04T14:33:18.271472+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -44,15 +44,5 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/69UeEFMKGLggIbqtrsdNpH/0faf5911a496dc6aa30495e157288370/0701_season61_inboxKV__960x764___1_.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://clashroyale.inbox.supercell.com/#/ko/news/69IYE87M0rmGTHJ5ATFC5y"/>
     <published>2024-07-01T09:00:05+00:00</published>
-  </entry>
-  <entry>
-    <id>5ghaTI742eQEY42qUrgjPE</id>
-    <title>🗞️</title>
-    <updated>2024-08-04T10:40:39.279000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://www.youtube.com/live/Wl1PZqQPjm4?si=PGRaHEu7ErRjSJyV"&gt;👉알림 설정하기!👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7kXDWOt5Azf9578jHvcRAF/d1aa092192507ccd4bf01ad818571d3f/0803______Community_____960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/Wl1PZqQPjm4?si=PGRaHEu7ErRjSJyV"/>
-    <published>2024-08-03T06:51:43+00:00</published>
   </entry>
 </feed>
