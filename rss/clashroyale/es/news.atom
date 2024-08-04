@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-04T14:33:34.220397+00:00</updated>
+  <updated>2024-08-04T15:29:54.712111+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>1gxGTnIhbC9RY1nFBoRMtc</id>
-    <title>Llega la temporada de la magia ✨</title>
-    <updated>2024-05-09T10:28:25.194000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/1gxGTnIhbC9RY1nFBoRMtc"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4TH7tUapCUsmnmBEAFolry/a8aedfad5975f4e5cea86b512a507209/magic_season_trailer.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/oDNcJNCrtK8?feature=share"/>
-    <category term="Lo más destacado"/>
-    <published>2024-05-06T15:00:03+00:00</published>
-  </entry>
   <entry>
     <id>2ikC5jHcoD2RU9oEavpmNH</id>
     <title>¡Ajustes de equilibrio de mayo!</title>
@@ -639,5 +629,32 @@ El equipo de Clash Royale&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JimwbJYL8scbt795JdFA4/2b3e6fde5f791a4a08dcd8bff92742cd/gqj_changes_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2024-07-29T09:29:02+00:00</published>
+  </entry>
+  <entry>
+    <id>5U6UsslpkMR87G0Uh1OzMp</id>
+    <title>¡Festival del oro de agosto!</title>
+    <updated>2024-08-04T15:00:28.204000+00:00</updated>
+    <content>&lt;p&gt;¡Llega el festival del oro de agosto! Del 5 al 12 de agosto, lloverá oro por todo el reino. ¿Significa eso que habrá tres eventos al mismo tiempo? ¿Descuentos en las mejoras, oro extra y recompensas por alcanzar metas? ¡Qué oportunidad de oro!&lt;/p&gt;&lt;p&gt;Estas son todas las novedades:&lt;/p&gt;
+&lt;h1&gt;¡SLASH ROYALE!&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4ScJFEg3yGEuQ20En52dvb/45d293fbe921e3b5c34ff7553199c8c8/slashroyale_swords.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Durante toda la semana, ¡podrás mejorar tus cartas por &lt;b&gt;la mitad de oro&lt;/b&gt;!&lt;/p&gt;
+&lt;h1&gt;¡Fiebre del oro!&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6BM76Me80A5hqnSYwArnzC/28186a15692b3bf42135b0c7a6b97445/goldrush_gold.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;¿Te apetece algo más de oro? ¡Pues es hora de destruir unas cuantas torres!&lt;/p&gt;&lt;p&gt;Gana hasta &lt;b&gt;120 000 de oro&lt;/b&gt; según la arena en la que te encuentres.&lt;/p&gt;
+&lt;p&gt;Cada día del evento ganarás oro de la siguiente manera:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Arena 1-4:&lt;/b&gt; 5000 de oro&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Arena 5-7:&lt;/b&gt; 10 000 de oro&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Arena 8-10:&lt;/b&gt; 15 000 de oro&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;A partir de la arena 11:&lt;/b&gt; 20 000 de oro&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;¡Evento de metas!&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4q7KsMmYLaBp0FGJIQyCMh/bcafaa9a60c68155a69f448565571a5e/shop_gold.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Gasta oro y gana recompensas. ¡Así de simple!&lt;/p&gt;
+&lt;p&gt;Echa un vistazo a la lista de metas y sus recompensas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;5000 de oro:&lt;/b&gt; 1 cofre de oro&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10 000 de oro:&lt;/b&gt; 500 cartas comunes aleatorias&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;20 000 de oro:&lt;/b&gt; 5 llaves de cofres&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50 000 de oro:&lt;/b&gt; 100 cartas especiales aleatorias&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100 000 de oro:&lt;/b&gt; 1 cofre mágico&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;200 000 de oro:&lt;/b&gt; 50 cartas épicas aleatorias&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;300 000 de oro:&lt;/b&gt; 1 cofre gigante&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;450 000 de oro:&lt;/b&gt; 3 comodines legendarios&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;600 000 de oro:&lt;/b&gt; 1 cofre de comodines real&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;750 000 de oro:&lt;/b&gt; 1 cofre del rey legendario (1 cofre del rey si estás en la arena 10 o inferior)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xWqCvSX31cjCIFk9QasKo/c521065e1b7ee4f304ed95127ce5021f/7e1f924747ef092d8d020c68ef0649c3.gif?w=300&amp;h=295&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;¿Todo listo para que llueva oro? ¡Pues que comiencen las batallas!&lt;/p&gt;&lt;p&gt;¡Nos vemos en la arena!
+El equipo de Clash Royale&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/5U6UsslpkMR87G0Uh1OzMp"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/56ffjmXw9LC2VqyIeZs0JI/0fbd990a68fceab012f2fabb3ef18c35/goldfestthumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Noticias"/>
+    <published>2024-08-04T15:00:04+00:00</published>
   </entry>
 </feed>

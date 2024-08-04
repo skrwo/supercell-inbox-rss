@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-04T14:33:18.272807+00:00</updated>
+  <updated>2024-08-04T15:29:50.635634+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,16 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>1gxGTnIhbC9RY1nFBoRMtc</id>
-    <title>마법 시즌에 오신 걸 환영합니다! ✨</title>
-    <updated>2024-05-09T10:28:25.194000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/1gxGTnIhbC9RY1nFBoRMtc"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4TH7tUapCUsmnmBEAFolry/a8aedfad5975f4e5cea86b512a507209/magic_season_trailer.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/Vpwm9dct0t4?si=AjaxhuxKQ7ZGYdGd"/>
-    <category term="하이라이트"/>
-    <published>2024-05-06T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>2ikC5jHcoD2RU9oEavpmNH</id>
@@ -613,5 +603,32 @@
     <link href="https://cafe.naver.com/clashroyale/1506369"/>
     <category term="커뮤니티"/>
     <published>2024-08-02T07:59:09+00:00</published>
+  </entry>
+  <entry>
+    <id>5U6UsslpkMR87G0Uh1OzMp</id>
+    <title>8월의 골드 축제!</title>
+    <updated>2024-08-04T15:00:28.204000+00:00</updated>
+    <content>&lt;p&gt;8월의 골드 축제에 참여하세요! 8월 5일부터 12일까지 골드가 비처럼 쏟아질 예정입니다! 축제 동안에는 무려 세 개의 이벤트가 동시에 진행됩니다. 업그레이드 할인, 추가 골드, 그리고 마일스톤 보상까지! 놓칠 수 없는 황금 같은 기회죠?&lt;/p&gt;&lt;p&gt;그럼 자세한 내용을 알아봅시다.&lt;/p&gt;
+&lt;h1&gt;슬래시 로얄!&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4ScJFEg3yGEuQ20En52dvb/45d293fbe921e3b5c34ff7553199c8c8/slashroyale_swords.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;일주일 내내 &lt;b&gt;절반의 골드&lt;/b&gt; 비용으로 카드를 업그레이드할 수 있습니다!&lt;/p&gt;
+&lt;h1&gt;골드 러시!&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6BM76Me80A5hqnSYwArnzC/28186a15692b3bf42135b0c7a6b97445/goldrush_gold.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;추가 골드를 원하시나요? 그렇다면 타워를 파괴하세요!&lt;/p&gt;&lt;p&gt;아레나 레벨에 따라 최대 &lt;b&gt;12만 골드&lt;/b&gt;까지 획득할 수 있습니다!&lt;/p&gt;
+&lt;p&gt;이벤트 기간에 얻을 수 있는 최대 일일 골드 수는 다음과 같습니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;아레나 1~4:&lt;/b&gt; 5,000 골드&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;아레나 5~7:&lt;/b&gt; 10,000 골드&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;아레나 8~10:&lt;/b&gt; 15,000 골드&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;아레나 11 이상:&lt;/b&gt; 20,000 골드&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;마일스톤 이벤트!&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4q7KsMmYLaBp0FGJIQyCMh/bcafaa9a60c68155a69f448565571a5e/shop_gold.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;골드를 사용하면 보상을 얻습니다. 참 간단하죠?&lt;/p&gt;
+&lt;p&gt;골드 소비 목표와 각 보상 내용은 아래와 같습니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;5,000 골드:&lt;/b&gt; 골드 상자 1개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10,000 골드:&lt;/b&gt; 무작위 일반 카드 500장&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;20,000 골드:&lt;/b&gt; 상자 열쇠 5개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50,000 골드:&lt;/b&gt; 무작위 희귀 카드 100장&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100,000 골드:&lt;/b&gt; 마법 상자 1개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;200,000 골드:&lt;/b&gt; 무작위 영웅 카드 50장&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;300,000 골드:&lt;/b&gt; 자이언트 상자 1개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;450,000 골드:&lt;/b&gt; 전설 와일드카드 3장&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;600,000 골드:&lt;/b&gt; 로얄 와일드 상자&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;750,000 골드:&lt;/b&gt; 전설 킹 상자 1개(아레나 10 이하인 경우 킹 상자로 대체)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xWqCvSX31cjCIFk9QasKo/c521065e1b7ee4f304ed95127ce5021f/7e1f924747ef092d8d020c68ef0649c3.gif?w=300&amp;h=295&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;비처럼 쏟아질 골드를 쓸어 담을 준비를 마치셨나요? 그렇다면 어서 전투에 나서세요!&lt;/p&gt;&lt;p&gt;아레나에서 뵙겠습니다.
+클래시 로얄 팀&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/5U6UsslpkMR87G0Uh1OzMp"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/56ffjmXw9LC2VqyIeZs0JI/0fbd990a68fceab012f2fabb3ef18c35/goldfestthumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="소식"/>
+    <published>2024-08-04T15:00:04+00:00</published>
   </entry>
 </feed>
