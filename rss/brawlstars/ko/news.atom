@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-05T08:35:23.548480+00:00</updated>
+  <updated>2024-08-05T09:30:52.893412+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -198,5 +198,15 @@
     <link href="http://pf.kakao.com/_Wqxdwxj/106233047"/>
     <category term="커뮤니티"/>
     <published>2024-08-02T08:23:52+00:00</published>
+  </entry>
+  <entry>
+    <id>1sLxtiuFuu2eyKctxwdOk4</id>
+    <title>대한민국 최강의 학교가 탄생하는 순간을 확인해보세요! 🏫</title>
+    <updated>2024-08-05T08:56:08.099000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/1sLxtiuFuu2eyKctxwdOk4"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1rlFblPcvANyaNzGxL3f7t/e829a9f9119b79c56765ee93e7bb83ff/0805_BS_______inbox_800x433_01.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/izI3JitN11A?si=0wnEfKV4WjBP8BmY"/>
+    <category term="동영상"/>
+    <published>2024-08-05T08:56:08+00:00</published>
   </entry>
 </feed>
