@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-08-05T07:29:00.216244+00:00</updated>
+  <updated>2024-08-05T08:35:33.264673+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -262,5 +262,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-07-29T08:14:53+00:00</published>
+  </entry>
+  <entry>
+    <id>R9x4nQRrTWb2MuoeOPRyc</id>
+    <title>Eventi di Hay Day (settimana n. 32)</title>
+    <updated>2024-08-05T08:32:30.185000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 32)&lt;/h1&gt;
+&lt;p&gt;Ciao! È ora di rimboccarsi nuovamente le maniche con gli eventi settimanali, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: oggetti espansione (gira la ruota).&lt;/p&gt;&lt;p&gt;Martedì: buoni (ordini del furgone).&lt;/p&gt;&lt;p&gt;Mercoledì: potenziamenti (ordini per la barca).&lt;/p&gt;&lt;p&gt;Giovedì: monete doppie (visitatori della fattoria).&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 30% per due edifici per la pesca (vasca per aragoste e banco da lavoro per esche) e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;Sabato: oggetti espansione (visitatori della città).&lt;/p&gt;&lt;p&gt;Domenica: produttività dei mangimifici ottimizzata (tre tipi casuali di mangime per animali verranno prodotti al doppio della velocità).&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/R9x4nQRrTWb2MuoeOPRyc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-08-05T08:30:54+00:00</published>
   </entry>
 </feed>

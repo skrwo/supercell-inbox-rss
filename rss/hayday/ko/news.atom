@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-08-05T07:29:00.958125+00:00</updated>
+  <updated>2024-08-05T08:35:32.761921+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -262,5 +262,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-07-29T08:14:53+00:00</published>
+  </entry>
+  <entry>
+    <id>R9x4nQRrTWb2MuoeOPRyc</id>
+    <title>헤이데이 이벤트 32주 차!</title>
+    <updated>2024-08-05T08:32:30.185000+00:00</updated>
+    <content>&lt;h1&gt;헤이데이 이벤트 32주 차!&lt;/h1&gt;
+&lt;p&gt;안녕하세요, 농부님! 더 많은 이벤트를 맞이할 준비를 하세요! 모든 이벤트는 오전 8시(UTC)에 시작합니다. 각 이벤트에 대한 자세한 정보는 해당 요일에 게임 내 이벤트 게시판을 확인하세요.&lt;/p&gt;&lt;p&gt;월요일: 행운의 룰렛(확장 아이템)&lt;/p&gt;&lt;p&gt;화요일: 트럭 이벤트(쿠폰)&lt;/p&gt;&lt;p&gt;수요일: 화물선 이벤트(부스터)&lt;/p&gt;&lt;p&gt;목요일: 농장 방문객(코인 2배)&lt;/p&gt;&lt;p&gt;금요일: 낚시 생산 부스트 이벤트(가재 수족관 및 미끼 작업대 30% 가속) + 농장 패스 포인트 2배&lt;/p&gt;&lt;p&gt;토요일: 타운 방문객 이벤트(확장 아이템)&lt;/p&gt;&lt;p&gt;일요일: 동물 사료 이벤트(무작위 동물 사료 3종 생산 2배 가속)&lt;/p&gt;&lt;p&gt;즐거운 한 주 보내세요!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/R9x4nQRrTWb2MuoeOPRyc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-08-05T08:30:54+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-08-05T07:29:01.378179+00:00</updated>
+  <updated>2024-08-05T08:35:33.653559+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -251,5 +251,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Haberler"/>
     <published>2024-07-29T08:14:53+00:00</published>
+  </entry>
+  <entry>
+    <id>R9x4nQRrTWb2MuoeOPRyc</id>
+    <title>Hay Day Etkinlikleri 32. Hafta!</title>
+    <updated>2024-08-05T08:32:30.185000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Etkinlikleri 32. Hafta!&lt;/h1&gt;
+&lt;p&gt;Merhaba çiftçiler! Hazır olun, yeni etkinlikler geliyor! Tüm etkinlikler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;Pazartesi: Çarkıfelek Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;Salı: Kamyon Etkinliği (hediye çekleri)&lt;/p&gt;&lt;p&gt;Çarşamba: Tekne Etkinliği (hızlandırıcılar)&lt;/p&gt;&lt;p&gt;Perşembe: Çiftlik Ziyaretçileri Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Cuma: Balıkçılık Hızlandırma Etkinliği (ıstakozlar ve yemler %30) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;Cumartesi: Kasaba Ziyaretçileri Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;Pazar: Yem Değirmeni Etkinliği (rastgele üç hayvan yemi iki kat daha hızlı üretilir)&lt;/p&gt;&lt;p&gt;Harika bir hafta diliyoruz!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/R9x4nQRrTWb2MuoeOPRyc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Haberler"/>
+    <published>2024-08-05T08:30:54+00:00</published>
   </entry>
 </feed>

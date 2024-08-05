@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-08-05T07:29:01.667920+00:00</updated>
+  <updated>2024-08-05T08:35:32.906838+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -262,5 +262,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Neues"/>
     <published>2024-07-29T08:14:53+00:00</published>
+  </entry>
+  <entry>
+    <id>R9x4nQRrTWb2MuoeOPRyc</id>
+    <title>Ereigniswoche 32!</title>
+    <updated>2024-08-05T08:32:30.185000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 32!&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich für ein paar weitere Ereignisse bereit! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagen-Ereignis (Gutscheine)&lt;/p&gt;&lt;p&gt;Mittwoch: Schiffsereignis (Schübe)&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den Angelbereich (Hummer und Köder, 30 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Sonntag: Flinkeres Futter (3 zufällige Arten Tierfutter werden doppelt so schnell produziert)&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/R9x4nQRrTWb2MuoeOPRyc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Neues"/>
+    <published>2024-08-05T08:30:54+00:00</published>
   </entry>
 </feed>

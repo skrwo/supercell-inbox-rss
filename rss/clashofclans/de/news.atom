@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-05T07:28:58.956668+00:00</updated>
+  <updated>2024-08-05T08:35:31.233507+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -198,5 +198,15 @@ Interessiert? Lies unten für alle Details zum Event!&lt;/p&gt;&lt;p&gt;&lt;b&gt
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1I1ckoURbVmfvX2G0RR0aP/d02275375bd65ebd3d687ea5d31292b0/thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Updates"/>
     <published>2024-08-01T08:10:18+00:00</published>
+  </entry>
+  <entry>
+    <id>SXfMU0Cs50uL6J8u7Idx7</id>
+    <title>Kampf der Drachen</title>
+    <updated>2024-08-05T08:00:03.688000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/de/news/SXfMU0Cs50uL6J8u7Idx7"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7jxx2LEyWdmxsTYrdjVZN0/b4b2d36f798cd48f28fb8b62a06d5456/DE_Clash_of_Dragons-InboxThumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/zFDVwbgDtGQ"/>
+    <category term="news"/>
+    <published>2024-08-05T08:00:03+00:00</published>
   </entry>
 </feed>

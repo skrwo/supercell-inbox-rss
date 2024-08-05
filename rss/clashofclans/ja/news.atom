@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-05T07:28:59.183740+00:00</updated>
+  <updated>2024-08-05T08:35:31.006938+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -356,5 +356,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/719Cw43AYOlOM4OOweDdfh/5eb48a7a174bfdda318008dc8150f605/20240726_COC_CP_TW_12th_01_inbox.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-08-02T02:51:55+00:00</published>
+  </entry>
+  <entry>
+    <id>SXfMU0Cs50uL6J8u7Idx7</id>
+    <title>Clash of Dragons</title>
+    <updated>2024-08-05T08:00:03.688000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/SXfMU0Cs50uL6J8u7Idx7"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3MyymKPkRhgiWfd6jIbx3s/867e2ae3509e0ddfafc9c2993a7a9f50/Clash-of-Dragons-InboxThumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/zFDVwbgDtGQ"/>
+    <category term="ニュース"/>
+    <published>2024-08-05T08:00:03+00:00</published>
   </entry>
 </feed>
