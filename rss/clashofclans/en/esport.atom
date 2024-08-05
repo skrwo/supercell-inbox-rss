@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-08-05T12:51:53.520343+00:00</updated>
+  <updated>2024-08-05T13:31:17.123858+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -470,5 +470,23 @@ Show some love to the 5 July Monthly Finals Silver Ticket Winners - &lt;a href="
     <link href="https://www.youtube.com/live/h6u84b-o2tI?si=y3U9SRm97NKO_4HH&amp;t=1143"/>
     <category term="Esports"/>
     <published>2024-07-29T10:43:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1moPRXU72HjzR91S9Svg6c</id>
+    <title>Rewatch the SPS Cup 4 - Day 1!</title>
+    <updated>2024-08-05T13:28:23.802000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/35dYQHyItslU2NoA5pREE9/a762f293d507fcbed0935fd624edb5d6/SPS_Cup_4_Day_1_Thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2214927261?t=00h50m01s"/>
+    <category term="Esports"/>
+    <published>2024-08-05T12:59:26+00:00</published>
+  </entry>
+  <entry>
+    <id>11B05zjiITWBdMkxVSUmdl</id>
+    <title>Rewatch the SPS Cup 4 - Day 2!</title>
+    <updated>2024-08-05T13:29:21.491000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6X5PtG1NzOWONwkRkahLyT/6dd29b588f294547c9beb20caa7c8327/SPS_Cup_4_Day_2_Thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/ZL-CjwQuLys?si=k27eZyewUWz9yaBz&amp;t=1146"/>
+    <category term="Esports"/>
+    <published>2024-08-05T13:01:40+00:00</published>
   </entry>
 </feed>
