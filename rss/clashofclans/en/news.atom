@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-05T11:29:03.181182+00:00</updated>
+  <updated>2024-08-05T12:51:53.508638+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -216,5 +216,15 @@ In addition to those rewards that will be enabled for &lt;b&gt;everyone&lt;/b&gt
     <link href="https://youtu.be/zFDVwbgDtGQ"/>
     <category term="News"/>
     <published>2024-08-05T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5XYtZr3aGNhjlofAMRYQIv</id>
+    <title>Clash of Dragons - Base Design Challenge!</title>
+    <updated>2024-08-05T12:02:11.203000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/en/news/5XYtZr3aGNhjlofAMRYQIv"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/74s62ZrOvKtLcDC17PHKQj/8b013d00798d6c5b4a541910358a8b37/20240802_-_house_of_dragons_900x506.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/ClashofClans/status/1820429825523556759"/>
+    <category term="Community"/>
+    <published>2024-08-05T12:02:11+00:00</published>
   </entry>
 </feed>

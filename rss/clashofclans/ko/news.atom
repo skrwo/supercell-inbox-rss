@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-05T11:29:02.785643+00:00</updated>
+  <updated>2024-08-05T12:51:43.878434+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -216,5 +216,15 @@
     <link href="https://youtu.be/u9teSbtnXjo"/>
     <category term="뉴스"/>
     <published>2024-08-05T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5XYtZr3aGNhjlofAMRYQIv</id>
+    <title>클래시 오브 드래곤 - 기지 디자인 도전!</title>
+    <updated>2024-08-05T12:02:11.203000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/5XYtZr3aGNhjlofAMRYQIv"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3xv27NUUWSz73GoSVIWbpI/bf47b09c43593c0919203fc379e524d3/0802_COC_Clash-of-Dragons_900x506_KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/ClashofClans/status/1820429825523556759"/>
+    <category term="커뮤니티"/>
+    <published>2024-08-05T12:02:11+00:00</published>
   </entry>
 </feed>
