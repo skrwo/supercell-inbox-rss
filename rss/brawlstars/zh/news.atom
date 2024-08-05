@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-05T14:32:28.392613+00:00</updated>
+  <updated>2024-08-05T15:30:31.247245+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -159,5 +159,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/44IzOdVz3U3Br59LdXid8D/8b7e842ecf06611db7c67be75facf982/tw_20240728_aet24_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="社群"/>
     <published>2024-07-28T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>YHnHjnJs6iPMy3cSRl1TS</id>
+    <title>【691】貝瑞全精華！輔助角也能玩得這麼爽！</title>
+    <updated>2024-08-05T15:17:49.759000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/YHnHjnJs6iPMy3cSRl1TS"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7qnG0UAcgYeTld58K5KmXd/d4eefeb0d0d8a90790619fa657becb55/tw_20240805_691_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ChMEhCGvMBQ"/>
+    <category term="最新情報"/>
+    <published>2024-08-05T14:30:00+00:00</published>
   </entry>
 </feed>
