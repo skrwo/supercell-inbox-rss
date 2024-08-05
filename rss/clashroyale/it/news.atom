@@ -2,154 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-05T09:30:59.662770+00:00</updated>
+  <updated>2024-08-05T10:35:06.097391+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>2ikC5jHcoD2RU9oEavpmNH</id>
-    <title>Modifiche di bilanciamento di maggio</title>
-    <updated>2024-05-14T07:55:43.983000+00:00</updated>
-    <content>&lt;p&gt;Nelle modifiche di maggio, ci occuperemo principalmente delle evoluzioni, che, al momento, sono troppo forti in generale e spingono quindi i giocatori a usarle il più possibile durante una partita. Per questo motivo, molto spesso sono le evoluzioni a decidere le sorti della battaglia: hanno una percentuale di schieramento per partita superiore e infliggono una quantità di danni sproporzionata rispetto alle loro controparti non evolute.&lt;/p&gt;&lt;p&gt;Con questi nuovi cambi, ridurremo i valori delle statistiche di base di queste carte e daremo più risalto alle loro abilità uniche, in modo che gli utenti mettano in campo le carte evolute e sfruttino le loro caratteristiche in maniera più strategica.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Arcieri evoluti&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ABRfb0yuc0u5mRL68KRM5/c158c32f69d1570ab0d188d888a02d3c/archers-ev1__1_.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita bonus&lt;/b&gt;
--20% (moltiplicatore ridotto da 1,25 a 1).
-&lt;b&gt;💥 Danni del tiro potente&lt;/b&gt; aumentati del 18%.&lt;/p&gt;
-&lt;p&gt;Ora che gli arcieri evoluti avranno meno salute, pensiamo sia giusto ridare un po&amp;#39; più di forza al loro tiro potente, rendendo questa truppa una carta sì ad alto rischio, ma anche molto vantaggiosa.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Barbari evoluti&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7dLmoEB0enXcxUA4Gc5vK1/b16d3ba1b8c7f78fd1713a5b7d05e1d4/barbsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita bonus&lt;/b&gt; diminuiti del 12% (moltiplicatore ridotto da 1,25 a 1,1).
-&lt;b&gt;⏱️ Durata del potenziamento&lt;/b&gt; aumentata del 50% (da 2 secondi a 3).&lt;/p&gt;
-&lt;p&gt;I punti ferita bonus dei barbari evoluti saranno più in linea con quelli delle altre evoluzioni che si affidano agli attacchi in mischia, ma saranno comunque sufficienti per resistere a una Sfera infuocata. Inoltre, il loro potenziamento durerà più a lungo per aiutarli a raggiungere più facilmente nuovi obiettivi quando combattono contro più truppe.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Pipistrelli evoluti&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1GU3WFoB3ZqCdstrOFZd4N/c6a0bdf25de1e8e4138f9d5f1a035839/batsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Velocità bonus del primo colpo&lt;/b&gt;
-+100% (da 0,3 secondi a 0,6).&lt;/p&gt;
-&lt;p&gt;Il potenziale dei pipistrelli evoluti rimarrà immutato, ma per sfruttare al massimo le loro capacità, sarà necessario dare loro più sostegno.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Ariete da battaglia evoluto&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/AQAX9f6WC5SU6dJk98TlK/2a54a6a1336905dbdcf7c6ed72ee567a/battleramevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🫸 Le truppe pesanti&lt;/b&gt; (come la P.E.K.K.A e il minatore colossale) &lt;b&gt;non saranno più respinte&lt;/b&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;ℹ️&lt;/b&gt; Le modifiche ai barbari evoluti varranno anche per quelli dell&amp;#39;ariete da battaglia evoluto.&lt;/p&gt;&lt;p&gt;Poiché non potrà più respingere le truppe pesanti come la P.E.K.K.A e il minatore colossale, l&amp;#39;ariete da battaglia evoluto sarà più facile da contrastare, ma manterrà lo stesso potenziale di prima nella maggior parte delle situazioni.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Bombarolo evoluto&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🔄 Cicli&lt;/b&gt;
-+100% (da 1 a 2).&lt;/p&gt;
-&lt;p&gt;Con l&amp;#39;aumento dei cicli da uno a due, vogliamo incoraggiare i giocatori a usare il bombarolo evoluto più strategicamente, evitando quindi che venga schierato ripetutamente.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Arciere pirotecnico evoluto&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RCKxx4SShYEM99tGgaQcu/db16e565c20f633a9f00d7f86fb958e1/firecrackerevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita bonus&lt;/b&gt;
--23% (moltiplicatore ridotto da 1,3 a 1).
-&lt;b&gt;💥 ⏱️ Durata delle scintille grandi&lt;/b&gt;
-+20% (da 2,5 secondi a 3).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;💥 ⏱️ Durata delle scintille piccole&lt;/b&gt;
-+25% (da 2 secondi a 2,5).
-🐢 Le scintille ora &lt;b&gt;rallentano i movimenti del 15%&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Anche l&amp;#39;arciere pirotecnico evoluto sacrificherà i suoi punti ferita bonus per aumentare la sua potenza d&amp;#39;attacco. Inoltre, le sue scintille rallenteranno i movimenti dei nemici del 15%, come l&amp;#39;incantesimo Veleno, e la loro durata maggiore renderà il rallentamento più efficace, incrementando indirettamente i danni di questa truppa evoluta.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Cavaliere evoluto&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/UvZi04bi0o024a8DJ2ks6/a4ba12689e06108885a8f4feace80d0d/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita bonus&lt;/b&gt;
--8% (moltiplicatore ridotto da 1,2 a 1,1).&lt;/p&gt;
-&lt;p&gt;Oltre alla sua non indifferente capacità di ridurre i danni, il cavaliere evoluto ha delle statistiche troppo buone per il suo costo. Stiamo uniformando i punti ferita bonus delle evoluzioni che sferrano attacchi corpo a corpo, perciò la resistenza del cavaliere evoluto proverrà maggiormente dalla sua abilità che dalla sua salute aggiuntiva.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Mortaio evoluto&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lfmecFbx84dIbQNhAyh1l/c781c94e20ddd508fc5b2f1484d6de9c/mortarevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita bonus&lt;/b&gt;
--17% (moltiplicatore ridotto da 1,2 a 1).&lt;/p&gt;
-&lt;p&gt;Con questo cambio, vogliamo che i giocatori si concentrino di più a difendere il mortaio evoluto, visto che il suo attacco è molto più forte e veloce di quello del mortaio normale.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Gigante Royale (normale ed evoluto)&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYeTJoHN7fMq5IwH3A7vB/49b351604dbd28cb13d91bfc593f5c1b/rg_rgevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita del gigante Royale&lt;/b&gt;
-+3% (da 3072 a 3164).
-&lt;b&gt;❤️ Punti ferita bonus del gigante Royale evoluto&lt;/b&gt;
--10% (moltiplicatore ridotto da 1,1 a 1).&lt;/p&gt;
-&lt;h1&gt;Reclute Royale (normali ed evolute)&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2D6VJCZSIitl2zbQOFsjHz/ee3dbaa6ae5a7af2df4a30cd83054c62/rrec_rrecevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita delle reclute Royale&lt;/b&gt;
-+3% (da 532 a 547).
-&lt;b&gt;❤️ Punti ferita bonus delle reclute Royale evolute&lt;/b&gt;
--10% (moltiplicatore ridotto da 1,11 a 1).&lt;/p&gt;
-&lt;p&gt;Il divario tra le versioni evolute e non delle reclute e del gigante Royale era troppo grande, soprattutto per essere carte che costano sei unità d&amp;#39;elisir o più, perciò abbiamo reso questa differenza meno evidente, rendendo più resistenti le controparti normali.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Scheletri evoluti&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/45Z1nYQ2KLRaysGKYACib/304b410d7d0e1f6e88190422c1478af8/skeletonsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Velocità bonus del primo colpo&lt;/b&gt;
-+25% (da 0,4 secondi a 0,5).&lt;/p&gt;
-&lt;p&gt;Così come i pipistrelli evoluti, anche gli scheletri evoluti perderanno il bonus legato al loro primo colpo, che in fin dei conti non apparteneva a loro poi così tanto, e avranno quindi bisogno di maggior appoggio per esprimere il loro potenziale.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Tesla evoluta&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita bonus&lt;/b&gt;
--17% (moltiplicatore ridotto da 1,2 a 1).
-&lt;b&gt;⚡ Emetterà un impulso elettrico anche quando sarà distrutta.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Il valore della Tesla evoluta dipendeva perlopiù dai punti ferita bonus e, nella maggior parte dei casi, l&amp;#39;edificio produceva un unico impulso elettrico. Ora ne rilascerà almeno due, uno allo schieramento e un altro alla distruzione.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Valchiria evoluta&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oq0jbv3iyUHZlnIZ9dnkR/f6d458ce4cbf94196e3241876586c9b2/valkevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita bonus&lt;/b&gt;
--4% (moltiplicatore ridotto da 1,15 a 1,1).
-&lt;b&gt;💥 Danni del tornado&lt;/b&gt;
-+11% (da 76 punti a 84).&lt;/p&gt;
-&lt;p&gt;La valchiria evoluta vedrà leggermente diminuiti i suoi punti ferita bonus, in linea con le altre evoluzioni che sferrano attacchi corpo a corpo, ma d&amp;#39;ora in poi il suo tornado eliminerà pipistrelli e scheletri in un colpo solo.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Spaccamuro evoluti&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7g4QhbMobKAWYIgsFR9qh5/d479926b33e145b510b66d918caf948e/wallbreakersevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 Danni dei corridori&lt;/b&gt;
--50% (da 392 punti a 196).
-&lt;b&gt;⏱️ Velocità dei corridori&lt;/b&gt;
-Aumentata da &amp;quot;rapida&amp;quot; a &amp;quot;molto rapida&amp;quot;.&lt;/p&gt;
-&lt;p&gt;Gli spaccamuro evoluti erano molto difficili da fermare e causavano un bel po&amp;#39; di danni. Poiché l&amp;#39;idea di fondo del loro design è quella di essere truppe che devono sopravvivere, abbiamo dimezzato i danni bonus e aumentato la velocità di movimento.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Scarica evoluta&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/GgCsLp0UrgdaPWVzJ3SHS/4d45563694b168396046eda5ef1ddadb/zapevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 Danni della seconda e della terza scarica&lt;/b&gt;
--50% (moltiplicatore ridotto da 1 a 0,5).&lt;/p&gt;
-&lt;p&gt;Gran parte dell&amp;#39;efficacia della Scarica evoluta proveniva dai suoi danni, ma con questa modifica, l&amp;#39;incantesimo si affiderà maggiormente allo stordimento.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Cannoniere&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f4fgO90PDZyHeifrHWv1K/64faed848aef44d2f1681d16bbd3ce3d/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 Danni&lt;/b&gt;
--5% (da 422 punti a 401).&lt;/p&gt;
-&lt;p&gt;Il cannoniere causava fin troppi danni, soprattutto quando entrambe le torri prendevano di mira lo stesso obiettivo.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Duchessa dei pugnali&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5yxT4j5DRq4Hx4LGKYzk3D/9ac3e07a1e14fac3cc422c20a40cb3aa/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita&lt;/b&gt;
--14% (da 3204 a 2768).&lt;/p&gt;
-&lt;p&gt;Anche se le debolezze della duchessa sono evidenti, finora era un po&amp;#39; troppo difficile sfruttarle continuamente, visti i suoi punti ferita elevati.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Estrattore di elisir&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3gfMMjCrkyMhYldgOnbTWC/be44f69079298330eb296b16203b2ea6/elixircol.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Velocità di produzione&lt;/b&gt;
-+33% (da 9 secondi a 12).
-&lt;b&gt;⏱️ ❤️ Durata effetti&lt;/b&gt;
-+32% (da 1 minuto e 5 secondi a 1 minuto e 26 secondi).&lt;/p&gt;
-&lt;p&gt;L&amp;#39;estrattore produrrà la stessa quantità di elisir di prima, ma ci metterà di più a farlo. Sia questo edificio sia la duchessa dei pugnali sono più forti quando il moltiplicatore della produzione di elisir è a uno e ora che si può fare affidamento sulla sinergia tra queste due carte, era necessario apportare delle modifiche all&amp;#39;estrattore tenendo in considerazione anche la duchessa.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Trivella goblin&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1SasChghB3GEWD581b1hiv/20f9b45fba067dbc4892d208c7bb2c2f/goblindrill.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Generazione del primo goblin&lt;/b&gt;
-+60% (da 0,5 secondi a 0,8).&lt;/p&gt;
-&lt;p&gt;Il primo goblin appariva troppo velocemente, il che rendeva difficile contrastare la trivella senza sapere dove sarebbe apparsa.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Veleno&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53SGVQmC6XmZVf2m7pifQa/30a2d325a3dfc46f988f8a79209592ab/poison.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;👑 💥 Danni al secondo alle torri della corona&lt;/b&gt;
--18% (da 28 punti a 23).&lt;/p&gt;
-&lt;p&gt;In sudden death, il Veleno è una carta determinante troppo efficace, quindi abbiamo ridotto i danni alle torri della corona per incoraggiare i giocatori a usare altre carte determinanti e ad affidarsi di meno a questo incantesimo.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/it/news/2ikC5jHcoD2RU9oEavpmNH"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Note di rilascio"/>
-    <published>2024-05-07T08:01:31+00:00</published>
-  </entry>
   <entry>
     <id>63XcJZv49gELlwyacBl6MR</id>
     <title>La storia dello stregone evoluto 🔥</title>
@@ -592,7 +448,7 @@ Il team di Clash Royale&lt;/p&gt;</content>
   <entry>
     <id>5U6UsslpkMR87G0Uh1OzMp</id>
     <title>Festa dell'oro di agosto!</title>
-    <updated>2024-08-05T07:03:36.493000+00:00</updated>
+    <updated>2024-08-05T09:41:42.324000+00:00</updated>
     <content>&lt;p&gt;Dal 5 al 12 agosto, il regno dei Royale verrà inondato d&amp;#39;oro grazie a tre eventi che si terranno simultaneamente e che offriranno rispettivamente sconti sui miglioramenti, monete extra e ricompense al raggiungimento di vari traguardi! Questa è decisamente un&amp;#39;occasione... d&amp;#39;oro!&lt;/p&gt;&lt;p&gt;Scopriamo insieme tutti i dettagli su queste iniziative.&lt;/p&gt;
 &lt;h1&gt;SLASH ROYALE&lt;/h1&gt;
 
@@ -615,5 +471,17 @@ Il team di Clash Royale&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/56ffjmXw9LC2VqyIeZs0JI/0fbd990a68fceab012f2fabb3ef18c35/goldfestthumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-08-04T15:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>2brc35wE6cJuyUc8dDojz6</id>
+    <title>EVENTI E SFIDE DI AGOSTO</title>
+    <updated>2024-08-05T10:29:57.442000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Gabbia per goblin strategica&lt;/b&gt; &lt;b&gt;(1v1 e 2v2): dal 5 al 12 agosto.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🥊 Nell&amp;#39;angolo blu, 88 chili di pura furia verde: il goblin lottatore!!!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Sfida dedicata: dal 9 al 12 agosto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Ricompensa: una decorazione per lo stendardo.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Imboscata&lt;/b&gt; &lt;b&gt;(1v1 e 2v2): dal 12 al 19 agosto.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🌳 Sbaglio o quel cespuglio si è mosso? Dei cespugli spuntano in tutta l&amp;#39;arena e iniziano a muoversi quando qualcuno li &amp;#39;&amp;#39;disturba&amp;#39;&amp;#39;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Sfida dedicata: dal 16 al 19 agosto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Ricompensa: una decorazione per lo stendardo.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Supercarta strategica&lt;/b&gt; &lt;b&gt;: dal 19 al 26 agosto.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;⭐ Scegli una supercarta e crea un mazzo che metta in luce le sue capacità! Verranno applicate le regole delle normali battaglie strategiche.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Sfida dedicata: dal 23 al 26 agosto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Ricompensa: una decorazione per lo stendardo.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Evoluzioni per tutti&lt;/b&gt; &lt;b&gt;(1v1 e 2v2): dal 26 agosto al 2 settembre.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Perché accontentarsi di due slot delle evoluzioni, quando se ne possono avere... OTTO!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Sfida dedicata: dal 30 agosto al 2 settembre.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Ricompensa: una decorazione per lo stendardo.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4APRaqy9RzEVFgvHAk029E/c16bd80ef41a9f76815933612f060153/62_GoblinWave_FG.png?w=376&amp;h=248&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/2brc35wE6cJuyUc8dDojz6"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66e1yEdbiGX6wl8hhGjsKh/7b9b0f079385200e73d9d2ce51cec312/CR_S62_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Note di rilascio"/>
+    <published>2024-08-05T10:28:02+00:00</published>
   </entry>
 </feed>

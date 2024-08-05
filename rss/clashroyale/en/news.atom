@@ -2,154 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-05T09:31:00.079513+00:00</updated>
+  <updated>2024-08-05T10:35:05.183147+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>2ikC5jHcoD2RU9oEavpmNH</id>
-    <title>May Balance Changes!</title>
-    <updated>2024-05-14T07:55:43.983000+00:00</updated>
-    <content>&lt;p&gt;For May&amp;#39;s balance changes, we will primarily address Card Evolutions. Currently, Evolutions are too generically powerful, leading players to frequently deploy as many Evolutions as possible within a single game. As a consequence, Evolutions too often decide battles by themselves. Evolved cards have a much higher deploys-per-match rate and deal disproportionate amounts of damage than their non-evolved counterparts. &lt;/p&gt;&lt;p&gt;These balance changes aim to shift Evolutions&amp;#39; power away from raw stats and towards their unique abilities. We want to encourage more strategic use of Evolutions and their distinct features.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Archers Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ABRfb0yuc0u5mRL68KRM5/c158c32f69d1570ab0d188d888a02d3c/archers-ev1__1_.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Bonus Hit Points:&lt;/b&gt; 
-1.25x → 1.0x (-20%)
-&lt;b&gt;💥 Power Shot Damage: &lt;/b&gt;+18%&lt;/p&gt;
-&lt;p&gt;With Evolved Archers becoming more fragile, we feel it&amp;#39;s appropriate to add power back to their Power Shot ability, thus making it a higher-risk, higher-reward card.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Barbarians Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7dLmoEB0enXcxUA4Gc5vK1/b16d3ba1b8c7f78fd1713a5b7d05e1d4/barbsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Bonus Hit Points: &lt;/b&gt;1.25x → 1.1x (-12%)
-&lt;b&gt;⏱️ Boost Duration: &lt;/b&gt;2sec → 3sec (+50%)&lt;/p&gt;
-&lt;p&gt;Evolved Barbarians&amp;#39; bonus hitpoints will align more with other melee evolutions, but they will still survive Fireball. Their buff will last longer to help them reach new targets more easily when fighting multiple troops.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Bats Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1GU3WFoB3ZqCdstrOFZd4N/c6a0bdf25de1e8e4138f9d5f1a035839/batsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Bonus First Hit Speed: 
-&lt;/b&gt;0.3sec →  0.6sec (+100%)&lt;/p&gt;
-&lt;p&gt;Evolved Bats will have as much potential as before, but getting maximum value will require more support.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Battle Ram Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/AQAX9f6WC5SU6dJk98TlK/2a54a6a1336905dbdcf7c6ed72ee567a/battleramevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🫸 &lt;b&gt;Pushback removed&lt;/b&gt; for &lt;b&gt;heavy troops&lt;/b&gt; (eg. P.E.K.K.A, Mighty Miner)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;ℹ️ &lt;/b&gt;Evolved Barbarians balance changes will also apply to Battle Ram Barbarians&lt;/p&gt;&lt;p&gt;Evolved Battle Ram will have more counterplay as it won&amp;#39;t push back heavy troops like P.E.K.K.A and Mighty Miner, but it will still have the same potential as it had before in most cases.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Bomber Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt; &lt;b&gt;🔄 Cycles: &lt;/b&gt;
-1 → 2 (+100%)&lt;/p&gt;
-&lt;p&gt;Evolved Bomber is becoming a 2-cycle Evolution to encourage players to spam it less and play it more strategically.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Firecracker Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RCKxx4SShYEM99tGgaQcu/db16e565c20f633a9f00d7f86fb958e1/firecrackerevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Bonus Hit Points: &lt;/b&gt;
-1.3x → 1.0x (-23%)
-&lt;b&gt;💥⏱️ Big Sparks Duration: &lt;/b&gt;
-2.5sec →  3sec (+20%)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;💥⏱️ Small Sparks Duration: &lt;/b&gt;
-2sec →  2.5sec (+25%)
-🐢 Added a &lt;b&gt;15% movement slowing effect&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Evolved Firecracker is also losing its bonus hitpoints for a stronger attack. The Firecracker&amp;#39;s sparks will also gain a 15% movement slowing effect, like Poison. The increased duration will make the movement slow more effective and indirectly buff her damage.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Knight Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/UvZi04bi0o024a8DJ2ks6/a4ba12689e06108885a8f4feace80d0d/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Bonus Hit Points: &lt;/b&gt;
-1.2x → 1.1x (-8%)&lt;/p&gt;
-&lt;p&gt;In addition to its powerful damage reduction ability, Evolved Knight has great stats for its cost. We are aligning melee evolutions to have similar bonus health, and Evolved Knight&amp;#39;s tankiness will come more from its ability than bonus hitpoints.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Mortar Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lfmecFbx84dIbQNhAyh1l/c781c94e20ddd508fc5b2f1484d6de9c/mortarevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Bonus Hit Points: &lt;/b&gt;
-1.2x → 1.0x (-17%)&lt;/p&gt;
-&lt;p&gt;We aim for players to invest more effort in defending the Evolved Mortar, given its significantly faster and stronger attack compared to the non-evolved Mortar.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Royal Giant (+ Evolution)&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYeTJoHN7fMq5IwH3A7vB/49b351604dbd28cb13d91bfc593f5c1b/rg_rgevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Royal Giant Hit Points: &lt;/b&gt;
-3072 → 3164 (+3%)
-&lt;b&gt;❤️ Evolution Bonus Hit Points: &lt;/b&gt;
-1.1x → 1.0x (-9%)&lt;/p&gt;
-&lt;h1&gt;Royal Recruits (+ Evolution)&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2D6VJCZSIitl2zbQOFsjHz/ee3dbaa6ae5a7af2df4a30cd83054c62/rrec_rrecevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Royal Recruits Hit Points: &lt;/b&gt;
-532 → 547 (+3%)
-&lt;b&gt;❤️ Evolution Bonus Hit Points: 
-&lt;/b&gt;1.11x → 1.0x (-10%)&lt;/p&gt;
-&lt;p&gt;The gap between Evolved and non-evolved Royal Giants &amp;amp; Royal Recruits was too large, especially for costing 6+ Elixir. We want to make the gap less extreme and compensate by making each of their base cards a little stronger.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Skeletons Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/45Z1nYQ2KLRaysGKYACib/304b410d7d0e1f6e88190422c1478af8/skeletonsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Bonus First Hit Speed: &lt;/b&gt;
-0.4sec →  0.5sec (+25%)&lt;/p&gt;
-&lt;p&gt;Like the Evolved Bats, Skeletons Evolution is losing its extraneous first hit speed bonus and will require more support to reach its ceiling.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Tesla Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Bonus Hit Points: &lt;/b&gt;
-1.2x → 1.0x (-17%)
-&lt;b&gt;⚡ Tesla Evolution will also emit an Electro Pulse when destroyed.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Evolved Tesla got most of its value from bonus hitpoints and usually only produced one Electro Pulse. Evolved Tesla will always emit at least two Electro Pulses, one on deploy and one when it is destroyed.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Valkyrie Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oq0jbv3iyUHZlnIZ9dnkR/f6d458ce4cbf94196e3241876586c9b2/valkevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Bonus Hit Points: &lt;/b&gt;
-1.15x → 1.1x (-4%)
-&lt;b&gt;💥 Tornado Damage: &lt;/b&gt;
-76 → 84 (+11%)&lt;/p&gt;
-&lt;p&gt;Evolved Valkyrie is getting a minor nerf to its bonus hitpoints, aligning it with other melee Evolutions. Her Tornado will now destroy Skeletons and Bats in one attack.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Wall Breakers Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7g4QhbMobKAWYIgsFR9qh5/d479926b33e145b510b66d918caf948e/wallbreakersevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 Runner Damage: &lt;/b&gt;
-392 → 196 (-50%)
-&lt;b&gt;⏱️ Runner Speed:&lt;/b&gt; 
-Fast → Very Fast&lt;/p&gt;
-&lt;p&gt;Evolved Wall Breakers were both harder to answer and dealt significantly more damage. Since their design is about survivability, we&amp;#39;re removing the bonus damage and making the Runners faster.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Zap Evolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/GgCsLp0UrgdaPWVzJ3SHS/4d45563694b168396046eda5ef1ddadb/zapevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 2nd and 3rd Zap Damage: &lt;/b&gt;
-1x → 0.5x (-50%)&lt;/p&gt;
-&lt;p&gt;Most of Evolved Zap&amp;#39;s strength came from its damage. This nerf will make the card more about the stun.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Cannoneer&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f4fgO90PDZyHeifrHWv1K/64faed848aef44d2f1681d16bbd3ce3d/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 Damage: &lt;/b&gt;
-422 → 401 (-5%)&lt;/p&gt;
-&lt;p&gt;Cannoneer dealt too much damage, particularly when both towers targeted a troop.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Dagger Duchess&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5yxT4j5DRq4Hx4LGKYzk3D/9ac3e07a1e14fac3cc422c20a40cb3aa/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Hit Points: &lt;/b&gt;
-3204 → 2768 (-14%)&lt;/p&gt;
-&lt;p&gt;While Dagger Duchess has clear weaknesses, it was too difficult to repeatedly exploit those weaknesses, considering her high hitpoints.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Elixir Collector&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3gfMMjCrkyMhYldgOnbTWC/be44f69079298330eb296b16203b2ea6/elixircol.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Production Speed: 
-&lt;/b&gt;9sec → 12sec (+33%)
-&lt;b&gt;⏱️❤️ Lifetime: &lt;/b&gt;
-1min 5sec → 1min 26sec (+32%)&lt;/p&gt;
-&lt;p&gt;Elixir Collector will produce the same amount of Elixir as before, but it will take longer to do so. Both Elixir Collector and Dagger Duchess are stronger during 1x Elixir. Now that Elixir Collector decks have a synergistic tower troop, it needs to be balanced with Dagger Duchess in mind.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Goblin Drill&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1SasChghB3GEWD581b1hiv/20f9b45fba067dbc4892d208c7bb2c2f/goblindrill.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ First Goblin Spawn: 
-&lt;/b&gt;0.5sec → 0.8sec (+60%)&lt;/p&gt;
-&lt;p&gt;The first Goblin spawned too quickly, making it difficult to counter Goblin Drill without predicting Goblin Drill&amp;#39;s placement.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Poison&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53SGVQmC6XmZVf2m7pifQa/30a2d325a3dfc46f988f8a79209592ab/poison.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;👑💥 Crown Tower Damage/sec: 
-&lt;/b&gt;28 → 23 (-18%)&lt;/p&gt;
-&lt;p&gt;Poison is too effective as a win condition in Sudden Death. We are reducing its Crown Tower Damage to encourage usage of other win conditions and rely less on cycling Poison.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/2ikC5jHcoD2RU9oEavpmNH"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Release Notes"/>
-    <published>2024-05-07T08:01:31+00:00</published>
-  </entry>
   <entry>
     <id>63XcJZv49gELlwyacBl6MR</id>
     <title>Wizard Evolution 🔥 Lore Drop</title>
@@ -667,7 +523,7 @@ Clash Royale Team&lt;/p&gt;</content>
   <entry>
     <id>5U6UsslpkMR87G0Uh1OzMp</id>
     <title>August Gold Festival!</title>
-    <updated>2024-08-05T07:03:36.493000+00:00</updated>
+    <updated>2024-08-05T09:41:42.324000+00:00</updated>
     <content>&lt;p&gt;Join the August Gold Festival! From August 5th to 12th, Gold will rain on the Kingdom&amp;#39;s grounds! Three Events happening simultaneously? Upgrade discounts, extra Gold, and milestone rewards? That&amp;#39;s Gold!&lt;/p&gt;&lt;p&gt;Here&amp;#39;s what&amp;#39;s coming:&lt;/p&gt;
 &lt;h1&gt;SLASH ROYALE!&lt;/h1&gt;
 
@@ -690,5 +546,17 @@ The Clash Royale Team&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/56ffjmXw9LC2VqyIeZs0JI/0fbd990a68fceab012f2fabb3ef18c35/goldfestthumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-08-04T15:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>2brc35wE6cJuyUc8dDojz6</id>
+    <title>AUGUST EVENTS &amp; CHALLENGES</title>
+    <updated>2024-08-05T10:29:57.442000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Cage Match (1v1 and 2v2): Aug 5 - 12&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🥊 In the blue corner, weighing in at 193 pounds of pure Goblin rage, The Goblin BRAAAWLLER!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Challenge: August 9 - 12&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Reward: Banner&lt;/p&gt;&lt;hr/&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;What´s in the Bush (1v1 and 2v2): Aug 12 - 19&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🌳 Was something moving in that bush? Bushes appear around the Arena that come alive if they&amp;#39;re disturbed.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Challenge: August 16 - 19&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Reward: Banner&lt;/p&gt;&lt;hr/&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Super Cards Draft: Aug 19 - 26&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;⭐ Pick a Super Card to draft your deck around! Normal Draft Battle rules apply.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Challenge: August 23 - 26&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Reward: Banner&lt;/p&gt;&lt;hr/&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Evolution Bonanza (1v1 and 2v2): Aug 26 - Sept 2&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Eight Evolution Slots! You get an Evolution slot, and you get an Evolution slot ... You all get an Evolution slot!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Challenge: August 30 - September 2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Reward: Banner&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4APRaqy9RzEVFgvHAk029E/c16bd80ef41a9f76815933612f060153/62_GoblinWave_FG.png?w=376&amp;h=248&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/2brc35wE6cJuyUc8dDojz6"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66e1yEdbiGX6wl8hhGjsKh/7b9b0f079385200e73d9d2ce51cec312/CR_S62_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Release Notes"/>
+    <published>2024-08-05T10:28:02+00:00</published>
   </entry>
 </feed>

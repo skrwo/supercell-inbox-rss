@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Aug 2024 09:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 10:35:06 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -22,149 +22,6 @@
       <category>リリース情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Fri, 01 Dec 2023 08:24:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>5月のバランス調整！</title>
-      <link>https://clashroyale.inbox.supercell.com/#/ja/news/2ikC5jHcoD2RU9oEavpmNH</link>
-      <description>&lt;p&gt;5月のバランス調整では、主に限界突破カードに焦点を当てます。今の限界突破カードは非常に強力で、1回のバトル中に何度も限界突破させることが当たり前の環境を作り出しています。そのため、バトルの結果が限界突破の有無に大きく左右されてしまうのが現状です。限界突破カードのバトルごとの使用回数と総ダメージ量の比率は、通常のカードと比較して非常に高く、大幅にバランスを欠いていることは否定できません。&lt;/p&gt;&lt;p&gt;今回のバランス調整により、限界突破がただ理不尽に強い機能ではなく、カードが元々持つ特長をさらに引き出すアクセントとなるように軌道修正を行い、より戦略的で個性的な活用法を、皆さんに見出してもらいたいと考えています。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破アーチャー&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ABRfb0yuc0u5mRL68KRM5/c158c32f69d1570ab0d188d888a02d3c/archers-ev1__1_.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント上昇：&lt;/b&gt;
-1.25倍→1.0倍（-20％）
-&lt;b&gt;💥パワーショットのダメージ：&lt;/b&gt;+18％&lt;/p&gt;
-&lt;p&gt;限界突破時のヒットポイントを減少させる代わりにパワーショットのダメージを再び上昇させ、ハイリスク・ハイリターンなカードに仕上げます。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破バーバリアン&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7dLmoEB0enXcxUA4Gc5vK1/b16d3ba1b8c7f78fd1713a5b7d05e1d4/barbsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;**❤️ヒットポイント上昇：**1.25倍→1.1倍（-12％）
-**⏱️強化の持続時間：**2秒→3秒（+50％）&lt;/p&gt;
-&lt;p&gt;ヒットポイント上昇率が、他の近接系限界突破カードと同水準まで低下しますが、ファイアボールの一撃に耐えられるだけの耐久力は残してあります。また、強化の持続時間を延長させたので、集団戦でさらに多くの敵を切り伏せてくれるはずです。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破コウモリ&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1GU3WFoB3ZqCdstrOFZd4N/c6a0bdf25de1e8e4138f9d5f1a035839/batsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️初撃速度上昇：&lt;/b&gt;
-0.3秒→0.6秒（+100％）&lt;/p&gt;
-&lt;p&gt;大ダメージを与える可能性は残していますが、その力を最大限に発揮するには、より多くのサポートが必要でしょう。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破攻城バーバリアン&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/AQAX9f6WC5SU6dJk98TlK/2a54a6a1336905dbdcf7c6ed72ee567a/battleramevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🫸&lt;b&gt;重量級ユニット&lt;/b&gt;（P.E.K.K.A、マイティディガーなど）への&lt;b&gt;ノックバックを削除&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;ℹ️&lt;/b&gt;限界突破バーバリアンへの調整は、攻城バーバリアンにも適用されます。&lt;/p&gt;&lt;p&gt;P.E.K.K.Aやマイティディガーのような重量級ユニットへのノックバックがなくなるため、対処がある程度容易になるでしょう。ですが、その秘めたるポテンシャルは健在です。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破ボンバー&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🔄サイクル：&lt;/b&gt;
-1→2（+100％）&lt;/p&gt;
-&lt;p&gt;2サイクルになることで、出すだけでいいカードではなく、さらなる戦略性が求められるようになります。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破ロケット砲士&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RCKxx4SShYEM99tGgaQcu/db16e565c20f633a9f00d7f86fb958e1/firecrackerevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント上昇：&lt;/b&gt;
-1.3倍→1.0倍（-23％）
-&lt;b&gt;💥⏱️火花（大）の持続時間：&lt;/b&gt;
-2.5秒→3秒（+20％）&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;💥⏱️火花（小）の持続時間：&lt;/b&gt;
-2秒→2.5秒（+25％）
-🐢&lt;b&gt;移動速度低下（15％）効果&lt;/b&gt;を追加&lt;/p&gt;&lt;p&gt;限界突破ロケット砲士は、より強力な攻撃性能を得た代わりに、ヒットポイント上昇率が低下します。さらにロケット砲の火花に、ポイズンと同様に15％の移動速度低下効果が追加されます。持続時間増加＋移動速度低下のシナジーにより、そのダメージは間接的に強化されるはずです。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破ナイト&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/UvZi04bi0o024a8DJ2ks6/a4ba12689e06108885a8f4feace80d0d/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント上昇：&lt;/b&gt;
-1.2倍→1.1倍（-8％）&lt;/p&gt;
-&lt;p&gt;限界突破ナイトは、強力なダメージ軽減能力に加えてステータスも及第点以上と、コストパフォーマンスに優れています。ヒットポイント上昇率を、他の近接系限界突破カードと同水準に調節することで、タンクとしての性能がヒットポイントよりも能力に依存したものになるでしょう。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破迫撃砲&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lfmecFbx84dIbQNhAyh1l/c781c94e20ddd508fc5b2f1484d6de9c/mortarevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント上昇：&lt;/b&gt;
-1.2倍→1.0倍（-17％）&lt;/p&gt;
-&lt;p&gt;限界突破時の攻撃速度とダメージは、通常の迫撃砲よりも高性能です。今回の調整により、プレイヤーの皆さまには、か弱い迫撃砲を全力で守る白馬の騎士になっていただきたいと思います。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ロイヤルジャイアント（+ 限界突破）&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYeTJoHN7fMq5IwH3A7vB/49b351604dbd28cb13d91bfc593f5c1b/rg_rgevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ロイヤルジャイアントのヒットポイント：&lt;/b&gt;
-3072→3164（+3％）
-&lt;b&gt;❤️限界突破時のヒットポイント上昇：&lt;/b&gt;
-1.1倍→1.0倍（-10％）&lt;/p&gt;
-&lt;h1&gt;見習い親衛隊（+ 限界突破）&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2D6VJCZSIitl2zbQOFsjHz/ee3dbaa6ae5a7af2df4a30cd83054c62/rrec_rrecevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️見習い親衛隊のヒットポイント：&lt;/b&gt;
-532→547（+3％）
-&lt;b&gt;❤️限界突破時のヒットポイント上昇：&lt;/b&gt;
-1.11倍→1.0倍（-10％）&lt;/p&gt;
-&lt;p&gt;エリクサーコスト6以上のユニットとしては、通常時と限界突破時の能力の開きが大きすぎたため、通常時の性能を若干強化することで、この差を埋めたいと考えています。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破スケルトン&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/45Z1nYQ2KLRaysGKYACib/304b410d7d0e1f6e88190422c1478af8/skeletonsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️初撃速度上昇：&lt;/b&gt;
-0.4秒→0.5秒（+25％）&lt;/p&gt;
-&lt;p&gt;限界突破コウモリと同様に初撃速度が遅くなるため、力を最大限に発揮するには、他のカードによるサポートが必要となるでしょう。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破テスラ&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント上昇：&lt;/b&gt;
-1.2倍→1.0倍（-17％）
-&lt;b&gt;⚡破壊されると電磁パルスを発生するように調整。&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;限界突破テスラの利点は、ほぼヒットポイント上昇のみであり、売りである電磁パルスも1度しか発生しないのが常でした。今後は、電磁パルスを配置時に1回、さらに破壊時に1回、少なくとも計2回発生させるようになります。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破バルキリー&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oq0jbv3iyUHZlnIZ9dnkR/f6d458ce4cbf94196e3241876586c9b2/valkevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント上昇：&lt;/b&gt;
-1.15倍→1.1倍（-4％）
-&lt;b&gt;💥トルネードのダメージ：&lt;/b&gt;
-76→84（+11％）&lt;/p&gt;
-&lt;p&gt;ヒットポイントを減少させ、他の近接系限界突破ユニットと同水準の性能に調整します。さらにトルネードの威力が上昇し、1回の攻撃でスケルトンとコウモリを撃破できるようになります。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破ウォールブレイカー&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7g4QhbMobKAWYIgsFR9qh5/d479926b33e145b510b66d918caf948e/wallbreakersevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥ランナーのダメージ：&lt;/b&gt;
-392→196（-50％）
-&lt;b&gt;⏱️ランナーの速度：&lt;/b&gt;
-はやい→とてもはやい&lt;/p&gt;
-&lt;p&gt;限界突破ウォールブレイカーは対処が難しいうえ、壊滅的なダメージを与えることが可能でした。このユニットの真骨頂はダメージではなく耐久力にあるため、ダメージ上昇効果を取り消します。その代わり、名前負けしないようにランナーの足を速くします。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破ザップ&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/GgCsLp0UrgdaPWVzJ3SHS/4d45563694b168396046eda5ef1ddadb/zapevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥2回目と3回目のザップのダメージ：&lt;/b&gt;
-1倍→0.5倍（-50％）&lt;/p&gt;
-&lt;p&gt;限界突破ザップの強さの根源は、その高ダメージにありました。今回の調整でダメージは低下するものの、スタン効果は健在なので、まだまだ使い道はあります。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ブラスター&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f4fgO90PDZyHeifrHWv1K/64faed848aef44d2f1681d16bbd3ce3d/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥ダメージ：&lt;/b&gt;
-422→401（-5％）&lt;/p&gt;
-&lt;p&gt;ブラスターは単体でも強力ですが、2つのタワーから同時に攻撃する際の火力は凶悪そのもので、対峙するユニットはひとたまりもありませんでした。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ダガーガール&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5yxT4j5DRq4Hx4LGKYzk3D/9ac3e07a1e14fac3cc422c20a40cb3aa/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント：&lt;/b&gt;
-3204→2768（-14％）&lt;/p&gt;
-&lt;p&gt;ダガーガールは明確な弱点を持つ半面、ヒットポイントの高さから意外にガードが堅く、つけこむ隙をあまり見せてくれませんでした。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;エリクサーポンプ&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3gfMMjCrkyMhYldgOnbTWC/be44f69079298330eb296b16203b2ea6/elixircol.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️生産速度：&lt;/b&gt;
-9秒→12秒（+33％）
-&lt;b&gt;⏱️❤️稼働時間：&lt;/b&gt;
-1分5秒→1分26秒（+32％）&lt;/p&gt;
-&lt;p&gt;エリクサーの生産量は変わりませんが、生成間隔が以前よりも長くなります。エリクサーポンプとダガーガールは、エリクサーが1倍の際に最も力を発揮します。この2枚のカードには強力なシナジーがあるため、バランス調整の際は2枚をセットで考える必要がありました。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ゴブリンドリル&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1SasChghB3GEWD581b1hiv/20f9b45fba067dbc4892d208c7bb2c2f/goblindrill.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️1体目のゴブリンが出現するまでの時間：&lt;/b&gt;
-0.5秒→0.8秒（+60％）&lt;/p&gt;
-&lt;p&gt;これまでは1体目のゴブリンの出現があまりにも早く、ゴブリンドリルの配置場所を予測しない限り、その対処は困難でした。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ポイズン&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53SGVQmC6XmZVf2m7pifQa/30a2d325a3dfc46f988f8a79209592ab/poison.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;👑💥タワーへの毎秒ダメージ：&lt;/b&gt;
-28→23（-18％）&lt;/p&gt;
-&lt;p&gt;ポイズンは効果的な呪文ですが、サドンデス時は必勝パターンのキーカードとして、毒々しいほど大きな存在感を放っていました。ポイズンばかりに頼らず、他のカードによる勝利を模索してもらうため、クラウンタワーへのダメージを低下させます。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2ikC5jHcoD2RU9oEavpmNH</guid>
-      <category>リリース情報</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 07 May 2024 08:01:31 +0000</pubDate>
     </item>
     <item>
       <title>限界突破ウィザードの秘話🔥</title>
@@ -668,12 +525,12 @@
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6BM76Me80A5hqnSYwArnzC/28186a15692b3bf42135b0c7a6b97445/goldrush_gold.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;ゴールドはお好きですか？それならタワーを破壊しましょう！&lt;/p&gt;&lt;p&gt;アリーナレベルに応じて最大&lt;b&gt;120,000ゴールド&lt;/b&gt;をゲットできます！&lt;/p&gt;
-&lt;p&gt;イベントで獲得できるゴールドには、1日あたりの上限があります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**アリーナ1～4：**5,000ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**アリーナ5～7：**10,000ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**アリーナ8～10：**15,000ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**アリーナ11以上：**20,000ゴールド&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;イベントで獲得できるゴールドには、1日あたりの上限があります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;アリーナ1～4：&lt;/b&gt;5,000ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;アリーナ5～7：&lt;/b&gt;10,000ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;アリーナ8～10：&lt;/b&gt;15,000ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;アリーナ11以上：&lt;/b&gt;20,000ゴールド&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;マイルストーンイベント！&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4q7KsMmYLaBp0FGJIQyCMh/bcafaa9a60c68155a69f448565571a5e/shop_gold.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;ゴールドを使った分だけ報酬をゲット！何も難しいことはありません！&lt;/p&gt;
-&lt;p&gt;ゴールドの消費目標と報酬内容は以下の通りです。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**5,000ゴールド：**金の宝箱 x1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**10,000ゴールド：**ノーマルカード（ランダム）x500&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**20,000ゴールド：**宝箱のカギ x5&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**50,000ゴールド：**レアカード（ランダム）x100&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**100,000ゴールド：**魔法の宝箱 x1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**200,000ゴールド：**スーパーレアカード（ランダム） x50&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**300,000ゴールド：**巨大宝箱 x1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**450,000ゴールド：**ウルトラレアワイルドカード x3&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**600,000ゴールド：**ロイヤルワイルド宝箱&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**750,000ゴールド：**ウルトラレアキング宝箱（アリーナレベルが10以下の場合はキング宝箱） x1&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;ゴールドの消費目標と報酬内容は以下の通りです。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;5,000ゴールド：&lt;/b&gt;金の宝箱 x1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10,000ゴールド：&lt;/b&gt;ノーマルカード（ランダム）x500&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;20,000ゴールド：&lt;/b&gt;宝箱のカギ x5&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50,000ゴールド：&lt;/b&gt;レアカード（ランダム）x100&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100,000ゴールド：&lt;/b&gt;魔法の宝箱 x1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;200,000ゴールド：&lt;/b&gt;スーパーレアカード（ランダム） x50&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;300,000ゴールド：&lt;/b&gt;巨大宝箱 x1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;450,000ゴールド：&lt;/b&gt;ウルトラレアワイルドカード x3&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;600,000ゴールド：&lt;/b&gt;ロイヤルワイルド宝箱&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;750,000ゴールド：&lt;/b&gt;ウルトラレアキング宝箱（アリーナレベルが10以下の場合はキング宝箱） x1&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xWqCvSX31cjCIFk9QasKo/c521065e1b7ee4f304ed95127ce5021f/7e1f924747ef092d8d020c68ef0649c3.gif?w=300&amp;h=295&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;いざ戦場へ向かい、ゴールドをがっつり稼ぎましょう！&lt;/p&gt;&lt;p&gt;それでは、アリーナでお待ちしています！
 クラッシュ・ロワイヤル開発チーム&lt;/p&gt;</description>
@@ -681,6 +538,17 @@
       <category>ニュース</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/56ffjmXw9LC2VqyIeZs0JI/0fbd990a68fceab012f2fabb3ef18c35/goldfestthumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Sun, 04 Aug 2024 15:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>8月のイベント＆チャレンジ</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ja/news/2brc35wE6cJuyUc8dDojz6</link>
+      <description>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;ゴブリンの檻ドラフト&lt;/b&gt; &lt;b&gt;（1対1＆協力バトル）：8月5日～12日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🥊青コーナー、体重88キロ。怒りの権化、リベンジゴブリーーーン！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️チャレンジ：8月9日～12日&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆報酬：バナー&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;カモフラブッシュ&lt;/b&gt; &lt;b&gt;（1対1＆協力バトル）：8月12日～19日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🌳今一瞬、茂みが動いた気が… ちょっかいを出すと独りでに動く茂みがアリーナ中に出現します！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️チャレンジ：8月16日～19日&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆報酬：バナー&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;スーパーカードドラフト&lt;/b&gt; &lt;b&gt;：8月19日～26日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;⭐スーパーカードをドラフトしてデッキを組みましょう！通常のドラフトバトルと同じルールが適用されます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️チャレンジ：8月23日～26日&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆報酬：バナー&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;限界突破フィーバー&lt;/b&gt; &lt;b&gt;（1対1＆協力バトル）：8月26日～9月2日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;限界突破スロットが8枠に！あなたも、お隣さんも、そのまたお隣さんも！全員に限界突破スロットを1つ追加！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️チャレンジ：8月30日～9月2日&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆報酬：バナー&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4APRaqy9RzEVFgvHAk029E/c16bd80ef41a9f76815933612f060153/62_GoblinWave_FG.png?w=376&amp;h=248&amp;f=center&amp;fit=fill"&gt;</description>
+      <guid isPermaLink="false">2brc35wE6cJuyUc8dDojz6</guid>
+      <category>リリース情報</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66e1yEdbiGX6wl8hhGjsKh/7b9b0f079385200e73d9d2ce51cec312/CR_S62_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 05 Aug 2024 10:28:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-eventEntries-pt</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-08-05T09:30:57.916557+00:00</updated>
+  <updated>2024-08-05T10:35:06.299710+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -46,12 +46,13 @@
     <published>2024-05-28T17:00:03+00:00</published>
   </entry>
   <entry>
-    <id>DpYm0BKU6JZzbqCoY42Gx</id>
-    <title>ATUALIZAÇÃO DA RAINHA GOBLIN</title>
-    <updated>2024-08-02T08:15:11.463000+00:00</updated>
+    <id>4oZL9FUBj0tPSTo0OqbD8l</id>
+    <title>TEMPORADA DE AGOSTO</title>
+    <updated>2024-08-05T10:29:01.464000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="https://www.youtube.com/watch?v=Fh-z_EhbtL4"&gt;👉Assistir!👈&lt;/a&gt; -- &lt;a href="https://clashroyale.inbox.supercell.com/#/pt/news/tu0og4AGbhV2bBGq074TK"&gt;👉Ler!👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/P3mr2Ig82tnMt5tG98lIV/8a5041d1ae577fc0af0b4b5de9d4f177/CR_S60_Season_Carousel_Image_GoblinQueen.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <published>2024-06-17T10:12:24+00:00</published>
+&lt;a href="https://clashroyale.inbox.supercell.com/#/pt/news/2brc35wE6cJuyUc8dDojz6"&gt;👉LER👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4SfohKa2qw63fuBBAJoIw6/aae08056c08197f09288cc6b65e02772/CR_S62_Season_Carousel_Image.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/2brc35wE6cJuyUc8dDojz6"/>
+    <published>2024-08-05T10:27:45+00:00</published>
   </entry>
 </feed>

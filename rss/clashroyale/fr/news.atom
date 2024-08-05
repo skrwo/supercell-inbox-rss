@@ -2,154 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-05T09:30:59.152089+00:00</updated>
+  <updated>2024-08-05T10:35:07.261261+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>2ikC5jHcoD2RU9oEavpmNH</id>
-    <title>Changements d'équilibrage de mai !</title>
-    <updated>2024-05-14T07:55:43.983000+00:00</updated>
-    <content>&lt;p&gt;Dans les changements d&amp;#39;équilibrage de mai, nous nous concentrons sur les évolutions. Actuellement, les évolutions sont trop puissantes, encourageant les joueurs à les déployer aussi souvent que possible pendant la partie. Au final, ce sont les évolutions qui, bien souvent, déterminent l&amp;#39;issue d&amp;#39;un match. Les évolutions sont bien plus déployées que les cartes classiques, et infligent des dégâts disproportionnés par rapport à leurs versions non évoluées.&lt;/p&gt;&lt;p&gt;Les changements d&amp;#39;équilibrage suivants visent à concentrer la puissance des évolutions sur leurs capacités uniques, plus que sur leurs stats. Ainsi, nous souhaitons encourager une approche plus stratégique envers les évolutions et leurs fonctionnalités.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Archères évoluées&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ABRfb0yuc0u5mRL68KRM5/c158c32f69d1570ab0d188d888a02d3c/archers-ev1__1_.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie bonus :&lt;/b&gt;
-1,25x → 1,0x (-20 %)
-&lt;b&gt;💥 Dégâts du tir renforcé :&lt;/b&gt; +18 %&lt;/p&gt;
-&lt;p&gt;Nous retirons quelques points de vie aux archères évoluées pour leur offrir un peu de puissance. Les jouer deviendra plus risqué, mais aussi plus gratifiant si elles sont placées au bon moment.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Barbares évolués&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7dLmoEB0enXcxUA4Gc5vK1/b16d3ba1b8c7f78fd1713a5b7d05e1d4/barbsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie bonus :&lt;/b&gt; 1,25x → 1,1x (-12 %)
-&lt;b&gt;⏱️ Durée du boost :&lt;/b&gt; 2sec → 3sec (+50 %)&lt;/p&gt;
-&lt;p&gt;Les points de vie bonus des barbares seront plus proches de ceux des autres évolutions de mêlée. Ils pourront encore survivre à une boule de feu. Leur buff durera plus longtemps pour les aider à atteindre de nouvelles cibles lorsqu&amp;#39;ils attaquent plusieurs troupes.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Chauves-souris évoluées&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1GU3WFoB3ZqCdstrOFZd4N/c6a0bdf25de1e8e4138f9d5f1a035839/batsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Vitesse bonus de la première frappe :&lt;/b&gt;
-0,3sec → 0,6sec (+100 %)&lt;/p&gt;
-&lt;p&gt;Les chauves-souris évoluées auront le même potentiel, mais il leur faudra plus de soutien pour le réaliser.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Bélier de combat évolué&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/AQAX9f6WC5SU6dJk98TlK/2a54a6a1336905dbdcf7c6ed72ee567a/battleramevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🫸 &lt;b&gt;Suppression du recul&lt;/b&gt; pour les &lt;b&gt;troupes lourdes&lt;/b&gt; (ex : P.E.K.K.A, Maître mineur)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;ℹ️&lt;/b&gt; Les changements d&amp;#39;équilibrage des barbares évolués s&amp;#39;appliquent également aux barbares du bélier de combat.&lt;/p&gt;&lt;p&gt;Le bélier de combat évolué pourra être contré plus facilement, car les troupes lourdes adverses ne seront plus projetées en arrière, mais il aura toujours le même potentiel.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Bombardier évolué&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🔄 Cycles :&lt;/b&gt;
-1 → 2 (+100 %)&lt;/p&gt;
-&lt;p&gt;Le bombardier évolué devient une évolution à 2 cycles pour encourager les joueurs à moins le spammer et à le jouer plus stratégiquement.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Artificière évoluée&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RCKxx4SShYEM99tGgaQcu/db16e565c20f633a9f00d7f86fb958e1/firecrackerevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie bonus :&lt;/b&gt;
-1,3x → 1,0x (-23 %)
-&lt;b&gt;💥⏱️ Durée des grosses étincelles :&lt;/b&gt;
-2,5sec → 3sec (+20 %)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;💥⏱️ Durée des petites étincelles :&lt;/b&gt;
-2sec → 2,5sec (+25 %)
-🐢 Ajout d&amp;#39;un effet de &lt;b&gt;ralentissement des déplacements de 15 %&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nous retirons également à l&amp;#39;artificière évoluée une partie de ses points de vie, pour lui donner plus de puissance. Ses étincelles ralentissent également les déplacements de 15 %, comme le poison. La durée augmentée des étincelles rendra le ralentissement plus efficace et améliorera indirectement les dégâts de l&amp;#39;artificière.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Chevalier évolué&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/UvZi04bi0o024a8DJ2ks6/a4ba12689e06108885a8f4feace80d0d/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie bonus :&lt;/b&gt;
-1,2x → 1,1x (-8 %)&lt;/p&gt;
-&lt;p&gt;En plus de sa capacité à réduire les dégâts infligés par ses ennemis, le chevalier a de très bonnes stats pour son coût. Nous rendons les dégâts de toutes les évolutions de mêlée à peu près au même niveau, donc la résistance du chevalier viendra désormais de sa capacité, et non pas ses points de vie bonus.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Mortier évolué&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lfmecFbx84dIbQNhAyh1l/c781c94e20ddd508fc5b2f1484d6de9c/mortarevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie bonus :&lt;/b&gt;
-1,2x → 1,0x (-17 %)&lt;/p&gt;
-&lt;p&gt;Notre but est que les joueurs essaient davantage de défendre leur mortier évolué, dans la mesure où son attaque est bien plus rapide et puissante que celle du mortier basique.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Géant royal et son évolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYeTJoHN7fMq5IwH3A7vB/49b351604dbd28cb13d91bfc593f5c1b/rg_rgevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie du géant royal :&lt;/b&gt;
-3 072 → 3 164 (+3 %)
-&lt;b&gt;❤️ Points de vie bonus de son évolution :&lt;/b&gt;
-1,1x → 1,0x (-10 %)&lt;/p&gt;
-&lt;h1&gt;Recrues royales et leur évolution&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2D6VJCZSIitl2zbQOFsjHz/ee3dbaa6ae5a7af2df4a30cd83054c62/rrec_rrecevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie des recrues royales :&lt;/b&gt;
-532 → 547 (+3 %)
-&lt;b&gt;❤️ Points de vie bonus de son évolution :&lt;/b&gt;
-1,11x → 1,0x (-10 %)&lt;/p&gt;
-&lt;p&gt;La différence entre les géants royaux, les recrues royales et leurs versions basiques respectives, était trop grande, surtout pour plus de 6 unités d&amp;#39;élixir. Nous voulons réduire l&amp;#39;écart de manière moins extrême et compenser en rendant leur carte de base un peu plus forte.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Squelettes évolués&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/45Z1nYQ2KLRaysGKYACib/304b410d7d0e1f6e88190422c1478af8/skeletonsevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Bonus de vitesse de frappe initiale :&lt;/b&gt;
-0,4sec → 0,5sec (+25 %)&lt;/p&gt;
-&lt;p&gt;Comme les chauves-souris évoluées, l&amp;#39;évolution des squelettes perd son bonus de vitesse de frappe initiale superflu et aura besoin de plus de soutien pour atteindre son maximum.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Tesla évoluée&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie bonus :&lt;/b&gt;
-1,2x → 1,0x (-17 %)
-&lt;b&gt;⚡ La tesla évoluée émettra également une impulsion électrique lorsqu&amp;#39;elle est détruite.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;La tesla évoluée tirait la plupart de sa valeur de ses points de vie bonus, et produisait généralement une seule impulsion électrique. La tesla évoluée émettra toujours au moins deux impulsions électriques, une à son déploiement, et une à sa destruction.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Valkyrie évoluée&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oq0jbv3iyUHZlnIZ9dnkR/f6d458ce4cbf94196e3241876586c9b2/valkevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie bonus :&lt;/b&gt;
-1,15x → 1,1x (-4 %)
-&lt;b&gt;💥 Dégâts de la tornade :&lt;/b&gt;
-76 → 84 (+11 %)&lt;/p&gt;
-&lt;p&gt;La valkyrie évoluée va voir ses points de vie diminuer légèrement pour l&amp;#39;aligner aux autres évolutions de mêlée. Sa tornade détruira désormais les squelettes et les chauves-souris en un coup.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Sapeurs évolués&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7g4QhbMobKAWYIgsFR9qh5/d479926b33e145b510b66d918caf948e/wallbreakersevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 Dégâts du mini-coureur :&lt;/b&gt;
-392 → 196 (-50 %)
-&lt;b&gt;⏱️ Vitesse du mini-coureur&lt;/b&gt;
-Rapide → Très rapide&lt;/p&gt;
-&lt;p&gt;Les sapeurs évolués étaient très difficiles à contrer et infligeaient beaucoup plus de dégâts. Puisque leur principe est de survivre longtemps, nous supprimons les dégâts bonus et les rendons plus rapides.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Électrocution évoluée&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/GgCsLp0UrgdaPWVzJ3SHS/4d45563694b168396046eda5ef1ddadb/zapevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 Dégâts de la 2e et 3e électrocution :&lt;/b&gt;
-1x → 0,5x (-50 %)&lt;/p&gt;
-&lt;p&gt;La force de l&amp;#39;électrocution évoluée venait de ses dégâts élevés. Ce nerf lui permettra de se concentrer sur sa capacité d&amp;#39;étourdissement à la place.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Canonnier&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f4fgO90PDZyHeifrHWv1K/64faed848aef44d2f1681d16bbd3ce3d/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;💥 Dégâts :&lt;/b&gt;
-422 → 401 (-5 %)&lt;/p&gt;
-&lt;p&gt;Le canonnier infligeait trop de dégâts, surtout quand les deux tours de princesse visaient une cible.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Duchesse aux dagues&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5yxT4j5DRq4Hx4LGKYzk3D/9ac3e07a1e14fac3cc422c20a40cb3aa/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie :&lt;/b&gt;
-3 204 → 2 768 (-14 %)&lt;/p&gt;
-&lt;p&gt;Les points faibles, mêmes clairs, étaient difficile à exploiter à cause des points de vie élevés de la duchesse aux dagues.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Extracteur d'élixir&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3gfMMjCrkyMhYldgOnbTWC/be44f69079298330eb296b16203b2ea6/elixircol.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Vitesse de production :&lt;/b&gt;
-9sec → 12sec (+33 %)
-&lt;b&gt;⏱️❤️ Durée de vie :&lt;/b&gt;
-1min 5sec → 1min 26sec (+32 %)&lt;/p&gt;
-&lt;p&gt;L&amp;#39;extracteur d&amp;#39;élixir produira la même quantité d&amp;#39;élixir, mais en plus de temps. L&amp;#39;extracteur d&amp;#39;élixir et la duchesse aux dagues sont tous les deux plus puissants lorsque vous êtes à 1 unité d&amp;#39;élixir. Maintenant que les decks autour de l&amp;#39;extracteur d&amp;#39;élixir ont une troupe de tour qui fonctionne en tandem avec eux, il doit être revu pour mieux s&amp;#39;équilibrer avec la duchesse aux dagues.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Foreuse gobeline&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1SasChghB3GEWD581b1hiv/20f9b45fba067dbc4892d208c7bb2c2f/goblindrill.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Premier gobelin :&lt;/b&gt;
-0,5sec → 0,8sec (+60 %)&lt;/p&gt;
-&lt;p&gt;Le premier gobelin apparaissait trop rapidement, ce qui rendait la foreuse gobeline difficile à contrer sans prédire l&amp;#39;emplacement du gobelin.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Poison&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53SGVQmC6XmZVf2m7pifQa/30a2d325a3dfc46f988f8a79209592ab/poison.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;👑💥 Dégâts aux tours couronnées/sec :&lt;/b&gt;
-28 → 23 (-18 %)&lt;/p&gt;
-&lt;p&gt;Le poison en tant que condition de victoire en mort subite est trop efficace. Nous réduisons les dégâts infligés par le poison aux tours couronnées pour encourager les joueurs à gagner d&amp;#39;autres manières.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/2ikC5jHcoD2RU9oEavpmNH"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notes de patch"/>
-    <published>2024-05-07T08:01:31+00:00</published>
-  </entry>
   <entry>
     <id>63XcJZv49gELlwyacBl6MR</id>
     <title>Nouveau lore du 🔥 sorcier évolué</title>
@@ -510,5 +366,17 @@ L&amp;#39;équipe de Clash Royale&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JimwbJYL8scbt795JdFA4/2b3e6fde5f791a4a08dcd8bff92742cd/gqj_changes_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notes de patch"/>
     <published>2024-07-29T09:29:02+00:00</published>
+  </entry>
+  <entry>
+    <id>2brc35wE6cJuyUc8dDojz6</id>
+    <title>DÉFIS ET ÉVÉNEMENTS D'AOÛT</title>
+    <updated>2024-08-05T10:29:57.442000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Tirage de la cage gobeline&lt;/b&gt; &lt;b&gt;(1c1 et 2c2) : du 5 au 12 août&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🥊 Dans le coin bleu, 90 kilos de pure rage gobeline. C&amp;#39;est le GOBELIN FÉLON !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Défi : du 9 au 12 août&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Récompense : bannière&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Invocation du buisson gobelin&lt;/b&gt; &lt;b&gt;(1c1 et 2c2) : du 12 au 19 août&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🌳 Ce buisson a bougé, non ? Des buissons apparaissent dans l&amp;#39;arène et prennent vie quand ils sont dérangés.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Défi : du 16 au 19 août&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Récompense : bannière&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Tirage de super carte&lt;/b&gt; &lt;b&gt;: du 19 au 26 août&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;⭐ Choisissez une super carte et créez un deck pour l&amp;#39;accompagner ! Les règles classiques du combat en tirage s&amp;#39;appliquent.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Défi : du 23 au 26 août&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Récompense : bannière&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Évos en folie&lt;/b&gt; &lt;b&gt;(1c1 et 2c2) : du 26 août au 2 septembre&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Huit emplacements d&amp;#39;évolution ! Un emplacement d&amp;#39;évolution pour toi, un pour toi, et un pour toi... Un emplacement d&amp;#39;évolution pour tout le monde !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Défi : du 30 août au 2 septembre&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Récompense : bannière&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4APRaqy9RzEVFgvHAk029E/c16bd80ef41a9f76815933612f060153/62_GoblinWave_FG.png?w=376&amp;h=248&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/2brc35wE6cJuyUc8dDojz6"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66e1yEdbiGX6wl8hhGjsKh/7b9b0f079385200e73d9d2ce51cec312/CR_S62_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notes de patch"/>
+    <published>2024-08-05T10:28:02+00:00</published>
   </entry>
 </feed>
