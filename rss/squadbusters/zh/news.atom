@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-06T09:30:19.355596+00:00</updated>
+  <updated>2024-08-06T10:36:15.793162+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -392,5 +392,15 @@
     <link href="https://youtu.be/mFCTcEr5L6o"/>
     <category term="最新情報"/>
     <published>2024-08-02T11:02:24+00:00</published>
+  </entry>
+  <entry>
+    <id>6QG019l0Ff0Fb4jY0YxCN5</id>
+    <title>【691】潔西三星炮台海超強！搭配商人效益高！</title>
+    <updated>2024-08-06T10:22:07.916000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/6QG019l0Ff0Fb4jY0YxCN5"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1Ae9NWN66NSDvln8wLm7ni/02fca83f3235da4ee980eef308b8af52/tw_20240806_691_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=YKoDOSslPnk"/>
+    <category term="最新情報"/>
+    <published>2024-08-06T10:20:00+00:00</published>
   </entry>
 </feed>
