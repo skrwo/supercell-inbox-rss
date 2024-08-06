@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Aug 2024 07:29:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 08:33:45 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -566,7 +566,9 @@
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;&lt;b&gt;❤️ヒットポイント：&lt;/b&gt;
 720→754（+5％）
-**🛡️シールドのヒットポイント（限界突破）：**296→190（-36％）&lt;/p&gt;
+
+&lt;b&gt;🛡️シールドのヒットポイント（限界突破）：&lt;/b&gt;
+296→190（-36％）&lt;/p&gt;
 &lt;p&gt;限界突破ウィザードのシールドは非常に高い防御力を誇っており、処理するにはコストの高い呪文を使用する必要がありました。今後はザップのような低コストの呪文でも、シールドを破壊できます。その代わり、ザップとポイズンのコンボなどでシールドもろとも簡単に撃破されることのないように、限界突破ウィザード自身のヒットポイントは増加しています。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;60式 ムート&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
@@ -580,7 +582,8 @@
 &lt;p&gt;エレクトロウィザードの召喚ダメージの範囲はアイスウィザードと同じになるため、使いどころが増えてより強力なカードになるでしょう。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;ゴブリンマシン&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;**🚀ロケットの攻撃速度：**4秒→3.5秒（-13％）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;🚀ロケットの攻撃速度：&lt;/b&gt;
+4秒→3.5秒（-13％）&lt;/p&gt;
 &lt;p&gt;ゴブリンマシンはヒットポイントの弱体化以来、ロケットを十分に活かしきれていませんでした。今回の変更はロケットの攻撃速度を上昇させて、ダメージの期待値を上げることが狙いです。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;ハンター&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
