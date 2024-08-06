@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-eventEntries-en</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-08-06T20:29:01.467078+00:00</updated>
+  <updated>2024-08-06T21:29:05.065068+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
