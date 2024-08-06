@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-06T06:39:33.443910+00:00</updated>
+  <updated>2024-08-06T07:29:02.329258+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -513,7 +513,7 @@ Clash Royale Team&lt;/p&gt;</content>
   <entry>
     <id>2OKjyw47ufTcHhNLWJYphg</id>
     <title>Goblin Cage Evolution!</title>
-    <updated>2024-08-05T05:17:14.328000+00:00</updated>
+    <updated>2024-08-06T07:12:47.742000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/en/news/2OKjyw47ufTcHhNLWJYphg"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77Z4EZo5OcR14sX6g25OwB/5d1af1a09bbf4cbe6aaee22904d82258/goblin_cageevogameplay.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/nkyG75ZlIuI?feature=share"/>
@@ -558,5 +558,66 @@ The Clash Royale Team&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66e1yEdbiGX6wl8hhGjsKh/7b9b0f079385200e73d9d2ce51cec312/CR_S62_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-08-05T10:28:02+00:00</published>
+  </entry>
+  <entry>
+    <id>7tsOWldvk9OFywINNn3Kon</id>
+    <title>August Balance Changes!</title>
+    <updated>2024-08-06T07:15:03.189000+00:00</updated>
+    <content>&lt;h1&gt;Arrows&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Crown Tower Damage&lt;/b&gt;&lt;b&gt;:&lt;/b&gt; 
+111 → 93 (-16%)&lt;/p&gt;
+&lt;p&gt;It is trivial to hit opposing towers while getting full value with Arrows, so we are reducing its Crown Tower Damage to make the chip damage less impactful towards the outcome of a match.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblin Drill Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Removed extra Goblin spawn from 2nd submerge&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Drill Evolution cycle decks have been popular due to its nearly guaranteed Crown Tower Damage. We are removing one of the extra Goblins that spawn from Drill Evolution to encourage decks to rely a little more on other sources of damage.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Wizard&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Hit Points: &lt;/b&gt;
+720 → 754 (+5%)
+&lt;b&gt;🛡️ Shield HP (Evo): &lt;/b&gt;296 → 190 (-36%)
+&lt;/p&gt;
+&lt;p&gt;Wizard Evolution was too strong on defense, as only expensive spells could favorably interact with its Shield. Now, the Shield will be destroyed by small spells such as Zap. Wizard is getting a base HP buff to survive Poison, especially so combinations such as Zap and Poison won&amp;#39;t counter Wizard Evolution.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Cannon Cart&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Shielded Cannon Hit Speed: &lt;/b&gt;
+1sec → 0.9sec (-10%)&lt;/p&gt;
+&lt;p&gt;Cannon Cart has been underused for a long time, so we&amp;#39;re buffing the hit speed to align the Shielded Cannon with the Broken Cannon and to make the card more viable.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Electro Wizard&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Deploy Damage Radius&lt;/b&gt;&lt;b&gt;: &lt;/b&gt;
+2.5 → 3 (+20%)&lt;/p&gt;
+&lt;p&gt;This buff aligns Electro Wizard&amp;#39;s and Ice Wizard&amp;#39;s deploy radiuses and aims to add power and usability to Electro Wizard&amp;#39;s deploy ability.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblin Machine&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;🚀 Rocket Hit Speed: &lt;/b&gt;4sec → 3.5sec (-13%)&lt;/p&gt;
+&lt;p&gt;Since Goblin Machine&amp;#39;s Hitpoints nerf, getting value from its Rocket attack has been too difficult. We&amp;#39;re buffing the Rocket&amp;#39;s hit speed to increase the Goblin Machine&amp;#39;s consistency.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Hunter&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Hit Points: &lt;/b&gt;
+838 → 884 (+6%)&lt;/p&gt;
+&lt;p&gt;Hunter is too vulnerable to melee troops and needs more Hit Points to fill its role as a close-ranged troop.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Ice Wizard&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Attack Splash Radius: 
+&lt;/b&gt;1 → 1.5 (+50%)&lt;/p&gt;
+&lt;p&gt;Ice Wizard relies heavily on its splash attack, especially as it is often combined with Tornado. We&amp;#39;re increasing the Splash Radius to make it a more consistent card.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Void&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Damage (1 target):&lt;/b&gt; 
+544 → 472 (-13%)&lt;/p&gt;&lt;p&gt;💥 &lt;b&gt;Damage 
+(5+ targets):&lt;/b&gt; 
+48 → 76 (+58%)&lt;/p&gt;
+&lt;p&gt;Void is too effective at getting positive Elixir trades, particularly against 4- and 5-cost ranged troops like Magic Archer, Electro Dragon, and Archer Queen. We&amp;#39;re balancing Void&amp;#39;s damage range by making it less effective at countering high-cost ranged troops and less embarrassing against swarms.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Skeleton Dragons&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Hit Points: &lt;/b&gt;
+563 → 560 (&amp;gt;1%)&lt;/p&gt;
+&lt;p&gt;There was an inconsistency in Wizard versus Skeleton Dragon interactions where Wizard would take one more hit to destroy Skeleton Dragons at level 11 compared to level 15. Now, Wizard will always take two hits to destroy Skeleton Dragons.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/7tsOWldvk9OFywINNn3Kon"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-08-06T07:13:51+00:00</published>
   </entry>
 </feed>

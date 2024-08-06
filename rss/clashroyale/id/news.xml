@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>id</language>
-    <lastBuildDate>Tue, 06 Aug 2024 06:39:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 07:29:01 +0000</lastBuildDate>
     <item>
       <title>Kisah Evolusi Penyihir 🔥</title>
       <link>https://youtube.com/shorts/TRiBhXUELnw?feature=share</link>
@@ -341,6 +341,65 @@ Tim Clash Royale&lt;/p&gt;</description>
       <category>Catatan Rilis</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66e1yEdbiGX6wl8hhGjsKh/7b9b0f079385200e73d9d2ce51cec312/CR_S62_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 05 Aug 2024 10:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perubahan Keseimbangan Agustus!</title>
+      <link>https://clashroyale.inbox.supercell.com/#/id/news/7tsOWldvk9OFywINNn3Kon</link>
+      <description>&lt;h1&gt;Panah&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Kerusakan Benteng Mahkota&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
+111 → 93 (-16%)&lt;/p&gt;
+&lt;p&gt;Kartu Panah tidak hanya dapat menghabisi unit lawan, tetapi juga mampu memberikan kerusakan pada Benteng Mahkota. Agar Kartu Panah tidak terlalu berpengaruh pada hasil akhir pertempuran, kami mengurangi Kerusakan Benteng Mahkota.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolusi Bor Goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Satu Goblin akan dikurangi dari kemunculan kedua ke permukaan&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Evolusi Bor Goblin banyak digunakan dalam Dek dengan siklus rotasi cepat karena hampir selalu bisa memberikan kerusakan pada Benteng Mahkota. Kami akan mengurangi satu Goblin yang muncul dari Evolusi Bor Goblin untuk mendorong pemain menggunakan sumber kerusakan lain dalam Dek mereka.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Penyihir&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Nyawa:&lt;/b&gt;
+720 → 754 (+5%)
+&lt;b&gt;🛡️ Nyawa Perisai (Evolusi):&lt;/b&gt; 296 → 190 (-36%)&lt;/p&gt;
+&lt;p&gt;Evolusi Penyihir terlalu kuat untuk digunakan sebagai pertahanan karena Perisai miliknya hanya bisa ditembus oleh Mantra dengan biaya Eliksir yang tinggi. Kini, Perisai miliknya dapat dihancurkan oleh Mantra yang lebih murah seperti Setrum. Nyawa Evolusi Penyihir akan ditingkatkan agar dia tidak mudah tumbang melawan Racun, terutama saat dikombinasikan dengan Mantra lain seperti Setrum.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Gerobak Meriam&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Kecepatan Serangan Meriam Saat Perisai Utuh:&lt;/b&gt;
+1 dtk → 0,9 dtk (-10%)&lt;/p&gt;
+&lt;p&gt;Sudah sekian lama Gerobak Meriam jarang digunakan. Jadi, kami meningkatkan kecepatan serangannya agar performa Meriam sebelum Perisai hancur dan setelah Perisai hancur bisa lebih seimbang, serta agar Kartu ini jadi lebih diminati.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Penyihir Elektro&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Radius Kerusakan Saat Dikerahkan&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
+2,5 → 3 (+20%)&lt;/p&gt;
+&lt;p&gt;Dengan peningkatan ini, kami ingin menyetarakan radius pengerahan Penyihir Elektro dengan Penyihir Es serta menjadikan kemampuan awal miliknya lebih kuat dan serbaguna.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mesin Goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;🚀 Kecepatan Serangan Roket:&lt;/b&gt; 4 dtk → 3.,5 dtk (-13%)&lt;/p&gt;
+&lt;p&gt;Sejak Nyawa Mesin Goblin dikurangi, kini meraih keunggulan menggunakan serangan Roket jadi lebih sulit. Kami meningkatkan kecepatan serangan Roket untuk membuat Mesin Goblin lebih kompeten.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Pemburu&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Nyawa:&lt;/b&gt;
+838 → 884 (+6%)&lt;/p&gt;
+&lt;p&gt;Pemburu terlalu lemah melawan Peleton jarak dekat sehingga memerlukan Nyawa lebih tinggi agar lebih berguna dalam pertempuran jarak dekat.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Penyihir Es&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Radius Serangan Percikan:&lt;/b&gt;
+1 → 1,5 (+50%)&lt;/p&gt;
+&lt;p&gt;Penyihir Es sangat mengandalkan serangan percikan, apalagi mengingat bahwa dia sering dikombinasikan dengan Tornado. Radius Percikan miliknya kini ditingkatkan supaya Kartu ini lebih dapat diandalkan.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mantra Hampa&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Kerusakan (1 target):&lt;/b&gt;
+544 → 472 (-13%)&lt;/p&gt;&lt;p&gt;💥 &lt;b&gt;Kerusakan&lt;/b&gt;
+&lt;b&gt;(5+ target):&lt;/b&gt;
+48 → 76 (+58%)&lt;/p&gt;
+&lt;p&gt;Mantra Hampa terlalu efektif untuk mendapatkan keunggulan Eliksir positif, terutama saat melawan Peleton jarak jauh berbiaya 4 dan 5 Eliksir seperti Pemanah Sihir, Naga Elektro, dan Ratu Pemanah. Kami akan menyeimbangkan jangkauan kerusakan Mantra Hampa dengan mengurangi efektivitas saat melawan Peleton jarak jauh berbiaya tinggi dan meningkatkan kekuatannya saat melawan unit kerumunan.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Naga Jerangkong&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Nyawa:&lt;/b&gt;
+563 → 560 (&amp;gt;1%)&lt;/p&gt;
+&lt;p&gt;Sebelumnya, terdapat inkonsistensi pada interaksi Penyihir versus Naga Jerangkong. Penyihir perlu dua serangan untuk menumbangkan Naga Jerangkong level 11, tetapi hanya perlu satu serangan untuk menumbangkan Naga Jerangkong level 15. Kini, Penyihir akan selalu memerlukan dua serangan untuk menumbangkan Naga Jerangkong.&lt;/p&gt;</description>
+      <guid isPermaLink="false">7tsOWldvk9OFywINNn3Kon</guid>
+      <category>Berita</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 06 Aug 2024 07:13:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

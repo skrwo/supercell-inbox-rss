@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-06T06:39:30.472024+00:00</updated>
+  <updated>2024-08-06T07:29:03.589873+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -434,5 +434,65 @@ Das Clash Royale-Team&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66e1yEdbiGX6wl8hhGjsKh/7b9b0f079385200e73d9d2ce51cec312/CR_S62_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Versionshinweise"/>
     <published>2024-08-05T10:28:02+00:00</published>
+  </entry>
+  <entry>
+    <id>7tsOWldvk9OFywINNn3Kon</id>
+    <title>Balanceänderungen im August!</title>
+    <updated>2024-08-06T07:15:03.189000+00:00</updated>
+    <content>&lt;h1&gt;Pfeile&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Kronenturm-Schaden:&lt;/b&gt;
+111 → 93 (-16 %)&lt;/p&gt;
+&lt;p&gt;Während man Pfeile effektiv einsetzt, trifft man leicht auch gegnerische Türme. Daher verringern wir den Schaden an Kronentürmen, sodass der dadurch entstehende Splitterschaden einen geringeren Einfluss auf den Spielausgang hat.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Koboldbohrer-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Beim zweiten Verbuddeln erscheint ein zusätzlicher Kobold weniger&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Cycle-Decks mit der Koboldbohrer-Entwicklung waren aufgrund von nahezu garantiertem Kronenturm-Schaden äußerst beliebt. Wir entfernen einen der zusätzlichen Kobolde, die bei der Bohrerentwicklung beschwört werden, damit Decks sich wieder stärker auf andere Schadensquellen verlassen müssen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Magier&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Trefferpunkte:&lt;/b&gt;
+720 → 754 (+5 %)
+&lt;b&gt;🛡️ Schild-TP (Entwicklung):&lt;/b&gt; 296 → 190 (-36 %)&lt;/p&gt;
+&lt;p&gt;Die Magierentwicklung war zu stark in der Defensive, da ausschließlich teure Zauber gegen seinen Schild ankamen. Nun wird der Schild auch von kleineren Zaubern wie Knall zerstört. Die Basis-TP des Magiers wurden erhöht, damit er den Giftzauber überlebt. So sind Kombinationen wie Knall und Gift keine Konter auf die Magierentwicklung.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Kanonenkarre&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Treffergeschwindigkeit der vom Schild geschützten Kanone:&lt;/b&gt;
+1 Sek. → 0,9 Sek. (-10 %)&lt;/p&gt;
+&lt;p&gt;Die Kanonenkarre wurde schon lange viel zu selten verwendet. Daher erhöhen wir die Treffergeschwindigkeit der vom Schild geschützten Form, um sie der kaputten Form anzupassen und die Karte nützlicher zu machen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Elektromagier&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Schadensradius bei Einsatz:&lt;/b&gt;
+2,5 → 3 (+20 %)&lt;/p&gt;
+&lt;p&gt;Mit diesem Buff werden die Wirkungsbereiche des Eismagiers und des Elektromagiers einander angeglichen. Dadurch möchten wir die Einsatzfähigkeit des Elektromagiers stärken und somit nützlicher machen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Koboldmaschine&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;🚀 Treffergeschwindigkeit der Rakete:&lt;/b&gt; 4 Sek. → 3,5 Sek. (-12,5 %)&lt;/p&gt;
+&lt;p&gt;Nachdem die TP der Koboldmaschine verringert wurden, ist es zu schwierig geworden, ihre Raketenattacke effektiv einzusetzen. Wir verstärken die Treffergeschwindigkeit der Rakete, um die Koboldmaschine konsistenter zu machen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Jäger&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Trefferpunkte:&lt;/b&gt;
+838 → 884 (+6 %)&lt;/p&gt;
+&lt;p&gt;Der Jäger ist Nahkampfeinheiten gegenüber zu verwundbar und benötigt mehr Trefferpunkte, um seine Rolle als eine aus der Nähe angreifende Truppe zu erfüllen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Eismagier&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Radius des Flächenschadens:&lt;/b&gt;
+1 → 1,5 (+50 %)&lt;/p&gt;
+&lt;p&gt;Der Eismagier ist sehr auf seinen Flächenschadenangriff angewiesen, besonders da dieser oft mit dem Tornado kombiniert wird. Wir erhöhen den Radius seines Flächenschadens, damit er zu einer konsistenteren Karte wird.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Leere&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Schaden (einzelnes Ziel):&lt;/b&gt;
+544 → 472 (-13 %)&lt;/p&gt;&lt;p&gt;💥 &lt;b&gt;Schaden&lt;/b&gt;
+&lt;b&gt;(5+ Ziele):&lt;/b&gt;
+48 → 76 (+58 %)&lt;/p&gt;
+&lt;p&gt;Der Leerenzauber ist zu effektiv darin, direkte Elixiergewinne zu erzielen – insbesondere gegen 4- und 5-Elixier-Fernkämpfer wie den Magieschützen, Elektrodrachen und die Bogenschützen-Königin. Wir balancieren das Schadensspektrum aus, indem wir den Zauber weniger effektiv als Konter gegen Fernkampfeinheiten mit hohen Elixierkosten machen. Im Gegenzug teilt dieser nun besser gegen Schwärme aus.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Skelettdrachen&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Trefferpunkte:&lt;/b&gt;
+563 → 560 (&amp;lt;1 %)&lt;/p&gt;
+&lt;p&gt;Es bestand eine Inkonsistenz bei Interaktionen zwischen dem Magier und den Skelettdrachen. Auf Level 11, verglichen mit Level 15, benötigte der Magier einen zusätzlichen Treffer, um Skelettdrachen zu besiegen. Jetzt benötigt der Magier stets nur zwei Treffer, um Skelettdrachen zu bezwingen.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/7tsOWldvk9OFywINNn3Kon"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-08-06T07:13:51+00:00</published>
   </entry>
 </feed>

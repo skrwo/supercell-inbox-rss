@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 06 Aug 2024 06:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 07:29:02 +0000</lastBuildDate>
     <item>
       <title>La storia dello stregone evoluto 🔥</title>
       <link>https://youtube.com/shorts/TRiBhXUELnw?feature=share</link>
@@ -415,6 +415,14 @@ Il team di Clash Royale&lt;/p&gt;</description>
       <pubDate>Mon, 29 Jul 2024 09:29:02 +0000</pubDate>
     </item>
     <item>
+      <title>Gabbia per goblin evoluta</title>
+      <link>https://youtube.com/shorts/nkyG75ZlIuI?feature=share</link>
+      <guid isPermaLink="false">2OKjyw47ufTcHhNLWJYphg</guid>
+      <category>Momenti salienti</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77Z4EZo5OcR14sX6g25OwB/5d1af1a09bbf4cbe6aaee22904d82258/goblin_cageevogameplay.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 02 Aug 2024 15:30:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Festa dell'oro di agosto!</title>
       <link>https://clashroyale.inbox.supercell.com/#/it/news/5U6UsslpkMR87G0Uh1OzMp</link>
       <description>&lt;p&gt;Dal 5 al 12 agosto, il regno dei Royale verrà inondato d&amp;#39;oro grazie a tre eventi che si terranno simultaneamente e che offriranno rispettivamente sconti sui miglioramenti, monete extra e ricompense al raggiungimento di vari traguardi! Questa è decisamente un&amp;#39;occasione... d&amp;#39;oro!&lt;/p&gt;&lt;p&gt;Scopriamo insieme tutti i dettagli su queste iniziative.&lt;/p&gt;
@@ -450,6 +458,65 @@ Il team di Clash Royale&lt;/p&gt;</description>
       <category>Note di rilascio</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/66e1yEdbiGX6wl8hhGjsKh/7b9b0f079385200e73d9d2ce51cec312/CR_S62_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 05 Aug 2024 10:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modifiche di bilanciamento di agosto</title>
+      <link>https://clashroyale.inbox.supercell.com/#/it/news/7tsOWldvk9OFywINNn3Kon</link>
+      <description>&lt;h1&gt;Frecce&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Danni alle torri della corona&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
+ridotti del 16% (da 111 a 93 punti).&lt;/p&gt;
+&lt;p&gt;Finora, un utilizzo intelligente delle Frecce permetteva di eliminare il bersaglio scelto e di infliggere contemporaneamente una buona quantità di danni alle torri della corona, ma poiché questi danni possono avere un peso importante nell&amp;#39;economia dello scontro, abbiamo deciso di ridurli un po&amp;#39;.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Trivella goblin evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Rimosso un goblin aggiuntivo tra quelli generati la seconda volta che la trivella goblin evoluta appare in superficie.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ultimamente, i mazzi incentrati sulla rotazione di questa carta evoluta sono molto popolari, perché con essi i danni alle torri della corona sono pressoché garantiti. Per spingere i giocatori a causare danni in altro modo, abbiamo rimosso uno dei goblin extra generati dalla trivella evoluta.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Stregone&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Punti ferita:&lt;/b&gt;
+aumentati del 5% (da 720 a 754 punti).
+&lt;b&gt;🛡️ Punti ferita dello scudo della versione evoluta:&lt;/b&gt; ridotti del 36% (da 296 a 190 punti).&lt;/p&gt;
+&lt;p&gt;Lo stregone evoluto era troppo forte in difesa, visto che solo gli incantesimi più costosi potevano causare danni significativi al suo scudo, ma ora potrai usarne di più economici (come ad esempio la Scarica) per distruggerlo. In cambio, abbiamo aumentato i punti ferita dello stregone per permettergli di sopravvivere al Veleno e per evitare che lo stregone evoluto possa essere neutralizzato dall&amp;#39;utilizzo di questo incantesimo in combinazione con un altro (come la Scarica).&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Cannone a rotelle&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;⏱️ Velocità colpi della versione con scudo:&lt;/b&gt;
+migliorata del 10% (da 1 secondo a 0,9).&lt;/p&gt;
+&lt;p&gt;È da un bel po&amp;#39; che il cannone a rotelle non gode di molta popolarità, perciò abbiamo migliorato la velocità dei colpi della sua versione iniziale per allinearla a quella senza scudo e per rendere questa carta una scelta più appetibile.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Stregone elettrico&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Raggio del danno ad area allo schieramento&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
+aumentato del 20% (da 2,5 a 3 unità).&lt;/p&gt;
+&lt;p&gt;Con questo potenziamento, abbiamo voluto adeguare il raggio d&amp;#39;azione allo schieramento dello stregone elettrico a quello dello stregone di ghiaccio e rendere quest&amp;#39;abilità iniziale più potente e versatile.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Macchina goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;🚀 Velocità colpi del razzo:&lt;/b&gt; migliorata del 13% (da 4 a 3,5 secondi).&lt;/p&gt;
+&lt;p&gt;Sin da quando abbiamo ridotto i danni causati dalla macchina goblin, non è facile ottenere grandi risultati con il suo razzo, perciò ne abbiamo potenziato la velocità dei colpi, per rendere la carta più affidabile.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Cacciatore&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Punti ferita:&lt;/b&gt;
+aumentati del 6% (da 838 a 884 punti).&lt;/p&gt;
+&lt;p&gt;Il cacciatore è fin troppo vulnerabile agli attacchi delle truppe da mischia e aveva bisogno di più punti salute, per poter essere più utile nei combattimenti a corto raggio.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Stregone di ghiaccio&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;🟢 &lt;b&gt;Raggio del danno ad area:&lt;/b&gt;
+aumentato del 50% (da una a 1,5 unità).&lt;/p&gt;
+&lt;p&gt;Il punto di forza dello stregone di ghiaccio è il suo attacco ad area, soprattutto quando lo si usa in combinazione con il Tornado. Abbiamo deciso di aumentarne il raggio d&amp;#39;azione, per rendere lo stregone più affidabile.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Nihil&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;💥 &lt;b&gt;Danni (quando un bersaglio si trova nell&amp;#39;area d&amp;#39;azione):&lt;/b&gt;
+ridotti del 13% (da 544 a 472 punti).&lt;/p&gt;&lt;p&gt;💥 &lt;b&gt;Danni&lt;/b&gt;
+&lt;b&gt;(quando i bersagli sono almeno cinque):&lt;/b&gt;
+aumentati del 58% (da 48 a 76 punti).&lt;/p&gt;
+&lt;p&gt;Col Nihil, è fin troppo facile investire meno elisir dell&amp;#39;avversario, soprattutto se si usa l&amp;#39;incantesimo contro le truppe da 4 o 5 unità d&amp;#39;elisir specializzate negli attacchi a distanza, come l&amp;#39;arciere magico, il drago elettrico o la regina degli arcieri. Per questo motivo, l&amp;#39;abbiamo reso meno efficace contro unità di questo tipo, ma anche più utile contro le carte che attaccano in gruppo.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Draghi d'ossa&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;❤️ Punti ferita:&lt;/b&gt;
+ridotti dell&amp;#39;1% (da 563 a 560 punti).&lt;/p&gt;
+&lt;p&gt;Prima di questa modifica, l&amp;#39;interazione tra lo stregone e i draghi d&amp;#39;ossa al livello 11 costringeva il primo a scagliare una sfera infuocata in più per eliminare i secondi, rispetto ai colpi necessari per farlo al livello 15, mentre ora allo stregone basteranno sempre due colpi per neutralizzare questi draghi.&lt;/p&gt;</description>
+      <guid isPermaLink="false">7tsOWldvk9OFywINNn3Kon</guid>
+      <category>Notizie</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 06 Aug 2024 07:13:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
