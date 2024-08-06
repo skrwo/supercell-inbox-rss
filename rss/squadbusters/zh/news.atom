@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-06T08:33:51.784999+00:00</updated>
+  <updated>2024-08-06T09:30:19.355596+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -331,7 +331,7 @@
   <entry>
     <id>RTgzLU4w6F6iiJU3YAFQN</id>
     <title>突擊隊聯賽重置和獎勵！</title>
-    <updated>2024-06-27T10:02:51.656000+00:00</updated>
+    <updated>2024-08-06T08:38:12.709000+00:00</updated>
     <content>&lt;p&gt;目前的突擊隊聯賽賽季即將結束，我們非常高興地宣布，截至7月1日星期一15:00（台北/香港時間）為止，全球排行榜上的所有玩家都將搶先&lt;b&gt;免費獲得「和服風采」女巫造型&lt;/b&gt;！這代表如果你在7月1日星期一15:00之前於突擊隊征程到達90級，你將獲得該造型。&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/37R1gMjXl7vCtnKJ9m8K6l/7c1ccecdb1a32ae51c8e392970d1d9b6/Witch_02_Classic_KimonoWitch.png?w=1017&amp;h=1172&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;此外，&lt;b&gt;全球排行榜上排名前三的玩家&lt;/b&gt;還將獲得：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;第一名：300,000金幣&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;第二名：200,000金幣&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;第三名：100,000金幣&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;這些獎勵將會你的商店中保留30天，請記得盡快領取唷！&lt;/p&gt;
@@ -341,6 +341,7 @@
 &lt;p&gt;我們收到了很多關於突擊隊聯賽的回饋，雖然我們目前未有與獎盃掛鉤的獎勵系統，但我們一定會在未來推出更棒的突擊隊聯賽。&lt;/p&gt;&lt;p&gt;同時，我們希望這篇文章能讓大家清楚了解突擊隊聯賽的重置機制，也希望透過暫時的獎勵讓大家的努力更有價值！&lt;/p&gt;&lt;p&gt;感謝大家的付出和支持！🩷&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/zh/news/RTgzLU4w6F6iiJU3YAFQN"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/565eVZZrhcsEwpLUMTKpGP/6fb0d31d042ecafe959e4c73b3baea4c/SquadIcon_WitchSkin_1920x1080_A.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
     <published>2024-06-26T12:00:00+00:00</published>
   </entry>
   <entry>
