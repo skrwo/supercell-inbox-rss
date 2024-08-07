@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-07T09:30:39.757493+00:00</updated>
+  <updated>2024-08-07T10:35:05.867477+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -647,8 +647,8 @@
   </entry>
   <entry>
     <id>7tsOWldvk9OFywINNn3Kon</id>
-    <title>八月平衡性調整！</title>
-    <updated>2024-08-06T08:27:08.706000+00:00</updated>
+    <title>2024年8月平衡性調整！</title>
+    <updated>2024-08-07T10:16:39.280000+00:00</updated>
     <content>&lt;h1&gt;萬箭齊發&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥&lt;b&gt;對皇家塔傷害&lt;/b&gt; &lt;b&gt;：&lt;/b&gt;
@@ -662,7 +662,7 @@
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;&lt;b&gt;❤️生命值：&lt;/b&gt;
 從720提升至754（+5%）
-**🛡️護盾生命值（進化）：**從296降低至190（-36%）&lt;/p&gt;
+&lt;b&gt;🛡️護盾生命值（進化）&lt;/b&gt;：從296降低至190（-36%）&lt;/p&gt;
 &lt;p&gt;進化法師在防守上太過強大，要對付他的護盾，往往需要花不少聖水使用高費法術。現在，像電擊法術等低費法術將可摧毀他的護盾。同時，我們提升了法師的基礎生命值，這讓他能撐過毒藥法術。因此，像電擊法術+毒藥法術這樣的組合將無法直接處理掉進化法師。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;加農炮戰車&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
@@ -676,7 +676,7 @@
 &lt;p&gt;本次調整將使閃電法師的登場傷害範圍和寒冰法師保持一致，藉此提高他登場效果的實用性和強度。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;哥布林機甲&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;**🚀火箭攻擊速度：**從4秒加快至3.5秒（13%）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;🚀火箭攻擊速度：&lt;/b&gt;從4秒加快至3.5秒（13%）&lt;/p&gt;
 &lt;p&gt;哥布林機甲被削弱生命值之後，想要讓它的火箭發揮作用實在太困難了。我們加快了火箭的攻擊速度，讓哥布林機甲的表現更加穩定。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;獵人&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
@@ -691,8 +691,7 @@
 &lt;h1&gt;虛空法術&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;💥&lt;b&gt;傷害（1個目標）：&lt;/b&gt;
-從544降低至472（-13%）&lt;/p&gt;&lt;p&gt;💥&lt;b&gt;傷害&lt;/b&gt;
-&lt;b&gt;（5+目標）：&lt;/b&gt;
+從544降低至472（-13%）&lt;/p&gt;&lt;p&gt;💥&lt;b&gt;傷害（5+目標）：&lt;/b&gt;
 從48提升至76（+58%）&lt;/p&gt;
 &lt;p&gt;虛空法術在打出聖水優勢方面的能力太強了，尤其是用它對付4費/5費的遠程軍隊時，如神箭射手、雷電飛龍、弓箭女皇等。我們調整了虛空法術不同情況下的傷害，降低它反制高費遠程軍隊的效果，同時也讓它在面對一群軍隊時不會太過無力。&lt;/p&gt;&lt;hr/&gt;
 &lt;h1&gt;骷髏飛龍&lt;/h1&gt;
