@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-07T07:29:12.124915+00:00</updated>
+  <updated>2024-08-07T08:34:02.269719+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -366,6 +366,33 @@ L&amp;#39;équipe de Clash Royale&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JimwbJYL8scbt795JdFA4/2b3e6fde5f791a4a08dcd8bff92742cd/gqj_changes_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notes de patch"/>
     <published>2024-07-29T09:29:02+00:00</published>
+  </entry>
+  <entry>
+    <id>5U6UsslpkMR87G0Uh1OzMp</id>
+    <title>Festival de l'or du mois d'août !</title>
+    <updated>2024-08-07T07:50:18.350000+00:00</updated>
+    <content>&lt;p&gt;Participez au festival de l&amp;#39;or du mois d&amp;#39;août ! Du 5 au 12 août, l&amp;#39;or va pleuvoir sur le royaume ! Trois événements en même temps ?! Promos sur les améliorations, pièces d&amp;#39;or supplémentaires et récompenses de palier ? Ça vaut de l&amp;#39;or !&lt;/p&gt;&lt;p&gt;Voici ce qui vous attend :&lt;/p&gt;
+&lt;h1&gt;SLASH ROYALE !&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4ScJFEg3yGEuQ20En52dvb/45d293fbe921e3b5c34ff7553199c8c8/slashroyale_swords.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Pendant toute une semaine, le prix en pièces d&amp;#39;or des améliorations sera &lt;b&gt;divisé par deux !&lt;/b&gt;&lt;/p&gt;
+&lt;h1&gt;Ruée vers l'or !&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6BM76Me80A5hqnSYwArnzC/28186a15692b3bf42135b0c7a6b97445/goldrush_gold.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Des pièces d&amp;#39;or supplémentaires, ça vous dit ? Vous en aurez en détruisant des tours !&lt;/p&gt;&lt;p&gt;Gagnez jusqu&amp;#39;à &lt;b&gt;120 000 pièces d&amp;#39;or&lt;/b&gt; selon le niveau de votre arène !&lt;/p&gt;
+&lt;p&gt;Voici l&amp;#39;or que vous pouvez gagner chaque jour pendant l&amp;#39;événement :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Arène 1 - 4 :&lt;/b&gt; 5 000 pièces d&amp;#39;or&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Arène 5 - 7 :&lt;/b&gt; 10 000 pièces d&amp;#39;or&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Arène 8 - 10 :&lt;/b&gt; 15 000 pièces d&amp;#39;or&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Arène 11 et plus :&lt;/b&gt; 20 000 pièces d&amp;#39;or&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;Événement de palier !&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4q7KsMmYLaBp0FGJIQyCMh/bcafaa9a60c68155a69f448565571a5e/shop_gold.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Dépensez de l&amp;#39;or et gagnez des récompenses. C&amp;#39;est aussi simple que ça !&lt;/p&gt;
+&lt;p&gt;Voici la liste des paliers et récompenses :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;5 000 pièces d&amp;#39;or :&lt;/b&gt; 1 coffre en or&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10 000 pièces d&amp;#39;or :&lt;/b&gt; 500 cartes communes aléatoires&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;20 000 pièces d&amp;#39;or :&lt;/b&gt; 5 clés de coffre&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50 000 pièces d&amp;#39;or :&lt;/b&gt; 100 cartes rares aléatoires&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100 000 pièces d&amp;#39;or :&lt;/b&gt; 1 coffre magique&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;200 000 pièces d&amp;#39;or :&lt;/b&gt; 50 cartes épiques aléatoires&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;300 000 pièces d&amp;#39;or :&lt;/b&gt; 1 coffre géant&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;450 000 pièces d&amp;#39;or :&lt;/b&gt; 3 jokers légendaires&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;600 000 pièces d&amp;#39;or :&lt;/b&gt; coffre-joker royal&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;750 000 pièces d&amp;#39;or :&lt;/b&gt; 1 coffre légendaire du Roi (ou un coffre du Roi si vous êtes à l&amp;#39;arène 10 ou moins)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xWqCvSX31cjCIFk9QasKo/c521065e1b7ee4f304ed95127ce5021f/7e1f924747ef092d8d020c68ef0649c3.gif?w=300&amp;h=295&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Prêts à devenir riches ? Préparez-vous à combattre !&lt;/p&gt;&lt;p&gt;À bientôt dans l&amp;#39;arène !
+L&amp;#39;équipe de Clash Royale&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/5U6UsslpkMR87G0Uh1OzMp"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/56ffjmXw9LC2VqyIeZs0JI/0fbd990a68fceab012f2fabb3ef18c35/goldfestthumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Actualités"/>
+    <published>2024-08-04T15:00:04+00:00</published>
   </entry>
   <entry>
     <id>2brc35wE6cJuyUc8dDojz6</id>
