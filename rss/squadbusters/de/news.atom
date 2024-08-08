@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-newsEntries-de</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-08T14:31:28.439671+00:00</updated>
+  <updated>2024-08-08T15:31:11.250334+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -229,5 +229,15 @@ WARTUNGSARBEITEN – 24. MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Fehlerbehebungen z
     <link href="https://www.twitch.tv/directory/category/squad-busters"/>
     <category term="Community"/>
     <published>2024-07-24T15:48:56+00:00</published>
+  </entry>
+  <entry>
+    <id>Fufrl5wCFIsTDyHcs5SBW</id>
+    <title>???</title>
+    <updated>2024-08-08T14:50:50.812000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/de/news/Fufrl5wCFIsTDyHcs5SBW"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/271WQKrBZ9NfAQp4gFbruw/4c1a131dba9443a4fbab9dd1d1a664bb/__.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=hdX6Blfas0o"/>
+    <category term="News"/>
+    <published>2024-08-08T14:50:50+00:00</published>
   </entry>
 </feed>
