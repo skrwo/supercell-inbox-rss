@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-09T11:29:02.600199+00:00</updated>
+  <updated>2024-08-09T12:51:30.305769+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -266,5 +266,15 @@ The rewards will be in the shop as soon as we unlock a new milestone, and the ev
     <link href="https://www.youtube.com/watch?v=hdX6Blfas0o"/>
     <category term="News"/>
     <published>2024-08-08T14:50:50+00:00</published>
+  </entry>
+  <entry>
+    <id>5QZrq5eE3hiDqxi16aPmQu</id>
+    <title>YT Premiere: New Update!</title>
+    <updated>2024-08-09T12:16:28.722000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/5QZrq5eE3hiDqxi16aPmQu"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/gHGm10ZjM28"/>
+    <category term="Game Updates"/>
+    <published>2024-08-09T12:00:00+00:00</published>
   </entry>
 </feed>

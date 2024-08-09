@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 09 Aug 2024 11:29:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 12:51:31 +0000</lastBuildDate>
     <item>
       <title>《破壞突擊隊》你想知道的都在這！</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -396,6 +396,14 @@
       <category>最新情報</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1JbRyrvYe8Z50nyllnShXb/810b786cd4f3dfb9236c50d31df6cc84/tw_20240809_creators_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Fri, 09 Aug 2024 10:58:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube即將首播：更新來啦！</title>
+      <link>https://youtu.be/gHGm10ZjM28</link>
+      <guid isPermaLink="false">5QZrq5eE3hiDqxi16aPmQu</guid>
+      <category>更新說明</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

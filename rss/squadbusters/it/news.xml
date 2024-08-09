@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 09 Aug 2024 11:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 12:51:27 +0000</lastBuildDate>
     <item>
       <title>Tutto quello che c'è da sapere!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -202,6 +202,14 @@
       <category>Notizie</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/271WQKrBZ9NfAQp4gFbruw/4c1a131dba9443a4fbab9dd1d1a664bb/__.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Thu, 08 Aug 2024 14:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>YT PREMIERE: Nuovo aggiornamento!</title>
+      <link>https://youtu.be/gHGm10ZjM28</link>
+      <guid isPermaLink="false">5QZrq5eE3hiDqxi16aPmQu</guid>
+      <category>Aggiornamenti</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
