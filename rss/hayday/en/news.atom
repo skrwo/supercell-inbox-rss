@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-08-10T13:29:34.006833+00:00</updated>
+  <updated>2024-08-10T14:30:39.020328+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4QmUJH3eZMthbGX9axFAwv</id>
-    <title>Hay Day Events Week 20!</title>
-    <updated>2024-05-13T11:51:33.204000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Events Week 20!&lt;/h1&gt;
-&lt;p&gt;Hello farmers! We have a whole week of new Events ready to go! All Events start at 8 AM UTC. Dive into the specifics of each Event by visiting our Event Board in the game.&lt;/p&gt;&lt;p&gt;Monday: Spin The Wheel (Puzzle Pieces)&lt;/p&gt;&lt;p&gt;Tuesday: Truck Event (Expansion Materials)&lt;/p&gt;&lt;p&gt;Wednesday: Boat Event (Extra Vouchers)&lt;/p&gt;&lt;p&gt;Thursday: Farm Visitor Yard Sale&lt;/p&gt;&lt;p&gt;Friday: Fishing Production Boost Event (All 20% Boost) + 2x Farm Pass Points&lt;/p&gt;&lt;p&gt;Saturday: Town Visitor Event (2x XP) + Truck Event (2x Coins)&lt;/p&gt;&lt;p&gt;Sunday: Animal Feed Event (3 random types of animal feed produced 2x faster) + Boat Event (2x Coins)&lt;/p&gt;&lt;p&gt;Have a great week!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/en/news/4QmUJH3eZMthbGX9axFAwv"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-05-12T10:21:52+00:00</published>
-  </entry>
   <entry>
     <id>26n7hE4ieDrN46XiLvGPJe</id>
     <title>Hay Day Events Week 21! </title>

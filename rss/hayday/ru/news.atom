@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-08-10T13:29:43.582722+00:00</updated>
+  <updated>2024-08-10T14:30:38.050519+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4QmUJH3eZMthbGX9axFAwv</id>
-    <title>События Hay Day: 20-я неделя!</title>
-    <updated>2024-05-13T11:51:33.204000+00:00</updated>
-    <content>&lt;h1&gt;События Hay Day: 20-я неделя!&lt;/h1&gt;
-&lt;p&gt;Привет, фермеры! Встречайте новую неделю, полную событий! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: куски головоломки на колесе фортуны.&lt;/p&gt;&lt;p&gt;Вторник: материалы для расширения за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Среда: дополнительные ваучеры за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Четверг: событие с посетителями фермы и распродажей на дому.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 20 % и удвоение очков Farm Pass.&lt;/p&gt;&lt;p&gt;Суббота: вдвое больше опыта за обслуживание гостей города и вдвое больше монет за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Воскресенье: ускорение дробилки (три случайных типа корма для животных будут производиться в два раза быстрее), а также вдвое больше монет за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Желаем отличной недели!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/4QmUJH3eZMthbGX9axFAwv"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Новости"/>
-    <published>2024-05-12T10:21:52+00:00</published>
-  </entry>
   <entry>
     <id>26n7hE4ieDrN46XiLvGPJe</id>
     <title>События Hay Day: 21-я неделя! </title>
