@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-12T09:31:08.200564+00:00</updated>
+  <updated>2024-08-12T10:35:42.606230+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -14,5 +14,23 @@
     <link href="https://x.com/brawlpseries/status/1791531369752850823?s=46"/>
     <category term="Esports"/>
     <published>2024-05-19T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17hyTqmtWVRIdjPY6ftWPf</id>
+    <title>Rivedi la Finale mensile di maggio!</title>
+    <updated>2024-08-12T10:04:01.151000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5gKDuK3U9dFlktsS02Zn9J/35fd486deb80b6269742a8848563a961/IT_BSC-MF-Winners-Reply-Totem.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/7xcCDKzo01I?si=9nLDl36F_isYvAlb"/>
+    <category term="Esports"/>
+    <published>2024-05-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6vJMzZrkQld55QQXiVY0WN</id>
+    <title>Rivedi la Finale mensile di giugno!</title>
+    <updated>2024-08-12T10:08:27.520000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2N3GqLKwem5ccHUFKYskBr/22b28a23da17b90e2aee18324ae61953/it_BSC-MF-Winners-HMBLE.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2178609407?filter=archives&amp;sort=time"/>
+    <category term="Esports"/>
+    <published>2024-06-22T22:00:00+00:00</published>
   </entry>
 </feed>

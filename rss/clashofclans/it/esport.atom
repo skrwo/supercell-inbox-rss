@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-08-12T09:31:40.643935+00:00</updated>
+  <updated>2024-08-12T10:35:50.018288+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -466,8 +466,17 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
     <title>Rivedi la Finale SPS - Giorno 1!</title>
     <updated>2024-08-12T09:30:26.483000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/33t4L3puVRJFMHZYqK4EUk/8e923882c9bfb2fd65c3ce23fe99ddee/IT_FINALI_OPEN_thumbnail_day_1.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.twitch.tv/videos/2220711654?t=00h03m50s"/>
+    <link href="https://www.twitch.tv/videos/2220711048?t=00h04m53s"/>
     <category term="Esports"/>
     <published>2024-08-11T12:56:53+00:00</published>
+  </entry>
+  <entry>
+    <id>7ix9ddahOZn1Hy3YWIqP53</id>
+    <title>Rivedi la Finale SPS - Giorno 2!</title>
+    <updated>2024-08-12T09:31:47.260000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4aEDLeXpw5eCxRvnuPVCut/9c72d9ac637efae30e545a6e4985d74f/IT_FINALI_OPEN_thumbnail_day_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2221579610?t=00h05m42s"/>
+    <category term="Esports"/>
+    <published>2024-08-11T19:31:01+00:00</published>
   </entry>
 </feed>
