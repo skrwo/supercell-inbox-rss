@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-12T15:31:59.250788+00:00</updated>
+  <updated>2024-08-12T16:37:29.587632+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -32,5 +32,14 @@
     <link href="https://www.twitch.tv/videos/2178609407?filter=archives&amp;sort=time"/>
     <category term="Esports"/>
     <published>2024-06-22T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1sAV79A7Gq6G46QGDL3Jhk</id>
+    <title>Rivedi la Finale mensile di luglio!</title>
+    <updated>2024-08-12T15:49:48.272000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/60P730P1xIiiCTa1emWpjW/4e444e3180f7d6e3e058003e8c58d7d9/IT_BSC-MF-Winners-ZETA.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2202527257?t=00h03m36s"/>
+    <category term="Esports"/>
+    <published>2024-07-20T22:00:00+00:00</published>
   </entry>
 </feed>
