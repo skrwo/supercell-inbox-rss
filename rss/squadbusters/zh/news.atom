@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-12T01:48:02.343136+00:00</updated>
+  <updated>2024-08-12T02:48:33.319364+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -263,7 +263,7 @@
 創作者們將在本週精心製作並陸續推出許多更新預告！&#13;
 請記得訂閱他們的頻道，掌握最新消息唷！&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;更新預告1：平衡性調整與新造型等&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;https://www.youtube.com/watch?v=LPNSbq74-dg&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜 Turtle&lt;/a&gt; &lt;/p&gt;
 &lt;a href="https://www.youtube.com/watch?v=7cilm2pQIXo"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540CodeHeyBrother%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;嘿！兄弟&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;a href="https://www.youtube.com/watch?v=NeLWk8Nz_Jg"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
@@ -445,5 +445,15 @@
     <link href="https://youtu.be/gHGm10ZjM28"/>
     <category term="更新說明"/>
     <published>2024-08-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>KXB8Qd0jOmdyKC0uLn6MJ</id>
+    <title>【烏龜】最新平衡性調整！各項優化改動！還有？</title>
+    <updated>2024-08-12T02:36:41.791000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/KXB8Qd0jOmdyKC0uLn6MJ"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3Gk7iP0KwIdAYvin7zUnat/df0c725dc5bf496f0c743873fdb0dc52/tw_20240812_turtle_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=bTV8tmLEcWI"/>
+    <category term="最新情報"/>
+    <published>2024-08-12T02:30:00+00:00</published>
   </entry>
 </feed>
