@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-08-12T13:32:27.736108+00:00</updated>
+  <updated>2024-08-12T14:35:36.612553+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -464,5 +464,23 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
     <link href="https://www.youtube.com/live/cShu89VtL3c?si=LVRxZthoa-ZEgOhH&amp;t=667"/>
     <category term="eSports"/>
     <published>2024-08-05T13:01:40+00:00</published>
+  </entry>
+  <entry>
+    <id>3MfGLH1tXqycSzBupTnsUg</id>
+    <title>Mira de nuevo las finales de SPS  - Día 1</title>
+    <updated>2024-08-12T13:48:16.451000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4FTUqWYefAn8GHlGBIG5UW/744240e66fbc3dc956e48deb56a3433a/Captura_de_pantalla_2024-08-12_a_las_14.01.05.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/9txzgpKuwJM?si=INlqwWz-pvkhwzPd&amp;t=844"/>
+    <category term="eSports"/>
+    <published>2024-08-12T13:48:16+00:00</published>
+  </entry>
+  <entry>
+    <id>2T2ucKt32NB0cpZ9PFthDx</id>
+    <title>Mira de nuevo las finales de SPS  - Día 2</title>
+    <updated>2024-08-12T13:49:33.158000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5mHLuZKD3s49YZQS8eQx1B/f4ee14c0a63dbf552636c15f0f848dbb/Captura_de_pantalla_2024-08-12_a_las_14.45.59.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2221836514?t=00h04m50s"/>
+    <category term="eSports"/>
+    <published>2024-08-12T13:49:33+00:00</published>
   </entry>
 </feed>
