@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-12T03:34:38.576768+00:00</updated>
+  <updated>2024-08-12T04:34:46.847955+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -445,6 +445,29 @@
     <link href="https://youtu.be/gHGm10ZjM28"/>
     <category term="更新說明"/>
     <published>2024-08-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1bl5OtmpAV3R5GzmGpNZku</id>
+    <title>創作者帶你看8月預告（更新至#1）！</title>
+    <updated>2024-08-12T04:00:09.519000+00:00</updated>
+    <content>&lt;p&gt;突擊隊長們，大家好！&#13;
+&#13;
+最新突擊搶先報已發布，&#13;
+如果還沒看過，快到&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DgHGm10ZjM28')"&gt;英文官方頻道快速了解下次更新消息&lt;/a&gt;（記得打開繁體中文字幕）！&#13;
+當然如果想搶先獲得部分更新的細節詳情&#13;
+那就不能錯過測試服創作者們特別錄製的更新預告！&#13;
+請記得訂閱他們的頻道，了解第一手資訊唷！&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;更新預告1：平衡性調整與遊戲優化、移除道具&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540powertech4165%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;PowerTech淮特 &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=gaOs2eB8LQ0"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540CodeHeyBrother%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;嘿！兄弟&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=0LFBWdi83wI"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;烏龜 Turtle &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=bTV8tmLEcWI"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/1bl5OtmpAV3R5GzmGpNZku"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/36Xvfc9UN2NpEErhgjZvHh/d0c22188f3d602bdd7f89489d1809dad/tw_20240812_sneakpeeks_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-08-12T02:10:00+00:00</published>
   </entry>
   <entry>
     <id>KXB8Qd0jOmdyKC0uLn6MJ</id>
