@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-08-13T12:51:50.805861+00:00</updated>
+  <updated>2024-08-13T13:31:30.166071+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -252,5 +252,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أخبار"/>
     <published>2024-08-05T08:30:54+00:00</published>
+  </entry>
+  <entry>
+    <id>4C5EIHUJtvqIxTilup474C</id>
+    <title>الأسبوع 33 من أحداث Hay Day</title>
+    <updated>2024-08-13T13:06:35.563000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 33 من أحداث Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! استعدوا لأسبوع آخر مليء بالأحداث. تبدأ كل الأحداث في الساعة 8 ص بتوقيت جرينتش. اطلعوا على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;الإثنين: تدوير العجلة - (قطع لغز)&lt;/p&gt;&lt;p&gt;الثلاثاء: حدث الشاحنة (مواد توسعة)&lt;/p&gt;&lt;p&gt;الأربعاء: حدث القارب (قسائم)&lt;/p&gt;&lt;p&gt;الخميس: حدث زوار المزرعة (عرض بيع الزينات)&lt;/p&gt;&lt;p&gt;الجمعة: حدث تعزيز إنتاجية الصيد (تعزيز 20% للكل) + ضِعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;السبت: حدث زوار البلدة (ضعف العملات)&lt;/p&gt;&lt;p&gt;الأحد: نسبة وقت الأشجار/الشجيرات (تنتج 3 شجيرات أو أشجار عشوائية الفواكه بضعف السرعة) + حدث الشاحنة (ضعف العملات)&lt;/p&gt;&lt;p&gt;نتمنى لكم قضاء أسبوع رائع!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/4C5EIHUJtvqIxTilup474C"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أخبار"/>
+    <published>2024-08-13T13:04:29+00:00</published>
   </entry>
 </feed>
