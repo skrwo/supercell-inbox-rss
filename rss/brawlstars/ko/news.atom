@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-13T14:32:48.076035+00:00</updated>
+  <updated>2024-08-13T15:30:39.467200+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>5Zs8PqjR9YCpKbWh0LPREa</id>
-    <title>⭐이벤트 종료⭐이토록 모두가 브롤스타즈 영상 보고 댓글 남기면 브롤 패스가!?</title>
-    <updated>2024-05-23T02:29:02.108000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/5Zs8PqjR9YCpKbWh0LPREa"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6vXiQOvwisWGYjjlGddiJO/c19dbb739dd3d91e02046dcdb77507b9/01_TVC_________1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/GpKThzYiReQ?si=HsaxI2JtUuDD4_wN"/>
-    <category term="동영상"/>
-    <published>2024-05-15T15:00:00+00:00</published>
-  </entry>
   <entry>
     <id>4hUstuFxYzzJP0QSHi3c6j</id>
     <title>🎊이벤트 종료🎊 이토록 모두가, 브롤스타즈!</title>
