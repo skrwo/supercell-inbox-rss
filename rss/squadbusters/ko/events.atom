@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-eventEntries-ko</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-08-14T07:29:19.853134+00:00</updated>
+  <updated>2024-08-14T08:35:42.383206+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -71,5 +71,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1OboLH0CkYF8A33dV67oPX/c96ccd6955bb40ac6b20b37b93de390f/2W_0708____________________________.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/8gWikJ5NC2w?feature=share"/>
     <published>2024-07-30T04:35:49+00:00</published>
+  </entry>
+  <entry>
+    <id>1NcQL9ulk3kIV3gZ7uDwqu</id>
+    <title>🗞️</title>
+    <updated>2024-08-14T07:45:55.818000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/MVgEuJMrYwo"&gt;👉라바 월드 🌋👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3UZeMAxnutZvMMFIptFmPF/6f2135de2db430d7c5074b8582f77083/inbox.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/MVgEuJMrYwo"/>
+    <published>2024-08-14T07:32:37+00:00</published>
   </entry>
 </feed>

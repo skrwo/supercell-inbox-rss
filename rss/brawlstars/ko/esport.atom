@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-14T07:29:04.013541+00:00</updated>
+  <updated>2024-08-14T08:35:34.042776+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -23,14 +23,5 @@
     <link href="https://cafe.naver.com/brawlstars/1214074"/>
     <category term="커뮤니티"/>
     <published>2024-07-19T04:03:24+00:00</published>
-  </entry>
-  <entry>
-    <id>5yM8CEbo25tsBDvJbRYBI4</id>
-    <title>LPL Brawl Stars Asia Pacific Tour 3번째 시즌 참가 신청이 시작되었습니다!</title>
-    <updated>2024-08-14T03:35:56.220000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6LOdQc5WyDRX90qKgT1da/9c5140e65b57e19966c63ca9897b89c1/0801_BS_APAC-Season3_inbox_1920x1080__KR.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://lplgg.co/BSS3-Game"/>
-    <category term="이스포츠"/>
-    <published>2024-07-31T23:00:00+00:00</published>
   </entry>
 </feed>
