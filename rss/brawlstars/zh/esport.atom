@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-esportNewsEntries-zh</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-14T03:34:37.115155+00:00</updated>
+  <updated>2024-08-14T04:34:27.080697+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -114,5 +114,14 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/30hjApyhBkcrI1Rh6DDLVA/34b68f0da89344526189862558029357/tw-20240716-BSC-JULY-MF-APAC-thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="賽事情報"/>
     <published>2024-07-19T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5yM8CEbo25tsBDvJbRYBI4</id>
+    <title>立即報名參加 LPL Brawl Stars Asia Pacific Tour 第3賽季！</title>
+    <updated>2024-08-14T03:35:56.220000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7y4J3iF2KwUpdZjRyUDucf/6001f61d1841d8d87c46b99c297c3a7f/tw_20240801_APAC_Season_3_in_game_announcement.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://lplgg.co/BSS3-Game"/>
+    <category term="賽事情報"/>
+    <published>2024-07-31T23:00:00+00:00</published>
   </entry>
 </feed>
