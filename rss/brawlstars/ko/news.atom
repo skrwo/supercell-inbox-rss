@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-15T08:35:03.774343+00:00</updated>
+  <updated>2024-08-15T09:29:50.465959+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>4hUstuFxYzzJP0QSHi3c6j</id>
-    <title>🎊이벤트 종료🎊 이토록 모두가, 브롤스타즈!</title>
-    <updated>2024-05-23T02:29:08.801000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/4hUstuFxYzzJP0QSHi3c6j"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2SKcv0vbARL7uuRCDvkJx8/e83731796c10823c4e96ee23b2b45450/0517_BS_________________800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1170070"/>
-    <category term="커뮤니티"/>
-    <published>2024-05-17T08:24:31+00:00</published>
-  </entry>
   <entry>
     <id>1Z8og6lx80LlgyIaO8qudt</id>
     <title>패치 노트: 고질라가 브롤스타즈에 출격!</title>
