@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-16T07:29:08.198543+00:00</updated>
+  <updated>2024-08-16T08:35:35.354743+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -200,9 +200,19 @@
     <published>2024-08-09T12:47:18+00:00</published>
   </entry>
   <entry>
+    <id>3PHqdlzpJTq5dSe7UqZ1Db</id>
+    <title>가장 마음에 드는 슈퍼히어로 스킨에 투표하세요!</title>
+    <updated>2024-08-16T08:08:50.127000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3PHqdlzpJTq5dSe7UqZ1Db"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6IfHywSXp9XWcMqQV45g99/78880847d33d8581080fbe7399afd57d/0814_MAKE_Vote_Starts_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://make.supercell.com/en/campaign/7LN7eOAgpUwRCHUVN0NSx7"/>
+    <category term="커뮤니티"/>
+    <published>2024-08-16T08:08:50+00:00</published>
+  </entry>
+  <entry>
     <id>25LIEjdrrpFVD2xJoVpUd0</id>
     <title>메가 상자 또는 스타 드롭!?</title>
-    <updated>2024-08-15T16:21:13.709000+00:00</updated>
+    <updated>2024-08-16T08:13:12.539000+00:00</updated>
     <content>&lt;h1&gt;메가 상자 1개 또는 스타 드롭 6개?!&lt;/h1&gt;
 📊 [POLL]
 &lt;ul&gt;
@@ -214,6 +224,6 @@
     <link href="https://brawlstars.inbox.supercell.com/#/ko/news/25LIEjdrrpFVD2xJoVpUd0"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6p3k8htjW0QjRbl0ouFuo4/7b7a7bf3c9842a7c13834c76b26401bd/0802_Community_event__800x433_vote.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="커뮤니티"/>
-    <published>2024-08-15T07:57:38+00:00</published>
+    <published>2024-08-16T08:11:00+00:00</published>
   </entry>
 </feed>
