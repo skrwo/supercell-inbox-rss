@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-16T15:29:54.833683+00:00</updated>
+  <updated>2024-08-16T16:39:57.308315+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -138,5 +138,15 @@ Importante: é preciso ter pelo menos 400 troféus para obter as recompensas.&lt
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2vaWldBhzC0TiKitsrTtJO/ba5af23a9d1e08613edf7a44bc8f8a68/0802_Community_event__800x433_vote02.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Comunidade"/>
     <published>2024-08-16T14:13:36+00:00</published>
+  </entry>
+  <entry>
+    <id>1JWaMDO0oWQfogYLSp8q7v</id>
+    <title>O Tio Gus dublou!</title>
+    <updated>2024-08-16T16:21:31.849000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/1JWaMDO0oWQfogYLSp8q7v"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/75DljGaIYMDrdOYsukQoRB/7639c66e60930af3cb6cffaeb9398b73/Picsart_24-08-15_10-52-36-306.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/8i8vDVKXL7c"/>
+    <category term="Comunidade"/>
+    <published>2024-08-16T16:21:31+00:00</published>
   </entry>
 </feed>
