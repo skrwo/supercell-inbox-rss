@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-eventEntries-en</id>
   <title>Boombeach - Event</title>
-  <updated>2024-08-18T22:31:40.464107+00:00</updated>
+  <updated>2024-08-18T23:29:34.563169+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox Event</subtitle>
@@ -88,7 +88,7 @@
     <id>7rWtCvtEL1CjlMGX4hqED0</id>
     <title>Heavy Mania</title>
     <updated>2024-08-16T09:19:20.778000+00:00</updated>
-    <content>⏱️ [TIMER] set to 22:59, 18.08.2024 (UTC) - Time Remaining: 00 seconds</content>
+    <content>⏱️ [TIMER] set to 22:59, 18.08.2024 (UTC) - Expired!</content>
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/p3f9RNlppMSmXXkc6CyBJ/4740e56e60edc9dbb871a87d89b68f7c/Carousel_V3.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <published>2024-08-16T09:19:20+00:00</published>
   </entry>
