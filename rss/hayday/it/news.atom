@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-08-18T15:29:56.066329+00:00</updated>
+  <updated>2024-08-18T16:36:38.469173+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>26n7hE4ieDrN46XiLvGPJe</id>
-    <title>Eventi di Hay Day (settimana n. 21) </title>
-    <updated>2024-05-19T08:00:30.186000+00:00</updated>
-    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 21)&lt;/h1&gt;
-&lt;p&gt;Ehilà, la settimana degli XP tripli è alle porte e sarà piena di eventi fantastici, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: pezzi del puzzle extra (gira la ruota) e XP tripli (ordini del furgone).&lt;/p&gt;&lt;p&gt;Martedì: monete doppie (ordini del furgone) e XP tripli (ordini per la barca).&lt;/p&gt;&lt;p&gt;Mercoledì: pezzi del puzzle (ordini per la barca) e XP tripli (visitatori della città).&lt;/p&gt;&lt;p&gt;Giovedì: monete doppie (visitatori della fattoria) e XP tripli (ordini del furgone).&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 30% per due edifici per la pesca (salone delle anatre e retificio), XP tripli (visitatori della città) e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;Sabato: monete doppie (visitatori della città) e XP tripli (ordini per la barca).&lt;/p&gt;&lt;p&gt;Domenica: potenziamento di alberi e cespugli di frutta (3 unità invece di 2 da 3 alberi o cespugli di frutta a caso) e XP tripli (ordini del furgone).&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/26n7hE4ieDrN46XiLvGPJe"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notizie"/>
-    <published>2024-05-19T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>45AlBhUtgpRCKHieVID1xV</id>
     <title>Eventi di Hay Day (settimana n. 22)</title>
@@ -273,5 +262,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-08-13T13:04:29+00:00</published>
+  </entry>
+  <entry>
+    <id>kkqeH4e011pQNtCxcVV5h</id>
+    <title>Eventi di Hay Day (settimana n. 34)</title>
+    <updated>2024-08-18T16:01:15.029000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 34)&lt;/h1&gt;
+&lt;p&gt;Ciao, preparati a un&amp;#39;altra settimana piena di eventi, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: buoni (gira la ruota).&lt;/p&gt;&lt;p&gt;Martedì: XP doppi (ordini del furgone).&lt;/p&gt;&lt;p&gt;Mercoledì: monete doppie (ordini per la barca).&lt;/p&gt;&lt;p&gt;Giovedì: potenziamento del 20% per 3 edifici produttivi a caso.&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 30% per due edifici per la pesca (salone delle anatre e retificio) e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;Sabato: oggetti espansione (visitatori della città).&lt;/p&gt;&lt;p&gt;Domenica: potenziamento delle colture (3 unità invece di 2 da 3 colture a caso).&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/kkqeH4e011pQNtCxcVV5h"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-08-18T16:00:04+00:00</published>
   </entry>
 </feed>

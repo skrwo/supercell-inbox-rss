@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-08-18T15:30:04.604088+00:00</updated>
+  <updated>2024-08-18T16:36:40.559710+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>26n7hE4ieDrN46XiLvGPJe</id>
-    <title>Hay Day-evenementen: week 21! </title>
-    <updated>2024-05-19T08:00:30.186000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day-evenementen: week 21!&lt;/h1&gt;
-&lt;p&gt;Hallo boeren! We hebben een week vol actie voor de boeg met het driedubbel-XP-evenement! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;Maandag: rad van fortuin (puzzelstukken) + 3x zoveel XP voor truckbestellingen&lt;/p&gt;&lt;p&gt;Dinsdag: truckevenement (2x zoveel munten) + 3x zoveel XP voor bootbestellingen&lt;/p&gt;&lt;p&gt;Woensdag: bootevenement (puzzelstukken) + 3x zoveel XP voor stadsbezoekers&lt;/p&gt;&lt;p&gt;Donderdag: boerderijbezoekersevenement (2x zoveel munten) + 3x zoveel XP voor truckbestellingen&lt;/p&gt;&lt;p&gt;Vrijdag: visboost (30% boost voor eenden en netten) + 3x zoveel XP voor stadsbezoekers + dubbele boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Zaterdag: stadsbezoekers (2x zoveel munten) + 3x zoveel XP voor bootbestellingen&lt;/p&gt;&lt;p&gt;Zondag: fruitboost (3 willekeurige soorten fruit geven 3 stuks in plaats van 2) + 3x zoveel XP voor truckbestellingen&lt;/p&gt;&lt;p&gt;Een fijne week gewenst!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/nl/news/26n7hE4ieDrN46XiLvGPJe"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nieuws"/>
-    <published>2024-05-19T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>45AlBhUtgpRCKHieVID1xV</id>
     <title>Hay Day-evenementen: week 22!</title>
@@ -273,5 +262,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Nieuws"/>
     <published>2024-08-13T13:04:29+00:00</published>
+  </entry>
+  <entry>
+    <id>kkqeH4e011pQNtCxcVV5h</id>
+    <title>Hay Day-evenementen: week 34!</title>
+    <updated>2024-08-18T16:01:15.029000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-evenementen: week 34!&lt;/h1&gt;
+&lt;p&gt;Hallo boeren! Maak jullie klaar voor een nieuwe week vol evenementen! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;Maandag: rad van fortuin (tegoedbonnen)&lt;/p&gt;&lt;p&gt;Dinsdag: truckevenement (2x zoveel XP)&lt;/p&gt;&lt;p&gt;Woensdag: bootevenement (2x zoveel munten)&lt;/p&gt;&lt;p&gt;Donderdag: productiegebouwenboost (20% boost voor 3 willekeurige gebouwen)&lt;/p&gt;&lt;p&gt;Vrijdag: visboost (30% boost voor eenden en netten) + dubbele boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Zaterdag: stadsbezoekersevenement (uitbreidingsmateriaal)&lt;/p&gt;&lt;p&gt;Zondag: gewassenboost (3 willekeurige gewassen leveren 3 in plaats van 2 gewassen op)&lt;/p&gt;&lt;p&gt;Een fijne week gewenst!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/kkqeH4e011pQNtCxcVV5h"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nieuws"/>
+    <published>2024-08-18T16:00:04+00:00</published>
   </entry>
 </feed>

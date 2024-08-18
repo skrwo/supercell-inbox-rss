@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-08-18T15:29:55.363904+00:00</updated>
+  <updated>2024-08-18T16:36:38.100529+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>26n7hE4ieDrN46XiLvGPJe</id>
-    <title>Ereigniswoche 21! </title>
-    <updated>2024-05-19T08:00:30.186000+00:00</updated>
-    <content>&lt;h1&gt;Ereigniswoche 21!&lt;/h1&gt;
-&lt;p&gt;Hallo Farmer! Uns steht eine ereignisreiche Dreifach-EP-Woche bevor! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Puzzlestücke) + Lieferwagenbestellungen (dreifache EP)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagenbestellungen (doppelte Münzen) + Schiffsbestellungen (dreifache EP)&lt;/p&gt;&lt;p&gt;Mittwoch: Schiffsereignis (Puzzlestücke) + Stadtbesucher-Ereignis (dreifache EP)&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (doppelte Münzen) + Lieferwagenbestellungen (dreifache EP)&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den Angelbereich (Entensalon und Seilerei, 30 %) + Stadtbesucher-Ereignis (dreifache EP) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (doppelte Münzen) + Schiffsbestellungen (dreifache EP)&lt;/p&gt;&lt;p&gt;Sonntag: Obstschub-Ereignis (ernte drei statt zwei Früchte bei drei zufälligen Pflanzen) + Lieferwagenbestellungen (dreifache EP)&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/26n7hE4ieDrN46XiLvGPJe"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-05-19T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>45AlBhUtgpRCKHieVID1xV</id>
     <title>Ereigniswoche 22!</title>
@@ -273,5 +262,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Neues"/>
     <published>2024-08-13T13:04:29+00:00</published>
+  </entry>
+  <entry>
+    <id>kkqeH4e011pQNtCxcVV5h</id>
+    <title>Ereigniswoche 34!</title>
+    <updated>2024-08-18T16:01:15.029000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 34!&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Gutscheine)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagen-Ereignis (doppelte EP)&lt;/p&gt;&lt;p&gt;Mittwoch: Schiffsereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Donnerstag: Produktionsgebäude-Ereignis (Schub für 3 zufällige Gebäude, 20 %)&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den Angelbereich (Entensalon und Seilerei, 30 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Sonntag: Pflanzenschub-Ereignis (ernte bei 3 zufälligen Pflanzenarten 3 anstatt 2 Pflanzen)&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/kkqeH4e011pQNtCxcVV5h"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Neues"/>
+    <published>2024-08-18T16:00:04+00:00</published>
   </entry>
 </feed>
