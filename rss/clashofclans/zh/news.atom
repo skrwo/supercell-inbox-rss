@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-19T18:37:16.082490+00:00</updated>
+  <updated>2024-08-19T19:29:55.436849+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>6sZ7XPBMe9ZuQe0OBNvcnj</id>
-    <title>5月部落競賽獎勵搶先看</title>
-    <updated>2024-05-22T02:25:50.517000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6sZ7XPBMe9ZuQe0OBNvcnj"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6ym0w3ItpHKoMFATO1QKvI/ac28c42454ad77c97e7168183cfc7da2/tw_20240521_COC_ClanGamesRewards_May.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="最新情報"/>
-    <published>2024-05-21T16:00:00+00:00</published>
-  </entry>
   <entry>
     <id>1nYMPDjakzeYpTowmGWNNY</id>
     <title>「礦石多更多」社群活動重磅登場！</title>
