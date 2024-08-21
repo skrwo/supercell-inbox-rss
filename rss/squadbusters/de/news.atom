@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-newsEntries-de</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-21T08:36:17.370542+00:00</updated>
+  <updated>2024-08-21T09:31:51.857177+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -253,8 +253,10 @@ WARTUNGSARBEITEN – 24. MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Fehlerbehebungen z
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Patchnotizen zum August-Update</title>
-    <updated>2024-08-21T08:35:38.554000+00:00</updated>
-    <content>&lt;h1&gt;DIE LAVAWELT IST DA! 🌋&lt;/h1&gt;
+    <updated>2024-08-21T08:58:37.235000+00:00</updated>
+    <content>&lt;h1&gt;WARTUNGSARBEITEN &amp; OPTIONALES UPDATE ⚙️&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Wann?&lt;/b&gt; Mittwoch, 21. August&lt;/p&gt;&lt;p&gt;&lt;b&gt;Welche Probleme beheben wir?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Einheiten greifen bei Hau-den-Maulwurf keine Maulwürfe an.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Der Mod wird vorübergehend deaktiviert und kehrt im nächsten Update zurück.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;An verschiedenen Stellen fehlt Text.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Piñata-Bank gewährt nicht immer Belohnungen.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Im optionalen Update behoben – bitte aktualisiere dein Spiel!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Verschiedene Spielabstürze&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;DIE LAVAWELT IST DA! 🌋&lt;/h1&gt;
 &lt;p&gt;Heize deinen Gegnern in einer feurigen Welt voller mächtiger Monster und explosivem Gameplay ein!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Spiel während der Sneak-Peek-Woche der Lavawelt,&lt;/b&gt; &lt;b&gt;um sie auszuprobieren und mit dem Freischalten neuer Charaktere zu beginnen!&lt;/b&gt; Wenn du die Wüstenwelt erreicht hast, musst du nur für den hungrigen Mini-P.E.K.K.A. auf deiner Plaza Pfannkuchen in Kämpfen sammeln. So verdienst du Lavatruhen mit &lt;b&gt;garantierten Charakteren aus der Lavawelt&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Nach der Sneak-Peek-Woche nimmt die Lavawelt ihren Platz am Ende der Weltenreise ein.
 Wenn du die Squadliga erreichst, bevor das Event endet, wartet im Shop eine Belohnung auf dich!&lt;/p&gt;&lt;p&gt;&lt;b&gt;LAVAWELT-CHARAKTERE&lt;/b&gt;&lt;/p&gt;
 &lt;h1&gt;BOGENSCHÜTZIN&lt;/h1&gt;
@@ -284,6 +286,6 @@ Wenn du die Squadliga erreichst, bevor das Event endet, wartet im Shop eine Belo
     <link href="https://squadbusters.inbox.supercell.com/#/de/news/3wdOYwocIWek2LbeS7Tk74"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Updates"/>
-    <published>2024-08-14T07:00:00+00:00</published>
+    <published>2024-08-21T07:00:00+00:00</published>
   </entry>
 </feed>

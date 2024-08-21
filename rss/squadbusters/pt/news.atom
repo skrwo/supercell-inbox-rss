@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-21T08:36:17.967279+00:00</updated>
+  <updated>2024-08-21T09:31:55.025815+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -249,8 +249,10 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Notas de atualização de agosto</title>
-    <updated>2024-08-21T08:35:38.554000+00:00</updated>
-    <content>&lt;h1&gt;O MUNDO MAGMÁTICO CHEGOU! 🌋&lt;/h1&gt;
+    <updated>2024-08-21T08:58:37.235000+00:00</updated>
+    <content>&lt;h1&gt;MANUTENÇÃO E ATUALIZAÇÃO OPCIONAL ⚙️&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Data:&lt;/b&gt; quarta-feira, dia 21&lt;/p&gt;&lt;p&gt;&lt;b&gt;O que vamos corrigir?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Unidades não atacando os monstros que surgem no modo Bate-bate.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;O modificador será desabilitado por ora e voltará na próxima atualização.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Textos faltando em vários lugares.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O banco da piñata nem sempre concede os prêmios.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigidos na atualização opcional - Pedimos que atualize o jogo!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vários travamentos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;O MUNDO MAGMÁTICO CHEGOU! 🌋&lt;/h1&gt;
 &lt;p&gt;O clima está esquentando! Prepare-se para jogar em um novo mundo repleto de ação, monstros poderosos e explosões!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jogue durante a semana de introdução ao Mundo Magmático&lt;/b&gt; &lt;b&gt;para experimentar o novo mundo e começar a desbloquear personagens inéditos&lt;/b&gt;! Se você já atingiu o Mundo Desértico, é só coletar panquecas em batalhas e entregá-las à Mini P.E.K.K.A, que está faminta na praça. Em troca, você recebe baús de lava com &lt;b&gt;personagens do Mundo Magmático garantidos&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Depois da semana de prévia, o Mundo Magmático será movido para o fim da jornada dos mundos.
 Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para resgatar uma recompensa!&lt;/p&gt;&lt;p&gt;&lt;b&gt;PERSONAGENS DO MUNDO MAGMÁTICO&lt;/b&gt;&lt;/p&gt;
 &lt;h1&gt;ARQUEIRA&lt;/h1&gt;
@@ -280,6 +282,6 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/3wdOYwocIWek2LbeS7Tk74"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Novidades do jogo"/>
-    <published>2024-08-14T07:00:00+00:00</published>
+    <published>2024-08-21T07:00:00+00:00</published>
   </entry>
 </feed>
