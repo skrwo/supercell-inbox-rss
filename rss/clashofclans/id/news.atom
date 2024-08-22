@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-22T12:50:58.463223+00:00</updated>
+  <updated>2024-08-22T13:31:42.645036+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
