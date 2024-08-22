@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-22T06:39:03.204929+00:00</updated>
+  <updated>2024-08-22T07:30:26.261607+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -280,7 +280,7 @@ The rewards will be in the shop as soon as we unlock a new milestone, and the ev
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>August Update - Patch Notes!</title>
-    <updated>2024-08-21T12:45:25.379000+00:00</updated>
+    <updated>2024-08-22T07:03:40.766000+00:00</updated>
     <content>&lt;h1&gt;MAINTENANCE &amp; OPTIONAL UPDATE ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;When?&lt;/b&gt; Wednesday, 21st&lt;/p&gt;&lt;p&gt;&lt;b&gt;What are we fixing?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Units not attacking moles in Whack-A-Mole &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;The mod will be disabled for now and will return in the next update.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Missing text in several places&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Piñata Bank not always giving out rewards &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed in the optional update - Please, update your game! &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Several crashes&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Shop Refresh issues&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;LAVA WORLD IS HERE! 🌋&lt;/h1&gt;
@@ -321,5 +321,31 @@ These Skins will become available for Style Tickets after a minimum of 30 days f
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-08-21T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6U7QEwxYWNMai5K4N6lUEs</id>
+    <title>SET UP AUTO EMOTES AND GET REWARDS!</title>
+    <updated>2024-08-22T06:57:36.020000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XQrdkYKNPsfkJ6CQLKdhw/a52722b84afded5522136b5b763a4b63/frgggg.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Auto Emotes is a new feature that allows you to assign Emotes to specific actions so they trigger automatically while you play.&lt;/p&gt;
+&lt;p&gt;Simply go to the Plaza, tap on your profile, and assign an emote to each slot! There’s a step-by-step tutorial at the end of this page if you need it.&lt;/p&gt;
+&lt;h1&gt;Now, what about the rewards?&lt;/h1&gt;
+&lt;p&gt;To celebrate the new Auto Emote feature, we’re tracking every single emote used in battle. The more Emotes used, the more rewards everyone will earn! Every emote counts towards the total progress, and here are the rewards, which will become available as soon as we hit each milestone:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10 Million Emotes:&lt;/b&gt; 1 Random Emote&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;25 Million Emotes:&lt;/b&gt; 300 Style Tickets&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50 Million Emotes:&lt;/b&gt; 50 Baby Colts&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100 Million Emotes:&lt;/b&gt; Retro Colt Skin&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;150 Million Emotes:&lt;/b&gt; 5 Random Emotes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5X0jiRbkEbFZ17k1N6a22R/58feb2ee290e656890bcd8e6633643a8/shelly_square.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;You can still use manual Emotes in battles, but we recommend setting up the Auto Emotes and letting the game do it for you while you’re busy busting monsters and grabbing gems!&lt;/p&gt;
+&lt;h1&gt;How to set up Auto Emotes&lt;/h1&gt;
+&lt;p&gt;Go to your Plaza and tap on your avatar located in the top left corner:&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7GSIgamUcgmYA8oP9tZQkb/7912e71061b3f496d0d8946d6ff8c88a/emote_profile.png?w=1000&amp;h=237&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Once your Player Profile is open, scroll to the Emote Deck. Here, you can set up your manual Emotes, which you can trigger in battle anytime by pressing the speech bubble next to the move controls.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1y4xHVffKPfoKjR7F7XSYK/e1ed632557c3b3d28c4ee656726b4210/Screenshot_2024-08-16_at_12.25.19.png?w=3426&amp;h=1190&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Keep scrolling to find Action Emotes:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1cWfNmJgF4bdNrChWyqcUS/3511972315f96574a4bf09cbe43ec1cb/Screenshot_2024-08-16_at_12.32.47.png?w=3448&amp;h=778&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Tap on each action (e.g., Bust Squad, Bust Boss, etc.) and select the emote you want to trigger on each occasion.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7v0ppO3b01B4vIs7quSWth/55ed876b2f595c1f036328555bf084a2/IMG_0124.PNG?w=2796&amp;h=1290&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Now you’re all set to show off your Emotes and earn rewards!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/6U7QEwxYWNMai5K4N6lUEs"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Community Event"/>
+    <published>2024-08-22T06:45:00+00:00</published>
   </entry>
 </feed>

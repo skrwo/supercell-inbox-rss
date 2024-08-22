@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>squadbusters-newsEntries-tr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-22T06:39:00.863172+00:00</updated>
+  <updated>2024-08-22T07:30:26.523237+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -241,7 +241,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Ağustos Güncellemesi - Yama Notları!</title>
-    <updated>2024-08-21T12:45:25.379000+00:00</updated>
+    <updated>2024-08-22T07:03:40.766000+00:00</updated>
     <content>&lt;h1&gt;İSTEĞE BAĞLI BAKIM GÜNCELLEMESİ ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Ne zaman?&lt;/b&gt; 21 Ağustos, Çarşamba&lt;/p&gt;&lt;p&gt;&lt;b&gt;Neleri düzelteceğiz?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Köstebek Vurmacada köstebeklere saldırmayan birimler.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Bu mod şimdilik devre dışı bırakılacak ve bir sonraki güncellemede geri dönecek.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Birkaç yerdeki eksik metinler.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Pinyata kumbarasının bazen ödül vermemesi.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;İsteğe bağlı güncellemede düzeltildi, lütfen oyununuzu güncelleyin!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Birkaç çökme sorunu.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;LAV DÜNYASI GELDİ 🌋&lt;/h1&gt;
@@ -275,5 +275,31 @@ Etkinlik sona ermeden önce takım ligine ulaşırsanız dükkandan ödülünüz
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Oyun Güncellemeleri"/>
     <published>2024-08-21T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6U7QEwxYWNMai5K4N6lUEs</id>
+    <title>OTOMATİK İFADELERİ AYARLA, ÖDÜLLER KAZAN!</title>
+    <updated>2024-08-22T06:57:36.020000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XQrdkYKNPsfkJ6CQLKdhw/a52722b84afded5522136b5b763a4b63/frgggg.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Otomatik ifadeler, belirli eylemler için seçeceğin ifadelerin oyun sırasında otomatik olarak tetiklenmesini sağlayan yeni bir özelliktir.&lt;/p&gt;
+&lt;p&gt;Tek yapman gereken plazana gitmek, profiline dokunmak ve bölmelere birer ifade atamaktır! İhtiyacın olursa bu sayfanın sonunda işlemi adım adım anlatan talimatlarımızı bulabilirsin.&lt;/p&gt;
+&lt;h1&gt;Peki ya ödüller neler?&lt;/h1&gt;
+&lt;p&gt;Yeni otomatik ifade özelliğini kutlamak için savaşlarda kullanılan ifade sayısını takip ediyoruz. Ne kadar çok ifade kullanılırsa herkes o kadar fazla ödül kazanacak! Her ifade toplam ilerlemeye katılacak ve ulaşılan eşiklerde şu ödüller açılacak:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10 milyon ifade:&lt;/b&gt; 1 rastgele ifade&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;25 milyon ifade:&lt;/b&gt; 300 tarz bileti&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50 milyon ifade:&lt;/b&gt; 50 bebek Colt&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100 milyon ifade:&lt;/b&gt; Retro Colt kostümü&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;150 milyon ifade:&lt;/b&gt; 5 rastgele ifade&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5X0jiRbkEbFZ17k1N6a22R/58feb2ee290e656890bcd8e6633643a8/shelly_square.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Savaşlarda ifadeleri manuel olarak kullanmaya devam edebilirsin ama otomatik ifadeleri ayarlamanı öneririz. Böylece sen canavarlarla savaşıp elmas toplarken ifade seçimiyle senin yerine oyun ilgilenir!&lt;/p&gt;
+&lt;h1&gt;Otomatik ifadeler nasıl ayarlanır?&lt;/h1&gt;
+&lt;p&gt;Plazana giderek sol üst köşedeki avatarına dokun:&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7GSIgamUcgmYA8oP9tZQkb/7912e71061b3f496d0d8946d6ff8c88a/emote_profile.png?w=1000&amp;h=237&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Oyuncu profilin açıldıktan sonra aşağı kaydırarak ifade destesine git. Buradan manuel ifadelerini ayarlayabilir ve bunları savaşta istediğin zaman hareket düğmelerinin yanındaki konuşma balonuna dokunarak kullanabilirsin.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1y4xHVffKPfoKjR7F7XSYK/e1ed632557c3b3d28c4ee656726b4210/Screenshot_2024-08-16_at_12.25.19.png?w=3426&amp;h=1190&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Kaydırmaya devam ederek aksiyon ifadelerini bul.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1cWfNmJgF4bdNrChWyqcUS/3511972315f96574a4bf09cbe43ec1cb/Screenshot_2024-08-16_at_12.32.47.png?w=3448&amp;h=778&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Aksiyonlara (ör. Takım Yok Edince, Boss Yok Edince) dokunarak bu durumlarda kullanılmasını istediğin ifadeyi seç.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7v0ppO3b01B4vIs7quSWth/55ed876b2f595c1f036328555bf084a2/IMG_0124.PNG?w=2796&amp;h=1290&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Artık ifadelerini herkese göstermeye ve ödüller kazanmaya hazırsın!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/tr/news/6U7QEwxYWNMai5K4N6lUEs"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Topluluk Etkinliği"/>
+    <published>2024-08-22T06:45:00+00:00</published>
   </entry>
 </feed>

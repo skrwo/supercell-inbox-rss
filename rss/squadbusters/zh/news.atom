@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-22T06:39:03.548497+00:00</updated>
+  <updated>2024-08-22T07:30:25.761708+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -486,7 +486,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>8月更新詳情！</title>
-    <updated>2024-08-21T12:45:25.379000+00:00</updated>
+    <updated>2024-08-22T07:03:40.766000+00:00</updated>
     <content>&lt;h1&gt;維護和非強制可選更新⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;8月21日維護內容&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;在「打地鼠」隨機事件中單位不會攻擊地鼠&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;該隨機事件將被暫時禁用，並將在下次更新實裝後回歸。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復多處文字缺失&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復皮納塔寶庫有時不會提供獎勵&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;已透過非強制可選更新修復 ，請立即更新遊戲！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復遊戲閃退&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復商店刷新問題&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;熔岩世界火熱推出！🌋&lt;/h1&gt;
@@ -520,5 +520,31 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="更新說明"/>
     <published>2024-08-21T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6U7QEwxYWNMai5K4N6lUEs</id>
+    <title>設定自動表情，獲取超讚獎勵！</title>
+    <updated>2024-08-22T06:57:36.020000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XQrdkYKNPsfkJ6CQLKdhw/a52722b84afded5522136b5b763a4b63/frgggg.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;自動表情是一項全新功能，你可以為特定情境設定表情，讓它們在對戰中自動觸發。&lt;/p&gt;
+&lt;p&gt;只需進入廣場，點擊你的玩家資料介面，然後為每個欄位分配一個表情！如有需要，可查看本文最後的詳細教學。&lt;/p&gt;
+&lt;h1&gt;有什麼獎勵呢？&lt;/h1&gt;
+&lt;p&gt;為慶祝全新自動表情功能推出，我們將記錄大家在對戰中使用的每一個表情。使用的表情越多，每位玩家能獲得的獎勵就越豐富！每次使用表情都將計入總進度，每達到一個里程碑即可解鎖對應獎勵，具體如下：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;1,000萬次表情：&lt;/b&gt;1款隨機表情&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;2,500萬次表情：&lt;/b&gt;300張風格券&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;5,000萬次表情：&lt;/b&gt;50個小小柯爾特&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;1億次表情：&lt;/b&gt;柯爾特造型「復古未來」&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;1.5億次表情：&lt;/b&gt;5款隨機表情&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5X0jiRbkEbFZ17k1N6a22R/58feb2ee290e656890bcd8e6633643a8/shelly_square.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;你仍然可以在對戰中手動發送表情，但我們建議你設定會自動發送的情境表情，這樣你就能在對戰中專心擊殺怪物、奪取寶石！&lt;/p&gt;
+&lt;h1&gt;如何設定手動與自動發送的表情&lt;/h1&gt;
+&lt;p&gt;前往你的廣場，點擊左上角的頭像：&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7GSIgamUcgmYA8oP9tZQkb/7912e71061b3f496d0d8946d6ff8c88a/emote_profile.png?w=1000&amp;h=237&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;開啟「玩家資料」介面後，滑到「出戰表情」，點選自訂，就可以設定手動發送的出戰表情。然後在對戰中點擊操控桿旁的對話框可傳送表情。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7cp42KxY9uk83xk0OfKS2I/168b6f12227ada284de8f59be688f780/tw_20240821_emote_event_01.png?w=1267&amp;h=444&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;於「玩家資料」介面繼續往下滑則可以找到「情境表情」。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5QOjeC9FKpvlZSP1hzf6bh/199a5543a0319598d69b24d1a1276b95/tw_20240821_emote_event_02.png?w=1267&amp;h=296&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;點擊每個情境表情欄位（例如：淘汰突擊隊、擊殺首領等），然後選擇將在每個情境觸發的表情。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7JEiZbJGDSdGOGoej1FC9H/87e363b535ac43ac94d9a34a38d23837/tw_20240821_emote_event_03.png?w=1792&amp;h=828&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;快去秀出你的表情並獲得獎勵吧！&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/6U7QEwxYWNMai5K4N6lUEs"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="社群活動"/>
+    <published>2024-08-22T06:45:00+00:00</published>
   </entry>
 </feed>

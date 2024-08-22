@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>squadbusters-newsEntries-fr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-22T06:39:01.513266+00:00</updated>
+  <updated>2024-08-22T07:30:25.817162+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -238,7 +238,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Mise à jour d'août - Notes de patch !</title>
-    <updated>2024-08-21T12:45:25.379000+00:00</updated>
+    <updated>2024-08-22T07:03:40.766000+00:00</updated>
     <content>&lt;h1&gt;MAINTENANCE ET MISE À JOUR FACULTATIVE ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Quand ?&lt;/b&gt; Le mercredi 21 août&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ce qui va être corrigé ?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les unités qui n&amp;#39;attaquent pas les taupes dans le mod Tape-taupe.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Le mod sera désactivé pour le moment, puis reviendra avec la prochaine mise à jour.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le texte manquant à différents endroits.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La tirelire piñata qui ne donne pas toujours des récompenses.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigé dans la mise à jour facultative (mettez votre jeu à jour !)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Différents problèmes de plantage.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;LE MONDE MAGMA EST LÀ ! 🌋&lt;/h1&gt;
@@ -272,5 +272,31 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Mises à jour"/>
     <published>2024-08-21T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6U7QEwxYWNMai5K4N6lUEs</id>
+    <title>SPAMMEZ VOS ÉMOTES ET GAGNEZ DES RÉCOMPENSES !</title>
+    <updated>2024-08-22T06:57:36.020000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XQrdkYKNPsfkJ6CQLKdhw/a52722b84afded5522136b5b763a4b63/frgggg.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Les émotes d&amp;#39;action sont une nouvelle fonctionnalité qui vous permet d&amp;#39;assigner des émotes à des actions spécifiques, pour que l&amp;#39;émote soit affichée automatiquement quand l&amp;#39;action se produit.&lt;/p&gt;
+&lt;p&gt;Rendez-vous simplement à la Plaza, appuyez sur votre profil, et assignez une émote à chaque emplacement. Si vous avez besoin d&amp;#39;aide, il y a un guide de toutes les étapes en bas de cette page.&lt;/p&gt;
+&lt;h1&gt;Et les récompenses, alors ?&lt;/h1&gt;
+&lt;p&gt;Pour fêter l&amp;#39;arrivée des émotes d&amp;#39;action, nous allons prendre en compte toutes les émotes utilisées au combat. Plus vous utilisez d&amp;#39;émotes, plus vous gagnez de récompenses ! Chaque émote compte dans la progression générale, et voici les récompenses qui seront disponibles à chaque palier complété :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10 millions d&amp;#39;émotes :&lt;/b&gt; 1 émote au hasard&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;25 millions d&amp;#39;émotes :&lt;/b&gt; 300 tickets de style&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50 millions d&amp;#39;émotes :&lt;/b&gt; 50 bébé Colts&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100 millions d&amp;#39;émotes :&lt;/b&gt; skin Colt rétrofuturiste&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;150 millions d&amp;#39;émotes :&lt;/b&gt; 5 émotes au hasard&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5X0jiRbkEbFZ17k1N6a22R/58feb2ee290e656890bcd8e6633643a8/shelly_square.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Vous pouvez encore utiliser les émotes manuellement au combat, mais nous vous recommandons d&amp;#39;assigner des émotes d&amp;#39;action et de laisser le jeu les afficher pendant que vous êtes occupés à éliminer des monstres et à récupérer des gemmes !&lt;/p&gt;
+&lt;h1&gt;Configurer les émotes d'action&lt;/h1&gt;
+&lt;p&gt;Rendez-vous sur la Plaza et appuyez sur votre avatar, en haut à gauche.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7GSIgamUcgmYA8oP9tZQkb/7912e71061b3f496d0d8946d6ff8c88a/emote_profile.png?w=1000&amp;h=237&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Une fois que votre profil est ouvert, défilez jusqu&amp;#39;aux émotes. Ici, vous pouvez sélectionner vos émotes manuelles, à activer au combat en appuyant sur la bulle à côté du joystick.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1y4xHVffKPfoKjR7F7XSYK/e1ed632557c3b3d28c4ee656726b4210/Screenshot_2024-08-16_at_12.25.19.png?w=3426&amp;h=1190&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Plus bas, vous trouverez les émotes d&amp;#39;action.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1cWfNmJgF4bdNrChWyqcUS/3511972315f96574a4bf09cbe43ec1cb/Screenshot_2024-08-16_at_12.32.47.png?w=3448&amp;h=778&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Appuyez sur une action (squad éliminée, boss éliminé, etc.) et sélectionnez l&amp;#39;émote que vous voulez assigner à l&amp;#39;action.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7v0ppO3b01B4vIs7quSWth/55ed876b2f595c1f036328555bf084a2/IMG_0124.PNG?w=2796&amp;h=1290&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Et voilà, vous êtes prêts ! Allez frimer avec vos émotes, et gagnez des récompenses !&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/6U7QEwxYWNMai5K4N6lUEs"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Événement communautaire"/>
+    <published>2024-08-22T06:45:00+00:00</published>
   </entry>
 </feed>

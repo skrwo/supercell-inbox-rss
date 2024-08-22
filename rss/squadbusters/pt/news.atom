@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-22T06:39:01.845284+00:00</updated>
+  <updated>2024-08-22T07:30:26.416678+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -249,7 +249,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Notas de atualização de agosto</title>
-    <updated>2024-08-21T12:45:25.379000+00:00</updated>
+    <updated>2024-08-22T07:03:40.766000+00:00</updated>
     <content>&lt;h1&gt;MANUTENÇÃO E ATUALIZAÇÃO OPCIONAL ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Data:&lt;/b&gt; quarta-feira, dia 21&lt;/p&gt;&lt;p&gt;&lt;b&gt;O que vamos corrigir?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Unidades não atacando os monstros que surgem no modo Bate-bate.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;O modificador será desabilitado por ora e voltará na próxima atualização.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Textos faltando em vários lugares.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O banco da piñata nem sempre concede os prêmios.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigidos na atualização opcional - Pedimos que atualize o jogo!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vários travamentos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;O MUNDO MAGMÁTICO CHEGOU! 🌋&lt;/h1&gt;
@@ -283,5 +283,31 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Novidades do jogo"/>
     <published>2024-08-21T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6U7QEwxYWNMai5K4N6lUEs</id>
+    <title>CONFIGURE EMOTES AUTOMÁTICOS E GANHE PRÊMIOS!</title>
+    <updated>2024-08-22T06:57:36.020000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XQrdkYKNPsfkJ6CQLKdhw/a52722b84afded5522136b5b763a4b63/frgggg.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Emote automático é o novo recurso que atribui emotes a ações específicas para que eles apareçam automaticamente conforme você joga.&lt;/p&gt;
+&lt;p&gt;Basta ir até a praça, tocar no seu perfil e atribuir um emote para cada espaço! Se precisar, você pode conferir um tutorial passo a passo no fim da página.&lt;/p&gt;
+&lt;h1&gt;E as recompensas?&lt;/h1&gt;
+&lt;p&gt;Para comemorar a nova funcionalidade, vamos monitorar cada emote usado nas batalhas (todos eles contam para o progresso total). Quanto mais emotes forem usados, mais recompensas os jogadores ganharão! Confira os prêmios, que ficarão disponíveis a cada meta atingida:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10 milhões de emotes:&lt;/b&gt; 1 emote aleatório&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;25 milhões de emotes:&lt;/b&gt; 300 vales-estilo&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50 milhões de emotes:&lt;/b&gt; 50 Colts bebês&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100 milhões de emotes:&lt;/b&gt; visual do Colt Descolado&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;150 milhões de emotes:&lt;/b&gt; 5 emotes aleatórios&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5X0jiRbkEbFZ17k1N6a22R/58feb2ee290e656890bcd8e6633643a8/shelly_square.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Ainda é possível usar emotes manualmente nas batalhas, mas sugerimos que você configure a função automática para facilitar sua vida enquanto você detona monstros e coleta gemas!&lt;/p&gt;
+&lt;h1&gt;Como configurar emotes automáticos&lt;/h1&gt;
+&lt;p&gt;Vá até a praça e toque no seu avatar no canto superior esquerdo.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7GSIgamUcgmYA8oP9tZQkb/7912e71061b3f496d0d8946d6ff8c88a/emote_profile.png?w=1000&amp;h=237&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Após acessar seu perfil de jogador, desça até &amp;quot;Deck de emotes&amp;quot;. Lá, você configura os emotes manuais, que podem ser acionados a qualquer momento nas batalhas tocando no balão de fala ao lado do controle de movimento.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1y4xHVffKPfoKjR7F7XSYK/e1ed632557c3b3d28c4ee656726b4210/Screenshot_2024-08-16_at_12.25.19.png?w=3426&amp;h=1190&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Continue descendo até &amp;quot;Emotes de ação&amp;quot;.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1cWfNmJgF4bdNrChWyqcUS/3511972315f96574a4bf09cbe43ec1cb/Screenshot_2024-08-16_at_12.32.47.png?w=3448&amp;h=778&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Toque em uma ação (por exemplo, &amp;quot;detonar esquadrão, &amp;quot;detonar chefão&amp;quot; etc.) e escolha o emote a ser acionado em cada situação.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7v0ppO3b01B4vIs7quSWth/55ed876b2f595c1f036328555bf084a2/IMG_0124.PNG?w=2796&amp;h=1290&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Depois disso, você já pode tirar onda com seus emotes e ganhar recompensas!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/6U7QEwxYWNMai5K4N6lUEs"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Evento da comunidade"/>
+    <published>2024-08-22T06:45:00+00:00</published>
   </entry>
 </feed>

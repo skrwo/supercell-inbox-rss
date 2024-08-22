@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>squadbusters-newsEntries-pl</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-22T06:39:01.201498+00:00</updated>
+  <updated>2024-08-22T07:30:25.971714+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -218,7 +218,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Informacje o sierpniowej aktualizacji</title>
-    <updated>2024-08-21T12:45:25.379000+00:00</updated>
+    <updated>2024-08-22T07:03:40.766000+00:00</updated>
     <content>&lt;h1&gt;KONSERWACJA I OPCJONALNA AKTUALIZACJA ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Kiedy:&lt;/b&gt; środa, 21 sierpnia&lt;/p&gt;&lt;p&gt;&lt;b&gt;Co naprawiamy?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Jednostki nie atakują kretów w trybie Palnij kreta&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Modyfikacja zostanie tymczasowo wyłączona i powróci w kolejnej aktualizacji.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Brakujący tekst w kilku miejscach&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Piniatowy bank nie zawsze wydaje nagrody&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Naprawiono w opcjonalnej aktualizacji – zaktualizuj grę!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kilka błędów&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;ŚWIAT LAWY JEST JUŻ DOSTĘPNY! 🌋&lt;/h1&gt;
@@ -252,5 +252,31 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Aktualizacje gry"/>
     <published>2024-08-21T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6U7QEwxYWNMai5K4N6lUEs</id>
+    <title>SKONFIGURUJ AUTOMATYCZNE EMOTKI I ZDOBĄDŹ NAGRODY!</title>
+    <updated>2024-08-22T06:57:36.020000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XQrdkYKNPsfkJ6CQLKdhw/a52722b84afded5522136b5b763a4b63/frgggg.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Automatyczne emotki to nowa funkcja, która pozwala przypisać emotki do określonych czynności, aby były automatycznie aktywowane podczas gry.&lt;/p&gt;
+&lt;p&gt;Przejdź do placu, stuknij swój profil i przypisz emotkę do każdego miejsca! W razie potrzeby na końcu tej strony znajdziesz samouczek krok po kroku.&lt;/p&gt;
+&lt;h1&gt;A co z nagrodami?&lt;/h1&gt;
+&lt;p&gt;Z okazji wprowadzenia nowej funkcji automatycznych emotek śledzimy każdą emotkę użytą w bitwie. Im więcej emotek zostanie użytych, tym więcej nagród otrzymają wszyscy gracze! Każda emotka liczy się na poczet łącznych postępów. Oto nagrody dostępna po osiągnięciu każdego kamienia milowego:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10 milionów emotek:&lt;/b&gt; 1 losowa emotka&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;25 milionów emotek:&lt;/b&gt; 300 biletów stylu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;50 milionów emotek:&lt;/b&gt; 50 małych Coltów&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;100 milionów emotek:&lt;/b&gt; przebranie Retro Colt&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;150 milionów emotek:&lt;/b&gt; 5 losowych emotek&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5X0jiRbkEbFZ17k1N6a22R/58feb2ee290e656890bcd8e6633643a8/shelly_square.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Dalej możesz używać ręcznych emotek w bitwie, ale radzimy skonfigurowanie automatycznych emotek, aby gra aktywowała je, podczas gdy Ty rozgramiasz potwory i zgarniasz klejnoty!&lt;/p&gt;
+&lt;h1&gt;Jak skonfigurować automatyczne emotki&lt;/h1&gt;
+&lt;p&gt;Przejdź do placu i stuknij swój awatar w lewym górnym rogu:&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7GSIgamUcgmYA8oP9tZQkb/7912e71061b3f496d0d8946d6ff8c88a/emote_profile.png?w=1000&amp;h=237&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Po otwarciu profilu gracza przewiń do zestawu emotek. Możesz tutaj skonfigurować ręczne emotki, które można aktywować w dowolnym momencie podczas bitwy, naciskając dymek obok elementów sterowania ruchem.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1y4xHVffKPfoKjR7F7XSYK/e1ed632557c3b3d28c4ee656726b4210/Screenshot_2024-08-16_at_12.25.19.png?w=3426&amp;h=1190&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Przewiń dalej, aby znaleźć emotki czynności.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1cWfNmJgF4bdNrChWyqcUS/3511972315f96574a4bf09cbe43ec1cb/Screenshot_2024-08-16_at_12.32.47.png?w=3448&amp;h=778&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Stuknij każdą czynność (np. Oddział załatwiony, Mistrz załatwiania itp.) i wybierz emotkę, którą chcesz aktywować w danej sytuacji.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7v0ppO3b01B4vIs7quSWth/55ed876b2f595c1f036328555bf084a2/IMG_0124.PNG?w=2796&amp;h=1290&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Teraz możesz prezentować swoje emotki i zdobywać nagrody!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/6U7QEwxYWNMai5K4N6lUEs"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Wydarzenie społecznościowe"/>
+    <published>2024-08-22T06:45:00+00:00</published>
   </entry>
 </feed>

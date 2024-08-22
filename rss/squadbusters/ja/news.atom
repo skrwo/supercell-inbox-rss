@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-08-22T06:38:59.863928+00:00</updated>
+  <updated>2024-08-22T07:30:26.208238+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -511,7 +511,7 @@ Amazon、Amazon.co.jpおよびそれらのロゴはAmazon.com, Inc. またはそ
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>8月のアップデート - パッチノート！</title>
-    <updated>2024-08-21T12:45:25.379000+00:00</updated>
+    <updated>2024-08-22T07:03:40.766000+00:00</updated>
     <content>&lt;h1&gt;メンテナンス＆任意アップデート⚙️&lt;/h1&gt;
 &lt;p&gt;**日付：**21日（水）&lt;/p&gt;&lt;p&gt;&lt;b&gt;修正内容&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;「モグラ叩き」でユニットがモグラを攻撃できない不具合&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;本特別ルールは一時的に削除され、次のアップデートで再実装されます&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;いくつかのゲーム内テキストが表示されない問題&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;一部のプレイヤーがピニャータ金庫から報酬を獲得できない不具合&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;上記の内容が任意アップデートで修正されます。ゲームのアップデートをお忘れなく！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲームがフリーズする不具合&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;ラヴァワールドが登場🌋&lt;/h1&gt;
@@ -545,5 +545,31 @@ Amazon、Amazon.co.jpおよびそれらのロゴはAmazon.com, Inc. またはそ
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="アップデート"/>
     <published>2024-08-21T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6U7QEwxYWNMai5K4N6lUEs</id>
+    <title>自動スタンプを設定して報酬をゲット！</title>
+    <updated>2024-08-22T06:57:36.020000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XQrdkYKNPsfkJ6CQLKdhw/a52722b84afded5522136b5b763a4b63/frgggg.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;新たに実装された「自動スタンプ」は、特定のアクションに割り当てたスタンプを、プレイ中に自動で使用できる機能です。&lt;/p&gt;
+&lt;p&gt;プラザ画面からプロフィールをタップし、スタンプを各スロットに割り当てるだけで機能を使用できます。本ページの最後に設定方法を掲載していますので、ご参照ください。&lt;/p&gt;
+&lt;h1&gt;気になる報酬の内訳！&lt;/h1&gt;
+&lt;p&gt;自動スタンプ機能の実装を祝し、バトル中に使用したスタンプを集計して、コミュニティ全体のスタンプの使用回数に応じて報酬を進呈します！スタンプを使用するたびに複数設定された目標の達成に近付きます。獲得可能な報酬は以下の通りです。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**スタンプ1000万回：**ランダムスタンプ1個&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**スタンプ2500万回：**スタイルチケット300枚&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**スタンプ5000万回：**コルト（ベビー）50体&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**スタンプ1億回：**スキン「イケイケ コルト」&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**スタンプ1.5億回：**ランダムスタンプ5個&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5X0jiRbkEbFZ17k1N6a22R/58feb2ee290e656890bcd8e6633643a8/shelly_square.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;スタンプは手動でも使用可能ですが、モンスターの討伐やエメラルドの回収に集中できるよう、自動スタンプを設定しておくことをお勧めします！&lt;/p&gt;
+&lt;h1&gt;自動スタンプの設定方法&lt;/h1&gt;
+&lt;p&gt;プラザ画面の左隅のアバターをタップします。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7GSIgamUcgmYA8oP9tZQkb/7912e71061b3f496d0d8946d6ff8c88a/emote_profile.png?w=1000&amp;h=237&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;プレイヤープロフィール画面を開き、スクロールして「スタンプデッキ」を探します。ここでは、バトル中に移動ボタンの隣にある吹き出しボタンを押し、手動で使用するスタンプを設定できます。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1y4xHVffKPfoKjR7F7XSYK/e1ed632557c3b3d28c4ee656726b4210/Screenshot_2024-08-16_at_12.25.19.png?w=3426&amp;h=1190&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;スクロールして「アクションスタンプ」を探します。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1cWfNmJgF4bdNrChWyqcUS/3511972315f96574a4bf09cbe43ec1cb/Screenshot_2024-08-16_at_12.32.47.png?w=3448&amp;h=778&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;各アクション（例：スクワッド撃破、ボス撃破など）をタップし、場面別に表示させるスタンプを選択できます。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7v0ppO3b01B4vIs7quSWth/55ed876b2f595c1f036328555bf084a2/IMG_0124.PNG?w=2796&amp;h=1290&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;これでスタンプが自動で表示されるので、安心して報酬獲得を目指すことができます！&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6U7QEwxYWNMai5K4N6lUEs"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="コミュニティイベント"/>
+    <published>2024-08-22T06:45:00+00:00</published>
   </entry>
 </feed>
