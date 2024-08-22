@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-eventEntries-ko</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-08-22T10:38:36.331235+00:00</updated>
+  <updated>2024-08-22T11:28:57.325442+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -45,20 +45,10 @@
     <published>2024-05-31T05:03:32+00:00</published>
   </entry>
   <entry>
-    <id>54odTnn2AKzug4CYUuEX47</id>
-    <title>🗞️</title>
-    <updated>2024-08-07T09:08:20.516000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtube.com/shorts/1iFz_3-z6yo?feature=share"&gt;👉7편 🚌💨👈&lt;/a&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1OboLH0CkYF8A33dV67oPX/c96ccd6955bb40ac6b20b37b93de390f/2W_0708____________________________.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/1iFz_3-z6yo?feature=share"/>
-    <published>2024-07-30T04:35:49+00:00</published>
-  </entry>
-  <entry>
     <id>FjlRHC9HMrG02rkVhVwIf</id>
     <title>이모티콘 파티!</title>
     <updated>2024-08-22T07:54:13.330000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 6.19%&lt;/h1&gt;
+    <content>&lt;h1&gt;PROGRESS: 8.47%&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;📌 - 150M &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1AyTEAX0ms9BEhwVyqqKTO/1b3e8e28389cd26ea6d429c33fdcdbfd/reward5_emote_pack_x5.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;📌 - 100M &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73FE6HBDtsMbBlQRASNa4r/0674126549d69379b3999dd50dec9e33/reward4_Skin_RetroFutureColt.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
@@ -71,5 +61,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2TfGDDrihybMRsBSuaKjLF/c5173cb558c513ffc57e61ff8cbe5238/bg_tracker_860x1080.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/NdiVo-Hs-1o?si=ar13AtcbPkxAsjqB"/>
     <published>2024-08-22T07:01:43+00:00</published>
+  </entry>
+  <entry>
+    <id>54odTnn2AKzug4CYUuEX47</id>
+    <title>🗞️</title>
+    <updated>2024-08-22T11:13:40.881000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtube.com/shorts/sDYFQRbEehM?si=-kZoUSplfBHsOCP8"&gt;👉8편 (feat. 이모티콘 파티!)👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1OboLH0CkYF8A33dV67oPX/c96ccd6955bb40ac6b20b37b93de390f/2W_0708____________________________.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/sDYFQRbEehM?si=-kZoUSplfBHsOCP8"/>
+    <published>2024-07-30T04:35:49+00:00</published>
   </entry>
 </feed>
