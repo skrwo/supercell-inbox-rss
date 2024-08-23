@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-esportNewsEntries-zh</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-23T10:34:56.675481+00:00</updated>
+  <updated>2024-08-23T11:29:24.995335+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -96,7 +96,7 @@
 &lt;p&gt;&lt;b&gt;觀賽獎勵&lt;/b&gt;&lt;/p&gt;
 &lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2ASz0hQVeKp2Wog2KHFpYh/cc63ae5562102f9f675522c23dae4fe3/tw_20240823_BSC_LCQ_Rewards.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;最終席位資格賽期間參加&lt;a href="javascript:window.sendCommand('scidOpenWebSSO%3Furl%3Dhttps%253A%2F%2Fevent.supercell.com%2Fbrawlstars%253Fsso_client_id%253DCE657724-A952-4F2F-B2AA-A4E712EB685B%2526pfg%253Dtrue')"&gt;觀賽網站&lt;/a&gt;特別活動，於網站進行預測、直播互動、答題累積積分將能獲得獎勵！預測可提前預測，也可於直播即時預測。2天賽程總共可獲得20項獎勵包含表情、傳奇寶物之星等！&#13;
-提前預測需要在比賽開始前留意觀賽網站開放與否（通常於比賽開始前一小時開放，但請以實際網站狀態為準）。直播即時預測則是每場對戰開始前會短暫開放預測，時間較短，因此請務必時時留意系統資訊唷！&lt;/p&gt;
+提前預測需要在比賽開始前留意觀賽網站開放與否，目前已開放第1天賽程預測，第2天則於第1天結束後留意網站狀態。直播即時預測則是每場對戰開始前會短暫開放預測，時間較短，因此請務必時時留意系統資訊唷！&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;賽制說明&lt;/b&gt;&lt;/p&gt;
 &lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6fYPr1NM2RLCU5fOrfyE3F/c52c7ee6a7aa83fd79f90a16f5db070e/tw_20240823_BSC_LCQ_Format.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;最終席位資格賽分為2天賽程，首日賽程中，12支隊伍分為4組，以單循環賽制，並採Bo3盤Bo3局進行對戰，每組前2名隊伍晉級次日賽程。&lt;/p&gt;&lt;p&gt;次日賽程中，為單敗淘汰賽，並採Bo5盤Bo3局。對戰組合將根據首日賽程結束時進行的抽籤隨機確定。各場比賽的對戰隊伍，分別為隨機抽選的小組排名第1的隊伍和小組排名第2的隊伍。小組賽中處於同一小組的隊伍，不會在單敗淘汰賽中對戰。&lt;/p&gt;&lt;p&gt;每盤比賽開始前，每位選手均可禁用1名英雄，隨後隊伍裡的每位選手將選擇該盤比賽使用的英雄。選定英雄後和對戰開始前，同一隊伍內的選手可以互換英雄。&lt;/p&gt;
