@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 23 Aug 2024 13:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 14:35:04 +0000</lastBuildDate>
     <item>
       <title>BSC EMEA Mai Finale Mensuelle - Rediffusion</title>
       <link>https://www.twitch.tv/videos/2155000999</link>
@@ -31,6 +31,14 @@
       <category>Esports</category>
       <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3qR6hYHAh0szAaXnLl8CE2/afdbd3f17e05dff65c35cd050140f185/FR-LCQ-Trailer-Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Sat, 22 Jun 2024 17:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>BSC EMEA Juillet Finale Mensuelle - Rediffusion</title>
+      <link>https://www.twitch.tv/videos/2202703459</link>
+      <guid isPermaLink="false">1qKJOI6rFVtcsfWWfKnT4d</guid>
+      <category>Esports</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7ywdt3AeTywvdXMbeNUF3s/66c210116009e010ea306e66f3aee305/FR-BSC-MF-Winners-ZETA-Carousel.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 23 Aug 2024 14:28:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
