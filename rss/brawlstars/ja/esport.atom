@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-23T14:35:03.736561+00:00</updated>
+  <updated>2024-08-23T15:33:45.533077+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>23BGkzUeMwWYo6tT5owH7l</id>
-    <title>アジア太平洋地域 5月マンスリー決勝戦</title>
-    <updated>2024-06-18T06:21:37.961000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Grf8XFy94FWPJgMHscoTI/a126dc0642fa0a993b567669c67fa76f/________202405-jp.jpeg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=cFzH3gtuz5k"/>
-    <category term="eスポーツ"/>
-    <published>2024-05-25T15:00:00+00:00</published>
-  </entry>
   <entry>
     <id>671Qp289QPU34n4QKW9QRA</id>
     <title>ラストチャンス予選について</title>
