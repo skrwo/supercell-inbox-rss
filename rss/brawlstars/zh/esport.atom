@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-esportNewsEntries-zh</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-23T09:30:26.614142+00:00</updated>
+  <updated>2024-08-23T10:34:56.675481+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -81,5 +81,37 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/30hjApyhBkcrI1Rh6DDLVA/34b68f0da89344526189862558029357/tw-20240716-BSC-JULY-MF-APAC-thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="賽事情報"/>
     <published>2024-07-19T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>37N8v8h68htDhxe1oYgIdV</id>
+    <title>8月24日&amp;25日熱血沸騰！</title>
+    <updated>2024-08-23T10:25:27.906000+00:00</updated>
+    <content>&lt;p&gt;2024荒野亂鬥全球錦標賽最終席位資格賽將於8月24日17點30分、25日19點30分火熱展開！&#13;
+&#13;
+&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540Chun')"&gt;盛主播&lt;/a&gt;將於頻道為大家帶來2天的精彩賽事解說，首日小組賽將轉播A組與C組賽事共有6場、次日單敗淘汰賽則4場對戰都將進行直播！請大家務必提前到盛主播頻道設定提醒，為支持的隊伍與選手加油，見證最後4支晉級全球總決賽的隊伍出爐！&lt;/p&gt;
+&lt;h1&gt;盛主播：LCQ第1天&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=_Ir0CcXAj8I"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;盛主播：LCQ第2天&lt;/h1&gt;
+&lt;a href="https://www.youtube.com/watch?v=sxuibY3E3nI"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;觀賽獎勵&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2ASz0hQVeKp2Wog2KHFpYh/cc63ae5562102f9f675522c23dae4fe3/tw_20240823_BSC_LCQ_Rewards.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;最終席位資格賽期間參加&lt;a href="javascript:window.sendCommand('scidOpenWebSSO%3Furl%3Dhttps%253A%2F%2Fevent.supercell.com%2Fbrawlstars%253Fsso_client_id%253DCE657724-A952-4F2F-B2AA-A4E712EB685B%2526pfg%253Dtrue')"&gt;觀賽網站&lt;/a&gt;特別活動，於網站進行預測、直播互動、答題累積積分將能獲得獎勵！預測可提前預測，也可於直播即時預測。2天賽程總共可獲得20項獎勵包含表情、傳奇寶物之星等！&#13;
+提前預測需要在比賽開始前留意觀賽網站開放與否（通常於比賽開始前一小時開放，但請以實際網站狀態為準）。直播即時預測則是每場對戰開始前會短暫開放預測，時間較短，因此請務必時時留意系統資訊唷！&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;賽制說明&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6fYPr1NM2RLCU5fOrfyE3F/c52c7ee6a7aa83fd79f90a16f5db070e/tw_20240823_BSC_LCQ_Format.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;最終席位資格賽分為2天賽程，首日賽程中，12支隊伍分為4組，以單循環賽制，並採Bo3盤Bo3局進行對戰，每組前2名隊伍晉級次日賽程。&lt;/p&gt;&lt;p&gt;次日賽程中，為單敗淘汰賽，並採Bo5盤Bo3局。對戰組合將根據首日賽程結束時進行的抽籤隨機確定。各場比賽的對戰隊伍，分別為隨機抽選的小組排名第1的隊伍和小組排名第2的隊伍。小組賽中處於同一小組的隊伍，不會在單敗淘汰賽中對戰。&lt;/p&gt;&lt;p&gt;每盤比賽開始前，每位選手均可禁用1名英雄，隨後隊伍裡的每位選手將選擇該盤比賽使用的英雄。選定英雄後和對戰開始前，同一隊伍內的選手可以互換英雄。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;第1天小組賽分組情況&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5euWDbaHxzBnT1xxDPgMpW/e8e3d85b653200d0641093f79af336d5/tw_20240823_BSC_LCQ_Groups.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;第2天單敗淘汰賽對戰表&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2SccYYEJshYCexxakGt1ae/5886152e98aa4bc8450eb43a5c86e467/tw_20240823_BSC_LCQ_Single-Elimination.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;亞太賽區的2個LCQ參賽名額由NAVI和BC* Gaming（原隊名Angelic）取得，NAVI由Achapi、Sizuku、Levi組成，而BC* Gaming則包含4位選手Sodaa、Geki、Megu與Sago，究竟在強敵環伺的情況下，他們能否突破重圍？&#13;
+&#13;
+而其他賽區也有不少知名隊伍加入戰局，並在賽前加強訓練或調整隊伍陣容，爭取世界各地更強的選手加入，相信連2天爭奪最後4張晉級全球總決賽門票的對戰，一定十分精彩。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;賽事獎金&lt;/b&gt;&lt;/p&gt;&lt;p&gt;最終席位資格賽的參賽隊伍，前4名因為晉級全球總決賽，已經有全球總決賽的保底獎金，其餘名次獎金分配如圖：&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3GZxBw77hA3HXXRRNBcGnt/9a843fee638d024b9505e7bdbaa502fc/tw_20240823_BSC_LCQ_Prizing.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;8月24日17點30分、8月25日19點30分請鎖定&lt;a href="javascript:window.sendCommand('scidOpenWebSSO%3Furl%3Dhttps%253A%2F%2Fevent.supercell.com%2Fbrawlstars%253Fsso_client_id%253DCE657724-A952-4F2F-B2AA-A4E712EB685B%2526pfg%253Dtrue')"&gt;觀賽網站&lt;/a&gt;觀看即時戰況，享受全球總決賽前最緊張刺激的對戰！&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7guLIZO2eTJEupOfebPnVx/b73285345d962fb129cac9115e3eccb1/tw_20240823_LCQ_THUMB.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="賽事情報"/>
+    <published>2024-08-23T10:25:00+00:00</published>
   </entry>
 </feed>
