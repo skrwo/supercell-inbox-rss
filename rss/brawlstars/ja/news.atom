@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-23T03:32:32.542451+00:00</updated>
+  <updated>2024-08-23T04:35:15.350765+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -237,5 +237,18 @@ https://event.brawlstars.com/jp&#13;
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6UPD5gBsASdKvfABrrtKvM/cc038a0feb597ed432edbbac711ea652/0802_Community_event__800x433_vote03.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-08-20T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1XERYbFE8Lzd9vPlu2r4aS</id>
+    <title>今週末はラストチャンス予選開催！</title>
+    <updated>2024-08-23T04:14:43.259000+00:00</updated>
+    <content>&lt;p&gt;今週末の8/24(土）、8/25(日）はブロスタチャンピオンシップ ラストチャンス予選が開催されます！&lt;/p&gt;&lt;p&gt;このラストチャンス予選では、世界一決定戦の残り4つの出場権をかけて各地域代表12チームが戦います。&lt;/p&gt;&lt;p&gt;日本が含まれる、アジア太平洋地域からは、NAVIとBC GAMINGが出場します！&lt;/p&gt;&lt;p&gt;そして、当日は公式イベントサイトから大会を視聴しポイントを貯めると、ピンズやスタードロップなどの報酬もゲットできます。
+※ポイントをゲットするためには、Supercell IDの接続が必要です。
+&lt;/p&gt;&lt;p&gt;世界トップレベルのブロスタバトルを楽しみながら、ゲーム内アイテムも手に入れましょう！&lt;/p&gt;&lt;p&gt;公式イベントサイトは&lt;a href="javascript:window.sendCommand('scidOpenWebSSO%3Furl%3Dhttps%253A%2F%2Fevent.supercell.com%2Fbrawlstars%2Fjp%253Fsso_client_id%253DCE657724-A952-4F2F-B2AA-A4E712EB685B%2526pfg%253Dtrue')"&gt;こちら&lt;/a&gt;から&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5vogQKxbpRJPDgykhBuVBH/71a8b93e8413228923fa1c5e56cd25b9/GVhOwZubUAA0yZ2.jpeg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/1XERYbFE8Lzd9vPlu2r4aS"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/59GHGIEt00Uiu8g7Bnt4jt/f0e083fe53c12634e46bdfca6459ca55/LCQ2024-jp.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="eスポーツ"/>
+    <published>2024-08-23T04:14:43+00:00</published>
   </entry>
 </feed>
