@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-eventEntries-ko</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-08-24T13:29:01.037699+00:00</updated>
+  <updated>2024-08-24T14:30:56.552077+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -37,20 +37,10 @@
     <published>2024-08-01T09:03:16+00:00</published>
   </entry>
   <entry>
-    <id>2kHnQSqjuGk3bnciswwcOO</id>
-    <title>🗞️</title>
-    <updated>2024-08-23T09:11:34.407000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/U0Mq3mJdwh4"&gt;👉브롤 토크!👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1pumQKHOtUOpo43s8tvnqp/c4ff7fc4426877cf78ccdd3c22938a17/0620_Brawl_Talk_Classic_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/U0Mq3mJdwh4"/>
-    <published>2024-08-23T08:17:51+00:00</published>
-  </entry>
-  <entry>
     <id>2l7xpN9iNDCRfygGTITa6K</id>
     <title>🗞️</title>
     <updated>2024-08-23T16:59:50.773000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 95.00%&lt;/h1&gt;
+    <content>&lt;h1&gt;PROGRESS: 96.00%&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4t8qU8PEymTUxvD2xCZZM8/3aaeda59b6044122a4ad5ddc4a454fa6/starbox_bg.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3kNIZm8Wu5GnrkzcTwcEOq/c2d62d3f214a134ee1f736757b6d1ea4/starbox_bg.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
@@ -60,5 +50,15 @@
 &lt;a href="https://brawlstars.inbox.supercell.com/#/ko/news/1OVipuwX4lNoMuLadusOlO"&gt;👉투표하기!👈&lt;/a&gt; -- &lt;a href="https://youtu.be/surmHgCDXa0?si=3gC4I86AM2OEH8X9"&gt;👉보러 가기!👈&lt;/a&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/cbIFq8ksX0azOFsyjrpB3/6c9a9ab3f4e412649beb07325d44b965/0802_2Community_event_Assets_800x1160.jpg?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <published>2024-08-15T07:58:17+00:00</published>
+  </entry>
+  <entry>
+    <id>2kHnQSqjuGk3bnciswwcOO</id>
+    <title>🗞️</title>
+    <updated>2024-08-24T13:35:14.255000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/KEwxr8I4Gl8"&gt;👉브롤 토크!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3dgIju8ge3fLMrRFn94xF1/c19c3f8ae3cd51b4bec83ffbe7bcfe85/0822_Brawl_Talk_Pop-up_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/KEwxr8I4Gl8"/>
+    <published>2024-08-23T08:17:51+00:00</published>
   </entry>
 </feed>
