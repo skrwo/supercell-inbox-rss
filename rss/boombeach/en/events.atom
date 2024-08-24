@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-eventEntries-en</id>
   <title>Boombeach - Event</title>
-  <updated>2024-08-24T16:36:40.436341+00:00</updated>
+  <updated>2024-08-24T17:31:39.206511+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox Event</subtitle>
