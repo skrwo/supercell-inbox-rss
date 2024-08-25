@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-08-25T16:35:51.833558+00:00</updated>
+  <updated>2024-08-25T17:34:22.827055+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -81,28 +81,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1gexVL2pBmVxclWgqCIaQA/df64b7cd546e791beb8adf9eec7f82b2/0422_4_-__-___-___.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="e스포츠"/>
     <published>2024-04-21T18:33:26+00:00</published>
-  </entry>
-  <entry>
-    <id>7x56Q7exBf0KX1vIfZupBG</id>
-    <title>글로벌 클래시 컵이 돌아왔습니다!</title>
-    <updated>2024-05-22T12:04:04.537000+00:00</updated>
-    <content>&lt;h1&gt;안녕하세요, 대장!&lt;/h1&gt;
-&lt;p&gt;여러분의 심장을 요동치게 만들 최고의 토너먼트, Global Clash Cup(이하 GCC)이 새로운 시즌으로 찾아왔습니다!&lt;/p&gt;&lt;p&gt;GCC는 마을회관 10레벨부터 16레벨까지의 모든 플레이어가 참여할 수 있도록 여러 개의 디비전으로 구성되어 있습니다! &lt;/p&gt;&lt;p&gt;$19,000의 총상금이 걸려 있는 10개의 디비전에서 대장의 실력을 발휘하여 챔피언의 자리에 도전해보세요!&lt;/p&gt;&lt;p&gt;Gothic Division에서 우승한 팀에게는 2024 월드 챔피언십의 와일드카드 결정전으로 향하는 실버 티켓이 주어집니다!&lt;/p&gt;&lt;p&gt;GCC에서 승리의 영광을 차지하고 대장의 이름을 역사에 새길 수 있는 기회! &lt;/p&gt;&lt;p&gt;한국 시간 기준, 5월 7일(화) 오후 9시부터 5월 28일(화) 오후 9시까지 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fglobalclashcup.com%252Fdiscord')"&gt;&lt;u&gt;GCC Discord 서버&lt;/u&gt;&lt;/a&gt;를 통해 참가 등록하실 수 있습니다.&lt;/p&gt;&lt;p&gt;자세한 일정은 아래에서 확인하세요!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/20rdHUe2DYNuxSobEAfeOs/5b617307bd5577dd70ac665e37206ce7/Calendar-kr.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;디비전 구분&lt;/h1&gt;
-&lt;p&gt;GCC는 총 10개의 디비전으로 진행됩니다. &lt;/p&gt;&lt;p&gt;대장의 마을회관 레벨에 해당하는 디비전을 아래에서 확인해 보세요!  &lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4UsgxUkiOziPOzFX31gTD3/c1ef7e34b786d5ceb3abb027addac061/Divisions_kr__1_.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;상금 규모&lt;/h1&gt;
-&lt;p&gt;무려 19,000$에 달하는 총상금과 골드 패스를 비롯한 배경 및 영웅 스킨까지!&lt;/p&gt;&lt;p&gt;자세한 상금 분배는 다음과 같습니다.&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3mqpO9uZoaZ3K9wrWwop18/c2d79d988b00d717cf5c1387ff84b5b5/Prize-pool_KR__1_.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;진행 방식&lt;/h1&gt;
-&lt;p&gt;시즌은 예선과 함께 시작됩니다. 예선에 참여하는 각 팀은 상위권에 올라가기 위해 경쟁하며, 결과에 따라 순위표 상위 팀이 플레이오프에 진출하게 됩니다.&lt;/p&gt;&lt;p&gt;플레이오프에서는 1회 패배 시 탈락하는 싱글 엘리미네이션 방식으로 최고의 팀을 가리게 됩니다.&lt;/p&gt;&lt;p&gt;Ecletic, Baroque, Doric 및 Modern 디비전의 최종 결승전은 3판 2선승제로 진행됩니다. Gothic 디비전의 플레이오프에서는 상위 8개 팀이 결승전에 진출하게 되며, 결승전은 2회 패배 시 탈락하는 더블 엘리미네이션 방식으로 진행됩니다.&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3xEfyhOtDDAOrlF7KpUAeQ/41bf2a0d39c64a3d1cad2f146d39365b/Format_KR__1_.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;
-모든 내용을 확인하셨다면, 팀을 구성하여 지금 바로 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fglobalclashcup.com%252Fdiscord')"&gt;&lt;u&gt;참가 등록&lt;/u&gt;&lt;/a&gt;하세요!&lt;/p&gt;&lt;p&gt;GCC 시즌 9에 대한 자세한 내용은 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fglobalclashcup.com%252Fesports-rulebook')"&gt;&lt;u&gt;GCC e스포츠&lt;/u&gt;&lt;/a&gt; &amp;amp; &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fglobalclashcup.com%252Festablished-rulebook')"&gt;&lt;u&gt;디비전 규정집&lt;/u&gt;&lt;/a&gt;을 확인하시기 바랍니다.&lt;/p&gt;&lt;p&gt;GCC에 관한 모든 소식은 GCC 공식 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fglobalclashcup.com')"&gt;&lt;u&gt;웹사이트&lt;/u&gt;&lt;/a&gt;, &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FGlobalClashCup')"&gt;&lt;u&gt;X(트위터)&lt;/u&gt;&lt;/a&gt;, &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitch.tv%252FGlobalClashCup')"&gt;&lt;u&gt;트위치&lt;/u&gt;&lt;/a&gt; 및 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutube.com%252F%2540globalclashcup')"&gt;&lt;u&gt;유튜브 채널&lt;/u&gt;&lt;/a&gt;에서 확인하세요!&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;그럼 건투를 빕니다!&lt;/i&gt;&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4dnqyVOT3W9JUDDe0ePMww/73504fa1d8080cfb2a074a5289ec39d8/Article-header_thumbnail-_1__KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="e스포츠"/>
-    <published>2024-05-06T12:05:56+00:00</published>
   </entry>
   <entry>
     <id>5lkCewncD7VVHgDFfL2nuN</id>
