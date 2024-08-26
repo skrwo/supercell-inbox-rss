@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-26T12:52:13.016376+00:00</updated>
+  <updated>2024-08-26T13:33:56.581062+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -207,5 +207,15 @@
     <link href="https://u.alipay.cn/_6hmpPQZOwRDFyGqKh2EHgW"/>
     <category term="Berita"/>
     <published>2024-08-22T08:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>7i9OXOliaQFzYw9KYE7NnD</id>
+    <title>Indonesia Independence Day Clash 1V1</title>
+    <updated>2024-08-26T13:33:24.259000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/id/news/7i9OXOliaQFzYw9KYE7NnD"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2PJrvJfhno0aJM2rSGE8vr/d5b7cc702783d6a6117fdb73b9a5ebaa/Thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=NQSxAM3X1Lo"/>
+    <category term="Komunitas"/>
+    <published>2024-08-26T13:33:24+00:00</published>
   </entry>
 </feed>
