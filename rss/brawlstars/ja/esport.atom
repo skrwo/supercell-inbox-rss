@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-26T10:37:17.332738+00:00</updated>
+  <updated>2024-08-26T11:28:50.575627+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -41,5 +41,23 @@
     <link href="https://www.youtube.com/watch?v=MBsSmsW81Bs"/>
     <category term="eスポーツ"/>
     <published>2024-07-23T09:03:24+00:00</published>
+  </entry>
+  <entry>
+    <id>6KnsAr87etbV47jshMWvmS</id>
+    <title>ラストチャンス予選 Day1</title>
+    <updated>2024-08-26T11:26:47.844000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KgsHeZg4KUpXB8zPtLg3y/623ec3ac699947b916c00dce4b2039c5/LCQ2024-jp.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/live/DjLu2D0Btkk?feature=share"/>
+    <category term="eスポーツ"/>
+    <published>2024-08-26T11:26:47+00:00</published>
+  </entry>
+  <entry>
+    <id>7bmBhik6T2kq0eO0YyJsxU</id>
+    <title>ラストチャンス予選 Day2</title>
+    <updated>2024-08-26T11:27:30.195000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0NXUXmwhehNMeEBn369AQ/dbae2508f08652e31f38b05f0cf3a681/LCQ2024-JP--day2.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/live/WMrnK9MFjos?feature=share"/>
+    <category term="eスポーツ"/>
+    <published>2024-08-26T11:27:30+00:00</published>
   </entry>
 </feed>

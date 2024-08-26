@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-26T10:37:13.614422+00:00</updated>
+  <updated>2024-08-26T11:28:49.742164+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -23,5 +23,41 @@
     <link href="https://www.twitch.tv/videos/2202527257?t=00h03m36s"/>
     <category term="Esports"/>
     <published>2024-07-20T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2IS7sIpzFbxFgLt12rShW8</id>
+    <title>Congratulazioni FUT Esports!</title>
+    <updated>2024-08-26T11:20:12.285000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ZfYIzysw5n8lp8oHy6V6H/72c959474f4c603d9123e09823bc76e8/Golden_Ticket_FUT.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/Brawl_esports/status/1827736238792618084"/>
+    <category term="Esports"/>
+    <published>2024-08-26T11:20:12+00:00</published>
+  </entry>
+  <entry>
+    <id>1rQ1B52DVFW2xhyVl9U2PY</id>
+    <title>Congratulazioni Luminosity!</title>
+    <updated>2024-08-26T11:21:28.870000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5CmCvr6kRZLFI22cGEwgc8/66ec00ddd1b97c7330876e1055e1b781/Golden_Ticket_LG.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/Brawl_esports/status/1827724034244534647"/>
+    <category term="Esports"/>
+    <published>2024-08-26T11:21:28+00:00</published>
+  </entry>
+  <entry>
+    <id>1DELNb9DIaFN5Lo08aW5vV</id>
+    <title>Congratulazioni Reply Totem!</title>
+    <updated>2024-08-26T11:22:25.295000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1ITMNXZpA3cGWA7E4YrtW9/0335a0c7e4479bf42c65d5329ec3e304/Golden_Ticket_Reply.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/Brawl_esports/status/1827710938528530509"/>
+    <category term="Esports"/>
+    <published>2024-08-26T11:22:25+00:00</published>
+  </entry>
+  <entry>
+    <id>4jNmPnuGSu2e5iv5jnCmHJ</id>
+    <title>Congratulazioni Eclipsar Esport!</title>
+    <updated>2024-08-26T11:23:27.666000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6rkUtNUwqfrQPdyXNyA6q7/5fb7e0a2be7fe3dc316dfc21415107aa/Golden_Ticket_ECP.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/Brawl_esports/status/1827691482066608251"/>
+    <category term="Esports"/>
+    <published>2024-08-26T11:23:27+00:00</published>
   </entry>
 </feed>
