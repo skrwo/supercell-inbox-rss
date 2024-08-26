@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-08-26T09:30:55.563767+00:00</updated>
+  <updated>2024-08-26T10:37:53.722257+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>45AlBhUtgpRCKHieVID1xV</id>
-    <title>Eventi di Hay Day (settimana n. 22)</title>
-    <updated>2024-05-26T08:02:09.190000+00:00</updated>
-    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 22)&lt;/h1&gt;
-&lt;p&gt;Ehilà, è iniziata un&amp;#39;altra settimana piena di eventi, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: buoni (gira la ruota).&lt;/p&gt;&lt;p&gt;Martedì: materiali extra per i miglioramenti per granaio e silo (ordini del furgone).&lt;/p&gt;&lt;p&gt;Mercoledì: potenziamenti (ordini per la barca).&lt;/p&gt;&lt;p&gt;Giovedì: monete doppie (visitatori della fattoria).&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 30% per due edifici per la pesca (vasca per aragoste e banco da lavoro per esche) e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;Sabato: XP doppi (visitatori della città).&lt;/p&gt;&lt;p&gt;Domenica: potenziamento colture (3 unità invece di 2 da 3 colture a caso).&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/45AlBhUtgpRCKHieVID1xV"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notizie"/>
-    <published>2024-05-26T08:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>2xgZwJCXdIoZvVmW2ZMtG</id>
-    <title>Trailer rock &amp; roll del Quovotidiano</title>
-    <updated>2024-05-27T13:29:37.182000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/2xgZwJCXdIoZvVmW2ZMtG"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5MEu1mWoUzQ2Mjh0W0rasz/8fd8e0729cb09408f8acb8cd86cb8445/trailer_inbox.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/H4QZqxAl52o"/>
-    <category term="Notizie"/>
-    <published>2024-05-27T13:04:44+00:00</published>
-  </entry>
   <entry>
     <id>327tcjIfc8NZ0JV4aHpivq</id>
     <title>Aggiornamento rock &amp; roll</title>

@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-08-26T09:30:56.690513+00:00</updated>
+  <updated>2024-08-26T10:37:57.442788+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>45AlBhUtgpRCKHieVID1xV</id>
-    <title>Hay Dayn tapahtumat viikolla 22</title>
-    <updated>2024-05-26T08:02:09.190000+00:00</updated>
-    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 22&lt;/h1&gt;
-&lt;p&gt;Hei farmarit! Uusi tapahtumaviikko alkaa! Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: kuponkeja onnenpyörästä&lt;/p&gt;&lt;p&gt;Tiistai: ladon ja viljavaraston päivitysmateriaaleja lisäpalkintona tavararekkatilauksista&lt;/p&gt;&lt;p&gt;Keskiviikko: kiihdyttimiä lisäpalkintona laivatilauksista&lt;/p&gt;&lt;p&gt;Torstai: tuplasti kolikoita farmivierailijoista&lt;/p&gt;&lt;p&gt;Perjantai: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;Lauantai: tuplasti kokemuspisteitä kylävierailijoista&lt;/p&gt;&lt;p&gt;Sunnuntai: kolmen sattumanvaraisen viljelyskasvin tehostus (satoa korjatessa 3 viljelyskasvia 2:n sijaan)&lt;/p&gt;&lt;p&gt;Verratonta viikkoa!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/45AlBhUtgpRCKHieVID1xV"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Uutiset"/>
-    <published>2024-05-26T08:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>2xgZwJCXdIoZvVmW2ZMtG</id>
-    <title>Rokkaavien Ajankohtaiskiekaisujen traileri</title>
-    <updated>2024-05-27T13:29:37.182000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/2xgZwJCXdIoZvVmW2ZMtG"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5MEu1mWoUzQ2Mjh0W0rasz/8fd8e0729cb09408f8acb8cd86cb8445/trailer_inbox.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/H4QZqxAl52o"/>
-    <category term="Uutiset"/>
-    <published>2024-05-27T13:04:44+00:00</published>
-  </entry>
   <entry>
     <id>327tcjIfc8NZ0JV4aHpivq</id>
     <title>Rokkipäivitys</title>

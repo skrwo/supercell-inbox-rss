@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-08-26T09:30:54.872866+00:00</updated>
+  <updated>2024-08-26T10:37:50.701556+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>45AlBhUtgpRCKHieVID1xV</id>
-    <title>Hay Day Etkinlikleri 22. Hafta!</title>
-    <updated>2024-05-26T08:02:09.190000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Etkinlikleri 22. Hafta!&lt;/h1&gt;
-&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır olun! Tüm etkinlikler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;Pazartesi: Çarkıfelek Etkinliği (hediye çekleri)&lt;/p&gt;&lt;p&gt;Salı: Kamyon Etkinliği (ekstra ağıl ve ambar yükseltme malzemeleri)&lt;/p&gt;&lt;p&gt;Çarşamba: Tekne Etkinliği (hızlandırıcılar)&lt;/p&gt;&lt;p&gt;Perşembe: Çiftlik Ziyaretçileri Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Cuma: Balıkçılık Hızlandırma Etkinliği (ıstakozlar ve yemler %30) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;Cumartesi: Kasaba Ziyaretçileri Etkinliği (iki kat TP)&lt;/p&gt;&lt;p&gt;Pazar: Ekin Artışı Etkinliği (üç rastgele ekinde iki yerine üç ekin)&lt;/p&gt;&lt;p&gt;Harika bir hafta diliyoruz!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/45AlBhUtgpRCKHieVID1xV"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Haberler"/>
-    <published>2024-05-26T08:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>2xgZwJCXdIoZvVmW2ZMtG</id>
-    <title>Rock 'n' Roll Çiftlikten Haberler Fragmanı</title>
-    <updated>2024-05-27T13:29:37.182000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/2xgZwJCXdIoZvVmW2ZMtG"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5MEu1mWoUzQ2Mjh0W0rasz/8fd8e0729cb09408f8acb8cd86cb8445/trailer_inbox.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/H4QZqxAl52o"/>
-    <category term="Haberler"/>
-    <published>2024-05-27T13:04:44+00:00</published>
-  </entry>
   <entry>
     <id>327tcjIfc8NZ0JV4aHpivq</id>
     <title>Rock 'n' Roll Güncellemesi</title>

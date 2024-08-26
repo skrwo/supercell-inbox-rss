@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-08-26T09:30:57.898318+00:00</updated>
+  <updated>2024-08-26T10:38:04.261058+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>45AlBhUtgpRCKHieVID1xV</id>
-    <title>Acara Hay Day Minggu 22!</title>
-    <updated>2024-05-26T08:02:09.190000+00:00</updated>
-    <content>&lt;h1&gt;Acara Hay Day Minggu 22!&lt;/h1&gt;
-&lt;p&gt;Helo, peladang! Bersedia untuk satu lagi minggu yang penuh dengan acara! Semua acara bermula pada 8:00 UTC (16:00 MYT). Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;Isnin: Putaran Nasib (Baucar)&lt;/p&gt;&lt;p&gt;Selasa: Acara Trak (Bahan naik taraf bangsal &amp;amp; silo tambahan)&lt;/p&gt;&lt;p&gt;Rabu: Acara Bot (Penggalak)&lt;/p&gt;&lt;p&gt;Khamis: Acara Pelawat Ladang (2x syiling)&lt;/p&gt;&lt;p&gt;Jumaat: Acara Galakan Pengeluaran Memancing (Udang kara dan umpan 30%) + 2x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Sabtu: Pelawat Bandar (2x XP)&lt;/p&gt;&lt;p&gt;Ahad: Acara Galakan Tanaman (3 Tuaian untuk 2, 3 tanaman rawak)&lt;/p&gt;&lt;p&gt;Semoga minggu anda ceria!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/45AlBhUtgpRCKHieVID1xV"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Berita"/>
-    <published>2024-05-26T08:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>2xgZwJCXdIoZvVmW2ZMtG</id>
-    <title>Treler Berita Ladang Rock 'n' Roll</title>
-    <updated>2024-05-27T13:29:37.182000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/2xgZwJCXdIoZvVmW2ZMtG"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5MEu1mWoUzQ2Mjh0W0rasz/8fd8e0729cb09408f8acb8cd86cb8445/trailer_inbox.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/H4QZqxAl52o"/>
-    <category term="Berita"/>
-    <published>2024-05-27T13:04:44+00:00</published>
-  </entry>
   <entry>
     <id>327tcjIfc8NZ0JV4aHpivq</id>
     <title>Kemas Kini Rock 'n' Roll</title>
