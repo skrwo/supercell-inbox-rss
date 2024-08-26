@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-26T07:29:09.337791+00:00</updated>
+  <updated>2024-08-26T08:37:18.508038+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -219,5 +219,25 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6UPD5gBsASdKvfABrrtKvM/cc038a0feb597ed432edbbac711ea652/0802_Community_event__800x433_vote03.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="社群"/>
     <published>2024-08-20T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3pYVo6sqUFiACXzg8CZXmC</id>
+    <title>【嘿!兄弟】最新平衡性調整、極限威能、新活動、新造型資訊！</title>
+    <updated>2024-08-26T08:31:52.975000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/3pYVo6sqUFiACXzg8CZXmC"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2pJFCfv40tVQ5O6bDl8EPa/8703eb0e9c933eefa563c24e9ed61e47/tw_20240826_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ziJRbojg3Tg"/>
+    <category term="最新情報"/>
+    <published>2024-08-26T05:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6O1KX7tygbpHoeHFFyCKa9</id>
+    <title>【盛主播】6款極限威能、平衡性調整、海綿寶寶聯動等超多內容！</title>
+    <updated>2024-08-26T08:30:22.047000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6O1KX7tygbpHoeHFFyCKa9"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1qioItI0L39yrW3BaFnndq/7a3a6a433588fee614f902bf06eee569/tw_20240826_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/fL9JRSVVSAU"/>
+    <category term="最新情報"/>
+    <published>2024-08-26T05:01:00+00:00</published>
   </entry>
 </feed>
