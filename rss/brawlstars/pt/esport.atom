@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-08-26T13:33:51.136699+00:00</updated>
+  <updated>2024-08-26T14:33:04.016231+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -60,5 +60,14 @@ através dos perfis oficiais da COPA:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;
     <link href="https://youtu.be/wazqZYwvkZ0"/>
     <category term="Esports"/>
     <published>2024-08-01T18:28:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2aSvMHCvLXTceWPtsEtkLI</id>
+    <title>Parabéns FUT Esports!</title>
+    <updated>2024-08-26T14:16:49.227000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ZfYIzysw5n8lp8oHy6V6H/72c959474f4c603d9123e09823bc76e8/Golden_Ticket_FUT.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=LlQmmZN7YPI"/>
+    <category term="Esports"/>
+    <published>2024-08-26T14:16:49+00:00</published>
   </entry>
 </feed>
