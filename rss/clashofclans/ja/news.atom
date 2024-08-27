@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-27T10:35:43.456188+00:00</updated>
+  <updated>2024-08-27T11:29:06.085508+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -430,5 +430,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6blYXtWL67oIp0iDQYcryO/b38456f969e48ce2ffdb324fbc698f1a/12____INbo.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-08-13T02:51:39+00:00</published>
+  </entry>
+  <entry>
+    <id>1dTCTk4XyUjDjJQ5wETequ</id>
+    <title>9月のバランス調整に関するお知らせ！</title>
+    <updated>2024-08-27T11:12:39.834000+00:00</updated>
+    <content>&lt;p&gt;9月上旬の大型アップデートが間近に迫っています。今回は、タウンホールレベルのさまざまな側面に行われるバランス変更についてお知らせします。&lt;/p&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.reddit.com%252Fr%252FClashOfClans%252Fcomments%252F1f2daw4%252Fseptember_update_balance_changes_breakdown%252F')"&gt;&lt;b&gt;こちら&lt;/b&gt;&lt;/a&gt;から、本アップデートで行われる変更点に関する記事をご覧ください！&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/1dTCTk4XyUjDjJQ5wETequ"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-08-27T11:12:39+00:00</published>
   </entry>
 </feed>

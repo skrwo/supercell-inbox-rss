@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-27T10:35:37.030799+00:00</updated>
+  <updated>2024-08-27T11:29:06.635272+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -239,5 +239,15 @@
     <link href="https://youtu.be/jti-IFsPKEc"/>
     <category term="news"/>
     <published>2024-08-09T08:01:02+00:00</published>
+  </entry>
+  <entry>
+    <id>1dTCTk4XyUjDjJQ5wETequ</id>
+    <title>Hinweis zu kommenden Balanceänderungen im September</title>
+    <updated>2024-08-27T11:12:39.834000+00:00</updated>
+    <content>&lt;p&gt;Anfang September steht ein weiteres großes Update an. Wir möchten dir schon im Voraus einen Ausblick auf die kommenden Balanceänderungen geben, die viele verschiedene Rathaus-Level betreffen.&lt;/p&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.reddit.com%252Fr%252FClashOfClans%252Fcomments%252F1f2daw4%252Fseptember_update_balance_changes_breakdown%252F')"&gt;&lt;b&gt;HIER&lt;/b&gt;&lt;/a&gt; erfährst du in einem ausführlichen Beitrag Genaueres zu sämtlichen Änderungen, die dich in diesem Update erwarten!&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/de/news/1dTCTk4XyUjDjJQ5wETequ"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="news"/>
+    <published>2024-08-27T11:12:39+00:00</published>
   </entry>
 </feed>

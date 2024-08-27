@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-27T10:35:38.502293+00:00</updated>
+  <updated>2024-08-27T11:29:04.636447+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -506,5 +506,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6R0KghRGeKyqr7d71HH6rs/ab72102e037c9f5a2663d47fe6d80350/tw_20240821_clan_games_rewards_AUGUST.jpg.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-08-20T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1dTCTk4XyUjDjJQ5wETequ</id>
+    <title>關於9月平衡性調整即將上線的公告！</title>
+    <updated>2024-08-27T11:12:39.834000+00:00</updated>
+    <content>&lt;p&gt;首領們，大家好！&lt;/p&gt;&lt;p&gt;九月初，我們即將迎來又一次重大更新。在此，我們想提前向大家介紹即將實裝的平衡性調整，這些調整會影響大部分大本營等級。&lt;/p&gt;&lt;p&gt;請點擊&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.reddit.com%252Fr%252FClashOfClans%252Fcomments%252F1f2daw4%252Fseptember_update_balance_changes_breakdown%252F')"&gt;&lt;b&gt;此處&lt;/b&gt;&lt;/a&gt;查看詳細說明，了解此次更新實裝的所有調整！&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1dTCTk4XyUjDjJQ5wETequ"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-08-27T11:12:39+00:00</published>
   </entry>
 </feed>
