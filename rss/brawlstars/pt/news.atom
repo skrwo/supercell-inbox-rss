@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-27T16:38:20.856903+00:00</updated>
+  <updated>2024-08-27T17:30:47.136442+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -112,5 +112,15 @@ Importante: é preciso ter pelo menos 400 troféus para obter as recompensas.&lt
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6UPD5gBsASdKvfABrrtKvM/cc038a0feb597ed432edbbac711ea652/0802_Community_event__800x433_vote03.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Comunidade"/>
     <published>2024-08-20T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1AUwc5Q0QsbyJcOxwDtfkS</id>
+    <title>Brawl Talk Dublado pelo Tio Gus!</title>
+    <updated>2024-08-27T16:50:30.083000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/1AUwc5Q0QsbyJcOxwDtfkS"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3sMNRnSfAwHGNqvSw3fKvN/8f713edc86f7226e048bc2bf389e41af/Picsart_24-08-24_13-33-35-161.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/LDUQaGV4wek"/>
+    <category term="Comunidade"/>
+    <published>2024-08-27T16:50:30+00:00</published>
   </entry>
 </feed>
