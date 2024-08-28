@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-08-28T03:33:50.306943+00:00</updated>
+  <updated>2024-08-28T04:35:58.973634+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -239,5 +239,25 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
     <link href="https://youtu.be/fL9JRSVVSAU"/>
     <category term="最新情報"/>
     <published>2024-08-26T05:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3InreIFxapU7KUEDTpjYdS</id>
+    <title>【盛主播】靈活運用鑽頭的莫🐭會突破天際嗎？</title>
+    <updated>2024-08-28T03:49:33.666000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/3InreIFxapU7KUEDTpjYdS"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1z3rrn8ZSHkR0hhqL7f6LI/c6032d4eb40b397f3ca6315b04788540/tw_20240827_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=UBAFuZiVgwo"/>
+    <category term="最新情報"/>
+    <published>2024-08-28T03:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3wHThnsLRXrgSBLzmZ9dtT</id>
+    <title>【嘿!兄弟】莫🧀遠程近戰皆可？還有哪些特點？</title>
+    <updated>2024-08-28T03:49:57.875000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/3wHThnsLRXrgSBLzmZ9dtT"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1oMtkqb22z35FhmYQriGC3/d10e2af003707314d0114febd2b8ac9d/tw_20240827_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=aWpK2tkl3rg"/>
+    <category term="最新情報"/>
+    <published>2024-08-28T03:31:00+00:00</published>
   </entry>
 </feed>
