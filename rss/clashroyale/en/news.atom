@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-29T14:35:05.059647+00:00</updated>
+  <updated>2024-08-29T15:32:39.382241+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -591,5 +591,15 @@ Your chosen Evolution’s Shards will be converted into Wild Cards, ensuring you
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1u9YCohtjfohBfY8OKVKZz/a6f731db1b8a3128a52558606266eb4f/cardevoauguststatic.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Highlights"/>
     <published>2024-08-28T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1PPsMsltYVpnZ5P3SNPOdR</id>
+    <title>P.E.K.K.A Evolution Gameplay!</title>
+    <updated>2024-08-29T15:30:10.859000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/1PPsMsltYVpnZ5P3SNPOdR"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ah1iZmkw30PXR8H4bDlic/05e7ad94b3e9b8c8a149170055be6741/pekkaevogameplay.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/Eae_AGc_4G4?feature=share"/>
+    <category term="Highlights"/>
+    <published>2024-08-29T15:30:03+00:00</published>
   </entry>
 </feed>
