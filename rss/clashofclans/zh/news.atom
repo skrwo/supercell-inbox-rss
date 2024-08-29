@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-08-29T10:36:50.956497+00:00</updated>
+  <updated>2024-08-29T11:29:39.926439+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -521,5 +521,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8-4iIDr2ExmJQcIxcV2R2CptZ4-Kjj4fasbqlTT3Xkk/cb3cd66437384a7e637bc180818a5357/tw_20200619_Qol_-Balance-Changes-thumb_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-08-27T11:12:39+00:00</published>
+  </entry>
+  <entry>
+    <id>7MrOPyq6FYfhMYXkZVzM5O</id>
+    <title>【呱呱】9月將有平衡性調整，還不知道玩什麼嗎？</title>
+    <updated>2024-08-29T11:21:40.419000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7MrOPyq6FYfhMYXkZVzM5O"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/343sCKABX1dCNMSxtC5nx1/a2381985321e6222c380a85aa50392c1/tw_20240829_frog_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/J7sou_8HUVA"/>
+    <category term="最新情報"/>
+    <published>2024-08-29T11:20:00+00:00</published>
   </entry>
 </feed>
