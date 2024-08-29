@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-08-28T23:30:03.701284+00:00</updated>
+  <updated>2024-08-29T01:49:34.717729+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -25,16 +25,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2023-12-01T18:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>4tvLr0fQjobgr19w52g2kM</id>
-    <title>Анимационный ролик «Эволюция гоблинской бочки»!</title>
-    <updated>2024-05-31T04:51:19.321000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/4tvLr0fQjobgr19w52g2kM"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4sw3ShN6VndtQNcUtLfHi9/979174b639f6e048e38f5bc3e1ee9a1f/goblinbarrelevoanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/clashroyale"/>
-    <category term="Лучшие моменты"/>
-    <published>2024-05-30T15:05:02+00:00</published>
   </entry>
   <entry>
     <id>2ba2X3NUqVQjdY8f5dXKhN</id>
