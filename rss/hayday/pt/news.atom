@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-08-29T06:39:39.403721+00:00</updated>
+  <updated>2024-08-29T07:29:54.552029+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>327tcjIfc8NZ0JV4aHpivq</id>
-    <title>Atualização de Rock &amp; Roll</title>
-    <updated>2024-05-30T19:15:14.638000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/327tcjIfc8NZ0JV4aHpivq"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/14I1rdBN2dHnIXwegpj5bP/b1744d0143b0203bab2e65ed2cd08298/HayDay_junedairynews_popup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/5LI0VZxx8gQ"/>
-    <category term="Notícias"/>
-    <published>2024-05-30T18:52:55+00:00</published>
-  </entry>
   <entry>
     <id>43L6F3AzO6X5XlZeYM1Kac</id>
     <title>Semana 23 de eventos do Hay Day</title>
@@ -252,5 +242,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-08-18T16:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6yhs08FYqUPi9UJPSFsXVd</id>
+    <title>Semana 35 de eventos do Hay Day</title>
+    <updated>2024-08-29T06:46:55.254000+00:00</updated>
+    <content>&lt;h1&gt;Semana 35 de eventos do Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com materiais de expansão.&lt;/p&gt;&lt;p&gt;Terça-feira: vales com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Quarta-feira: aceleradores com os pedidos do barco.&lt;/p&gt;&lt;p&gt;Quinta-feira: dobro de moedas com os visitantes da fazenda e triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;Sexta-feira: aceleração da produção em 20% da área de pesca e triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;Sábado: materiais para o celeiro e silo com os visitantes da cidade e triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;Domingo: três tipos aleatórios de ração serão produzidos com o dobro de velocidade e triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/6yhs08FYqUPi9UJPSFsXVd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notícias"/>
+    <published>2024-08-26T10:16:36+00:00</published>
   </entry>
 </feed>

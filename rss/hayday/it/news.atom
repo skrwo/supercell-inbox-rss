@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-08-29T06:39:39.497002+00:00</updated>
+  <updated>2024-08-29T07:29:56.580854+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>327tcjIfc8NZ0JV4aHpivq</id>
-    <title>Aggiornamento rock &amp; roll</title>
-    <updated>2024-05-30T19:15:14.638000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/327tcjIfc8NZ0JV4aHpivq"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/14I1rdBN2dHnIXwegpj5bP/b1744d0143b0203bab2e65ed2cd08298/HayDay_junedairynews_popup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/5LI0VZxx8gQ"/>
-    <category term="Notizie"/>
-    <published>2024-05-30T18:52:55+00:00</published>
-  </entry>
   <entry>
     <id>43L6F3AzO6X5XlZeYM1Kac</id>
     <title>Eventi di Hay Day (settimana n. 23)</title>
@@ -252,5 +242,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-08-18T16:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6yhs08FYqUPi9UJPSFsXVd</id>
+    <title>Eventi di Hay Day (settimana n. 35)</title>
+    <updated>2024-08-29T06:46:55.254000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 35)&lt;/h1&gt;
+&lt;p&gt;Ciao, preparati a un&amp;#39;altra settimana piena di eventi, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: oggetti espansione (gira la ruota).&lt;/p&gt;&lt;p&gt;Martedì: buoni (ordini del furgone).&lt;/p&gt;&lt;p&gt;Mercoledì: potenziamenti (ordini per la barca).&lt;/p&gt;&lt;p&gt;Giovedì: monete doppie (visitatori della fattoria) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 20% per tutti gli edifici di pesca e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Sabato: materiali per granaio e silo (visitatori della città) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Domenica: produttività dei mangimifici ottimizzata (tre tipi casuali di mangime per animali verranno prodotti al doppio della velocità) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/6yhs08FYqUPi9UJPSFsXVd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-08-26T10:16:36+00:00</published>
   </entry>
 </feed>

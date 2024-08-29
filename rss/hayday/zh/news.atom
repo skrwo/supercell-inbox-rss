@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-08-29T06:39:40.254496+00:00</updated>
+  <updated>2024-08-29T07:30:05.222289+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>327tcjIfc8NZ0JV4aHpivq</id>
-    <title>搖滾更新勁爆登場！</title>
-    <updated>2024-05-30T19:15:14.638000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/zh/news/327tcjIfc8NZ0JV4aHpivq"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/14I1rdBN2dHnIXwegpj5bP/b1744d0143b0203bab2e65ed2cd08298/HayDay_junedairynews_popup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/5LI0VZxx8gQ"/>
-    <category term="最新情報"/>
-    <published>2024-05-30T18:52:55+00:00</published>
-  </entry>
   <entry>
     <id>43L6F3AzO6X5XlZeYM1Kac</id>
     <title>《卡通農場》第23週活動安排！</title>

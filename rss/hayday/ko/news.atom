@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-08-29T06:39:39.591932+00:00</updated>
+  <updated>2024-08-29T07:29:58.514158+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>327tcjIfc8NZ0JV4aHpivq</id>
-    <title>로큰롤 업데이트</title>
-    <updated>2024-05-30T19:15:14.638000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/ko/news/327tcjIfc8NZ0JV4aHpivq"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/14I1rdBN2dHnIXwegpj5bP/b1744d0143b0203bab2e65ed2cd08298/HayDay_junedairynews_popup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/5LI0VZxx8gQ"/>
-    <category term="뉴스"/>
-    <published>2024-05-30T18:52:55+00:00</published>
-  </entry>
   <entry>
     <id>43L6F3AzO6X5XlZeYM1Kac</id>
     <title>헤이데이 이벤트 23주 차!</title>
@@ -252,5 +242,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-08-18T16:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6yhs08FYqUPi9UJPSFsXVd</id>
+    <title>헤이데이 이벤트 35주 차!</title>
+    <updated>2024-08-29T06:46:55.254000+00:00</updated>
+    <content>&lt;h1&gt;헤이데이 이벤트 35주 차&lt;/h1&gt;
+&lt;p&gt;안녕하세요, 농부님! 이번 주의 이벤트를 즐길 준비를 하세요! 모든 이벤트는 오후 5시(KST)에 시작합니다. 각 이벤트에 대한 자세한 정보는 해당 요일에 게임 내 이벤트 게시판을 확인하세요.&lt;/p&gt;&lt;p&gt;월요일: 행운의 룰렛(확장 아이템)&lt;/p&gt;&lt;p&gt;화요일: 트럭 이벤트(쿠폰)&lt;/p&gt;&lt;p&gt;수요일: 화물선 이벤트(부스터)&lt;/p&gt;&lt;p&gt;목요일: 농장 방문객 이벤트(코인 2배) + 농장 패스 포인트 3배&lt;/p&gt;&lt;p&gt;금요일: 낚시 생산 부스트 이벤트(모든 건물 20% 가속) + 농장 패스 포인트 3배&lt;/p&gt;&lt;p&gt;토요일: 타운 방문객 이벤트(농작물 저장소 및 헛간 아이템) + 농장 패스 포인트 3배&lt;/p&gt;&lt;p&gt;일요일: 동물 사료 이벤트(무작위 동물 사료 3종 생산 2배 가속) + 농장 패스 포인트 3배&lt;/p&gt;&lt;p&gt;즐거운 한 주 보내세요!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/6yhs08FYqUPi9UJPSFsXVd"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-08-26T10:16:36+00:00</published>
   </entry>
 </feed>
