@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Aug 2024 08:37:29 +0000</lastBuildDate>
-    <item>
-      <title>June events</title>
-      <link>https://boombeach.inbox.supercell.com/#/en/news/4gPvm1zq9tkN6LCZf48MB0</link>
-      <description>&lt;h1&gt;June events&lt;/h1&gt;
-&lt;p&gt;Rocket Choppa: 3 - 9
-
-Tank &amp;amp; Warrior Mania: 7 - 9
-&#13;Explosive Drones: 10 - 12
-&#13;Rifleman &amp;amp; Laser Ranger Mania: 14 - 16
-&#13;Rain Maker: 17 - 23
-&#13;Zooka Mania: 21 - 23
-&#13;Remote Hack: 24 - 26
-&#13;Life Leech Crab: 28 - 30&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">4gPvm1zq9tkN6LCZf48MB0</guid>
-      <category>Blog</category>
-      <enclosure url="https://boombeach.inbox.supercell.com/cf7umh1jvp53/2RdqgNwFKYc1TN9aipfcme/5f8a6c850dc7dd871173baf37aceb48f/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Fri, 31 May 2024 23:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Aug 2024 09:31:44 +0000</lastBuildDate>
     <item>
       <title>Summer Skies</title>
       <link>https://boombeach.inbox.supercell.com/#/en/news/64naIV3DLezw7ezu3QvGXi</link>
@@ -37,7 +19,7 @@ Tank &amp;amp; Warrior Mania: 7 - 9
 Invasion logic changes&lt;/h3&gt;&lt;p&gt;The logic for determining when an invasion on the Archipelago Map occurs has been adjusted.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Blackguard (PvE) and mercenary (PvP) invasions are now on separate timers and are no longer random.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;These timers are visible in the Radar info screen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The tooltips for these timers will give additional information.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The timing for when an invasion occurs has changed:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Instead of a potential invasion, there will be an invasion at the time displayed.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The base time for the invasions increases based on player level. This indicates the shortest time the timers can have.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Base time is capped at 2 hours at level 60.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Timer duration depends on the amount of discovered and liberated islands.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;There is a minimum number of islands that need to be liberated for the timer to start.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;This number depends on the total number of islands discovered.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;These numbers are separate for Blackguard and mercenary invasions.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The more islands beyond the required amount of islands are liberated, the shorter the time to the next invasion. If all islands are liberated, the timer uses the base time.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The timer is recalculated when liberated or total island count changes. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The timers still have the current 14 hour inactivity cutoff. If the player has not logged in for 14 hours, the timers pause. The timers resume when the player again logs in.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">64naIV3DLezw7ezu3QvGXi</guid>
       <category>Blog</category>
-      <enclosure url="https://boombeach.inbox.supercell.com/cf7umh1jvp53/2ALDbweNM640LW8xNcug9l/09632f0b0ba164312868d5e7a7e94a5c/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <enclosure url="https://boombeach.inbox.supercell.com/cf7umh1jvp53/upQME6JFQplE02EoCGSCd/d7eec176781cf5889fabc9bfddd67667/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 24 Jun 2024 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -57,7 +39,7 @@ If a player not at max level starts pulling ahead in VP, the game tries to offer
 At max level and high VP, there is a further check that prevents high-VP players from getting matches with much lower VP (several hundred points) players. This is to preserve competition at high VP. Preference is still given for opponents with equal VP, this check is meant to catch any odd situations.&lt;/p&gt;</description>
       <guid isPermaLink="false">4L1rMvONilFGdK1kSV3kPj</guid>
       <category>Blog</category>
-      <enclosure url="https://boombeach.inbox.supercell.com/cf7umh1jvp53/6UzadJJlwkPiWpIFgAzTB4/59662aef7b1633b7b71d9f42c7cc2e7d/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <enclosure url="https://boombeach.inbox.supercell.com/cf7umh1jvp53/2Mrzr9aQJUSJJKPyeqKX5B/f6af16e5dec9a5657b3314884ffca01c/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Thu, 27 Jun 2024 23:00:00 +0000</pubDate>
     </item>
     <item>
