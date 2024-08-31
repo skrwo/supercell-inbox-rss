@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Aug 2024 07:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 08:37:11 +0000</lastBuildDate>
     <item>
       <title>Today's Event!</title>
       <link>hayday://OpenEventBoard</link>
@@ -34,6 +34,15 @@
       <guid isPermaLink="false">5ga013S1n3gpRMisnpHXXU</guid>
       <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7ws5nUjfZAuu8v0BDlPM4N/26f6ce6d42ed673f7e4a6dac6302850c/HayDay_Pool_Inbox_Carousel_860x1320.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Fri, 28 Jun 2024 07:51:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>September Events</title>
+      <link>https://youtu.be/WaVyT0fcSkw</link>
+      <description>&lt;br&gt;
+&lt;a href="https://youtu.be/WaVyT0fcSkw"&gt;👉Watch 👈&lt;/a&gt;</description>
+      <guid isPermaLink="false">3Ee1XWJb2KlLn5maywbeMY</guid>
+      <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7JykYqvk5xhHntcoNf2VuD/9b6808b6aeff65e9d32d98b51d38388a/HayDay_Inbox2_Carousel_860x1320_DairyNews_2024.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Sat, 31 Aug 2024 08:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

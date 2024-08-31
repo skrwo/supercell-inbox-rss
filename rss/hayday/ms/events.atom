@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-eventEntries-ms</id>
   <title>Hayday - Event</title>
-  <updated>2024-08-31T07:29:45.670906+00:00</updated>
+  <updated>2024-08-31T08:36:55.690409+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -35,5 +35,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7ws5nUjfZAuu8v0BDlPM4N/26f6ce6d42ed673f7e4a6dac6302850c/HayDay_Pool_Inbox_Carousel_860x1320.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/D78NHf7VRa8"/>
     <published>2024-06-28T07:51:57+00:00</published>
+  </entry>
+  <entry>
+    <id>3Ee1XWJb2KlLn5maywbeMY</id>
+    <title>Acara Bulan September</title>
+    <updated>2024-08-31T08:00:12.404000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/WaVyT0fcSkw"&gt;👉Tonton 👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7JykYqvk5xhHntcoNf2VuD/9b6808b6aeff65e9d32d98b51d38388a/HayDay_Inbox2_Carousel_860x1320_DairyNews_2024.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WaVyT0fcSkw"/>
+    <published>2024-08-31T08:00:12+00:00</published>
   </entry>
 </feed>

@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-08-31T07:29:48.081654+00:00</updated>
+  <updated>2024-08-31T08:36:58.929698+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>43L6F3AzO6X5XlZeYM1Kac</id>
-    <title>Hay Dayn tapahtumat viikolla 23</title>
-    <updated>2024-06-03T08:10:28.685000+00:00</updated>
-    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 23&lt;/h1&gt;
-&lt;p&gt;Hei farmarit! Kesäkuu on täällä! Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: palapelin paloja onnenpyörässä&lt;/p&gt;&lt;p&gt;Tiistai: kuponkeja lisäpalkintoina laivatilauksista&lt;/p&gt;&lt;p&gt;Keskiviikko: tuplasti kolikoita laivatilauksista&lt;/p&gt;&lt;p&gt;Torstai: tuplasti kolikoita farmivierailijoista&lt;/p&gt;&lt;p&gt;Perjantai: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus + Farmipassi-pisteet tuplana + sateenkaariteemainen auttamistapahtuma&lt;/p&gt;&lt;p&gt;Lauantai: laajennusesineitä palkintoina kylävierailijoiden palvelemisesta + palapelin paloja lisäpalkintoina laivatilauksista + sateenkaariteemainen auttamistapahtuma&lt;/p&gt;&lt;p&gt;Sunnuntai: tuplasti kolikoita laivatilauksista + sateenkaariteemainen auttamistapahtuma&lt;/p&gt;&lt;p&gt;Verratonta viikkoa!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/43L6F3AzO6X5XlZeYM1Kac"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Uutiset"/>
-    <published>2024-06-02T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1QSvAxWOUYKLZJsKC5h3n9</id>
     <title>Hay Dayn 12-vuotissynttärijuhlat</title>
@@ -242,5 +231,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Uutiset"/>
     <published>2024-08-18T16:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>64yT7xAV2XtobKxy0u5gVD</id>
+    <title>Ajankohtaiskiekaisut: Tervetuloa syksy! </title>
+    <updated>2024-08-31T08:03:42.816000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/64yT7xAV2XtobKxy0u5gVD"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7em8uZlknxpP4lxu1mQXXg/7337c10845d92912c2556ddf3a062137/Hayday_September_thumb_C.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WaVyT0fcSkw"/>
+    <category term="Uutiset"/>
+    <published>2024-08-31T08:00:12+00:00</published>
   </entry>
 </feed>

@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-08-31T07:29:50.518628+00:00</updated>
+  <updated>2024-08-31T08:37:12.520188+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>43L6F3AzO6X5XlZeYM1Kac</id>
-    <title>Semana 23 de eventos do Hay Day</title>
-    <updated>2024-06-03T08:10:28.685000+00:00</updated>
-    <content>&lt;h1&gt;Semana 23 de eventos do Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Já estamos em junho! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com peças de quebra-cabeça.&lt;/p&gt;&lt;p&gt;Terça-feira: vales com os pedidos do barco.&lt;/p&gt;&lt;p&gt;Quarta-feira: dobro de moedas com os pedidos do barco.&lt;/p&gt;&lt;p&gt;Quinta-feira: dobro de moedas com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;Sexta-feira: aceleração da produção em 30% do tanque de lagostas e balcão de iscas, o dobro de pontos no passe rural e evento de ajuda do arco-íris.&lt;/p&gt;&lt;p&gt;Sábado: materiais de expansão com os visitantes da cidade, peças de quebra cabeça com os pedidos do barco e evento de ajuda do arco-íris.&lt;/p&gt;&lt;p&gt;Domingo: dobro de moedas com os pedidos do barco e evento de ajuda do arco-íris.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/43L6F3AzO6X5XlZeYM1Kac"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notícias"/>
-    <published>2024-06-02T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1QSvAxWOUYKLZJsKC5h3n9</id>
     <title>Comemoração do 12º aniversário de Hay Day</title>
@@ -253,5 +242,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-08-26T10:16:36+00:00</published>
+  </entry>
+  <entry>
+    <id>64yT7xAV2XtobKxy0u5gVD</id>
+    <title>Prosa Rural: chega o outono! </title>
+    <updated>2024-08-31T08:03:42.816000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/64yT7xAV2XtobKxy0u5gVD"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7em8uZlknxpP4lxu1mQXXg/7337c10845d92912c2556ddf3a062137/Hayday_September_thumb_C.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WaVyT0fcSkw"/>
+    <category term="Notícias"/>
+    <published>2024-08-31T08:00:12+00:00</published>
   </entry>
 </feed>

@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-08-31T07:29:53.693175+00:00</updated>
+  <updated>2024-08-31T08:37:11.462880+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>43L6F3AzO6X5XlZeYM1Kac</id>
-    <title>Hay Day Events Week 23!</title>
-    <updated>2024-06-03T08:10:28.685000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Events Week 23&lt;/h1&gt;
-&lt;p&gt;Hello farmers! June has begun! All Events start at 8 AM UTC. Dive into the specifics of each Event by visiting our Event Board in the game. &lt;/p&gt;&lt;p&gt;Monday: Spin the Wheel (Puzzle Pieces)&lt;/p&gt;&lt;p&gt;Tuesday: Boat Event (Vouchers) &lt;/p&gt;&lt;p&gt;Wednesday: Boat Event (2x Coins)&lt;/p&gt;&lt;p&gt;Thursday: Farm Visitor Event (2x Coins)&lt;/p&gt;&lt;p&gt;Friday: Fishing Production Boost Event (Lobster and Lures 30% ) + 2x Farm Pass Points + Rainbow Help Event &lt;/p&gt;&lt;p&gt;Saturday: Town Visitor (Expansion Materials) + Boat Event (Puzzle Pieces) + Rainbow Help Event &lt;/p&gt;&lt;p&gt;Sunday: Boat Event (2x Coins) + Rainbow Help Event  &lt;/p&gt;&lt;p&gt;Have a great week!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/en/news/43L6F3AzO6X5XlZeYM1Kac"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-06-02T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1QSvAxWOUYKLZJsKC5h3n9</id>
     <title>Hay Day's 12th Birthday Celebration</title>
@@ -260,5 +249,15 @@ We are releasing a new way of showcasing your decoration collections in a stylis
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-08-26T10:16:36+00:00</published>
+  </entry>
+  <entry>
+    <id>64yT7xAV2XtobKxy0u5gVD</id>
+    <title>Dairy News: Autumn is here! </title>
+    <updated>2024-08-31T08:03:42.816000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/64yT7xAV2XtobKxy0u5gVD"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3iEb5TUYCgrgRGA3ZTc56q/5cdabf2c64408e52e818d95cda933b18/Hayday_September_thumb_C.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/@hayday/videos"/>
+    <category term="News"/>
+    <published>2024-08-31T08:00:12+00:00</published>
   </entry>
 </feed>
