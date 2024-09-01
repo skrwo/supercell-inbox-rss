@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-09-01T11:29:56.810816+00:00</updated>
+  <updated>2024-09-01T12:51:22.970945+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -252,5 +252,16 @@
     <link href="https://youtu.be/WaVyT0fcSkw"/>
     <category term="Noticias"/>
     <published>2024-08-31T08:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>1C4rqK0hj9ZBGjOMwx7L49</id>
+    <title>Eventos de la semana 36</title>
+    <updated>2024-09-01T12:01:28.726000+00:00</updated>
+    <content>&lt;h1&gt;Eventos de la semana 36&lt;/h1&gt;
+&lt;p&gt;¡Hola! ¡Prepárate para otra semana llena de eventos! Todos los eventos comienzan a las 08:00 UTC. Para saber más sobre cada uno de los eventos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;Lunes: Gira la ruleta (piezas de puzle) y triple de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Martes: Evento de la camioneta (doble de monedas) y triple de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Miércoles: Evento del barco (piezas de puzle) y evento de la camioneta (triple de XP).&lt;/p&gt;&lt;p&gt;Jueves: Visitantes de la granja (mercadillo) y evento de la camioneta (triple de XP).&lt;/p&gt;&lt;p&gt;Viernes: Evento de pesca (todos los edificios de producción potenciados un 20 %) y evento de la camioneta (triple de XP).&lt;/p&gt;&lt;p&gt;Sábado: Evento de visitantes del pueblo (materiales del silo y del granero) y evento de la camioneta (triple de XP).&lt;/p&gt;&lt;p&gt;Domingo: Potenciador de frutos (el doble de rápido).&lt;/p&gt;&lt;p&gt;¡Que tengas una buena semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/1C4rqK0hj9ZBGjOMwx7L49"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-09-01T12:00:03+00:00</published>
   </entry>
 </feed>

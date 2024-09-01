@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-09-01T11:30:02.436901+00:00</updated>
+  <updated>2024-09-01T12:51:21.830830+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -259,5 +259,16 @@ We are releasing a new way of showcasing your decoration collections in a stylis
     <link href="https://www.youtube.com/@hayday/videos"/>
     <category term="News"/>
     <published>2024-08-31T08:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>1C4rqK0hj9ZBGjOMwx7L49</id>
+    <title>Hay Day Events Week 36</title>
+    <updated>2024-09-01T12:01:28.726000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Events Week 36&lt;/h1&gt;
+&lt;p&gt;Hello farmers! Get ready for another week of events! All events start at 8 AM UTC. Dive into the specifics of each event by visiting our event board in the game. &lt;/p&gt;&lt;p&gt;Monday: Spin the Wheel (Puzzle Pieces)  + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Tuesday: Truck Event (x2 Coins)  + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Wednesday: Boat Event (Puzzle Pieces) + Truck Event (3x XP)&lt;/p&gt;&lt;p&gt;Thursday: Farm Visitors (Yard Sale) + Truck Event (3x XP)&lt;/p&gt;&lt;p&gt;Friday:  Fishing Production Boost Event (All 20% Boost) + Truck Event (3x XP)&lt;/p&gt;&lt;p&gt;Saturday:  Town Visitor Event (Silo &amp;amp; Barn Materials) + Truck Event (3x XP)&lt;/p&gt;&lt;p&gt;Sunday: Fruits Boost (2x faster)&lt;/p&gt;&lt;p&gt;Have a great week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/1C4rqK0hj9ZBGjOMwx7L49"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Events"/>
+    <published>2024-09-01T12:00:03+00:00</published>
   </entry>
 </feed>

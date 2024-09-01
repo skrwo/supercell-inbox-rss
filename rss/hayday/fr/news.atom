@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-09-01T11:29:49.582000+00:00</updated>
+  <updated>2024-09-01T12:51:21.662116+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -241,5 +241,16 @@
     <link href="https://youtu.be/WaVyT0fcSkw"/>
     <category term="Nouvelles"/>
     <published>2024-08-31T08:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>1C4rqK0hj9ZBGjOMwx7L49</id>
+    <title>Calendrier des événements Hay Day (semaine 36)</title>
+    <updated>2024-09-01T12:01:28.726000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 36)&lt;/h1&gt;
+&lt;p&gt;Salut, amis de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements commencent à 8 h UTC (10 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, pièce de puzzle + points du pass Hay Day x3&lt;/p&gt;&lt;p&gt;Mardi : événement du camion, pièces x2 + points du pass Hay Day x3&lt;/p&gt;&lt;p&gt;Mercredi : bateau, pièces de puzzle + événement du camion, EXP x3&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, vide-grenier + événement du camion, EXP x3&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 20 % pour tous les poissons + événement du camion, EXP x3&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, matériaux du silo et de la grange + événement du camion, EXP x3&lt;/p&gt;&lt;p&gt;Dimanche : Boost de fruits, 2x plus rapides&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/1C4rqK0hj9ZBGjOMwx7L49"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Événements"/>
+    <published>2024-09-01T12:00:03+00:00</published>
   </entry>
 </feed>

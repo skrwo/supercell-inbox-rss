@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-09-01T11:29:55.235370+00:00</updated>
+  <updated>2024-09-01T12:51:20.347353+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -252,5 +252,16 @@
     <link href="https://youtu.be/WaVyT0fcSkw"/>
     <category term="Notizie"/>
     <published>2024-08-31T08:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>1C4rqK0hj9ZBGjOMwx7L49</id>
+    <title>Eventi di Hay Day (settimana n. 36)</title>
+    <updated>2024-09-01T12:01:28.726000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 36)&lt;/h1&gt;
+&lt;p&gt;Ciao, preparati a un&amp;#39;altra settimana piena di eventi, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: pezzi del puzzle (gira la ruota) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Martedì: monete doppie (ordini del furgone) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;Mercoledì: pezzi del puzzle (ordini per la barca) e XP tripli (ordini del furgone).&lt;/p&gt;&lt;p&gt;Giovedì: mercatino dell&amp;#39;usato (visitatori della fattoria) e XP tripli (ordini del furgone).&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 20% per tutti gli edifici di pesca e XP tripli (ordini del furgone).&lt;/p&gt;&lt;p&gt;Sabato: materiali per granaio e silo (visitatori della città) e XP tripli (ordini del furgone).&lt;/p&gt;&lt;p&gt;Domenica: raddoppiamento della velocità di produzione dei frutti.&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/1C4rqK0hj9ZBGjOMwx7L49"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventi"/>
+    <published>2024-09-01T12:00:03+00:00</published>
   </entry>
 </feed>
