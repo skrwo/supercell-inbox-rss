@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-eventEntries-ko</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-09-01T07:29:00.605530+00:00</updated>
+  <updated>2024-09-01T08:34:44.126639+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -27,13 +27,13 @@
     <published>2023-10-25T07:42:33+00:00</published>
   </entry>
   <entry>
-    <id>2IN7H6eJIBSIL3qmoizVIh</id>
-    <title>애니메이션 시즌</title>
-    <updated>2024-08-01T09:50:40.312000+00:00</updated>
+    <id>7dcRkF5511e0jIIBoD5iBq</id>
+    <title>🗞️</title>
+    <updated>2024-09-01T08:20:40.761000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="https://youtu.be/HwuY3zT--fg"&gt;👉지금 바로 출발!👈&lt;/a&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7xWVlVNbXmZBLdeu2KClou/c9ff941145806ef1f41e951dd5b997cc/v3_inbox_clashofclans_animeseason.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/HwuY3zT--fg"/>
-    <published>2024-08-01T08:00:04+00:00</published>
+&lt;a href="https://youtu.be/FBY1bHFZV0s"&gt;👉시청하기! 👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1OKFdHVk2RbmMpw630tGp7/4e3a8257c784fed9a51f3ad074c46bb2/CoC_SC017_TTRPG_EN_860x1320_Still_Inbox_v03_NJ_eyestorm_KR_alt.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/FBY1bHFZV0s"/>
+    <published>2024-09-01T08:00:03+00:00</published>
   </entry>
 </feed>
