@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-communityEntries-fr</id>
   <title>Clashroyale - Community</title>
-  <updated>2024-09-02T18:38:10.043169+00:00</updated>
+  <updated>2024-09-02T19:28:58.226647+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Community</subtitle>
   <entry>
     <id>M3adxsuN3e8RCuDrRROAS</id>
     <title>Squad Busters choisit mon deck clash royale !</title>
-    <updated>2024-09-02T18:38:10.043283+00:00</updated>
+    <updated>2024-09-02T19:28:58.226796+00:00</updated>
     <author>
       <name>Ouahleouff</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>23tGYi4rHSjh2nrpeQ4FDv</id>
     <title>Le RETOUR des RECRUES sur Clash Royale ?!</title>
-    <updated>2024-09-02T18:38:10.043249+00:00</updated>
+    <updated>2024-09-02T19:28:58.226766+00:00</updated>
     <author>
       <name>WoToP</name>
     </author>
@@ -31,12 +31,23 @@
   <entry>
     <id>1XtAqIy36qzgQZihDjIUxK</id>
     <title>NOUVEAU MODE, REINE GOBELINE ET BIEN PLUS - MISE À JOUR</title>
-    <updated>2024-09-02T18:38:10.043194+00:00</updated>
+    <updated>2024-09-02T19:28:58.226731+00:00</updated>
     <author>
       <name>Mateo26</name>
     </author>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/qGVZImgp0GqoGeSh6k2ZE/4f906590f497241d6ffd2d9485e8fe5a/guest-content-video-84-bba108ab-eba3-468d-89c6-bced0acbd6bb-jscn.png-1718551086997?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/n67bfELYzDw"/>
     <published>2024-06-16T15:18:14+00:00</published>
+  </entry>
+  <entry>
+    <id>5t5vFba1omA6P7LfzKwMid</id>
+    <title>Livestream: WoToP</title>
+    <updated>2024-09-02T19:28:58.226680+00:00</updated>
+    <author>
+      <name>WoToP</name>
+    </author>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2OTjyIoUUVNtY10cDFt9Dy/8e66e8ec20cadd3f5e841ef6309a6cd0/guest-content-livestream-61-7ee9d32c-ae45-41b9-88cf-d92a7c6774a7-fd6w.png-1725302360744?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/wotop_"/>
+    <published>2024-09-02T18:39:27+00:00</published>
   </entry>
 </feed>
