@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-eventEntries-fr</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-09-02T09:33:26.029778+00:00</updated>
+  <updated>2024-09-02T10:37:45.563392+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -17,13 +17,12 @@
     <published>2024-05-28T17:00:03+00:00</published>
   </entry>
   <entry>
-    <id>4oZL9FUBj0tPSTo0OqbD8l</id>
-    <title>SAISON D'AOÛT</title>
-    <updated>2024-08-05T10:29:01.464000+00:00</updated>
+    <id>1Sz9a8IdfR1g3w67aaUyRb</id>
+    <title>SAISON DE SEPTEMBRE</title>
+    <updated>2024-09-02T10:20:04.714000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/fr/news/2brc35wE6cJuyUc8dDojz6"&gt;👉LIRE👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4SfohKa2qw63fuBBAJoIw6/aae08056c08197f09288cc6b65e02772/CR_S62_Season_Carousel_Image.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/2brc35wE6cJuyUc8dDojz6"/>
-    <published>2024-08-05T10:27:45+00:00</published>
+&lt;a href="https://clashroyale.inbox.supercell.com/#/fr/news/6fGNoLSaRUijALtrAyCWHY"&gt;👉LIRE👈&lt;/a&gt; -- &lt;a href="https://youtube.com/shorts/Eae_AGc_4G4?feature=share"&gt;👉REGARDER👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/28udNuTRKDUNzgVCrEA8vH/a7a61fbf0d5fad0a68ee9f721be5bb41/SUP3941_CR_s63_Season_Carousel_Image.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <published>2024-09-02T10:19:58+00:00</published>
   </entry>
 </feed>
