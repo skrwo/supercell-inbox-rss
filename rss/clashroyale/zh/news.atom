@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-02T05:34:19.233034+00:00</updated>
+  <updated>2024-09-02T06:40:53.665748+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -655,21 +655,11 @@
   <entry>
     <id>5EjYZNSbYV4pGj1S7yv4Wc</id>
     <title>#進化卡牌 🦋</title>
-    <updated>2024-09-02T02:19:29.161000+00:00</updated>
+    <updated>2024-09-02T06:25:19.965000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/zh/news/5EjYZNSbYV4pGj1S7yv4Wc"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1u9YCohtjfohBfY8OKVKZz/a6f731db1b8a3128a52558606266eb4f/cardevoauguststatic.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="精彩時刻"/>
     <published>2024-08-28T15:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>1PPsMsltYVpnZ5P3SNPOdR</id>
-    <title>搶先看進化皮卡超人實戰！</title>
-    <updated>2024-09-02T02:39:05.614000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/1PPsMsltYVpnZ5P3SNPOdR"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ah1iZmkw30PXR8H4bDlic/05e7ad94b3e9b8c8a149170055be6741/pekkaevogameplay.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/Eae_AGc_4G4?feature=share"/>
-    <category term="精彩時刻"/>
-    <published>2024-08-29T15:30:03+00:00</published>
   </entry>
   <entry>
     <id>7touCC7mjvJ8yf1mZqMCWZ</id>
