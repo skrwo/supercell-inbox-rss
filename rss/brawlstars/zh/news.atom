@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-09-02T10:37:43.475555+00:00</updated>
+  <updated>2024-09-02T11:29:20.459122+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -268,5 +268,15 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
     <link href="https://www.youtube.com/watch?v=aWpK2tkl3rg"/>
     <category term="最新情報"/>
     <published>2024-08-28T03:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>RG3eiKqymu21vV6MW0ftz</id>
+    <title>【691】塔拉威能天命難違！1000盃實戰！</title>
+    <updated>2024-09-02T11:21:53.371000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/RG3eiKqymu21vV6MW0ftz"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5Bl6RgX8ce5fhHScA9Uc7i/26d522acc4211166a3a0cd22a12c0b23/tw_20240902_691_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/J8WmJZekL_A"/>
+    <category term="最新情報"/>
+    <published>2024-09-02T11:00:00+00:00</published>
   </entry>
 </feed>
