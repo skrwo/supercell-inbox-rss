@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-02T01:52:02.021156+00:00</updated>
+  <updated>2024-09-02T02:54:43.761888+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -506,5 +506,24 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6JnJY2wN8VQOoPmSdzlDhM/cbb88f99bf54ad641a1d98cc39fd40da/CR_Evo_Inbox_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2024-08-23T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5EjYZNSbYV4pGj1S7yv4Wc</id>
+    <title>#카드진화 🦋</title>
+    <updated>2024-09-02T02:19:29.161000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/5EjYZNSbYV4pGj1S7yv4Wc"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1u9YCohtjfohBfY8OKVKZz/a6f731db1b8a3128a52558606266eb4f/cardevoauguststatic.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="하이라이트"/>
+    <published>2024-08-28T15:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1PPsMsltYVpnZ5P3SNPOdR</id>
+    <title>P.E.K.K.A 진화 게임플레이!</title>
+    <updated>2024-09-02T02:39:05.614000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/1PPsMsltYVpnZ5P3SNPOdR"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ah1iZmkw30PXR8H4bDlic/05e7ad94b3e9b8c8a149170055be6741/pekkaevogameplay.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/RBb_hhrt26o?si=c-rYA6p7zDD4Fo6g"/>
+    <category term="하이라이트"/>
+    <published>2024-08-29T15:30:03+00:00</published>
   </entry>
 </feed>
