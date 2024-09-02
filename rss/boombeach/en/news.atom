@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-09-02T16:41:58.326928+00:00</updated>
+  <updated>2024-09-02T17:30:45.853483+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -79,5 +79,25 @@ Gunboat Crab: 30 - 1 Sep&lt;/p&gt;</content>
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/7DoF6h4y0QvN7UCsiWVDui/3b341facad4adba3e67fd0e62a66af5b/BlogPost_Thumbnail.jpg?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Blog"/>
     <published>2024-07-31T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3QeMDPZIaclJf6dxI0eNdb</id>
+    <title>September events</title>
+    <updated>2024-09-02T17:17:01.971000+00:00</updated>
+    <content>&lt;p&gt;Season 65: 2 - 22
+All Troop Mania: 2 - 8
+Melon Bombardier: 2 - 8
+Rifleman Mania: 13 - 15
+Remote Defib: 16 - 18
+Mega Scorcher: 16 - 22
+LaserZooka Mania: 20 - 22
+Cryo Bomb: 23 - 25
+Beastly Crab: 27 - 29
+Heavy Choppa: 30 - Oct 6
+Season 66: 30 - Oct 20 &lt;/p&gt;</content>
+    <link href="https://boombeach.inbox.supercell.com/#/en/news/3QeMDPZIaclJf6dxI0eNdb"/>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/37R4XgeZRQMzNyw5l0uMNI/027af096ebb389eafcb1e4f16cf4f430/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
+    <category term="Blog"/>
+    <published>2024-09-01T23:00:00+00:00</published>
   </entry>
 </feed>
