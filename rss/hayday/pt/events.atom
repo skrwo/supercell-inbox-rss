@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-eventEntries-pt</id>
   <title>Hayday - Event</title>
-  <updated>2024-09-02T06:40:58.311441+00:00</updated>
+  <updated>2024-09-02T07:29:32.424339+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -15,26 +15,6 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/cRcj4pkDW6Rh5ThtDKjVYxZNHJcNMJ9ukUsj4Qvsr1w/cc11b4a0a60932be2be4732bfa32eef7/1379298962_1625649229.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="hayday://OpenEventBoard"/>
     <published>2023-09-12T09:48:04+00:00</published>
-  </entry>
-  <entry>
-    <id>7iRi7ZgyBYS1pTyBwDJNjC</id>
-    <title>Atualização de Rock &amp; Roll</title>
-    <updated>2024-05-30T19:01:18.342000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/5LI0VZxx8gQ"&gt;👉Assistir 👈&lt;/a&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2UqVWnBc4Fd7lGfsqWuF4r/9260298b36467bccbc7ae9df30c723e4/inbox2223.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/5LI0VZxx8gQ"/>
-    <published>2024-05-30T18:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>5ga013S1n3gpRMisnpHXXU</id>
-    <title>Eventos especiais</title>
-    <updated>2024-06-28T07:51:57.589000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/D78NHf7VRa8"&gt;👉Assistir 👈&lt;/a&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7ws5nUjfZAuu8v0BDlPM4N/26f6ce6d42ed673f7e4a6dac6302850c/HayDay_Pool_Inbox_Carousel_860x1320.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/D78NHf7VRa8"/>
-    <published>2024-06-28T07:51:57+00:00</published>
   </entry>
   <entry>
     <id>3Ee1XWJb2KlLn5maywbeMY</id>
