@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-03T07:29:05.457796+00:00</updated>
+  <updated>2024-09-03T08:38:59.215935+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -546,5 +546,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="社群活動"/>
     <published>2024-08-22T06:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2b40Y41i7aKzDzcB5LMzPH</id>
+    <title>【阿德老師】討論經濟與渦輪的勝負關鍵</title>
+    <updated>2024-09-03T08:19:05.303000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/2b40Y41i7aKzDzcB5LMzPH"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7gi8G057P7SV2NpiDYSRDj/04f03dc3eefe9219f4a0e5e7848b9b5a/tw_20240903_derder_video_thumb.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Fy6IMXDbYRw"/>
+    <category term="最新情報"/>
+    <published>2024-09-03T08:00:00+00:00</published>
   </entry>
 </feed>
