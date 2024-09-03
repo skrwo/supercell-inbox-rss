@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>squadbusters-newsEntries-fr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-03T15:33:13.808518+00:00</updated>
+  <updated>2024-09-03T16:40:39.494706+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -298,5 +298,15 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Événement communautaire"/>
     <published>2024-08-22T06:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3CzMdp4huemJ9vlgSbdsou</id>
+    <title>À la rencontre de Paula, Community Manager</title>
+    <updated>2024-09-03T15:41:07.014000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/3CzMdp4huemJ9vlgSbdsou"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/66zyFy39ZlMWrLinFE9jWh/25c553848bb218d70c603d8bfb6e8695/Interview-paula-finale.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbustersfrance.com/news/interview-exclusive-de-paula-cm-squad-busters"/>
+    <category term="Communauté"/>
+    <published>2024-09-02T21:00:00+00:00</published>
   </entry>
 </feed>
