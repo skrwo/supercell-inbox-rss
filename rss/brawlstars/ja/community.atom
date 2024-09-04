@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-communityEntries-ja</id>
   <title>Brawlstars - Community</title>
-  <updated>2024-09-04T07:28:58.248582+00:00</updated>
+  <updated>2024-09-04T08:36:27.363062+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Community</subtitle>
   <entry>
     <id>5gt7SF4vUtxWPc7wTa0AJZ</id>
     <title>投げのヒーラー新キャラ「ベリー」！味方は回復、相手はダメージ受けるエリアを作り出す！移動制限で環境の覇権を握るのか？！</title>
-    <updated>2024-09-04T07:28:58.248657+00:00</updated>
+    <updated>2024-09-04T08:36:27.363181+00:00</updated>
     <author>
       <name>YAPIMARU</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>2vwlkdjbGyZKV5n7t517sB</id>
     <title>300連メガボックスで排出率0.09%の『エメラルド100個』が当たるのか検証してみたら衝撃の事実が判明したwwwwww</title>
-    <updated>2024-09-04T07:28:58.248607+00:00</updated>
+    <updated>2024-09-04T08:36:27.363144+00:00</updated>
     <author>
       <name>gan</name>
     </author>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7bYTh1HePGVdFL0vsKR8sK/a6ef8b5b73813ce6bced6c94a4b72b70/guest-content-video-65-afb03d0e-26f9-43f1-8e65-4fa1c4460c79-m9or.jpeg-1719374831043?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/gS2AT2iPCfc"/>
     <published>2024-06-26T04:07:18+00:00</published>
+  </entry>
+  <entry>
+    <id>4a3NqUMAJ2OxO0xvYJczYw</id>
+    <title>解放した瞬間パワー11！？初めての出来事に驚きを隠せないYAPIMARU【廃課金道】</title>
+    <updated>2024-09-04T08:36:27.363092+00:00</updated>
+    <author>
+      <name>YAPIMARU</name>
+    </author>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7y2Dg5GYMakcKadrCnqdpe/04f322f3a6e01843c3005c8231fe5aa9/guest-content-video-94-2210b9c0-cfd2-42dc-ad27-1f340bec92af-5qpp.png-1725435337843?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/8PwlFM6dltA?si=AVQ3Soq1P-PqUXif"/>
+    <published>2024-09-04T07:35:43+00:00</published>
   </entry>
 </feed>
