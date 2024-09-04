@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>brawlstars-eventEntries-ru</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-09-04T13:35:02.552692+00:00</updated>
+  <updated>2024-09-04T14:34:42.914853+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -34,5 +34,14 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4JTX03WLg62fBQNGrHV2S4/eac2a5a47713403bf8183a52901705b4/0828-Moe-Carousel-800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/nkv5GsbUUfQ"/>
     <published>2024-08-29T08:19:32+00:00</published>
+  </entry>
+  <entry>
+    <id>6R90pLtZD7BsYwLCI0e6rO</id>
+    <title>🗞️</title>
+    <updated>2024-09-04T14:14:40.604000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/obSutkLXF4E"&gt;👉Губка Боб!👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/ru/news/6QSXex4AdG3jEGdvYSWcFj"&gt;👉Подробнее👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2oCXh2bbvVSRAyRru06Yz4/59e45916644854e5618988dee32214be/0904_Spongebob_carousel_800x1161_v2.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2024-09-04T10:29:32+00:00</published>
   </entry>
 </feed>
