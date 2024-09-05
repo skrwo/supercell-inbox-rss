@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-05T04:37:09.902159+00:00</updated>
+  <updated>2024-09-05T05:34:15.897401+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -532,5 +532,29 @@
     <link href="https://www.youtube.com/watch?v=b_jMQKxOkN4"/>
     <category term="最新情報"/>
     <published>2024-09-01T09:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>0TLlBag5uFhL9uh29HDPe</id>
+    <title>【重要公告】黃金通行證獎勵調整</title>
+    <updated>2024-09-05T05:30:27.976000+00:00</updated>
+    <content>&lt;p&gt;首領們，大家好！&#13;
+&#13;
+我們想和大家聊聊關於黃金通行證的調整。但首先我們要為先前變更讓大家造成負面體驗致上歉意，很明顯，我們的作法並不合適。&#13;
+&#13;
+我們希望能提供更加多元的外觀裝飾，讓所有玩家都能享受到，並認為命運骰子是非常獨特的裝飾物。然而，我們未提前預料到許多玩家當前已面臨裝飾物的儲存問題，以及對造型的高度知覺價值。&#13;
+&#13;
+不過，在聽取大家的建議後，我們將&lt;b&gt;撤消先前黃金通行證的變更。也就是本月的黃金通行證仍將包含一款英雄造型&lt;/b&gt;，不過由於技術原因，它將被新增至黃金通行證的最末端，該款英雄造型為大守護者的「矮人守護者」造型。&#13;
+&#13;
+此外，接下來幾個月的黃金通行證仍會包含一款英雄造型。如果未來我們有計劃對黃金通行證進行變更，都將提前通知大家，並與大家進行更加透明的討論。&#13;
+&#13;
+&lt;b&gt;最後，現在一旦達到2601積分，就能領取2瓶建築工人藥水，我們還預計在下週於免費獎勵之路增加20顆星光礦石。&lt;/b&gt;&#13;
+&#13;
+再次感謝每一位認真參與討論，並提出各項回饋建議的首領（尤其是Reddit上的每一個人）。&#13;
+&#13;
+《部落衝突》團隊&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/0TLlBag5uFhL9uh29HDPe"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/CkQNUuAY9fHfAWZDYp_lpS_3w3KOS62liqM765794CM/c8b79e3fb9a4e49bd544dd399bb35adf/cococtupd_social_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-09-04T14:11:44+00:00</published>
   </entry>
 </feed>
