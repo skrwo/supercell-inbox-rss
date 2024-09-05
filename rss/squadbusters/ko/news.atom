@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-05T07:30:53.053669+00:00</updated>
+  <updated>2024-09-05T09:31:12.333759+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -363,5 +363,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="커뮤니티 이벤트"/>
     <published>2024-08-22T06:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2H1wRT10EEjswgbjpTHD0J</id>
+    <title>EVENT 🎁 백일 축하하고 선물받기 VS 그냥 살기</title>
+    <updated>2024-09-05T09:24:26.325000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/2H1wRT10EEjswgbjpTHD0J"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1PLs8blximAhjzt6fNu1fz/838446baaa547361afc9dea3c4b89926/5W_0829_________________.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/post/UgkxFG4wvOlv3K63iTmGQlbsWAr7JOjuzXvw"/>
+    <category term="이벤트"/>
+    <published>2024-09-03T01:42:12+00:00</published>
   </entry>
 </feed>

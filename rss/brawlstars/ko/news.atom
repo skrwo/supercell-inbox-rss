@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-09-05T08:37:30.762012+00:00</updated>
+  <updated>2024-09-05T09:30:57.976327+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -206,5 +206,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/61LYnTFdGLS92xaiSDyiMJ/b2afa815b075a6e57b3dd4d437615710/0904_Spongebob_Event_inbox_1.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-09-04T10:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>OMdl6zwCroEC5PferVNar</id>
+    <title>브롤스타즈 애니메이션 - 스폰지밥이 브롤스타즈에 찾아왔어요!</title>
+    <updated>2024-09-05T09:13:04.776000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/OMdl6zwCroEC5PferVNar"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Tqqq8vnhQlkBaSEvldaiP/2f51e848a65767e5c26f1381b2cfad6a/0903_SB_pop-up_YT_Thumb_1.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/73QCI5782CE"/>
+    <category term="동영상"/>
+    <published>2024-09-05T09:09:59+00:00</published>
   </entry>
 </feed>
