@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-09-05T06:39:38.366293+00:00</updated>
+  <updated>2024-09-05T07:30:00.441776+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>7vj7SjobxC7Z4myvRnzmmh</id>
-    <title>&lt;쇼다운 인 스타필드&gt;에 방문해주신 모든 브롤러 여러분께 감사드립니다! 💖</title>
-    <updated>2024-06-07T03:32:03.966000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/7vj7SjobxC7Z4myvRnzmmh"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2k4EOcthRpJYRASpiAqA9H/f18ef7e380a9cf8f07230d32b4c004cb/0607_BSxSSG____-_-____-___Inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/post/UgkxrtzeMV8HLr_BzXNrxYqEZlzgjanAzvbk"/>
-    <category term="뉴스"/>
-    <published>2024-06-07T03:32:03+00:00</published>
-  </entry>
   <entry>
     <id>3HCuERGiLkG7n4xRrMMhMW</id>
     <title>우리가 함께 만나 즐거웠던 쇼다운 인 스타필드 41일 간의 여정! 🤩</title>
@@ -209,7 +199,7 @@
   <entry>
     <id>1kVnz1unhFmO7cTXRQAZEG</id>
     <title>패치 노트: 네모바지 스폰지밥</title>
-    <updated>2024-09-04T11:03:49.712000+00:00</updated>
+    <updated>2024-09-05T07:06:28.360000+00:00</updated>
     <content>&lt;h3&gt;9월 4일 점검 수정 내역&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;이제 트리오 쇼다운의 독 구름 안에서 각종 보호막 능력이 해제됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;일부 서버 충돌 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;일부 글자 출력 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;특정 기기에서 발생하는 응답 없음 문제 및 브롤러 텍스처가 깨지는 문제는 현재 파악 및 수정 작업 중에 있습니다.&lt;/p&gt;&lt;p&gt;만일 위와 같은 문제가 지속된다면 애플리케이션 캐시 삭제 또는 게임을 삭제하고 다시 설치하는 방법을 추천드립니다!&lt;/p&gt;&lt;p&gt;점검으로 인해 페인트 브롤 경쟁전 시즌 종료 시각은 9월 4일(수) 오후 10시로 연장될 예정입니다.&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;8월 29일 점검 수정 내역&lt;/h3&gt;&lt;p&gt;&lt;b&gt;수정 사항&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;이제 스프라우트의 특수 공격이 올바른 속도로 충전됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;브롤러가 돌진 능력을 사용한 후에 윌로우의 독 효과가 제거되던 문제가 수정되었습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;5대5 녹아웃 매치에서 포코의 하이퍼차지가 충돌을 일으키던 문제가 수정되었습니다. (이를 위해 포코가 너프되었습니다.)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;히로인 비비 플레이어 아이콘이 이제 올바른 스킨에 적용됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;그래픽, 충돌, 터치패드 등의 성능 문제는 아직 조사 중입니다.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;브롤스타즈와 인기 애니메이션 시리즈 &amp;#39;네모바지 스폰지밥&amp;#39;이 힘을 합쳐 새로운 스폰지밥 시즌을 선보입니다!&lt;/p&gt;&lt;p&gt;수수께끼의 파도와 함께 비키니 시티 주민들이 브롤스타즈에 도착했습니다.&lt;/p&gt;&lt;p&gt;스폰지밥 시즌 및 이벤트는 9월 5일에 시작하여 10월 2일에 종료됩니다.&lt;/p&gt;
 &lt;h1&gt;스폰지밥 스킨&lt;/h1&gt;
 &lt;p&gt;브롤 패스&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;징징이 모티스 | 영웅&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;브롤 패스 플러스&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;핑크 징징이 모티스 | 크로마&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;블루 징징이 모티스 | 크로마&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;무료 스킨&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;스폰지밥 엘 프리모 | 신화&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;이 스킨은 클럽과 함께 이벤트 화폐 &amp;#39;집게 머니&amp;#39;를 모아서 무료로 얻을 수 있습니다!&lt;/p&gt;&lt;p&gt;이벤트 스킨&lt;/p&gt;&lt;p&gt;아래의 스킨은 스타 파크에 열린 새로운 상점 &amp;#39;집게리아&amp;#39;에서 구매할 수 있습니다!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;플랑크톤 대릴 | 영웅&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;다람이 제시 | 초희귀&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;집게사장 틱 | 초희귀&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;뚱이 버즈 | 영웅&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
