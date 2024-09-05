@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-05T05:34:13.043855+00:00</updated>
+  <updated>2024-09-05T06:39:43.371413+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -245,5 +245,40 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5ZGtVeWtauBingooi39CPw/e3758d2fda248af9d3e794591c03717b/ttrpg_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-09-01T07:40:03+00:00</published>
+  </entry>
+  <entry>
+    <id>0TLlBag5uFhL9uh29HDPe</id>
+    <title>중요 공지 - 골드 패스 변경 사항 안내</title>
+    <updated>2024-09-05T05:30:27.976000+00:00</updated>
+    <content>&lt;h1&gt;중요 공지 - 골드 패스 변경 사항 안내&lt;/h1&gt;
+&lt;p&gt;안녕하세요, 대장.
+
+최근 골드 패스에 적용된 변경 사항에 대해 안내드리고자 합니다.
+
+
+먼저, 이번 갑작스러운 변경으로 인해 불편을 드린 점 진심으로 사과드립니다. 저희의 의도와는 달리 여러분들이 겪으신 불편함을 미리 충분히 고려하지 못한 점 깊이 반성하고 있습니다.
+
+
+저희는 모든 대장님들이 즐길 수 있는 다양한 장식 아이템을 제공하고자 했으며, 운명의 주사위 아이템이 특별하고 독창적인 장식이 될 것이라고 생각했습니다. 하지만 많은 대장님들이 경험하고 계신 장식 보관 공간 문제와 스킨이 주는 가치와 경험을 충분히 반영하지 못한 점이 있었습니다.
+
+
+이에 저희는 대장님들의 소중한 피드백을 반영하여, &lt;b&gt;골드 패스의 변경 사항을 원래대로 되돌리기로 결정하였습니다&lt;/b&gt;.  다만, 기술적인 이유로 9월 골드 패스에서는 영웅 스킨이 마지막 보상으로 추가될 예정입니다. 해당 스킨은 테이블톱 RPG 그랜드 워든 스킨입니다.
+
+
+또한, 향후 골드 패스에서도 시즌 한정 스킨이 계속 포함될 예정입니다. 앞으로는 골드 패스 변경 사항에 대해 미리 안내드리고, 대장 여러분들과 더 투명하게 소통할 수 있도록 노력하겠습니다. 
+
+
+&lt;b&gt;추가로, 골드 패스를 이용하는 모든 대장 여러분들께 트랙의 보상을 통해 반짝이는 광석 20개를 지급해드릴 예정입니다.
+&lt;/b&gt;
+
+다시 한 번 귀중한 의견을 보내주신 모든 대장님들께 감사드리며, 앞으로도 여러분의 의견을 경청하여 더 나은 게임 경험을 제공하도록 최선을 다하겠습니다.
+
+
+감사합니다.
+클래시 오브 클랜 팀 드림. &lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/0TLlBag5uFhL9uh29HDPe"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/wXk-93KQ1bLgJeG99yov9PC8e_JZu8eDyqTNr4JPC4Y/af2ceba4b81252b4d5837f3355a6327b/cococtupd_social_thumb_190222_084631.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-09-04T14:11:44+00:00</published>
   </entry>
 </feed>
