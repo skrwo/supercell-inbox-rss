@@ -2,25 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-09-05T02:52:34.980861+00:00</updated>
+  <updated>2024-09-05T03:33:51.020540+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
   <entry>
-    <id>7F54nK5JFg9kExsMpsw5e4</id>
-    <title>🎊이벤트 종료🎊 7월 월별 파이널 시청하고 기프트카드 선물 받아가세요! 🎁</title>
-    <updated>2024-07-19T04:03:24.239000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/67T4JbXGN8isoj2YHvuNsi/3fbf85322822f1b56cbb94585e6c1572/0716_BS-MF_event_inbox_rico_800x433___1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1214074"/>
-    <category term="커뮤니티"/>
-    <published>2024-07-19T04:03:24+00:00</published>
-  </entry>
-  <entry>
     <id>7CmTa1S4yf3luY50UtcJMd</id>
-    <title>🎊이벤트 종료🎊 와일드 카드 결정전 시청하고 기프트카드 선물 받아가세요! 🎁</title>
+    <title>🎊당첨자 발표🎊 와일드 카드 결정전 시청하고 기프트카드 선물 받아가세요! 🎁</title>
     <updated>2024-08-22T09:51:18.047000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Wlt2bTdPRkJBmevHhzK0n/310face898f24200e6013c1e9b9fa0cd/0820_BS_MF-LCQ-event_clancy_800x433_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1236657"/>
+    <link href="https://cafe.naver.com/brawlstars/1247282"/>
     <category term="커뮤니티"/>
     <published>2024-08-22T09:51:18+00:00</published>
   </entry>
