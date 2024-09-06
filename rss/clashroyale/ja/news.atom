@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-06T18:38:43.110367+00:00</updated>
+  <updated>2024-09-06T19:29:38.133839+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,16 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>37cVtkZELdj9SKoVTLTMxA</id>
-    <title>ゴブリンバレルの秘話🟢</title>
-    <updated>2024-06-11T10:39:34.750000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/37cVtkZELdj9SKoVTLTMxA"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6E7TJA0B9L4kas6SvNYdOO/41aff29ce14ed319be979d4c75163bb5/goblinbarrellore.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/d2qfn3wd6dQ"/>
-    <category term="エンタメ"/>
-    <published>2024-06-08T15:35:21+00:00</published>
   </entry>
   <entry>
     <id>3s6MghxnccOxdf1NgGVzN5</id>
