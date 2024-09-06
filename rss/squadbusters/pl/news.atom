@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>squadbusters-newsEntries-pl</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-06T11:29:25.703076+00:00</updated>
+  <updated>2024-09-06T12:52:00.751644+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -278,5 +278,17 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Wydarzenie społecznościowe"/>
     <published>2024-08-22T06:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2bTeIVTXhheKOecJuNNSxB</id>
+    <title>Małe, bilety stylu i przebranie ZA DARMO!?</title>
+    <updated>2024-09-06T12:34:18.270000+00:00</updated>
+    <content>&lt;p&gt;Dobrze słyszysz! Wszyscy twórcy treści Supercell rozdają następujące nagrody:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;50 małych handlarzy&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Przebranie Upiorny handlarz&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;300 biletów stylu&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4x9T57MYQCya9Fpa0sX4pA/ada9df2adab91aec8521996ed6dd6e55/rewards.png?w=1013&amp;h=284&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Dodatkowo twórcy treści rozdadzą 50 000 monet szczęśliwym zwycięzcom! Im częściej ich nagrody będą odbierane, tym więcej monet rozdadzą!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jak odbierać nagrody:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Twórcy treści jako część tej akcji udostępniają unikatowe kody QR i linki. Jeśli nie wiesz, którego twórcy szukać, po prostu wpisz &lt;b&gt;#SquadTraderGiveaway&lt;/b&gt; na mediach społecznościowych i poszukaj kodu QR Squad Busters! Pamiętaj, możesz go zeskanować tylko raz, więc jeśli masz ulubionego twórcę, upewnij się, że to jego kod!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Zeskanuj kod QR twórcy:&lt;/b&gt; Gdy znajdziesz post z kodem QR, po prostu go zeskanuj (lub kliknij link). Natychmiast otrzymasz 50 małych handlarzy, przebranie Upiorny handlarz oraz 300 biletów stylu 🎁&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kiedy?&lt;/b&gt; Wydarzenie będzie trwało do końca sezonu Potworne Szaleństwo, więc od TERAZ do godz. 9:00 1 października.&lt;/p&gt;&lt;p&gt;Upiorny handlarz znajdzie się w przyszłościw sklepie, ale obecnie pozostanie jako ekskluzywna.&lt;/p&gt;&lt;p&gt;Udanych łowów QR!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/2bTeIVTXhheKOecJuNNSxB"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/16Cw3EH1SuVuHrOfiJf7A4/386d122e833991d78cbf47f997375945/inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Wydarzenie społecznościowe"/>
+    <published>2024-09-06T12:00:00+00:00</published>
   </entry>
 </feed>

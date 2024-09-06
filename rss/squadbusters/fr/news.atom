@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>squadbusters-newsEntries-fr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-06T11:29:25.248363+00:00</updated>
+  <updated>2024-09-06T12:52:00.927819+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -308,5 +308,17 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
     <link href="https://squadbustersfrance.com/news/interview-exclusive-de-paula-cm-squad-busters"/>
     <category term="Communauté"/>
     <published>2024-09-02T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2bTeIVTXhheKOecJuNNSxB</id>
+    <title>P'tits persos, tickets de style et skins GRATUITS !?</title>
+    <updated>2024-09-06T12:34:18.270000+00:00</updated>
+    <content>&lt;p&gt;Vous ne rêvez pas ! Tous les créateurs de contenu Supercell vous offrent :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;50 p&amp;#39;tits négociants&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le skin Négociant maléfique&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;300 tickets de style&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4x9T57MYQCya9Fpa0sX4pA/ada9df2adab91aec8521996ed6dd6e55/rewards.png?w=1013&amp;h=284&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;De plus, les créateurs donneront également 50 000 pièces à certains petits chanceux ! Plus les récompenses sont récupérées, plus le nombre de pièces données augmentera !&lt;/p&gt;&lt;p&gt;&lt;b&gt;Comment obtenir les récompenses :&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Les créateurs partageront un QR code et un lien uniques pour ce concours. Si vous ne savez pas quel créateur suivre, cherchez le hashtag &lt;b&gt;#SquadTraderGiveaway&lt;/b&gt; sur les réseaux et cherchez les QR codes ! Vous ne pouvez en scanner qu&amp;#39;un, donc si vous avez un créateur favori, scannez le sien !&lt;/p&gt;&lt;p&gt;&lt;b&gt;Scannez le QR code d&amp;#39;un créateur :&lt;/b&gt; quand vous trouvez une publication avec un QR code, scannez-le ou appuyez sur le lien. Vous recevrez immédiatement 50 p&amp;#39;tits négociants, le skin Négociant maléfique et 300 tickets de style ! 🎁&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quand ?&lt;/b&gt; L&amp;#39;événement aura lieu pendant la saison Monstres en folie, c&amp;#39;est-à-dire dès MAINTENANT et jusqu&amp;#39;au 1er octobre à 7 h UTC (9 h, heure française).&lt;/p&gt;&lt;p&gt;Le négociant maléfique sera disponible dans le magasin plus tard, mais il reste exclusif pour le moment.&lt;/p&gt;&lt;p&gt;Joyeuse chasse aux QR codes !&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/2bTeIVTXhheKOecJuNNSxB"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/16Cw3EH1SuVuHrOfiJf7A4/386d122e833991d78cbf47f997375945/inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Événement communautaire"/>
+    <published>2024-09-06T12:00:00+00:00</published>
   </entry>
 </feed>
