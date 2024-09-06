@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-06T03:33:51.729244+00:00</updated>
+  <updated>2024-09-06T04:35:54.114752+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
