@@ -2,45 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-08T12:49:34.379685+00:00</updated>
+  <updated>2024-09-08T13:31:04.123458+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>3pOx6Py8Hc8syOKJ5WLszu</id>
-    <title>Supermauerbrecher im Rampenlicht und neue Heldenausrüstung!</title>
-    <updated>2024-06-11T12:45:15.318000+00:00</updated>
-    <content>&lt;h1&gt;Hallo Häuptling!&lt;/h1&gt;
-&lt;p&gt;Die Zeit bricht an für den Mauerbruch und die Freischaltung der BRANDNEUEN Raketenspeer-Heldenausrüstung im neuen &lt;u&gt;Medaillenereignis: Supermauerbrecher im Rampenlicht&lt;/u&gt;!&lt;/p&gt;&lt;p&gt;Das Ereignis „Supermauerbrecher im Rampenlicht“ ist für Spieler &lt;b&gt;ab Rathaus-Level 8&lt;/b&gt; verfügbar. Wie gehabt sammelst du durch Aktionen im Spiel Eiswürfel und machst Fortschritt auf dem Ereignispfad. Diese Eiswürfel können in Supermedaillen umgewandelt werden und schalten spezielle Belohnungen frei, wie z. B. die neue Heldenausrüstung der Königlichen Gladiatorin: den Raketenspeer!&lt;/p&gt;
-&lt;h1&gt;Ereignisplan:&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Das „Supermauerbrecher im Rampenlicht“-Ereignis beginnt:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Datum: Dienstag, 11. Juni 2024&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Zeit: 10:00 Uhr MESZ&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Das „Supermauerbrecher im Rampenlicht“-Ereignis endet:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Datum: Freitag, 21. Juni 2024&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Zeit: 10:00 Uhr MESZ&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nachdem das Ereignis am 21. Juni endet, hast du zwei Tage lang nach wie vor Zugriff auf das Ereignismenü des Händlers und das Medaillenereignis-Gebäude (Eisbad). Das bedeutet, dass du deine Supermedaillen bis zum 23. Juni um 10:00 Uhr MESZ gegen Belohnungen eintauschen kannst!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/g1sE8vobuFN0dgyXOvU4e/db8f323ca75fec385f84e4611c5ad937/ice_bath_worklayer_1_0_small.png?w=250&amp;h=250&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;Ressource des Ereignisses „Supermauerbrecher im Rampenlicht“: Eiswürfel&lt;/h1&gt;
-&lt;p&gt;Da Supermauerbrecher im Ereignis für hitzige Kämpfe sorgen werden, musst du Eiswürfel sammeln, um die Lage etwas abzukühlen! Diese verdienst du in Mehrspieler-Kämpfen bei Überfällen auf andere Spieler. Die Anzahl der verdienten Eiswürfel hängt davon ab, wie viele Sterne du erzielst. Wenn du bei deinen Angriffen Supermauerbrecher einsetzt, verdienst du am Ende jeweils zusätzliche Eiswürfel! Außerdem kannst du diese Ressource in regelmäßigen Abständen von deinem Supereisbad, dem Gebäude für das Ereignis, abholen. Je mehr Eiswürfel du sammelst, desto mehr Belohnungen schaltest du frei. Es gibt Erze, Dekorationen und mehr zu verdienen!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7a23xPUbIcBxNbvWbjn8Gf/85f1aed0e69d2ade21a7668b41b81b6d/Ice_cube_icon_small.png?w=92&amp;h=94&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;Was ist besser als normale Medaillen? Supermedaillen! &lt;/h1&gt;
-&lt;p&gt;Durch das Sammeln von Eiswürfeln kannst du besondere Ereignisbelohnungen freischalten. Darunter sind auch Supermedaillen, die Währung dieses Ereignisses, die du beim Händler nutzen kannst. Kaufe mit deinen Supermedaillen eine einzigartige saisonale Dekoration, Ressourcen (wie Erze für deine Heldenausrüstung), Magische Gegenstände und mehr. Auf eines werden ganz sicher alle Spieler hinarbeiten: den Raketenspeer, eine mächtige epische Heldenausrüstung!&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2nBUkFZsYWXE7ijMwC8zJb/f1e06453520f11acbdc9a19f107cc6aa/supertroop_medal_stack_wide.png?w=640&amp;h=128&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;Neue epische Heldenausrüstung der Königlichen Gladiatorin: Raketenspeer.&lt;/h1&gt;
-&lt;p&gt;Die neue Ausrüstung verfügt über eine aktive Fähigkeit, die den Speerwürfen der Königlichen Gladiatorin mehr Schaden und eine größere Angriffsreichweite verleiht! Wenn die Fähigkeit aktiviert ist, können die nächsten Speere der Königlichen Gladiatorin aus größerer Entfernung geworfen werden und sie richten mehr Schaden an. Wie viele Speere einen Schub erhalten und wie viel zusätzlichen Schaden jeder einzelne verursacht, hängt vom Level des Raketenspeers ab.&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1IyRtJpuzCj3a2aZlFJfKo/f2a3a804ebf7ac32c1cf44cf9ed109c8/icon_gear_RC_RocketSpear_wide.png?w=640&amp;h=128&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;Exklusive Ereignisbelohnungen!&lt;/h1&gt;
-&lt;p&gt;Neben den regulären Belohnungen des Ereignispfads hast du zusätzlich die Gelegenheit, die folgenden exklusiven Ereignisbelohnungen zu gewinnen, Häuptling:&lt;/p&gt;
-&lt;h1&gt;Kaktustyp-Statue&lt;/h1&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2xAaMf1BHrlYI84V2hByH9/3f22b642882ca12060fb76911bfae426/WildWest_Deco_Cactus_article.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;Diese steinerne Kaktusdekoration ist als Belohnung im Ereignispass erhältlich, wenn du 5550 Eiswürfel sammelst!&lt;/p&gt;
-&lt;h1&gt;Cowboyskelett&lt;/h1&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2LLn2LU4Yj73xM8aerx7iT/88ee6740b4bc2ab31609932f1525cd62/WildWest_Deco_Skelly_article.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;Diese wilde Skelettdekoration ist als letzte Belohnung im regulären Ereignispfad erhältlich. Du kannst diese Belohnung freischalten, wenn du 10.000 Eiswürfel sammelst!&lt;/p&gt;
-&lt;h1&gt;Drachentotem&lt;/h1&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/eEhpbUNto0EK9RHs7c0mE/0c1c5fcf78662dec2c7ce95f4d51ff63/WildWest_Deco_Totem_article.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;Dieses Drachentotem ist als Belohnung beim Ereignishändler für 1025 Supermedaillen erhältlich!&lt;/p&gt;
-&lt;p&gt;Das war‘s, Häuptling! Du kannst dieses Ereignis ab morgen, den 11. Juni, um 10:00 Uhr MESZ spielen! Schnapp dir die Belohnungen und hab viel Spaß. Hals- und Mauerbruch!&lt;/p&gt;&lt;p&gt;Dein Clash of Clans-Team&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/#/de/news/3pOx6Py8Hc8syOKJ5WLszu"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/QkF3KZh5pycVqY8Rsic9a/4beba804ab3552516f4556b4d8229c78/fc_16x9_Super_Wall_Breakers_Event_Illustration_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="news"/>
-    <published>2024-06-10T11:27:09+00:00</published>
-  </entry>
   <entry>
     <id>WNAnWHFemqXB9GD5gtTv1</id>
     <title>Jetzt ist der Bär los! Neue Truppe! </title>

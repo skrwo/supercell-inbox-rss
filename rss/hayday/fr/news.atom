@@ -2,48 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-09-08T12:49:40.054049+00:00</updated>
+  <updated>2024-09-08T13:31:14.892486+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1QSvAxWOUYKLZJsKC5h3n9</id>
-    <title>Fête du 12e anniversaire de Hay Day</title>
-    <updated>2024-06-10T07:41:16.650000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/1QSvAxWOUYKLZJsKC5h3n9"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5peuqb8pfdZIG9L0KhhBWh/395ee5f1a28122072b42525e30a0f6a9/Screenshot_2024-06-04_at_22.09.59__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9G7TmdOoQxk"/>
-    <category term="Nouvelles"/>
-    <published>2024-06-07T07:30:24+00:00</published>
-  </entry>
-  <entry>
-    <id>4uJR587AHolFRgSWf2xhUw</id>
-    <title>Calendrier des événements Hay Day (semaine 24)</title>
-    <updated>2024-06-09T08:02:09.572000+00:00</updated>
-    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 24)&lt;/h1&gt;
-&lt;p&gt;Salut, amis de la ferme ! On espère que vous profitez bien des festivités d&amp;#39;anniversaire ! Tous les événements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;Mardi : événement du camion, matériaux d&amp;#39;extension + points du pass Hay Day x3&lt;/p&gt;&lt;p&gt;Mercredi : événement du camion, coupons + points du pass Hay Day x3&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, pièces x2 + points du pass Hay Day x3&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 20 % pour tous les poissons + points du pass Hay Day x3&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, matériaux du silo et de la grange + événement du camion, EXP x2&lt;/p&gt;&lt;p&gt;Dimanche : boost production de 20 % pour 3 bâtiments aléatoires&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/4uJR587AHolFRgSWf2xhUw"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nouvelles"/>
-    <published>2024-06-09T08:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>5s7JPNiBBYSakFaT3VhzdK</id>
-    <title>Notes de patch de la mise à jour estivale</title>
-    <updated>2024-06-10T09:57:50.236000+00:00</updated>
-    <content>&lt;h1&gt;Préparez-vous pour l'anniversaire rock 'n' roll de Hay Day qui arrive dans la nouvelle mise à jour !&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Nouvelles fonctionnalités :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Collections de décorations&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Il s&amp;#39;agit d&amp;#39;une nouvelle manière d&amp;#39;afficher vos collections de décorations sous la forme d&amp;#39;un livre super stylé ! Chaque page est dédiée à un thème spécifique et met à l&amp;#39;honneur vos décorations thématiques. Le mois de juin va être rock &amp;#39;n&amp;#39; roll !&lt;/p&gt;&lt;p&gt;Complétez des collections en récupérant toutes les décorations de la liste, et recevez une récompense spéciale pour vos efforts.&lt;/p&gt;&lt;p&gt;Vous pouvez visiter les fermes de vos amis pour voir leur progression, en appuyant sur l&amp;#39;adorable caniche situé à côté de l&amp;#39;abri du pass Hay Day.&lt;/p&gt;&lt;p&gt;Souvenez-vous que chaque collection n&amp;#39;est disponible que pour une durée limitée, alors n&amp;#39;oubliez pas de consulter le livre des collections, qui contient toutes les infos sur les ensembles de décorations actuels.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Améliorations du magasin de décorations&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nous avons créé de nouvelles catégories et des filtres dans le magasin de décorations. Ces changements seront disponibles pour tous les joueurs dans les semaines à venir, quand nous serons sûrs qu&amp;#39;ils améliorent votre expérience.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Boîtes surprises&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Les boîtes surprises proposent une manière amusante d&amp;#39;obtenir des décorations exclusives ou des objets, un peu comme la roue de la Fortune. Ces boîtes seront disponibles en récompense ou dans les offres du magasin.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nouveau contenu :&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nouveau bâtiment de production temporaire :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fabrique de ballons&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4pcgZ94dH8e3D1NGBmr9yD/8a196d4bc94b28933cf4ca7a7e48b2b6/balloon_inbox.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Nouveaux produits :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ballons rock &amp;#39;n&amp;#39; roll&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2eCDc0fWXhdV0zpM3pqGtg/1532c5bed9ea827f82c013a3b4674965/ballons.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Décorations rock &amp;#39;n&amp;#39; roll :&lt;/p&gt;&lt;p&gt;Faites un triomphe à ces nouvelles décorations : Guitariste, Têtes d&amp;#39;affiche, Batteur, En haut de l&amp;#39;affiche, Affiche du groupe, Rencontre VIP, Danseurs de rock, et beaucoup d&amp;#39;autres !&lt;/p&gt;
-&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5Jamnq7PIszaPx4UOX9Z2g/999752bafc08535e44b8a2954ff77103/rock_inbox.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;Corrections de bugs :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Le poussin du pass Hay Day se déplace 35 % plus vite.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Acheter des boosts dans le catalogue de saison n&amp;#39;utilisera plus de place de stockage.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les événements liés aux bâtiments de production fonctionnent désormais également au niveau 14 (avant le déblocage des maîtrises au niveau 15).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Livre d&amp;#39;amis : le bouton de recherche est de retour, et nous avons mis à jour la zone de défilement, pour qu&amp;#39;elle n&amp;#39;empiète plus sur le panneau en bois.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;! Information importante :&lt;/b&gt; à partir de maintenant, les diamants offerts quand vous mettez le jeu à jour seront disponibles sous la forme d&amp;#39;une offre dans le magasin, et ne seront plus livrés par Alfred, notre fidèle facteur.&lt;/p&gt;&lt;p&gt;Regardez le nouvel épisode de C dans l&amp;#39;œuf pour plus d&amp;#39;informations sur les prochains événements.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/5s7JPNiBBYSakFaT3VhzdK"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5TDNNcL7Oo7jFHJT0gU8mr/0c5d7354228ba22cb73389abf7f68b83/HayDay_ReleaseNotes_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nouvelles"/>
-    <published>2024-06-10T09:55:04+00:00</published>
-  </entry>
   <entry>
     <id>25DbUMHi6HknPsEHm0qEZG</id>
     <title>Infos sur l'événement : Objectif anniversaire</title>
@@ -263,5 +225,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Événements"/>
     <published>2024-09-01T12:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1v9LlSeoFkHNCINbu6ZG5L</id>
+    <title>Calendrier des événements Hay Day (semaine 37)</title>
+    <updated>2024-09-08T13:02:06.160000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 37)&lt;/h1&gt;
+&lt;p&gt;Salut à tous les amis de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements commencent à 8 h UTC (10 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, coupons&lt;/p&gt;&lt;p&gt;Mardi : visiteurs de la ville, matériaux du silo et de la grange&lt;/p&gt;&lt;p&gt;Mercredi : événement du bateau, pièces x2&lt;/p&gt;&lt;p&gt;Jeudi : bâtiments de production, boost production de 20 % pour 3 bâtiments aléatoires&lt;/p&gt;&lt;p&gt;Vendredi : pêche, canard et fabrique de filets 30 %&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;Dimanche : boost pour 3 récoltes, 3 unités récoltées au lieu de 2&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/1v9LlSeoFkHNCINbu6ZG5L"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Événements"/>
+    <published>2024-09-08T13:00:04+00:00</published>
   </entry>
 </feed>

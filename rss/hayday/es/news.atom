@@ -2,48 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-09-08T12:49:40.560505+00:00</updated>
+  <updated>2024-09-08T13:31:08.740507+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1QSvAxWOUYKLZJsKC5h3n9</id>
-    <title>Celebración del 12.º aniversario de Hay Day</title>
-    <updated>2024-06-10T07:41:16.650000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/1QSvAxWOUYKLZJsKC5h3n9"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5peuqb8pfdZIG9L0KhhBWh/395ee5f1a28122072b42525e30a0f6a9/Screenshot_2024-06-04_at_22.09.59__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/9G7TmdOoQxk"/>
-    <category term="Noticias"/>
-    <published>2024-06-07T07:30:24+00:00</published>
-  </entry>
-  <entry>
-    <id>4uJR587AHolFRgSWf2xhUw</id>
-    <title>Eventos de la semana 24</title>
-    <updated>2024-06-09T08:02:09.572000+00:00</updated>
-    <content>&lt;h1&gt;Eventos de la semana 24&lt;/h1&gt;
-&lt;p&gt;¡Hola! ¡Esperamos que estés disfrutando de la celebración del aniversario! Todos los eventos comienzan a las 08:00 UTC. Para saber más sobre cada uno de los eventos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;Lunes: Gira la ruleta (materiales de ampliación).&lt;/p&gt;&lt;p&gt;Martes: Evento de la camioneta (materiales de ampliación) y triple de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Miércoles: Evento de la camioneta (tiques) y triple de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Jueves: Visitantes de la granja (doble de monedas) y triple de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Viernes: Evento de pesca (todos los edificios de producción potenciados un 20 %) y triple de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Sábado: Visitantes del pueblo (materiales del silo y del granero) y evento de la camioneta (doble de XP).&lt;/p&gt;&lt;p&gt;Domingo: Edificios de producción potenciados (3 edificios aleatorios un 20 % más rápidos).&lt;/p&gt;&lt;p&gt;¡Que tengas una buena semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/4uJR587AHolFRgSWf2xhUw"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Noticias"/>
-    <published>2024-06-09T08:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>5s7JPNiBBYSakFaT3VhzdK</id>
-    <title>Notas de la actualización</title>
-    <updated>2024-06-10T09:57:50.236000+00:00</updated>
-    <content>&lt;h1&gt;¡Prepárate para el aniversario rockero de Hay Day con la nueva actualización!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Nuevas funciones:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Colecciones de adornos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lanzamos una nueva y elegante forma de exhibir las colecciones de adornos en forma de libro. Cada página tiene una temática específica y por tanto mostrará conjuntos de adornos temáticos. ¡Junio es el mes del &lt;i&gt;rock and roll&lt;/i&gt;!&lt;/p&gt;&lt;p&gt;Completa las colecciones consiguiendo todos los adornos de la lista y reclama las recompensas como premio por tu duro trabajo.&lt;/p&gt;&lt;p&gt;Podrás ver el progreso de los demás jugadores si tocas el perrito que se encuentra junto a la casa de los pollitos del pase de la granja.&lt;/p&gt;&lt;p&gt;Recuerda que cada colección solo está disponible temporalmente, así que échale un vistazo a la información de los conjuntos de adornos en el libro de colecciones.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mejoras en la tienda de adornos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hemos diseñado categorías y sistemas de filtrado nuevos para la tienda de adornos. Cuando comprobemos que estos cambios mejoran la experiencia de decoración, los lanzaremos de modo que estén disponibles los jugadores en las próximas semanas.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Cajas sorpresa&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Las cajas sorpresa son una forma divertida y emocionante de conseguir adornos y objetos exclusivos, similares a la ruleta de la fortuna. Verás algunas de estas cajas como recompensas o en las ofertas de la tienda.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Contenido nuevo:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nuevo edificio de producción temporal&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Máquina de globos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4pcgZ94dH8e3D1NGBmr9yD/8a196d4bc94b28933cf4ca7a7e48b2b6/balloon_inbox.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Productos nuevos:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Globos temáticos rockeros&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2eCDc0fWXhdV0zpM3pqGtg/1532c5bed9ea827f82c013a3b4674965/ballons.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Adornos rockeros:&lt;/p&gt;&lt;p&gt;Llegan el guitarrista, los ídolos musicales, el percusionista, el cartel del recinto, el póster de grupo, el encuentro con los fans, los bailarines de rock ¡y muchos más adornos!&lt;/p&gt;
-&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5Jamnq7PIszaPx4UOX9Z2g/999752bafc08535e44b8a2954ff77103/rock_inbox.png?w=1950&amp;h=650&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;Correcciones:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;El pollito del pase de la granja es un 35 % más rápido.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Los potenciadores que obtengas en el catálogo de temporada ya no ocuparán espacio.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Los eventos de potenciamiento de los edificios de producción ahora funcionan también para los jugadores que tengan una granja de nivel 14, antes de que se desbloqueen las maestrías al nivel 15.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vuelve el botón de búsqueda en el libro de amigos. También hemos actualizado el sistema de deslizamiento para que no se sobreponga con los paneles de madera.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;¡Aviso!&lt;/b&gt; De ahora en adelante, las recompensas de diamantes que consigas por actualizar el juego estarán disponibles en la tienda como oferta gratuita. Ya no las repartirá Alfred, nuestro cartero de confianza.&lt;/p&gt;&lt;p&gt;No te pierdas el último episodio de Noticias huevásticas para tener toda la información de los próximos eventos.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/5s7JPNiBBYSakFaT3VhzdK"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5TDNNcL7Oo7jFHJT0gU8mr/0c5d7354228ba22cb73389abf7f68b83/HayDay_ReleaseNotes_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Noticias"/>
-    <published>2024-06-10T09:55:04+00:00</published>
-  </entry>
   <entry>
     <id>25DbUMHi6HknPsEHm0qEZG</id>
     <title>Desafío: el objetivo del aniversario</title>
@@ -263,5 +225,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventos"/>
     <published>2024-09-01T12:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1v9LlSeoFkHNCINbu6ZG5L</id>
+    <title>Eventos de la semana 37</title>
+    <updated>2024-09-08T13:02:06.160000+00:00</updated>
+    <content>&lt;h1&gt;Eventos de la semana 37&lt;/h1&gt;
+&lt;p&gt;¡Buenas! ¡Prepárate para otra semana llena de eventos! Todos los eventos comienzan a las 08:00 UTC. Para saber más sobre cada uno de los eventos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;Lunes: Gira la ruleta (tiques).&lt;/p&gt;&lt;p&gt;Martes: Evento de visitantes del pueblo (materiales del silo y del granero).&lt;/p&gt;&lt;p&gt;Miércoles: Evento del barco (doble de monedas).&lt;/p&gt;&lt;p&gt;Jueves: Edificios de producción potenciados (3 edificios aleatorios un 20 % más rápidos).&lt;/p&gt;&lt;p&gt;Viernes: Evento de pesca (patos y telar de redes un 30 % más rápidos).&lt;/p&gt;&lt;p&gt;Sábado: Evento de visitantes del pueblo (materiales de ampliación).&lt;/p&gt;&lt;p&gt;Domingo: Cultivos prósperos (tres cultivos aleatorios generarán 3 cosechas en vez de 2).&lt;/p&gt;&lt;p&gt;¡Que tengas una semana productiva!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/1v9LlSeoFkHNCINbu6ZG5L"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-09-08T13:00:04+00:00</published>
   </entry>
 </feed>
