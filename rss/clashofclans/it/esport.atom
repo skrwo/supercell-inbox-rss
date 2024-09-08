@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-08T10:34:41.625984+00:00</updated>
+  <updated>2024-09-08T11:29:22.995563+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -454,5 +454,14 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/sH8qOCY2tTMMmBERhpEbd/03d5a379643e1641794e58785121f770/IT_COC---LCQ-AYNTK-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-09-02T16:00:14+00:00</published>
+  </entry>
+  <entry>
+    <id>3fxKr3KQO9YGZjwtfTUFkZ</id>
+    <title>Rivedi il giorno 1 delle Ultime qualificazioni!</title>
+    <updated>2024-09-08T10:51:10.060000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/A3ohuK8ehgih1Pu6oaK9E/fa74d44b9dfd5ddbd8314eb8a921957e/IT1_COC---LCQ-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2244950125?t=00h04m10s"/>
+    <category term="Esports"/>
+    <published>2024-09-07T17:50:00+00:00</published>
   </entry>
 </feed>
