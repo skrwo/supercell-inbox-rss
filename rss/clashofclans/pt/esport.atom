@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-esportNewsEntries-pt</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-09T16:39:42.193046+00:00</updated>
+  <updated>2024-09-09T17:34:06.433096+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -473,9 +473,18 @@ Posição 6: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%2
     <published>2024-09-02T16:00:14+00:00</published>
   </entry>
   <entry>
+    <id>3fxKr3KQO9YGZjwtfTUFkZ</id>
+    <title>Assista novamente ao Dia 1 da Qualificatória de Última Chance!</title>
+    <updated>2024-09-09T16:57:07.354000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/CBueSLfHnjbHzVUNboGYY/8ed9010c0fbfa8c92a78273535f99f22/COC_-_LCQ_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=zh2zSCs5_tE"/>
+    <category term="E-sports"/>
+    <published>2024-09-07T17:50:00+00:00</published>
+  </entry>
+  <entry>
     <id>4r2XHzs23LgXWEgUfrpkFf</id>
     <title>Reveja o Dia 2 da Classificatória Final!</title>
-    <updated>2024-09-09T09:57:39.472000+00:00</updated>
+    <updated>2024-09-09T16:59:41.633000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/202yVacjpVxHX7eHfaENzF/5de2c0374c1cfb41eea80575e2f72ee1/PT-COC_-_LCQ_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=Q9NkXV1Ksmc"/>
     <category term="E-sports"/>

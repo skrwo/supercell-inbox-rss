@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-09T16:39:42.764663+00:00</updated>
+  <updated>2024-09-09T17:34:16.350288+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -473,5 +473,23 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5UysNmeJQGrxDUaSQoqez2/b76cc24d6cb92eecc84dea254da69567/ES_COC_-_LCQ_AYNTK_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eSports"/>
     <published>2024-09-02T16:00:14+00:00</published>
+  </entry>
+  <entry>
+    <id>3fxKr3KQO9YGZjwtfTUFkZ</id>
+    <title>Mira de nuevo la clasificatoria de última oportunidad - Día 1 </title>
+    <updated>2024-09-09T16:57:07.354000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5abOo1YSOGZtijHGxv5xQW/e19215ff4d0e37e55659df5101878cec/ES_Day_1_COC_-_LCQ_Thumb_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.facebook.com/shioNWUCoC/videos/1936820743458216"/>
+    <category term="eSports"/>
+    <published>2024-09-07T17:50:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4r2XHzs23LgXWEgUfrpkFf</id>
+    <title>Mira de nuevo la clasificatoria de última oportunidad - Día 2</title>
+    <updated>2024-09-09T16:59:41.633000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3C4xIduT6UfEuGD2K90Zno/6f44c37fecd6a46c66ec9740831ace9e/ES_Day_2_COC_-_LCQ_Thumb_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2244951662?t=00h02m08s"/>
+    <category term="eSports"/>
+    <published>2024-09-08T18:09:38+00:00</published>
   </entry>
 </feed>
