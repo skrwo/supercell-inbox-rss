@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-09T17:34:12.080247+00:00</updated>
+  <updated>2024-09-09T18:38:49.161539+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -192,5 +192,23 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/47BDcpJVHrq01DJBmvQgva/679588eeaff403c0b2f4d43caeceb884/Thumb-PatchNotes.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-09-09T09:01:39+00:00</published>
+  </entry>
+  <entry>
+    <id>3hYQCg8Q892FuthrHSvkL2</id>
+    <title>The LEGENDARY Scenery!</title>
+    <updated>2024-09-09T17:36:43.205000+00:00</updated>
+    <content>&lt;h1&gt;Introducing: The new Legendary Scenery!&lt;/h1&gt;
+&lt;p&gt;On September 11th, we will introduce the biggest piece of cosmetic content yet: The Legendary Scenery.&lt;/p&gt;&lt;p&gt;This scenery will feature incredibly detailed large-scale regions and elements that have never been seen before in Clash of Clans. Some additional details and visual features are; transition animations and cutscenes in different spots on the map that will tell a story from our Heroes&amp;#39; point of view.&lt;/p&gt;&lt;p&gt;We will also roll out a behind-the-scenes video explaining the process of creating such detailed and elaborate cosmetic content. 
+&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/tQEEDCffZT4pJOaYjV7OH/7a32911995acc9e91ad6264225d6ea0a/CoC_LegendaryScenery_04.jpg?w=2850&amp;h=2110&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;This new tier of sceneries will only come out occasionally as they take an order of magnitude, at least 6x more times than the regular-size Sceneries that players have come to expect in the game. In terms of the physical size of Legendary Sceneries, they are over six times the size of the previous sceneries that we released in the game.&lt;/p&gt;&lt;p&gt;Regular Sceneries will still be released in the game, during months where Legendary Sceneries are not released. Therefore you can expect that most of the future seasons will still have Regular Sceneries.&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/55BOWxC23Pef96ac40HA4i/dd1fe3c210caef7972eed8a0afee1cc1/TTRGP_Fullres_002.png?w=2268&amp;h=1812&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Let&amp;#39;s now discuss the pricing for our latest cosmetic addition. The Legendary Scenery cost will be $32,99 (Tax is not included), and the price might vary depending on your region. It represents our most premium offering to date. We want to be fully transparent about the reasoning behind the high price. We are committed to diversifying our monetization, with a focus on cosmetics. We believe a game that is more cosmetics focused, when it comes to monetisation, is much fairer and player friendly. &lt;/p&gt;&lt;p&gt;The legendary scenery is designed to be the pinnacle of exclusivity and aspiration within our game, and hence the higher price tag. In the future, we will also introduce lower price cosmetic type for those that see this cosmetic as too expensive.&lt;/p&gt;
+&lt;p&gt;We look forward to your feedback and first impressions about the Legendary Scenery in September! We are super excited about this new cosmetic, and we hope you enjoy it as much as we did!&lt;/p&gt;&lt;p&gt;- The Clash of Clans Team&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/en/news/3hYQCg8Q892FuthrHSvkL2"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6WC0XuZViPmnCqSjujjKMc/cf5e5d4861c825513d656c1015ff9ef9/scenery-comms-thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-09-09T17:36:43+00:00</published>
   </entry>
 </feed>
