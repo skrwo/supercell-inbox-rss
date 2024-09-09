@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-esportNewsEntries-id</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-08T23:31:47.497767+00:00</updated>
+  <updated>2024-09-09T01:53:47.638332+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -386,5 +386,14 @@ Salam Clash!&#13;
     <link href="https://youtube.com/live/qmQ8cuchGuU"/>
     <category term="Esports"/>
     <published>2024-09-07T17:50:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4r2XHzs23LgXWEgUfrpkFf</id>
+    <title>Tonton Ulang Hari ke-2 Kualifikasi Peluang Terakhir!</title>
+    <updated>2024-09-09T00:00:26.153000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/pBEPZPelfNzc69jNzuKe2/e3176af83697e4ae5975d435b3857964/ID-COC_-_LCQ_Thumb_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=MnPp3KZrq6U"/>
+    <category term="Esports"/>
+    <published>2024-09-08T18:09:38+00:00</published>
   </entry>
 </feed>
