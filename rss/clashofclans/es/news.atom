@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-newsEntries-es</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-10T13:34:57.150944+00:00</updated>
+  <updated>2024-09-10T14:35:39.404722+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -188,7 +188,7 @@
   <entry>
     <id>6o2RlXowHsNVXPuac7pMZg</id>
     <title>Novedad: evento de la caza del tesoro</title>
-    <updated>2024-09-10T13:12:16.914000+00:00</updated>
+    <updated>2024-09-10T14:17:00.854000+00:00</updated>
     <content>&lt;h1&gt;¡Te presentamos el nuevo evento de la caza del tesoro!&lt;/h1&gt;
 &lt;p&gt;Llega una nueva función a Clash of Clans con la actualización de septiembre: ¡el evento de la caza del tesoro!&lt;/p&gt;
 &lt;h1&gt;¿Qué es el evento de la caza del tesoro?&lt;/h1&gt;
@@ -196,7 +196,7 @@
 &lt;p&gt;La caza del tesoro estará disponible para los jugadores con un ayuntamiento de nivel 6 o superior y durará 20 días. En este evento, los jugadores destruirán ciertos edificios y defensas con el objetivo de encontrar cofres que contienen recompensas aleatorias.&lt;/p&gt;&lt;p&gt;Durante el evento, se podrán conseguir tres cofres del tesoro cada dos días (48 horas). Puedes obtener un cofre como máximo en cada ataque a una aldea, y una vez que hayas encontrado tres (es decir, tras tres ataques a aldeas), tendrás que esperar a que el temporizador se reinicie (48 horas) para conseguir más.&lt;/p&gt;
 &lt;h1&gt;¿Qué son los cofres del tesoro?&lt;/h1&gt;
 &lt;p&gt;Los cofres solo están disponibles durante el evento de la caza del tesoro y contienen recompensas aleatorias que dependen del nivel del ayuntamiento y del taller del constructor del jugador.&lt;/p&gt;&lt;p&gt;Los cofres no están disponibles para su compra. Durante el evento, solo pueden obtenerse al destruir edificios específicos en ataques multijugador en la aldea.&lt;/p&gt;&lt;p&gt;Estos cofres pueden ser de cuatro calidades distintas: &lt;b&gt;común, especial, épica&lt;/b&gt; &lt;b&gt;y legendaria.&lt;/b&gt; ¿Cuáles son las probabilidades de obtener cada una? Necesitarás un poco de suerte para obtener un cofre legendario tras otro.&lt;/p&gt;&lt;p&gt;Cuando hayas encontrado un cofre, aparecerá una nueva pantalla en la que tendrás que golpearlo con un martillo cuatro veces para ver de qué calidad es el cofre que has encontrado. A continuación, el cofre se abrirá automáticamente.&lt;/p&gt;&lt;p&gt;Además, en cuanto empiece el evento podrás consultar qué probabilidades hay de que te toque cada calidad y qué recompensas pueden aparecer.&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4XyCbrdOgnOxzsXNqFmOAk/30db1576ee4176643d28c1f2e5a64002/chessts.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2KzHpmlntdI5I0cUuySgrH/72f16ab8a769ab2d5e1d601d4dde7483/ES_chests_all_rarities.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
 &lt;h1&gt;¿Por qué lanzamos esta función?&lt;/h1&gt;
 &lt;p&gt;Con el sistema del cofre del tesoro, queríamos añadir al juego algo nuevo y emocionante para los jugadores. Ofrece recompensas extras al atacar, lo que añade un giro divertido e inesperado al juego.&lt;/p&gt;&lt;p&gt;También queríamos encontrar una forma de repartir recompensas de forma equitativa dependiendo del nivel del ayuntamiento de los jugadores. Esta nueva función nos permite otorgar recompensas según el nivel del ayuntamiento del jugador, lo que significa que obtendrás el máximo beneficio posible.&lt;/p&gt;&lt;p&gt;Además, con esta función los jugadores podrán obtener recompensas de todos los modos de juego existentes, como de la aldea, la base del constructor y la capital del clan, además de diferentes tipos de recursos, como objetos mágicos y personalizaciones. Ahora que contamos con una función que hace una buena distribución de las recompensas, ¿cómo hacemos para que los jugadores se diviertan al desbloquearla?&lt;/p&gt;&lt;p&gt;El factor aleatorio nos pareció la mejor opción para que obtener un cofre del tesoro fuera interesante y emocionante al mismo tiempo.&lt;/p&gt;
 &lt;p&gt;Esperamos haber dejado claro cómo funciona esta nueva función y las razones por las que la hemos lanzado. Como siempre, ¡tenemos muchas ganas de saber tu opinión!&lt;/p&gt;&lt;p&gt;¡A dar guerra!&lt;/p&gt;&lt;p&gt;El equipo de Clash of Clans&lt;/p&gt;</content>
