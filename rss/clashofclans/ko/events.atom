@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-eventEntries-ko</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-09-10T07:29:52.120518+00:00</updated>
+  <updated>2024-09-10T08:37:41.557888+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3HGlnvEwpqcCmCaSChoPRU/611504bfdd5d14f9841b74ce66062f33/Carousel-Thumb-ClashOn.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/tQv9ztshG7Q"/>
     <published>2024-09-09T08:31:51+00:00</published>
+  </entry>
+  <entry>
+    <id>70Xhcr7oSbzVNhFJj50nct</id>
+    <title>전설 등급 배경을 만나보세요!</title>
+    <updated>2024-09-10T08:07:46.489000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/X2GhpQ-3JBA"&gt;👉지금 시청하기!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1zySBbxE1VPUdMmVTIJ0dH/f16c4d4709fbfbd23089c9ba5daa0046/Carousel_-_Legendary_BTS.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/X2GhpQ-3JBA"/>
+    <published>2024-09-10T08:04:34+00:00</published>
   </entry>
 </feed>
