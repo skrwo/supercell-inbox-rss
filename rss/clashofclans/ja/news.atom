@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-10T12:54:08.834859+00:00</updated>
+  <updated>2024-09-10T13:34:55.767716+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -366,5 +366,25 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6WC0XuZViPmnCqSjujjKMc/cf5e5d4861c825513d656c1015ff9ef9/scenery-comms-thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-09-09T17:36:43+00:00</published>
+  </entry>
+  <entry>
+    <id>6o2RlXowHsNVXPuac7pMZg</id>
+    <title>新イベント：トレジャーハント！</title>
+    <updated>2024-09-10T13:12:16.914000+00:00</updated>
+    <content>&lt;h1&gt;新イベント「トレジャーハント」開催！&lt;/h1&gt;
+&lt;p&gt;こんにちは、チーフ！9月のアップデートで、クラッシュ・オブ・クランに新イベントが実装されます。その名も「トレジャーハント」イベント！&lt;/p&gt;
+&lt;h1&gt;トレジャーハントイベントとは？&lt;/h1&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2jkBjdW5tarmyJqgIniplW/776fde7599099845d721a2d6823e9361/NEW.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;トレジャーハントはタウンホールレベル6以上のプレイヤーが参加できるイベントです。20日間開催され、特定の建物や防衛設備を破壊することで、宝箱を発見できます。宝箱からは報酬がランダムで手に入りますよ！&lt;/p&gt;&lt;p&gt;イベント期間中は、2日（48時間）ごとに宝箱を3個まで獲得できます。村を攻撃するたびに最大1個の宝箱を入手でき、宝箱を3個見つけたら（村の攻撃に3回成功すると）、それ以上の宝箱はイベントタイマーがリセットされるまで（48時間）発見できません。&lt;/p&gt;
+&lt;h1&gt;宝箱とは？&lt;/h1&gt;
+&lt;p&gt;宝箱はトレジャーハントイベント期間中しか入手できず、プレイヤーのタウンホールレベルとビルダーホールレベルに応じた報酬がランダムでドロップします。&lt;/p&gt;&lt;p&gt;イベント中に宝箱を購入することはできません。入手するにはマルチプレイで村を攻撃し、主要な建物を破壊する必要があります。&lt;/p&gt;&lt;p&gt;宝箱には&lt;b&gt;ノーマル、レア、スーパーレア、ウルトラレア&lt;/b&gt;と、4種類のレア度があります。では、各宝箱の入手確率は？ウルトラレアの宝箱の発見には、ある程度の運も必要になるでしょう。&lt;/p&gt;&lt;p&gt;宝箱を発見すると、開封画面が自動で表示されます。そこで宝箱をハンマーで4回叩くとレア度が決定され、自動的に中身が排出されます。&lt;/p&gt;&lt;p&gt;また、イベント実装後は各宝箱のドロップ率を確認できるようになります！&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4XyCbrdOgnOxzsXNqFmOAk/30db1576ee4176643d28c1f2e5a64002/chessts.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;イベントの実装理由&lt;/h1&gt;
+&lt;p&gt;トレジャーハントはプレイヤーに新たな楽しみをお届けする手段として導入されました。イベントでは攻撃をするだけで宝箱が入手できるため、ゲームに今までにないプレイ体験とドキドキ感を加えてくれます。&lt;/p&gt;&lt;p&gt;また、タウンホールレベルに応じた報酬をプレイヤーに均等に分配できない問題を修正したいとも考えており、今回のトレジャーハントで、タウンホールレベルに基づいた報酬を提供可能にします。報酬を最大限に活かしていただければ幸いです。&lt;/p&gt;&lt;p&gt;さらに、村、大工の拠点、クランの都といったすべての既存のゲームモードで報酬を獲得できるようになるだけでなく、魔法アイテムや外見変更アイテムなど、各資源の入手も可能になります。報酬の分配が円滑になった後は、そのアンロックをプレイヤーに楽しんでもらうため、&lt;/p&gt;&lt;p&gt;ランダム要素を加えることにしました。宝箱の獲得を楽しくてエキサイティングなものにするベストな方法だと感じたのです。&lt;/p&gt;
+&lt;p&gt;以上が、新イベントの仕組みとその実装理由です。いつものように、皆さまからのフィードバックをお待ちしております！&lt;/p&gt;&lt;p&gt;グッド・クラッシュ！&lt;/p&gt;&lt;p&gt;クラッシュ・オブ・クランチーム一同&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/6o2RlXowHsNVXPuac7pMZg"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3oUL1g6ERVGnLWhEA9c9yn/b98ecc0130366fded9e73f97c8dfd5fc/thumbnail-th.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-09-10T13:12:16+00:00</published>
   </entry>
 </feed>
