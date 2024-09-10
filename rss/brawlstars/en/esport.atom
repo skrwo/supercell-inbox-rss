@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-09-10T14:35:04.938257+00:00</updated>
+  <updated>2024-09-10T15:32:34.160245+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -96,5 +96,14 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PkZZY0hBDl5Cv8LK3oL78/8ed4d942ef1e93e2ff8d8248a3da2425/BLAST_BRAWL_Thumbnail.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-09-08T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6yEbKbzlCgeRD8i2MHzwyy</id>
+    <title>SIGN UP NOW! LPL Brawl Stars Open Divison</title>
+    <updated>2024-09-10T14:58:46.952000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3iIwHLPrlTS76owhY3f1ox/ba9b7212ad1a58da0203324c435b3658/lpl_post_3_-_September_6.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://gg.letsplay.live/tournament/open-division-lpl-brawl-stars-asia-pacific-66c2dc54a4ce9d2a1ad65a1b?tournament_action_source=home_body"/>
+    <category term="Esports"/>
+    <published>2024-09-09T23:00:00+00:00</published>
   </entry>
 </feed>

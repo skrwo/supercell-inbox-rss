@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-10T14:35:30.080670+00:00</updated>
+  <updated>2024-09-10T15:32:51.193511+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -25,16 +25,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2023-12-01T18:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>3s6MghxnccOxdf1NgGVzN5</id>
-    <title>Видеоанонс королевы гоблинов</title>
-    <updated>2024-06-13T04:58:14.157000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/3s6MghxnccOxdf1NgGVzN5"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SEbsKDphdvC4lzBkytZ6k/8c6f05820adc233209d72e72114e167a/queenanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/_VnqcBnWM0k"/>
-    <category term="Лучшие моменты"/>
-    <published>2024-06-12T15:05:02+00:00</published>
   </entry>
   <entry>
     <id>qxrqAtBsg6G2xdvdRZzxk</id>
