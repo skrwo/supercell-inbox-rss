@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-eventEntries-ja</id>
   <title>Hayday - Event</title>
-  <updated>2024-09-10T05:35:15.972623+00:00</updated>
+  <updated>2024-09-10T06:40:13.348747+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -25,5 +25,22 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7JykYqvk5xhHntcoNf2VuD/9b6808b6aeff65e9d32d98b51d38388a/HayDay_Inbox2_Carousel_860x1320_DairyNews_2024.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/WaVyT0fcSkw"/>
     <published>2024-08-31T08:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>5xL90hhDdu22xhnuLWhRB</id>
+    <title>訪問客チャレンジ </title>
+    <updated>2024-09-10T06:14:19.164000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 10.00%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - 8000万 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4uzjkRlTspWJDl1jHtMInj/4300f0bb41a3ed0ea91b5b0f29f368af/milestone4.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 6000万 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6lwtxSqViiHLwd9lLJvXAq/ce8ec212354e8740d9a143eb4bd7a5c4/milestone3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 4000万 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3xowEP90ksZLkonGIuglU6/a0dfcab7b983fade1d126f7e7e2aba23/milestone2.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 2000万 &lt;image src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6AFttD13csXQoKCupu5IPT/45c26ca21ded674554b302787ce826db/milestone1.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="https://hayday.inbox.supercell.com/#/ja/news/Huxner3Pa10yLIVMEXCKU"&gt;👉情報 👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4k1r9l7PINggrNGrhO1yka/00bbe65623b08f4be11faf73ddb702e8/CommunityMilestonePattern_860x1320.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/Huxner3Pa10yLIVMEXCKU"/>
+    <published>2024-09-10T06:08:30+00:00</published>
   </entry>
 </feed>
