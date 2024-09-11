@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-11T09:33:56.596328+00:00</updated>
+  <updated>2024-09-11T10:37:49.523974+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -550,5 +550,25 @@
     <link href="https://www.youtube.com/watch?v=mCrJB5h9pj4"/>
     <category term="最新情報"/>
     <published>2024-09-10T14:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4yngbhV1Ev4wu5dPIbBAcM</id>
+    <title>【烏龜】飛龍衝突挑戰！通關路線分享！</title>
+    <updated>2024-09-11T10:09:35.513000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/4yngbhV1Ev4wu5dPIbBAcM"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/68vKtRL2Qu2d6bykFNb9HM/0ed13969368c4b2dcd13ec67e4f1d3e1/tw_20240911_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Qj_J9A8UyYY"/>
+    <category term="最新情報"/>
+    <published>2024-09-11T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>iKM4cgAmj4t7A6UhlRk9e</id>
+    <title>【金雄】新飛龍衝突挑戰太難？看這邊！</title>
+    <updated>2024-09-11T10:09:49.255000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/iKM4cgAmj4t7A6UhlRk9e"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7x6ud6gKOkAU2b6YRKx3LN/0a5b987c89b3b47f6d715185e932646b/tw_20240911_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=JVNCmIbBq3U"/>
+    <category term="最新情報"/>
+    <published>2024-09-11T10:01:00+00:00</published>
   </entry>
 </feed>
