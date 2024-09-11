@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-11T07:29:38.160770+00:00</updated>
+  <updated>2024-09-11T08:38:35.656810+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -368,9 +368,19 @@
     <published>2024-09-09T17:36:43+00:00</published>
   </entry>
   <entry>
+    <id>779okptngIJG7llXLUms9F</id>
+    <title>自分の村が王国に変身！</title>
+    <updated>2024-09-11T08:05:36.378000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/779okptngIJG7llXLUms9F"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/Wob1kJp1aY7oV77qeGfSF/d5ac79242c1b3138ded54a34255bd710/CoC_SC018_Dragons_EN_1920x1080_Still_Thumbnail_v03_RB_eyestorm.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ybJPLeMa2lM"/>
+    <category term="ニュース"/>
+    <published>2024-09-10T08:00:04+00:00</published>
+  </entry>
+  <entry>
     <id>6o2RlXowHsNVXPuac7pMZg</id>
     <title>新イベント：トレジャーハント！</title>
-    <updated>2024-09-11T00:12:27.447000+00:00</updated>
+    <updated>2024-09-11T08:00:22.900000+00:00</updated>
     <content>&lt;h1&gt;新イベント「トレジャーハント」開催！&lt;/h1&gt;
 &lt;p&gt;こんにちは、チーフ！9月のアップデートで、クラッシュ・オブ・クランに新イベントが実装されます。その名も「トレジャーハント」イベント！&lt;/p&gt;
 &lt;h1&gt;トレジャーハントイベントとは？&lt;/h1&gt;
