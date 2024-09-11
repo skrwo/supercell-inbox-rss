@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>squadbusters-eventEntries-it</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-09-11T11:30:22.905897+00:00</updated>
+  <updated>2024-09-11T12:53:48.110910+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -75,11 +75,11 @@
   <entry>
     <id>6eLtAwtWvwHGWP1sgfcNIi</id>
     <title>🗞️</title>
-    <updated>2024-09-11T11:21:28.277000+00:00</updated>
+    <updated>2024-09-11T12:23:17.815000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="www.placeholder.com"&gt;👉Guarda👈&lt;/a&gt;</content>
+&lt;a href="https://youtu.be/8BCod_NjEbo"&gt;👉Guarda👈&lt;/a&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/18RbDhymjp9uA7JVfR9wdf/478a1c7b50620695d6066190373bfeb5/Transformers_Feature_Art_1080x1920.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="www.placeholder.com"/>
+    <link href="https://youtu.be/8BCod_NjEbo"/>
     <published>2024-09-11T11:11:56+00:00</published>
   </entry>
 </feed>

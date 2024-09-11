@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-09-11T11:29:33.538565+00:00</updated>
+  <updated>2024-09-11T12:53:30.396428+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -103,6 +103,15 @@
     <updated>2024-09-11T10:54:25.326000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5hXj1FCFIjKnG6T0RYTsR2/9751e1a1cf567f2f3b49bf4a2df5b5b0/rivalcupAnnouncement.PNG?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://x.com/RivalEsportsHQ/status/1833483221797114047"/>
+    <category term="Esports"/>
+    <published>2024-09-10T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>22lqrsHxAkiR1hi96RTBCe</id>
+    <title>Brawl Duels are back!</title>
+    <updated>2024-09-11T11:58:28.425000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5bzjxWOp1E33UAISRtkGj9/07ff8d84ffedb6804d8d996ade0cadcc/brawlduelsNA_announcement.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/BrawlDuels/status/1833581438652027391"/>
     <category term="Esports"/>
     <published>2024-09-10T23:00:00+00:00</published>
   </entry>
