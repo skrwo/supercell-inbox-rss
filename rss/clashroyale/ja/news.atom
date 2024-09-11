@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-11T14:34:36.676868+00:00</updated>
+  <updated>2024-09-11T15:34:57.442038+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,15 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>qxrqAtBsg6G2xdvdRZzxk</id>
-    <title>新ゴブリンカード3枚？</title>
-    <updated>2024-06-14T11:29:03.907000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/qxrqAtBsg6G2xdvdRZzxk"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ggoSka26LGcac9AM6F8kc/4e2fbc4245936c1d7e91981f2c464a2d/3newgoblincards.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/nea131OXPMs"/>
-    <published>2024-06-13T15:05:06+00:00</published>
   </entry>
   <entry>
     <id>3LyXpxV0vXa2ncJGQYpvnr</id>
@@ -659,5 +650,27 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/5obaqeCSqYBwWkSOmRgutV"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3f6Ut3dOo60IMcLtJDv6u4/a2518a9bc38651b8ff75909ddea8adae/PEKKA_MEGA_THUMBNAIL_1024X576.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <published>2024-09-10T14:57:18+00:00</published>
+  </entry>
+  <entry>
+    <id>6XdN8cutcLPQOEZD9ogkeW</id>
+    <title>限界突破メガナイトを無料でゲット！</title>
+    <updated>2024-09-11T15:16:47.360000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/440SquGoR9l905TMdvpk4A/3dea5eae38856322149e86336ea7cb2d/MegaKnightEvo.png?w=400&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;限界突破メガナイトイベント&lt;/b&gt;で大暴れしましょう！&lt;b&gt;9月14日から9月24日&lt;/b&gt;まで、限界突破メガナイトを無料でアンロックするチャンスがやってきます！&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;🎯イベントの仕組み&lt;/h3&gt;&lt;p&gt;イベント期間は10日間です。期間中は1日1回まで目標を達成して、報酬を集めながら限界突破メガナイト獲得に近づくことができます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;メガナイトの&lt;b&gt;限界突破シャードを6つ&lt;/b&gt;すべて入手するには、目標を&lt;b&gt;6回&lt;/b&gt;達成する必要があります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;限界突破シャードを6つすべて集めると、イベントには参加できなくなります。イベントは10日間ですが、&lt;b&gt;そのうち6日分の目標を達成&lt;/b&gt;すればメガナイトの限界突破が可能になります。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;h1&gt;イベントの目標 &lt;/h1&gt;
+&lt;p&gt;**参加資格：**キングレベル7以上&lt;/p&gt;&lt;p&gt;&lt;b&gt;クラウンの条件と報酬：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**無料：**小盛ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**20個のクラウンを獲得：**中盛ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**合計30個のクラウンを獲得：**中盛ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**合計40個のクラウンを獲得：**メガナイトのウルトラレアカード1枚&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**合計55個のクラウンを獲得：**メガナイトの限界突破シャード1個&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;h1&gt;ファイナルクラウンチャレンジ&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;**開催期間：**9月14日から9月24日までのイベントの全期間&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**参加資格：**アリーナ11以上&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**アンロックの条件：**限界突破シャードを6個すべて獲得&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;クラウンの条件と報酬：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**無料：**小盛ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**20個のクラウンを獲得：**中盛ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**合計40個のクラウンを獲得：**中盛ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**合計90個のクラウンを獲得：**メガナイト2枚&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**合計140個のクラウンを獲得：**限定スタンプ&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3comDNAnWdjMtZ3YHF2TMX/caff0bb5f9fdbdb6fc747c5ee653b134/emotes_megaknightevo_timeout_dl.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;アリーナ11未満の場合&lt;/h1&gt;
+&lt;p&gt;アリーナ11に到達していないプレイヤーのために、&lt;b&gt;限界突破ナイトイベント&lt;/b&gt;が同時開催されます。&lt;/p&gt;&lt;p&gt;**参加資格：**キングレベル7以上&lt;/p&gt;&lt;p&gt;&lt;b&gt;クラウンの条件と報酬：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;**無料：**小盛ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**10個のクラウンを獲得：**ナイトのノーマルカード250枚&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**合計20個のクラウンを獲得：**中盛ゴールド&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**合計30個のクラウンを獲得：**ナイトの限界突破シャード&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ナイトの&lt;b&gt;限界突破シャードを6つ&lt;/b&gt;すべて入手するには、目標を&lt;b&gt;6回&lt;/b&gt;達成する必要があります。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/6XdN8cutcLPQOEZD9ogkeW"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3BKKQia5Ct2LQ091Y7L3lr/b12b8d2c2d2b56a5b70ee1556112b632/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="リリース情報"/>
+    <published>2024-09-11T15:15:02+00:00</published>
   </entry>
 </feed>

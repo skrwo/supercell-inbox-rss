@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-eventEntries-en</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-09-11T14:34:40.401467+00:00</updated>
+  <updated>2024-09-11T15:34:49.746659+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -24,5 +24,15 @@
 &lt;a href="https://clashroyale.inbox.supercell.com/#/en/news/6fGNoLSaRUijALtrAyCWHY"&gt;👉READ👈&lt;/a&gt; -- &lt;a href="https://www.youtube.com/shorts/IYy9pLDk2FI"&gt;👉WATCH👈&lt;/a&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/28udNuTRKDUNzgVCrEA8vH/a7a61fbf0d5fad0a68ee9f721be5bb41/SUP3941_CR_s63_Season_Carousel_Image.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <published>2024-09-02T10:19:58+00:00</published>
+  </entry>
+  <entry>
+    <id>1fAqMnZXE2S1fpe2MdznBJ</id>
+    <title>🗞️</title>
+    <updated>2024-09-11T15:15:02.602000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/rL8U-3n9tQA"&gt;👉WATCH👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/51W8gSyUXvkCDKu4pCBbxs/ac9b9d0bc978d5f5fb9d8c30cccf8c7a/Untitled-1.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/rL8U-3n9tQA"/>
+    <published>2024-09-11T15:15:02+00:00</published>
   </entry>
 </feed>
