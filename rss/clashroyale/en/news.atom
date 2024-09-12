@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-12T14:37:12.023086+00:00</updated>
+  <updated>2024-09-12T15:33:05.946490+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>3LyXpxV0vXa2ncJGQYpvnr</id>
-    <title>Goblin Queen Gameplay Reveal</title>
-    <updated>2024-06-15T07:35:27.105000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/3LyXpxV0vXa2ncJGQYpvnr"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3Kw6RMfUASZr5X9LUVs2bK/61b7bc4877f85fd2665268dc6e0f4620/queengameplayreveal.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/wYaNs2_wA54?feature=share"/>
-    <category term="Highlights"/>
-    <published>2024-06-14T15:05:03+00:00</published>
-  </entry>
   <entry>
     <id>5QC6U19jTkyZGWqdNvpvJE</id>
     <title>TV Royale is here!</title>
@@ -552,7 +542,7 @@ Your chosen Evolution’s Shards will be converted into Wild Cards, ensuring you
   <entry>
     <id>5obaqeCSqYBwWkSOmRgutV</id>
     <title>P.E.K.K.A vs Mega Knight: Creator Showdown</title>
-    <updated>2024-09-12T04:20:13.328000+00:00</updated>
+    <updated>2024-09-12T14:37:27.435000+00:00</updated>
     <content>&lt;p&gt;P.E.K.K.A and Mega Knight evolved, and are ready to battle it out for Evolution glory! Both recruited some of the best Creators and Pro Players to team up and represent them in the Arena! &lt;/p&gt;&lt;p&gt;The P.E.K.K.A vs Mega Knight Creator Showdown is here and you will be able to watch LIVE and earn rewards! Mark your calendar for Friday, September 13th - 4PM UTC. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Representing Team P.E.K.K.A:&lt;/b&gt;&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/Q5JT2KVLBRgoiPNhFXPVV/5f5c82c39f1d1aded9c22862ebf4add4/TeamPEKKA.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;Mohamed Light
@@ -600,5 +590,15 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3BKKQia5Ct2LQ091Y7L3lr/b12b8d2c2d2b56a5b70ee1556112b632/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-09-11T15:15:02+00:00</published>
+  </entry>
+  <entry>
+    <id>3F7HHZuQFb6Iyrfe32zsEZ</id>
+    <title>Time to bulk up! 💪</title>
+    <updated>2024-09-12T15:30:02.842000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/3F7HHZuQFb6Iyrfe32zsEZ"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J4NHoA8ltqk4aj60YnbNC/040be6e12819a36cab17adc86f4f088e/Untitled-2.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/v-PuklT6RVI?feature=share"/>
+    <category term="Fun"/>
+    <published>2024-09-12T15:30:02+00:00</published>
   </entry>
 </feed>
