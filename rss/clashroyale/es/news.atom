@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-13T11:29:37.106465+00:00</updated>
+  <updated>2024-09-13T12:52:34.415685+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -552,5 +552,15 @@ OJ&lt;/p&gt;
     <link href="https://youtube.com/shorts/v-PuklT6RVI?feature=share"/>
     <category term="Diversión"/>
     <published>2024-09-12T15:30:02+00:00</published>
+  </entry>
+  <entry>
+    <id>5PZFPp9dFqz7s4vLHjn11Q</id>
+    <title>#TeamPEKKA 🆚 #TeamMEGA ?</title>
+    <updated>2024-09-13T12:10:22.249000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/5PZFPp9dFqz7s4vLHjn11Q"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ijsp8G8yDczBaFzKtOlcw/fc53ad66efcdb828b85aa38a225abcd6/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/x1KHwNugC58"/>
+    <category term="Noticias"/>
+    <published>2024-09-13T12:10:02+00:00</published>
   </entry>
 </feed>
