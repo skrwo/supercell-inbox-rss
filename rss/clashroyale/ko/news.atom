@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-13T09:31:41.256929+00:00</updated>
+  <updated>2024-09-13T10:37:39.252572+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -546,5 +546,15 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3BKKQia5Ct2LQ091Y7L3lr/b12b8d2c2d2b56a5b70ee1556112b632/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2024-09-11T15:15:02+00:00</published>
+  </entry>
+  <entry>
+    <id>3F7HHZuQFb6Iyrfe32zsEZ</id>
+    <title>근육을 키울 시간이에요!</title>
+    <updated>2024-09-13T09:46:51.342000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/3F7HHZuQFb6Iyrfe32zsEZ"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J4NHoA8ltqk4aj60YnbNC/040be6e12819a36cab17adc86f4f088e/Untitled-2.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/v-PuklT6RVI?feature=share"/>
+    <category term="재미"/>
+    <published>2024-09-12T15:30:02+00:00</published>
   </entry>
 </feed>

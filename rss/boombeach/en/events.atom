@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-eventEntries-en</id>
   <title>Boombeach - Event</title>
-  <updated>2024-09-13T09:31:57.611239+00:00</updated>
+  <updated>2024-09-13T10:37:57.114230+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox Event</subtitle>
@@ -91,5 +91,13 @@
     <content>⏱️ [TIMER] set to 22:59, 18.08.2024 (UTC) - Expired!</content>
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/p3f9RNlppMSmXXkc6CyBJ/4740e56e60edc9dbb871a87d89b68f7c/Carousel_V3.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <published>2024-08-16T09:19:20+00:00</published>
+  </entry>
+  <entry>
+    <id>47qMgJ4EubXlvHOBJckxy</id>
+    <title>Rifle Mania</title>
+    <updated>2024-09-13T10:01:49.889000+00:00</updated>
+    <content>⏱️ [TIMER] set to 22:59, 15.09.2024 (UTC) - Time Remaining 00 seconds</content>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/240PZY2uSYcCvVd0emRyS7/28f56c719956f19a16af76eca9747305/Carousel_V3.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <published>2024-09-13T10:01:49+00:00</published>
   </entry>
 </feed>
