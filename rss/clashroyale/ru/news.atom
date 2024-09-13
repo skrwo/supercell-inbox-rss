@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-13T14:34:46.789592+00:00</updated>
+  <updated>2024-09-13T15:35:46.593900+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -25,16 +25,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2023-12-01T18:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>5QC6U19jTkyZGWqdNvpvJE</id>
-    <title>Встречайте новую правительницу!</title>
-    <updated>2024-06-17T03:12:35.961000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/5QC6U19jTkyZGWqdNvpvJE"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Qnp65ZE2UehBNtD4hrAd5/6c19244efee86605ec9432b640cd14c4/CR_TVRoyale_Thumbnail_V1_002.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/Fh-z_EhbtL4"/>
-    <category term="Новости"/>
-    <published>2024-06-15T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>tu0og4AGbhV2bBGq074TK</id>
@@ -475,5 +465,15 @@ OJ&lt;/p&gt;
     <link href="https://youtube.com/shorts/x1KHwNugC58"/>
     <category term="Новости"/>
     <published>2024-09-13T12:10:02+00:00</published>
+  </entry>
+  <entry>
+    <id>7N2RSdrZ3xY9AanD45u8E5</id>
+    <title>TOMORROW 🥊 #MEGAKNIGHT #CARDEVOLUTION</title>
+    <updated>2024-09-13T15:10:14.555000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/7N2RSdrZ3xY9AanD45u8E5"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1q8NvlmaDozwJD37kKGHKh/c57369a43294a5bcaa437c758ae608c2/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/oLRv9_jSNOw"/>
+    <category term="Новости"/>
+    <published>2024-09-13T15:10:02+00:00</published>
   </entry>
 </feed>

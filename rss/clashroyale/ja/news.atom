@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-13T14:34:37.171068+00:00</updated>
+  <updated>2024-09-13T15:35:50.389273+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,16 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>5QC6U19jTkyZGWqdNvpvJE</id>
-    <title> TVロワイヤル：新ゲームモード！そして3枚の新カード！</title>
-    <updated>2024-06-17T03:12:35.961000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/5QC6U19jTkyZGWqdNvpvJE"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Qnp65ZE2UehBNtD4hrAd5/6c19244efee86605ec9432b640cd14c4/CR_TVRoyale_Thumbnail_V1_002.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=OmVCaWkbI4U"/>
-    <category term="ニュース"/>
-    <published>2024-06-15T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>4a4B50NkhDsZBuSRWvuqxz</id>
@@ -738,5 +728,15 @@ TVロワイヤル感想投稿キャンペーン
     <link href="https://youtube.com/shorts/x1KHwNugC58"/>
     <category term="ニュース"/>
     <published>2024-09-13T12:10:02+00:00</published>
+  </entry>
+  <entry>
+    <id>7N2RSdrZ3xY9AanD45u8E5</id>
+    <title>TOMORROW 🥊 #MEGAKNIGHT #CARDEVOLUTION</title>
+    <updated>2024-09-13T15:10:14.555000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/7N2RSdrZ3xY9AanD45u8E5"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1q8NvlmaDozwJD37kKGHKh/c57369a43294a5bcaa437c758ae608c2/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/oLRv9_jSNOw"/>
+    <category term="ニュース"/>
+    <published>2024-09-13T15:10:02+00:00</published>
   </entry>
 </feed>
