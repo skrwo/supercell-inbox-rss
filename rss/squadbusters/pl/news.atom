@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>squadbusters-newsEntries-pl</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-14T14:31:43.555320+00:00</updated>
+  <updated>2024-09-14T15:31:28.583153+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -292,13 +292,13 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
     <published>2024-09-06T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>7x9AUIyu5oXo3bVQlVHSdQ</id>
-    <title>Nadchodzące nowości w Squad na YouTubie!</title>
-    <updated>2024-09-13T08:50:58.124000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/7x9AUIyu5oXo3bVQlVHSdQ"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GNubE9GfuKHJWOAGq6nMt/c189e9e8751e097359076585c46dc902/inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/WQXF1XqmwPc"/>
+    <id>560P4izg5UPS951vW3hocC</id>
+    <title>Nowości w Squad: Transformersy, gwiezdne skrzynie i więcej!</title>
+    <updated>2024-09-14T15:06:55.231000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/560P4izg5UPS951vW3hocC"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="youtu.be/WQXF1XqmwPc"/>
     <category term="Aktualizacje gry"/>
-    <published>2024-09-12T14:00:00+00:00</published>
+    <published>2024-09-14T14:52:00+00:00</published>
   </entry>
 </feed>
