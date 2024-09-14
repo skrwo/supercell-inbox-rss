@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-14T13:30:48.789020+00:00</updated>
+  <updated>2024-09-14T14:31:37.562611+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -610,5 +610,15 @@ OJ&lt;/p&gt;
     <link href="https://youtube.com/shorts/oLRv9_jSNOw"/>
     <category term="News"/>
     <published>2024-09-13T15:10:02+00:00</published>
+  </entry>
+  <entry>
+    <id>12pl89Fvd64JGtDNStyNbs</id>
+    <title>MEGA KNIGHT EVOLUTION Enters the Arena!</title>
+    <updated>2024-09-14T14:10:02.590000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/12pl89Fvd64JGtDNStyNbs"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ARh1WLDyfvQ6x4xiMqVQO/ab60c0cf738d9965ba928b98ee1f54e4/SUP3941_CR_s63_Article_Thumbnail_Safe.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/y9yCNrBhtgk"/>
+    <category term="News"/>
+    <published>2024-09-14T14:10:02+00:00</published>
   </entry>
 </feed>
