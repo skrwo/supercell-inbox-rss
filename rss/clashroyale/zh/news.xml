@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 14 Sep 2024 15:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 16:38:21 +0000</lastBuildDate>
     <item>
       <title>學牌組好去處！</title>
       <link>https://clashroyale.inbox.supercell.com/#/zh/news/1x62odjI4OkIgZfBs6qQfR</link>
@@ -16,83 +16,6 @@
       <category>攻略</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/38IUailtNMwW0O0IfSDXmu/fec46e7428cc76a8d11035e4fd434a71/tw_20231026_cr_creators_thumb.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Oct 2023 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2024年6月平衡性調整</title>
-      <link>https://clashroyale.inbox.supercell.com/#/zh/news/4a4B50NkhDsZBuSRWvuqxz</link>
-      <description>
-&lt;h1&gt;巨人&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/cvpF3Gd5OXtQ6K4hHbFVz/7139dcac3f3cab7384f1e069704eb5da/giant.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏&lt;b&gt;射程：&lt;/b&gt;
-從1600縮短為1200（-25%）&lt;/p&gt;
-&lt;p&gt;對於一個肉盾來說，巨人的傷害有點太高了，而且因為他的射程，他常常還能多打幾下。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;小王子&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥&lt;b&gt;技能傷害：&lt;/b&gt;
-從399降低為207（-48%）
-💥&lt;b&gt;技能擊退：&lt;/b&gt;
-從2500縮短為2000（-20%）
-&lt;b&gt;⏱️專屬護衛首次出手速度&lt;/b&gt;：從2秒延長為5秒（+150%）&lt;/p&gt;
-&lt;p&gt;皇家支援的高傷害、大幅擊退效果，還有專屬護衛飛快的首次出手速度，這些都為他增加了太多外在的強度，與小王子的整體設計關係不大。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;進化騎士&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️進化後生命值加成：&lt;/b&gt;-9%&lt;/p&gt;
-&lt;p&gt;雖然在上一次平衡性調整中，我們將大部分近戰進化卡牌的進化後生命值加成調整為原生命值的1.1倍，但進化騎士的表現依然一騎絕塵。所以我們決定取消他的進化後生命值加成，因為他的技能已經提升了他的有效生命值。別擔心，他仍然是最坦的近戰進化卡牌！&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;進化特斯拉電磁塔&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥&lt;b&gt;電磁脈衝傷害：&lt;/b&gt;
-從192降低為148（-23%）
-⏳&lt;b&gt;電磁脈衝眩暈持續時間：&lt;/b&gt;-50%&lt;/p&gt;
-&lt;p&gt;雖然我們很高興看到進化特斯拉電磁塔的電磁脈衝技能大放異彩，但現在既然它一定會放出第二次脈衝，我們就需要降低衝擊波的強度。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;蠻羊騎士&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1HOnYoZRRyRrhH7BQ4ecrx/2127d9bad5db865862b4cefb612406c9/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡&lt;b&gt;衝鋒距離：&lt;/b&gt;
-從300降低為150（-50%）&lt;/p&gt;
-&lt;h1&gt;王子&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CpeMMVuFIw071qT0ubf9o/a8e6a0f8589a2fb53d69cb5bebd6ce4b/prince.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡&lt;b&gt;衝鋒距離：&lt;/b&gt;
-從300降低為150（-50%）&lt;/p&gt;
-&lt;p&gt;蠻羊騎士和王子的衝鋒都太不穩定，而且很容易被打斷，而且他們聖水花費還偏高。從現在起，他們在被部署或被打斷後會更快發起衝鋒。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;哥布林投矛手&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💨&lt;b&gt;首次出手速度：&lt;/b&gt;-40%&lt;/p&gt;
-&lt;p&gt;哥布林投矛手往往還沒來得及攻擊就被消滅，因此我們希望這次調整能讓他們變得更可靠。以上調整也會影響哥布林大隊、哥布林小屋和哥布林巨人。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;吹箭哥布林&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥&lt;b&gt;傷害：&lt;/b&gt;
-從131提升至142（+8%）&lt;/p&gt;
-&lt;p&gt;吹箭哥布林是一張高風險高報酬的卡牌，但目前的報酬不夠高導致他遠不如其他卡牌。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;哥布林牢籠&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2UiizHJFOpah1ewFynv6Sx/5b0d54bb846e7f1e744eee404d167e1d/goblincage.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;❤️&lt;b&gt;牢籠生命值：&lt;/b&gt;
-從742提升至780（+5%）&lt;/p&gt;
-&lt;p&gt;哥布林正在加固牢籠的牆壁，因為它明顯落後於其他防禦建築。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;虛空法術&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡&lt;b&gt;首次攻擊延遲：&lt;/b&gt;+150%
-⏱️&lt;b&gt;攻擊頻率：&lt;/b&gt;-13%&lt;/p&gt;
-&lt;p&gt;虛空法術的設計初衷是一個可以被反制的法術，但目前首次攻擊生效太快，導致對手來不及反應。本次調整目的是在不影響法術持續時間的情況下，讓對手有機會對虛空法術做出應對。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;飛刀女爵&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥&lt;b&gt;傷害：&lt;/b&gt;
-從153降低為112（-27%）
-🗡️&lt;b&gt;飛刀裝填時間：&lt;/b&gt;-33%&lt;/p&gt;
-&lt;p&gt;我們原本對飛刀女爵的期望是能有效對抗速轉牌組，但對上高費卡牌時會略顯無力，不過她目前的表現已遠超這個預期。我們希望降低她的最高傷害，同時保持她的最低傷害不變。&lt;/p&gt;</description>
-      <guid isPermaLink="false">4a4B50NkhDsZBuSRWvuqxz</guid>
-      <category>更新說明</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Sun, 16 Jun 2024 15:00:03 +0000</pubDate>
     </item>
     <item>
       <title>【Xiake】 新玩法？帶你了解哥布林女皇！</title>

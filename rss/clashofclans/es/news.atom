@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-newsEntries-es</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-14T15:31:01.539644+00:00</updated>
+  <updated>2024-09-14T16:38:36.389734+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>WNAnWHFemqXB9GD5gtTv1</id>
-    <title>¡Tropa cambiapieles! ¡Novedad! </title>
-    <updated>2024-06-18T08:09:42.963000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/es/news/WNAnWHFemqXB9GD5gtTv1"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6trs6PVpcWb9vcK33QZjID/553621bf484408bdcaee83dd025f2ced/thumbnail_Yt_Druid.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=uhW69MHBMqk"/>
-    <category term="Actualizaciones del juego"/>
-    <published>2024-06-16T12:00:02+00:00</published>
-  </entry>
   <entry>
     <id>K7ptqMuw77CzkiDO1Y7Ak</id>
     <title>Notas completas de la actualización de junio</title>

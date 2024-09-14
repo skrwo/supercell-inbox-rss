@@ -2,85 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-14T15:30:46.295453+00:00</updated>
+  <updated>2024-09-14T16:38:18.903379+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>4a4B50NkhDsZBuSRWvuqxz</id>
-    <title>AJUSTES DE EQUILIBRIO DE JUNIO</title>
-    <updated>2024-06-18T06:58:21.643000+00:00</updated>
-    <content>
-&lt;h1&gt;GIGANTE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/cvpF3Gd5OXtQ6K4hHbFVz/7139dcac3f3cab7384f1e069704eb5da/giant.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Alcance:&lt;/b&gt;
-1600 → 1200 (-25 %)&lt;/p&gt;
-&lt;p&gt;El gigante inflige demasiado daño para ser un tanque y, debido a su alcance, a menudo asestaba varios golpes extras.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;PRINCIPITO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Daño de habilidad:&lt;/b&gt;
-399 → 207 (-48 %)💥 &lt;b&gt;Empuje de la habilidad:&lt;/b&gt;
-2500 → 2000 (-20 %)
-&lt;b&gt;⏱️ Velocidad del primer ataque de la guardiana:&lt;/b&gt; 2 s → 5 s (+150 %)&lt;/p&gt;
-&lt;p&gt;El gran daño del rescate real, su empuje y la rápida velocidad del primer ataque de la guardiana proporcionaban demasiado poder externo y no eran importantes para el diseño general del principito.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;EVOLUCIÓN DEL CABALLERO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ PV extras:&lt;/b&gt; -9 %&lt;/p&gt;
-&lt;p&gt;Pese a que la última actualización de equilibrio le dio a la mayoría de las evoluciones de tropas cuerpo a cuerpo un potenciador de PV de x1,1, la evolución del caballero seguía superando a todas las demás. Vamos a eliminar sus PV extras, puesto que su habilidad ya se los potencia de forma efectiva. Pero no te preocupes, ¡que seguirá siendo la evolución cuerpo a cuerpo más fornida!&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;EVOLUCIÓN DE LA TORRE TESLA&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Daño de las ondas eléctricas:&lt;/b&gt;
-192 → 148 (-23 %)&lt;/p&gt;&lt;p&gt;⏳ &lt;b&gt;Duración del aturdimiento de las ondas eléctricas:&lt;/b&gt; -50 %&lt;/p&gt;
-&lt;p&gt;Pese a que nos gusta ver brillar la habilidad de las ondas eléctricas de la evolución de la torre Tesla, resultaba imprescindible debilitarlas ahora que tiene una segunda onda garantizada.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;MONTACARNEROS&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1HOnYoZRRyRrhH7BQ4ecrx/2127d9bad5db865862b4cefb612406c9/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Alcance de la carga:&lt;/b&gt;
-300 → 150 (-50 %)&lt;/p&gt;
-&lt;h1&gt;PRÍNCIPE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CpeMMVuFIw071qT0ubf9o/a8e6a0f8589a2fb53d69cb5bebd6ce4b/prince.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Alcance de la carga:&lt;/b&gt;
-300 → 150 (-50 %)&lt;/p&gt;
-&lt;p&gt;La carga tanto de la montacarneros como la del príncipe funcionaban de forma demasiado inconsistente y era fácil interrumpirlas, sobre todo dado su alto coste de elixir. A partir de ahora, se cargarán mucho más rápido después de desplegarse o de que las interrumpan.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DUENDES CON LANZA&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💨&lt;b&gt;Velocidad del primer ataque:&lt;/b&gt; -40 %&lt;/p&gt;
-&lt;p&gt;Los duendes con lanza a menudo caen derrotados antes de que puedan atacar, por lo que esperamos que este cambio los haga más eficientes. Esta actualización también afectará a la pandilla de duendes, la choza de duendes y el duende gigante.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DUENDE LANZADARDOS&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Daño:&lt;/b&gt;
-131 → 142 (+8 %)&lt;/p&gt;
-&lt;p&gt;El duende lanzadardos es una carta arriesgada, pero se ha visto sobrepasada por otras cartas, ya que no daba el beneficio suficiente.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;JAULA DEL FORZUDO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2UiizHJFOpah1ewFynv6Sx/5b0d54bb846e7f1e744eee404d167e1d/goblincage.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;❤️ &lt;b&gt;Puntos de vida de la jaula:&lt;/b&gt;
-742 → 780 (+5 %)&lt;/p&gt;
-&lt;p&gt;Los duendes reforzarán los muros de la jaula porque la carta se ha quedado rezagada con respecto a otras estructuras defensivas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;VACÍO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Intervalo del primer ataque:&lt;/b&gt; (+150 %)
-⏱️ &lt;b&gt;Frecuencia de los golpes:&lt;/b&gt; (-13 %)&lt;/p&gt;
-&lt;p&gt;El hechizo de vacío se puede contrarrestar, pero el primer ataque ocurría demasiado rápido como para que los rivales pudieran reaccionar. El objetivo del cambio es darles tiempo de reaccionar, además de ajustar su duración total.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DUQUESA DE DAGAS&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Daño:&lt;/b&gt;
-153 → 112 (-27 %)🗡️ &lt;b&gt;Recarga de las dagas:&lt;/b&gt; -33 %&lt;/p&gt;
-&lt;p&gt;La duquesa de dagas ha sobrepasado su diseño (resistir bien contra mazos de ciclado) y contrarresta las cartas de elixir alto sin permitir apenas respuesta. Queremos reducir su daño máximo manteniendo, no obstante, el daño mínimo más o menos en su mismo valor.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/4a4B50NkhDsZBuSRWvuqxz"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notas de actualización"/>
-    <published>2024-06-16T15:00:03+00:00</published>
-  </entry>
   <entry>
     <id>tu0og4AGbhV2bBGq074TK</id>
     <title>ACTUALIZACIÓN DEL 17 DE JUNIO</title>

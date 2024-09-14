@@ -2,85 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-14T15:30:55.491690+00:00</updated>
+  <updated>2024-09-14T16:38:23.296660+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>4a4B50NkhDsZBuSRWvuqxz</id>
-    <title>MODIFICHE DI BILANCIAMENTO DI GIUGNO</title>
-    <updated>2024-06-18T06:58:21.643000+00:00</updated>
-    <content>
-&lt;h1&gt;GIGANTE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/cvpF3Gd5OXtQ6K4hHbFVz/7139dcac3f3cab7384f1e069704eb5da/giant.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Portata:&lt;/b&gt;
--25% (da 1600 unità a 1200).&lt;/p&gt;
-&lt;p&gt;Il gigante infligge troppi danni per essere una truppa così resistente e spesso mette a segno qualche colpo in più proprio grazie alla loro portata.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;PRINCIPINO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Danni dell&amp;#39;abilità:&lt;/b&gt;
--48% (da 399 punti a 207).💥 &lt;b&gt;Respinta ottenuta con l&amp;#39;abilità:&lt;/b&gt;
--20% (da 2500 punti a 2000).
-&lt;b&gt;⏱️ Velocità del primo colpo sferrato dalla guardiana:&lt;/b&gt; +150% (da 2 secondi a 5).&lt;/p&gt;
-&lt;p&gt;I danni elevati e l&amp;#39;efficacia della respinta del Soccorso Royale, nonché la velocità con cui la guardiana sferrava il suo primo colpo, rendevano questa carta troppo forte e non erano poi così tanto in linea con la meccanica del principino.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;CAVALIERE EVOLUTO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita bonus:&lt;/b&gt; -9%.&lt;/p&gt;
-&lt;p&gt;Anche se con l&amp;#39;ultima modifica di bilanciamento abbiamo aumentato del 10% i punti ferita di quasi tutte le evoluzioni da mischia, il cavaliere evoluto era comunque un passo avanti agli altri, perciò abbiamo deciso di ridurre i suoi punti bonus, dato che la sua abilità aumenta già i suoi punti ferita effettivi. Non temere, però, perché resta comunque l&amp;#39;evoluzione da mischia più resistente di tutte!&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;TESLA EVOLUTA&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Danni dell&amp;#39;impulso elettrico:&lt;/b&gt;
--23% (da 192 punti a 148).&lt;/p&gt;&lt;p&gt;⏳ &lt;b&gt;Durata dello stordimento dell&amp;#39;impulso elettrico:&lt;/b&gt; -50%.&lt;/p&gt;
-&lt;p&gt;Siamo felicissimi di vedere che l&amp;#39;impulso elettrico della Tesla evoluta abbia molto successo, ma riteniamo comunque sia necessario ridurre l&amp;#39;efficacia dell&amp;#39;onda d&amp;#39;urto, ora che il secondo impulso è sempre garantito.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DOMATRICE DI ARIETI&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1HOnYoZRRyRrhH7BQ4ecrx/2127d9bad5db865862b4cefb612406c9/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Portata della carica:&lt;/b&gt;
--50% (da 300 unità a 150).&lt;/p&gt;
-&lt;h1&gt;PRINCIPE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CpeMMVuFIw071qT0ubf9o/a8e6a0f8589a2fb53d69cb5bebd6ce4b/prince.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Portata della carica:&lt;/b&gt;
--50% (da 300 unità a 150).&lt;/p&gt;
-&lt;p&gt;Sia la carica della domatrice di arieti che quella del principe sono troppo inaffidabili e facili da interrompere, soprattutto se si prende in considerazione l&amp;#39;alta quantità di elisir richiesto per schierarli. D&amp;#39;ora in poi, partiranno alla carica molto più velocemente dopo essere stati schierati o interrotti.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;GOBLIN LANCIERI&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💨&lt;b&gt;Velocità del primo colpo:&lt;/b&gt; -40%.&lt;/p&gt;
-&lt;p&gt;I goblin lancieri spesso vengono eliminati prima di poter sferrare i propri attacchi, perciò speriamo di averli resi più affidabili. Questa modifica ha effetto anche sulla gang di goblin, sulla capanna goblin e sul gigante goblin.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;GOBLIN CERBOTTANIERE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Danni:&lt;/b&gt;
-+8% (da 131 punti a 142).&lt;/p&gt;
-&lt;p&gt;Il goblin cerbottaniere è una carta molto pericolosa, ma è stata surclassata da altre carte che danno risultati migliori.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;GABBIA PER GOBLIN&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2UiizHJFOpah1ewFynv6Sx/5b0d54bb846e7f1e744eee404d167e1d/goblincage.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;❤️ &lt;b&gt;Punti ferita della gabbia:&lt;/b&gt;
-+5% (da 742 punti a 780).&lt;/p&gt;
-&lt;p&gt;I goblin hanno rinforzato le pareti della gabbia per non farla più sfigurare rispetto agli altri edifici difensivi del gioco.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;NIHIL&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Tempo richiesto per il primo colpo:&lt;/b&gt; +150%.
-⏱️ &lt;b&gt;Frequenza dei colpi:&lt;/b&gt; -13%.&lt;/p&gt;
-&lt;p&gt;Il primo colpo sferrato da questo incantesimo era troppo veloce per gli avversari e impediva loro di reagire in tempo, perciò abbiamo cercato di ovviare al problema con questa modifica, con cui puntiamo a dare la possibilità agli avversari di contrattaccare in tempo e di gestire la durata totale del Nihil.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DUCHESSA DEI PUGNALI&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Danni:&lt;/b&gt;
--27% (da 153 punti a 112).🗡️ &lt;b&gt;Tempo previsto per la ricarica del pugnale:&lt;/b&gt; -33%.&lt;/p&gt;
-&lt;p&gt;La duchessa dei pugnali è stata pensata per essere forte contro i mazzi incentrati sulla rotazione rapida delle proprie carte, ma si sta dimostrando fin troppo efficace anche contro le carte più costose a livello di elisir, perciò vogliamo ridurre i suoi danni massimi, senza però alterare troppo quelli minimi.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/it/news/4a4B50NkhDsZBuSRWvuqxz"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Note di rilascio"/>
-    <published>2024-06-16T15:00:03+00:00</published>
-  </entry>
   <entry>
     <id>tu0og4AGbhV2bBGq074TK</id>
     <title>AGGIORNAMENTO DEL 17 GIUGNO</title>

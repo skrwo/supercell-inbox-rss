@@ -2,40 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-14T15:30:59.582124+00:00</updated>
+  <updated>2024-09-14T16:38:39.337106+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>WNAnWHFemqXB9GD5gtTv1</id>
-    <title>熊出沒注意！全新部隊！</title>
-    <updated>2024-06-18T08:09:42.963000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/WNAnWHFemqXB9GD5gtTv1"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6trs6PVpcWb9vcK33QZjID/553621bf484408bdcaee83dd025f2ced/thumbnail_Yt_Druid.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=uhW69MHBMqk"/>
-    <category term="遊戲更新"/>
-    <published>2024-06-16T12:00:02+00:00</published>
-  </entry>
-  <entry>
-    <id>3jHqbsXa8TelFwpJIjZG9Q</id>
-    <title>【烏龜】全新兵種會帶來什麼戰術的改變？</title>
-    <updated>2024-06-16T12:16:59.029000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3jHqbsXa8TelFwpJIjZG9Q"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4mWRJSK7YaJkRsm6Bmhz94/c9681a6bbeadca6684a7835482284cc5/tw_20240616_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=oHkSHCoJAwU"/>
-    <category term="最新情報"/>
-    <published>2024-06-16T12:05:00+00:00</published>
-  </entry>
-  <entry>
-    <id>7Kznryuj0ZZGMRJa9LMbqx</id>
-    <title>【金雄】兩種形態的德魯伊！又補又坦？</title>
-    <updated>2024-06-16T12:19:56.688000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7Kznryuj0ZZGMRJa9LMbqx"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/132wW4OwpNsKl0C2vvlUen/f9eb1d5c419562b46e024716e2b85c4c/tw_20240616_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=I4UaMbN3e-g"/>
-    <category term="最新情報"/>
-    <published>2024-06-16T12:06:00+00:00</published>
-  </entry>
   <entry>
     <id>K7ptqMuw77CzkiDO1Y7Ak</id>
     <title>6月更新詳情</title>

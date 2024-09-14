@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-14T15:30:44.860716+00:00</updated>
+  <updated>2024-09-14T16:38:34.351366+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -37,81 +37,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/dQRyndcSHunF7y9DdWXPo/89a21e654beb9a225874eeff8ef773d3/PT_CR_S53_Season_Hero_Cover.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de lançamento"/>
     <published>2023-11-06T09:01:04+00:00</published>
-  </entry>
-  <entry>
-    <id>4a4B50NkhDsZBuSRWvuqxz</id>
-    <title>BALANCEAMENTO DE JUNHO</title>
-    <updated>2024-06-18T06:58:21.643000+00:00</updated>
-    <content>
-&lt;h1&gt;GIGANTE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/cvpF3Gd5OXtQ6K4hHbFVz/7139dcac3f3cab7384f1e069704eb5da/giant.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Alcance:&lt;/b&gt;
-1600 → 1200 (-25%)&lt;/p&gt;
-&lt;p&gt;O Gigante está infligindo muito dano para uma tropa resistente e geralmente acerta golpes extras devido ao seu alcance.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;PEQUENO PRÍNCIPE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7FOSTRsU10ptxjrRFB7UNv/72dc5d7b28c7a50cf6503aae7c9ba2a7/littleprince.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Dano da habilidade:&lt;/b&gt;
-399 → 207 (-48%)💥 &lt;b&gt;Recuo obtido com a habilidade:&lt;/b&gt;
-2500 → 2000 (-20%)
-&lt;b&gt;⏱️ Velocidade do primeiro ataque da Guardiã:&lt;/b&gt; 2s → 5s (+150%)&lt;/p&gt;
-&lt;p&gt;Na habilidade Resgate Real, o alto dano, o grande recuo e a rapidez do primeiro golpe da Guardiã resultaram em muitos poderes divergentes que não são relevantes ao estilo do Pequeno Príncipe.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;EVOLUÇÃO DO CAVALEIRO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aI4VOimidyf0nNOsqXAJx/6090fd317b69fb67370d8124b3cb9e03/knightevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Pontos de vida bônus:&lt;/b&gt; -9%&lt;/p&gt;
-&lt;p&gt;Embora a última atualização tenha dado uma melhoria de 1,1x PV à maioria das tropas de ataque próximo, a evolução do Cavaleiro ainda estava à frente. Por isso, retiramos os pontos de vida extras, pois a habilidade dele já dá um reforço eficaz à saúde. Não se preocupe! Ele ainda será a evolução de ataque próximo mais resistente de todas!&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;EVOLUÇÃO DA TESLA&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5i9VcbZJgEFczlnJL1M15S/b0a28137d29facf0a00df8e2bb68215a/teslaevo.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Dano do impulso elétrico:&lt;/b&gt;
-192 → 148 (-23%)&lt;/p&gt;&lt;p&gt;⏳ &lt;b&gt;Duração do atordoamento do impulso elétrico:&lt;/b&gt; -50%&lt;/p&gt;
-&lt;p&gt;Foi ótimo ver a popularidade do impulso elétrico da Tesla evoluída, mas tivemos que reduzir a onda de choque agora que ela tem um segundo impulso garantido.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DOMADORA DE CARNEIRO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1HOnYoZRRyRrhH7BQ4ecrx/2127d9bad5db865862b4cefb612406c9/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Alcance da investida:&lt;/b&gt;
-300 → 150 (-50%)&lt;/p&gt;
-&lt;h1&gt;PRÍNCIPE&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CpeMMVuFIw071qT0ubf9o/a8e6a0f8589a2fb53d69cb5bebd6ce4b/prince.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Alcance da investida:&lt;/b&gt;
-300 → 150 (-50%)&lt;/p&gt;
-&lt;p&gt;As investidas da Domadora de Carneiro e do Príncipe têm sido muito inconsistentes e fáceis de bloquear, especialmente devido ao seu alto custo de elixir. A partir de agora, ambas as tropas terão investidas bem mais rápidas após serem mobilizadas ou interrompidas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;GOBLINS LANCEIROS&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💨&lt;b&gt;Velocidade do primeiro ataque:&lt;/b&gt; -40%&lt;/p&gt;
-&lt;p&gt;Os Goblins Lanceiros geralmente são eliminados antes de atacar, então esperamos que fiquem mais úteis com a mudança. A alteração também afetará Gangue de Goblins, Cabana de Goblins e Goblin Gigante.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;GOBLIN COM DARDO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Damage:&lt;/b&gt;
-131 → 142 (+8%)&lt;/p&gt;
-&lt;p&gt;Goblin com Dardo é uma carta de alto risco que acabou ficando para trás, pois seu uso não compensa muito.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;JAULA DE GOBLIN&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2UiizHJFOpah1ewFynv6Sx/5b0d54bb846e7f1e744eee404d167e1d/goblincage.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;❤️ &lt;b&gt;Pontos de vida da jaula:&lt;/b&gt;
-742 → 780 (+5%)&lt;/p&gt;
-&lt;p&gt;Os Goblins reforçaram as grades da jaula, pois ela estava bem mais fraca em comparação a outras defesas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;VÁCUO&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⚡ &lt;b&gt;Atraso do primeiro golpe:&lt;/b&gt; (+150%)
-⏱️ &lt;b&gt;Frequência de golpes:&lt;/b&gt; (-13%)&lt;/p&gt;
-&lt;p&gt;O Vácuo deveria ser um feitiço com contra-ataque, mas o primeiro golpe era rápido demais para os oponentes reagirem. A mudança visa dar tempo para que os oponentes reajam ao Vácuo e controlem melhor a sua duração total.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DUQUESA DAS ADAGAS&lt;/h1&gt;
-
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Damage:&lt;/b&gt;
-153 → 112 (-27%)🗡️ &lt;b&gt;Recarga das adagas:&lt;/b&gt; -33%&lt;/p&gt;
-&lt;p&gt;A Duquesa das Adagas foi projetada para ser forte contra decks com ciclo rápido de cartas, mas ela está se mostrando muito eficaz até mesmo contra cartas de alto elixir. Por isso, queremos reduzir seu dano máximo e manter o dano mínimo aproximadamente o mesmo.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/4a4B50NkhDsZBuSRWvuqxz"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7k8BeJqNdAFnsu6yDu8i5u/dc4a2d385da456a6eec5a4e9c74fc61f/junebalancechanges.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notas de lançamento"/>
-    <published>2024-06-16T15:00:03+00:00</published>
   </entry>
   <entry>
     <id>tu0og4AGbhV2bBGq074TK</id>
