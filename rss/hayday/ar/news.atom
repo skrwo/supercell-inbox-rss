@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-09-15T07:29:06.529697+00:00</updated>
+  <updated>2024-09-15T08:36:51.411874+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -225,5 +225,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="المجتمع"/>
     <published>2024-09-10T06:07:34+00:00</published>
+  </entry>
+  <entry>
+    <id>5hsfIMZVmVNjuwwOJu2DW6</id>
+    <title>الأسبوع 38 من Hay Day</title>
+    <updated>2024-09-15T08:01:30.612000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 38 من أحداث Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! استعدوا لأسبوع آخر مليء بالأحداث. تبدأ كل الأحداث في الساعة 8 ص بتوقيت جرينتش. اطلعوا على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;الإثنين: تدوير العجلة: (مواد توسعة)&lt;/p&gt;&lt;p&gt;الثلاثاء: مباني الإنتاج - (تعزيز 20% لثلاثة مبان)&lt;/p&gt;&lt;p&gt;الأربعاء: حدث القارب (معززات)&lt;/p&gt;&lt;p&gt;الخميس: حدث زوار المزرعة (ضعف العملات)&lt;/p&gt;&lt;p&gt;الجمعة: حدث تعزيز إنتاجية الصيد (سرطان البحر والطعوم 30%) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;السبت: حدث زوار البلدة (مواد توسعة)&lt;/p&gt;&lt;p&gt;الأحد: حدث علف الحيوانات (3 أنواع عشوائية من العلف بضعف سرعة الإنتاج)&lt;/p&gt;&lt;p&gt;نتمنى لكم أسبوعًا رائعًا!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/5hsfIMZVmVNjuwwOJu2DW6"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أحداث"/>
+    <published>2024-09-15T08:00:03+00:00</published>
   </entry>
 </feed>

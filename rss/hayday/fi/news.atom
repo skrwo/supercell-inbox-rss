@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-09-15T07:29:05.207877+00:00</updated>
+  <updated>2024-09-15T08:36:49.595940+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -225,5 +225,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Yhteisö"/>
     <published>2024-09-10T06:07:34+00:00</published>
+  </entry>
+  <entry>
+    <id>5hsfIMZVmVNjuwwOJu2DW6</id>
+    <title>Hay Dayn viikko 38</title>
+    <updated>2024-09-15T08:01:30.612000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 38&lt;/h1&gt;
+&lt;p&gt;Hei farmarit! On uuden tapahtumaviikon aika! Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: laajennusesineitä onnenpyörässä&lt;/p&gt;&lt;p&gt;Tiistai: kolmen tuotantorakennuksen 20 %:n tehostus&lt;/p&gt;&lt;p&gt;Keskiviikko: kiihdyttimiä lisäpalkintoina laivatilauksista&lt;/p&gt;&lt;p&gt;Torstai: tuplasti kolikoita farmivierailijoista&lt;/p&gt;&lt;p&gt;Perjantai: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;Lauantai: laajennusesineitä kylävierailijoilta&lt;/p&gt;&lt;p&gt;Sunnuntai: eläinten ruokintatehostus (3 satunnaista rehua valmistuu tuplanopeudella)&lt;/p&gt;&lt;p&gt;Ihanaa viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/5hsfIMZVmVNjuwwOJu2DW6"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Tapahtumat"/>
+    <published>2024-09-15T08:00:03+00:00</published>
   </entry>
 </feed>

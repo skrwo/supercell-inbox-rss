@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-09-15T07:29:03.783602+00:00</updated>
+  <updated>2024-09-15T08:36:52.047983+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -225,5 +225,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Communauté"/>
     <published>2024-09-10T06:07:34+00:00</published>
+  </entry>
+  <entry>
+    <id>5hsfIMZVmVNjuwwOJu2DW6</id>
+    <title>Calendrier des événements Hay Day (semaine 38)</title>
+    <updated>2024-09-15T08:01:30.612000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 38)&lt;/h1&gt;
+&lt;p&gt;Bonjour à tous, Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements commencent à 8 h UTC (10 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;Mardi : bâtiments de production, boost production de 20 % pour 3 bâtiments aléatoires&lt;/p&gt;&lt;p&gt;Mercredi : événement du bateau, boosts&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, pièces x2&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 30 % pour les homards et les appâts + points du pass Hay Day x2&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;Dimanche : événement nourriture pour animaux, 3 types de nourriture pour animaux aléatoires sont produits 2x plus rapidement&lt;/p&gt;&lt;p&gt;Passez une bonne semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/5hsfIMZVmVNjuwwOJu2DW6"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Événements"/>
+    <published>2024-09-15T08:00:03+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-newsEntries-th</id>
   <title>Hayday - News</title>
-  <updated>2024-09-15T07:29:05.035427+00:00</updated>
+  <updated>2024-09-15T08:36:48.412952+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -214,5 +214,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ชุมชน"/>
     <published>2024-09-10T06:07:34+00:00</published>
+  </entry>
+  <entry>
+    <id>5hsfIMZVmVNjuwwOJu2DW6</id>
+    <title>สัปดาห์ที่ 38 ของ Hay Day</title>
+    <updated>2024-09-15T08:01:30.612000+00:00</updated>
+    <content>&lt;h1&gt;อีเวนท์สัปดาห์ที่ 38 ของ Hay Day&lt;/h1&gt;
+&lt;p&gt;ไง ชาวไร่! เตรียมตัวให้พร้อมกับอีกสัปดาห์ที่เต็มไปด้วยอีเวนท์! ทุกอีเวนท์เริ่ม 8.00 UTC ดูรายละเอียดของแต่ละอีเวนท์ได้ที่กระดานอีเวนท์ในเกม&lt;/p&gt;&lt;p&gt;วันจันทร์: หมุนวงล้อ (วัสดุการขยาย)&lt;/p&gt;&lt;p&gt;วันอังคาร: สิ่งก่อสร้างการผลิต (สุ่ม 3 หลังบูสต์ 20%)&lt;/p&gt;&lt;p&gt;วันพุธ: อีเวนท์เรือ (บูสเตอร์)&lt;/p&gt;&lt;p&gt;วันพฤหัสบดี: ผู้มาเยือนฟาร์ม (เหรียญ x2)&lt;/p&gt;&lt;p&gt;วันศุกร์: อีเวนท์บูสต์การผลิตอุปกรณ์หาปลา (ล็อบสเตอร์และเหยื่อล่อบูสต์ 30%) + แต้ม Farm Pass x2&lt;/p&gt;&lt;p&gt;วันเสาร์: อีเวนท์ผู้มาเยือนเมือง (วัสดุการขยาย)&lt;/p&gt;&lt;p&gt;วันอาทิตย์: อีเวนท์อาหารสัตว์ (สุ่มอาหารสัตว์ 3 ชนิดซึ่งจะผลิตเร็วขึ้น 2 เท่า)&lt;/p&gt;&lt;p&gt;ขอให้มีสัปดาห์ที่อัศจรรย์!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/th/news/5hsfIMZVmVNjuwwOJu2DW6"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="อีเวนท์"/>
+    <published>2024-09-15T08:00:03+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-09-15T07:29:05.930464+00:00</updated>
+  <updated>2024-09-15T08:36:51.749017+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -225,5 +225,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Comunidade"/>
     <published>2024-09-10T06:07:34+00:00</published>
+  </entry>
+  <entry>
+    <id>5hsfIMZVmVNjuwwOJu2DW6</id>
+    <title>Semana 38 de eventos do Hay Day</title>
+    <updated>2024-09-15T08:01:30.612000+00:00</updated>
+    <content>&lt;h1&gt;Semana 38 de eventos do Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com materiais de expansão.&lt;/p&gt;&lt;p&gt;Terça-feira: aceleração da produção em 20% de 3 edifícios aleatórios.&lt;/p&gt;&lt;p&gt;Quarta-feira: aceleradores com os pedidos do barco.&lt;/p&gt;&lt;p&gt;Quinta-feira: dobro de moedas com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;Sexta-feira: aceleração da produção em 30% do tanque de lagostas e balcão de iscas e dobro de pontos no Passe Rural.&lt;/p&gt;&lt;p&gt;Sábado: materiais de expansão com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;Domingo: três tipos aleatórios de ração serão produzidos com o dobro de velocidade.&lt;/p&gt;&lt;p&gt;Tenha uma semana maravilhosa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/5hsfIMZVmVNjuwwOJu2DW6"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-09-15T08:00:03+00:00</published>
   </entry>
 </feed>

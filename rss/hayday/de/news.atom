@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-09-15T07:29:06.368351+00:00</updated>
+  <updated>2024-09-15T08:36:50.525242+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -225,5 +225,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-09-10T06:07:34+00:00</published>
+  </entry>
+  <entry>
+    <id>5hsfIMZVmVNjuwwOJu2DW6</id>
+    <title>Ereigniswoche 38</title>
+    <updated>2024-09-15T08:01:30.612000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 38&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Dienstag: Produktionsgebäude-Ereignis (20%iger Schub für drei Gebäude)&lt;/p&gt;&lt;p&gt;Mittwoch: Schiffsereignis (Schübe)&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den Angelbereich (Hummer und Köder, 30 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Sonntag: Flinkeres Futter (drei zufällige Arten Tierfutter werden doppelt so schnell produziert)&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine tolle Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/5hsfIMZVmVNjuwwOJu2DW6"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Ereignisse"/>
+    <published>2024-09-15T08:00:03+00:00</published>
   </entry>
 </feed>
