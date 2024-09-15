@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-15T09:31:10.946801+00:00</updated>
+  <updated>2024-09-15T10:35:44.119748+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -530,5 +530,15 @@
     <link href="https://www.youtube.com/watch?v=nGdV2n3hCAQ"/>
     <category term="最新情報"/>
     <published>2024-09-13T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1Ggc9D8Nc1UZvQaHAUTPkl</id>
+    <title>【呱呱】改版後的超巫能玩嗎？嘗試新的裝備搭配！</title>
+    <updated>2024-09-15T10:00:03.825000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1Ggc9D8Nc1UZvQaHAUTPkl"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4AF341Rg7MsYakskQYUFdt/e0691c2db01f5ab01f77713f6d6acb69/tw_20240915_frog_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=HtQbI7crbs8"/>
+    <category term="最新情報"/>
+    <published>2024-09-15T10:00:00+00:00</published>
   </entry>
 </feed>
