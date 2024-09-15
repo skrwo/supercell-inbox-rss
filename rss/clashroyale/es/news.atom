@@ -2,83 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-15T18:38:16.922187+00:00</updated>
+  <updated>2024-09-15T19:29:04.047381+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>tu0og4AGbhV2bBGq074TK</id>
-    <title>ACTUALIZACIÓN DEL 17 DE JUNIO</title>
-    <updated>2024-06-19T06:33:21.368000+00:00</updated>
-    <content>&lt;h1&gt;¡LLEGA UNA NUEVA ACTUALIZACIÓN!&lt;/h1&gt;
-&lt;p&gt;Nuevas cartas, arenas, cofres, una nueva líder ¡y mucho más!&lt;/p&gt;&lt;p&gt;A partir del 17 de junio, podrás sumergirte en el viaje de la reina duende con nuevas arenas, cartas, cofres y emocionantes recompensas.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/p9ldzfp3S2ZL20LxZQRDv/91a6d8c623ecf4f1e04f92988949e3c6/goblinqueenfinishing02_PNG.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;NUEVO MODO DE JUEGO&lt;/h1&gt;
-&lt;p&gt;El viaje de la reina duende es un modo de juego nuevo disponible a partir de la arena 12.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4xNv4uM0HWRdBGMXnSO8Wx/ab2ee457d4072f48585b89da14739c27/image.png?w=1179&amp;h=1766&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Puedes acceder al viaje de la reina duende a través del selector de modo de juego en el que se encuentran el camino de trofeos y el de leyendas.&lt;/p&gt;
-&lt;h1&gt;ARENAS DE LOS DUENDES&lt;/h1&gt;
-&lt;p&gt;El viaje empieza con cuatro arenas únicas de los duendes:&lt;/p&gt;
-&lt;h1&gt;MINAS DE ORO&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Q8P4tVrSbUwHlHCTjVNFp/04a00d665efe67a0b6047a125c69373b/Goblin_Miner_Diorama_v02.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;La arena inicial.
-El nivel máximo es el 9.&lt;/p&gt;
-&lt;h1&gt;FOSO FANGOSO&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7qF0Wlpn5d5CztVFsJRlgm/33f72824c3c32bba16e76c5967f5baa1/Goblin_Mudpit_Diorama_vfinale.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Se desbloquea con 1000 trofeos.
-El nivel máximo es el 11.
-Desbloquea 1 hueco más de evolución.&lt;/p&gt;
-&lt;h1&gt;PATIO DE CHATARRA&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3SGZYiDdNg6mBBGmhALQNN/0e3b24b057ccc96658bc3f7281ff606f/ScrappyardIcon.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Se desbloquea con 2000 trofeos.
-El nivel máximo es el 13.&lt;/p&gt;
-&lt;h1&gt;PALACIO ANCESTRAL&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7xemU6Qh2Bp0BgGp1bYfyY/abacbf8baaa972de593e4ad678ecc532/zigurate_top_DIORAMA_start.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Se desbloquea con 3000 trofeos.
-El nivel máximo es el 15.
-Desbloquea 1 hueco más de evolución.&lt;/p&gt;
-&lt;p&gt;Te espera una reacción exclusiva cuando alcances los 3400 trofeos.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/8cFl55WZLJ1ynY1kZ1gyK/6398b0f1d1a3c881a672fe89dd6a18ed/emotes_goblinqueen_laugh_dl.webp?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;HABILIDAD Y TORRE DE LA REINA DUENDE&lt;/h1&gt;
-&lt;p&gt;La torre de la reina duende incorpora una mecánica de juego única:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Puedes jugar cartas de duendes para cargar la habilidad de la reina duende, que requiere 20 de elixir.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Al cargarse, cuando se juega otra carta de duende para activar la habilidad, arroja bebés duende por los aires a ambos carriles.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ahora mismo, esta tropa de las torres solo se puede usar en el viaje de la reina, pero es posible que se añada a otros modos de juego en el futuro.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/314Cqj1tRoF0CrjWIvmhm9/7ba185c9856d3a4c8a28bcad16a82875/QueenGoblin_Pose02.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
-&lt;hr/&gt;
-&lt;h1&gt;NUEVAS CARTAS DE DUENDES&lt;/h1&gt;
-&lt;p&gt;Las tres cartas de duendes nuevas solo se pueden desbloquear en el modo de juego del viaje de la reina. Una vez desbloqueadas, &lt;b&gt;se pueden usar en los demás modos, tanto en el camino de trofeos como en el de leyendas&lt;/b&gt;.&lt;/p&gt;
-&lt;h1&gt;DEMOLEDOR DUENDE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2lBbl69EDrtDE9qYceVYIP/32d77cefbb0217b542c87b6337cb8d70/Goblin_Demolisher_card_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
-
-&lt;p&gt;El demoledor duende es una carta especial que inflige daño de área y explota al morir. Cuando le queda poca salud, arremete contra el edificio más cercano. Se puede desbloquear en la arena Minas de oro.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1aeSo4ByjOETi7bolwhw3g/d1fba38fe4f061d229d7d7a6b2eed41d/GoblinDynamite_Pose02_4K_FXtransp.png?w=4000&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
-&lt;hr/&gt;
-&lt;h1&gt;MALDICIÓN DUENDE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1aMDYvj4vHGM9ByF3TJn36/59778c88962723b70dc6dee885096462/Goblin_curse_spell_card_frame_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
-
-&lt;p&gt;La maldición duende es una carta épica que inflige daño de área. ¿Y qué ocurre con las tropas a las que destruye?
-Que se convierten en duendes.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;MÁQUINA DUENDE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3hkw6xWco67jf3f1gHZvJl/0f7bd497dfa9b3b1f1df5c08b63204e7/Goblin_Machine_card_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
-
-&lt;p&gt;La máquina duende tiene dos brazos para realizar ataques cuerpo a cuerpo y un enorme cohete para alcanzar a los objetivos más alejados. Esta carta legendaria se puede desbloquear en la arena Patio de chatarra.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41fHQvve3M15UFu5GN0YdZ/87391a6631a9d702a3ad61390ce878fa/GoblinMecha_Pose02_4k.png?w=3403&amp;h=2700&amp;f=center&amp;fit=fill"&gt;
-&lt;hr/&gt;
-&lt;h1&gt;COFRES DE DUENDES&lt;/h1&gt;
-&lt;p&gt;Hay tres nuevos cofres de duendes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Alijo duende&lt;/b&gt; (tiempo de desbloqueo de 3 h)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Baúl duende&lt;/b&gt; (tiempo de desbloqueo de 8 h)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Tesoro duende&lt;/b&gt; (tiempo de desbloqueo de 12 h)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Los cofres de duendes solo se pueden obtener en el modo de juego nuevo; aparecerá uno cada tres cofres.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4UQR4tLQMS4Qgrc8M60IAv/cb89ce4cda2d2db3d9d3bb6d39336d9a/Layer_2.png?w=2129&amp;h=565&amp;f=center&amp;fit=fill"&gt;
-&lt;hr/&gt;
-&lt;h1&gt;MEJORAS&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Las batallas de guerra de clanes ahora proporcionan cofres.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ahora existe la posibilidad de desbloquear una evolución completa con el cubo de la suerte, así como de conseguir otras recompensas. La tabla de recompensas legendarias ha cambiado:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Antes:&lt;/b&gt;* Libro legendario: 33,3 % (1/3)* 50 000 comodines de élite: 33,3 % (1/3)* Libro de libros: 33,3 % (1/3)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ahora&lt;/b&gt;:* Libro legendario: 33,3 % (1/3)* 50 000 comodines de élite: 33,3 % (1/3)* Libro de libros: 22,2 % (2/9)* Evolución completa: 11,1 % (1/9)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La colección de cartas ahora tiene nuevas opciones de filtro.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Al filtrar por evolución, ahora se ve el progreso de esta.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Y7CwJLB5YXbG61pDaKr39/fb38f75bfb1acea6f75dc1682a134a69/Screenshot_2024-06-11_163802.png?w=548&amp;h=594&amp;f=center&amp;fit=fill"&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Se ha añadido una opción para denunciar a jugadores con comportamientos inapropiados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha actualizado la interfaz para crear nuevos mazos y gestionar los existentes.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Cada modo ahora tiene su propio creador de mazos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Antes, el botón para copiar o compartir mazos estaba situado en la parte inferior derecha, pero se ha trasladado a la parte superior izquierda, donde también se pueden añadir nuevos mazos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A partir de esta actualización, al desbloquear el camino de leyendas, se copiará el mazo activo en el hueco 1 de tu creador de mazos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;En el caso de haber desbloqueado el camino de leyendas antes de la actualización, el creador de mazos copiará todos los mazos que no estén vacíos del creador de mazos del camino de trofeos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ya no se desbloquearán huecos para mazos al alcanzar cierto nivel del rey, sino que habrá un máximo de 10 huecos disponibles en todos los creadores de mazos una vez alcanzado el nivel del rey 2.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/onrTR7PqZ3BPBPLA8ZJIN/a17a9562e9936c87795cf56c4282a0a9/e195a4ad-c5fc-42a6-91e8-747d190ebd80.png?w=1486&amp;h=598&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;ERRORES ARREGLADOS&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Se ha arreglado un error que hacía que la torre Tesla no enviara un pulso al destruirse cuando no la destruía otra unidad.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha arreglado el funcionamiento de la torre Tesla cuando está congelada durante el despliegue.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido un error que hacía que no apareciera el icono que avisa de que una recompensa se puede reclamar en los eventos de la comunidad.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido un error por el que las mejoras de daño ignoraban la reducción de daño de las unidades con habilidades o escudos activos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La tarea diaria ahora registra correctamente más de una victoria cuando se ganan varios duelos en las guerras de clanes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;El botón de objeto mágico ya no se elimina de la pantalla de las estadísticas cuando una carta es de nivel 15.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;p&gt;Esperamos que disfrutes de la actualización. ¡Nos vemos en la arena!&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/tu0og4AGbhV2bBGq074TK"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53kUz12ARk2jyz6EDeyQhO/68df2a3b289088707565f1501f012e59/CR_S60_Article_Thumbnail-V1-02.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notas de actualización"/>
-    <published>2024-06-17T09:51:21+00:00</published>
-  </entry>
   <entry>
     <id>3yDGuC3evJTvLhkyaWgtmz</id>
     <title>MANTENIMIENTO: AJUSTES DE EQUILIBRIO Y RESOLUCIÓN DE ERRORES</title>
