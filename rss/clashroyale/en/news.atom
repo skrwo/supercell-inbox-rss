@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-16T06:42:11.037337+00:00</updated>
+  <updated>2024-09-16T07:30:58.529746+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -464,5 +464,15 @@ OJ&lt;/p&gt;
     <link href="https://youtu.be/y9yCNrBhtgk"/>
     <category term="News"/>
     <published>2024-09-14T14:10:02+00:00</published>
+  </entry>
+  <entry>
+    <id>1KPLDlOeGTRnDBJG0uZacK</id>
+    <title>🥊 The Heavyweight Fight Has Begun!  (UFC edition)</title>
+    <updated>2024-09-16T07:17:06.852000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/1KPLDlOeGTRnDBJG0uZacK"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vUnoe0Bcmp2wcLl68jPpQ/0a87edf4298f1a116771edea8c61cc50/Untitled-2.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/_vC4yIbvPRU?feature=share"/>
+    <category term="News"/>
+    <published>2024-09-16T07:17:06+00:00</published>
   </entry>
 </feed>

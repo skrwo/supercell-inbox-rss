@@ -2,19 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-communityEntries-fr</id>
   <title>Clashroyale - Community</title>
-  <updated>2024-09-16T06:42:00.189054+00:00</updated>
+  <updated>2024-09-16T07:30:46.843091+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Community</subtitle>
-  <entry>
-    <id>zOcVA0ZOtrXrp14qgLM5l</id>
-    <title>Livestream: WoToP</title>
-    <updated>2024-09-16T06:42:00.189086+00:00</updated>
-    <author>
-      <name>WoToP</name>
-    </author>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zQmCcxZg6NpMTgYuGbZXh/f1f8942bccd9c5b3d1849585bde12328/guest-content-livestream-61-7ee9d32c-ae45-41b9-88cf-d92a7c6774a7-gkxw.png-1726426171156?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.twitch.tv/wotop_"/>
-    <published>2024-09-15T18:49:37+00:00</published>
-  </entry>
 </feed>
