@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-16T03:41:03.487637+00:00</updated>
+  <updated>2024-09-16T04:38:15.278691+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -578,5 +578,37 @@
     <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
     <category term="更新說明"/>
     <published>2024-09-14T14:52:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3IZoFDqGpoTHGqKLrb0Aed</id>
+    <title>創作者帶你看9月預告（更新至#1）！</title>
+    <updated>2024-09-16T04:37:08.397000+00:00</updated>
+    <content>&lt;p&gt;突擊隊長們，大家好！&#13;
+&#13;
+看過最新一期的突擊搶先報了嗎？&#13;
+還沒的話記得到&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DWQXF1XqmwPc')"&gt;英文頻道打開繁體中文字幕觀看&lt;/a&gt;唷！&#13;
+若想知道更細節的內容，當然不能錯過創作者們錄製的測試服影片！
+請記得訂閱並多多支持他們唷！&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;更新預告1：全新角色（變形金剛活動）、星星寶箱、終極角色（綠野世界）、平衡性調整與遊戲優化&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540powertech4165%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;PowerTech淮特 &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=3DHwOU4kNc0"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540CodeHeyBrother%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;嘿！兄弟&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=lxj3z3XXN04"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;金雄&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=fLEybf4AjQc"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/3IZoFDqGpoTHGqKLrb0Aed"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/29hAwCVQqdW7PVlDI04FN4/1a170cbe5448dc11c4c76ac2a7106ede/tw_20240915_sneakpeeks_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-09-16T01:50:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7pL40SGbarUJJHsgMYFlIW</id>
+    <title>【烏龜】搶先掌握變形金鋼、星星寶箱等新內容！</title>
+    <updated>2024-09-16T03:52:55.732000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/7pL40SGbarUJJHsgMYFlIW"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/aMTYaNsLqrfhkfDC3dX5Z/00dcad8cb16cc7f9c0f37cb5c29a8d3b/tw_20240915_turtle_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=glsqmMuwyCY"/>
+    <category term="最新情報"/>
+    <published>2024-09-16T02:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-16T03:41:03.319568+00:00</updated>
+  <updated>2024-09-16T04:38:15.778894+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -593,5 +593,20 @@ Amazon、Amazon.co.jpおよびそれらのロゴはAmazon.com, Inc. またはそ
     <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
     <category term="アップデート"/>
     <published>2024-09-14T14:52:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6AyAIH03KEIK27CoV0ccrX</id>
+    <title>最新アップデート情報の紹介動画をチェック！</title>
+    <updated>2024-09-16T03:53:32.713000+00:00</updated>
+    <content>&lt;h1&gt;新キャラやトランスフォーマーコラボが確定し、新シーズンの情報を解説&lt;/h1&gt;
+&lt;a href="https://youtu.be/O0hgFX0ZD0U?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;世界1が今回のアプデを最速で徹底解説します‼️&lt;/h1&gt;
+&lt;a href="https://youtu.be/WlMDJyfdCZw?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;誰でもリーグに行けるようになります‼️バランス調整や新キャラの能力解説もしていきます!!&lt;/h1&gt;
+&lt;a href="https://youtu.be/gk6fnrnJKx0?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6AyAIH03KEIK27CoV0ccrX"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3eUX6Xz7gn5dxoMKxC0YP9/73f489119f78e4d3fd56b29c55fc8797/GXj9ZrGaQAASKtY.jpg.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="コミュニティ"/>
+    <published>2024-09-16T03:53:32+00:00</published>
   </entry>
 </feed>
