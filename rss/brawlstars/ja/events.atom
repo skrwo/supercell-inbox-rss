@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-eventEntries-ja</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-09-17T01:33:02.275500+00:00</updated>
+  <updated>2024-09-17T02:33:35.657281+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -15,15 +15,6 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZbwMgq0EbG5_8fbxR1Npo6rlJSWo_POGi4rsE279Xcs/17a77c1fec7390db104474aae7c6e702/YouTube______.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://bitly.com/31sgyrY"/>
     <published>2023-02-24T11:21:01+00:00</published>
-  </entry>
-  <entry>
-    <id>4J1OjyZ53m2q7AQLzniVtW</id>
-    <title>🗞️</title>
-    <updated>2024-08-23T04:22:26.221000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://twitter.com/brawlstarsjp"&gt;👉X(Twitter）👈&lt;/a&gt; -- &lt;a href="https://www.instagram.com/brawlstars_jp/"&gt;👉Instagram👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4yGvOa3Ybz9LOg7f7djBc4/c65adfbc71592aba1ad9f9f74b57d7bc/20240131_BST_inbox_thumbnail.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <published>2024-02-01T04:10:39+00:00</published>
   </entry>
   <entry>
     <id>2kHnQSqjuGk3bnciswwcOO</id>
@@ -53,5 +44,14 @@
 &lt;a href="https://youtu.be/obSutkLXF4E"&gt;👉スポンジ・ボブ！👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/ja/news/6QSXex4AdG3jEGdvYSWcFj"&gt;👉詳細はこちら！👈&lt;/a&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2oCXh2bbvVSRAyRru06Yz4/59e45916644854e5618988dee32214be/0904_Spongebob_carousel_800x1161_v2.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <published>2024-09-04T10:29:32+00:00</published>
+  </entry>
+  <entry>
+    <id>4J1OjyZ53m2q7AQLzniVtW</id>
+    <title>🗞️</title>
+    <updated>2024-09-17T02:31:27.224000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://twitter.com/brawlstarsjp"&gt;👉X(Twitter）👈&lt;/a&gt; -- &lt;a href="https://www.instagram.com/brawlstars_jp/"&gt;👉Instagram👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4yGvOa3Ybz9LOg7f7djBc4/c65adfbc71592aba1ad9f9f74b57d7bc/20240131_BST_inbox_thumbnail.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2024-02-01T04:10:39+00:00</published>
   </entry>
 </feed>
