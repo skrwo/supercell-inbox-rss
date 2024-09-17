@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-17T09:32:54.609754+00:00</updated>
+  <updated>2024-09-17T10:37:48.707100+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>3yDGuC3evJTvLhkyaWgtmz</id>
-    <title>WARTUNGSARBEITEN – FEHLERBEHEBUNGEN UND ANPASSUNGEN DER SPIELBALANCE</title>
-    <updated>2024-06-21T09:58:24.097000+00:00</updated>
-    <content>&lt;h1&gt;FEHLERBEHEBUNGEN&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kartenlevel in Klassikdeck-Testspielen wurden auf beabsichtigte Werte korrigiert.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Defekte Beschreibungen für legendäre Joker behoben.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ein Problem wurde behoben, das verhinderte, dass Freundschafts-Spiegelspiel-Kämpfe gestartet werden konnten.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Spieler bleiben nicht mehr im Ereignis-Tutorial stecken.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;ANPASSUNGEN DER SPIELBALANCE&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Koboldmaschine:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Raketenschaden:&lt;/b&gt; Von 588 auf 391 reduziert (-33 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Raketenschaden an Kronenturm:&lt;/b&gt; -50 %&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Raketen-Treffergeschwindigkeit:&lt;/b&gt; Von 3,5 Sekunden auf 4 Sekunden erhöht (+14 %)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Koboldfluch:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Schadensverstärkung:&lt;/b&gt; -30 %&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;p&gt;Diese Änderungen sind direkt nach den Wartungsarbeiten aktiv. Vielen Dank für deine Geduld. Bitte entschuldige jegliche Unannehmlichkeiten, die diese Probleme verursacht haben.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/3yDGuC3evJTvLhkyaWgtmz"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Versionshinweise"/>
-    <published>2024-06-19T08:19:30+00:00</published>
-  </entry>
   <entry>
     <id>69IYE87M0rmGTHJ5ATFC5y</id>
     <title>EREIGNISSE UND HERAUSFORDERUNGEN IM JULI</title>

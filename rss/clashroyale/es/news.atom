@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-17T09:32:59.097537+00:00</updated>
+  <updated>2024-09-17T10:37:54.387394+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>3yDGuC3evJTvLhkyaWgtmz</id>
-    <title>MANTENIMIENTO: AJUSTES DE EQUILIBRIO Y RESOLUCIÓN DE ERRORES</title>
-    <updated>2024-06-21T09:58:24.097000+00:00</updated>
-    <content>&lt;h1&gt;RESOLUCIÓN DE ERRORES&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Se ha corregido un error que se producía en las partidas amistosas de mazos clásicos por el cual las cartas no estaban al nivel correspondiente.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se han corregido las descripciones erróneas de los comodines legendarios.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido un error que impedía el comienzo de partidas amistosas de mazos duplicados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Se ha corregido un error que impedía completar el tutorial de eventos.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;AJUSTES DE EQUILIBRIO&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Máquina duende:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;El &lt;b&gt;daño del cohete&lt;/b&gt; se ha reducido en un 33 % (de 588 a 391).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;El &lt;b&gt;daño del cohete a las torres de coronas&lt;/b&gt; se ha reducido en un 50 %.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La &lt;b&gt;velocidad de ataque del cohete&lt;/b&gt; se ha incrementado en un 14 % (de 3,5 s a 4 s).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Maldición duende:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;La &lt;b&gt;amplificación de daño&lt;/b&gt; se ha reducido en un 30 %.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;p&gt;Estos cambios entrarán en vigor tras la pausa de mantenimiento. Gracias por tu paciencia y sentimos mucho las molestias que cualquiera de estos problemas te hayan podido ocasionar.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/3yDGuC3evJTvLhkyaWgtmz"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notas de actualización"/>
-    <published>2024-06-19T08:19:30+00:00</published>
-  </entry>
   <entry>
     <id>1zZYXVIHL2y18tsRsxJgqY</id>
     <title>🧌 Historia del demoledor duende 💥</title>

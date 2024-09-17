@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-17T09:33:03.728607+00:00</updated>
+  <updated>2024-09-17T10:37:47.441571+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>3yDGuC3evJTvLhkyaWgtmz</id>
-    <title>PEMELIHARAAN - PERBAIKAN BUG DAN PERUBAHAN KESEIMBANGAN</title>
-    <updated>2024-06-21T09:58:24.097000+00:00</updated>
-    <content>&lt;h1&gt;PERBAIKAN BUG&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Level Kartu di Dek Klasik Persahabatan dikoreksi untuk menyesuaikan level yang semestinya.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kesalahan pada teks deskripsi Kartu Joker Legendaris telah diperbaiki.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Masalah yang mencegah pertempuran Cermin Persahabatan dimulai telah diperbaiki.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Masalah di mana pemain terjebak di tutorial acara telah diperbaiki.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;PERUBAHAN KESEIMBANGAN&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mesin Goblin:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Kerusakan Roket:&lt;/b&gt;  Dikurangi dari 588 menjadi 391 (-33%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Kerusakan Benteng Mahkota dari Roket:&lt;/b&gt; -50%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Kecepatan Serangan Roket:&lt;/b&gt; Bertambah dari 3,5 detik menjadi 4 detik (+14%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Kutukan Goblin:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Penguat Kerusakan:&lt;/b&gt; -30%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;p&gt;Perubahan ini akan berlaku tepat setelah pemeliharaan. Terima kasih atas kesabaran kalian dan mohon maaf atas ketidaknyamanan yang mungkin ditimbulkan.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6KlKzrLNSgY8X5xNdyqqZy/6802e3ea67d6b7aa04fb895f9e4a975d/60_CrownFishing_FG.png?w=600&amp;h=297&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/id/news/3yDGuC3evJTvLhkyaWgtmz"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tG2sauDGHSN2bRgpAyuM6/e61fb6fd078d543db92d68ad00577f7a/Untitled-1.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Catatan Rilis"/>
-    <published>2024-06-19T08:19:30+00:00</published>
-  </entry>
   <entry>
     <id>69IYE87M0rmGTHJ5ATFC5y</id>
     <title>ACARA DAN TANTANGAN JULI</title>
