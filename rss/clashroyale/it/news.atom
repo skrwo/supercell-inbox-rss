@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-17T14:33:39.593603+00:00</updated>
+  <updated>2024-09-17T15:33:21.906994+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -367,5 +367,15 @@ OJ&lt;/p&gt;
     <link href="https://youtube.com/shorts/oLRv9_jSNOw"/>
     <category term="Notizie"/>
     <published>2024-09-13T15:10:02+00:00</published>
+  </entry>
+  <entry>
+    <id>2OvYw39ZhCTu5nshQ0XDd6</id>
+    <title>#UFC 🤝 #ClashRoyale</title>
+    <updated>2024-09-17T15:10:03.368000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/2OvYw39ZhCTu5nshQ0XDd6"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/8bMMUqxCgXYlob4maUYfr/7961e31c07d8222733b36c1073909635/vlcsnap-2024-09-17-15h22m12s000.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/SPAzVXY771k"/>
+    <category term="Momenti salienti"/>
+    <published>2024-09-17T15:10:03+00:00</published>
   </entry>
 </feed>
