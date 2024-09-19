@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-esportNewsEntries-ja</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-19T15:34:04.628698+00:00</updated>
+  <updated>2024-09-19T16:40:41.446002+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -315,8 +315,26 @@ $9,000を賭けて、様々なタウンホールレベルのベストプレイ�
   <entry>
     <id>5CxNrkRaStFrc20371f8as</id>
     <title>BLAST Clashに出場登録しましょう！</title>
-    <updated>2024-09-19T15:33:13.557000+00:00</updated>
-    <content>[EMPTY]</content>
+    <updated>2024-09-19T16:07:15.247000+00:00</updated>
+    <content>&lt;h1&gt;こんにちは、チーフ！&lt;/h1&gt;
+&lt;p&gt;タウンホール16のチームを対象にした新しい大会がもうすぐ開幕します！&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=1N0OEmXt6Rs"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;BLASTは、魅力あふれるイベントでeスポーツ界に革命をもたらし続ける世界的な企業です。これまでに、トップチームやスター選手が集う大会を数多く主催しており、近日開催のBLAST Bashでも皆さんに興奮を届けてくれることでしょう！イベントでは、クラッシュ・オブ・クラン、クラッシュ・ロワイヤル、ブロスタの世界トッププレイヤーたちが集結し、そのバトルを観戦できます。&lt;/p&gt;&lt;p&gt;&lt;b&gt;BLAST Clash 2024&lt;/b&gt;はクラッシュ・オブ・クランのオンライン大会です。出場チームは決勝戦への出場枠をかけて競い合います。&lt;/p&gt;
+&lt;h1&gt;大会形式&lt;/h1&gt;
+&lt;p&gt;世界中から集ったチームが4つの予選に分かれて戦い、予選を突破した12チームと招待された4チーム、計16チームがスイスドロー形式のステージに進出します。スイス形式トーナメントを勝ち抜いた上位8チームは、シングルエリミネーション形式の決勝戦に駒を進め、各マッチ約45分の5対5のクラン対戦で勝敗を決します。チームに与えられる攻撃回数それぞれ5回です。詳しくは、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdocs.google.com%252Fdocument%252Fd%252F1zcvEilugnuxiC5oRy4-DqA-ytJjAGJf0%252Fedit%2523heading%253Dh.gjdgxs')"&gt;こちら&lt;/a&gt;からBLAST Clashの公式ルールブックをご確認ください。&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6uuAKOIDTXGxmHQeoh7r7Z/a990a3a256fa3671717b475e0b8daac3/103c097b-8e1d-4066-5380-08dcc4877eb6_1280_720.jpeg?w=1280&amp;h=720&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;スケジュール&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;**オープン予選（4）：**9月14日、15日、21日、22日&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**クローズ予選：**9月28日&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**決勝戦：**10月12日～13日&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;招待チーム&lt;/h1&gt;
+&lt;p&gt;詳細は近日公開いたします！&lt;/p&gt;
+&lt;h1&gt;賞金&lt;/h1&gt;
+&lt;p&gt;BLAST Clash 2024では、総額&lt;b&gt;15,000ドル&lt;/b&gt;の賞金が用意されています。賞金の内訳は以下の通りです。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1位：7,500ドル&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2位：3,500ドル&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3位：2,500ドル&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4位：1,500ドル&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;視聴方法&lt;/h1&gt;
+&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.twitch.tv%252Fblastpremier')"&gt;Twitch&lt;/a&gt;と&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252Fblastpremier')"&gt;YouTube&lt;/a&gt;のBLAST公式チャンネルで全試合を視聴できます。&lt;/p&gt;
+&lt;h1&gt;参加方法&lt;/h1&gt;
+&lt;p&gt;条件を満たしているプレイヤーは、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.challengermode.com%252Fs%252FBLASTClash%252Ftournaments')"&gt;Challengermodeのウェブサイト&lt;/a&gt;から出場登録できます。&lt;/p&gt;
+&lt;h1&gt;一大決戦に臨む準備ができたら、&lt;/h1&gt;
+&lt;p&gt;さっそくBLAST Clash 2024に出場登録しましょう！最新情報は、BLASTの&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fx.com%252FBLASTtv')"&gt;X&lt;/a&gt;、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fblastpremier')"&gt;Instagram&lt;/a&gt;、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fblast.tv%252Fsupercell')"&gt;公式ウェブサイト&lt;/a&gt;でご確認ください。クラッシュ・オブ・クランのゲーム内「eスポーツ」タブ、eスポーツ専用&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc')"&gt;Instagram&lt;/a&gt;、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;X&lt;/a&gt;、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252F')"&gt;公式ウェブサイト&lt;/a&gt;でもニュースを配信してるので、お見逃しなく！&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5uuBiPPGYjS4Bw6ND8FEz6/c9b89a795e49ce5801b9f1aa1a8ab814/BLASH_CLASH_-_THUMBNAIL_-_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eスポーツ"/>
     <published>2024-09-09T14:38:50+00:00</published>
