@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>squadbusters-newsEntries-ru</id>
   <title>Squadbusters - News</title>
-  <updated>2024-09-19T08:39:03.313930+00:00</updated>
+  <updated>2024-09-19T09:33:35.726703+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -304,8 +304,9 @@
   <entry>
     <id>6dblB2tJwnLWix1x4hdkZl</id>
     <title>Обновление с трансформерами — информация!</title>
-    <updated>2024-09-19T06:11:20.881000+00:00</updated>
-    <content>&lt;h1&gt;ОТРЯД АВТОБОТОВ, ВПЕРЁД!&lt;/h1&gt;
+    <updated>2024-09-19T09:32:25.912000+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;ОБНОВЛЁННАЯ ИНФОРМАЦИЯ (последнее изменение 17.09)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Об энергии портала:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ограничение на количество энергии портала, которую вы можете зарабатывать в боях, теперь осталось только в лиге отрядов;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;сражаясь в лиге отрядов, вы можете получить не более 2000 единиц энергии портала в день, что соответствует 10 победам:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;кроме этого, вы можете заработать бонусные 1000 единиц энергии портала в день, а также получить некоторое количество в награду в книге достижений;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ВНИМАНИЕ! Существует ошибка, связанная с переходом в лигу отрядов: так как обновления ограничения не происходит, игроки могут заработать любое количество энергии портала до конца дня. Это будет исправлено в следующем обновлении.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;О скинах роботов:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;скины роботов для курицы, медика, варвара и королевы лучниц появятся в магазине 30 сентября:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;скины роботов для медика, варвара и королевы лучниц можно будет приобрести за стильные билеты позднее;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;скин робота для курицы — это сверхредкий скин, который будет время от времени возвращаться в магазин в виде внутриигровой акции.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;h1&gt;ОТРЯД АВТОБОТОВ, ВПЕРЁД!&lt;/h1&gt;
 &lt;p&gt;Мы открыли портал на Кибертрон! Встречайте первое совместное событие Squad Busters с другим брендом! Вас также ждут первые абсолютные эволюции и новый способ разблокировки — звёздные сундуки.&lt;/p&gt;&lt;p&gt;&lt;b&gt;SQUAD BUSTERS И TRANSFORMERS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Не упустите шанс навсегда разблокировать Оптимуса Прайма и Элиту-1&lt;/b&gt; во время совместного двухнедельного события Squad Busters и Transformers. Если вы уже достигли пустынного мира, собирайте в боях энергон, открывайте сундуки трансформеров и получайте крутых автоботов.&lt;/p&gt;&lt;p&gt;После окончания события Оптимус Прайм и Элита-1 будут иногда появляться в магазине, а также останутся в ротации персонажей.&lt;/p&gt;
 &lt;h1&gt;ОПТИМУС ПРАЙМ&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LOMe6seTV2QO9vpXDf4Wg/b92aedf211d46fa7fbbf3a997056d55b/-baby-shiny.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
@@ -327,6 +328,6 @@
     <link href="https://squadbusters.inbox.supercell.com/#/ru/news/6dblB2tJwnLWix1x4hdkZl"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Обновления"/>
-    <published>2024-09-16T09:00:00+00:00</published>
+    <published>2024-09-16T07:59:35+00:00</published>
   </entry>
 </feed>
