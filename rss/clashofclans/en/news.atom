@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2024-09-19T07:29:45.591783+00:00</updated>
+  <updated>2024-09-19T08:38:54.468458+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -232,5 +232,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/9arMp1KRgg0Gky1dNUELWz7M_90XEcZcx-Eov_-7dFg/b9fe59c6083bcf52e9ae6f9f6e6cfd28/giant_builder900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-09-13T18:14:34+00:00</published>
+  </entry>
+  <entry>
+    <id>53iW9CiupeQNrbHIclFLx1</id>
+    <title>Missed your free Chests? Claim it here!</title>
+    <updated>2024-09-19T08:37:35.628000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/en/news/53iW9CiupeQNrbHIclFLx1"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1pdRNCzXCPNSfkAasDsMTi/fc21b3483c3d08719f4b9517fa1c2244/treasure_event_popup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=53a84a01-ac52-4502-a7a0-0a0b70a7cd93"/>
+    <category term="News"/>
+    <published>2024-09-19T08:02:48+00:00</published>
   </entry>
 </feed>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 19 Sep 2024 07:29:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 08:38:54 +0000</lastBuildDate>
     <item>
       <title>6月部落競賽獎勵搶先看</title>
       <link>https://clashofclans.inbox.supercell.com/#/zh/news/3pdZiHWOybSwFuG8mYmi8h</link>
@@ -443,6 +443,14 @@
       <category>最新情報</category>
       <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4AF341Rg7MsYakskQYUFdt/e0691c2db01f5ab01f77713f6d6acb69/tw_20240915_frog_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Sun, 15 Sep 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>錯過彈窗的免費寶箱？請在這邊領取！</title>
+      <link>clashofclans-inbox://action=voucher&amp;code=53a84a01-ac52-4502-a7a0-0a0b70a7cd93</link>
+      <guid isPermaLink="false">53iW9CiupeQNrbHIclFLx1</guid>
+      <category>最新情報</category>
+      <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1pdRNCzXCPNSfkAasDsMTi/fc21b3483c3d08719f4b9517fa1c2244/treasure_event_popup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Thu, 19 Sep 2024 08:02:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
