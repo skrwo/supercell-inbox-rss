@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-20T14:34:03.604336+00:00</updated>
+  <updated>2024-09-20T15:33:29.289521+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -469,5 +469,15 @@ OJ&lt;/p&gt;
     <link href="https://youtu.be/SPAzVXY771k"/>
     <category term="Highlights"/>
     <published>2024-09-17T15:10:03+00:00</published>
+  </entry>
+  <entry>
+    <id>52K9QRrwjxn8pOqi9GGzwZ</id>
+    <title>Mega Knight Evolution Lore Drop 🥊</title>
+    <updated>2024-09-20T15:10:02.734000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/52K9QRrwjxn8pOqi9GGzwZ"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2a59yRoJlVIRxXvuKGSIWc/790362403fd549178fc78971e7259ec5/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/TfVrkZ0bcks?feature=share"/>
+    <category term="Fun"/>
+    <published>2024-09-20T15:10:02+00:00</published>
   </entry>
 </feed>
