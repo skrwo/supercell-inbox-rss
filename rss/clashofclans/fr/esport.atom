@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-20T17:32:07.642656+00:00</updated>
+  <updated>2024-09-20T18:39:31.215124+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
   <entry>
     <id>KgC6vPVk6vgVLqGN7mR8DZcJwGJUwR1YMzPQkzNRMd8</id>
     <title>Bienvenue dans Clash Esports !</title>
-    <updated>2024-09-13T18:08:13.800000+00:00</updated>
+    <updated>2024-09-20T18:33:13.586000+00:00</updated>
     <content>&lt;p&gt;Bonjour chef,&lt;/p&gt;&lt;p&gt;Bienvenue dans l&amp;#39;univers e-sport de Clash of Clans ! Dans cet article, nous avons réuni pour vous les informations importantes de la scène compétitive de Clash of Clans. Vous n&amp;#39;aurez qu&amp;#39;à venir pour tout savoir sur les futurs tournois et les événements en cours, et pour retrouver toutes les informations sur les tournois passés. &lt;/p&gt;&lt;p&gt;Cette page sera mise à jour régulièrement, alors repassez de temps en temps pour ne rien manquer !&lt;/p&gt;
 &lt;h1&gt;Tournois en cours&lt;/h1&gt;
 &lt;p&gt;Il va y avoir du sport ! Voici une liste des tournois Clash of Clans sponsorisés par Supercell en ce moment. Que ce soit pour regarder ou pour participer, lisez bien les informations qui suivent.&lt;/p&gt;
@@ -108,15 +108,6 @@ Nous suivrons l&amp;#39;équipe de France durant la compétition CWC Official. L
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5YjWJmaGgMXuPcBpO1vCpr/ef985caf8862334dbe66b1eb39b8a50b/VM_LEGACY_GOLDEN_TICKET.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sport"/>
     <published>2024-05-26T17:37:04+00:00</published>
-  </entry>
-  <entry>
-    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
-    <title>Re-Regardez le Jour 1 des Finales Mensuelles de Juin</title>
-    <updated>2024-06-24T17:26:47.640000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7cO21y8YX7tIgBGx9c0tI/7c86a51a78d66eb9828ad81a15688107/FR_COC---June-MF-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/KNGMKcPL7FI?si=h7m2Y1ANfWEX8KZU&amp;t=1212"/>
-    <category term="E-sport"/>
-    <published>2024-06-22T17:46:59+00:00</published>
   </entry>
   <entry>
     <id>4JEcUfbMwFMpDcwLwnMc8n</id>
@@ -391,7 +382,7 @@ Espagnol: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F
   <entry>
     <id>5D0HVB4uABZdSetKfnqyoq</id>
     <title>Inscrivez-vous à la saison 6 des SPS !</title>
-    <updated>2024-09-16T08:01:26.052000+00:00</updated>
+    <updated>2024-09-20T18:28:55.191000+00:00</updated>
     <content>&lt;h1&gt;Inscrivez-vous aux SPS saison 6 !&lt;/h1&gt;
 &lt;p&gt;Bonjour, chefs !&lt;/p&gt;&lt;p&gt;Les Snapdragon Pro Series sont de retour pour la saison 6 !&lt;/p&gt;&lt;p&gt;Mettez vos compétences à l&amp;#39;épreuve face aux joueurs du monde entier, et remportez une partie de la cagnotte de 50 000 $ ! Ne manquez pas cette chance ! Inscrivez-vous dès maintenant sur FACEIT en cliquant &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesl.gg%252FSPSClash')"&gt;ici&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Cette saison des SPS est divisée en 4 coupes, chacune disputée sur deux jours : le premier jour, il s&amp;#39;agit d&amp;#39;un bracket à élimination directe en 1 manche gagnante, à l&amp;#39;issue duquel 8 équipes sont qualifiées pour le deuxième jour.&lt;/p&gt;&lt;p&gt;Quatre gagnants (un par coupe) seront qualifiés pour la finale de l&amp;#39;open. Le seeding des quatre dernières places de la finale se fera en fonction du classement général.&lt;/p&gt;&lt;p&gt;Pour la grande finale de l&amp;#39;open Snapdragon Mobile, les participants joueront dans un bracket à double élimination avec un reset. Une compétition sur deux jours déterminera le gagnant, qui remportera la plus grosse partie de la cagnotte de 50 000 $ !&lt;/p&gt;

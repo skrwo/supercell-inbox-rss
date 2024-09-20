@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-20T17:32:08.277274+00:00</updated>
+  <updated>2024-09-20T18:39:31.006526+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
   <entry>
     <id>KgC6vPVk6vgVLqGN7mR8DZcJwGJUwR1YMzPQkzNRMd8</id>
     <title>클래시 e스포츠에 오신 것을 환영합니다!</title>
-    <updated>2024-09-13T18:08:13.800000+00:00</updated>
+    <updated>2024-09-20T18:33:13.586000+00:00</updated>
     <content>&lt;p&gt;안녕하세요, 대장!&lt;/p&gt;&lt;p&gt;클래시 오브 클랜 e스포츠의 세계에 오신 걸 환영합니다! 여러분을 위해 클래시 오브 클랜 e스포츠와 관련된 정보를 한 데 모아 정리했습니다. 어떤 토너먼트가 다가오고 있는지, 현재 진행 중인 토너먼트가 무엇인지, 또는 지나간 토너먼트 정보를 확인하고 싶으시다면 이 게시글을 확인하세요.&lt;/p&gt;&lt;p&gt;새로운 정보가 자주 업데이트될 예정이니 다시 들르셔서 최신 소식을 놓치지 않도록 하세요!&lt;/p&gt;
 &lt;h1&gt;진행 중인 토너먼트&lt;/h1&gt;
 &lt;p&gt;지금 참여하세요! 다음은 슈퍼셀에서 지원하는, 현재 진행 중인 모든 클래시 오브 클랜 토너먼트의 목록입니다. 토너먼트에 직접 참여하기 원하시거나 시청을 원하시면 아래의 세부사항을 꼭 읽어보세요.&lt;/p&gt;
@@ -111,15 +111,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1VunceO9KaZtmsUjP7vQcx/d86231a76fd10ccbc75482787ce060a0/0527_COC_may-MF_champion_KR__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="e스포츠"/>
     <published>2024-05-26T17:37:04+00:00</published>
-  </entry>
-  <entry>
-    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
-    <title>6월 월별 파이널 1일차 다시보기!</title>
-    <updated>2024-06-24T17:26:47.640000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1TRjj6AYN974nAKNva59ll/6d05c9b53e5cfc2fc8ac6e312c896d58/COC---June-MF-Thumb-16x9_KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/6jevzB8sBYo?si=6J480F8y9bGZ-MeD"/>
-    <category term="e스포츠"/>
-    <published>2024-06-22T17:46:59+00:00</published>
   </entry>
   <entry>
     <id>7lKVzqGf7FgTXcsbw2sjCv</id>
@@ -398,7 +389,7 @@
   <entry>
     <id>5D0HVB4uABZdSetKfnqyoq</id>
     <title>SPS 시즌 6에 참가 신청하세요!</title>
-    <updated>2024-09-16T08:01:26.052000+00:00</updated>
+    <updated>2024-09-20T18:28:55.191000+00:00</updated>
     <content>&lt;h1&gt;SPS 시즌 6에 참가 신청하세요!&lt;/h1&gt;
 &lt;p&gt;안녕하세요, 대장!&lt;/p&gt;&lt;p&gt;Snapdragon Pro Series가 시즌 6으로 돌아왔습니다!&lt;/p&gt;&lt;p&gt;전 세계 플레이어들과 실력을 겨루고 총상금 $50,000를 차지할 절호의 기회를 놓치지 마세요!&lt;/p&gt;&lt;p&gt;지금 바로 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesl.gg%252FSPSClash')"&gt;&lt;u&gt;이곳에서&lt;/u&gt;&lt;/a&gt; FACEIT 계정을 통해 참가 신청하실 수 있습니다! &lt;/p&gt;
 &lt;p&gt;이번 시즌은 총 4회의 토너먼트로 구성되어 있으며, 각각 2일 동안 진행됩니다. 첫째 날에는 싱글 엘리미네이션 방식으로 상위 8개 팀이 가려지며, 상위 8개 팀은 둘째 날 경기로 진출하게 됩니다.&lt;/p&gt;&lt;p&gt;각 토너먼트의 우승 팀(토너먼트당 1개 팀)은 오픈 결승전에 진출하며, 나머지 4팀은 전체 순위표에 따라 선발됩니다. &lt;/p&gt;&lt;p&gt;둘째 날에는 더블 엘리미네이션 및 브라켓 리셋 방식으로 진행되는 Snapdragon Mobile 오픈 결승전이 진행되며, 2일 간의 치열한 경쟁 끝에 $50,000 상금의 대부분을 차지할 우승팀이 결정됩니다! &lt;/p&gt;

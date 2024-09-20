@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-esportNewsEntries-zh</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-20T17:32:10.226965+00:00</updated>
+  <updated>2024-09-20T18:39:30.398847+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -106,15 +106,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5dwu8sUZGya6vRtZBdknYQ/1920b923c7e2a752f018be31ce2a8bc1/tw_20230527_COC---May-MF-Champion.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="賽事"/>
     <published>2024-05-26T17:37:04+00:00</published>
-  </entry>
-  <entry>
-    <id>30DPGG7ZYcHU1LRd3Zq4qI</id>
-    <title>重溫6月月度決賽第1天精彩!</title>
-    <updated>2024-06-24T17:26:47.640000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1zONDeJmcQR7Vtswre9ZYk/073f1c9b245933e64ea269acd9d81254/tw_20240622_turtle_live_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/zD8om-DKt3Q?t=1144"/>
-    <category term="賽事"/>
-    <published>2024-06-22T17:46:59+00:00</published>
   </entry>
   <entry>
     <id>7lKVzqGf7FgTXcsbw2sjCv</id>
@@ -406,7 +397,7 @@ Tribe Gaming&lt;/a&gt;勇奪最終席位資格賽黃金門票，並成為第6支
   <entry>
     <id>5D0HVB4uABZdSetKfnqyoq</id>
     <title>報名參加SPS第6賽季！</title>
-    <updated>2024-09-16T08:01:26.052000+00:00</updated>
+    <updated>2024-09-20T18:28:55.191000+00:00</updated>
     <content>&lt;h1&gt;報名參加SPS第6賽季！&lt;/h1&gt;
 &lt;p&gt;首領們，大家好！&lt;/p&gt;&lt;p&gt;Snapdragon Pro Series第6賽季強勢回歸！&lt;/p&gt;&lt;p&gt;與全球玩家同台競技，並從50,000美元的獎金池中贏取你的份額。千萬別錯過，點擊&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesl.gg%252FSPSClash')"&gt;這裡&lt;/a&gt;，即可立即在FACEIT上報名！&lt;/p&gt;
 &lt;p&gt;SPS本賽季由4場盃賽組成，每場盃賽為期2天，比賽日第1天為單敗淘汰賽，前8名的隊伍晉級比賽日第2天的賽事。&lt;/p&gt;&lt;p&gt;4支盃賽獲勝隊伍（每場盃賽1支）將晉級公開賽決賽。公開賽決賽的剩餘4個席位將由總排行榜決定。&lt;/p&gt;&lt;p&gt;接著是Snapdragon Mobile公開賽決賽，將採用有總決賽加賽機制的雙敗淘汰賽。 為期2天的比賽將決定最後的贏家，他們將獲得50,000美元獎金池的最大份額！&lt;/p&gt;
