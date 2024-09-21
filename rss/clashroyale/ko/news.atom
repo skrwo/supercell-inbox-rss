@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-21T08:35:07.241869+00:00</updated>
+  <updated>2024-09-21T09:30:22.422922+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -386,16 +386,6 @@ OJ&lt;/p&gt;
     <published>2024-09-12T15:30:02+00:00</published>
   </entry>
   <entry>
-    <id>6PqKRihcS8VnHwN3iogipe</id>
-    <title>크리에이터vs크리에이터가 격돌한다!🎁</title>
-    <updated>2024-09-13T11:00:18.573000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/6PqKRihcS8VnHwN3iogipe"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/NBMwFOaqgjEc1WhoKrZr0/003b503ea326fec75e51f2ea8c9289e4/0921_CR______-____Inbox_960x540_.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/clashroyale/1508902"/>
-    <category term="커뮤니티"/>
-    <published>2024-09-13T11:00:18+00:00</published>
-  </entry>
-  <entry>
     <id>5PZFPp9dFqz7s4vLHjn11Q</id>
     <title>#페카팀 🆚 #메나팀 ?</title>
     <updated>2024-09-16T11:03:12.044000+00:00</updated>
@@ -434,5 +424,15 @@ OJ&lt;/p&gt;
     <link href="https://youtube.com/shorts/Rvy2Be29eWU?si=8kaJpKNRcZRrLWll"/>
     <category term="하이라이트"/>
     <published>2024-09-17T15:10:03+00:00</published>
+  </entry>
+  <entry>
+    <id>6PqKRihcS8VnHwN3iogipe</id>
+    <title>크리에이터vs크리에이터가 격돌한다!🎁</title>
+    <updated>2024-09-21T08:47:17.953000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/6PqKRihcS8VnHwN3iogipe"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/NBMwFOaqgjEc1WhoKrZr0/003b503ea326fec75e51f2ea8c9289e4/0921_CR______-____Inbox_960x540_.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://m.cafe.naver.com/clashroyale/1508902"/>
+    <category term="커뮤니티"/>
+    <published>2024-09-20T15:00:00+00:00</published>
   </entry>
 </feed>
