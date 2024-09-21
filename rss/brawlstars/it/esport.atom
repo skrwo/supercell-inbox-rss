@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-09-21T07:28:53.955979+00:00</updated>
+  <updated>2024-09-21T08:35:00.531776+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>6vJMzZrkQld55QQXiVY0WN</id>
-    <title>Rivedi la Finale mensile di giugno!</title>
-    <updated>2024-08-12T10:08:27.520000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2N3GqLKwem5ccHUFKYskBr/22b28a23da17b90e2aee18324ae61953/it_BSC-MF-Winners-HMBLE.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.twitch.tv/videos/2178609407?filter=archives&amp;sort=time"/>
-    <category term="Esports"/>
-    <published>2024-06-22T22:00:00+00:00</published>
-  </entry>
   <entry>
     <id>1sAV79A7Gq6G46QGDL3Jhk</id>
     <title>Rivedi la Finale mensile di luglio!</title>
