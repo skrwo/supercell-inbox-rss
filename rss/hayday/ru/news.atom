@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-09-22T07:29:42.944258+00:00</updated>
+  <updated>2024-09-22T08:35:34.248790+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -203,5 +203,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="События"/>
     <published>2024-09-15T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5mB2scWB7UvrgoYbJFxUrk</id>
+    <title>События 39-й недели в Hay Day</title>
+    <updated>2024-09-22T08:01:49.264000+00:00</updated>
+    <content>&lt;h1&gt;События 39-й недели в Hay Day&lt;/h1&gt;
+&lt;p&gt;Привет, фермеры! Наступила новая неделя событий! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: куски головоломки на колесе фортуны.&lt;/p&gt;&lt;p&gt;Вторник: материалы для расширения за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Среда: дополнительные ваучеры за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Четверг: событие с посетителями фермы и распродажей на дому.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 20 % и глобальное событие с загрузкой парохода.&lt;/p&gt;&lt;p&gt;Суббота: вдвое больше монет за обслуживание гостей города и глобальное событие с загрузкой парохода.&lt;/p&gt;&lt;p&gt;Воскресенье: три случайных вида деревьев/кустов будут давать урожай вдвое быстрее, плюс глобальное событие с загрузкой парохода.&lt;/p&gt;&lt;p&gt;Желаем отличной недели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/5mB2scWB7UvrgoYbJFxUrk"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="События"/>
+    <published>2024-09-22T08:00:03+00:00</published>
   </entry>
 </feed>

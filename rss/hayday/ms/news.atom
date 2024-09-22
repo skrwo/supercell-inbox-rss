@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-09-22T07:29:38.553749+00:00</updated>
+  <updated>2024-09-22T08:35:33.393727+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -198,5 +198,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Acara"/>
     <published>2024-09-15T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5mB2scWB7UvrgoYbJFxUrk</id>
+    <title>Hay Day Minggu 39</title>
+    <updated>2024-09-22T08:01:49.264000+00:00</updated>
+    <content>&lt;h1&gt;Acara Hay Day Minggu 39&lt;/h1&gt;
+&lt;p&gt;Helo, peladang! Bersedia untuk satu lagi minggu yang penuh dengan acara! Semua acara bermula pada 8:00 UTC (16:00 MYT). Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;Isnin: Putaran Nasib (Kepingan susun suai gambar)&lt;/p&gt;&lt;p&gt;Selasa: Acara Trak (Bahan peluasan tanah)&lt;/p&gt;&lt;p&gt;Rabu: Acara Bot (Baucar)&lt;/p&gt;&lt;p&gt;Khamis: Pelawat Ladang (Jualan Halaman)&lt;/p&gt;&lt;p&gt;Jumaat: Acara Galakan Pengeluaran Memancing (Semua 20% galakan) + Acara Bot Global&lt;/p&gt;&lt;p&gt;Sabtu: Acara Pelawat Bandar (2x syiling) + Acara Bot Global&lt;/p&gt;&lt;p&gt;Ahad: Mempercepat Pertumbuhan Pokok dan Rimbunan (3 jenis rimbunan atau pokok rawak membuahkan hasil 2x lebih cepat) + Acara Bot Global&lt;/p&gt;&lt;p&gt;Semoga minggu anda ceria!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/5mB2scWB7UvrgoYbJFxUrk"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Acara"/>
+    <published>2024-09-22T08:00:03+00:00</published>
   </entry>
 </feed>
