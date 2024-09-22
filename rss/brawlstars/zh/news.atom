@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-09-22T09:29:57.673982+00:00</updated>
+  <updated>2024-09-22T10:35:15.992155+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>jLQrAeBVamtK4F9umaHHB</id>
-    <title>【盛主播】誰的極限威能更強？還有平衡性調整與新造型介紹！</title>
-    <updated>2024-06-24T13:34:58.138000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/jLQrAeBVamtK4F9umaHHB"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4OUhZtIG6u5tFI3pK1ege0/e39c1ea13d481b1d5b0450f7bef6706b/tw_20240624_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=Brc8RUrDoI4"/>
-    <category term="最新情報"/>
-    <published>2024-06-24T10:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>7Lnz44X5jOWQje7KsX47af</id>
-    <title>【嘿! 兄弟】搶先了解平衡性調整、極限威能、造型等內容！</title>
-    <updated>2024-06-24T13:35:57.990000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/7Lnz44X5jOWQje7KsX47af"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4KFxOBPqavymKNoalrITi4/ec192b58d243f754ff607cb2a02eea6f/tw_20240624_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=bmMoSq1JPNU"/>
-    <category term="最新情報"/>
-    <published>2024-06-24T10:01:00+00:00</published>
-  </entry>
   <entry>
     <id>724mxVVIBWEBTxmIIDVsKO</id>
     <title>更新詳情：經典亂鬥更新</title>

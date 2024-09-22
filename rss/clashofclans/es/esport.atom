@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-09-22T09:30:00.984354+00:00</updated>
+  <updated>2024-09-22T10:35:39.632489+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -96,15 +96,6 @@ Criterios de Participación: Todos los jugadores debían tener al menos 16 años
     <published>2024-05-26T17:37:04+00:00</published>
   </entry>
   <entry>
-    <id>7lKVzqGf7FgTXcsbw2sjCv</id>
-    <title>Mira de nuevo las Finales Mensuales de Junio - Día 2</title>
-    <updated>2024-06-26T04:56:13.882000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3Dgia6ip5XUspOpj6OQOd2/244b80caa7ce6aee6732e7c1429c1eb2/COC_-_June_MF_Thumb_16x9_d2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/EtJPcYRRj6M?si=lnP0O9p9KN7jZfal&amp;t=1050"/>
-    <category term="eSports"/>
-    <published>2024-06-23T17:50:15+00:00</published>
-  </entry>
-  <entry>
     <id>4JEcUfbMwFMpDcwLwnMc8n</id>
     <title>¡Enhorabuena, Millesime MG!</title>
     <updated>2024-06-25T12:58:58.540000+00:00</updated>
@@ -125,23 +116,6 @@ Criterios de Participación: Todos los jugadores debían tener al menos 16 años
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7DBrB73c0p6JWig4540RKz/0197d94a311b95de0b9847d395e7627e/COC_-_June_MF_Winner_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eSports"/>
     <published>2024-06-23T17:52:27+00:00</published>
-  </entry>
-  <entry>
-    <id>5CZM228hzcPP1TxqtPkemS</id>
-    <title>¡La Snapdragon Pro Series ha vuelto!</title>
-    <updated>2024-06-24T15:45:32.146000+00:00</updated>
-    <content>&lt;h1&gt;¡La Snapdragon Pro Series ha vuelto!&lt;/h1&gt;
-&lt;p&gt;Buenas:&lt;/p&gt;&lt;p&gt;Llega una nueva temporada de la Snapdragon Pro Series y esta vez la competición será aún más especial: ¡ahora podrás poner a prueba tus habilidades contra jugadores de todo el mundo!&lt;/p&gt;&lt;p&gt;Con un tique de plata para la clasificatoria de última oportunidad del campeonato mundial de Clash of Clans y una bolsa de premios de 50 000 dólares estadounidenses en juego, ¡no te la querrás perder! ¡Inscríbete ahora en FACEIT &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesl.gg%252FSPSClash')"&gt;aquí&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;La fase de la Snapdragon Mobile Open consiste en cuatro copas que se juegan durante dos días cada una en un bracket de eliminación simple con partidos al mejor de uno. En el primer día se decide qué ocho equipos avanzan al segundo día.&lt;/p&gt;&lt;p&gt;Los cuatro ganadores de las copas se clasificarán para las Split Finals. Los cuatro huecos restantes en las finales se decidirán siguiendo la clasificación general.&lt;/p&gt;&lt;p&gt;Después se celebrará la Snapdragon Mobile Open Finals, un torneo de doble eliminación de dos días en el que se decidirá quién es el ganador. El vencedor se llevará el tique de plata para la clasificatoria de última oportunidad y la mayor parte de la bolsa de premios de 50 000 dólares estadounidenses.&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7H59QBjWdzwYKUE12rLp2g/559914129b9ab61d2a84dc0d1f3eeb06/ES_SPS_Se5_Game_Format_CoC.png?w=1080&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Apunta las fechas en el calendario y no te pierdas ni un minuto de la competición.&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/IkCfU8vDVIB87SjmMokpL/006568e2c1c3431f95b5902f697365e9/ES_SPS_Se5_Livestream_Schedule.png?w=1080&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Ahora que ya conoces los conceptos básicos, echa un vistazo al tutorial que aparece a continuación y sigue las instrucciones para inscribirte.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Crea una &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.faceit.com%252Fen%252Fhome')"&gt;cuenta de FACEIT&lt;/a&gt; (todos los jugadores del equipo deben registrarse en FACEIT).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Conecta tu Supercell ID con FACEIT.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Elige el torneo en el que quieres participar y envía tu solicitud.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;En la caja de texto de la solicitud, escribe algo de este estilo: «Me gustaría participar, me llamo [INSERT PLAYERNAME] y formo parte del equipo [INSERT TEAM NAME]».&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Cuando la solicitud se apruebe, verás que has recibido una invitación y tendrás que hacer clic en un botón naranja para unirte al torneo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Para crear tu equipo, sigue las instrucciones de la ventana de la izquierda para invitar a tus compañeros a unirse a tu equipo.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Si necesitas ayuda para inscribirte, &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdiscord.gg%252Fsnapdragonproseries')"&gt;únete al servidor discord de SPS&lt;/a&gt; y envía un mensaje en #coc-support&amp;quot;.&lt;/p&gt;
-&lt;a href="https://youtu.be/6_LFkzSyYP0"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
-&lt;p&gt;¡Eso es todo por ahora! Para no perderte nada relacionado con #ClashEsports, sigue a &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Ftwitter.com%252FCoCEsports')"&gt;Clash of Clans Esports en X&lt;/a&gt; e &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fesportscoc%252F')"&gt;Instagram&lt;/a&gt; y visita la &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesports.clashofclans.com%252Fes')"&gt;página web del campeonato mundial&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;¡A dar guerra!&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7miVAZhQgWIVhCbghFdorN/740e16eebd9765ca8177720b0b0d74ca/ES_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="eSports"/>
-    <published>2024-06-23T23:00:00+00:00</published>
   </entry>
   <entry>
     <id>1ZHrELrRcncwXOGW3vibbU</id>
