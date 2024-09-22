@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-09-22T02:01:45.969647+00:00</updated>
+  <updated>2024-09-22T03:02:46.696153+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5VQFj6bnBTeoUmdXc0KWzd</id>
-    <title>Hay Dayn tapahtumat viikolla 25</title>
-    <updated>2024-06-17T09:43:44.234000+00:00</updated>
-    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 25&lt;/h1&gt;
-&lt;p&gt;Hei farmarit! Uusi tapahtumarikas viikko alkaa. Oletteko valmiina juhlimaan Hay Dayn synttäreitä? Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: kuponkeja onnenpyörästä&lt;/p&gt;&lt;p&gt;Tiistai: tuplasti kokemusta tavararekkatilauksista&lt;/p&gt;&lt;p&gt;Keskiviikko: tuplasti kolikoita tavararekkatilauksista&lt;/p&gt;&lt;p&gt;Torstai: myyjäiset farmivierailijoille&lt;/p&gt;&lt;p&gt;Perjantai: kalastusalueella sorsasalongin ja verkontekijän 30 %:n tehostus + Farmipassi-pisteet kolminkertaisina&lt;/p&gt;&lt;p&gt;Lauantai: tuplasti kokemuspisteitä kylävierailijoista + tuplasti kolikoita tavararekkatilauksista&lt;/p&gt;&lt;p&gt;Sunnuntai: eläinten ruokintatehostus (3 satunnaista rehua valmistuu tuplanopeudella)&lt;/p&gt;&lt;p&gt;Viljavaa viikkoa!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/5VQFj6bnBTeoUmdXc0KWzd"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Uutiset"/>
-    <published>2024-06-17T09:41:59+00:00</published>
-  </entry>
-  <entry>
-    <id>6bEiMooISVIs6VjlVfExqV</id>
-    <title>Hay Dayn tapahtumat viikolla 26</title>
-    <updated>2024-06-23T16:32:43.154000+00:00</updated>
-    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 26&lt;/h1&gt;
-&lt;p&gt;Hei farmarit! Toivottavasti olette viihtyneet synttärijuhlissamme! Luvassa on taas uusi viikko täynnä tapahtumia. Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: laajennusesineitä onnenpyörästä&lt;/p&gt;&lt;p&gt;Tiistai: kuponkeja lisäpalkintoina tavararekkatilauksista&lt;/p&gt;&lt;p&gt;Keskiviikko: tuplasti kolikoita kylävierailijoista&lt;/p&gt;&lt;p&gt;Torstai: tuplasti kolikoita farmivierailijoista&lt;/p&gt;&lt;p&gt;Perjantai: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;Lauantai: laajennusesineitä kylävierailijoilta&lt;/p&gt;&lt;p&gt;Sunnuntai: tuplasti kokemusta tavararekkatilauksista + kolme sattumanvaraista puu- tai pensaslajia tuottaa satoa tuplanopeudella&lt;/p&gt;&lt;p&gt;Viljavaa viikkoa!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/6bEiMooISVIs6VjlVfExqV"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Uutiset"/>
-    <published>2024-06-23T16:31:23+00:00</published>
-  </entry>
   <entry>
     <id>5cGBhqi18bgMvfYuo5kXso</id>
     <title>Hay Dayn kokkikisa</title>
