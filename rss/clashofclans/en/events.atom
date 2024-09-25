@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-eventEntries-en</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-09-25T13:38:58.135736+00:00</updated>
+  <updated>2024-09-25T14:37:26.888576+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1zySBbxE1VPUdMmVTIJ0dH/f16c4d4709fbfbd23089c9ba5daa0046/Carousel_-_Legendary_BTS.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=X2GhpQ-3JBA"/>
     <published>2024-09-10T08:04:34+00:00</published>
+  </entry>
+  <entry>
+    <id>6drXJSNx2QeFL8hyUX2I3k</id>
+    <title>Emotes, New Events and more!</title>
+    <updated>2024-09-25T14:24:24.798000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/h4tLJfOL6FA"&gt;👉Watch now!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/NegCkrLTOBKpiJ8LyAM3m/348ab5478cde6f3eaa43dcc41eec1bd5/builder-carousel.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/h4tLJfOL6FA"/>
+    <published>2024-09-25T14:05:03+00:00</published>
   </entry>
 </feed>
