@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-09-26T10:38:13.277485+00:00</updated>
+  <updated>2024-09-26T11:29:16.432858+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
-  <entry>
-    <id>4L1rMvONilFGdK1kSV3kPj</id>
-    <title>Summer Skies - hotfix</title>
-    <updated>2024-06-28T21:32:29.664000+00:00</updated>
-    <content>&lt;h1&gt;Hotfix list and Matchmaking changes&lt;/h1&gt;
-&lt;p&gt;Hello, Commander!
-On June 28th, we released fixes for the following issues:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Troops retargeting while following a flare has been fixed;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wrong text in Path of Glory Hammerman Strikes Back card has been changed;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Critter GBA again spawns the correct amount of critters;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;If a player does not have a country code, they will not appear in Monument leaderboard; this will only happen to really old players and they can contact support to add country code to their account;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;New matchmaking has been fixed;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Win with Unique Troops mission has been fixed.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;
-New matchmaking system:
-&lt;/b&gt;
-Matchmaking is now based on player level, adjusted by VP.
-
-In the basic case, the player is matched against a same level opponent. There can be a difference of a few levels in either direction.
-
-If a player not at max level starts pulling ahead in VP, the game tries to offer harder opponents. The player&amp;#39;s VP is divided by ten and compared to their level. The higher number is then used for matchmaking. For example, if a player at level 40 has 600 VP, they will be matched as if they were at level 60.
-
-At max level and high VP, there is a further check that prevents high-VP players from getting matches with much lower VP (several hundred points) players. This is to preserve competition at high VP. Preference is still given for opponents with equal VP, this check is meant to catch any odd situations.&lt;/p&gt;</content>
-    <link href="https://boombeach.inbox.supercell.com/#/en/news/4L1rMvONilFGdK1kSV3kPj"/>
-    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/2Mrzr9aQJUSJJKPyeqKX5B/f6af16e5dec9a5657b3314884ffca01c/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
-    <category term="Blog"/>
-    <published>2024-06-27T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>1Ib7KpTvfFXCIuH4fdlg77</id>
     <title>July Events</title>
