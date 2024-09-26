@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-09-26T08:39:40.204615+00:00</updated>
+  <updated>2024-09-26T09:34:35.979421+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -283,5 +283,25 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6o285kAFK5Xr1P94s9zzTL/e898211b0952beb9eaed9f785d1dd4d6/tw_20240913_Twitch_events_800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-09-13T09:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6LaGKRSJPNpRE6EP22AnBZ</id>
+    <title>【嘿!兄弟】🐟新角賢治有點強？詳細解析普攻大招！</title>
+    <updated>2024-09-26T09:30:03.663000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6LaGKRSJPNpRE6EP22AnBZ"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4zV5LqFkFs7KyP0MFwJuvT/f73abcf7f0c843cc832bcba121cd7784/tw_20240926_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=kD7HdfzaAzE"/>
+    <category term="最新情報"/>
+    <published>2024-09-26T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7xXR6GSNB56jtCUgKP5O08</id>
+    <title>【盛主播】賢治操作上限極高！🍣瘋狂觸發回血效果！</title>
+    <updated>2024-09-26T09:30:03.712000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/7xXR6GSNB56jtCUgKP5O08"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5KEKoNuwRoL0URw9SY9ny9/21b65f33f5a64ef795ca7996b9414e6b/tw_20240926_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=_FK0gFBm66M"/>
+    <category term="最新情報"/>
+    <published>2024-09-26T09:01:00+00:00</published>
   </entry>
 </feed>
