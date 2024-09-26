@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-eventEntries-zh</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-09-26T09:34:35.975206+00:00</updated>
+  <updated>2024-09-26T10:38:02.741275+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -62,5 +62,15 @@
 &lt;a href="https://youtu.be/obSutkLXF4E"&gt;👉海綿寶寶!👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/zh/news/6QSXex4AdG3jEGdvYSWcFj"&gt;👉更多資訊!👈&lt;/a&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2oCXh2bbvVSRAyRru06Yz4/59e45916644854e5618988dee32214be/0904_Spongebob_carousel_800x1161_v2.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <published>2024-09-04T10:29:32+00:00</published>
+  </entry>
+  <entry>
+    <id>1NPTT643S0qTrA4H6CC4CQ</id>
+    <title>🗞️</title>
+    <updated>2024-09-26T10:35:35.711000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/Q8D95ErQbjk?si=Cu89Kgl0B5rQ5TfV"&gt;👉賢治👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7gurwS0QUywZziyBDmOCgY/2c29cbb864f8b23a31562a2c53cc58e1/kenji-animation-800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Q8D95ErQbjk?si=Cu89Kgl0B5rQ5TfV"/>
+    <published>2024-09-26T10:35:35+00:00</published>
   </entry>
 </feed>
