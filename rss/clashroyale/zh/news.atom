@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-28T16:38:22.214964+00:00</updated>
+  <updated>2024-09-28T17:30:49.073648+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -528,5 +528,15 @@ OJ&lt;/p&gt;
     <link href="https://youtu.be/yiUFKJeXYQ4"/>
     <category term="最新情報"/>
     <published>2024-09-23T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3GoWP4UKcZ89ESKrr4I5Xf</id>
+    <title>【Xiake】外表可愛的進化雷電飛龍其強度如何？</title>
+    <updated>2024-09-28T16:48:37.183000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/3GoWP4UKcZ89ESKrr4I5Xf"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/fHEkSdcJ1oepL2GUyXFxg/ea7a002028761ef3d84bbb6e6ef5afc1/tw_20240928_xiake_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=RHpb_bexZxQ"/>
+    <category term="最新情報"/>
+    <published>2024-09-28T15:30:00+00:00</published>
   </entry>
 </feed>
