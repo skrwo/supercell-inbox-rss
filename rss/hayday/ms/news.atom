@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-09-28T07:29:52.010177+00:00</updated>
+  <updated>2024-09-28T08:36:47.998612+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>GvCqKEEnbSHO0CnLaNPLP</id>
-    <title>Berita Ladang: Mulakan koleksi anda di sini</title>
-    <updated>2024-06-28T13:28:29.744000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/GvCqKEEnbSHO0CnLaNPLP"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1U9AiC9QquG1Lpu2eDzH6k/dac5cd4635d9a034fca8024f190608b8/HD-thumb-final-01-A.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/D78NHf7VRa8"/>
-    <category term="Berita"/>
-    <published>2024-06-29T21:00:00+00:00</published>
-  </entry>
   <entry>
     <id>6k8wxWn8NScVLlyj0r96zN</id>
     <title>Acara Hay Day Minggu 27!</title>
