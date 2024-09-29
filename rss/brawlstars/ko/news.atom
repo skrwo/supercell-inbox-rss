@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-09-29T10:35:38.088146+00:00</updated>
+  <updated>2024-09-29T11:29:09.614493+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>340sesw76PUd8jQKE27UjQ</id>
-    <title>브롤스타즈 OST를 오케스트라로 감상하고 댓글 이벤트도 참여하세요! 🎻🥁</title>
-    <updated>2024-07-01T05:45:27.538000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/340sesw76PUd8jQKE27UjQ"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3qvOhQm8rFsDa8dMVWjmoS/8c160e0ec93c447749d70723e6dcff02/800x433.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/FrCX6_xGH2A"/>
-    <category term="동영상"/>
-    <published>2024-07-01T05:45:27+00:00</published>
-  </entry>
   <entry>
     <id>1Nun2zRTHqvGeDxsUp1aEm</id>
     <title>드라코, 불꽃! 기타!! 메탈!!! 👨‍🎤🎸</title>
@@ -233,5 +223,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5BtIS7MP2GKHLnlWF3D2Uv/af7f749088753cc9169c96af3e977e27/0827_Patch_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="업데이트"/>
     <published>2024-09-19T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>75hI5Yf6qRfMiAR8lxZ6Ej</id>
+    <title>더 이상 영구적인 기능은 없다?! 브롤스타즈 Podcast</title>
+    <updated>2024-09-29T11:06:48.150000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/75hI5Yf6qRfMiAR8lxZ6Ej"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2IAeXSoVe1R1v8htkil4Qo/f153f48ea60e418e6cc68118ca93fe12/0904_Spongebob_Event_inbox_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/vz3MO390wDc"/>
+    <category term="커뮤니티"/>
+    <published>2024-09-29T11:06:43+00:00</published>
   </entry>
 </feed>

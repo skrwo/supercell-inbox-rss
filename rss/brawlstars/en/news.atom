@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-09-29T10:35:37.117897+00:00</updated>
+  <updated>2024-09-29T11:29:07.194580+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -216,5 +216,15 @@ This change should not affect most players who play matches normally but aims to
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5BtIS7MP2GKHLnlWF3D2Uv/af7f749088753cc9169c96af3e977e27/0827_Patch_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-09-19T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>75hI5Yf6qRfMiAR8lxZ6Ej</id>
+    <title>No more permanent features? Brawl Stars Podcast</title>
+    <updated>2024-09-29T11:06:48.150000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/75hI5Yf6qRfMiAR8lxZ6Ej"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2IAeXSoVe1R1v8htkil4Qo/f153f48ea60e418e6cc68118ca93fe12/0904_Spongebob_Event_inbox_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/vz3MO390wDc"/>
+    <category term="Community"/>
+    <published>2024-09-29T11:06:43+00:00</published>
   </entry>
 </feed>

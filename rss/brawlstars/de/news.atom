@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-09-29T10:35:38.366197+00:00</updated>
+  <updated>2024-09-29T11:29:08.260776+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -148,5 +148,15 @@ SpongeBob El Primo!&lt;/p&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ua0P1qLcXxObcQeViJ12n/698798e369c56ee4618eafa39cb839da/0909_SC_Make_Vote_in-game_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-09-10T13:40:12+00:00</published>
+  </entry>
+  <entry>
+    <id>75hI5Yf6qRfMiAR8lxZ6Ej</id>
+    <title>Keine dauerhaften Features mehr? Brawl Stars-Podcast</title>
+    <updated>2024-09-29T11:06:48.150000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/de/news/75hI5Yf6qRfMiAR8lxZ6Ej"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2IAeXSoVe1R1v8htkil4Qo/f153f48ea60e418e6cc68118ca93fe12/0904_Spongebob_Event_inbox_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/vz3MO390wDc"/>
+    <category term="Community"/>
+    <published>2024-09-29T11:06:43+00:00</published>
   </entry>
 </feed>
