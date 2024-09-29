@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-09-29T07:29:50.102424+00:00</updated>
+  <updated>2024-09-29T08:37:40.404130+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6k8wxWn8NScVLlyj0r96zN</id>
-    <title>《卡通農場》第27週活動安排！</title>
-    <updated>2024-07-01T07:11:23.134000+00:00</updated>
-    <content>&lt;h1&gt;《卡通農場》第27週活動安排！&lt;/h1&gt;
-&lt;p&gt;親愛的農場主，現在已經是七月，進入盛夏囉！我們準備了一整個月的精彩活動，快來看看吧！所有活動都將於台北/香港時間16:00開始。如需了解每個活動的詳細資訊，請點擊遊戲內的活動公告板查看。&lt;/p&gt;&lt;p&gt;週一：幸運大轉盤活動（拼圖）+ 農場歡樂季活動（三倍積分）&lt;/p&gt;&lt;p&gt;週二：卡車訂單活動（擴建物品）+ 農場歡樂季活動（三倍積分）&lt;/p&gt;&lt;p&gt;週三：航運訂單活動（禮券）+ 農場歡樂季活動（三倍積分）&lt;/p&gt;&lt;p&gt;週四：生產設施加速活動（隨機3台生產設施的生產速度加倍）&lt;/p&gt;&lt;p&gt;週五：釣魚區加速活動（所有設施的製作速度加快20%）+ 農場歡樂季活動（雙倍積分）&lt;/p&gt;&lt;p&gt;週六：小鎮遊客活動（雙倍金幣）&lt;/p&gt;&lt;p&gt;週日：果樹和灌木叢加速活動（隨機3種果樹/灌木叢的生長速度加倍）+卡車訂單活動（雙倍經驗值）&lt;/p&gt;&lt;p&gt;祝您度過愉快的一週！&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/zh/news/6k8wxWn8NScVLlyj0r96zN"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="最新情報"/>
-    <published>2024-07-01T07:09:19+00:00</published>
-  </entry>
   <entry>
     <id>5Tls9P6H49EPP5Gl6aK3KX</id>
     <title>生日慶典：幕後花絮</title>
@@ -199,5 +188,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="活動"/>
     <published>2024-09-22T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>43kCOyzgYjxQ0LhlIZsAcV</id>
+    <title>《卡通農場》第40週</title>
+    <updated>2024-09-29T08:02:45.001000+00:00</updated>
+    <content>&lt;h1&gt;《卡通農場》第40週活動安排&lt;/h1&gt;
+&lt;p&gt;親愛的農場主！快來看看本週有什麼精彩活動吧！所有活動和德比競賽都將於台北/香港時間16:00開始。如需了解每個活動的詳細資訊，請點擊遊戲內的活動公告欄查看。&lt;/p&gt;&lt;p&gt;&lt;b&gt;週一&lt;/b&gt;：幸運大轉盤活動（禮券）&lt;/p&gt;&lt;p&gt;&lt;b&gt;週二&lt;/b&gt;：卡車訂單活動（雙倍經驗值）+ 農場歡樂季活動（三倍積分）&lt;/p&gt;&lt;p&gt;&lt;b&gt;週三&lt;/b&gt;：航運訂單活動（雙倍金幣）+ 農場歡樂季活動（三倍積分）&lt;/p&gt;&lt;p&gt;&lt;b&gt;週四&lt;/b&gt;：生產設施加速活動（3種設施的生產速度加快20%）+ 農場歡樂季活動（三倍積分）&lt;/p&gt;&lt;p&gt;&lt;b&gt;週五&lt;/b&gt;：釣魚活動（小鴨沙龍和織網機的製作速度加快30%）+ 農場歡樂季活動（三倍積分）&lt;/p&gt;&lt;p&gt;&lt;b&gt;週六&lt;/b&gt;：農場遊客活動（雙倍金幣）&lt;/p&gt;&lt;p&gt;&lt;b&gt;週日&lt;/b&gt;：瘋狂生長活動（3種隨機農作物成熟時可以收穫3份作物，不只2份唷）&lt;/p&gt;&lt;p&gt;記得參加本週的一般德比競賽，週一開始！&lt;/p&gt;&lt;p&gt;祝您度過愉快的一週！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/zh/news/43kCOyzgYjxQ0LhlIZsAcV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="活動"/>
+    <published>2024-09-29T08:00:03+00:00</published>
   </entry>
 </feed>

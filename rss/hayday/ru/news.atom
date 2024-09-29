@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-09-29T07:29:49.414746+00:00</updated>
+  <updated>2024-09-29T08:37:39.932609+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6k8wxWn8NScVLlyj0r96zN</id>
-    <title>События Hay Day: 27-я неделя!</title>
-    <updated>2024-07-01T07:11:23.134000+00:00</updated>
-    <content>&lt;h1&gt;События Hay Day: 27-я неделя!&lt;/h1&gt;
-&lt;p&gt;Привет, фермеры! Лето в разгаре, и в июле вас ждет множество событий, так что приготовьтесь! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: куски головоломки на колесе фортуны и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;Вторник: материалы для расширения за выполнение заказов на доставку грузовиком и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;Среда: ваучеры за загрузку пароходов и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;Четверг: ускорение трех случайных производственных зданий в два раза.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 20 % и удвоение очков Farm Pass.&lt;/p&gt;&lt;p&gt;Суббота: вдвое больше монет за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;Воскресенье: три случайных дерева/куста будут давать урожай вдвое быстрее, плюс вдвое больше опыта за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Желаем отличной недели!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/6k8wxWn8NScVLlyj0r96zN"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Новости"/>
-    <published>2024-07-01T07:09:19+00:00</published>
-  </entry>
   <entry>
     <id>5Tls9P6H49EPP5Gl6aK3KX</id>
     <title>День рождения: что осталось за кадром</title>
@@ -188,5 +177,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="События"/>
     <published>2024-09-22T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>43kCOyzgYjxQ0LhlIZsAcV</id>
+    <title>События 40-й недели в Hay Day</title>
+    <updated>2024-09-29T08:02:45.001000+00:00</updated>
+    <content>&lt;h1&gt;События 40-й недели в Hay Day&lt;/h1&gt;
+&lt;p&gt;Привет, фермеры! Наступила новая неделя событий! Все события и скачки начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Понедельник:&lt;/b&gt; ваучеры на колесе фортуны.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Вторник:&lt;/b&gt; вдвое больше опыта за выполнение заказов на доставку грузовиком и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Среда&lt;/b&gt;: вдвое больше монет за загрузку пароходов и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Четверг:&lt;/b&gt; ускорение трех случайных производственных зданий на 20 % и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Пятница:&lt;/b&gt; рыболовное событие с ускорением производства на 30 % (утиный салон и вязальщик сетей) и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Суббота:&lt;/b&gt; вдвое больше монет за обслуживание посетителей фермы.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Воскресенье:&lt;/b&gt; три случайных растения будут приносить в полтора раза больше урожая.&lt;/p&gt;&lt;p&gt;Обязательно примите участие в обычных скачках этой недели, которые начнутся в понедельник!&lt;/p&gt;&lt;p&gt;Удачной недели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/43kCOyzgYjxQ0LhlIZsAcV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="События"/>
+    <published>2024-09-29T08:00:03+00:00</published>
   </entry>
 </feed>

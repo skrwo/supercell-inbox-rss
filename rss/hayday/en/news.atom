@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-09-29T07:29:46.194093+00:00</updated>
+  <updated>2024-09-29T08:37:38.916575+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6k8wxWn8NScVLlyj0r96zN</id>
-    <title>Hay Day Events Week 27!</title>
-    <updated>2024-07-01T07:11:23.134000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Events Week 27!&lt;/h1&gt;
-&lt;p&gt;Hello farmers! Summer is in full swing now it&amp;#39;s July, get ready for another month full of events! All events start at 8 AM UTC. Dive into the specifics of each event by visiting our event board in the game. &lt;/p&gt;&lt;p&gt;Monday: Spin the Wheel (Puzzle Pieces) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Tuesday: Truck Event (Expansion Materials) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Wednesday: Boat Event (Vouchers) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;Thursday: Machine Boost (3 random machines produce at 2x speed)&lt;/p&gt;&lt;p&gt;Friday:  Fishing Production Boost Event (All 20% Boost) + 2x Farm Pass Points&lt;/p&gt;&lt;p&gt;Saturday:  Town Visitor (2x Coins)&lt;/p&gt;&lt;p&gt;Sunday:  Trees/Bushes Time Percent (3 randomised bushes or trees produce fruits at 2x speed) + Truck Event (2x XP) &lt;/p&gt;&lt;p&gt;Have a great week!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/en/news/6k8wxWn8NScVLlyj0r96zN"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-07-01T07:09:19+00:00</published>
-  </entry>
   <entry>
     <id>5Tls9P6H49EPP5Gl6aK3KX</id>
     <title>Birthday Celebration: Behind The Scenes</title>
@@ -212,5 +201,18 @@
     <link href="https://youtu.be/Ay4hCFxeCKM"/>
     <category term="News"/>
     <published>2024-09-28T08:14:13+00:00</published>
+  </entry>
+  <entry>
+    <id>43kCOyzgYjxQ0LhlIZsAcV</id>
+    <title>Hay Day Week 40</title>
+    <updated>2024-09-29T08:02:45.001000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Events Week 40&lt;/h1&gt;
+&lt;p&gt;Hey farmers! Get ready for another week of events! All events &amp;amp; derbies start at 8 AM UTC. Jump into the specifics of each event by visiting our event board in the game. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Monday&lt;/b&gt;: Spin the Wheel (Vouchers) &lt;/p&gt;&lt;p&gt;&lt;b&gt;Tuesday&lt;/b&gt;: Truck Event (x2 XP) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wednesday&lt;/b&gt;: Boat Event (x2 Coins) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thursday&lt;/b&gt;: Production Buildings - (20% boost for 3 buildings) + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Friday&lt;/b&gt;:  Fishing Event - Duck and Net Maker 30% + 3x Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Saturday&lt;/b&gt;:  Farm Visitor Event (x2 Coins) &lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunday&lt;/b&gt;: Crops Event (three random crops will yield 3 crops instead of the usual 2)&lt;/p&gt;&lt;p&gt;Be sure to participate in this week&amp;#39;s Normal Derby, starting Monday!
+
+Have an amazing week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/43kCOyzgYjxQ0LhlIZsAcV"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Events"/>
+    <published>2024-09-29T08:00:03+00:00</published>
   </entry>
 </feed>
