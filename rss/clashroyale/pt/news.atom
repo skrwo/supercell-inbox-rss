@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-29T14:32:48.785055+00:00</updated>
+  <updated>2024-09-29T15:32:36.530877+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>69IYE87M0rmGTHJ5ATFC5y</id>
-    <title>EVENTOS E DESAFIOS DE JULHO</title>
-    <updated>2024-07-01T09:00:51.728000+00:00</updated>
-    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;&lt;b&gt;Torneio de Gigantes (1x1 e 2x2): 1º a 8 de julho&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🗡️ O Goblin Gigante vai encarar seu arqui-inimigo real! Monte o deck perfeito com base na sua escolha.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Desafio: 5 a 8 de julho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Recompensa: bandeira de guerra&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Foguete Fenomenal (1x1 e 2x2): 8 a 15 de julho&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🚀 Os danados dos Goblins estão aprontando de novo! Eles construíram um foguete que atinge a torre do rei com potência máxima. Destrua o foguete antes que ele seja lançado!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Desafio: 12 a 15 de julho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Recompensa: bandeira de guerra&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Escavação em Ação (1x1 e 2x2): 15 a 22 de julho&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🛠️ A evolução da Escavadeira de Goblins está aqui... O quê? Já está lá do outro lado?&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Desafio: 19 a 22 de julho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Recompensa: bandeira de guerra&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Barris de Diversão (1x1 e 2x2): 22 a 29 de julho&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🛢️ Os Goblins roubaram outra leva de barris de elixir! Os barris geram elixir para você e, caso sejam destruídos pelos adversários, concedem elixir para eles também!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Desafio: 26 a 29 de julho&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Recompensa: bandeira de guerra&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Uma Defesa Royale (1x1 e 2x2): 29 de julho a 5 de agosto&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;🏰 Reúna suas tropas e convoque os campeões! A coroa está sob ataque!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;⚔️ Desafio: 2 a 5 de agosto&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;🏆 Recompensa: bandeira de guerra&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/e9rBJrWK3wr8hyS731Uw4/892e821477423304cecb55af665566b7/61_GoblinsPixel_FG.png?w=703&amp;h=478&amp;f=center&amp;fit=fill"&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/69IYE87M0rmGTHJ5ATFC5y"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wCxJk84nKrTbQLGFfk3pw/542a67bb92eefc1bc08c72527cc353af/LoadingScreen_GoblinCraft2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notas de lançamento"/>
-    <published>2024-07-01T09:00:05+00:00</published>
-  </entry>
   <entry>
     <id>5Zmd0ZaDGi8Xc4lCVYS2tm</id>
     <title>Balanceamento de julho!</title>
