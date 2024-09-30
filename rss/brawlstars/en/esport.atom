@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-09-30T19:29:24.233689+00:00</updated>
+  <updated>2024-09-30T20:33:54.562534+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -105,5 +105,41 @@
     <link href="https://x.com/BrawlDuels/status/1833581438652027391"/>
     <category term="Esports"/>
     <published>2024-09-10T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1GPzJPkibDpDRhsQPUB2Ws</id>
+    <title>Congrats Rival Esports!</title>
+    <updated>2024-09-30T19:50:29.830000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5U9FB2GJBNHuIJHWITJdMY/4d69f4348e738703c00f070fac9fecfc/BSC_September_Spectacle_Champions_Asia_Pacific.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://twitter.com/Brawl_esports/status/1839960559229559025"/>
+    <category term="Esports"/>
+    <published>2024-09-30T19:50:29+00:00</published>
+  </entry>
+  <entry>
+    <id>FZHFBkckVhAcF0egkiZmO</id>
+    <title>Congrats Reply Totem!</title>
+    <updated>2024-09-30T19:51:33.368000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4V77YrMg2VjD9t4nca6dbf/13d0125130ff7d4202e993debdf0a2c4/BSC_September_Spectacle_Champions_EMEA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://twitter.com/Brawl_esports/status/1840053596735582336"/>
+    <category term="Esports"/>
+    <published>2024-09-30T19:51:33+00:00</published>
+  </entry>
+  <entry>
+    <id>5V7X1VWUs33dHWNipVhCtJ</id>
+    <title>Congrats Level Esports!</title>
+    <updated>2024-09-30T19:52:29.656000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4WSYDKsXLwh6kxyaEnKcC0/824ab59de690f65068844472672ede8c/BSC_September_Spectacle_Champions_South_America.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://twitter.com/Brawl_esports/status/1840469234784030884"/>
+    <category term="Esports"/>
+    <published>2024-09-30T19:52:29+00:00</published>
+  </entry>
+  <entry>
+    <id>74xMsaGXJkoV6mx6npL1YU</id>
+    <title>Congrats Elevate!</title>
+    <updated>2024-09-30T19:53:43.851000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2I7S7eUsqT3hi1ynG5TuMK/78d2ea3c71f881b19df33c612efbc45a/BSC_September_Spectacle_Champions_North_America.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://twitter.com/Brawl_esports/status/1840543790412779950"/>
+    <category term="Esports"/>
+    <published>2024-09-30T19:53:43+00:00</published>
   </entry>
 </feed>
