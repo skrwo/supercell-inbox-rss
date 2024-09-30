@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-30T14:39:04.186074+00:00</updated>
+  <updated>2024-09-30T15:36:05.516810+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -490,5 +490,14 @@ TVロワイヤル感想投稿キャンペーン
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/8bMMUqxCgXYlob4maUYfr/7961e31c07d8222733b36c1073909635/vlcsnap-2024-09-17-15h22m12s000.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/SPAzVXY771k"/>
     <published>2024-09-17T15:10:03+00:00</published>
+  </entry>
+  <entry>
+    <id>6BbxcVj3OxgSj06S2w8MLG</id>
+    <title>限界突破ライトニングドラゴン⚡</title>
+    <updated>2024-09-30T15:01:25.209000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/6BbxcVj3OxgSj06S2w8MLG"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4F6VF8Q3Dclsm7bbUcKs7G/99d38ff1755916ad7c0ed3e18bfa278d/electrodragonevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/AJlYj-nNoPs"/>
+    <published>2024-09-28T15:30:03+00:00</published>
   </entry>
 </feed>

@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-eventEntries-id</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-09-30T14:38:58.817865+00:00</updated>
+  <updated>2024-09-30T15:36:01.403790+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
-  <entry>
-    <id>yB7TCmDIExMubeOewgmPH</id>
-    <title>🗞️</title>
-    <updated>2024-05-29T13:18:58.384000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://booksofclash.com/books/books-of-clash-volume-3/"&gt;👉Dapatkan sekarang!👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7C8MqTPcLF06uqNt9rGvBk/38a800c4833e105760e52f90a5a265b6/BOC_CR_NewsTab_Vol3_NoText__1_.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <link href="https://booksofclash.com/books/books-of-clash-volume-3/"/>
-    <published>2024-05-28T17:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1Sz9a8IdfR1g3w67aaUyRb</id>
     <title>MUSIM SEPTEMBER</title>
@@ -24,15 +14,5 @@
 &lt;a href="https://clashroyale.inbox.supercell.com/#/id/news/6fGNoLSaRUijALtrAyCWHY"&gt;👉BACA👈&lt;/a&gt; -- &lt;a href="https://www.youtube.com/shorts/IYy9pLDk2FI"&gt;👉TONTON👈&lt;/a&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/28udNuTRKDUNzgVCrEA8vH/a7a61fbf0d5fad0a68ee9f721be5bb41/SUP3941_CR_s63_Season_Carousel_Image.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <published>2024-09-02T10:19:58+00:00</published>
-  </entry>
-  <entry>
-    <id>1fAqMnZXE2S1fpe2MdznBJ</id>
-    <title>🗞️</title>
-    <updated>2024-09-16T10:28:49.403000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/rL8U-3n9tQA"&gt;👉TONTON👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6pEZVtoY6VfnJZYrxe3Czv/a8f8b13a0b102e503dbaabbd6a44a540/ID_TV_Royale_September_Thumbnail.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/rL8U-3n9tQA"/>
-    <published>2024-09-11T15:15:02+00:00</published>
   </entry>
 </feed>
