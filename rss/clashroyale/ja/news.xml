@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 30 Sep 2024 07:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 08:41:03 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -22,71 +22,6 @@
       <category>リリース情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Fri, 01 Dec 2023 08:24:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>7月のバランス調整！</title>
-      <link>https://clashroyale.inbox.supercell.com/#/ja/news/5Zmd0ZaDGi8Xc4lCVYS2tm</link>
-      <description>&lt;h1&gt;ゴブリンの呪い&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢&lt;b&gt;範囲：
-&lt;/b&gt;4→3（-25％）&lt;b&gt;
-
-💥ダメージ増幅：&lt;/b&gt;
-35％→20％&lt;/p&gt;
-&lt;p&gt;ゴブリンの呪いは、その効果範囲とダメージ増幅効果が相まって、橋前の攻防で絶大な威力を誇っていました。特にレイジやザップと併用すると、さらに強力になります。今回の変更は、こうした呪文のコンビネーションを制限し、効果を受けるユニットを減少させることが狙いです。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ダイナマイトゴブリン&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥&lt;b&gt;死亡時&lt;/b&gt; &lt;b&gt;ダメージ：&lt;/b&gt;
-465→404（-13％）
-
-🟢&lt;b&gt;死亡時ダメージの範囲：&lt;/b&gt;
-3→2.5（-17％）
-
-&lt;b&gt;⏱️攻撃速度：&lt;/b&gt;
-1.1秒→1.2秒（-9％）&lt;/p&gt;
-&lt;p&gt;ダイナマイトゴブリンは相手の攻撃をせき止めるだけに留まらず、広範囲の死亡時ダメージでタワーに多大なダメージを与えていました。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ゴブリンマシン&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント：&lt;/b&gt;
-2598→2196（-15％）
-
-&lt;b&gt;⏱️初撃速度：&lt;/b&gt;
-0.2秒→0.5秒（-150％）&lt;/p&gt;
-&lt;p&gt;ゴブリンマシンは強力すぎるロケットのせいで処理が難しいユニットとなっていたため、5エリクサーの他のユニットと同格になるようにヒットポイントを減少させます。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;プリンス&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏&lt;b&gt;突撃助走距離：&lt;/b&gt;
-150→200（+33％）&lt;/p&gt;
-&lt;h1&gt;ラムライダー&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏&lt;b&gt;突撃助走距離：&lt;/b&gt;
-150→200（+33％）&lt;/p&gt;
-&lt;p&gt;プリンスとラムライダーの人気が上がったのは嬉しいことですが、少し強化しすぎたようです。今回は助走距離を少し延長して弱体化を図ります。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;テスラ&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥&lt;b&gt;ダメージ：&lt;/b&gt;
-230→220（-4％）
-
-&lt;b&gt;⏱️攻撃速度：&lt;/b&gt;
-1.1秒→1.2秒（-9％）&lt;/p&gt;
-&lt;p&gt;テスラは現環境を席巻している防衛設備であり、最強格の限界突破カードでもあります。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破ウィザード&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️シールドのHP：&lt;/b&gt;
-371→296（-20％）&lt;/p&gt;
-&lt;p&gt;限界突破ウィザードのシールドはシンプルに硬すぎました。今後は矢の雨で破壊できるようになります。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ダガーガール&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️&lt;/b&gt; &lt;b&gt;ダガーのチャージ時間：&lt;/b&gt;
-0.8秒→0.9秒（+13％）
-
-&lt;b&gt;⏱️攻撃速度：&lt;/b&gt;
-0.35秒→0.45秒（-29％）&lt;/p&gt;
-&lt;p&gt;ダガーガールはフルチャージ時はもちろんのこと、ダガーを使い果たしたときでさえも対抗するのが難しいタワーユニットでした。今後はダガーをすべて放出するまでの時間が延長されるとともに、チャージ時間も長くなります。&lt;/p&gt;</description>
-      <guid isPermaLink="false">5Zmd0ZaDGi8Xc4lCVYS2tm</guid>
-      <category>ニュース</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 02 Jul 2024 08:37:05 +0000</pubDate>
     </item>
     <item>
       <title>限界突破ゴブリンドリル！</title>

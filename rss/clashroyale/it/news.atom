@@ -2,67 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-09-30T07:30:30.925958+00:00</updated>
+  <updated>2024-09-30T08:41:06.238356+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>5Zmd0ZaDGi8Xc4lCVYS2tm</id>
-    <title>Modifiche di bilanciamento di luglio</title>
-    <updated>2024-07-15T09:03:58.545000+00:00</updated>
-    <content>&lt;h1&gt;MALEDIZIONE GOBLIN&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Raggio:&lt;/b&gt; ridotto del 25% (da 4 a 3 unità).
-💥 &lt;b&gt;Amplificazione dei danni:&lt;/b&gt;
-ridotta dal 35% al 20%.&lt;/p&gt;
-&lt;p&gt;Finora, il raggio d&amp;#39;azione e l&amp;#39;amplificazione dei danni della Maledizione goblin l&amp;#39;hanno resa un&amp;#39;arma ideale con cui controllare gli scontri sui ponti, soprattutto se usata insieme alla Furia o alla Scarica. Con le modifiche apportate, vogliamo che queste combinazioni siano più difficili da ottenere, che siano meno efficaci e che colpiscano meno truppe.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;GOBLIN DEMOLITORE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Danni&lt;/b&gt; &lt;b&gt;alla morte:&lt;/b&gt;
-ridotti del 13% (da 465 a 404 punti).
-🟢 &lt;b&gt;Raggio d&amp;#39;azione&lt;/b&gt; &lt;b&gt;dei danni alla morte:&lt;/b&gt; ridotto del 17% (da 3 a 2,5 unità).
-&lt;b&gt;⏱️ Velocità colpi:&lt;/b&gt;
-rallentata del 9% (da 1,1 a 1,2 secondi).&lt;/p&gt;
-&lt;p&gt;Il goblin demolitore era fin troppo efficace a neutralizzare gli attacchi avversari e a danneggiare le torri della corona col suo potente attacco alla morte, perciò il suo raggio d&amp;#39;esplosione e i danni inflitti andavano un po&amp;#39; ridimensionati.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;MACCHINA GOBLIN&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita:&lt;/b&gt;
-ridotti del 15% (da 2598 a 2196 punti).
-&lt;b&gt;⏱️ Velocità del primo colpo:&lt;/b&gt; rallentata del 150% (da 0,2 a 0,5 secondi).&lt;/p&gt;
-&lt;p&gt;Il razzo lanciato dalla macchina goblin la rendeva troppo difficile da neutralizzare, perciò abbiamo ridotto i punti ferita della carta, per allinearla maggiormente alle altre truppe da mischia da 5 unità di elisir.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;PRINCIPE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Portata della carica:&lt;/b&gt;
-aumentata del 33% (da 150 a 200 unità).&lt;/p&gt;
-&lt;h1&gt;DOMATRICE DI ARIETI&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Portata della carica:&lt;/b&gt;
-aumentata del 33% (da 150 a 200 unità).&lt;/p&gt;
-&lt;p&gt;Siamo contenti di vedere che il principe e la domatrice abbiano trovato il loro posto tra le strategie di gioco, ma forse abbiamo esagerato col loro potenziamento, perciò l&amp;#39;abbiamo ridimensionato un po&amp;#39; e, allo stesso tempo, abbiamo rimosso le interazioni poco intuitive che avvenivano quando entrambe queste truppe partivano alla carica.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;TESLA&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Danni:&lt;/b&gt;
-ridotti del 4% (da 230 a 220 punti).
-&lt;b&gt;⏱️ Velocità colpi:&lt;/b&gt;
-rallentata del 9% (da 1,1 a 1,2 secondi).&lt;/p&gt;
-&lt;p&gt;Ultimamente, la Tesla è stato l&amp;#39;edificio difensivo più dominante di tutti e la sua evoluzione è una delle più efficaci del gioco.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;STREGONE EVOLUTO&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Punti ferita dello scudo:&lt;/b&gt;
-ridotti del 20% (da 371 a 296 punti).&lt;/p&gt;
-&lt;p&gt;Lo scudo dello stregone evoluto era davvero troppo difficile da neutralizzare, ma ora sarà possibile infrangerlo con le Frecce.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DUCHESSA DEI PUGNALI&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️&lt;/b&gt; &lt;b&gt;Caricamento del lancio dei pugnali:&lt;/b&gt;
-rallentato del 13% (da 0,8 a 0,9 secondi).
-&lt;b&gt;⏱️ Velocità colpi:&lt;/b&gt;
-rallentata del 29% (da 0,35 a 0,45 secondi).&lt;/p&gt;
-&lt;p&gt;La duchessa dei pugnali era davvero tosta da battere quando era a corto di pugnali e infliggeva troppi danni con la sua raffica di colpi quando aveva tutti i pugnali a disposizione, ma ora impiegherà più tempo a scaricare tutti i suoi colpi su un&amp;#39;unità nemica e a ricaricarli tutti.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/it/news/5Zmd0ZaDGi8Xc4lCVYS2tm"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Notizie"/>
-    <published>2024-07-02T08:37:05+00:00</published>
-  </entry>
   <entry>
     <id>3VPxXmeTNBt0lOmcgj6fKA</id>
     <title>La trivella goblin evoluta!</title>

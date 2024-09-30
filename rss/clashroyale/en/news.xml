@@ -7,63 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 07:30:26 +0000</lastBuildDate>
-    <item>
-      <title>July Balance Changes!</title>
-      <link>https://clashroyale.inbox.supercell.com/#/en/news/5Zmd0ZaDGi8Xc4lCVYS2tm</link>
-      <description>&lt;h1&gt;GOBLIN CURSE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Radius: &lt;/b&gt;4 → 3 (-25%)
-💥 &lt;b&gt;Damage Amp.:&lt;/b&gt; 
-35% → 20%&lt;/p&gt;
-&lt;p&gt;Goblin Curse consistently dominated bridge battles with its large radius and damage amplification, especially when combined with Rage and Zap. We aim to make these combinations less potent, harder to execute, and affect fewer troops during a battle.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;GOBLIN DEMOLISHER&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Death&lt;/b&gt; &lt;b&gt;Damage: &lt;/b&gt;
-465 → 404 (-13%)
-🟢 &lt;b&gt;Death&lt;/b&gt; &lt;b&gt;Damage Radius: &lt;/b&gt;3 → 2.5 (-17%)
-&lt;b&gt;⏱️ Hit Speed: 
-&lt;/b&gt;1.1sec →  1.2sec (+9%)&lt;/p&gt;
-&lt;p&gt;Goblin Demolisher was too effective at shutting down pushes and dealing Crown Tower Damage with its large death explosion radius and high damage.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;GOBLIN MACHINE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Hit Points: &lt;/b&gt;
-2598 → 2196 (-15%)
-&lt;b&gt;⏱️ First Hit Speed: &lt;/b&gt;0.2sec → 0.5sec (+150%)&lt;/p&gt;
-&lt;p&gt;Goblin Machine was too difficult to destroy because of its powerful rocket attack. We&amp;#39;re reducing its HP to make it more consistent with the other 5 Elixir melee troops.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;PRINCE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏&lt;b&gt; Charge Range: &lt;/b&gt;
-150 → 200 (33%)&lt;/p&gt;
-&lt;h1&gt;RAM RIDER&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏&lt;b&gt; Charge Range: &lt;/b&gt;
-150 → 200 (33%)&lt;/p&gt;
-&lt;p&gt;While we&amp;#39;re happy with Prince and Ram Rider becoming relevant in the meta, we overshot on their buff. We&amp;#39;re toning back the buff while removing some unintuitive interactions with their charge.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;TESLA&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Damage: &lt;/b&gt;
-230 → 220 (-4%)
-&lt;b&gt;⏱️ Hit Speed: &lt;/b&gt;
-1.1sec →  1.2sec (+9%)&lt;/p&gt;
-&lt;p&gt;Tesla has been the dominate defensive building in the meta and has one of the strongest Evolutions as well.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;WIZARD EVOLUTION&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Shield HP: 
-&lt;/b&gt;371 → 296 (-20%)&lt;/p&gt;
-&lt;p&gt;Evolved Wizard&amp;#39;s shield was simply too difficult to break through and will now be broken by Arrows.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;DAGGER DUCHESS&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️&lt;/b&gt; &lt;b&gt;Dagger charge: 
-&lt;/b&gt;0.8sec → 0.9sec (13%)
-&lt;b&gt;⏱️ Hit Speed: &lt;/b&gt;
-0.35sec →  0.45sec (+29%)&lt;/p&gt;
-&lt;p&gt;Dagger Duchess was too hard to punish when depleted, and still dealt too much burst damage while full. She will now take longer to fully burst a unit and longer to reload to full.&lt;/p&gt;</description>
-      <guid isPermaLink="false">5Zmd0ZaDGi8Xc4lCVYS2tm</guid>
-      <category>News</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 02 Jul 2024 08:37:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Sep 2024 08:41:04 +0000</lastBuildDate>
     <item>
       <title>Goblin Drill Evolution!</title>
       <link>https://youtube.com/shorts/4UpoddXksAg?feature=share</link>

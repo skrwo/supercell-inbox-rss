@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 30 Sep 2024 07:30:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 08:41:04 +0000</lastBuildDate>
     <item>
       <title>Планы на 2024</title>
       <link>https://clashroyale.inbox.supercell.com/#/ru/news/4pHYeqFPnOfnlNN2uEXDwd</link>
@@ -26,62 +26,6 @@
       <category>Информация о версии</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Dec 2023 18:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Июльские изменения баланса!</title>
-      <link>https://clashroyale.inbox.supercell.com/#/ru/news/5Zmd0ZaDGi8Xc4lCVYS2tm</link>
-      <description>&lt;h1&gt;ПРОКЛЯТИЕ ГОБЛИНОВ&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Радиус:&lt;/b&gt; 4 → 3 (-25 %);
-💥 &lt;b&gt;Увеличение урона:&lt;/b&gt;
-35 % → 20 %.&lt;/p&gt;
-&lt;p&gt;Благодаря большому радиусу и усилению урона проклятие гоблинов эффективно контролировало сражения на мосту, особенно в сочетании с яростью и разрядом. Мы хотим снизить доступность и эффективность подобных комбинаций и сделать так, чтобы они воздействовали на меньшее количество воинов.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ГОБЛИН-ПОДРЫВНИК&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Урон&lt;/b&gt; &lt;b&gt;при уничтожении:&lt;/b&gt;
-465 → 404 (-13 %);
-🟢 &lt;b&gt;Радиус урона&lt;/b&gt; &lt;b&gt;при уничтожении:&lt;/b&gt; 3 → 2,5 (-17 %);
-&lt;b&gt;⏱️ Скорость атаки:&lt;/b&gt;
-1,1 → 1,2 секунды (на 9 % медленнее).&lt;/p&gt;
-&lt;p&gt;Гоблин-подрывник оказался слишком эффективен в подавлении штурма и нанесении урона королевской башне за счет большого радиуса взрыва и высокого урона.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ГОБЛИНСКАЯ МАШИНА&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Запас здоровья:&lt;/b&gt;
-2598 → 2196 (-15 %);
-&lt;b&gt;⏱️ Скорость первой атаки:&lt;/b&gt; 0,2 → 0,5 секунды ( на 150 % медленнее).&lt;/p&gt;
-&lt;p&gt;Гоблинскую машину было слишком сложно уничтожить из-за ее мощной ракетной атаки. Мы уменьшаем ее запас здоровья, чтобы она была больше похожа на другие карты ближнего боя за 5 капель эликсира.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ПРИНЦ&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Дальность штурма:&lt;/b&gt;
-150 → 200 (-33 %).&lt;/p&gt;
-&lt;h1&gt;ВСАДНИЦА НА БАРАНЕ&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Дальность штурма:&lt;/b&gt;
-150 → 200 (-33 %).&lt;/p&gt;
-&lt;p&gt;Хотя мы рады, что принц и всадница на баране нашли свое место в мете, но с предыдущим усилением мы все-таки перестарались. Мы немного смягчим его и уберем некоторые неинтуитивные взаимодействия с их штурмом.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ТЕСЛА&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Урон:&lt;/b&gt;
-230 → 220 (-4 %);
-&lt;b&gt;⏱️ Время между атаками:&lt;/b&gt;
-1,1 → 1,2 секунды (на 9 % медленнее).&lt;/p&gt;
-&lt;p&gt;Тесла остается главным защитным сооружением в мете и при этом имеет одну из самых сильных эволюций.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ЭВОЛЮЦИЯ КОЛДУНА&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Запас прочности щита:&lt;/b&gt;
-371 → 296 (-20 %).&lt;/p&gt;
-&lt;p&gt;Сквозь щит эволюции колдуна было очень сложно пробиться, но теперь его можно будет сломать с помощью стрел.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ГРАФИНЯ С КИНЖАЛАМИ&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️&lt;/b&gt; &lt;b&gt;Время заряда кинжалов:&lt;/b&gt;
-0,8 → 0,9 секунды (на 13 % медленнее);
-&lt;b&gt;⏱️ Скорость атаки:&lt;/b&gt;
-0,35 → 0,45 секунды (на 29 % медленнее).&lt;/p&gt;
-&lt;p&gt;Даже без кинжалов с графиней было сложно справиться, и она по-прежнему наносила слишком много урона, имея полный заряд. Теперь у нее будет уходить больше времени на проведение полной атаки и на полную перезарядку.&lt;/p&gt;</description>
-      <guid isPermaLink="false">5Zmd0ZaDGi8Xc4lCVYS2tm</guid>
-      <category>Новости</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 02 Jul 2024 08:37:05 +0000</pubDate>
     </item>
     <item>
       <title>Эволюция гоблинского бура!</title>

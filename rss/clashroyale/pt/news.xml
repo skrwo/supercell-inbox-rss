@@ -7,63 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 30 Sep 2024 07:30:28 +0000</lastBuildDate>
-    <item>
-      <title>Balanceamento de julho!</title>
-      <link>https://clashroyale.inbox.supercell.com/#/pt/news/5Zmd0ZaDGi8Xc4lCVYS2tm</link>
-      <description>&lt;h1&gt;MALDIÇÃO GOBLIN&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Raio&lt;/b&gt;: 4 → 3 (-25%)
-💥 &lt;b&gt;Amplificação de dano&lt;/b&gt;:
-35% → 20%&lt;/p&gt;
-&lt;p&gt;A Maldição Goblin estava dominando os confrontos na ponte por conta de seu grande raio de efeito e amplificação de dano, principalmente se combinada com Fúria e Zap. Queremos que essas combinações fiquem menos potentes, mais difíceis de serem executadas e que afetem menos tropas durante a batalha.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;GOBLIN DEMOLIDOR&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Dano de morte&lt;/b&gt;:
-465 → 404 (-13%)
-🟢 &lt;b&gt;Raio do dano de morte&lt;/b&gt;: 3 → 2,5 (-17%)
-&lt;b&gt;⏱️ Velocidade de ataque&lt;/b&gt;:
-1,1s → 1,2s (+9%)&lt;/p&gt;
-&lt;p&gt;O Goblin Demolidor tinha sucesso excessivo na supressão de ondas de ataque, além de conseguir causar muito dano à torre com o grande raio da sua explosão ao morrer.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;MÁQUINA GOBLIN&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;❤️ &lt;b&gt;Pontos de vida&lt;/b&gt;:
-2598 → 2196 (-15%)
-⏱️ &lt;b&gt;Velocidade do primeiro ataque&lt;/b&gt;: 0,2s → 0,5s (+150%)&lt;/p&gt;
-&lt;p&gt;A Máquina Goblin era difícil de ser destruída por conta de seu poderoso ataque de foguete. Reduzimos os pontos de vida dela para ficar mais consistente com as demais tropas corpo a corpo de 5 unidades de elixir.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;PRÍNCIPE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Alcance da investida&lt;/b&gt;:
-150 → 200 (33%)&lt;/p&gt;
-&lt;h1&gt;DOMADORA DE CARNEIRO&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Alcance da investida&lt;/b&gt;:
-150 → 200 (33%)&lt;/p&gt;
-&lt;p&gt;Estamos felizes com a relevância que o Príncipe e a Domadora de Carneiro vêm ganhando, mas pesamos muito a mão na melhoria deles. Vamos voltar um pouco na melhoria retirando um pouco das interações pouco intuitivas da investida deles.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;TESLA&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Dano&lt;/b&gt;:
-230 → 220 (-4%)
-⏱️ &lt;b&gt;Velocidade de ataque&lt;/b&gt;:
-1,1s → 1,2s (+9%)&lt;/p&gt;
-&lt;p&gt;Tesla é há tempos a construção defensiva mais utilizada, além de ter uma das evoluções mais fortes também.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;EVOLUÇÃO DO MAGO&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;❤️ &lt;b&gt;PV do escudo&lt;/b&gt;:
-371 → 296 (-20%)&lt;/p&gt;
-&lt;p&gt;O escudo da evolução do Mago era muito difícil de ser quebrado. Agora, bastam Flechas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DUQUESA DAS ADAGAS&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;⏱️ &lt;b&gt;Carregamento das adagas&lt;/b&gt;:
-0,8s → 0,9s (13%)
-⏱️ &lt;b&gt;Velocidade de ataque&lt;/b&gt;:
-0,35s → 0,45s (+29%)&lt;/p&gt;
-&lt;p&gt;Era difícil derrubar a Duquesa das Adagas quando ela estava descarregada e ela ainda causava muito dano explosivo quando carregada. Agora ela vai levar mais tempo para detonar uma unidade além de levar mais tempo para ficar totalmente carregada.&lt;/p&gt;</description>
-      <guid isPermaLink="false">5Zmd0ZaDGi8Xc4lCVYS2tm</guid>
-      <category>Notícias</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 02 Jul 2024 08:37:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Sep 2024 08:41:06 +0000</lastBuildDate>
     <item>
       <title>Mensagem do fã-clube do Goblin!</title>
       <link>https://youtube.com/shorts/y-Rmf7dXOZg?feature=share</link>

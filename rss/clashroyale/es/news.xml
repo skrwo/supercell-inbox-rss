@@ -7,63 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 30 Sep 2024 07:30:26 +0000</lastBuildDate>
-    <item>
-      <title>¡Ajustes de equilibrio de julio!</title>
-      <link>https://clashroyale.inbox.supercell.com/#/es/news/5Zmd0ZaDGi8Xc4lCVYS2tm</link>
-      <description>&lt;h1&gt;MALDICIÓN DUENDE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7ajTtb0PbtL2PuGIqUmq28/acfd5c40ca496acd4a96c9df4ab274c5/goblincurse_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Radio:&lt;/b&gt; se ha reducido un 25 % (de 4 a 3).
-💥 &lt;b&gt;Amplificación de daño:&lt;/b&gt;
-Se ha reducido un 15 % (del 35 % al 20 %).&lt;/p&gt;
-&lt;p&gt;La maldición duende siempre ha sido una carta temible en las batallas en el puente debido a su amplio radio y a su amplificación de daño, sobre todo cuando se combina con la furia y con la descarga. Queremos que estas combinaciones sean menos poderosas, más difíciles de ejecutar y que afecten a menos tropas en batalla.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DEMOLEDOR DUENDE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2gznPR1VmTurjJubVb79kx/738c6f2d5d16768be17ab7d4b1eeceb1/goblindemolisher_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Daño&lt;/b&gt; &lt;b&gt;mortal:&lt;/b&gt;
-Se ha reducido en un 13 % (de 465 a 404).
-🟢 &lt;b&gt;Radio&lt;/b&gt; &lt;b&gt;del daño mortal:&lt;/b&gt; se ha reducido en un 17 % (de 3 a 2,5).
-&lt;b&gt;⏱️ Velocidad de ataque:&lt;/b&gt;
-Se ha ralentizado en un 9 % (de 1,1 s a 1,2 s).&lt;/p&gt;
-&lt;p&gt;El demoledor duende era demasiado efectivo a la hora de detener ataques y de infligir daño a las torres de coronas gracias a su amplio radio de explosión y a su gran daño.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;MÁQUINA DUENDE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Puntos de vida:&lt;/b&gt;
-Se han reducido en un 15 % (de 2598 a 2196).
-&lt;b&gt;⏱️ Velocidad del primer ataque:&lt;/b&gt; se ha ralentizado en un 150 % (de 0,2 s a 0,5 s).&lt;/p&gt;
-&lt;p&gt;Acabar con la máquina duende era demasiado difícil debido a su poderoso cohete. Vamos a reducir sus PV para que sea más consistente con las otras tropas cuerpo a cuerpo que cuestan 5 unidades de elixir.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;PRÍNCIPE&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/IUlhMpRiXdHJgxgrnpfXA/96925885ef31f472eb452a7e2c1d59f5/prince_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Alcance de la carga:&lt;/b&gt;
-Se ha aumentado en un 33 % (de 150 a 200).&lt;/p&gt;
-&lt;h1&gt;MONTACARNEROS&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;📏 &lt;b&gt;Alcance de la carga:&lt;/b&gt;
-Se ha aumentado en un 33 % (de 150 a 200).&lt;/p&gt;
-&lt;p&gt;Nos alegra que el príncipe y la montacarneros se hayan vuelto relevantes en el juego, pero nos hemos pasado mejorándolos. Vamos a retocar estas mejoras a la vez que eliminamos algunas interacciones poco intuitivas con sus cargas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;TORRE TESLA&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LlXHP4NeLW8oaKoBnE97y/8e02fcced5b8747641d66a6535f6ef9f/tesla_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Daño:&lt;/b&gt;
-Se ha reducido en un 4 % (de 230 a 220).
-&lt;b&gt;⏱️ Velocidad de ataque:&lt;/b&gt;
-Se ha ralentizado en un 9 % (de 1,1 s a 1,2 s).&lt;/p&gt;
-&lt;p&gt;La torre Tesla ha sido la estructura defensiva dominante del juego, además de una de las evoluciones más fuertes.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;EVOLUCIÓN DEL MAGO&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DxQ7HSFlZ6dmyIvm68Sch/f4ef9203b5d68c37f41869395dbf23e1/wizardevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ PV del escudo:&lt;/b&gt;
-Se han reducido en un 20 % (de 371 a 296).&lt;/p&gt;
-&lt;p&gt;El escudo de la evolución del mago era demasiado resistente, pero ahora se podrá romper con flechas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;DUQUESA DE DAGAS&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️&lt;/b&gt; &lt;b&gt;Recarga de las dagas:&lt;/b&gt;
-Se ha ralentizado en un 13 % (de 0,8 s a 0,9 s).
-&lt;b&gt;⏱️ Velocidad de ataque:&lt;/b&gt;
-Se ha ralentizado en un 29 % (de 0,35 s a 0,45 s).&lt;/p&gt;
-&lt;p&gt;Aun con sus dagas agotadas, la duquesa de dagas era muy difícil de contrarrestar, y también infligía demasiado daño con sus dagas cargadas al máximo. Ahora tardará más en desatar sus ráfagas de ataques y en cargar sus dagas del todo.&lt;/p&gt;</description>
-      <guid isPermaLink="false">5Zmd0ZaDGi8Xc4lCVYS2tm</guid>
-      <category>Noticias</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bI8MskJgoM6T6IDA5yKSL/a17419a3a804606266dc7ee6dc83b247/julybalancechanges_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 02 Jul 2024 08:37:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Sep 2024 08:41:02 +0000</lastBuildDate>
     <item>
       <title>¡Evolución de la excavadora de duendes!</title>
       <link>https://youtube.com/shorts/4UpoddXksAg?feature=share</link>
