@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-09-29T23:30:19.092584+00:00</updated>
+  <updated>2024-09-30T02:00:07.356333+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5Tls9P6H49EPP5Gl6aK3KX</id>
-    <title>Comemoração de aniversário: bastidores</title>
-    <updated>2024-07-01T08:29:05.048000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/5Tls9P6H49EPP5Gl6aK3KX"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1JiUFyQU1UtLy7FUp3J7x6/51666baa0836aa46f84d92994f962739/Hayday_June_BTS_final_thumb_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/qzAOcaZeGY4"/>
-    <category term="Comunidade"/>
-    <published>2024-07-01T08:29:05+00:00</published>
-  </entry>
   <entry>
     <id>1hgTVENWabH3hiTPo0GsWQ</id>
     <title>Comemoração do Concurso Culinário de Hay Day</title>
