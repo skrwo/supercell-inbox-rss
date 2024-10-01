@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-10-01T13:38:51.060440+00:00</updated>
+  <updated>2024-10-01T14:37:19.296440+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -490,5 +490,25 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/S9rTaZkEU1jfxeo6EbYm6/ca80c4d19ceabbdf92566a5cc79889b7/CLASHOWEEN_SPLASH_CLEAN_CHARA_AND_BG_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-10-01T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>1WS1OLEOONODDzvsnXua26</id>
+    <title>【烏龜】跟著這路線走！擺脫厄運與陰霾！</title>
+    <updated>2024-10-01T14:08:05.232000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1WS1OLEOONODDzvsnXua26"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5bQKO747n6h8V997eYVlxx/8811829a365efe74a73caba9bea6b8fb/tw_20241001_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=C0sjFC9YF2k"/>
+    <category term="最新情報"/>
+    <published>2024-10-01T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>26qBq9W0j9FVdAeIzh2cRZ</id>
+    <title>【金雄】來來來！不翻車通關步驟就在這！</title>
+    <updated>2024-10-01T14:09:55.962000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/26qBq9W0j9FVdAeIzh2cRZ"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5ars75nJAz1ckYRgONfkOO/49ad77951d5584995f6bf15298a666f7/tw_20241001_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=jwoVqNjbTfE"/>
+    <category term="最新情報"/>
+    <published>2024-10-01T13:01:00+00:00</published>
   </entry>
 </feed>
