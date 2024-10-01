@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-01T12:56:54.747950+00:00</updated>
+  <updated>2024-10-01T13:38:47.365006+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -490,5 +490,16 @@ OJ&lt;/p&gt;
     <link href="https://www.youtube.com/watch?v=00KssFGo268"/>
     <category term="最新情報"/>
     <published>2024-09-30T16:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>ray5CzNypZv9AZ4MGoSnH</id>
+    <title>遊戲裝置版本過低將無法繼續執行遊戲</title>
+    <updated>2024-10-01T13:06:53.222000+00:00</updated>
+    <content>&lt;h1&gt;iOS 12、iOS 13、Android 5.0和Android 6.0版本將無法繼續執行遊戲&lt;/h1&gt;
+&lt;p&gt;從&lt;b&gt;10月2日&lt;/b&gt;的更新開始，iOS 12以下版本，以及Android 6.0以下版本的裝置將無法繼續執行遊戲。我們做出這個決定是因為舊裝置的效能問題和技術限制。因此，如果玩家使用的是上述作業系統的裝置，則無法繼續在這些裝置上執行《部落衝突:皇室戰爭》，必須將裝置系統升級至更高版本。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;iOS&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;不再支援iOS 12和iOS 13，代表iPhone 5s、iPhone 6和iPhone 6 Plus等裝置將無法繼續執行遊戲。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Android&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;執行Android 5.0（Lollipop）和Android 6.0（Marshmallow）的裝置將無法繼續執行遊戲。&lt;/p&gt;&lt;p&gt;&lt;b&gt;你需要做什麼&lt;/b&gt;&lt;/p&gt;&lt;p&gt;如果你的裝置其作業系統版本會受到影響，我們建議你更新到較新的版本。&lt;/p&gt;&lt;p&gt;更新iOS版本請至&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.apple.com%2Fzh-tw%2F118575')"&gt;Apple支援網站&lt;/a&gt;說明，更新Android請參考&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.google.com%2Fandroid%2Fanswer%2F7680439%3Fhl%3Dzh-Hant%26sjid%3D4640468233362096718-AP')"&gt;Google支援網站&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;要了解如何將遊戲轉移到新裝置或為你的遊戲帳號綁定Supercell ID，請查看我們的&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.supercell.com%2Fclash-royale%2Fzh%2Findex.html')"&gt;常見問題解答&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;感謝大家的理解和一如既往的支持！&lt;/p&gt;&lt;p&gt;《部落衝突:皇室戰爭》遊戲團隊&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/ray5CzNypZv9AZ4MGoSnH"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/__faI48NPbqjLU8i2SFKxkQoIkHSsr-WAy-u1kz-r0M/1a5eec8552d281817966017474c5c91d/en_20180530_endofsupport_hero.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-10-01T13:06:37+00:00</published>
   </entry>
 </feed>

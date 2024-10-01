@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Oct 2024 12:56:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 13:38:44 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -477,6 +477,17 @@ TVロワイヤル感想投稿キャンペーン
       <guid isPermaLink="false">6BbxcVj3OxgSj06S2w8MLG</guid>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4F6VF8Q3Dclsm7bbUcKs7G/99d38ff1755916ad7c0ed3e18bfa278d/electrodragonevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Sat, 28 Sep 2024 15:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>旧デバイスのサポート終了</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ja/news/ray5CzNypZv9AZ4MGoSnH</link>
+      <description>&lt;h1&gt;サポート終了：iOS 12、iOS 13、Android 5、Android 6&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;10月2日&lt;/b&gt;のアップデートをもって、iOS 12以下およびAndroid 6.0以下のサポートを終了します。旧デバイスのパフォーマンスの問題と技術的制限に基づく決定となります。これにより、該当するOS搭載のデバイスをご利用の方は、OSを新しいバージョンにアップデートしない限り、_クラッシュ・ロワイヤル_をプレイできなくなります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;iOS&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;：iOS 12と13のサポートが終了すると、iPhone 5s、iPhone 6、iPhone 6 Plusなどのデバイスは、サポート対象外となります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Android&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;: Android 5.0（Lollipop）およびAndroid 6.0（Marshmallow）の搭載デバイスは、サポート対象外となります。&lt;/p&gt;&lt;p&gt;&lt;b&gt;必要な対応&lt;/b&gt;&lt;/p&gt;&lt;p&gt;上記のOSバージョンを搭載したデバイスをご利用の場合、新しいバージョンにアップデートされることをお勧めいたします。&lt;/p&gt;&lt;p&gt;iOSバージョンのアップデート方法は&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.apple.com%2Fja-jp%2F118575')"&gt;Apple サポートのウェブサイト&lt;/a&gt;で、Androidのアップデート方法は&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.google.com%2Fandroid%2Fanswer%2F7680439%3Fhl%3Dja')"&gt;Googleサポート&lt;/a&gt;のウェブサイトでご確認いただけます。&lt;/p&gt;&lt;p&gt;セーブデータを新しいデバイスに移行する方法、またはアカウントをSupercell IDに接続する方法につきましては、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.supercell.com%2Fclash-royale%2Fja%2Findex.html')"&gt;よくあるご質問&lt;/a&gt;をご確認ください。&lt;/p&gt;&lt;p&gt;皆さまのご理解と日頃のご愛顧に感謝いたします！
+_クラッシュ・ロワイヤル_開発チーム&lt;/p&gt;</description>
+      <guid isPermaLink="false">ray5CzNypZv9AZ4MGoSnH</guid>
+      <category>ニュース</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/__faI48NPbqjLU8i2SFKxkQoIkHSsr-WAy-u1kz-r0M/1a5eec8552d281817966017474c5c91d/en_20180530_endofsupport_hero.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Oct 2024 13:06:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

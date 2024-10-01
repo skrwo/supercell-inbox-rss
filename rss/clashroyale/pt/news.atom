@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-01T12:56:56.288812+00:00</updated>
+  <updated>2024-10-01T13:38:46.068140+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -329,5 +329,17 @@ OJ&lt;/p&gt;
     <link href="https://youtube.com/shorts/N7V2LG7Yfyc?feature=share"/>
     <category term="Destaques"/>
     <published>2024-09-30T15:12:19+00:00</published>
+  </entry>
+  <entry>
+    <id>ray5CzNypZv9AZ4MGoSnH</id>
+    <title>Fim do suporte a dispositivos antigos</title>
+    <updated>2024-10-01T13:06:53.222000+00:00</updated>
+    <content>&lt;h1&gt;Fim do suporte a iOS 12, iOS 13, Android 5 e Android 6&lt;/h1&gt;
+&lt;p&gt;A partir da atualização de &lt;b&gt;2 de outubro&lt;/b&gt;, não haverá mais suporte para sistemas operacionais anteriores ao iOS 12 e Android 6.0. Essa mudança é necessária devido a limitações técnicas e problemas de desempenho encontrados em dispositivos antigos. Se você usa alguma das versões mencionadas acima, não conseguirá jogar &lt;i&gt;Clash Royale&lt;/i&gt;, a menos que atualize o seu sistema operacional.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;iOS&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fim do suporte a dispositivos com iOS 12 e 13, como iPhone 5s, iPhone 6 e iPhone 6 Plus.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Android&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fim do suporte a dispositivos com Android 5.0 (Lollipop) e Android 6.0 (Marshmallow).&lt;/p&gt;&lt;p&gt;&lt;b&gt;O que você precisa saber&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Se o seu dispositivo usa alguma das versões mencionadas e for possível atualizá-lo, recomendamos que você atualize o seu sistema operacional para uma versão mais recente.&lt;/p&gt;&lt;p&gt;Confira o &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.apple.com%2Fpt-br%2F118575')"&gt;site de ajuda da Apple&lt;/a&gt; ou o &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.google.com%2Fandroid%2Fanswer%2F7680439%3Fhl%3Dpt-br')"&gt;site de ajuda do Google&lt;/a&gt; para obter mais informações sobre como atualizar o sistema operacional do seu dispositivo.&lt;/p&gt;&lt;p&gt;Confira nossas &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.supercell.com%2Fclash-royale%2Fpt%2Findex.html')"&gt;perguntas frequentes&lt;/a&gt; para saber como transferir seu jogo para um novo dispositivo ou vincular sua conta a um Supercell ID.&lt;/p&gt;&lt;p&gt;Agradecemos pela compreensão!
+— Equipe do &lt;i&gt;Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/ray5CzNypZv9AZ4MGoSnH"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/__faI48NPbqjLU8i2SFKxkQoIkHSsr-WAy-u1kz-r0M/1a5eec8552d281817966017474c5c91d/en_20180530_endofsupport_hero.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notícias"/>
+    <published>2024-10-01T13:06:37+00:00</published>
   </entry>
 </feed>
