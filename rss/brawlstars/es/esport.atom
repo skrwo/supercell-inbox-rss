@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-10-01T09:35:11.468049+00:00</updated>
+  <updated>2024-10-01T10:40:05.971922+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -74,5 +74,32 @@
     <link href="https://x.com/BrawlDuels/status/1833581438652027391"/>
     <category term="Esports"/>
     <published>2024-09-10T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>FZHFBkckVhAcF0egkiZmO</id>
+    <title>¡Felicitaciones Reply Totem! </title>
+    <updated>2024-10-01T09:50:26.652000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ROLKTd7WeuhKaHJvkPluw/23dda07da8e380383d97f42429b7aec9/ES_BSC_September_Spectacle_Champions_EMEA.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://twitter.com/Brawl_esports/status/1840053596735582336"/>
+    <category term="Esports"/>
+    <published>2024-09-30T19:51:33+00:00</published>
+  </entry>
+  <entry>
+    <id>5V7X1VWUs33dHWNipVhCtJ</id>
+    <title>¡Felicitaciones Level Esports!</title>
+    <updated>2024-10-01T09:51:37.852000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5Gpg1q0S4wGGjRJokLHkD5/26a22f6421dab44b47d5d9205a4bbc54/ES_BSC_September_Spectacle_Champions_South_America.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://compose.contentful.com/spaces/xdjcscmv3zo3/page/5V7X1VWUs33dHWNipVhCtJ"/>
+    <category term="Esports"/>
+    <published>2024-09-30T19:52:29+00:00</published>
+  </entry>
+  <entry>
+    <id>74xMsaGXJkoV6mx6npL1YU</id>
+    <title>¡Felicitaciones Elevate! </title>
+    <updated>2024-10-01T09:49:03.579000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1KJ0KmZPXmarU0MvP6xncG/220b61830228efdc3156ec8b7a6585cf/ES_BSC_September_Spectacle_Champions_North_America.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://twitter.com/Brawl_esports/status/1840543790412779950"/>
+    <category term="Esports"/>
+    <published>2024-09-30T19:53:43+00:00</published>
   </entry>
 </feed>
