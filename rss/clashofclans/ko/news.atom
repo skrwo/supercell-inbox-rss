@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-10-01T07:30:53.798197+00:00</updated>
+  <updated>2024-10-01T08:40:26.187480+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -276,5 +276,21 @@
     <link href="clashofclans-inbox://action=voucher&amp;code=53a84a01-ac52-4502-a7a0-0a0b70a7cd93"/>
     <category term="뉴스"/>
     <published>2024-09-19T08:02:48+00:00</published>
+  </entry>
+  <entry>
+    <id>1iYDyqIj8X7Zdn6UFMXXQA</id>
+    <title>돌아온 클래시 할로윈!</title>
+    <updated>2024-10-01T08:00:45.817000+00:00</updated>
+    <content>&lt;h1&gt;광란의 매시업 시즌을 맞아 잠들어 있던 무시무시한 무언가가 깨어났습니다..!&lt;/h1&gt;
+&lt;p&gt;그리고 대장을 기다리고 있죠… 아래에서 확인해 보세요. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;매시업 시즌&lt;/b&gt;이 돌아왔습니다! &lt;b&gt;10월 01일부터 31일까지&lt;/b&gt; 진행되는 이번 시즌에서는 세 영웅의 스킨을 만나보실 수 있습니다. 아처 퀸 (골드 패스에서 획득 가능), 바바리안 킹, 그리고 그랜드 워든이 그 주인공이죠. 아래에서 신규 스킨을 미리 확인해 보세요!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;클랜전 리그는 &lt;/b&gt;이전과 동일하게&lt;b&gt; 10월 01일부터 11일까지 &lt;/b&gt;진행됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10월 01일부터 09일까지&lt;/b&gt; &lt;b&gt;“어둠 속의 파멸!” 시즌 도전&lt;/b&gt;이 시작됩니다. 다크 미니언 영웅과 함께 싸우세요!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;보물 사냥 이벤트&lt;/b&gt;가 &lt;b&gt;이번 달에 한 번 더!&lt;/b&gt; 돌아온다는 소문은 들으셨나요?&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;10월 11일부터 31일까지&lt;/b&gt; 클래시 할로윈 메달 이벤트 &lt;b&gt;“매시업 대소동”&lt;/b&gt;이 진행됩니다! 견습 장인이 여러분의 도움을 기다리고 있습니다. 또한 두 번째 시즌 도전인 “&lt;b&gt;고삐 풀린 강아지&lt;/b&gt;”에서 라벌과 함께 하늘을 날아보세요!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4YkM6h68AIWtzISKnS0Rnk/dc388e2950a20841f0ffa6fb347cd8df/ArcherQueen_Clashoween_500x500.png?w=500&amp;h=500&amp;f=center&amp;fit=fill"&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5zTBHyNdhQOq4mzjj7OmFA/e487f2b80bed9eacd18945ecc9bc5c91/BarbarianKing_Clashoween_500x500.png?w=500&amp;h=500&amp;f=center&amp;fit=fill"&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6p4kWjiV350qYgdPMhZe2q/fd1660cd181b7750f72b9fbdbb85076d/GrandWarden_Clashoween_500x500.png?w=500&amp;h=500&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;시즌 도전 과제 관련 테스트가 진행됩니다!&lt;/h1&gt;
+&lt;p&gt;10월 1일부터, 골드 패스의 시즌 도전 과제 관련 테스트를 진행할 예정입니다.&lt;/p&gt;&lt;p&gt;이번 테스트는 골드 패스의 시즌 도전 과제 완료에 동기 부여가 될 수 있는 요소를 파악하는 것이 목적으로, 마을회관 7레벨 이상의 모든 플레이어는 3개 그룹에 무작위로 배정되고, 각 그룹에게는 아래와 같이 다른 방식의 시즌 도전 과제가 주어지게 됩니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;첫 번째 그룹은 이전 시즌과 동일하게 진행됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;두 번째 그룹은 골드 패스를 완료하는 데 필요한 점수가 2,600점에서 2,000점으로 줄어듭니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;세 번째 그룹은 매주 추가 과제가 주어지며, 다양한 활동을 통해 더 많은 점수를 얻을 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;골드 패스 및 시즌 도전 과제를 개선하여 게임에서 더 많은 즐거움을 드릴 수 있도록 노력하겠습니다.&lt;/p&gt;&lt;p&gt;건투를 빕니다. 대장!&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/1iYDyqIj8X7Zdn6UFMXXQA"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/S9rTaZkEU1jfxeo6EbYm6/ca80c4d19ceabbdf92566a5cc79889b7/CLASHOWEEN_SPLASH_CLEAN_CHARA_AND_BG_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-10-01T08:00:04+00:00</published>
   </entry>
 </feed>

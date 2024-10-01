@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-10-01T07:30:55.085879+00:00</updated>
+  <updated>2024-10-01T08:40:24.490445+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -182,5 +182,21 @@
     <link href="clashofclans-inbox://action=voucher&amp;code=53a84a01-ac52-4502-a7a0-0a0b70a7cd93"/>
     <category term="news"/>
     <published>2024-09-19T08:02:48+00:00</published>
+  </entry>
+  <entry>
+    <id>1iYDyqIj8X7Zdn6UFMXXQA</id>
+    <title> Clash-o-ween ist zurück!</title>
+    <updated>2024-10-01T08:00:45.817000+00:00</updated>
+    <content>&lt;h1&gt;In dieser Mischmaschmanie-Saison ist etwas Gruseliges erwacht!&lt;/h1&gt;
+&lt;p&gt;Folgendes erwartet dich, Häuptling:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Die &lt;b&gt;Mischmaschmanie-Saison&lt;/b&gt; läuft vom &lt;b&gt;1. bis zum 31. Oktober!&lt;/b&gt; Ein gruseliges Trio, bestehend aus der Bogenschützen-Königin (im Goldpass verfügbar), dem Barbarenkönig und dem Großen Wächter, ist mit von der Partie. Unten kannst du einen Blick auf diese neuen Skins werfen!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wie vorgesehen wird die &lt;b&gt;Clankriegsliga&lt;/b&gt; &lt;b&gt;vom 1. bis zum 11. Oktober&lt;/b&gt; aktiv sein.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Versuche dich &lt;b&gt;vom 1. bis zum 9. Oktober&lt;/b&gt; an der &lt;b&gt;„Unheil und Verderben!“-Herausforderung&lt;/b&gt; und entfessle im Kampf die Dunklen Lakaienhelden!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gerüchten zufolge steht diesen Monat auch die &lt;b&gt;Rückkehr des Schatzsuche-Ereignisses&lt;/b&gt; bevor!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;11.–31. Oktober:&lt;/b&gt; Hilf dem Bauarbeiterlehrling mit der Mischmaschmanie! Ein manisches Medaillenereignis zu Clash-o-ween! Erhebe dich in der &lt;b&gt;„Auf den Hund gekommen!“-Herausforderung&lt;/b&gt; mit Ballonhunden in die Lüfte!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Und &lt;b&gt;vom 22. bis zum 28. Oktober&lt;/b&gt; kehren die &lt;b&gt;Clanspiele&lt;/b&gt; zurück!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4YkM6h68AIWtzISKnS0Rnk/dc388e2950a20841f0ffa6fb347cd8df/ArcherQueen_Clashoween_500x500.png?w=500&amp;h=500&amp;f=center&amp;fit=fill"&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5zTBHyNdhQOq4mzjj7OmFA/e487f2b80bed9eacd18945ecc9bc5c91/BarbarianKing_Clashoween_500x500.png?w=500&amp;h=500&amp;f=center&amp;fit=fill"&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6p4kWjiV350qYgdPMhZe2q/fd1660cd181b7750f72b9fbdbb85076d/GrandWarden_Clashoween_500x500.png?w=500&amp;h=500&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;Bevorstehender Test bezüglich saisonaler Herausforderungen&lt;/h1&gt;
+&lt;p&gt;Ab dem 1. Oktober werden wir einen Test durchführen, um den Abschluss der saisonalen Herausforderungen für einige Spieler zu erleichtern. Der Grund für diesen Test ist, zu beobachten, welches Tempo die Spieler mehr motiviert, die saisonalen Herausforderungen und den Goldpass in seiner Gesamtheit abzuschließen, wenn überhaupt. Dieser Test wird für Spieler ab RH7 durchgeführt und umfasst drei verschiedene mögliche Versionen der saisonalen Herausforderungen, die nach dem Zufallsprinzip an die Spieler verteilt werden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Eine Gruppe von Spielern erhält den gleichen Satz von Herausforderungen und das gleiche Tempo wie alle früheren Sätze aus früheren Saisons.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Eine andere Gruppe von Spielern erhält eine Reihe von Herausforderungen, die weniger Punkte erfordern, um insgesamt 2.000 statt 2.600 Punkte zu erreichen.)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Und schließlich wird die dritte Gruppe von Spielern jede Woche zusätzliche Aufgaben erhalten, die es ihnen ermöglichen, insgesamt mehr Punkte aus verschiedenen Aktivitäten zu erzielen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wir hoffen, dass diese Variationen der Herausforderungen positive Ergebnisse für die gesamte Community bringen und zu weiteren Verbesserungen führen werden, damit mehr Spieler jeden Monat mehr saisonale Herausforderungen abschließen.&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/de/news/1iYDyqIj8X7Zdn6UFMXXQA"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/S9rTaZkEU1jfxeo6EbYm6/ca80c4d19ceabbdf92566a5cc79889b7/CLASHOWEEN_SPLASH_CLEAN_CHARA_AND_BG_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="news"/>
+    <published>2024-10-01T08:00:04+00:00</published>
   </entry>
 </feed>

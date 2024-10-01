@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-eventEntries-es</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-10-01T07:30:56.735240+00:00</updated>
+  <updated>2024-10-01T08:40:26.956793+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -13,16 +13,6 @@
     <content>[EMPTY]</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/mNsuB77vbwDSnE0tgfK2a3kfb5WluCODhSyz9r3QyBQ/0e50746c4b9e53f0dc7a7a3e70e4c7de/recruitment-group-ES.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <published>2023-09-28T13:26:37+00:00</published>
-  </entry>
-  <entry>
-    <id>7dcRkF5511e0jIIBoD5iBq</id>
-    <title>🗞️</title>
-    <updated>2024-09-01T08:57:13.622000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/ak6acH-vhvc"&gt;👉Ver 👈&lt;/a&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1mjjc3VoFIqXXJUYVPEEB4/2d26609a4876c7b17330eec6a53d04b5/CoC_SC017_TTRPG_EN_860x1320_Still_Inbox_v03_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/ak6acH-vhvc"/>
-    <published>2024-09-01T08:00:03+00:00</published>
   </entry>
   <entry>
     <id>1VGw5lxE0K5R5U5IzNTN8A</id>
@@ -53,5 +43,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/NegCkrLTOBKpiJ8LyAM3m/348ab5478cde6f3eaa43dcc41eec1bd5/builder-carousel.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/h4tLJfOL6FA"/>
     <published>2024-09-25T14:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3BXOLvHxHOfNBbmwcgPZwn</id>
+    <title>🗞️</title>
+    <updated>2024-10-01T08:31:09.064000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/4jdzci4dsK0"&gt;👉¡Ver ahora!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2S3g7IJC81WJ5DUUE5MmEx/d4b0bd58f1f9c190addec59a4faec84f/ES_CoC_SC019_ClashOWeen_EN_860x1320_Still_Inbox_v01_NJ_eyestorm__1_.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/4jdzci4dsK0"/>
+    <published>2024-10-01T08:00:05+00:00</published>
   </entry>
 </feed>

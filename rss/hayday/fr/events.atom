@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-eventEntries-fr</id>
   <title>Hayday - Event</title>
-  <updated>2024-10-01T07:31:00.077474+00:00</updated>
+  <updated>2024-10-01T08:40:28.472170+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -15,5 +15,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/cRcj4pkDW6Rh5ThtDKjVYxZNHJcNMJ9ukUsj4Qvsr1w/cc11b4a0a60932be2be4732bfa32eef7/1379298962_1625649229.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="hayday://OpenEventBoard"/>
     <published>2023-09-12T09:48:04+00:00</published>
+  </entry>
+  <entry>
+    <id>4qbFP9tUiFmsNjl3F8nP0B</id>
+    <title>Nouvelle mise à jour en approche !</title>
+    <updated>2024-10-01T08:20:44.228000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/Ay4hCFxeCKM"&gt;👉Regarder 👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2LgSQaYGv7ysY8WflrRXg6/784ae9f52e592200ee9e7779c51b6861/HayDayhalloweenl_Inbox_Carousel_860x1320.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Ay4hCFxeCKM"/>
+    <published>2024-09-30T09:42:19+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>clashofclans-eventEntries-tr</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-10-01T07:30:55.270110+00:00</updated>
+  <updated>2024-10-01T08:40:24.744475+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -15,5 +15,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3HGlnvEwpqcCmCaSChoPRU/611504bfdd5d14f9841b74ce66062f33/Carousel-Thumb-ClashOn.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/UwYW9vuJ1Ho"/>
     <published>2024-09-09T08:31:51+00:00</published>
+  </entry>
+  <entry>
+    <id>3BXOLvHxHOfNBbmwcgPZwn</id>
+    <title>🗞️</title>
+    <updated>2024-10-01T08:31:09.064000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/4jdzci4dsK0"&gt;👉Şimdi İzle!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5OxXNcttRVDOLZASoeZoAm/37d83a79b1e1138eb7374984a2622a82/carousel-tr-clasoween.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/4jdzci4dsK0"/>
+    <published>2024-10-01T08:00:05+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-eventEntries-zh</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-10-01T07:30:55.582057+00:00</updated>
+  <updated>2024-10-01T08:40:26.740884+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -37,16 +37,6 @@
     <published>2023-12-16T01:03:53+00:00</published>
   </entry>
   <entry>
-    <id>7dcRkF5511e0jIIBoD5iBq</id>
-    <title>🗞️</title>
-    <updated>2024-09-01T08:57:13.622000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/ak6acH-vhvc"&gt;👉立即觀看!👈&lt;/a&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7uBK7JiqDgiLqBwAX0aWHi/48e3d6796ca960b064e10cf4ab377881/tw_20240830_TTRPG_CT_860x1320.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/ak6acH-vhvc"/>
-    <published>2024-09-01T08:00:03+00:00</published>
-  </entry>
-  <entry>
     <id>1VGw5lxE0K5R5U5IzNTN8A</id>
     <title>帶你看9月更新！</title>
     <updated>2024-09-09T12:27:13.748000+00:00</updated>
@@ -65,5 +55,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3HiUf9Kb2hNopKVbqgKc3T/e8d2aca69256c35e9dbdf82cf308917b/tw_20240911_Carousel_-_Legendary_BTS.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/X2GhpQ-3JBA"/>
     <published>2024-09-10T08:04:34+00:00</published>
+  </entry>
+  <entry>
+    <id>3BXOLvHxHOfNBbmwcgPZwn</id>
+    <title>🗞️</title>
+    <updated>2024-10-01T08:31:09.064000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/4jdzci4dsK0"&gt;👉立即觀看！👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/47IHLnXmHqMjgfz4KQBw7g/197ed399251e23e069f6010d2640544e/CoC_SC019_ClashOWeen_CT_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/4jdzci4dsK0"/>
+    <published>2024-10-01T08:00:05+00:00</published>
   </entry>
 </feed>
