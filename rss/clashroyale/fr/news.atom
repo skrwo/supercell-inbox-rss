@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-01T14:37:16.900898+00:00</updated>
+  <updated>2024-10-01T15:35:13.803256+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -341,5 +341,15 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/__faI48NPbqjLU8i2SFKxkQoIkHSsr-WAy-u1kz-r0M/1a5eec8552d281817966017474c5c91d/en_20180530_endofsupport_hero.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Actualités"/>
     <published>2024-10-01T13:06:37+00:00</published>
+  </entry>
+  <entry>
+    <id>1FFmpxCqumBWD6cotIu9fn</id>
+    <title>TV Royale d'octobre !</title>
+    <updated>2024-10-01T15:00:26.526000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/1FFmpxCqumBWD6cotIu9fn"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7nII3UL88SWBPQUUuf5xNB/e43d08edca89857ccd4e0723ab275edc/TV_Royale_October_Thumb_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/-k-VL-ampa8"/>
+    <category term="Temps forts"/>
+    <published>2024-10-01T14:47:11+00:00</published>
   </entry>
 </feed>
