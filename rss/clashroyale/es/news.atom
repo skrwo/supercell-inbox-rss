@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-01T11:29:55.950949+00:00</updated>
+  <updated>2024-10-01T12:56:59.211159+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -341,15 +341,5 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/EZcIktGauRtFGEWzxcw1m/e176ccc1bd66b01e33949e1fdae0cf9a/SUP3995_pass-royale-update_Inbox.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Noticias"/>
     <published>2024-09-25T14:55:23+00:00</published>
-  </entry>
-  <entry>
-    <id>2wPeXUmvvo0DVG6XzkRVOJ</id>
-    <title>¡Goblinstein!</title>
-    <updated>2024-10-01T11:20:47.730000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/es/news/2wPeXUmvvo0DVG6XzkRVOJ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4eVAugqCIFbLhQl0lJFtsV/c58d09dc1dd9b76a5d978862665ff844/goblinsteinteaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/N7V2LG7Yfyc?feature=share"/>
-    <category term="Lo más destacado"/>
-    <published>2024-09-30T15:12:19+00:00</published>
   </entry>
 </feed>
