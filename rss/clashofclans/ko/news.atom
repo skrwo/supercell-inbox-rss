@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-10-02T04:39:10.232929+00:00</updated>
+  <updated>2024-10-02T05:36:51.282975+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -292,5 +292,20 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/S9rTaZkEU1jfxeo6EbYm6/ca80c4d19ceabbdf92566a5cc79889b7/CLASHOWEEN_SPLASH_CLEAN_CHARA_AND_BG_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-10-01T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>178guTA1qsWC4Z5RzlEWN3</id>
+    <title>드루이드 밸런스 조정 예정</title>
+    <updated>2024-10-02T05:06:29.762000+00:00</updated>
+    <content>&lt;h1&gt;드루이드 밸런스 조정&lt;/h1&gt;
+&lt;p&gt;안녕하세요, 대장! &lt;/p&gt;&lt;p&gt;곧 진행될 드루이드의 밸런스 조정 관련 내용을 미리 알려드리고자 합니다. 이 변경 사항은 다음 게임 점검을 통해 최대한 빠르게 적용할 예정입니다.&lt;/p&gt;&lt;p&gt;이번 주부터 클랜전 리그가 시작되기 때문에 드루이드에 관한 밸런스 조정이 전쟁의 결과에 영향을 끼치지 않도록 클랜전 리그가 시작되기 전에 변경 사항을 적용할 것입니다. 또한, 여러분이 이 점을 참고하여 전쟁을 준비할 수 있도록 미리 공유 드립니다. 자세한 내용은 아래에서 확인해 보세요!&lt;/p&gt;
+&lt;h1&gt;밸런스 변경 목록&lt;/h1&gt;
+&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;유닛&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;레벨&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;초당 치유력 (변경 전)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;초당 치유력 (변경 후)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;진화 지속 시간 (변경 전)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;진화 지속 시간 (변경 후)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;HP (변경 전)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;HP (변경 후)&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;드루이드&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;110&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;65&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;25&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;드루이드&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;120&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;70&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;25&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;드루이드&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;130&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;75&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;25&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;드루이드&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;140&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;80&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;25&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;곰&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;3800&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1900&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;곰&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4000&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2000&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;곰&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4200&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2100&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;곰&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4400&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2200&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;왜 이러한 변경 사항을 적용하나요?&lt;/h1&gt;
+&lt;p&gt;가장 큰 이유는 여러분이 드루이드를 활용하는 방식에 있어서 우리의 예상을 뛰어넘었기 때문입니다. 드루이드를 대량으로 배치하는 공격이 다른 전략들보다 훨씬 빠르고 쉽게 뛰어난 성과를 내고 있었죠. 여러분의 피드백과 함께 수집한 전투 데이터가 일치하여 결국 밸런스 조정이 필요하다는 결정을 내리기에 이르렀습니다. 이의 가장 주요 요인인 드루이드의 능력을 조정하되 여전히 드루이드 유용히 활용될 수 있도록 유지할 것입니다.&lt;/p&gt;&lt;p&gt;앞으로도 게임 데이터를 끊임없이 모니터링 하며 최적의 전투 밸런스를 제공하기 위해 노력할 것입니다. 그리고 언제나 여러분의 피드백을 기다리고 있다는 사실을 잊지 마세요!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;그럼, 건투를 빕니다.
+&lt;/p&gt;&lt;p&gt;- 클래시 오브 클랜 팀 &lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/178guTA1qsWC4Z5RzlEWN3"/>
+    <category term="뉴스"/>
+    <published>2024-10-01T14:25:58+00:00</published>
   </entry>
 </feed>
