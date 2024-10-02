@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Oct 2024 06:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 07:30:11 +0000</lastBuildDate>
     <item>
       <title>ゲームアカウントの保護と移行</title>
       <link>https://clashofclans.inbox.supercell.com/#/ja/news/oRoSezoeKT6EgN7TFDmxTzhUa-L1D8tOw1c_dN_BVNI</link>
@@ -411,23 +411,6 @@
       <category>ニュース</category>
       <enclosure url="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/S9rTaZkEU1jfxeo6EbYm6/ca80c4d19ceabbdf92566a5cc79889b7/CLASHOWEEN_SPLASH_CLEAN_CHARA_AND_BG_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Oct 2024 08:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドルイドのバランス調整を行います</title>
-      <link>https://clashofclans.inbox.supercell.com/#/ja/news/178guTA1qsWC4Z5RzlEWN3</link>
-      <description>&lt;h1&gt;ドルイドのバランス調整について&lt;/h1&gt;
-&lt;p&gt;こんにちは、チーフ！&lt;/p&gt;&lt;p&gt;ドルイドに対してバランス調整を行う予定があることをお知らせします。
-これらの変更は、今後のゲームメンテナンスでできるだけ早く実施することを目指しています。&lt;/p&gt;&lt;p&gt;クラン対戦が今週から始まることを踏まえ、可能な限りクラン対戦が始まる前、もしくは始まってすぐにこの作業を完了させたいと考えています。&lt;/p&gt;&lt;p&gt;これにより、クラン対戦中のクランのパフォーマンスに影響を与えないようにしたいと思っています。
-また、この変更を実施する予定があることを事前にお知らせし、準備のための時間を確保できるようにしています。&lt;/p&gt;&lt;p&gt;下記に、ドルイドに関する変更予定リストを記載しています！&lt;/p&gt;
-&lt;h1&gt;バランス変更について&lt;/h1&gt;
-&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;ユニット&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;ユニット&lt;/p&gt;&lt;p&gt;レベル&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;回復（毎秒）&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;【変更後】回復（毎秒）&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;変身までの時間&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;【変更後】変身までの時間&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;HP&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;【変更後】HP&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;ドルイド&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;110&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;65&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;25&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;ドルイド&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;120&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;70&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;25&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;ドルイド&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;130&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;75&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;25&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;ドルイド&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;140&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;80&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;30&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;25&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;クマ&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;3800&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1900&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;クマ&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4000&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2000&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;クマ&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;3&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4200&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2100&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;クマ&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;-&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4400&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;2200&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;なぜこの変更を実施するのか？&lt;/h1&gt;
-&lt;p&gt;プレイヤーがドルイドを使用する際に、トレンドが見られることに気付きました。
-ドルイドを大量に使用した攻撃が非常に強力で、他の戦略を凌駕しているのです。&lt;/p&gt;&lt;p&gt;このことはプレイヤーからのフィードバックによって私たちに報告され、バトルバランスのデータでも確認されました。
-ドルイドがこれらの強力な戦術を可能にしていることが主な要因であり、ドルイドのバランスを維持しつつ、依然として有効なユニットであるよう調整を行います。  &lt;/p&gt;&lt;p&gt;今後もゲームデータを監視し、必要に応じてさらなるバランス調整を検討する際に、皆様のフィードバックをお待ちしております。&lt;/p&gt;&lt;p&gt;- クラッシュ・オブ・クランチーム&lt;/p&gt;</description>
-      <guid isPermaLink="false">178guTA1qsWC4Z5RzlEWN3</guid>
-      <category>ニュース</category>
-      <pubDate>Tue, 01 Oct 2024 14:25:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-02T06:41:30.328209+00:00</updated>
+  <updated>2024-10-02T07:29:59.596601+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -311,19 +311,9 @@ OJ&lt;/p&gt;
     <published>2024-09-25T14:55:23+00:00</published>
   </entry>
   <entry>
-    <id>6BbxcVj3OxgSj06S2w8MLG</id>
-    <title>Evolução do Dragão Elétrico ⚡</title>
-    <updated>2024-10-01T10:15:56.440000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/6BbxcVj3OxgSj06S2w8MLG"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4F6VF8Q3Dclsm7bbUcKs7G/99d38ff1755916ad7c0ed3e18bfa278d/electrodragonevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/AJlYj-nNoPs"/>
-    <category term="Destaques"/>
-    <published>2024-09-28T15:30:03+00:00</published>
-  </entry>
-  <entry>
     <id>2wPeXUmvvo0DVG6XzkRVOJ</id>
     <title>Goblinstein!</title>
-    <updated>2024-10-02T02:50:30.222000+00:00</updated>
+    <updated>2024-10-02T06:48:51.114000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/pt/news/2wPeXUmvvo0DVG6XzkRVOJ"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4eVAugqCIFbLhQl0lJFtsV/c58d09dc1dd9b76a5d978862665ff844/goblinsteinteaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/N7V2LG7Yfyc?feature=share"/>
