@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-02T10:38:16.418152+00:00</updated>
+  <updated>2024-10-02T11:28:59.549731+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -371,40 +371,5 @@ OJ&lt;/p&gt;
     <link href="https://youtu.be/-k-VL-ampa8"/>
     <category term="Лучшие моменты"/>
     <published>2024-10-01T14:47:11+00:00</published>
-  </entry>
-  <entry>
-    <id>51t7tXh4rDoqz0FhT5JXHh</id>
-    <title>ОКТЯБРЬСКОЕ ОБНОВЛЕНИЕ!</title>
-    <updated>2024-10-02T10:04:18.814000+00:00</updated>
-    <content>&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Новый Pass Royale&lt;/b&gt; с улучшенными наградами как в бесплатной, так и в платной части.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Теперь в течение сезона можно получить &lt;b&gt;в 6 раз больше призов-сюрпризов.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Новые ежедневные задания&lt;/b&gt; с функцией серии.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Две ячейки эволюции&lt;/b&gt;, которые становятся доступны на 30-м уровне короля и 11-м уровне башни короля.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Новый чемпион&lt;/b&gt; — Гоблинштейн.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Эволюция электродракона!&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4NC1T5ngjPQ4esXYFch9dX/c5fefa3081a9b4f9619044adebd9c216/pass_royale_new.gif?w=300&amp;h=528&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;НОВЫЙ PASS ROYALE!&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Новый пользовательский интерфейс.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Призы-сюрпризы&lt;/b&gt; и в бесплатной, и в платной части.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Более ценный&lt;/b&gt; бесплатный пропуск:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;фрагмент-джокер&lt;/b&gt; в бесплатном пропуске;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;анимированное знамя&lt;/b&gt; в бесплатном пропуске.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Цикл призов-сюрпризов:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;продолжайте зарабатывать призы-сюрпризы после того, как пройдете бесплатный или платный пропуск.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Золотого пропуска больше нет. Почему?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;мы улучшили бесплатный пропуск;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;мы хотели сделать Pass Royale понятнее и удобнее для всех.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7EoFfgp79w6Q6MSIjU1qvY/177ee2d637459400db69c6508127329a/new_lucky_drops.gif?w=300&amp;h=528&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt; Переработка призов-сюрпризов!&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Пять видов редкости:&lt;/b&gt; от 1 ⭐ до 5 ⭐⭐⭐⭐⭐ звезд.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Зарабатывайте больше призов-сюрпризов каждый день&lt;/b&gt; благодаря ежедневным заданиям и Pass Royale.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Новая анимация.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Начальная редкость призов-сюрпризов может быть любой&lt;/b&gt; — в Pass Royale гарантированно будут двух- или трехзвездные призы-сюрпризы.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Стало доступно больше предметов&lt;/b&gt; — эмодзи, знамена, случайные карты и фрагменты.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Уже сгораете от нетерпения? С выходом обновления мы подарим всем &lt;b&gt;30 призов-сюрпризов (по 6 в день со 2 по 6 октября)!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Примечание: несмотря на то, что ценность отдельно взятого приза-сюрприза снизилась, в целом вы сможете зарабатывать в 6 раз больше призов-сюрпризов в каждом сезоне, даже играя бесплатно. Благодаря этому изменению наград станет больше!&lt;/p&gt;&lt;hr/&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1EYSpevOnR8vRpEcmvaJjp/6894b34caf464131f4a9cbb5bf281343/Daily_Tasks_New.png?w=686&amp;h=944&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;Улучшенные ежедневные задания&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Пять заданий.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;До &lt;b&gt;четырех&lt;/b&gt; призов-сюрпризов каждый день.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Больше корон в ежедневных заданиях.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Серия&lt;/b&gt; — продолжайте выполнять все ежедневные задания, чтобы заработать призы-сюрпризы с дополнительными касаниями!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Примечание: новые функции будут тестироваться в течение первых четырех недель. Во время тестового периода доступ к пяти заданиям и функции серии будет только у некоторых игроков.&lt;/p&gt;&lt;hr/&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ujUuOFAnOly9xzBAARjZY/f578e86814380a3cadf37de1ceb3d4d8/two_slots.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;Две ячейки эволюции на 11-м уровне короля&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Вторая ячейка эволюции стала более доступной! Вы можете использовать две эволюции начиная с 30-го уровня короля / 11-го уровня башни короля.&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h1&gt;Новый чемпион — Гоблинштейн&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/fKLwx1i22eMSkIUQzpWER/d6be23a89cafe31095482dd96ef1a8ca/goblinstein.gif?w=400&amp;h=450&amp;f=center"&gt;
-
-&lt;p&gt;Пока монстр медленно движется к вражеским зданиям, доктор выжидает удобный момент, чтобы активировать ловушку. Одним нажатием кнопки он устанавливает электрическую связь между собой и монстром, поражая током ближайших врагов.&lt;/p&gt;&lt;hr/&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4YUaIJjsSNhWwi4Cti9Le6/1be7d308346009688387c65f578f7617/hatsoff.gif?w=200&amp;h=200&amp;f=center&amp;fit=fill"&gt;
-&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;Эволюция электродракона!&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3phJEGwI32X9vmtWec8LN9/a4908b9b423eefaf8a620876c47e4ffa/edragevo.gif?w=400&amp;h=450&amp;f=center"&gt;
-
-&lt;p&gt;Атака эволюции электродракона бесконечно переходит от одной цели к другой и может повторно ударить одну и ту же цель.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Другие изменения и исправления ошибок&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Время действия зелья усиления увеличено с 1 до 3 часов.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Добавлена возможность отправлять жалобы на название и описание клана.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Парящие воины (королевский призрак и целительница-воин) теперь получают урон от землетрясения, а также при появлении гоблинского бура и использовании способности эволюции королевского гиганта.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Урон при уничтожении больше не повреждает башни во время дополнительного подсчета.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Прекращение поддержки устройств с ОС Android 5 и 6 и iOS 12 и 13.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлена проблема, не позволявшая перетаскивать карты в пустые ячейки при использовании конструктора колоды.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлена ошибка эволюций гоблинского бура и гоблинской бочки, из-за которой индикатор эволюции выдавал их расположение.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлена ошибка, из-за которой бездна наносила урон воинам вне радиуса действия.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлена ошибка эволюции гоблинского бура, приводившая к появлению гоблинов во время нахождения под землей.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлена ошибка гоблинского бура, приводившая к расталкиванию других воинов при уходе под землю.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлена ошибка эволюции боевого тарана, из-за которой он не наносил урон крупным воинам.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Различные исправления эволюции клетки с гоблином.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
-&lt;p&gt;Надеемся, что эти изменения вам понравятся! Загляните на наш &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;официальный канал в Reddit&lt;/a&gt; (информация на английском языке), чтобы узнать другие подробности!&lt;/p&gt;&lt;p&gt;До встречи на арене!&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/51t7tXh4rDoqz0FhT5JXHh"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Информация о версии"/>
-    <published>2024-10-02T07:38:12+00:00</published>
   </entry>
 </feed>
