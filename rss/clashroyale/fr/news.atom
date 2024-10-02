@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-02T07:29:57.405216+00:00</updated>
+  <updated>2024-10-02T08:39:44.169385+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -323,12 +323,22 @@ OJ&lt;/p&gt;
   <entry>
     <id>6BbxcVj3OxgSj06S2w8MLG</id>
     <title>Électro-dragon évolué ⚡</title>
-    <updated>2024-10-02T06:48:43.750000+00:00</updated>
+    <updated>2024-10-02T08:07:41.993000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/fr/news/6BbxcVj3OxgSj06S2w8MLG"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4F6VF8Q3Dclsm7bbUcKs7G/99d38ff1755916ad7c0ed3e18bfa278d/electrodragonevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/AJlYj-nNoPs"/>
     <category term="Temps forts"/>
     <published>2024-09-28T15:30:03+00:00</published>
+  </entry>
+  <entry>
+    <id>2wPeXUmvvo0DVG6XzkRVOJ</id>
+    <title>Gobelinstein !</title>
+    <updated>2024-10-02T08:20:16.499000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/2wPeXUmvvo0DVG6XzkRVOJ"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4eVAugqCIFbLhQl0lJFtsV/c58d09dc1dd9b76a5d978862665ff844/goblinsteinteaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/N7V2LG7Yfyc?feature=share"/>
+    <category term="Temps forts"/>
+    <published>2024-09-30T15:12:19+00:00</published>
   </entry>
   <entry>
     <id>ray5CzNypZv9AZ4MGoSnH</id>
@@ -345,11 +355,44 @@ OJ&lt;/p&gt;
   <entry>
     <id>1FFmpxCqumBWD6cotIu9fn</id>
     <title>TV Royale d'octobre !</title>
-    <updated>2024-10-02T04:37:59.860000+00:00</updated>
+    <updated>2024-10-02T08:19:54.776000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/fr/news/1FFmpxCqumBWD6cotIu9fn"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7nII3UL88SWBPQUUuf5xNB/e43d08edca89857ccd4e0723ab275edc/TV_Royale_October_Thumb_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/-k-VL-ampa8"/>
     <category term="Temps forts"/>
     <published>2024-10-01T14:47:11+00:00</published>
+  </entry>
+  <entry>
+    <id>51t7tXh4rDoqz0FhT5JXHh</id>
+    <title>MISE À JOUR D'OCTOBRE !</title>
+    <updated>2024-10-02T08:06:14.378000+00:00</updated>
+    <content>&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Nouveau Pass Royale&lt;/b&gt;, avec des récompenses améliorées sur la voie gratuite et la voie premium.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gagnez jusqu&amp;#39;à &lt;b&gt;6x plus de cubes mystères&lt;/b&gt; par saison !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Nouvelles tâches du jour&lt;/b&gt; avec une série à conserver.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Deux emplacements d&amp;#39;évolution&lt;/b&gt; débloqués au niveau 30 / avec une tour du Roi niveau 11.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Nouveau champion :&lt;/b&gt; Gobelinstein !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Électro-dragon évolué&lt;/b&gt; !&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4NC1T5ngjPQ4esXYFch9dX/c5fefa3081a9b4f9619044adebd9c216/pass_royale_new.gif?w=300&amp;h=528&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;NOUVEAU PASS ROYALE !&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Nouvelle interface !&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gagnez des &lt;b&gt;cubes mystères&lt;/b&gt; sur la voie gratuite et la voie premium.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La valeur du Pass gratuit a été &lt;b&gt;améliorée&lt;/b&gt; !&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ajout d&amp;#39;un &lt;b&gt;fragment d&amp;#39;évolution joker&lt;/b&gt; dans le Pass gratuit.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le Pass gratuit offre désormais une &lt;b&gt;bannière animée&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cubes mystères illimités&lt;/b&gt; !&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Récupérez des cubes mystères une fois le Pass terminé (gratuit et premium !).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Pass or supprimé. Pourquoi ?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Nous avons amélioré le Pass gratuit.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Nous voulions un Pass plus clair et plus simple pour tous.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7EoFfgp79w6Q6MSIjU1qvY/177ee2d637459400db69c6508127329a/new_lucky_drops.gif?w=300&amp;h=528&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt; Cubes mystères retravaillés !&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cinq raretés :&lt;/b&gt; ils vont de 1 étoile ⭐ à 5 étoiles ⭐⭐⭐⭐⭐&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Gagnez plus de cubes mystères chaque jour :&lt;/b&gt; ils sont disponibles dans les tâches du jour et dans le Pass Royale.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Nouvelle animation&lt;/b&gt; !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Les cubes mystères peuvent commencer à n&amp;#39;importe quelle rareté :&lt;/b&gt; trouvez des cubes mystères 2 ou 3 étoiles garantis dans le Pass.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Plus d&amp;#39;objets disponibles :&lt;/b&gt; émotes, bannières, cartes aléatoires et fragments.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vous avez hâte de les essayer ? Avec la mise à jour, nous offrons &lt;b&gt;30 cubes mystères (6 par jour entre le 2 et le 6 octobre)&lt;/b&gt; !&lt;/p&gt;&lt;p&gt;Remarque : même si la valeur individuelle des cubes mystères a diminué, les joueurs qui ne paient pas pourront en recevoir 6 fois plus par saison ! Avec ce changement, vous pouvez obtenir beaucoup plus de récompenses qu&amp;#39;avant !&lt;/p&gt;&lt;hr/&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1EYSpevOnR8vRpEcmvaJjp/6894b34caf464131f4a9cbb5bf281343/Daily_Tasks_New.png?w=686&amp;h=944&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;Tâches du jour améliorées !&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cinq tâches&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jusqu&amp;#39;à &lt;b&gt;4 cubes mystères&lt;/b&gt; par jour !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gagnez plus de couronnes avec les tâches du jour !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Série :&lt;/b&gt; terminez toutes vos tâches du jour pour gagner des cubes mystères améliorables !&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note : les nouvelles fonctionnalités seront testées pendant les quatre premières semaines. Seuls certains joueurs sélectionnés auront accès aux 5 tâches et/ou à la série pendant la période de test.&lt;/p&gt;&lt;hr/&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ujUuOFAnOly9xzBAARjZY/f578e86814380a3cadf37de1ceb3d4d8/two_slots.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Deux emplacements d&amp;#39;évolution au niveau 11 du Roi&lt;/b&gt; !&lt;/p&gt;&lt;p&gt;Le deuxième emplacement d&amp;#39;évolution devient plus accessible. Vous pouvez utiliser deux évolutions à partir du niveau 30 / niveau 11 du Roi.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h1&gt;Nouveau champion : Gobelinstein !&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/fKLwx1i22eMSkIUQzpWER/d6be23a89cafe31095482dd96ef1a8ca/goblinstein.gif?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;Le Monstre se dirige lentement vers les bâtiments ennemis pendant que le Docteur prépare le piège. Quand il appuie sur le bouton, le Docteur électrifie le lien qui le lie au Monstre, faisant rôtir les ennemis proches !&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Électro-dragon évolué !&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3phJEGwI32X9vmtWec8LN9/a4908b9b423eefaf8a620876c47e4ffa/edragevo.gif?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;L&amp;#39;attaque de l&amp;#39;électro-dragon évolué enchaîne les cibles à l&amp;#39;infini et peut toucher la même cible plusieurs fois.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Plus de changements et corrections de bugs !&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Augmentation de la durée de la potion boostante de 1 heure &amp;gt; 3 heures.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ajout d&amp;#39;une fonction Signaler pour les noms et les descriptions des clans.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les troupes qui volent (fantôme royal et guérisseuse armée) subissent désormais les dégâts du séisme, de la foreuse gobeline et de la capacité du géant royal évolué.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les dégâts mortels n&amp;#39;affectent plus les tours pendant le départage.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fin de la prise en charge pour Android 5 &amp;amp; 6 et iOS 12 &amp;amp; 13.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction d&amp;#39;un bug qui empêchait de déplacer des cartes dans un emplacement vide pendant la création des decks.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction d&amp;#39;un bug à cause duquel la foreuse gobeline évoluée et le fût à gobelins évolué échangeaient leur emplacement avec l&amp;#39;indicateur d&amp;#39;évolution.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction du sort du Néant qui touchait certains cibles en-dehors de son rayon.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction d&amp;#39;un bug avec la foreuse gobeline évoluée qui invoquait des gobelins pendant qu&amp;#39;elle était sous terre.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction de la foreuse gobeline qui repoussait parfois certaines troupes pendant qu&amp;#39;elle s&amp;#39;enterrait.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction du bélier de combat évolué qui n&amp;#39;infligeait pas de dégâts aux grosses unités.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction de plusieurs problèmes liés à la cage gobeline évoluée.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;Nous espérons que vous apprécierez ces changements ! Consultez notre &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit officiel&lt;/a&gt; pour ne rien manquer des prochaines nouveautés !&lt;/p&gt;&lt;p&gt;À bientôt dans l&amp;#39;arène !&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/51t7tXh4rDoqz0FhT5JXHh"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notes de patch"/>
+    <published>2024-10-02T07:38:12+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-02T07:29:59.596601+00:00</updated>
+  <updated>2024-10-02T08:39:45.640781+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -311,16 +311,6 @@ OJ&lt;/p&gt;
     <published>2024-09-25T14:55:23+00:00</published>
   </entry>
   <entry>
-    <id>2wPeXUmvvo0DVG6XzkRVOJ</id>
-    <title>Goblinstein!</title>
-    <updated>2024-10-02T06:48:51.114000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/2wPeXUmvvo0DVG6XzkRVOJ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4eVAugqCIFbLhQl0lJFtsV/c58d09dc1dd9b76a5d978862665ff844/goblinsteinteaser.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/N7V2LG7Yfyc?feature=share"/>
-    <category term="Destaques"/>
-    <published>2024-09-30T15:12:19+00:00</published>
-  </entry>
-  <entry>
     <id>ray5CzNypZv9AZ4MGoSnH</id>
     <title>Fim do suporte a dispositivos antigos</title>
     <updated>2024-10-01T13:06:53.222000+00:00</updated>
@@ -333,13 +323,38 @@ OJ&lt;/p&gt;
     <published>2024-10-01T13:06:37+00:00</published>
   </entry>
   <entry>
-    <id>1FFmpxCqumBWD6cotIu9fn</id>
-    <title>TV Royale de Outubro!</title>
-    <updated>2024-10-02T04:37:59.860000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/1FFmpxCqumBWD6cotIu9fn"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7nII3UL88SWBPQUUuf5xNB/e43d08edca89857ccd4e0723ab275edc/TV_Royale_October_Thumb_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/-k-VL-ampa8"/>
-    <category term="Destaques"/>
-    <published>2024-10-01T14:47:11+00:00</published>
+    <id>51t7tXh4rDoqz0FhT5JXHh</id>
+    <title>ATUALIZAÇÃO DE OUTUBRO</title>
+    <updated>2024-10-02T08:06:14.378000+00:00</updated>
+    <content>&lt;ul&gt;&lt;li&gt;&lt;p&gt;Um &lt;b&gt;novo Pass Royale&lt;/b&gt; com recompensas melhoradas nos caminhos grátis e pago&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ganhe até &lt;b&gt;5x mais cubos da sorte&lt;/b&gt; por temporada&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Novas tarefas diárias&lt;/b&gt; com série&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Desbloqueie &lt;b&gt;dois espaços de evolução&lt;/b&gt; no nível 30 / no nível 11 da torre do rei&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Novo campeão:&lt;/b&gt; Goblinstein&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Evolução do Dragão Elétrico!&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4NC1T5ngjPQ4esXYFch9dX/c5fefa3081a9b4f9619044adebd9c216/pass_royale_new.gif?w=300&amp;h=528&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;NOVO PASS ROYALE!&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Nova interface de usuário!&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ganhe &lt;b&gt;cubos da sorte&lt;/b&gt; nos passes grátis e pago&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mais benefícios&lt;/b&gt; no passe grátis&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Adicionamos um &lt;b&gt;fragmento de evolução curinga&lt;/b&gt; ao passe grátis&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Uma &lt;b&gt;bandeira animada&lt;/b&gt; agora faz parte do passe grátis&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cubos da sorte recorrentes&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ganhe cubos da sorte ao concluir o passe (grátis e pago!)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;É o fim do passe dourado. Por quê?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Melhoramos o passe grátis&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Queríamos deixá-lo mais simples e claro para todos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7EoFfgp79w6Q6MSIjU1qvY/177ee2d637459400db69c6508127329a/new_lucky_drops.gif?w=300&amp;h=528&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt; Cubos da sorte reformulados!&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cinco raridades:&lt;/b&gt; entre 1 estrela ⭐ e 5 estrelas ⭐⭐⭐⭐⭐&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ganhe mais cubos da sorte todos os dias:&lt;/b&gt; encontre-os nas tarefas diárias e no Pass Royale.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Nova animação&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cubos da sorte podem começar com qualquer raridade:&lt;/b&gt; encontre versões de 2 ou 3 estrelas garantidas no passe&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mais itens disponíveis:&lt;/b&gt; emotes, bandeiras, cartas aleatórias e fragmentos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Quer experimentar logo? Vamos dar &lt;b&gt;30 cubos da sorte (6 por dia entre 2 e 6 de outubro)&lt;/b&gt; com a atualização!&lt;/p&gt;&lt;p&gt;Observação: embora o valor de cubos da sorte individuais tenha caído, será possível ganhar 5 vezes mais deles por temporada jogando sem pagar. Você pode ganhar mais recompensas agora!&lt;/p&gt;&lt;hr/&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1EYSpevOnR8vRpEcmvaJjp/6894b34caf464131f4a9cbb5bf281343/Daily_Tasks_New.png?w=686&amp;h=944&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;Melhorias nas tarefas diárias&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Cinco tarefas&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Até &lt;b&gt;quatro&lt;/b&gt; cubos da sorte por dia&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ganhe mais coroas com tarefas diárias&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Série:&lt;/b&gt; continue a concluir tarefas diárias para ganhar cubos da sorte com giros extras!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Observação: as novidades estarão em fase de testes pelas primeiras quatro semanas. Só alguns jogadores selecionados terão acesso a cinco tarefas e/ou a função de séries durante o período de teste.&lt;/p&gt;&lt;hr/&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ujUuOFAnOly9xzBAARjZY/f578e86814380a3cadf37de1ceb3d4d8/two_slots.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dois espaços de evolução na torre do rei 11.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;O segundo espaço de evolução ficou mais acessível. Você pode usar duas evoluções a partir do nível 30 / torre do rei 11.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h1&gt;Novo campeão: Goblinstein&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/fKLwx1i22eMSkIUQzpWER/d6be23a89cafe31095482dd96ef1a8ca/goblinstein.gif?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;O Monstro caminha até construções inimigas enquanto o Doutor espera com a armadilha a postos. Ao apertar um botão, ele eletrifica o elo entre si e o Monstro, fritando inimigos próximos!&lt;/p&gt;&lt;p&gt;Jogadores a partir da arena 11 poderão resgatar o Goblinstein e um emote DE GRAÇA.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4YUaIJjsSNhWwi4Cti9Le6/1be7d308346009688387c65f578f7617/hatsoff.gif?w=200&amp;h=200&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;Evolução do Dragão Elétrico!&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3phJEGwI32X9vmtWec8LN9/a4908b9b423eefaf8a620876c47e4ffa/edragevo.gif?w=400&amp;h=450&amp;f=center"&gt;
+
+&lt;p&gt;O ataque do Dragão Elétrico evoluído ricocheteia entre os alvos infinitamente e pode acertar a mesma unidade mais de uma vez.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mais mudanças e correções de erros!&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Aumentamos a duração da poção de aceleração de 1 para 3 horas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Função de denúncia para descrição e nome do clã&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tropas flutuantes (Fantasma Real e Curadora Guerreira) agora sofrem dano de Terremoto, do surgimento da Escavadeira de Goblins e da habilidade da evolução do Gigante Real&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O dano de morte não causará dano a torres durante um desempate.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fim do suporte ao Android 5 e 6 e ao iOS 12 e 13&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigimos o problema que não permitia arrastar cartas a espaços vazios no criador de deck.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro em que a evolução da Escavadeira de Goblins e a evolução do Barril de Goblins telegrafavam sua localização com o indicador de evolução&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro em que o Vácuo atingia tropas fora do próprio raio&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro em que a evolução da Escavadeira de Goblins gerava Goblins mesmo no subsolo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro em que a Escavadeira de Goblins às vezes empurrava outras tropas quando se enterrava&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro em que a evolução do Aríete de Batalha não causava dano a tropas grandes&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Várias correções à evolução da Jaula de Goblin&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;p&gt;Esperamos que goste das alterações! Confira nosso &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit oficial&lt;/a&gt; para ficar por dentro de todos os detalhes do que vem aí!&lt;/p&gt;&lt;p&gt;Nós nos vemos na arena.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/51t7tXh4rDoqz0FhT5JXHh"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notas de lançamento"/>
+    <published>2024-10-02T07:38:12+00:00</published>
   </entry>
 </feed>
