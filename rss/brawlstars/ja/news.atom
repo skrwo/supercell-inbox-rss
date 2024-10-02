@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-02T03:39:12.456339+00:00</updated>
+  <updated>2024-10-02T04:38:26.364965+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -226,5 +226,15 @@
     <link href="https://youtu.be/vz3MO390wDc"/>
     <category term="コミュニティ"/>
     <published>2024-09-29T11:06:43+00:00</published>
+  </entry>
+  <entry>
+    <id>VOkw93v1ATGhe9OWY8Dl7</id>
+    <title>新キャラ"ケンジ"ほぼ最速で1250達成したので使い方を徹底解説します！</title>
+    <updated>2024-10-02T04:20:43.271000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/VOkw93v1ATGhe9OWY8Dl7"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/68YfPY3hVWyehsNi3HTZVm/1daf9f3eb5ae68635649bce0c04261e2/maxresdefault.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=fjAt3e3TZy4"/>
+    <category term="コミュニティ"/>
+    <published>2024-10-02T04:20:43+00:00</published>
   </entry>
 </feed>
