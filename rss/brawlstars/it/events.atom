@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-eventEntries-it</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-10-03T13:37:30.670721+00:00</updated>
+  <updated>2024-10-03T14:37:20.898769+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -26,15 +26,6 @@
     <published>2024-08-23T08:17:51+00:00</published>
   </entry>
   <entry>
-    <id>6R90pLtZD7BsYwLCI0e6rO</id>
-    <title>🗞️</title>
-    <updated>2024-09-05T09:14:46.886000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/obSutkLXF4E"&gt;👉SpongeBob!👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/it/news/6QSXex4AdG3jEGdvYSWcFj"&gt;👉Altre info👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2oCXh2bbvVSRAyRru06Yz4/59e45916644854e5618988dee32214be/0904_Spongebob_carousel_800x1161_v2.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <published>2024-09-04T10:29:32+00:00</published>
-  </entry>
-  <entry>
     <id>1NPTT643S0qTrA4H6CC4CQ</id>
     <title>🗞️</title>
     <updated>2024-09-26T11:02:42.750000+00:00</updated>
@@ -43,5 +34,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7gurwS0QUywZziyBDmOCgY/2c29cbb864f8b23a31562a2c53cc58e1/kenji-animation-800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/Q8D95ErQbjk?si=Cu89Kgl0B5rQ5TfV"/>
     <published>2024-09-26T10:35:35+00:00</published>
+  </entry>
+  <entry>
+    <id>5onoF2pjANwkfFVsDaM52x</id>
+    <title>🗞️</title>
+    <updated>2024-10-03T14:26:02.729000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/OiN_L7jrM78"&gt;👉racconti di paura!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5xw9cIOyvIjKs4H4UXI1Zu/dc5ddaa8ed6e8769161eba420365853f/1003_Scary_Tales_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/OiN_L7jrM78"/>
+    <published>2024-10-03T14:26:02+00:00</published>
   </entry>
 </feed>
