@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Oct 2024 09:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 10:39:06 +0000</lastBuildDate>
     <item>
       <title>クラシックブロスタイベント：メガボックスが復活！</title>
       <link>https://brawlstars.inbox.supercell.com/#/ja/news/1EmjrgcJs2gIADXu55ZbWC</link>
@@ -223,7 +223,51 @@
     <item>
       <title>パッチノート：スポンジ・ボブ</title>
       <link>https://brawlstars.inbox.supercell.com/#/ja/news/1kVnz1unhFmO7cTXRQAZEG</link>
-      <description>&lt;h3&gt;任意アップデート - 9月19日&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;AndroidでUIが反応しなかった問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲーム起動時にホーム画面に戻るとテクスチャが消失していた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「メグロドン」スキンオファーの表示ピンズ数を正しい数（1個）に修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;カニカーニのオファー表示時に接続エラーが発生していた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;App StoreまたはGoogle Play ストアから最新の任意アップデートをダウンロードして、変更をゲームに反映させましょう！&lt;/p&gt;&lt;h3&gt;カニカーニの無料カニのカネ&lt;/h3&gt;&lt;p&gt;カニカーニでパワーフードを毎日無料で獲得できるようになりました！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;最初のパワーフードを回収すると、毎日新しいオファーが登場するようになります。カニカーニを定期的に訪れてオファーを回収するのをお忘れなく！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;すべてのパワーアップのレベルが最大の場合、代わりにダブルXPを獲得します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;重要&lt;/b&gt;：現在3つ以上のパワーアップカテゴリーがレベル3の場合、パワーフードではなくダブルXPが配布される状態ですが（ショップオファーの仕様のため）、48時間ごとにパワーフードを確定で入手できるようになりますので、どうぞご安心ください。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;これはゲームプレイに影響を与える意図しない仕様となっているため、「1000カニのカネ」を配布予定です。ご自由にお使いいただければ幸いです&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;メンテナンス - 9月12日&lt;/h3&gt;&lt;p&gt;&lt;b&gt;修正点：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スポンジ・ボブの特別ルールとアイテムが、デュオ バトルロイヤルでも有効に&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲーム起動時のロード画面が、92％で止まってしまう不具合を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「クラゲ釣り」で、マッチ終了時に誤った結果が表示される場合があった問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;訓練場やトリオ バトルロイヤルのマッチで、クラッシュが発生していた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ガチバトルのマッチメイキングで、通常よりも長い時間がかかっていた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;コルトを倒すとゲームがクラッシュする場合があった問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;サージのハイパーチャージでレベル4から5に強化される際に発生していた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;モーが「ドリラー」から降りた際、弾がフル装填されるのではなく現在の弾数を維持するように修正&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;メンテナンス - 9月4日&lt;/h3&gt;&lt;p&gt;&lt;b&gt;修正点：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;トリオ バトルロイヤルにて毒ガス内にいる際のシールドを削除しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;サーバーがクラッシュする問題の一部を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;テキストの一部を微調整しました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;デバイスが反応しない問題、およびキャラクターのテクスチャが黒くなってしまう問題は、修正にもう少し時間が必要です。その間、キャッシュのクリアやゲームの再インストールで問題が解決する場合がありますので、ぜひお試しください！&lt;/p&gt;&lt;h3&gt;メンテナンス - 8月29日&lt;/h3&gt;&lt;p&gt;&lt;b&gt;修正点：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スプラウトの必殺技のチャージ率を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;キャラクターがダッシュ系のアビリティを使用した際に、ウィローの毒エフェクトが消えてしまう問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ポコに下方修正が施され、5対5ノックアウトのマッチでハイパーチャージを使用した際にゲームがクラッシュしなくなりました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「ヒーロー ビビ」のプレイヤーアイコンが正しいスキンに割り当てられました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;パフォーマンスの問題（グラフィック、クラッシュ、タッチパッド関連）に関しては、依然調査中です。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;ブロスタが大人気アニメ「スポンジ・ボブ」とコラボ！最新シーズン「スポンジ・ボブ」が始まります！&lt;/p&gt;&lt;p&gt;海底都市「ビキニタウン」の住民がスターパークを訪れます！&lt;/p&gt;&lt;p&gt;スポンジ・ボブのシーズンとイベントは、9月5日から10月2日まで開催されます！&lt;/p&gt;
+      <description>&lt;h3&gt;メンテナンス - 10月4日&lt;/h3&gt;&lt;p&gt;
+・ランクブースト、バトルカード、前シーズンのガチバトルの成績に関する不具合の修正を行います。
+
+・「ダーククイーン マンディ」がガチバトルのスタードロップに出現しない問題についても調査中です。詳細がわかり次第お知らせいたします。
+&lt;/p&gt;&lt;p&gt;世界一決定戦前の最後のバランス調整も実施します。&lt;/p&gt;&lt;p&gt;
+&lt;b&gt;バランス調整
+
+モー&lt;/b&gt;
+・必殺技のチャージ速度を20%減少
+・通常攻撃のダメージを600→540に減少
+
+&lt;b&gt;スクウィーク&lt;/b&gt;
+・通常攻撃のダメージを1080→1160に増加
+
+&lt;b&gt;メグ&lt;/b&gt;
+・HPを4000→3500に減少
+
+&lt;b&gt;ゲイル&lt;/b&gt;
+・必殺技のダメージを820→600に減少
+・ハイパーチャージのチャージ速度を30%→25%に減少
+
+&lt;b&gt;ペニー&lt;/b&gt;
+・通常攻撃の射程を8%増加 (24→26)
+
+&lt;b&gt;チェスター&lt;/b&gt;
+・HPを3700→3500に減少
+・「ピエロのオマケ」のボーナスダメージを200%→150%に減少
+
+&lt;b&gt;メイジー&lt;/b&gt;
+・通常攻撃のダメージを1280→1400に増加
+
+&lt;b&gt;ダリル&lt;/b&gt;
+・通常攻撃からの必殺技のチャージ速度を27%減少 (117→85)
+
+&lt;b&gt;マンディ&lt;/b&gt;
+・通常攻撃の基本弾速を20%増加 (3500→4200)
+・必殺技の基本弾速を19%増加 (4200→5000)
+・マンディのスターパワー「ハードキャンディ」が必殺技の弾速に影響しなくなる不具合を修正
+
+&lt;b&gt;ケンジ&lt;/b&gt;
+・ガジェット「活き造り」の回復量を受けたダメージの75%→50%に減少
+
+&lt;b&gt;モーティス&lt;/b&gt;
+・ハイパーチャージのチャージ速度を50%→40%に減少 
+&lt;/p&gt;&lt;h3&gt;任意アップデート - 9月19日&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;AndroidでUIが反応しなかった問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲーム起動時にホーム画面に戻るとテクスチャが消失していた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「メグロドン」スキンオファーの表示ピンズ数を正しい数（1個）に修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;カニカーニのオファー表示時に接続エラーが発生していた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;App StoreまたはGoogle Play ストアから最新の任意アップデートをダウンロードして、変更をゲームに反映させましょう！&lt;/p&gt;&lt;h3&gt;カニカーニの無料カニのカネ&lt;/h3&gt;&lt;p&gt;カニカーニでパワーフードを毎日無料で獲得できるようになりました！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;最初のパワーフードを回収すると、毎日新しいオファーが登場するようになります。カニカーニを定期的に訪れてオファーを回収するのをお忘れなく！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;すべてのパワーアップのレベルが最大の場合、代わりにダブルXPを獲得します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;重要&lt;/b&gt;：現在3つ以上のパワーアップカテゴリーがレベル3の場合、パワーフードではなくダブルXPが配布される状態ですが（ショップオファーの仕様のため）、48時間ごとにパワーフードを確定で入手できるようになりますので、どうぞご安心ください。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;これはゲームプレイに影響を与える意図しない仕様となっているため、「1000カニのカネ」を配布予定です。ご自由にお使いいただければ幸いです&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;メンテナンス - 9月12日&lt;/h3&gt;&lt;p&gt;&lt;b&gt;修正点：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スポンジ・ボブの特別ルールとアイテムが、デュオ バトルロイヤルでも有効に&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲーム起動時のロード画面が、92％で止まってしまう不具合を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「クラゲ釣り」で、マッチ終了時に誤った結果が表示される場合があった問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;訓練場やトリオ バトルロイヤルのマッチで、クラッシュが発生していた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ガチバトルのマッチメイキングで、通常よりも長い時間がかかっていた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;コルトを倒すとゲームがクラッシュする場合があった問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;サージのハイパーチャージでレベル4から5に強化される際に発生していた問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;モーが「ドリラー」から降りた際、弾がフル装填されるのではなく現在の弾数を維持するように修正&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;メンテナンス - 9月4日&lt;/h3&gt;&lt;p&gt;&lt;b&gt;修正点：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;トリオ バトルロイヤルにて毒ガス内にいる際のシールドを削除しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;サーバーがクラッシュする問題の一部を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;テキストの一部を微調整しました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;デバイスが反応しない問題、およびキャラクターのテクスチャが黒くなってしまう問題は、修正にもう少し時間が必要です。その間、キャッシュのクリアやゲームの再インストールで問題が解決する場合がありますので、ぜひお試しください！&lt;/p&gt;&lt;h3&gt;メンテナンス - 8月29日&lt;/h3&gt;&lt;p&gt;&lt;b&gt;修正点：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スプラウトの必殺技のチャージ率を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;キャラクターがダッシュ系のアビリティを使用した際に、ウィローの毒エフェクトが消えてしまう問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ポコに下方修正が施され、5対5ノックアウトのマッチでハイパーチャージを使用した際にゲームがクラッシュしなくなりました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「ヒーロー ビビ」のプレイヤーアイコンが正しいスキンに割り当てられました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;パフォーマンスの問題（グラフィック、クラッシュ、タッチパッド関連）に関しては、依然調査中です。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;ブロスタが大人気アニメ「スポンジ・ボブ」とコラボ！最新シーズン「スポンジ・ボブ」が始まります！&lt;/p&gt;&lt;p&gt;海底都市「ビキニタウン」の住民がスターパークを訪れます！&lt;/p&gt;&lt;p&gt;スポンジ・ボブのシーズンとイベントは、9月5日から10月2日まで開催されます！&lt;/p&gt;
 &lt;h1&gt;スポンジ・ボブスキン&lt;/h1&gt;
 &lt;p&gt;ブロスタパス：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;イカルド モーティス | ハイパーレア&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ブロスタパス＋：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ピンクイカルド モーティス | 色違い&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ブルーイカルド モーティス | 色違い&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;無料スキン&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スポンジ・ボブ プリモ | ウルトラレア&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;このスキンは、イベント通貨「カニのカネ」を集めてクラブに貢献すると無料で獲得できます！&lt;/p&gt;&lt;p&gt;イベントスキン&lt;/p&gt;&lt;p&gt;以下のイベントスキンは、スターパークに新たにオープンしたショップ「カニカーニ」ですべて入手可能です！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;プランクトン ダリル | ハイパーレア&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;サンディ ジェシー | スーパーレア&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;カーニさん ティック | スーパーレア&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;パトリック バズ | ハイパーレア&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;スポンジ・ボブ限定アイテム：パワーアップ&lt;/h1&gt;
