@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-communityEntries-de</id>
   <title>Hayday - Community</title>
-  <updated>2024-10-04T17:33:16.647815+00:00</updated>
+  <updated>2024-10-04T18:40:15.485543+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Community</subtitle>
   <entry>
     <id>q43t3dixHvZatmIHtDJN0</id>
     <title>TAL UPDATE!!</title>
-    <updated>2024-10-04T17:33:16.647964+00:00</updated>
+    <updated>2024-10-04T18:40:15.485720+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>1EPCqYUA670wXVFYZfSgHB</id>
     <title>MARMELADE UND SAFT?!</title>
-    <updated>2024-10-04T17:33:16.647931+00:00</updated>
+    <updated>2024-10-04T18:40:15.485692+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>6aKLzAIBevRzcfrmtXWHCQ</id>
     <title>DARUM SOLLTEST DU LANGSAM LEVELN</title>
-    <updated>2024-10-04T17:33:16.647894+00:00</updated>
+    <updated>2024-10-04T18:40:15.485661+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -42,12 +42,23 @@
   <entry>
     <id>33iasSkk22nt1woqKLftCy</id>
     <title>HALLOWEEN DAIRY NEWS</title>
-    <updated>2024-10-04T17:33:16.647842+00:00</updated>
+    <updated>2024-10-04T18:40:15.485624+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/43Zxmq0AQEx2xGwNzWXCEe/158603fd409cf33b30513b300bef7d5b/guest-content-video-10-991b1391-3024-4dbc-a19c-5f8eac90d4f0-mxa0.png-1727968391172?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/Jy9Nbgu-lNQ"/>
     <published>2024-10-03T15:13:18+00:00</published>
+  </entry>
+  <entry>
+    <id>7nU3EuSj846osXGAmpTOuD</id>
+    <title>HALLOWEEN UPDATE  ALLE INFOS</title>
+    <updated>2024-10-04T18:40:15.485570+00:00</updated>
+    <author>
+      <name>SyromerB</name>
+    </author>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1R41ol3JpCBFk9RvWbXmzs/3770469ee54ffee03d584347669ced1d/guest-content-video-10-991b1391-3024-4dbc-a19c-5f8eac90d4f0-bmou.png-1728064169198?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=pWf0Fz9sFvI"/>
+    <published>2024-10-04T17:49:35+00:00</published>
   </entry>
 </feed>
