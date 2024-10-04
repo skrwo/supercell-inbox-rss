@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-10-04T14:36:19.701961+00:00</updated>
+  <updated>2024-10-04T15:34:29.613251+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -208,5 +208,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2fz3xTvkb308tURZMWF7jZ/4d3ec9693babae3a1de166a95207ab66/inboxthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Noticias"/>
     <published>2024-10-04T08:33:31+00:00</published>
+  </entry>
+  <entry>
+    <id>17PRPMdmm9VwdqaKwDMvbE</id>
+    <title>Calendario de eventos de octubre</title>
+    <updated>2024-10-04T14:49:50.513000+00:00</updated>
+    <content>&lt;h1&gt;¡Prepárate para los eventos que llegarán a Hay Day en octubre!&lt;/h1&gt;
+&lt;p&gt;Del 2 al 31 de octubre: evento del catálogo de Halloween con una nueva divisa, los sombreros de Halloween.&lt;/p&gt;&lt;p&gt;Del 2 al 7 de octubre: evento de tareas.&lt;/p&gt;&lt;p&gt;Del 4 al 24 de octubre: valle de gallinas.&lt;/p&gt;&lt;p&gt;Del 8 al 31 de octubre: edificio temporal de Halloween y evento del barco. Participa en este evento para recibir aún más sombreros de Halloween para tu catálogo.&lt;/p&gt;&lt;p&gt;Del 8 al 31 de octubre: nueva colección de adornos de Halloween.&lt;/p&gt;&lt;p&gt;Del 14 al 25 de octubre: evento del calendario de Greg de Halloween.&lt;/p&gt;&lt;p&gt;Del 17 al 21 de octubre: evento global del barco.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/17PRPMdmm9VwdqaKwDMvbE"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2pfB0M1RaquA7J2pcV8F7R/79015363a5285042ac2ef6b84686643e/inbox2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-10-04T14:48:06+00:00</published>
   </entry>
 </feed>

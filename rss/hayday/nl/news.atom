@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-10-04T14:36:18.533839+00:00</updated>
+  <updated>2024-10-04T15:34:34.493292+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -208,5 +208,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2fz3xTvkb308tURZMWF7jZ/4d3ec9693babae3a1de166a95207ab66/inboxthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Nieuws"/>
     <published>2024-10-04T08:33:31+00:00</published>
+  </entry>
+  <entry>
+    <id>17PRPMdmm9VwdqaKwDMvbE</id>
+    <title>Evenementenkalender voor oktober</title>
+    <updated>2024-10-04T14:49:50.513000+00:00</updated>
+    <content>&lt;h1&gt;Maak je klaar voor de nieuwe evenementen in oktober!&lt;/h1&gt;
+&lt;p&gt;02/10 - 31/10: Halloween-catalogusevenement (nieuwe valuta: halloweenhoedjes)&lt;/p&gt;&lt;p&gt;02/10 - 07/10: Takenevenement&lt;/p&gt;&lt;p&gt;04/10 - 24/10: Kippendorp&lt;/p&gt;&lt;p&gt;08/10 - 31/10: Tijdelijk gebouw voor Halloween + bootevenement (neem deel aan dit evenement om nog meer halloweenhoedjes te verzamelen voor je catalogus)&lt;/p&gt;&lt;p&gt;08/10 - 31/10: Nieuwe decoratieverzameling voor Halloween&lt;/p&gt;&lt;p&gt;14/10 - 25/10: Gregs kalenderevenement voor Halloween&lt;/p&gt;&lt;p&gt;17/10 - 21/10: Wereldwijd bootevenement&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/17PRPMdmm9VwdqaKwDMvbE"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2pfB0M1RaquA7J2pcV8F7R/79015363a5285042ac2ef6b84686643e/inbox2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Evenementen"/>
+    <published>2024-10-04T14:48:06+00:00</published>
   </entry>
 </feed>

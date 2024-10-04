@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-10-04T14:36:16.563696+00:00</updated>
+  <updated>2024-10-04T15:34:31.348786+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -208,5 +208,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2fz3xTvkb308tURZMWF7jZ/4d3ec9693babae3a1de166a95207ab66/inboxthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-10-04T08:33:31+00:00</published>
+  </entry>
+  <entry>
+    <id>17PRPMdmm9VwdqaKwDMvbE</id>
+    <title>10月のイベントカレンダー</title>
+    <updated>2024-10-04T14:49:50.513000+00:00</updated>
+    <content>&lt;h1&gt;10月の新イベントをお楽しみに！&lt;/h1&gt;
+&lt;p&gt;10月2日～31日：ハロウィンカタログイベント（新イベント通貨：ハロウィンの帽子）&lt;/p&gt;&lt;p&gt;10月2日～7日：お仕事イベント&lt;/p&gt;&lt;p&gt;10月4日～24日：ニワトリの渓谷&lt;/p&gt;&lt;p&gt;10月8日～31日：ハロウィン限定施設＋船のお仕事イベント（イベントに参加して、カタログ用のハロウィンの帽子をたくさん手に入れましょう）&lt;/p&gt;&lt;p&gt;10月8日～31日：ハロウィンの新デコレーションコレクション&lt;/p&gt;&lt;p&gt;10月14日～25日：ハロウィン版グレッグのカレンダーイベント&lt;/p&gt;&lt;p&gt;10月17日～21日：船のお仕事（協力イベント）&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/17PRPMdmm9VwdqaKwDMvbE"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2pfB0M1RaquA7J2pcV8F7R/79015363a5285042ac2ef6b84686643e/inbox2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="イベント"/>
+    <published>2024-10-04T14:48:06+00:00</published>
   </entry>
 </feed>

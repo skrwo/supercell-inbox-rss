@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-10-04T14:36:13.323967+00:00</updated>
+  <updated>2024-10-04T15:34:33.521607+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -208,5 +208,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2fz3xTvkb308tURZMWF7jZ/4d3ec9693babae3a1de166a95207ab66/inboxthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Uutiset"/>
     <published>2024-10-04T08:33:31+00:00</published>
+  </entry>
+  <entry>
+    <id>17PRPMdmm9VwdqaKwDMvbE</id>
+    <title>Lokakuun tapahtumakalenteri</title>
+    <updated>2024-10-04T14:49:50.513000+00:00</updated>
+    <content>&lt;h1&gt;Valmistaudu lokakuun uusiin tapahtumiin!&lt;/h1&gt;
+&lt;p&gt;02.10.–31.10. – Halloweenin kuvastotapahtuma (uusi valuutta: halloweenhatut)&lt;/p&gt;&lt;p&gt;02.10.–07.10. – Tehtävätapahtuma&lt;/p&gt;&lt;p&gt;04.10.–24.10. – Kanalaakso&lt;/p&gt;&lt;p&gt;08.10.–31.10. – Halloweenin väliaikainen tuotantorakennus + laivatapahtuma (kerää lisää halloweenhattuja osallistumalla tapahtumaan)&lt;/p&gt;&lt;p&gt;08.10.–31.10. – Halloweenin uusi koristekokoelma&lt;/p&gt;&lt;p&gt;14.10.–25.10. – Halloweenin kalenteritapahtuma Gregin farmilla&lt;/p&gt;&lt;p&gt;17.10.–21.10. – Laivatilausten yhteisötapahtuma&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/17PRPMdmm9VwdqaKwDMvbE"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2pfB0M1RaquA7J2pcV8F7R/79015363a5285042ac2ef6b84686643e/inbox2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Tapahtumat"/>
+    <published>2024-10-04T14:48:06+00:00</published>
   </entry>
 </feed>
