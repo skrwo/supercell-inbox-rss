@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-10-04T07:30:56.728312+00:00</updated>
+  <updated>2024-10-04T08:38:56.515915+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -189,5 +189,24 @@
     <link href="https://youtu.be/Ay4hCFxeCKM"/>
     <category term="ニュース"/>
     <published>2024-09-29T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4EOY2EC9w5ck43M40in9iN</id>
+    <title>2024年秋のアップデート情報</title>
+    <updated>2024-10-04T08:33:31.748000+00:00</updated>
+    <content>&lt;p&gt;新コンテンツ＆新機能満載のアップデートが登場！&lt;/p&gt;&lt;p&gt;&lt;b&gt;新機能&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;景観モード&lt;/b&gt;&lt;/p&gt;&lt;p&gt;「景観モード」を利用すれば、ボタンやアイコンを非表示にし、自慢の農場の素敵なスクリーンショットを撮ることができます。景観モードを起動するには、設定メニュー内の「編集モード」の下のボタンをタップしてください。&lt;/p&gt;&lt;p&gt;&lt;b&gt;編集モードの改善&lt;/b&gt;&lt;/p&gt;&lt;p&gt;最新の&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;農場通信&lt;/a&gt;を視聴して、仕様の詳細を確認しましょう。英語音声の動画ですが、日本語字幕も表示可能です。概要は以下になります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;今後は、編集モードでもデコレーションショップと同じ検索機能とフィルターが使用可能になります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ブラシ使用時のアニメーションが削除され、ショップに戻ることなく同時に複数のアイテムを設置しやすくなります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スワイプするだけでアイテムを削除できるようになります。ただし、消しゴムモードをオンにするとマップを動かせなくなるため、移動のたびにモードを切り替える必要があります。 また、間違えてアイテムを削除してしまった場合は、「元に戻す」ボタンで変更をやり直すことが可能です。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;編集モードでは、ショップのデコレーションを本来設置できない場所（デコレーションが赤色に表示される場所）に設置可能です。 やり直したい場合は、別の場所をタップすることでデコレーションを元の位置またはショップに戻すことができます。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;新コンテンツ&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4n3P4vKoAxC5qg5SdBTPTm/eed1c3b589077169d8f2ea07f3fcc35c/inboxtreats.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;キャンディー製造機イベント&lt;/b&gt;&lt;/p&gt;&lt;p&gt;アップデート配信日の翌日に、郵便屋さんのアルフレッドが期間限定の生産施設「ハロウィンキャンディー製造機」を農場にお届けします。&lt;/p&gt;
+&lt;p&gt;ハロウィンキャンディーを生産したら、船に積み込んで期間限定通貨を入手しましょう。新アイテムやカタログのハロウィンデコレーションがアンロック可能になります。&lt;/p&gt;&lt;p&gt;また、ハロウィンキャンディー製造機もマスターの星を増やすことができるので、どんどん生産を続けて効率アップを目指しましょう！&lt;/p&gt;&lt;p&gt;&lt;b&gt;材料&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;歯のキャンディー：サトウキビ x3、ニンジン x3、タマゴ x1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ミミズのキャンディー：リンゴ x1、ポップコーン x1、インディゴ x3&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ガイコツのキャンディー：青いセーター x1、トウガラシ x5、黒砂糖 x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;カボチャのキャンディー：ポテトパン x1、はちみつ x1、カボチャ x3&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/iOdAB7T2kbCxcQUgmxZRt/e3cd5c60698a24331189e9422ffcd6b9/treats-removebg-preview.png?w=942&amp;h=265&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;ハロウィンのデコレーション&lt;/b&gt;&lt;/p&gt;&lt;p&gt;10月の新デコレーションが登場！2種類のデコレーションコレクションをコンプリートして報酬をゲットしましょう。&lt;/p&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/B0ZLI4QY5PXQElLH74ZZy/d7d6d961979380ce93dbd231a78b55c3/DECOS1.png?w=1805&amp;h=508&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;保護所の動物&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2種類のダチョウの子が保護区の仲間に加わります！町の自然保護区が利用可能になったら、パズルピースを集めてアンロックできるようになります。&lt;/p&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5r9WlN6Kvt17I7GYwTViId/02402b30a543c3365ddb66bc59efb423/ostriches.png?w=1805&amp;h=508&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;改善点&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;パズルピース&lt;/b&gt;&lt;/p&gt;&lt;p&gt;パズルピースの代替報酬を導入しました。&lt;/p&gt;&lt;p&gt;これにより、すべての動物を集めて保護区のブックを完成させた後は、新たにパズルピースを入手しなくなります。&lt;/p&gt;&lt;p&gt;&lt;b&gt;実験的な変更の導入&lt;/b&gt;&lt;/p&gt;&lt;p&gt;少人数のプレイヤーを対象に実験的な変更を導入し、ゲーム体験に与える影響をテストします。&lt;/p&gt;&lt;p&gt;テストがスムーズに進んだ場合、今後数週間の内に全プレイヤーを対象に、変更を実装する予定です。&lt;/p&gt;&lt;p&gt;変更点の1つとして、配達トラックが戻って来るのを待つことなく、複数の注文を完了可能になります。 トラックの出発後に注文の掲示板を開いて別の注文を完了すれば、次にトラックが戻ってきた際に完了した注文の報酬をすべて受け取ることができますよ！&lt;/p&gt;&lt;p&gt;&lt;b&gt;その他の修正点&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ロブスタープールやアヒル美容室からアイテムを回収する際に、アニメーションが終わるのを待つ必要がなくなりました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;船の積み込みの際に、アニメーションが終わるまで次の箱を積み込めない問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ダービーの提示版で画面が点滅する問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;その他にも、ゲーム体験を改善する変更を多数行っています！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;それでは、農場でお会いしましょう！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/4EOY2EC9w5ck43M40in9iN"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2fz3xTvkb308tURZMWF7jZ/4d3ec9693babae3a1de166a95207ab66/inboxthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-10-04T08:33:31+00:00</published>
   </entry>
 </feed>
