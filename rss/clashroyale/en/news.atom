@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-05T14:32:31.959024+00:00</updated>
+  <updated>2024-10-05T15:31:22.403658+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -495,5 +495,15 @@ The Second Evolution slot is now more accessible. You can use two Evolutions sta
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-10-02T07:38:12+00:00</published>
+  </entry>
+  <entry>
+    <id>3ULxlnwFle7ifXdX1XKRSV</id>
+    <title>Golbinstein: A Clash-o-ween tale!</title>
+    <updated>2024-10-05T15:30:03.558000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/3ULxlnwFle7ifXdX1XKRSV"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/MqQPQ4hGQsivdZTUsaFXd/18439c606159322962dbf67781ee438c/goblinstein.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/shorts/dyIUqilw5S0"/>
+    <category term="Highlights"/>
+    <published>2024-10-05T15:30:03+00:00</published>
   </entry>
 </feed>
