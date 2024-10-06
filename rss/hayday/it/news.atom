@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-10-06T14:33:35.386466+00:00</updated>
+  <updated>2024-10-06T15:32:48.679720+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1rGhOFHl88wvRax8mveMME</id>
-    <title>Eventi di Hay Day (settimana n. 28)</title>
-    <updated>2024-07-08T11:30:36.395000+00:00</updated>
-    <content>&lt;p&gt;Ehilà, speriamo che tu ti stia godendo la stagione estiva! È l&amp;#39;ora di scoprire i prossimi eventi, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ognuno di loro, vai al tabellone degli eventi in gioco.&lt;/p&gt;&lt;p&gt;Lunedì: buoni (gira la ruota).&lt;/p&gt;&lt;p&gt;Martedì: materiali per il silo e il granaio (visitatori della città).&lt;/p&gt;&lt;p&gt;Mercoledì: potenziamenti (ordini per la barca).&lt;/p&gt;&lt;p&gt;Giovedì: monete doppie (visitatori della fattoria).&lt;/p&gt;&lt;p&gt;Venerdì: potenziamento del 30% per due edifici per la pesca (salone delle anatre e retificio) e punti del Pass della fattoria raddoppiati.&lt;/p&gt;&lt;p&gt;Sabato: XP doppi (visitatori della città).&lt;/p&gt;&lt;p&gt;Domenica: potenziamento delle colture (3 unità invece di 2 da 3 colture a caso).&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/1rGhOFHl88wvRax8mveMME"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notizie"/>
-    <published>2024-07-08T11:28:37+00:00</published>
-  </entry>
   <entry>
     <id>7nFV4fBjNoBMpBP8V2vrEm</id>
     <title>Corto sulla Fiera della contea di luglio</title>
@@ -223,7 +213,7 @@
   <entry>
     <id>41LZb1rvmpgBUYDgxvcYgc</id>
     <title>Eventi di Hay Day (settimana n. 41)</title>
-    <updated>2024-10-06T08:02:07.957000+00:00</updated>
+    <updated>2024-10-06T15:19:55.538000+00:00</updated>
     <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 41)&lt;/h1&gt;
 &lt;p&gt;Ciao! Questa settimana ti attendono tantissimi eventi e un derby, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ogni evento, consulta il loro tabellone in gioco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunedì&lt;/b&gt;: oggetti espansione (gira la ruota).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martedì&lt;/b&gt;: buoni (ordini del furgone).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercoledì&lt;/b&gt;: potenziamento del 20% per tre edifici produttivi.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Giovedì&lt;/b&gt;: oggetti espansione (visitatori della città).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Venerdì&lt;/b&gt;: potenziamento del 30% per due edifici per la pesca (vasca per aragoste e banco da lavoro per esche) e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabato&lt;/b&gt;: materiali per granaio e silo (visitatori della città).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domenica&lt;/b&gt;: produttività dei mangimifici ottimizzata (tre tipi casuali di mangime per animali verranno prodotti al doppio della velocità).&lt;/p&gt;&lt;p&gt;Infine, non dimenticarti di partecipare al derby relax dei conigli, che inizierà lunedì!&lt;/p&gt;&lt;p&gt;Ti auguriamo una settimana produttiva!&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/it/news/41LZb1rvmpgBUYDgxvcYgc"/>

@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-10-06T14:33:33.829560+00:00</updated>
+  <updated>2024-10-06T15:32:45.828987+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1rGhOFHl88wvRax8mveMME</id>
-    <title>Semana 28 de eventos do Hay Day</title>
-    <updated>2024-07-08T11:30:36.395000+00:00</updated>
-    <content>&lt;p&gt;Olá! Esperamos que estejam aproveitando essa temporada refrescante, pois há mais eventos a caminho! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com vales.&lt;/p&gt;&lt;p&gt;Terça-feira: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;Quarta-feira: aceleradores com os pedidos do barco.&lt;/p&gt;&lt;p&gt;Quinta-feira: dobro de moedas com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;Sexta-feira: dobro de pontos do passe rural e aceleração da produção em 30% do salão dos patos e do redeiro.&lt;/p&gt;&lt;p&gt;Sábado: dobro de XP com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;Domingo: aceleração de 3 plantações aleatórias com rendimento de 3 unidades em cada colheita em vez de 2.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/1rGhOFHl88wvRax8mveMME"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notícias"/>
-    <published>2024-07-08T11:28:37+00:00</published>
-  </entry>
   <entry>
     <id>7nFV4fBjNoBMpBP8V2vrEm</id>
     <title>Animação da Feira Municipal de julho</title>
@@ -223,7 +213,7 @@
   <entry>
     <id>41LZb1rvmpgBUYDgxvcYgc</id>
     <title>Semana 41 de Hay Day</title>
-    <updated>2024-10-06T08:02:07.957000+00:00</updated>
+    <updated>2024-10-06T15:19:55.538000+00:00</updated>
     <content>&lt;h1&gt;Semana 41 de eventos do Hay Day&lt;/h1&gt;
 &lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com materiais de expansão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: vales com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: aceleração da produção em 20% de 3 edifícios aleatórios.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: visitantes da cidade com materiais de expansão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 30% (lagostas e iscas) e dobro de pontos no passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três tipos aleatórios de ração serão produzidos com o dobro de velocidade.&lt;/p&gt;&lt;p&gt;Não deixe de participar da Corrida Descontraída do Coelhinho desta semana, a partir de segunda-feira!&lt;/p&gt;&lt;p&gt;Tenha uma semana muito produtiva!&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/pt/news/41LZb1rvmpgBUYDgxvcYgc"/>

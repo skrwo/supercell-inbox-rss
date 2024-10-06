@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-10-06T14:33:34.208280+00:00</updated>
+  <updated>2024-10-06T15:32:44.952684+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1rGhOFHl88wvRax8mveMME</id>
-    <title>《卡通農場》第28週活動安排！</title>
-    <updated>2024-07-08T11:30:36.395000+00:00</updated>
-    <content>&lt;p&gt;親愛的農場主，本週精彩活動繼續，希望您能盡情享受夏日時光！所有活動都將於台北/香港時間16:00開始。如需了解每個活動的詳細資訊，請點擊遊戲內的活動公告板查看。&lt;/p&gt;&lt;p&gt;週一：幸運大轉盤活動（禮券）&lt;/p&gt;&lt;p&gt;週二：小鎮遊客活動（糧倉和貨倉的升級建材）&lt;/p&gt;&lt;p&gt;週三：航運訂單活動（加速器）&lt;/p&gt;&lt;p&gt;週四：農場訪客活動（雙倍金幣）&lt;/p&gt;&lt;p&gt;週五：釣魚區加速活動（小鴨沙龍和織網機的製作速度加快30%）+ 歡樂季活動（雙倍積分）&lt;/p&gt;&lt;p&gt;週六：小鎮遊客活動（雙倍經驗值）&lt;/p&gt;&lt;p&gt;週日：瘋狂生長活動（隨機3種農作物成熟時可收穫3份農作物，不只2份唷）&lt;/p&gt;&lt;p&gt;祝您度過愉快的一週！&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/zh/news/1rGhOFHl88wvRax8mveMME"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="最新情報"/>
-    <published>2024-07-08T11:28:37+00:00</published>
-  </entry>
   <entry>
     <id>7nFV4fBjNoBMpBP8V2vrEm</id>
     <title>七月農貿市集動畫</title>
@@ -223,7 +213,7 @@
   <entry>
     <id>41LZb1rvmpgBUYDgxvcYgc</id>
     <title>《卡通農場》第41週</title>
-    <updated>2024-10-06T08:02:07.957000+00:00</updated>
+    <updated>2024-10-06T15:19:55.538000+00:00</updated>
     <content>&lt;h1&gt;《卡通農場》第41週活動安排&lt;/h1&gt;
 &lt;p&gt;親愛的農場主：快來看看本週有什麼精彩活動吧！所有活動和德比競賽都將於台北/香港時間16:00開始。如需了解每個活動的詳細資訊，請點擊遊戲內的活動公告欄查看。&lt;/p&gt;&lt;p&gt;**週一：**幸運大轉盤活動（擴建物品）&lt;/p&gt;&lt;p&gt;**週二：**卡車訂單活動（禮券）&lt;/p&gt;&lt;p&gt;**週三：**生產設施加速活動（3種設施的生產速度加快20%）&lt;/p&gt;&lt;p&gt;**週四：**小鎮遊客活動（擴建物品）&lt;/p&gt;&lt;p&gt;**週五：**釣魚區活動（龍蝦池和魚餌機的製作速度加快30%）+ 農場歡樂季積分加成（雙倍積分）&lt;/p&gt;&lt;p&gt;**週六：**小鎮遊客活動（糧倉和貨倉的升級建材）&lt;/p&gt;&lt;p&gt;**週日：**動物飼料活動（隨機3種動物飼料的生產速度加倍）&lt;/p&gt;&lt;p&gt;記得參加本週的悠閒兔子德比，週一開始！&lt;/p&gt;&lt;p&gt;祝您在新的一週收穫良多！&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/zh/news/41LZb1rvmpgBUYDgxvcYgc"/>

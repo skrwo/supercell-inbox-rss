@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-10-06T14:33:36.139288+00:00</updated>
+  <updated>2024-10-06T15:32:51.311078+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1rGhOFHl88wvRax8mveMME</id>
-    <title>Calendrier des événements Hay Day (semaine 28)</title>
-    <updated>2024-07-08T11:30:36.395000+00:00</updated>
-    <content>&lt;p&gt;Salut, amis de la ferme ! Nous espérons que vous passez un bon été, et qu&amp;#39;il va être encore meilleur avec nos événements ! Tous les événements commencent à 8 h UTC (10h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, coupons&lt;/p&gt;&lt;p&gt;Mardi : visiteurs de la ville, matériaux du silo et de la grange&lt;/p&gt;&lt;p&gt;Mercredi : événement du bateau, boosts&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, pièces x2&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 30 % (salon de plumage et fabrique de filets) + points du pass Hay Day x2&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, EXP x2&lt;/p&gt;&lt;p&gt;Dimanche : boost pour 3 récoltes aléatoires, 3 unités récoltées au lieu de 2&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/1rGhOFHl88wvRax8mveMME"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nouvelles"/>
-    <published>2024-07-08T11:28:37+00:00</published>
-  </entry>
   <entry>
     <id>7nFV4fBjNoBMpBP8V2vrEm</id>
     <title>Animation de la Foire agricole de juillet</title>
@@ -223,7 +213,7 @@
   <entry>
     <id>41LZb1rvmpgBUYDgxvcYgc</id>
     <title>Calendrier des événements Hay Day (semaine 41)</title>
-    <updated>2024-10-06T08:02:07.957000+00:00</updated>
+    <updated>2024-10-06T15:19:55.538000+00:00</updated>
     <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 41)&lt;/h1&gt;
 &lt;p&gt;Bonjour ami·e de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements et les derbys commencent à 8 h UTC (10 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lundi&lt;/b&gt; : roue de la Fortune, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mardi&lt;/b&gt; : événement du camion, coupons&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercredi&lt;/b&gt; : bâtiments de production, boost production de 20 % pour 3 bâtiments aléatoires&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jeudi&lt;/b&gt; : visiteurs de la ville, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vendredi&lt;/b&gt; : événement de pêche, homards et appâts 30 % + points du pass Hay Day doublés&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samedi&lt;/b&gt; : visiteurs de la ville, matériaux du silo et de la grange&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dimanche&lt;/b&gt; : événement nourriture pour animaux, 3 types de nourriture pour animaux aléatoires sont produits 2x plus rapidement&lt;/p&gt;&lt;p&gt;Et n&amp;#39;oubliez pas de participer au derby lapin relax de cette semaine, il commence lundi !&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/fr/news/41LZb1rvmpgBUYDgxvcYgc"/>
