@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-10-06T07:29:07.295166+00:00</updated>
+  <updated>2024-10-06T08:36:14.936775+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -219,5 +219,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2pfB0M1RaquA7J2pcV8F7R/79015363a5285042ac2ef6b84686643e/inbox2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أحداث"/>
     <published>2024-10-04T14:48:06+00:00</published>
+  </entry>
+  <entry>
+    <id>41LZb1rvmpgBUYDgxvcYgc</id>
+    <title>الأسبوع 41 من Hay Day</title>
+    <updated>2024-10-06T08:02:07.957000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 41 من أحداث Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! استعدوا لأسبوع آخر مليء بالأحداث. تبدأ كل الأحداث والديربي في الساعة 8 ص بتوقيت جرينتش. اطلعوا على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;&lt;b&gt;الإثنين&lt;/b&gt;: تدوير العجلة: (مواد توسعة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الثلاثاء&lt;/b&gt;: حدث الشاحنة (قسائم)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأربعاء&lt;/b&gt;: مباني الإنتاج - (تعزيز 20% لثلاثة مبان)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الخميس&lt;/b&gt;: حدث زوار البلدة (مواد توسعة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الجمعة&lt;/b&gt;: حدث الصيد (سرطان البحر + الطعوم 30%) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;&lt;b&gt;السبت&lt;/b&gt;: حدث زوار البلدة (مواد للصومعة والحظيرة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأحد&lt;/b&gt;: حدث علف الحيوانات (3 أنواع عشوائية من العلف بضعف سرعة الإنتاج)&lt;/p&gt;&lt;p&gt;احرصوا على المشاركة في ديربي أرانب الاسترخاء هذا الأسبوع بدءًا من يوم الإثنين.&lt;/p&gt;&lt;p&gt;تمتعوا بأسبوع حافل بالإنتاجية!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/41LZb1rvmpgBUYDgxvcYgc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أحداث"/>
+    <published>2024-10-06T08:00:03+00:00</published>
   </entry>
 </feed>

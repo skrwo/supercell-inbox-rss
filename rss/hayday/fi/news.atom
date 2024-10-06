@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-10-06T07:29:06.298576+00:00</updated>
+  <updated>2024-10-06T08:36:14.464898+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -219,5 +219,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2pfB0M1RaquA7J2pcV8F7R/79015363a5285042ac2ef6b84686643e/inbox2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Tapahtumat"/>
     <published>2024-10-04T14:48:06+00:00</published>
+  </entry>
+  <entry>
+    <id>41LZb1rvmpgBUYDgxvcYgc</id>
+    <title>Hay Dayn viikko 41</title>
+    <updated>2024-10-06T08:02:07.957000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 41&lt;/h1&gt;
+&lt;p&gt;Heipä hei farmarit! On uuden tapahtumaviikon aika! Kaikki tapahtumat ja kisat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maanantai&lt;/b&gt;: laajennusesineitä onnenpyörässä&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tiistai&lt;/b&gt;: kuponkeja lisäpalkintoina tavararekkatilauksista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keskiviikko&lt;/b&gt;: kolmen tuotantorakennuksen 20 %:n tehostus&lt;/p&gt;&lt;p&gt;&lt;b&gt;Torstai&lt;/b&gt;: laajennusesineitä kylävierailijoilta&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perjantai&lt;/b&gt;: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lauantai&lt;/b&gt;: viljavaraston ja ladon päivitysmateriaaleja lisäpalkintoina kylävierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunnuntai&lt;/b&gt;: eläinten ruokintatehostus (3 satunnaista rehua valmistuu tuplanopeudella)&lt;/p&gt;&lt;p&gt;Muistathan myös osallistua tämän viikon naapurustokisoihin. Vuorossa ovat rennot pupukisat, jotka alkavat maanantaina!&lt;/p&gt;&lt;p&gt;Viljavaa viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/41LZb1rvmpgBUYDgxvcYgc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Tapahtumat"/>
+    <published>2024-10-06T08:00:03+00:00</published>
   </entry>
 </feed>

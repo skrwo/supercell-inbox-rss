@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-10-06T07:29:06.705507+00:00</updated>
+  <updated>2024-10-06T08:36:14.646185+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -219,5 +219,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2pfB0M1RaquA7J2pcV8F7R/79015363a5285042ac2ef6b84686643e/inbox2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="イベント"/>
     <published>2024-10-04T14:48:06+00:00</published>
+  </entry>
+  <entry>
+    <id>41LZb1rvmpgBUYDgxvcYgc</id>
+    <title>ヘイ・デイ第41週</title>
+    <updated>2024-10-06T08:02:07.957000+00:00</updated>
+    <content>&lt;h1&gt;ヘイ・デイ イベントカレンダー第41週&lt;/h1&gt;
+&lt;p&gt;農場主の皆さま！今週も各種イベントをお楽しみください！イベントやダービーはすべて日本時間17時から始まります。各イベントの詳細は、ゲーム内のイベント掲示板からご確認ください。&lt;/p&gt;&lt;p&gt;&lt;b&gt;月曜日&lt;/b&gt;：ルーレット回転（拡張用アイテム）&lt;/p&gt;&lt;p&gt;&lt;b&gt;火曜日&lt;/b&gt;：トラックのお仕事（チケット）&lt;/p&gt;&lt;p&gt;&lt;b&gt;水曜日&lt;/b&gt;：生産施設ブースト（3つの施設が20％スピードアップ）&lt;/p&gt;&lt;p&gt;&lt;b&gt;木曜日&lt;/b&gt;：町の訪問客（拡張用アイテム）&lt;/p&gt;&lt;p&gt;&lt;b&gt;金曜日&lt;/b&gt;：釣り場の施設ブースト（ロブスタープール＆ルアー用作業台が30％スピードアップ）+ 農場パスポイント2倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;土曜日&lt;/b&gt;：町の訪問客（サイロや納屋の拡張用アイテム）&lt;/p&gt;&lt;p&gt;&lt;b&gt;日曜日&lt;/b&gt;：動物のエサ（3種類のエサの生産速度が2倍にアップ）&lt;/p&gt;&lt;p&gt;今週月曜日から始まるマイペースバニーダービーへの参加もお忘れなく！&lt;/p&gt;&lt;p&gt;それでは、楽しい1週間を！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/41LZb1rvmpgBUYDgxvcYgc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="イベント"/>
+    <published>2024-10-06T08:00:03+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-10-06T07:29:07.100442+00:00</updated>
+  <updated>2024-10-06T08:36:13.785548+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -219,5 +219,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2pfB0M1RaquA7J2pcV8F7R/79015363a5285042ac2ef6b84686643e/inbox2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventi"/>
     <published>2024-10-04T14:48:06+00:00</published>
+  </entry>
+  <entry>
+    <id>41LZb1rvmpgBUYDgxvcYgc</id>
+    <title>Eventi di Hay Day (settimana n. 41)</title>
+    <updated>2024-10-06T08:02:07.957000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 41)&lt;/h1&gt;
+&lt;p&gt;Ciao! Questa settimana ti attendono tantissimi eventi e un derby, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ogni evento, consulta il loro tabellone in gioco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunedì&lt;/b&gt;: oggetti espansione (gira la ruota).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martedì&lt;/b&gt;: buoni (ordini del furgone).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercoledì&lt;/b&gt;: potenziamento del 20% per tre edifici produttivi.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Giovedì&lt;/b&gt;: oggetti espansione (visitatori della città).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Venerdì&lt;/b&gt;: potenziamento del 30% per due edifici per la pesca (vasca per aragoste e banco da lavoro per esche) e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabato&lt;/b&gt;: materiali per granaio e silo (visitatori della città).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domenica&lt;/b&gt;: produttività dei mangimifici ottimizzata (tre tipi casuali di mangime per animali verranno prodotti al doppio della velocità).&lt;/p&gt;&lt;p&gt;Infine, non dimenticarti di partecipare al derby relax dei conigli, che inizierà lunedì!&lt;/p&gt;&lt;p&gt;Ti auguriamo una settimana produttiva!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/41LZb1rvmpgBUYDgxvcYgc"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventi"/>
+    <published>2024-10-06T08:00:03+00:00</published>
   </entry>
 </feed>
