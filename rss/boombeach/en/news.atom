@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-10-06T10:37:50.987492+00:00</updated>
+  <updated>2024-10-06T11:29:18.446789+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -56,5 +56,34 @@ If we destroy 4 buildings with 10% boost players will get the following energy f
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/K2a9WEG1QJQQDwiOLSEy3/659784917d786ab1e43162a24966e56e/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Updates"/>
     <published>2024-09-23T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6RtP3WFYbl5sUeFNTpzIur</id>
+    <title>October Events</title>
+    <updated>2024-10-06T10:57:22.285000+00:00</updated>
+    <content>&lt;h1&gt;This October in Boom Beach&lt;/h1&gt;
+&lt;p&gt;Welcome, Commanders, to an eerie month in Boom Beach! As the leaves change color and the air grows crisp, our tropical paradise is heating up with spine-tingling surprises. &lt;/p&gt;&lt;p&gt;Here&amp;#39;s what you can expect:&lt;/p&gt;&lt;p&gt;4 - 6: Mech &amp;amp; Warrior Mania: &lt;i&gt;Unleash your mechanized troops and warriors for a fierce showdown.&lt;/i&gt;
+
+7 - 9: Deployable Turret:&lt;b&gt; &lt;/b&gt;&lt;i&gt;Deploy them strategically on the battlefield. &lt;/i&gt;
+
+11 - 13: Rifle &amp;amp; Tank Mania: &lt;i&gt;Combine firepower and mobility for an unstoppable force.&lt;/i&gt;
+
+14 - 20: Rain Maker:&lt;b&gt; &lt;/b&gt;&lt;i&gt;Make it rain with the Rain Maker.&lt;/i&gt;
+
+18 - 20: Laser Ranger Mania: &lt;i&gt;Engage in high-tech battles with the Laser Ranger.&lt;/i&gt;
+
+21 - 23: Remote Hack: &lt;i&gt;A hack at the right moment can decide the course of the battle.&lt;/i&gt;
+
+25 - 27: Halloween Crab: &lt;i&gt;Prepare for a special edition of Mega Crab with special defenses.&lt;/i&gt;
+
+28 - Nov 3: Vampire Zooka: &lt;i&gt;Embrace the Halloween spirit with Vampire Zooka.&lt;/i&gt;
+
+28 - Nov 17: Season 67: &lt;i&gt;Dive into the new season filled with fresh challenges.&lt;/i&gt;
+
+As we gear up for these exciting events, don’t forget to strategize and prepare your troops. October in Boom Beach is set to be an unforgettable experience filled with battles, rewards, and a touch of Halloween magic! &lt;/p&gt;&lt;p&gt;&lt;b&gt;Are you ready to take command? &lt;/b&gt;&lt;/p&gt;</content>
+    <link href="https://boombeach.inbox.supercell.com/#/en/news/6RtP3WFYbl5sUeFNTpzIur"/>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/5bxN6RzF9Qjg07gfjA49lP/b7ea20bf883c27064e8937a3e3f9b5ba/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
+    <category term="Blog"/>
+    <published>2024-09-30T23:00:00+00:00</published>
   </entry>
 </feed>
