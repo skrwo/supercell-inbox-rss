@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-10-07T15:34:28.243326+00:00</updated>
+  <updated>2024-10-07T16:41:16.188282+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -132,5 +132,14 @@
     <link href="https://twitter.com/Brawl_esports/status/1840543790412779950"/>
     <category term="Esports"/>
     <published>2024-09-30T19:53:43+00:00</published>
+  </entry>
+  <entry>
+    <id>3RYsRjieiXOxHHL1bC3BnS</id>
+    <title>Last Chance Qualifier Aftermovie</title>
+    <updated>2024-10-07T15:34:30.217000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5blJxC7avlIEv2xNbNFCal/2f11b8b27ff7c739b70742baa7d1053e/Aftermovie_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/live/hLS6GnOknP8"/>
+    <category term="Esports"/>
+    <published>2024-10-07T15:34:30+00:00</published>
   </entry>
 </feed>

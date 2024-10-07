@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-10-07T15:34:27.675489+00:00</updated>
+  <updated>2024-10-07T16:41:16.722965+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>w5CXHGDJ5URwFI0jnZQxe</id>
-    <title>ブロスタ チャンピオンシップ2024 - ラストチャンス予選</title>
-    <updated>2024-07-09T11:46:50.197000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6oj0XETpbauJpaOAriHSY4/15d5db4b48ce13607999db0a33ebcff1/lastChance_JP.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=SA7YJiyp5g4"/>
-    <category term="eスポーツ"/>
-    <published>2024-07-09T11:46:50+00:00</published>
-  </entry>
   <entry>
     <id>6bxiLealkXv0LQ9GuW8XIU</id>
     <title>アジア太平洋地域 7月マンスリー決勝戦</title>
