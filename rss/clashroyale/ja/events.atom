@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-eventEntries-ja</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-10-08T06:42:20.095254+00:00</updated>
+  <updated>2024-10-08T07:31:03.734615+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
