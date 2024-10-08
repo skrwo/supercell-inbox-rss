@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-eventEntries-ja</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-10-08T01:56:49.744609+00:00</updated>
+  <updated>2024-10-08T03:02:30.306798+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -17,12 +17,22 @@
     <published>2023-02-24T11:21:01+00:00</published>
   </entry>
   <entry>
+    <id>QlfD1pwQl5Sv0qQz1251S</id>
+    <title>🗞️</title>
+    <updated>2024-10-08T02:27:30.130000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://gamewith.jp/brawlstars-jp/"&gt;👉GameWith👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5Hfjln6CHy28jNYQl6JnEu/2d8b0c128a6d7ef7053aaded60085ea7/20241004_BST_inbox_thumbnail.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://gamewith.jp/brawlstars-jp/"/>
+    <published>2024-10-08T02:27:30+00:00</published>
+  </entry>
+  <entry>
     <id>4J1OjyZ53m2q7AQLzniVtW</id>
     <title>🗞️</title>
-    <updated>2024-09-17T02:31:27.224000+00:00</updated>
+    <updated>2024-10-08T02:24:27.609000+00:00</updated>
     <content>&lt;br&gt;
 &lt;a href="https://twitter.com/brawlstarsjp"&gt;👉X(Twitter）👈&lt;/a&gt; -- &lt;a href="https://www.instagram.com/brawlstars_jp/"&gt;👉Instagram👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4yGvOa3Ybz9LOg7f7djBc4/c65adfbc71592aba1ad9f9f74b57d7bc/20240131_BST_inbox_thumbnail.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5Z5dSsNcOp2Q8QZ4OJhRr4/50a14b423c6c58a8063679f0465aa1a3/20241004_BST_inbox_thumbnail_2.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <published>2024-02-01T04:10:39+00:00</published>
   </entry>
   <entry>
