@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-10-08T07:31:15.080248+00:00</updated>
+  <updated>2024-10-08T08:40:13.584561+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7nFV4fBjNoBMpBP8V2vrEm</id>
-    <title>Temmuz Panayırı Animasyonu</title>
-    <updated>2024-07-10T08:01:29.378000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/7nFV4fBjNoBMpBP8V2vrEm"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/49CuljIORj8ywIvxrCOY8X/52d1e5ff2a5092a5a4108fd1149a4ff9/thumbcount1-min.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/ci4sJtD7ZbY"/>
-    <category term="Topluluk"/>
-    <published>2024-07-10T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>3rWiTHl5rDrvEwfEmS8h4r</id>
     <title>Hay Day Etkinlikleri 29. Hafta!</title>
@@ -220,5 +210,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Etkinlikler"/>
     <published>2024-10-06T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>6luXvKBXwtgkWRoddQO05e</id>
+    <title>Çiftliğini tasarlayarak ödüller kazan!</title>
+    <updated>2024-10-08T08:01:14.464000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/6luXvKBXwtgkWRoddQO05e"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1bx3Rttb8uHgaNeVpqiJg1/c4d880e707e648101227f190da547821/HayDay_Decoration_Event_Thumbnail_03.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/22Smb8PhqQk"/>
+    <category term="Haberler"/>
+    <published>2024-10-08T08:00:03+00:00</published>
   </entry>
 </feed>

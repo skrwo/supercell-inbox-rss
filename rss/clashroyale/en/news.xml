@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Oct 2024 07:31:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 08:40:03 +0000</lastBuildDate>
     <item>
       <title>Goblin Drill Evolution!</title>
       <link>https://youtube.com/shorts/4UpoddXksAg?feature=share</link>
@@ -493,6 +493,99 @@ The Second Evolution slot is now more accessible. You can use two Evolutions sta
       <category>Release Notes</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1DOkC3w9Dg6zSqetc72LG4/3ef5596c7c013ddea580fc9993c92f32/SUP3961_Season_64_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Oct 2024 08:50:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>October Balance Changes</title>
+      <link>https://clashroyale.inbox.supercell.com/#/en/news/A2lfJu71gQbOZvCaVPsin</link>
+      <description>&lt;h1&gt;BOMBER&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LafErO8TUQzluFgWDolom/c12f75618eaae5950eaa2f570a5430b0/bomber.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Damage:&lt;/b&gt; 
+230 → 225 (-2.00%)&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Bomber&amp;#39;s last buff allowed it to destroy Barbarians in 3 hits and Spirits in 1 hit. We&amp;#39;re partially reverting this buff to maintain the interaction with Barbarians while removing the interaction with Spirits, preventing them from being randomly sniped by both Evolved and non-Evolved Bomber attacks&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblin Demolisher&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2dpTWEmhfznVzueQ2llIxM/5b6e8001215ada5454befad5fceacaa4/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Lifetime after 50% HP:	&lt;/b&gt;
+10sec → 7sec (-30.00%)&lt;/p&gt;
+&lt;p&gt;The fuses on Goblin Demolisher&amp;#39;s dynamites were too long, so we&amp;#39;re shortening them to make it easier to counter his charge after he reaches 50% hitpoints.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Void&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6RhRU8cJK9cLgvEsl2w4Yj/01e49cd77cbdc2d10a0c9874ab505455/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Damage (1 Target): 
+&lt;/b&gt;472 → 320 (-32.00%)&lt;/p&gt;
+&lt;p&gt;Void is still too effective at gaining positive Elixir trades against 5-cost ranged troops and buildings. It will now be less effective against these cards and require additional support to defeat them.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;MORTAR EVOLUTION&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/30F43aztJUolEx0aryaUdW/8f7b71c16d92def931b7919efd4e4664/mortarevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;First Hit Speed: &lt;/b&gt;
+0sec → 1sec&lt;/p&gt;
+&lt;p&gt;Unlike the unevolved Mortar and most other troops and buildings, the Evolved Mortar had no first-hit delay after deployment. It has been strong in recent seasons, so we&amp;#39;re adding a first-hit delay to match the unevolved Mortar and toning down its overall strength.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;P.E.K.K.A Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CNF16s6AOq6312vO9TfGb/6b4cef5089d37a457cce507d1513bd69/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Heal per death: &lt;/b&gt;
+471 →  376 (-20.00%)&lt;/p&gt;
+&lt;p&gt;There are too many instances where Evolved P.E.K.K.A narrowly breaks through strong defenses. This nerf aims to reduce those close-call situations, while also addressing popular competitive P.E.K.K.A decks with nerfs to other cards, such as Void and Evolved Wizard.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Tesla&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3mCnLkik3PKwL3cM3Ig4Om/a09885c350b979d9d8bb3de2468cc543/tesla.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Hit Speed:
+&lt;/b&gt;1200 → 1100 (-8.00%)
+
+&lt;b&gt;Evolution:&lt;/b&gt; 
+Removed the shockwave when destroyed&lt;/p&gt;
+&lt;p&gt;The experiment of giving Evolved Tesla an additional Shockwave in a previous balance patch didn’t work, as it made it nearly impossible to break through. We’re removing the extra guaranteed Shockwave but reverting one of the previous nerfs to the non-Evolved Tesla.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Wizard Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3n5HB5Vos8wOaWma7RJNM2/295588b19d54e326bd24fba640fa8806/wizardevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Shield Knockback: &lt;/b&gt;
+4 → 3 tiles (-25.00%)&lt;/p&gt;
+&lt;p&gt;Evolved Wizard remains one of the strongest Evolutions in the game. We&amp;#39;re nerfing its extreme knockback when the Shield is destroyed to reduce its power and make battles less chaotic. The large knockback was often unpredictable, especially in 2x and 3x Elixir situations with many troops on both sides.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Cannoneer&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MPVcjqodMCfyzaZL3C9eo/3e1c7ca481351b180023f11c5e403e20/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;First Hit Speed:&lt;/b&gt; 
+600 → 800 (33.00%)
+&lt;b&gt;Damage:&lt;/b&gt; 
+401 → 386 (-4.00%)&lt;/p&gt;
+&lt;p&gt;Cannoneer is a bit too versatile, capable of countering cycle cards like Wall Breakers while also dealing high damage per second to high-HP troops. We&amp;#39;re nerfing its First Hit Speed so players will need to better defend against Wall Breakers, and slightly reducing its overall damage to weaken its effectiveness against tanks like Giant and Golem.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblin Curse&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6xkWPNueofenqJo59r4MOQ/7d3a6d11a62300635d380b8651661a0d/goblincurse.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Damage per sec: 
+&lt;/b&gt;25 → 30 (20.00%)&lt;/p&gt;
+&lt;p&gt;Goblin Curse&amp;#39;s low damage made it unintuitive to use against even the weakest troops, like Skeletons, Bats, and Spear Goblins. This damage buff will allow it to destroy those troops a full second faster.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblin Machine&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ExUOSES72J93wEGZjK6Zg/e68ca77cf73a48aa1312ab98544db927/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;HP: 
+&lt;/b&gt;2196 → 2304 (5.00%)&lt;/p&gt;
+&lt;p&gt;Despite firing rockets more often from the last balance update, Goblin Machine needs more HP to fire multiple rockets consistently.&lt;/p&gt;
+&lt;h1&gt;Skeleton Barrel&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77uAJRkyK9yGjbnrEJoEhR/eabf7e8912808dcb0ef9279e58d44a99/skeletonbarrel.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Death Damage:
+&lt;/b&gt;133 → 145 (9.00%)&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re buffing Skeleton Barrel&amp;#39;s Death Damage to make incremental Crown Tower Damage throughout a battle more worthwhile in the face of cheap counters such as 2-Elixir spells and 1-Elixir Spirits.&lt;/p&gt;
+&lt;h1&gt;Suspicious Bush&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2GtLpe2fHD30eYFKWHGazl/a847405c2b70757d488eadd571f210c8/suspiciousbush.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Speed (Bush):&lt;/b&gt; 
+45 → 60 (33.00%)&lt;/p&gt;
+&lt;p&gt;Bush Goblins stopped skipping leg day and can now carry the Suspicious Bush without being slowed down. This buff aims to make the Suspicious Bush&amp;#39;s Speed consistent with the Bush Goblins and make the card more effective at reaching its target.&lt;/p&gt;
+&lt;h1&gt;Goblin Cage Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/385kSis7ePtxVnhK6KnbIF/07c9018216289f92fe9666f055c1ce0b/goblincageevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Capture Damage per second: 
+&lt;/b&gt;306 → 337 (10.00%)&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re adjusting the Evolved Goblin Cage to deal damage once per second instead of every 1.1 seconds. This buff will make it consistent with other spells that deal damage at the same rate, allow it to more reliably inflict damage before being destroyed by spells or troops, and provide an overall damage increase.&lt;/p&gt;
+&lt;h1&gt;Goblin Drill Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6urEwVZPDT5Mv6sqSyLtNl/4fdfc9eb2259ebc612a3f9820cdb56d8/goblindrillevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Removed Damage and Knockback from 2nd and 3rd spawns
+Added deploy time to Goblins spawned from submerge
+Added Goblin spawn to 2nd submerge&lt;/p&gt;
+&lt;p&gt;With the last update, we made several improvements to the Evolved Goblin Drill. Based on community feedback, we are reworking it to ensure that it does not deal damage or knockback when it reemerges, and that the Goblins spawned from submerging have a deploy time consistent with those that spawn when the Goblin Drill is destroyed. These changes will address key issues with the card, so we&amp;#39;re also adding an extra Goblin for a more consistent design.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Zap Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4pPJe7Mzro2LjSJXSORZvK/4b2b6011b29e5a4ea8e72e162210ff42/zapevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Removed 3rd Zap
+2nd Zap now does full damage&lt;/p&gt;
+&lt;p&gt;Evolved Zap&amp;#39;s three stuns were too strong at controlling a large area of the battle for only 2 Elixir. We&amp;#39;re cutting the number of Zaps to two, but the second Zap will do full Damage, and the spell will take less time to deal its total Damage.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Bug Fixes&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Magic Archer HP:&lt;/b&gt; 532 → 531
+
+There was an inconsistency in Mortar versus Magic Archer interactions where Mortar would take one less hit to destroy Magic Archer at level 11 compared to level 15. Now, Mortar will always take two hits to destroy Magic Archer.&lt;/p&gt;&lt;p&gt;A similar bug fix (-1 HP) was applied to Mother Witch.&lt;/p&gt;</description>
+      <guid isPermaLink="false">A2lfJu71gQbOZvCaVPsin</guid>
+      <category>Release Notes</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 08 Oct 2024 08:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

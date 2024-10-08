@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 08 Oct 2024 07:31:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 08:40:03 +0000</lastBuildDate>
     <item>
       <title>La trivella goblin evoluta!</title>
       <link>https://youtube.com/shorts/4UpoddXksAg?feature=share</link>
@@ -385,6 +385,95 @@ Il team di &lt;i&gt;Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
       <category>Note di rilascio</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Wed, 02 Oct 2024 07:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modifiche di bilanciamento di ottobre</title>
+      <link>https://clashroyale.inbox.supercell.com/#/it/news/A2lfJu71gQbOZvCaVPsin</link>
+      <description>&lt;h1&gt;Bombarolo&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LafErO8TUQzluFgWDolom/c12f75618eaae5950eaa2f570a5430b0/bomber.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni&lt;/b&gt;
+-2% (da 230 a 225)&lt;/p&gt;
+&lt;p&gt;L&amp;#39;ultimo potenziamento del bombarolo gli permetteva di eliminare i barbari con tre colpi e gli spiriti con uno. Abbiamo deciso di modificare parzialmente questa situazione, mantenendo intatta l&amp;#39;efficacia della carta contro i barbari e diminuendo quella contro gli spiriti, così questi esserini eviteranno di essere eliminati a caso dai colpi della versione normale ed evoluta del bombarolo.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Goblin demolitore&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2dpTWEmhfznVzueQ2llIxM/5b6e8001215ada5454befad5fceacaa4/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durata effetti a metà PF&lt;/b&gt;
+-30% (da 10 a 7 secondi)&lt;/p&gt;
+&lt;p&gt;Le micce dei candelotti del goblin demolitore erano un po&amp;#39; troppo lunghe, quindi le abbiamo accorciate per contrastare più facilmente il suo attacco in carica quando perde la metà della salute.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Nihil&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6RhRU8cJK9cLgvEsl2w4Yj/01e49cd77cbdc2d10a0c9874ab505455/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni a un obiettivo&lt;/b&gt;
+-32% (da 472 a 320)&lt;/p&gt;
+&lt;p&gt;Se si guarda la quantità di elisir speso dai due avversari durante uno scontro, il Nihil rimane ancora una scelta molto efficace contro le truppe da attacco a distanza o gli edifici che costano cinque unità di elisir. Ora, l&amp;#39;incantesimo sarà meno potente contro queste carte e sarà necessario uno sforzo in più per eliminarle.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mortaio evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/30F43aztJUolEx0aryaUdW/8f7b71c16d92def931b7919efd4e4664/mortarevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità del primo colpo&lt;/b&gt;
+Aumentata a un secondo (da zero).&lt;/p&gt;
+&lt;p&gt;Al contrario della sua versione non evoluta e della maggior parte degli altri edifici e truppe, il mortaio evoluto sparava subito non appena lo si schierava. Questa carta si è dimostrata forte nelle ultime stagioni, quindi il primo colpo sarà lanciato con un piccolo ritardo per metterla sullo stesso piano del mortaio normale e indebolire un po&amp;#39; la sua potenza.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CNF16s6AOq6312vO9TfGb/6b4cef5089d37a457cce507d1513bd69/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Cure per eliminazione&lt;/b&gt;
+-20% (da 471 a 376)&lt;/p&gt;
+&lt;p&gt;Ci sono troppe situazioni in cui la P.E.K.K.A evoluta riesce a cavarsela per il rotto della cuffia ogni volta che si trova davanti a delle difese forti. Il cambio in questione mira a ridurre questi casi e, assieme agli indebolimenti di altre carte, come il Nihil e lo stregone evoluto, diminuirà la forza dei mazzi più popolari che usano la P.E.K.K.A negli ambiti più competitivi.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Tesla&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3mCnLkik3PKwL3cM3Ig4Om/a09885c350b979d9d8bb3de2468cc543/tesla.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità colpi&lt;/b&gt;
+-8% (da 1200 a 1100)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evoluzione&lt;/b&gt;
+Rimosso l&amp;#39;impulso rilasciato alla distruzione.&lt;/p&gt;
+&lt;p&gt;In una delle modifiche di bilanciamento scorse, avevamo fatto un esperimento, dando alla Tesla evoluta un impulso aggiuntivo. Tuttavia, questa idea non è stata delle migliori, perché l&amp;#39;edificio rendeva le difese pressoché inespugnabili. Abbiamo rimosso l&amp;#39;impulso aggiuntivo, ma, in cambio, abbiamo annullato uno degli indebolimenti precedenti aggiunti alla versione normale dell&amp;#39;edificio.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Stregone evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3n5HB5Vos8wOaWma7RJNM2/295588b19d54e326bd24fba640fa8806/wizardevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Spinta dello scudo&lt;/b&gt;
+-25% (da 4 a 3 caselle)&lt;/p&gt;
+&lt;p&gt;Lo stregone evoluto rimane una delle evoluzioni più forti del gioco, quindi abbiamo indebolito la spinta un po&amp;#39; troppo eccessiva dello scudo distrutto per ridurre la sua forza e rendere le battaglie meno caotiche. Quella forte spinta, infatti, era spesso imprevedibile, soprattutto nei momenti in cui la produzione dell&amp;#39;elisir raddoppiava o triplicava e c&amp;#39;erano tante truppe di entrambe le parti.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Cannoniere&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MPVcjqodMCfyzaZL3C9eo/3e1c7ca481351b180023f11c5e403e20/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità del primo colpo&lt;/b&gt;
++33% (da 600 a 800)
+&lt;b&gt;Danni&lt;/b&gt;
+-4% (da 386 a 401)&lt;/p&gt;
+&lt;p&gt;Il cannoniere se la cava un po&amp;#39; troppo bene nella maggior parte delle situazioni ed è capace sia di contrastare le carte schierate ciclicamente, come gli spaccamuro, sia di causare danni al secondo elevati alle truppe con tanti PF. Abbiamo deciso di ridurre la velocità del suo primo colpo, così i giocatori dovranno difendersi meglio contro gli spaccamuro, e di diminuire leggermente i danni totali che infligge, per renderlo meno efficace contro le truppe più resistenti, come il gigante o il golem.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Maledizione goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6xkWPNueofenqJo59r4MOQ/7d3a6d11a62300635d380b8651661a0d/goblincurse.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni al secondo&lt;/b&gt;
++20% (da 25 a 30)&lt;/p&gt;
+&lt;p&gt;A causa della forza contenuta, la Maledizione goblin non era una delle scelte più intuitive per contrastare gli avversari, nemmeno quelli più deboli, come gli scheletri, i pipistrelli e i goblin lancieri. Con questa spintarella, ora si possono eliminare queste truppe più fragili un secondo prima.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Macchina goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ExUOSES72J93wEGZjK6Zg/e68ca77cf73a48aa1312ab98544db927/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;PF&lt;/b&gt;
++5% (da 2196 a 2304)&lt;/p&gt;
+&lt;p&gt;Nonostante le ultime modifiche abbiano permesso alla macchina di sparare razzi più spesso, questa carta ha bisogno di più PF per poter rilasciare la sua potenza di fuoco con maggior costanza.&lt;/p&gt;
+&lt;h1&gt;Barile d'ossa&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77uAJRkyK9yGjbnrEJoEhR/eabf7e8912808dcb0ef9279e58d44a99/skeletonbarrel.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni alla distruzione&lt;/b&gt;
++9% (da 133 a 145)&lt;/p&gt;
+&lt;p&gt;Abbiamo aumentato questa statistica per dare più senso ai danni che vengono inferti un po&amp;#39; alla volta alle torri della corona durante la battaglia, soprattutto quando un giocatore tenta di fermare questa carta con soluzioni economiche, come gli incantesimi e gli spiriti da una o due unità di elisir.&lt;/p&gt;
+&lt;h1&gt;Cespuglio sospetto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2GtLpe2fHD30eYFKWHGazl/a847405c2b70757d488eadd571f210c8/suspiciousbush.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità del cespuglio&lt;/b&gt;
++33% (da 45 a 60)&lt;/p&gt;
+&lt;p&gt;I goblin imboscati si sono accorti che allenare i muscoli delle gambe ha la sua importanza, quindi ora trasporteranno il cespuglio più velocemente. Lo scopo del potenziamento è quello di adeguare la velocità del cespuglio a quella del goblin che protegge e di far raggiungere alla carta il suo obiettivo con maggior successo.&lt;/p&gt;
+&lt;h1&gt;Gabbia per goblin evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/385kSis7ePtxVnhK6KnbIF/07c9018216289f92fe9666f055c1ce0b/goblincageevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni al secondo durante la cattura&lt;/b&gt;
++10% (da 306 a 337)&lt;/p&gt;
+&lt;p&gt;Abbiamo modificato la gabbia per goblin evoluta in modo che causi danni ogni secondo invece di ogni 1,1 secondi. Ciò la metterà sullo stesso piano degli altri incantesimi che colpiscono con la stessa velocità, la renderà più affidabile negli attacchi prima che venga distrutta dagli incantesimi o dalle truppe avversarie e, in generale, aumenterà i danni che infligge.&lt;/p&gt;
+&lt;h1&gt;Trivella goblin evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6urEwVZPDT5Mv6sqSyLtNl/4fdfc9eb2259ebc612a3f9820cdb56d8/goblindrillevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Rimossi danni e spinta quando affiora la seconda e la terza volta.
+Aggiunto un tempo di schieramento ai goblin generati quando torna sottoterra.
+Aggiunto un goblin quando torna sottoterra la seconda volta.&lt;/p&gt;
+&lt;p&gt;Nell&amp;#39;ultimo aggiornamento, abbiamo migliorato diversi aspetti della trivella evoluta. Ora, in seguito ai commenti della community, abbiamo fatto sì che non causi danni o spinga indietro gli avversari quando affiora e che i goblin generati ogni volta che va sottoterra abbiano un tempo di schieramento, proprio come quelli rilasciati alla distruzione. Questi cambi risolveranno alcuni grossi problemi di questo edificio e, per rendere più coerente la sua funzionalità, abbiamo aggiunto un goblin a quelli messi in campo.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Scarica evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4pPJe7Mzro2LjSJXSORZvK/4b2b6011b29e5a4ea8e72e162210ff42/zapevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Rimossa la terza scarica.
+La seconda scarica non causa più danni ridotti.&lt;/p&gt;
+&lt;p&gt;Visto il costo di solo due unità di elisir, il triplo stordimento della Scarica evoluta teneva sotto controllo un&amp;#39;ampia zona dell&amp;#39;arena in modo un po&amp;#39; troppo efficace, quindi abbiamo ridotto le scariche a due e dato alla seconda la stessa forza della prima, diminuendo il tempo totale che l&amp;#39;incantesimo ci mette a causare il suo danno completo.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Problemi risolti&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;PF dell&amp;#39;arciere magico&lt;/b&gt;: ridotti a 531 (da 532)&lt;/p&gt;&lt;p&gt;C&amp;#39;era un&amp;#39;incoerenza nelle interazioni tra il mortaio e l&amp;#39;arciere magico, in base alla quale il mortaio di livello 11 eliminava l&amp;#39;arciere con un colpo in meno rispetto a quello di livello 15. Ora al mortaio serviranno sempre due colpi per sbarazzarsi dell&amp;#39;arciere.&lt;/p&gt;&lt;p&gt;Un errore simile è stato risolto pure con la strega madre, i cui PF sono stati ridotti di un&amp;#39;unità.&lt;/p&gt;</description>
+      <guid isPermaLink="false">A2lfJu71gQbOZvCaVPsin</guid>
+      <category>Note di rilascio</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 08 Oct 2024 08:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
