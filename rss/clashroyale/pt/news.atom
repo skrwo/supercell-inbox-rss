@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-09T07:29:55.906208+00:00</updated>
+  <updated>2024-10-09T08:39:27.656529+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -390,7 +390,7 @@ OJ&lt;/p&gt;
   <entry>
     <id>1Q2ABYJgC3ZmSEcxLdJcQu</id>
     <title>Perca se tiver coragem.</title>
-    <updated>2024-10-09T04:05:50.941000+00:00</updated>
+    <updated>2024-10-09T08:00:23.167000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/pt/news/1Q2ABYJgC3ZmSEcxLdJcQu"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4oMzY03zAYIpqvbgmUZ4zL/7703369eea140c3daefc8e75e510e19d/loseifyoudare.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/bgVeniWQNsc"/>
@@ -400,7 +400,7 @@ OJ&lt;/p&gt;
   <entry>
     <id>3WPjOIFSaEQsok6btAFEfg</id>
     <title>EVENTOS E DESAFIOS DE OUTUBRO</title>
-    <updated>2024-10-09T04:06:03.987000+00:00</updated>
+    <updated>2024-10-09T07:36:37.531000+00:00</updated>
     <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
 &lt;hr/&gt;&lt;h3&gt;Evolução do Dragão Elétrico (1x1 e duplas): 7 a 14 de outubro&lt;/h3&gt;&lt;p&gt;⚡ Os raios do Dragão Elétrico evoluído ricocheteiam de um inimigo ao outro até não sobrar ninguém em pé! Monte o deck perfeito para aproveitar esse novo poder.&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Desafio&lt;/b&gt;: 11 a 14 de outubro
 🏆 &lt;b&gt;Recompensa&lt;/b&gt;: ilustração e estampa de bandeira&lt;/p&gt;
@@ -418,5 +418,95 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1DOkC3w9Dg6zSqetc72LG4/3ef5596c7c013ddea580fc9993c92f32/SUP3961_Season_64_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de lançamento"/>
     <published>2024-10-07T08:50:02+00:00</published>
+  </entry>
+  <entry>
+    <id>A2lfJu71gQbOZvCaVPsin</id>
+    <title>Balanceamento de outubro</title>
+    <updated>2024-10-09T08:18:33.055000+00:00</updated>
+    <content>&lt;h1&gt;BOMBARDEIRO&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LafErO8TUQzluFgWDolom/c12f75618eaae5950eaa2f570a5430b0/bomber.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dano:&lt;/b&gt;
+230 → 225 (-2%)&lt;/p&gt;
+&lt;p&gt;O último fortalecimento do Bombardeiro fez com que ele pudesse destruir Bárbaros com 3 golpes e Espíritos com 1 golpe. Vamos reverter parcialmente o fortalecimento para manter a interação com os Bárbaros, mas remover a com Espíritos, impedindo que eles sejam alvejados aleatoriamente por ataques de Bombardeiros, evoluídos ou não.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Goblin Demolidor&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2dpTWEmhfznVzueQ2llIxM/5b6e8001215ada5454befad5fceacaa4/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vida depois de 50% de PV:&lt;/b&gt;
+10s → 7s (-30%)&lt;/p&gt;
+&lt;p&gt;Os fusíveis das dinamites do Goblin Demolidor eram longos demais, então foram aparados para ficar mais fácil contra-atacar a arremetida que ele dá ao ficar com 50% dos pontos de vida.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Vácuo&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6RhRU8cJK9cLgvEsl2w4Yj/01e49cd77cbdc2d10a0c9874ab505455/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dano (1 alvo):&lt;/b&gt;
+472 → 320 (-32%)&lt;/p&gt;
+&lt;p&gt;Vácuo ainda é bom demais em ganhar trocas de elixir positivas contra construções e tropas de longo alcance de custo 5. Ele agora será menos eficaz contra tais cartas, necessitando de mais apoio para derrotá-las.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;EVOLUÇÃO DO MORTEIRO&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/30F43aztJUolEx0aryaUdW/8f7b71c16d92def931b7919efd4e4664/mortarevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocidade do primeiro ataque:&lt;/b&gt;
+0s → 1s&lt;/p&gt;
+&lt;p&gt;Ao contrário do Morteiro normal e da maioria das tropas e construções, o Morteiro evoluído não tinha um intervalo para o primeiro ataque após entrar em campo. Isso se revelou bem forte nas últimas temporadas, então adicionamos um intervalo para equipará-lo ao Morteiro não evoluído e mitigar um pouco a força dele.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução da P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CNF16s6AOq6312vO9TfGb/6b4cef5089d37a457cce507d1513bd69/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Cura por abate:&lt;/b&gt;
+471 → 376 (-20%)&lt;/p&gt;
+&lt;p&gt;Em várias ocasiões, a P.E.K.K.A evoluída conseguia superar defesas fortes por pouco. Fizemos o ajuste para reduzir essas situações acirradas e também para dar uma segurada nos decks competitivos de P.E.K.K.A com enfraquecimentos em outras cartas, como Vácuo e Mago evoluído.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Tesla&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3mCnLkik3PKwL3cM3Ig4Om/a09885c350b979d9d8bb3de2468cc543/tesla.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocidade de ataque:&lt;/b&gt;
+1200 → 1100 (-8%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evolução:&lt;/b&gt;
+Removemos a onda de choque quando a unidade é destruída.&lt;/p&gt;
+&lt;p&gt;O experimento de dar mais uma onda de choque à Tesla evoluída na última leva de balanceamentos não funcionou, deixando-a quase intransponível. Tiramos a onda de choque extra garantida, mas revertemos também um dos enfraquecimentos à Tesla não evoluída.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Mago&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3n5HB5Vos8wOaWma7RJNM2/295588b19d54e326bd24fba640fa8806/wizardevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Repulsão do escudo:&lt;/b&gt;
+4 → 3 quadrados (-25%)&lt;/p&gt;
+&lt;p&gt;O Mago evoluído continua uma das evoluções mais fortes do jogo. Vamos enfraquecer a repulsão fortíssima que ocorre quando o escudo é destruído, para reduzir seu poder e deixar as batalhas menos caóticas. A repulsão enorme era imprevisível, ainda mais em situações com 2x ou 3x elixir, com várias tropas em ambos os lados.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Canhoneiro&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MPVcjqodMCfyzaZL3C9eo/3e1c7ca481351b180023f11c5e403e20/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocidade do primeiro ataque:&lt;/b&gt;
+600 → 800 (+33%)
+&lt;b&gt;Dano:&lt;/b&gt;
+401 → 386 (-4%)&lt;/p&gt;
+&lt;p&gt;O Canhoneiro é versátil até demais, sendo bom contra cartas de ciclo como Destruidores de Muros e também causando um alto dano por segundo a tropas com muita saúde. Vamos enfraquecer um pouco a velocidade do primeiro ataque para que seja preciso se defender melhor contra Destruidores de Muros. Também vamos reduzir o dano geral dele para deixá-lo menos eficaz contra tanques como o Gigante e o Golem.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Maldição Goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6xkWPNueofenqJo59r4MOQ/7d3a6d11a62300635d380b8651661a0d/goblincurse.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dano por segundo:&lt;/b&gt;
+25 → 30 (+20%)&lt;/p&gt;
+&lt;p&gt;Devido ao dano baixo, a Maldição Goblin não era intuitiva de usar mesmo contra tropas mais fracas, como Esqueletos, Morcegos e Goblins Lanceiros. O dano um pouco maior deve ajudar a destruir tais tropas um segundo mais rápido.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Máquina Goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ExUOSES72J93wEGZjK6Zg/e68ca77cf73a48aa1312ab98544db927/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;PV:&lt;/b&gt;
+2196 → 2304 (+5%)&lt;/p&gt;
+&lt;p&gt;Apesar de disparar foguetes com mais frequência depois do último ajuste, a Máquina Goblin precisa de mais PV para poder disparar vários foguetes consistentemente.&lt;/p&gt;
+&lt;h1&gt;Barril de Esqueletos&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77uAJRkyK9yGjbnrEJoEhR/eabf7e8912808dcb0ef9279e58d44a99/skeletonbarrel.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dano de morte:&lt;/b&gt;
+133 → 145 (+9%)&lt;/p&gt;
+&lt;p&gt;Fortalecemos o dano de morte do Barril de Esqueletos para que o dano à torre da coroa ao longo de uma batalha valha mais a pena, considerando contra-ataques simples como Feitiços de 2 unidades de elixir e Espíritos de 1 unidade de elixir.&lt;/p&gt;
+&lt;h1&gt;Arbusto Traiçoeiro&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2GtLpe2fHD30eYFKWHGazl/a847405c2b70757d488eadd571f210c8/suspiciousbush.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocidade (arbusto):&lt;/b&gt;
+45 → 60 (+33%)&lt;/p&gt;
+&lt;p&gt;Os Goblins Camuflados resolveram malhar as pernas e agora conseguem carregar o Arbusto Traiçoeiro sem lentidão. A alteração serve para alinhar a velocidade do Arbusto Traiçoeiro à dos Goblins Camuflados para que a carta possa chegar ao alvo mais facilmente.&lt;/p&gt;
+&lt;h1&gt;Evolução da Jaula de Goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/385kSis7ePtxVnhK6KnbIF/07c9018216289f92fe9666f055c1ce0b/goblincageevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dano por segundo da captura:&lt;/b&gt;
+306 → 337 (+10%)&lt;/p&gt;
+&lt;p&gt;Estamos ajustando a Jaula de Goblin evoluída para causar dano uma vez por segundo, em vez de a cada 1,1s. Assim, ela ficará alinhada com outros feitiços que causam dano no mesmo ritmo e ficará mais forte para infligir um dano mais consistente antes de ser destruída por feitiços ou tropas.&lt;/p&gt;
+&lt;h1&gt;Evolução da Escavadeira de Goblins&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6urEwVZPDT5Mv6sqSyLtNl/4fdfc9eb2259ebc612a3f9820cdb56d8/goblindrillevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Removemos o dano e a repulsão dos 2º e 3º surgimentos.
+Adicionamos um tempo de mobilização aos Goblins gerados quando ela volta ao subsolo.
+Agora um Goblin é gerado na segunda vez que se esconde na terra.&lt;/p&gt;
+&lt;p&gt;Na última atualização, implementamos várias melhorias à Escavadeira de Goblins evoluída. Ouvimos as sugestões da comunidade e decidimos ajustá-la para não causar dano nem repulsão ao reemergir, e também para que os Goblins gerados tenham tempo de mobilização igual ao dos que surgem quando a Escavadeira de Goblins é destruída. As alterações devem resolver as principais questões com a carta, então resolvemos adicionar mais um Goblin para deixar o design mais consistente.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução do Zap&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4pPJe7Mzro2LjSJXSORZvK/4b2b6011b29e5a4ea8e72e162210ff42/zapevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;O terceiro Zap foi removido.
+O segundo Zap não causa mais dano reduzido.&lt;/p&gt;
+&lt;p&gt;Os três atordoamentos do Zap evoluído eram fortes demais no controle de uma área grande, ao custo de apenas 2 unidades de elixir. Vamos reduzir a quantidade de Zaps para dois, mas o segundo causará o dano na íntegra, de modo que o feitiço vai demorar menos para causar o dano total.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Correções de erros&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;PV do Arqueiro Mágico&lt;/b&gt; 532 → 531&lt;/p&gt;&lt;p&gt;Havia uma inconsistência em interações entre Morteiro e Arqueiro Mágico, nas quais o Morteiro precisava de um acerto a menos para destruir o Arqueiro Mágico no nível 11 se comparado ao nível 15. Agora, o Morteiro sempre precisará de dois acertos para destruir o Arqueiro Mágico.&lt;/p&gt;&lt;p&gt;Aplicamos uma correção similar à Bruxa Mãe (-1 PV).&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/A2lfJu71gQbOZvCaVPsin"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notas de lançamento"/>
+    <published>2024-10-08T08:00:04+00:00</published>
   </entry>
 </feed>

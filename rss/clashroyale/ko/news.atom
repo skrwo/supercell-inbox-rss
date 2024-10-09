@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-09T07:29:55.695965+00:00</updated>
+  <updated>2024-10-09T08:39:30.269316+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -433,5 +433,95 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2024-10-02T07:38:12+00:00</published>
+  </entry>
+  <entry>
+    <id>A2lfJu71gQbOZvCaVPsin</id>
+    <title>10월 밸런스 조정</title>
+    <updated>2024-10-09T08:18:33.055000+00:00</updated>
+    <content>&lt;h1&gt;폭탄병&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LafErO8TUQzluFgWDolom/c12f75618eaae5950eaa2f570a5430b0/bomber.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;피해량:&lt;/b&gt;
+230 → 225 (-2.00%)&lt;/p&gt;
+&lt;p&gt;지난 폭탄병 상향 조정으로 폭탄병이 3번의 공격으로 바바리안을, 1번의 공격으로 스피릿을 제거할 수 있었습니다. 이 상향 조정을 부분적으로 되돌려서 폭탄병의 바바리안 공격 효과는 유지하되 스피릿 공격 효과는 제거해, 진화된 폭탄병과 폭탄병 공격에 의해 스피릿이 무작위로 파괴되는 상황을 방지하려 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 데몰리셔&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2dpTWEmhfznVzueQ2llIxM/5b6e8001215ada5454befad5fceacaa4/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;HP 50% 이후 수명:&lt;/b&gt;
+10초 → 7초 (-30.00%)&lt;/p&gt;
+&lt;p&gt;고블린 데몰리셔의 다이너마이트 도화선이 다소 길어, HP가 50%가 되었을 때 자폭 공격을 더 쉽게 막을 수 있도록 도화선을 짧게 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;공허&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6RhRU8cJK9cLgvEsl2w4Yj/01e49cd77cbdc2d10a0c9874ab505455/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;피해량(1개의 공격 대상):&lt;/b&gt;
+472 → 320 (-32.00%)&lt;/p&gt;
+&lt;p&gt;공허는 5 엘릭서 비용의 원거리 유닛 및 건물에 대해 여전히 강력한 효과를 발휘하고 있습니다. 이제 이러한 카드들에 대해 덜 효과적이게 되어, 파괴하는 데 추가적인 지원이 필요하게 될 것입니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;박격포 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/30F43aztJUolEx0aryaUdW/8f7b71c16d92def931b7919efd4e4664/mortarevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;첫 공격 속도:&lt;/b&gt;
+0초 → 1초&lt;/p&gt;
+&lt;p&gt;일반 박격포를 비롯한 대부분의 다른 유닛과 건물과는 달리, 박격포 진화는 배치된 후 첫 공격 속도 지연이 없었습니다. 최근 몇 시즌 동안 계속해서 강세를 보여줬기 때문에, 일반 박격포에 맞춰 첫 공격 속도를 늦추고 전반적인 힘을 낮추려고 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CNF16s6AOq6312vO9TfGb/6b4cef5089d37a457cce507d1513bd69/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;처치당 치유량:&lt;/b&gt;
+471 → 376 (-20.00%)&lt;/p&gt;
+&lt;p&gt;진화된 P.E.K.K.A가 강력한 방어를 간발의 차로 뚫어내는 상황이 너무 잦았습니다. 이번 하향 조정을 통해 이런 아슬아슬한 상황을 줄이고, 공허와 마법사 진화와 같은 다른 카드들의 너프를 통해 인기 있는 P.E.K.K.A 덱도 조정하고자 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;뇌전탑&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3mCnLkik3PKwL3cM3Ig4Om/a09885c350b979d9d8bb3de2468cc543/tesla.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;공격 속도:&lt;/b&gt;
+1200 → 1100 (-8.00%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;진화:&lt;/b&gt;
+뇌전탑 파괴 시의 펄스 방출이 제거됨&lt;/p&gt;
+&lt;p&gt;지난 밸런스 조정에서 진화된 뇌전탑에 추가 펄스 방출을 부여한 시도가 좋은 결과를 이끌어내지 못했습니다. 추가 펄스로 인해 돌파하는 것이 거의 불가능해졌기 때문이죠. 그래서 확정적으로 펄스를 방출하던 추가 기능을 제거하게 되었습니다. 하지만 이전에 하향 조정되었던 일반 뇌전탑의 능력을 일부 되돌렸습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;마법사 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3n5HB5Vos8wOaWma7RJNM2/295588b19d54e326bd24fba640fa8806/wizardevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;실드 넉백 효과:&lt;/b&gt;
+4 → 3타일 (-25.00%)&lt;/p&gt;
+&lt;p&gt;마법사 진화는 여전히 게임에서 제일 강력한 진화 중 하나입니다. 실드가 파괴될 때 발생하는 강력한 넉백을 하향 조정해 넉백의 힘을 줄이고 전투를 덜 혼란스럽게 만들려고 합니다. 특히 양쪽에 유닛이 많이 투입되는 더블 및 트리플 엘릭서 상황에서는 큰 넉백은 종종 예측할 수 없는 상황을 만들기도 했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;대포 사수&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MPVcjqodMCfyzaZL3C9eo/3e1c7ca481351b180023f11c5e403e20/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;첫 공격 속도:&lt;/b&gt;
+600 → 800 (33.00%)
+&lt;b&gt;피해량:&lt;/b&gt;
+401 → 386 (-4.00%)&lt;/p&gt;
+&lt;p&gt;대포 사수는 해골 돌격병과 같은 순환 카드를 효과적으로 막는 동시에, 높은 초당 피해량으로 HP가 높은 유닛에게도 강력한 피해를 입혀 지나치게 다재다능한 카드가 되어버렸습니다. 첫 공격 속도를 하향 조정하여 플레이어가 해골 돌격병을 더 잘 방어해야 하도록 하고, 전반적인 피해량을 줄여 자이언트와 골렘 같은 탱커에 대한 효과를 약화시키고자 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 저주&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6xkWPNueofenqJo59r4MOQ/7d3a6d11a62300635d380b8651661a0d/goblincurse.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;초당 피해량:&lt;/b&gt;
+25 → 30 (20.00%)&lt;/p&gt;
+&lt;p&gt;고블린 저주의 낮은 피해량 때문에 직관적으로 선택할 수 있는 카드는 아니었습니다. 심지어 약한 유닛인 해골, 박쥐, 창 고블린을 상대로도 썩 좋은 효과를 거두지 못했죠. 이번 피해량 상향을 통해 해골, 박쥐, 창 고블린을 1초 더 빠르게 처치할 수 있습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 머신&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ExUOSES72J93wEGZjK6Zg/e68ca77cf73a48aa1312ab98544db927/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;HP:&lt;/b&gt;
+2196 → 2304 (5.00%)&lt;/p&gt;
+&lt;p&gt;지난 밸런스 업데이트에서 로켓을 더 자주 발사할 수 있도록 조정되었지만, 고블린 머신이 여러 개의 로켓을 지속적으로 발사하려면 더 많은 HP가 필요합니다.&lt;/p&gt;
+&lt;h1&gt;해골 통&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77uAJRkyK9yGjbnrEJoEhR/eabf7e8912808dcb0ef9279e58d44a99/skeletonbarrel.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;데스 피해량:&lt;/b&gt;
+133 → 145 (9.00%)&lt;/p&gt;
+&lt;p&gt;해골 통의 데스 피해량을 상향 조정했습니다. 이를 통해 2 엘릭서 마법이나 1 엘릭서 스피릿 같은 저비용 대응 카드에 맞서 크라운 타워에 입히는 피해를 더 효과적으로 만들고자 합니다.&lt;/p&gt;
+&lt;h1&gt;수상한 수풀&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2GtLpe2fHD30eYFKWHGazl/a847405c2b70757d488eadd571f210c8/suspiciousbush.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;속도(수풀):&lt;/b&gt;
+45 → 60 (33.00%)&lt;/p&gt;
+&lt;p&gt;수풀 속에 매복한 고블린이 운동을 열심히 한 덕분에, 이제 속도가 느려지지 않고 수상한 수풀을 옮길 수 있습니다. 이번 상향 조정은 수상한 수풀의 속도를 매복 고블린과 일치시켜 카드가 목표 대상에 더욱 효과적으로 도달할 수 있도록 하는 것을 목표로 합니다.&lt;/p&gt;
+&lt;h1&gt;고블린 우리 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/385kSis7ePtxVnhK6KnbIF/07c9018216289f92fe9666f055c1ce0b/goblincageevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;포획 시 초당 피해량:&lt;/b&gt;
+306 → 337 (10.00%)&lt;/p&gt;
+&lt;p&gt;진화된 고블린 우리가 1.1초마다 대신 이제 1초에 한 번씩 피해를 줍니다. 이번 상향 조정은 같은 속도로 피해를 입히는 다른 마법과 일관성을 맞추고, 마법이나 적 유닛에 의해 파괴되기 전에 더 안정적으로 피해를 입힐 수 있도록 하며, 전반적인 피해량을 증가시킬 것입니다.&lt;/p&gt;
+&lt;h1&gt;고블린 드릴 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6urEwVZPDT5Mv6sqSyLtNl/4fdfc9eb2259ebc612a3f9820cdb56d8/goblindrillevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;고블린 드릴이 두 번째와 세 번째 생성될 때 발생하는 피해량과 넉백이 제거됨
+잠복 시 생성되는 고블린에 배치 시간이 추가됨
+두 번째 잠복에서 생성되는 고블린 추가됨&lt;/p&gt;
+&lt;p&gt;지난 업데이트에서 진화된 고블린 드릴에 여러 가지 개선사항이 도입되었습니다. 커뮤니티 피드백을 기반으로, 고블린 드릴이 다시 등장할 때 피해를 주거나 넉백이 발생하지 않도록 재작업했습니다. 또한, 잠복 시 생성되는 고블린이 고블린 드릴이 파괴될 때 생성되는 고블린과 동일한 배치 시간을 갖도록 조정했습니다. 이러한 변경 사항은 카드가 가진 주요 문제점을 해결하기 위해 적용되었습니다. 따라서 일관성을 높이기 위해 고블린을 추가로 한 마리 더 생성하도록 변경했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;감전 마법 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4pPJe7Mzro2LjSJXSORZvK/4b2b6011b29e5a4ea8e72e162210ff42/zapevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;세 번째 감전 제거됨
+두 번째 감전의 피해량이 줄지 않음&lt;/p&gt;
+&lt;p&gt;2 엘릭서의 적은 비용에 비해, 진화된 감전 마법의 세 번째 감전은 전투에서 넓은 영역을 제어하며 너무 강한 모습을 보였습니다. 그래서 감전 마법의 감전 수를 세 개에서 두 개로 줄였습니다. 대신, 두 번째 감전의 피해량이 줄지 않고, 총 피해량을 입히는 데 걸리는 시간이 더 짧아졌습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;버그 수정&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;마법 아처 HP:&lt;/b&gt; 532 → 531&lt;/p&gt;&lt;p&gt;박격포와 마법 아처 간의 상호작용 문제로 인해, 11레벨 박격포가 마법 아처를 처치하는 데 필요한 공격 횟수가 15레벨 일 때에 비해 1회 더 적었습니다. 앞으로 어떤 레벨에서든 마법 아처가 두 번의 공격으로 박격포를 처치할 수 있습니다.&lt;/p&gt;&lt;p&gt;비슷한 버그 수정(-1 HP)이 엄마 마녀에게도 적용되었습니다.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/A2lfJu71gQbOZvCaVPsin"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="새 소식"/>
+    <published>2024-10-08T08:00:04+00:00</published>
   </entry>
 </feed>

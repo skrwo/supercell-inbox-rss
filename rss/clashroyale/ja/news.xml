@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Oct 2024 07:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 08:39:27 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -571,6 +571,95 @@ _クラッシュ・ロワイヤル_開発チーム&lt;/p&gt;</description>
       <category>リリース情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1DOkC3w9Dg6zSqetc72LG4/3ef5596c7c013ddea580fc9993c92f32/SUP3961_Season_64_Article_Thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Oct 2024 08:50:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>10月のバランス調整</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ja/news/A2lfJu71gQbOZvCaVPsin</link>
+      <description>&lt;h1&gt;ボンバー&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LafErO8TUQzluFgWDolom/c12f75618eaae5950eaa2f570a5430b0/bomber.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ダメージ：&lt;/b&gt;
+230 → 225（-2.00％）&lt;/p&gt;
+&lt;p&gt;前回の強化でボンバーの攻撃力が上昇し、バーバリアンを3回の攻撃で、スピリット系ユニットを一撃で倒せるようになっていました。今回はダメージを若干弱体化させ、対バーバリアン性能はそのままに、限界突破ボンバーがいてもスピリット系が無駄に倒されてしまわないように調整します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ダイナマイトゴブリン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2dpTWEmhfznVzueQ2llIxM/5b6e8001215ada5454befad5fceacaa4/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;低HP（50％以下）状態になってから爆発するまでの時間：&lt;/b&gt;
+10秒 → 7秒（-30.00％）&lt;/p&gt;
+&lt;p&gt;ダイナマイトゴブリンの自爆攻撃は対処が難しく、多くのプレイヤーの悩みの種でした。そのため長すぎる導火線を短くし、低HP時の対処を容易にします。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ボイド&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6RhRU8cJK9cLgvEsl2w4Yj/01e49cd77cbdc2d10a0c9874ab505455/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ダメージ（1体）：&lt;/b&gt;
+472 → 320（-32.00％）&lt;/p&gt;
+&lt;p&gt;ボイドは効果的な魔法ですが、5エリクサーの遠距離型ユニットや建物に対し、そのコストに釣り合わないほどの猛威をふるっていました。しかし今回の弱体化後は、高エリクサーカードの対応に他のカードのサポートが必要になるでしょう。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破迫撃砲&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/30F43aztJUolEx0aryaUdW/8f7b71c16d92def931b7919efd4e4664/mortarevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;初撃速度：&lt;/b&gt;
+0秒→1秒&lt;/p&gt;
+&lt;p&gt;通常状態の迫撃砲を含む他のユニットや建物と異なり、限界突破迫撃砲は配置直後に初撃を発射できます。直近の数シーズンでの活躍を鑑み、通常状態の迫撃砲と同様に、初撃の発射までにタイムラグを設けることにしました。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CNF16s6AOq6312vO9TfGb/6b4cef5089d37a457cce507d1513bd69/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;撃破時回復：&lt;/b&gt;
+471 → 376（-20.00％）&lt;/p&gt;
+&lt;p&gt;これまで、限界突破P.E.K.K.Aが傷つきながらも強力な防衛設備を突破する姿が頻繁に目撃されてきました。このカードを活用した戦略自体に対する調整として、競技シーンでもP.E.K.K.Aと併せてよく使用されるボイドや限界突破ウィザードにも弱体化が施されています。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;テスラ&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3mCnLkik3PKwL3cM3Ig4Om/a09885c350b979d9d8bb3de2468cc543/tesla.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;攻撃速度：&lt;/b&gt;
+1200→1100（-8.00％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;限界突破：&lt;/b&gt;
+撃破時のパルス攻撃を削除&lt;/p&gt;
+&lt;p&gt;限界突破テスラには、前回のバランス調整で試験的に追加のパルス攻撃を実装していましたが、想定以上に突破が困難になってしまいました。そのため、撃破時に発生していたパルス攻撃を廃止し、通常テスラの性能を弱体化以前の数値まで引き上げています。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破ウィザード&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3n5HB5Vos8wOaWma7RJNM2/295588b19d54e326bd24fba640fa8806/wizardevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;シールドのノックバック：&lt;/b&gt;
+4マス → 3マス（-25.00％）&lt;/p&gt;
+&lt;p&gt;限界突破ウィザードは、最強クラスの限界突破ユニットの一体です。他のカードと足並みを揃えるため、シールド破壊時の強力なノックバックを弱体化しました。ノックバックはただでさえ強力であり、エリクサーのチャージ速度が2倍以上になった際にはマップにたくさんのユニットが投入され、シールド破壊のタイミングの把握が輪をかけて困難になっていました。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ブラスター&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MPVcjqodMCfyzaZL3C9eo/3e1c7ca481351b180023f11c5e403e20/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;初撃速度：&lt;/b&gt;
+600 → 800（+33.00％）
+&lt;b&gt;ダメージ：&lt;/b&gt;
+401 → 386（‐4.00％）&lt;/p&gt;
+&lt;p&gt;ブラスターは、ウォールブレイカーのような低コストカードの処理に有効で、かつ高耐久のユニットに対するダメージ量も多く、万能すぎる性能を持っていました。初撃発射までの時間を長くすることで対ウォールブレイカー性能が低下し、ダメージを下げることでジャイアントやゴーレムなどの高耐久ユニットの処理にかかる時間も長くなるように調整します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ゴブリンの呪い&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6xkWPNueofenqJo59r4MOQ/7d3a6d11a62300635d380b8651661a0d/goblincurse.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ダメージ（毎秒）：&lt;/b&gt;
+25 → 30（+20.00％）&lt;/p&gt;
+&lt;p&gt;ゴブリンの呪いはダメージが低すぎて、スケルトンやコウモリの群れ、槍ゴブリンなどの低耐久ユニットに対しても有効性を発揮できませんでした。今回の強化により、これらのユニットを丸1秒早く撃破できるようになっています。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ゴブリンマシン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ExUOSES72J93wEGZjK6Zg/e68ca77cf73a48aa1312ab98544db927/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;HP：&lt;/b&gt;
+2196 → 2304（+5.00％）&lt;/p&gt;
+&lt;p&gt;前回のバランス調整で上昇したミサイルの発射速度も、すぐに撃破されてしまっては意味がありません。そのため今回はHPも強化することにしました。&lt;/p&gt;
+&lt;h1&gt;スケルトンバレル&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77uAJRkyK9yGjbnrEJoEhR/eabf7e8912808dcb0ef9279e58d44a99/skeletonbarrel.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;死亡時ダメージ：&lt;/b&gt;
+133 → 145（+9.00％）&lt;/p&gt;
+&lt;p&gt;スケルトンバレルの死亡ダメージを強化することで、タワーへの与ダメージが上昇します。低コストの呪文やスピリット系などのカードですぐに処理されても、最低限の爪痕は残せるでしょう。&lt;/p&gt;
+&lt;h1&gt;ステルスブッシュ&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2GtLpe2fHD30eYFKWHGazl/a847405c2b70757d488eadd571f210c8/suspiciousbush.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;移動速度（ブッシュ状態）：&lt;/b&gt;
+45 → 60（+33.00％）&lt;/p&gt;
+&lt;p&gt;ステルスゴブリンはトレーニングの日々を乗り越え、ブッシュ状態で素早く移動できるようになりました。これによりブッシュ状態とゴブリン状態の移動速度が同じとなり、目標までの到達が容易になりました。&lt;/p&gt;
+&lt;h1&gt;限界突破ゴブリンの檻&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/385kSis7ePtxVnhK6KnbIF/07c9018216289f92fe9666f055c1ce0b/goblincageevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;捕獲時毎秒ダメージ：&lt;/b&gt;
+306 → 337（+10.00％）&lt;/p&gt;
+&lt;p&gt;限界突破ゴブリンが敵の捕獲時に1秒毎にダメージを与えるようになりました（以前は1.1秒毎）。この調整でダメージ間隔が他の呪文カードと同じになり、檻が呪文やユニットに破壊される前に安定したダメージを与えられるようになりました。&lt;/p&gt;
+&lt;h1&gt;限界突破ゴブリンドリル&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6urEwVZPDT5Mv6sqSyLtNl/4fdfc9eb2259ebc612a3f9820cdb56d8/goblindrillevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;2回目以降の出現時のダメージとノックバックを削除
+ドリル出現時のゴブリンに生成時間を追加
+2回目の出現時にもゴブリンを追加で生成&lt;/p&gt;
+&lt;p&gt;限界突破ゴブリンドリルには、前回のアップデートで複数の改善が施されていますが、今回もコミュニティからのフィードバックを参考にしたリワークが行われます。再出現時のダメージとノックバックが削除され、ドリル出現時のゴブリン生成速度が、ドリル破壊時のものと同じになるように調整されています。この変更により、このカードが抱えていた問題が解決されるはずです。さらに生成するゴブリンの数を増加することで、仕様の一貫性を向上させています。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破ザップ&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4pPJe7Mzro2LjSJXSORZvK/4b2b6011b29e5a4ea8e72e162210ff42/zapevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;3回目のザップを削除
+2回目のザップのダメージ増加&lt;/p&gt;
+&lt;p&gt;広範囲の敵を3回スタンさせる限界突破ザップは、2エリクサーという低コストに見合わない凶悪さを発揮していました。今回はザップの回数が減った代わりに、2回目のザップのダメージが上昇しています。これまでと同じ合計ダメージを短時間で与えられるようになっています。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;バグ修正&lt;/h1&gt;
+&lt;p&gt;**マジックアーチャーのHP：**532 → 531&lt;/p&gt;&lt;p&gt;迫撃砲とマジックアーチャーのマッチアップには一貫性が欠けており、レベル15時と比較すると、レベル11時に迫撃砲でマジックアーチャーを倒すのに必要な攻撃回数が1回分少なくなっていました。今回の調整により、迫撃砲がマジックアーチャーを倒すには一貫して2発の攻撃が必要になります。&lt;/p&gt;&lt;p&gt;マザーネクロマンサーにも上記と同様の調整（HP減少：‐1）が追加されています。&lt;/p&gt;</description>
+      <guid isPermaLink="false">A2lfJu71gQbOZvCaVPsin</guid>
+      <category>リリース情報</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 08 Oct 2024 08:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

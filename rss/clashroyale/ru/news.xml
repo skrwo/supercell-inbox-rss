@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Oct 2024 07:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 08:39:28 +0000</lastBuildDate>
     <item>
       <title>Планы на 2024</title>
       <link>https://clashroyale.inbox.supercell.com/#/ru/news/4pHYeqFPnOfnlNN2uEXDwd</link>
@@ -380,6 +380,95 @@ OJ&lt;/p&gt;
       <category>Информация о версии</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Wed, 02 Oct 2024 07:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ОКТЯБРЬСКИЕ ИЗМЕНЕНИЯ БАЛАНСА</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ru/news/A2lfJu71gQbOZvCaVPsin</link>
+      <description>&lt;h1&gt;ПОДРЫВНИК&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LafErO8TUQzluFgWDolom/c12f75618eaae5950eaa2f570a5430b0/bomber.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Урон:&lt;/b&gt;
+230 → 225 (-2 %)&lt;/p&gt;
+&lt;p&gt;Прошлое усиление подрывника позволило ему уничтожать варваров за три удара, а духов за один. Мы частично отменяем это усиление, сохраняя при этом взаимодействие с варварами. Теперь подрывник и его эволюция не смогут случайно уничтожить духов за одну атаку.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Гоблин-подрывник&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2dpTWEmhfznVzueQ2llIxM/5b6e8001215ada5454befad5fceacaa4/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Время жизни, когда уровень здоровья ниже 50 %:&lt;/b&gt;
+10 с. → 7 с. (-30 %)&lt;/p&gt;
+&lt;p&gt;Мы укорачиваем фитиль у динамита гоблина-подрывника, чтобы игрокам было проще противостоять напору этого воина, когда его здоровье опускается ниже 50 %.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Бездна&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6RhRU8cJK9cLgvEsl2w4Yj/01e49cd77cbdc2d10a0c9874ab505455/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Урон по 1 цели:&lt;/b&gt;
+472 → 320 (-32 %)&lt;/p&gt;
+&lt;p&gt;Бездна все еще остается слишком дешевым и действенным способом противостоять зданиям и воинам дальнего боя за 5 капель эликсира. Мы снижаем эффективность бездны таким образом, чтобы она не могла в одиночку справиться с подобными картами.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Эволюция мортиры&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/30F43aztJUolEx0aryaUdW/8f7b71c16d92def931b7919efd4e4664/mortarevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Время первого удара:&lt;/b&gt;
+0 с. → 1 с.&lt;/p&gt;
+&lt;p&gt;В отличие от обычной мортиры и большинства других карт и зданий, у эволюции мортиры не было задержки перед первой атакой после размещения. В последних сезонах эта эволюция показала себя слишком эффективной, поэтому мы добавляем задержку перед самым первым выстрелом, чтобы ослабить ее и сделать чуть больше похожей на обычную мортиру.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Эволюция П.Е.К.К.А.&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CNF16s6AOq6312vO9TfGb/6b4cef5089d37a457cce507d1513bd69/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Исцеление за уничтожение:&lt;/b&gt;
+471 → 376 (-20 %)&lt;/p&gt;
+&lt;p&gt;Очень часто эволюции П.Е.К.К.А. удается чудом пробиться сквозь крепкую защиту. Это ослабление призвано уменьшить количество таких ситуаций, а также сбалансировать популярные соревновательные колоды с П.Е.К.К.А., в том числе благодаря ослаблению бездны и эволюции колдуна.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Тесла&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3mCnLkik3PKwL3cM3Ig4Om/a09885c350b979d9d8bb3de2468cc543/tesla.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Скорость атаки:&lt;/b&gt;
+1200 → 1100 (-8 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Эволюция:&lt;/b&gt;
+больше не выпускает ударную волну при уничтожении.&lt;/p&gt;
+&lt;p&gt;Эксперимент с добавлением дополнительной ударной волны для эволюции теслы оказался неудачным, поскольку сквозь такую защиту было практически невозможно пробиться. Мы удаляем одну гарантированную ударную волну, но также отменяем одно из предыдущих ослаблений для обычной теслы.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Эволюция колдуна&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3n5HB5Vos8wOaWma7RJNM2/295588b19d54e326bd24fba640fa8806/wizardevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Дальность отбрасывания (щит):&lt;/b&gt;
+4 клетки → 3 клетки (-25 %)&lt;/p&gt;
+&lt;p&gt;Эволюция колдуна остается одной из самых сильных эволюций в игре. Мы уменьшаем избыточную дальность отбрасывания при уничтожении щита, чтобы ослабить эту эволюцию и сделать сражения менее хаотичными. Такое отбрасывание приводило к непредсказуемым последствиям, особенно в ситуациях, когда на карте было много воинов за две или три капли эликсира.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Канонир&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MPVcjqodMCfyzaZL3C9eo/3e1c7ca481351b180023f11c5e403e20/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Время первого удара:&lt;/b&gt;
+600 → 800 (33 %)
+&lt;b&gt;Урон:&lt;/b&gt;
+401 → 386 (-4 %)&lt;/p&gt;
+&lt;p&gt;Канонир — слишком универсальный воин, способный противостоять картам с быстрой ротацией (типа стенобоев) и наносить много постоянного урона воинам с большим количеством здоровья. Мы увеличиваем время, необходимое для первого удара, чтобы игрокам приходилось лучше продумывать стратегию обороны против стенобоев, а также снижаем урон канонира, делая его менее эффективным против таких танков, как гигант или голем.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Проклятие гоблинов&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6xkWPNueofenqJo59r4MOQ/7d3a6d11a62300635d380b8651661a0d/goblincurse.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Урон в секунду:&lt;/b&gt;
+25 → 30 (20 %)&lt;/p&gt;
+&lt;p&gt;Из-за низкого урона проклятие гоблинов было непопулярно даже против слабых воинов, например скелетов, летучих мышей или гоблинов-копейщиков. Мы увеличиваем урон проклятия гоблинов, чтобы оно могло уничтожать подобных воинов на целую секунду быстрее.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Гоблинская машина&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ExUOSES72J93wEGZjK6Zg/e68ca77cf73a48aa1312ab98544db927/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Здоровье:&lt;/b&gt;
+2196 → 2304 (5 %)&lt;/p&gt;
+&lt;p&gt;После предыдущего усиления гоблинская машина стала стрелять намного чаще, но ей все еще не хватает здоровья, чтобы стабильно выпускать несколько ракет подряд.&lt;/p&gt;
+&lt;h1&gt;Бочка со скелетами&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77uAJRkyK9yGjbnrEJoEhR/eabf7e8912808dcb0ef9279e58d44a99/skeletonbarrel.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Урон при уничтожении:&lt;/b&gt;
+133 → 145 (9 %)&lt;/p&gt;
+&lt;p&gt;Мы увеличиваем урон при уничтожении бочки со скелетами, чтобы эта карта была достаточно эффективна в нанесении постоянного урона королевским башням, даже несмотря на дешевые способы противостоять ей, такие как заклинания за две капли эликсира или духи за одну каплю.&lt;/p&gt;
+&lt;h1&gt;Подозрительный куст&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2GtLpe2fHD30eYFKWHGazl/a847405c2b70757d488eadd571f210c8/suspiciousbush.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Скорость передвижения (куст):&lt;/b&gt;
+45 → 60 (33 %)&lt;/p&gt;
+&lt;p&gt;Кустовые гоблины больше не пропускают день ног и могут носить на себе куст без замедления. Это усиление уравнивает скорость передвижения подозрительного куста и кустовых гоблинов и призвано помочь кусту быстрее достигать своей цели.&lt;/p&gt;
+&lt;h1&gt;Эволюция клетки с гоблином&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/385kSis7ePtxVnhK6KnbIF/07c9018216289f92fe9666f055c1ce0b/goblincageevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Урон в секунду при захвате:&lt;/b&gt;
+306 → 337 (10 %)&lt;/p&gt;
+&lt;p&gt;Теперь эволюция клетки с гоблином будет наносить урон каждую секунду вместо 1,1 секунды. Это усиление призвано уравнять эволюцию клетки с гоблином с заклинаниями, которые наносят урон с той же частотой, и сделать ее более надежным источником урона. Мы также увеличиваем общую силу этой карты.&lt;/p&gt;
+&lt;h1&gt;Эволюция гоблинского бура&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6urEwVZPDT5Mv6sqSyLtNl/4fdfc9eb2259ebc612a3f9820cdb56d8/goblindrillevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Урон и отбрасывание во время второго и третьего появления удалены.
+Теперь при уходе под землю гоблины появляются с задержкой.
+Во время второго ухода под землю появляется на одного гоблина больше.&lt;/p&gt;
+&lt;p&gt;В последнем обновлении мы добавили несколько улучшений для эволюции гоблинского бура. Прислушавшись к мнению сообщества, мы решили переработать эту эволюцию так, чтобы она не наносила урон и не отбрасывала врагов при появлении. Кроме того, теперь при уходе под землю гоблины появляются с такой же задержкой, как и при уничтожении бура. Эти изменения призваны исправить ключевые проблемы, связанные с картой. Мы также добавили дополнительного гоблина.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Эволюция разряда&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4pPJe7Mzro2LjSJXSORZvK/4b2b6011b29e5a4ea8e72e162210ff42/zapevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Третий разряд удален.
+Второй разряд теперь наносит полный урон.&lt;/p&gt;
+&lt;p&gt;Три оглушения от эволюции разряда позволяли слишком эффективно контролировать большую область карты всего за две капли эликсира. Мы уменьшаем количество разрядов до двух, однако теперь второй разряд не будет ослаблен, а само заклинание быстрее нанесет весь урон.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Исправление ошибок&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Здоровье магического лучника:&lt;/b&gt; 532 → 531&lt;/p&gt;&lt;p&gt;Раньше, чтобы уничтожить магического лучника на 11-м уровне, мортире требовалось нанести на один удар меньше, чем на 15-м. Теперь мортира будет всегда уничтожать магического лучника с двух ударов.&lt;/p&gt;&lt;p&gt;Похожее исправление (уменьшение здоровья на 1 единицу) получила и ведьмина бабушка.&lt;/p&gt;</description>
+      <guid isPermaLink="false">A2lfJu71gQbOZvCaVPsin</guid>
+      <category>Информация о версии</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 08 Oct 2024 08:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

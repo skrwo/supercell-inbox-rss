@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 09 Oct 2024 07:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 08:39:29 +0000</lastBuildDate>
     <item>
       <title>Foreuse gobeline évoluée !</title>
       <link>https://youtube.com/shorts/4UpoddXksAg?feature=share</link>
@@ -361,6 +361,95 @@ OJ&lt;/p&gt;
       <category>Notes de patch</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Wed, 02 Oct 2024 07:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Changements d'équilibrage (octobre)</title>
+      <link>https://clashroyale.inbox.supercell.com/#/fr/news/A2lfJu71gQbOZvCaVPsin</link>
+      <description>&lt;h1&gt;Bombardier&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6LafErO8TUQzluFgWDolom/c12f75618eaae5950eaa2f570a5430b0/bomber.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts :&lt;/b&gt;
+230 → 225 (-2,00 %)&lt;/p&gt;
+&lt;p&gt;Le dernier buff du bombardier lui permettait de détruire les barbares en 3 coups et les esprits en 1 coup. Nous avons partiellement annulé ce buff pour maintenir l&amp;#39;interaction avec les barbares tout en supprimant l&amp;#39;interaction avec les esprits, pour leur éviter d&amp;#39;être pris pour cible de manière aléatoire par les attaques des bombardiers évolués et non évolués.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Gobelin explosif&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2dpTWEmhfznVzueQ2llIxM/5b6e8001215ada5454befad5fceacaa4/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durée de vie après 50 % de PV :&lt;/b&gt;
+10 s → 7 s (-30,00 %)&lt;/p&gt;
+&lt;p&gt;Les mèches des dynamites du gobelin explosif étaient trop longues, nous les raccourcissons donc pour qu&amp;#39;il soit plus facile de contrer sa charge lorsqu&amp;#39;il atteint 50 % de points de vie.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Néant&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6RhRU8cJK9cLgvEsl2w4Yj/01e49cd77cbdc2d10a0c9874ab505455/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts (1 cible) :&lt;/b&gt;
+472 → 320 (-32,00 %)&lt;/p&gt;
+&lt;p&gt;Le sort du Néant est encore trop efficace pour remporter un affrontement contre les unités à distance et les bâtiments qui coûtent 5 unités d&amp;#39;élixir. Il sera désormais moins efficace contre ces cartes et devra bénéficier d&amp;#39;un soutien supplémentaire pour les vaincre.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mortier évolué&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/30F43aztJUolEx0aryaUdW/8f7b71c16d92def931b7919efd4e4664/mortarevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vitesse de la première frappe :&lt;/b&gt;
+0 s → 1 s&lt;/p&gt;
+&lt;p&gt;Contrairement au mortier non évolué et à la plupart des autres unités et bâtiments, le mortier évolué n&amp;#39;avait pas de délai de première frappe après son déploiement. Comme il a été très puissant au cours des dernières saisons, nous ajoutons un délai de première frappe pour l&amp;#39;aligner sur le mortier non évolué et réduire sa puissance globale.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A évoluée&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CNF16s6AOq6312vO9TfGb/6b4cef5089d37a457cce507d1513bd69/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Soins par mort :&lt;/b&gt;
+471 → 376 (-20,00 %)&lt;/p&gt;
+&lt;p&gt;Trop souvent, P.E.K.K.A. évoluée parvient à franchir de justesse des défenses solides. Ce nerf vise à réduire ces situations délicates, tout en contrant la popularité des decks P.E.K.K.A compétitifs avec des nerfs sur d&amp;#39;autres cartes, telles que le Néant et le sorcier évolué.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Tesla&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3mCnLkik3PKwL3cM3Ig4Om/a09885c350b979d9d8bb3de2468cc543/tesla.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vitesse de frappe :&lt;/b&gt;
+1 200 → 1 100 (-8,00 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Évolution :&lt;/b&gt;
+Suppression de l&amp;#39;onde de choc en cas de destruction&lt;/p&gt;
+&lt;p&gt;L&amp;#39;expérience consistant à donner à la Tesla évoluée une onde de choc supplémentaire lors d&amp;#39;un précédent changement d&amp;#39;équilibrage n&amp;#39;a pas fonctionné, car elle la rendait presque infranchissable. Nous supprimons l&amp;#39;onde de choc supplémentaire, mais libérons la Tesla non évoluée de l&amp;#39;un de ses nerfs.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Sorcier évolué&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3n5HB5Vos8wOaWma7RJNM2/295588b19d54e326bd24fba640fa8806/wizardevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Recul du bouclier :&lt;/b&gt;
+4 → 3 cases (-25,00 %)&lt;/p&gt;
+&lt;p&gt;Le sorcier évolué reste l&amp;#39;une des évolutions les plus puissantes du jeu. Nous atténuons son recul extrême lorsque le bouclier est détruit afin de réduire sa puissance et de rendre les combats moins chaotiques. Son recul important était souvent imprévisible, surtout dans les situations en double ou triple élixir avec de nombreuses troupes de part et d&amp;#39;autre.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Canonnier&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MPVcjqodMCfyzaZL3C9eo/3e1c7ca481351b180023f11c5e403e20/cannoneer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vitesse de la première frappe :&lt;/b&gt;
+600 → 800 (33,00 %)
+&lt;b&gt;Dégâts :&lt;/b&gt;
+401 → 386 (-4,00 %)&lt;/p&gt;
+&lt;p&gt;Le canonnier est un peu trop polyvalent, capable de contrer des cartes cycliques comme les sapeurs tout en infligeant d&amp;#39;importants dégâts par seconde aux unités ayant beaucoup de PV. Nous diminuons la vitesse de sa première frappe pour que les joueurs puissent mieux se défendre contre les sapeurs, et nous réduisons légèrement l&amp;#39;ensemble de ses dégâts pour affaiblir son efficacité face aux tanks comme le géant et le golem.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Malédiction gobeline&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6xkWPNueofenqJo59r4MOQ/7d3a6d11a62300635d380b8651661a0d/goblincurse.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts par seconde :&lt;/b&gt;
+25 → 30 (+20,00 %)&lt;/p&gt;
+&lt;p&gt;Les faibles dégâts de la Malédiction gobeline la rendaient difficile à utiliser même contre les unités les plus faibles, comme les squelettes, les chauves-souris et les gobelins à lances. Cette augmentation des dégâts lui permettra de détruire ces unités une seconde plus vite.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Machine gobeline&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ExUOSES72J93wEGZjK6Zg/e68ca77cf73a48aa1312ab98544db927/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;PV :&lt;/b&gt;
+2 196 → 2 304 (+5,00 %)&lt;/p&gt;
+&lt;p&gt;Bien qu&amp;#39;elle tire des roquettes plus souvent depuis le dernier équilibrage, la machine gobeline a besoin de plus de PV pour tirer plusieurs roquettes de façon régulière.&lt;/p&gt;
+&lt;h1&gt;Fût à squelettes&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77uAJRkyK9yGjbnrEJoEhR/eabf7e8912808dcb0ef9279e58d44a99/skeletonbarrel.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts mortels :&lt;/b&gt;
+133 → 145 (+9,00 %)&lt;/p&gt;
+&lt;p&gt;Nous améliorons les dégâts mortels du fût à squelettes pour que les dégâts progressifs de la tour couronnée tout au long du combat soient plus avantageux face aux contres bon marché tels que les sorts à 2 unités d&amp;#39;élixir et les esprits à 1 élixir.&lt;/p&gt;
+&lt;h1&gt;Buisson suspicieux&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2GtLpe2fHD30eYFKWHGazl/a847405c2b70757d488eadd571f210c8/suspiciousbush.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vitesse (buisson) :&lt;/b&gt;
+45 → 60 (+33,00 %)&lt;/p&gt;
+&lt;p&gt;Les gobelins camouflés ont fait de l&amp;#39;exercice et peuvent désormais porter le buisson suspicieux sans être ralentis. Ce buff vise à aligner la vitesse du buisson suspicieux sur celle des gobelins camouflés, pour faire en sorte que la carte atteigne sa cible.&lt;/p&gt;
+&lt;h1&gt;Cage gobeline évoluée&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/385kSis7ePtxVnhK6KnbIF/07c9018216289f92fe9666f055c1ce0b/goblincageevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts de capture par seconde :&lt;/b&gt;
+306 → 337 (+10,00 %)&lt;/p&gt;
+&lt;p&gt;Nous modifions la cage gobeline évoluée pour qu&amp;#39;elle inflige des dégâts une fois par seconde au lieu de toutes les 1,1 seconde. En plus d&amp;#39;augmenter ses dégâts, ce buff assurera sa cohérence avec les autres sorts qui provoquent des dégâts à la même fréquence et lui permettra d&amp;#39;infliger des dégâts de manière plus fiable avant d&amp;#39;être détruite par des sorts ou des unités.&lt;/p&gt;
+&lt;h1&gt;Foreuse gobeline évoluée&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6urEwVZPDT5Mv6sqSyLtNl/4fdfc9eb2259ebc612a3f9820cdb56d8/goblindrillevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Suppression des dégâts et du recul des 2e et 3e invocations
+Ajout d&amp;#39;un temps de déploiement pour les gobelins invoqués lors d&amp;#39;un enfouissement
+Ajout d&amp;#39;une invocation de gobelins lors du 2e enfouissement&lt;/p&gt;
+&lt;p&gt;Lors de la dernière mise à jour, nous avons apporté plusieurs améliorations à la foreuse gobeline évoluée. Nous avons tenu compte des commentaires de la communauté pour la retravailler de manière à ce qu&amp;#39;elle n&amp;#39;inflige pas de dégâts ou de recul lorsqu&amp;#39;elle réapparaît, et pour que les gobelins invoqués lors des enfouissements aient un temps de déploiement cohérent avec ceux qui apparaissent lorsque la foreuse gobeline est détruite. Ces changements permettront de résoudre les principaux problèmes de la carte. Nous ajoutons également un gobelin supplémentaire pour un meilleur effet visuel.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Électrocution évoluée&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4pPJe7Mzro2LjSJXSORZvK/4b2b6011b29e5a4ea8e72e162210ff42/zapevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Troisième électrocution supprimée
+La 2e électrocution inflige désormais des dégâts maximum&lt;/p&gt;
+&lt;p&gt;Les trois étourdissements de l&amp;#39;électrocution évoluée étaient trop puissants, car ils permettaient de contrôler une large zone de combat pour seulement 2 unités d&amp;#39;élixir. Nous réduisons le nombre d&amp;#39;électrocutions à deux, mais la deuxième électrocution provoquera des dégâts maximum et l&amp;#39;ensemble des dégâts de ce sort seront infligés en moins de temps.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Correction de bugs&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;PV de l&amp;#39;archer magique :&lt;/b&gt; 532 → 531&lt;/p&gt;&lt;p&gt;Les interactions entre le mortier et l&amp;#39;archer magique manquaient de cohérence : il fallait une frappe de mortier de moins pour détruire l&amp;#39;archer magique au niveau 11, par rapport au niveau 15. Désormais, il faudra toujours deux frappes de mortier pour détruire l&amp;#39;archer magique.&lt;/p&gt;&lt;p&gt;Une correction de bug semblable (-1 PV) a été appliquée à la mamie sorcière.&lt;/p&gt;</description>
+      <guid isPermaLink="false">A2lfJu71gQbOZvCaVPsin</guid>
+      <category>Notes de patch</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 08 Oct 2024 08:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
