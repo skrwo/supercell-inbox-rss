@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-09T09:34:18.376895+00:00</updated>
+  <updated>2024-10-09T10:39:56.229417+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -387,5 +387,15 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zWX9UE3FIOm3FkHHV30cr/c7f2276c6ead26548dcfacbff8437807/05_-_mb_bg_champion.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Catatan Rilis"/>
     <published>2024-10-02T07:38:12+00:00</published>
+  </entry>
+  <entry>
+    <id>1Q2ABYJgC3ZmSEcxLdJcQu</id>
+    <title>Coba kalah kalau berani.</title>
+    <updated>2024-10-09T09:42:50.345000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/1Q2ABYJgC3ZmSEcxLdJcQu"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4oMzY03zAYIpqvbgmUZ4zL/7703369eea140c3daefc8e75e510e19d/loseifyoudare.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/bgVeniWQNsc"/>
+    <category term="Sorotan"/>
+    <published>2024-10-06T15:30:03+00:00</published>
   </entry>
 </feed>
