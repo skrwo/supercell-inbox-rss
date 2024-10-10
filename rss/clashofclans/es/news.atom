@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-newsEntries-es</id>
   <title>Clashofclans - News</title>
-  <updated>2024-10-10T05:36:23.498592+00:00</updated>
+  <updated>2024-10-10T06:41:56.341502+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -212,7 +212,7 @@ Seguiremos informando de las novedades. Gracias por todos los comentarios e info
   <entry>
     <id>178guTA1qsWC4Z5RzlEWN3</id>
     <title>Próximos ajustes de equilibrio del druida</title>
-    <updated>2024-10-07T10:13:13.187000+00:00</updated>
+    <updated>2024-10-10T06:26:57.362000+00:00</updated>
     <content>&lt;h1&gt;Ajustes de equilibrio del druida&lt;/h1&gt;
 &lt;p&gt;¡Buenas! Queremos informarte de los ajustes de equilibrio que estamos planeando realizar para el druida y su forma de oso. La idea es implementar estos cambios tan pronto como sea posible.&lt;/p&gt;&lt;p&gt;Sabemos que la liga de guerras de clanes empieza esta semana, así que estamos intentando por todos los medios que los ajustes se produzcan antes de que empiece el evento o justo al inicio para no afectar al desempeño de tu clan durante el mismo. Así también tendrás un poco de tiempo de prepararte sabiendo que vamos a implementar estos ajustes pronto. ¡Sigue leyendo para ver la lista de ajustes previstos!&lt;/p&gt;
 &lt;h1&gt;Lista de ajustes de equilibrio&lt;/h1&gt;
