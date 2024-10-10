@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-eventEntries-pt</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-10-10T10:39:17.346150+00:00</updated>
+  <updated>2024-10-10T11:29:37.288147+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3frigZYqY064X1G81YYsz6/a3be2dba024cea13bc06e86525b26dbb/carousel-ptb-clashoween.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/4jdzci4dsK0"/>
     <published>2024-10-01T08:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>2XZGILWrnzab9y8QJP2xi2</id>
+    <title>Maluquice Medonha CHEGOU! </title>
+    <updated>2024-10-10T11:03:54.366000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/2P-eEYRDUPI"&gt;👉SAIBA MAIS!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4uBFzbz787RTC3jfqjouFC/ceb591f8e094536911f849ee9680f16a/IN-game__1_.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/2P-eEYRDUPI"/>
+    <published>2024-10-10T11:03:54+00:00</published>
   </entry>
 </feed>

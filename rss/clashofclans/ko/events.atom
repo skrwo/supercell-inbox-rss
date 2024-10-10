@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-eventEntries-ko</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-10-10T10:39:22.212995+00:00</updated>
+  <updated>2024-10-10T11:29:38.727348+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -65,5 +65,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/51ITUCbh44pi0jMx35Dlei/95925e9dc2663a0e517dc396a3265d6d/CoC_SC019_ClashOWeen_KO_860x1320_Still_Inbox_v02_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/VMk6VnWsjgw"/>
     <published>2024-10-01T08:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>2XZGILWrnzab9y8QJP2xi2</id>
+    <title>매시업 대소동이 시작됩니다!</title>
+    <updated>2024-10-10T11:03:54.366000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/2P-eEYRDUPI"&gt;👉자세히 알아보기!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6a9qHNk5qhLa2fN2ONpXBn/3939ed27cd690388b193b8547370897a/IN-game__1_.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/2P-eEYRDUPI"/>
+    <published>2024-10-10T11:03:54+00:00</published>
   </entry>
 </feed>
