@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-10-10T06:41:59.350636+00:00</updated>
+  <updated>2024-10-10T07:29:53.534333+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -220,5 +220,15 @@
     <link href="https://youtu.be/22Smb8PhqQk"/>
     <category term="뉴스"/>
     <published>2024-10-08T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>6YxLScGh76OxrgkZElwrsZ</id>
+    <title>커뮤니티 채널을 개선하는 데 도움을 주세요!</title>
+    <updated>2024-10-10T07:12:16.942000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/6YxLScGh76OxrgkZElwrsZ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4FBp8rpP15MMu6b8xOImLo/a09c3694e2dd41ff8f08f18381da3470/commsurv.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://forms.gle/inxSe8r5f353EMxt5"/>
+    <category term="커뮤니티"/>
+    <published>2024-10-10T06:59:13+00:00</published>
   </entry>
 </feed>
