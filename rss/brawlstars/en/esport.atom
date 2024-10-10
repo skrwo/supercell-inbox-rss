@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-10-10T08:39:18.474252+00:00</updated>
+  <updated>2024-10-10T09:33:59.227096+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -141,5 +141,14 @@
     <link href="https://youtube.com/live/hLS6GnOknP8"/>
     <category term="Esports"/>
     <published>2024-10-07T15:34:30+00:00</published>
+  </entry>
+  <entry>
+    <id>9v2cAgW43h7lvAGaqo2la</id>
+    <title>Sign up today for the Rival Cup Split 2 Open Qualifiers! </title>
+    <updated>2024-10-10T09:04:07.540000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/639l80lNOpMWBjOINk5W3Y/08053fbb242b878e380e159074fa202d/EN_Rival_Cup_Split_2_Open_Qualifiers.PNG?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://matcherino.com/t/rvlqual2"/>
+    <category term="Esports"/>
+    <published>2024-10-10T09:04:07+00:00</published>
   </entry>
 </feed>
