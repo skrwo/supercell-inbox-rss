@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-10-10T09:34:15.248081+00:00</updated>
+  <updated>2024-10-10T10:39:29.063039+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -534,5 +534,25 @@
     <link href="https://youtu.be/H5jemOjAogY"/>
     <category term="最新情報"/>
     <published>2024-10-04T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Imf02jmm9aHwRTwEK1sIP</id>
+    <title>【金雄】搶先了解寒冰亡靈與大守護者史詩裝備！</title>
+    <updated>2024-10-10T10:08:35.881000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/Imf02jmm9aHwRTwEK1sIP"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1Nqol84YUP4pFb9qym2If9/fd15ca7e46855590a3899d793a5be790/tw_20241010_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/FhOuSx6k7SY"/>
+    <category term="最新情報"/>
+    <published>2024-10-10T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2kRyEy8rzG66rDgSCvivzp</id>
+    <title>【烏龜】縫合狂潮活動解析！限時兵種與新裝備介紹！</title>
+    <updated>2024-10-10T10:08:22.036000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2kRyEy8rzG66rDgSCvivzp"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/64JgGRTKiv5QNOeZ2sDxHt/b5082e4c680d27025520afcfaca5c110/tw_20241010_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/3-GSr-03dTU"/>
+    <category term="最新情報"/>
+    <published>2024-10-10T10:01:00+00:00</published>
   </entry>
 </feed>
