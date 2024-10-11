@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-10-11T05:36:53.935747+00:00</updated>
+  <updated>2024-10-11T06:41:36.057935+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -126,7 +126,7 @@
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/3CC0pvM1XmswaHddkBHNUQ"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/QMH_SGJciQY"/>
-    <category term="ビデオ"/>
+    <category term="コミュニティ"/>
     <published>2024-05-31T15:00:00+00:00</published>
   </entry>
   <entry>
@@ -272,7 +272,7 @@
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/McofO2t2n9QV1LaeVL3no"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nyAAsoyRYe2v29oKIhSae/f2c76cfa4a1f0bf8203aa6d576ec07bc/1.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/ZJAZp9LV4tU"/>
-    <category term="ビデオ"/>
+    <category term="コミュニティ"/>
     <published>2024-06-23T07:00:52+00:00</published>
   </entry>
   <entry>
@@ -807,7 +807,7 @@ TFがスクバスに参戦！コラボ記念キャンペーン&#13;
 &lt;a href="https://youtu.be/XoFRMHEzvNA?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6FRW6jy7Oly2aCIjLaRtd7"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1RnuXPmumyPtWztRVdA8f1/85640221e6e881014746c87b7d8bd95f/maxresdefault__11_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="ビデオ"/>
+    <category term="コミュニティ"/>
     <published>2024-10-03T01:17:55+00:00</published>
   </entry>
 </feed>
