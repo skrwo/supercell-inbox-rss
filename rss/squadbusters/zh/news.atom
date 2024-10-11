@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-10-11T14:36:12.491036+00:00</updated>
+  <updated>2024-10-11T15:33:36.600996+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -659,5 +659,15 @@
     <link href="https://youtu.be/zGIHdLsfD2w"/>
     <category term="最新情報"/>
     <published>2024-10-01T13:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>gxKjTChRHfIh2SBIbOwz3</id>
+    <title>【直播預告】10月12日21點烏龜三人賽熱鬧開打！</title>
+    <updated>2024-10-11T14:46:27.034000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/gxKjTChRHfIh2SBIbOwz3"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/45f6iTx5lntbscSYihdusw/25331b4d8bf1e2d5d13b1827577075a6/tw_20241011_turtle_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/TtunIFSni70"/>
+    <category term="最新情報"/>
+    <published>2024-10-11T14:30:00+00:00</published>
   </entry>
 </feed>
