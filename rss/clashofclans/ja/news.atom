@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-10-11T07:31:20.654292+00:00</updated>
+  <updated>2024-10-11T08:38:44.765351+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -455,5 +455,37 @@
     <link href="https://clashofclans.inbox.supercell.com/#/ja/news/178guTA1qsWC4Z5RzlEWN3"/>
     <category term="ニュース"/>
     <published>2024-10-01T14:25:58+00:00</published>
+  </entry>
+  <entry>
+    <id>aOzruYqjRbEXxuw43AzZu</id>
+    <title>禁断の合成実験イベントI</title>
+    <updated>2024-10-11T08:05:03.748000+00:00</updated>
+    <content>&lt;h1&gt;禁断の合成実験イベント＆ヒーローの新装備！&lt;/h1&gt;
+&lt;p&gt;タウンホール6以上のプレイヤーが参加可能です。ゲームをプレイして禁断のエリクサーを集めると、イベントの報酬グレードが進行します。禁断のエリクサーは禁断のメダルと交換することで、&lt;u&gt;グランドウォーデンの新スーパーレア装備「ラヴァルーン人形」&lt;/u&gt;などの豪華報酬をアンロックできます！&lt;/p&gt;&lt;h3&gt;期間&lt;/h3&gt;&lt;p&gt;開始&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;10月11日 午後5時（日本時間）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;終了&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;10月31日 午後5時（日本時間）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;イベント終了日の&lt;u&gt;10月31日&lt;/u&gt;以降も、11月2日 午後5時（日本時間）までは旅商人のイベントタブとイベント施設にアクセスできます。&lt;/p&gt;
+&lt;h1&gt;新しい期間限定ユニット：アイスガーゴイル&lt;/h1&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/01gaFKj92UlTAaacMZHniO/8c1ef237b8b97885b47daa3df88da68e/iceminion.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;タウンホールレベル6以上から使用可能です。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;敵の防衛設備を優先して攻撃する空中ユニットです。撃破されると周辺のユニットと施設を凍らせます。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;再登場の期間限定ユニット&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;ババーチャー&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ホグウィザード&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ネクロゴーレム&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ラヴァルーン&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7IHasMcc7txh5Ndjif5Og/e1380a21deac1a1b26cddc992dbe27db/temptroops.png?w=1473&amp;h=700&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;イベント資源！&lt;/h1&gt;
+
+&lt;h1&gt;メダルイベント資源「禁断のエリクサー」&lt;/h1&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2z7G8EQYI1CxxCbcmh9dYz/7e15fb7ab9254ecbcf50036282a09cae/newsour.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;禁断のエリクサーを貯蔵している施設を破壊することで入手できます！エリクサーを集め、鉱石やデコレーションなどを入手しましょう！&lt;/p&gt;
+&lt;h1&gt;禁断のメダル&lt;/h1&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4tXAYvI0sjwQkVhoxDeqd/58e6a08d55d9d5ee0951f65d2dad118e/MEDALS-NEW.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;今回のイベント通貨です。獲得したメダルは、旅商人の店でシーズン限定デコレーションやヒーローの装備用の鉱石、魔法アイテムなどと交換できます。目玉商品は新スーパーレア装備「ラヴァルーン人形」です！&lt;/p&gt;
+&lt;h1&gt;ヒーローの新装備＆その他報酬！&lt;/h1&gt;
+
+&lt;h1&gt;グランドウォーデンの新スーパーレア装備「ラヴァルーン人形」&lt;/h1&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/MOfkArQ51GLaKjDTqvWCd/08abbbf7711ff5ce1e82c8c34e1489ce/HeroGear_LavaloonDoll0000.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;世にも恐ろしいラヴァルーンの集団を召喚して、一緒に戦うことができます。召喚可能なラヴァルーンの数は、装備のレベルによって変化します。&lt;/p&gt;
+&lt;p&gt;イベント期間中は素敵なデコレーションも入手可能です！&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6zlcH1Z89YjOUS33tehQL3/2de16d0fac4e7df6988671b76cef28c1/3decos_mashup.png?w=1580&amp;h=700&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/aOzruYqjRbEXxuw43AzZu"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/kX4nkZYeIUgM4h07SZWQI/eb7faedbe59d8cc0c5c39773d8921b84/thumb_mashup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-10-11T07:45:45+00:00</published>
   </entry>
 </feed>

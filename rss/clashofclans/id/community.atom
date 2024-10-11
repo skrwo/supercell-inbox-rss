@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-communityEntries-id</id>
   <title>Clashofclans - Community</title>
-  <updated>2024-10-11T07:31:23.978664+00:00</updated>
+  <updated>2024-10-11T08:38:47.120188+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Community</subtitle>
   <entry>
     <id>3PWg0U4S3CI6N7213IhYJx</id>
     <title>CARA MENYELESAIKAN TANTANGAN DUNGEONS &amp; [CLASH OF] DRAGONS</title>
-    <updated>2024-10-11T07:31:23.978746+00:00</updated>
+    <updated>2024-10-11T08:38:47.120305+00:00</updated>
     <author>
       <name>Chief Rian Gaming</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>7MMIlXOSgB1htzh1DJrelb</id>
     <title>CARA MENYELESAIKAN TANTANGAN KEHANCURAN DAN MALAPETAKA!</title>
-    <updated>2024-10-11T07:31:23.978695+00:00</updated>
+    <updated>2024-10-11T08:38:47.120268+00:00</updated>
     <author>
       <name>Chief Rian Gaming</name>
     </author>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1akT7My7xpvs5ZPhRmAAff/e8de46b152728c1c22d69cbcaec0c60f/guest-content-video-07-e0f8259d-8db0-4ce0-8a31-3136327c2033-cyeb.jpeg-1727769842275?w=640&amp;h=358&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/M_ca6cBLk4Q"/>
     <published>2024-10-01T08:04:08+00:00</published>
+  </entry>
+  <entry>
+    <id>KVRK0tmtpaJHOF55BhCeq</id>
+    <title>CARA MENYELESAIKAN TANTANGAN BEBAS LEPAS! DALAM 1X SERANG!</title>
+    <updated>2024-10-11T08:38:47.120215+00:00</updated>
+    <author>
+      <name>Chief Rian Gaming</name>
+    </author>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/qNMKrsWFfymOgEejqucVL/7e689c06effe89bdbd97eedb036792c7/guest-content-video-07-e0f8259d-8db0-4ce0-8a31-3136327c2033-vyvf.jpeg-1728633866219?w=640&amp;h=358&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/1CneWdPKlhI"/>
+    <published>2024-10-11T08:04:33+00:00</published>
   </entry>
 </feed>
