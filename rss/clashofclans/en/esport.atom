@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-10-13T15:35:15.273057+00:00</updated>
+  <updated>2024-10-13T16:38:51.352102+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -456,5 +456,14 @@ Clash On!&lt;/p&gt;</content>
     <link href="https://www.twitch.tv/videos/2274039655?t=00h59m51s"/>
     <category term="Esports"/>
     <published>2024-10-12T16:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>2IV3KMNRR3SBlLFCtnivZD</id>
+    <title>Rewatch BLAST Clash Day 2!</title>
+    <updated>2024-10-13T16:16:14.350000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3VOavLYmTQYcpXq3Pj5UsI/33deea5c0892da45bd7f1340cada0a58/Clash-Twitter-1920x1080_Day2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2274958400?t=00h41m41s"/>
+    <category term="Esports"/>
+    <published>2024-10-13T16:16:14+00:00</published>
   </entry>
 </feed>
