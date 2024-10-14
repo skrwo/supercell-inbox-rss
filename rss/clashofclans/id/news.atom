@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2024-10-14T09:35:23.070826+00:00</updated>
+  <updated>2024-10-14T10:40:12.383585+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -264,5 +264,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/kX4nkZYeIUgM4h07SZWQI/eb7faedbe59d8cc0c5c39773d8921b84/thumb_mashup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Berita"/>
     <published>2024-10-11T07:45:45+00:00</published>
+  </entry>
+  <entry>
+    <id>4fysCLQTRGgHdqYotEFW7m</id>
+    <title>Clash-A-Rama: Hutan Gaib </title>
+    <updated>2024-10-14T10:09:25.593000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/id/news/4fysCLQTRGgHdqYotEFW7m"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6q612aLkzBoPw9P0glXTeM/4ff0059c189d609b6ddd40244a5a21df/thumb_clasharama_mashupmania.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/HqEN1h1z8sU?si=jqJZHs89rwhPGEii"/>
+    <category term="Berita"/>
+    <published>2024-10-11T09:05:45+00:00</published>
   </entry>
 </feed>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Oct 2024 09:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 10:40:17 +0000</lastBuildDate>
     <item>
       <title>¡Todo lo que necesitas saber!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -327,6 +327,14 @@ Si llegas a Liga Squad antes de que termine el evento, ¡encontrarás una recomp
       <category>Actualizaciones</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 16 Sep 2024 07:59:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reclama Tickets de Estilo gratis cada día del lunes 14 al domingo 20! 🎁</title>
+      <link>squadbusters://OpenShop</link>
+      <guid isPermaLink="false">2bECXELTjjUVy31hExaLZS</guid>
+      <category>Novedades</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3l6nCWKsAg51ciHIccBUS3/bd36fad7c7ed71fba371d3f5200a07d5/TicketsSocialMedia.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Mon, 14 Oct 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

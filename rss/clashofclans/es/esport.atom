@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-10-14T09:35:24.784473+00:00</updated>
+  <updated>2024-10-14T10:40:07.124263+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -442,5 +442,23 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
     <link href="https://www.youtube.com/live/ApEFj-ER2s0?si=z49adrz-hE1-An7Q&amp;t=204"/>
     <category term="eSports"/>
     <published>2024-10-07T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4CycL9elfqBMaABR6DoRcS</id>
+    <title>¡Mira de nuevo BLAST Clash - Día 1!</title>
+    <updated>2024-10-14T10:01:31.260000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/05AjrGeoIBuSMH6dRJPpl/fb5c1a1e9ab3755054a38c08f9cc96c8/ES_Clash-Twitter-1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2274044002?t=0h19m28s"/>
+    <category term="eSports"/>
+    <published>2024-10-14T10:01:31+00:00</published>
+  </entry>
+  <entry>
+    <id>3YOJcarl0h9ZGfznUtcst8</id>
+    <title>¡Mira de nuevo BLAST Clash - Día 2!</title>
+    <updated>2024-10-14T10:03:42.502000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2X0LMYDmeTjlUu8DB1VSHf/6ecf4c91e5086301dc70cf8683294a08/Clash-Twitter-1920x1080_day2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href=" https://www.twitch.tv/videos/2274966776?t=0h9m48s"/>
+    <category term="eSports"/>
+    <published>2024-10-14T10:03:42+00:00</published>
   </entry>
 </feed>
