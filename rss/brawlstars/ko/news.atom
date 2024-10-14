@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-14T03:04:08.581977+00:00</updated>
+  <updated>2024-10-14T03:41:42.951654+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -172,16 +172,6 @@
     <link href="https://youtu.be/vz3MO390wDc"/>
     <category term="커뮤니티"/>
     <published>2024-09-29T11:06:43+00:00</published>
-  </entry>
-  <entry>
-    <id>VZUtrwpW4eH9cecJjwShb</id>
-    <title>크리에이터와 함께하는 켈로그 배틀 with 브롤스타즈! 🥣</title>
-    <updated>2024-09-30T10:56:55.559000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/VZUtrwpW4eH9cecJjwShb"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5cAVIAsdJo7UZAUpIIpZzm/555f26fee856d75cef9e4e2e104e9b99/0912_BSxKelloggs____________1600x866_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1260466"/>
-    <category term="커뮤니티"/>
-    <published>2024-09-30T10:56:55+00:00</published>
   </entry>
   <entry>
     <id>1t3ucLvUrDI2QeeFDilXyU</id>
