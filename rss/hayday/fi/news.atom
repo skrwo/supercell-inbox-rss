@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-10-14T13:39:59.842551+00:00</updated>
+  <updated>2024-10-14T14:37:48.601610+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -209,5 +209,16 @@
     <link href="https://youtu.be/22Smb8PhqQk"/>
     <category term="Uutiset"/>
     <published>2024-10-08T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1ee9RawVaQpusomepxDReU</id>
+    <title>Hay Dayn viikko 42</title>
+    <updated>2024-10-14T14:23:41.380000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 42&lt;/h1&gt;
+&lt;p&gt;Hei farmarit! On uuden tapahtumaviikon aika! Kaikki tapahtumat ja kisat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maanantai&lt;/b&gt;: palapelin paloja onnenpyörässä&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tiistai&lt;/b&gt;: tuplasti kolikoita tavararekkatilauksista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keskiviikko&lt;/b&gt;: kolmen tuotantorakennuksen 20 %:n tehostus&lt;/p&gt;&lt;p&gt;&lt;b&gt;Torstai&lt;/b&gt;: myyjäiset farmivierailijoille + laivatilausten yhteisötapahtuma&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perjantai&lt;/b&gt;: kalastusalueella kaikkien rakennusten 20 %:n tehostus + laivatilausten yhteisötapahtuma + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lauantai&lt;/b&gt;: tuplasti kokemuspisteitä kylävierailijoista + laivatilausten yhteisötapahtuma&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunnuntai&lt;/b&gt;: kolme sattumanvaraista puu- tai pensastyyppiä tuottaa satoa kaksi kertaa nopeammin + laivatilausten yhteisötapahtuma&lt;/p&gt;&lt;p&gt;&lt;b&gt;Naapurustokisat&lt;/b&gt;: tavalliset kisat&lt;/p&gt;&lt;p&gt;Ihanaa viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/1ee9RawVaQpusomepxDReU"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Tapahtumat"/>
+    <published>2024-10-14T14:22:14+00:00</published>
   </entry>
 </feed>

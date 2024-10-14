@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-10-14T13:40:02.696525+00:00</updated>
+  <updated>2024-10-14T14:37:47.259997+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -209,5 +209,16 @@
     <link href="https://youtu.be/22Smb8PhqQk"/>
     <category term="Notícias"/>
     <published>2024-10-08T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1ee9RawVaQpusomepxDReU</id>
+    <title>Semana 42 de Hay Day</title>
+    <updated>2024-10-14T14:23:41.380000+00:00</updated>
+    <content>&lt;h1&gt;Semana 42 de eventos do Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com peças de quebra-cabeça.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: moedas em dobro com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: aceleração da produção em 20% de 3 edifícios.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: venda de itens usados com os visitantes da fazenda e evento global do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 20% da área de pesca, evento global do barco e dobro de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: dobro de XP com os visitantes da cidade e evento global do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três tipos aleatórios de árvores ou arbustos produzirão frutos com o dobro de velocidade + evento global do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: corrida normal.&lt;/p&gt;&lt;p&gt;Tenha uma semana maravilhosa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/1ee9RawVaQpusomepxDReU"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-10-14T14:22:14+00:00</published>
   </entry>
 </feed>

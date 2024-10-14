@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-10-14T13:40:02.042830+00:00</updated>
+  <updated>2024-10-14T14:37:47.909996+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -209,5 +209,16 @@
     <link href="https://youtu.be/22Smb8PhqQk"/>
     <category term="Neues"/>
     <published>2024-10-08T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1ee9RawVaQpusomepxDReU</id>
+    <title>Ereigniswoche 42</title>
+    <updated>2024-10-14T14:23:41.380000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 42&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag:&lt;/b&gt; Glücksrad-Ereignis (Puzzlestücke)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag:&lt;/b&gt; Lieferwagen-Ereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch:&lt;/b&gt; Produktionsgebäude-Ereignis (20%iger Schub für drei Gebäude)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag:&lt;/b&gt; Farmbesucher-Ereignis (Flohmarkt) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag:&lt;/b&gt; Produktionsschub für den gesamten Angelbereich (20 %) + globales Schiffsereignis + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag:&lt;/b&gt; Stadtbesucher-Ereignis (doppelte EP) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag:&lt;/b&gt; Früchteereignis (doppelte Produktionsgeschwindigkeit bei drei zufälligen Bäumen/Sträuchern) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Normales Derby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine tolle Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/1ee9RawVaQpusomepxDReU"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Ereignisse"/>
+    <published>2024-10-14T14:22:14+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-10-14T13:39:53.988223+00:00</updated>
+  <updated>2024-10-14T14:37:46.647192+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -209,5 +209,16 @@
     <link href="https://youtu.be/22Smb8PhqQk"/>
     <category term="أخبار"/>
     <published>2024-10-08T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1ee9RawVaQpusomepxDReU</id>
+    <title>الأسبوع 42 من Hay Day</title>
+    <updated>2024-10-14T14:23:41.380000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 42 من أحداث Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! استعدوا لأسبوع آخر مليء بالأحداث. تبدأ كل الأحداث والديربي في الساعة 8 ص بتوقيت جرينتش. اطلعوا على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;&lt;b&gt;الإثنين&lt;/b&gt;: تدوير العجلة - (قطع لغز)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الثلاثاء&lt;/b&gt;: حدث الشاحنة (ضعف العملات)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأربعاء&lt;/b&gt;: مباني الإنتاج - (تعزيز 20% لثلاثة مبان)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الخميس&lt;/b&gt;: حدث زوار المزرعة (عرض بيع الزينات) + حدث القارب العالمي&lt;/p&gt;&lt;p&gt;&lt;b&gt;الجمعة&lt;/b&gt;: حدث تعزيز إنتاجية الصيد (تعزيز 20% للكل) + حدث القارب العالمي + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;&lt;b&gt;السبت&lt;/b&gt;: زوار البلدة (ضعف الخبرة) + حدث القارب العالمي&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأحد&lt;/b&gt;: حدث الفواكه (ستنتج ثلاثة أنواع عشوائية من الأشجار أو الشجيرات الثمار بسرعة مضاعفة خلال هذا الحدث) + حدث القارب العالمي&lt;/p&gt;&lt;p&gt;&lt;b&gt;الديربي&lt;/b&gt;: ديربي عادي&lt;/p&gt;&lt;p&gt;نتمنى لكم أسبوعًا رائعًا!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/1ee9RawVaQpusomepxDReU"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أحداث"/>
+    <published>2024-10-14T14:22:14+00:00</published>
   </entry>
 </feed>

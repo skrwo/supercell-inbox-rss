@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-10-14T13:40:04.659381+00:00</updated>
+  <updated>2024-10-14T14:37:46.318721+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -221,5 +221,18 @@ Have a productive week!&lt;/p&gt;</content>
     <link href="https://youtu.be/22Smb8PhqQk"/>
     <category term="News"/>
     <published>2024-10-08T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1ee9RawVaQpusomepxDReU</id>
+    <title>Hay Day Week 42</title>
+    <updated>2024-10-14T14:23:41.380000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Events Week 42&lt;/h1&gt;
+&lt;p&gt;Howdy farmers! Get ready for another week of events! All events &amp;amp; derbies start at 8 AM UTC. Jump into the specifics of each event by visiting our event board in the game. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Monday&lt;/b&gt;: Spin the Wheel (Puzzle Pieces) &lt;/p&gt;&lt;p&gt;&lt;b&gt;Tuesday&lt;/b&gt;: Truck Event (x2 Coins)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wednesday&lt;/b&gt;: Production Buildings - (20% boost for 3 buildings)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thursday&lt;/b&gt;: Farm Visitor Event (Yard Sale) + Global Boat Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Friday&lt;/b&gt;:  Fishing Production Boost Event (All 20% Boost) + Global Boat Event + x2 Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Saturday&lt;/b&gt;:  Town Visitors (x2 XP) + Global Boat Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunday&lt;/b&gt;: Fruits Event (Three random types of trees or bushes will produce fruits twice as fast during this event) + Global Boat Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: Normal Derby
+
+Have a wonderful week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/1ee9RawVaQpusomepxDReU"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Events"/>
+    <published>2024-10-14T14:22:14+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-10-14T13:39:58.535278+00:00</updated>
+  <updated>2024-10-14T14:37:47.505858+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -209,5 +209,16 @@
     <link href="https://youtu.be/22Smb8PhqQk"/>
     <category term="Noticias"/>
     <published>2024-10-08T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1ee9RawVaQpusomepxDReU</id>
+    <title>Eventos de la semana 42</title>
+    <updated>2024-10-14T14:23:41.380000+00:00</updated>
+    <content>&lt;h1&gt;Eventos de la semana 42&lt;/h1&gt;
+&lt;p&gt;¡Buenas! ¡Prepárate para otra semana llena de eventos! Todos los eventos y derbis comienzan a las 08:00 UTC. Para saber más sobre cada uno de ellos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunes&lt;/b&gt;: Gira la ruleta (piezas de puzle).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martes&lt;/b&gt;: Evento de la camioneta (doble de monedas).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Miércoles&lt;/b&gt;: Edificios de producción potenciados (3 edificios aleatorios un 20 % más rápidos).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jueves&lt;/b&gt;: Visitantes de la granja (mercadillo) y evento global del barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Viernes&lt;/b&gt;: Evento de pesca (todos los edificios de producción potenciados un 20 %), evento global del barco y doble de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: Visitantes del pueblo (doble de XP) y evento global del barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: Evento de la fruta (tres tipos de árboles o arbustos al azar darán frutos el doble de rápido) y evento global del barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: El derbi de esta semana es un derbi estándar.&lt;/p&gt;&lt;p&gt;¡Que pases una semana estupenda!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/1ee9RawVaQpusomepxDReU"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-10-14T14:22:14+00:00</published>
   </entry>
 </feed>
