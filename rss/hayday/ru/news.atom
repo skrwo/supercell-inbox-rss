@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-10-15T07:34:34.267116+00:00</updated>
+  <updated>2024-10-15T08:40:36.368924+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -199,5 +199,18 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="События"/>
     <published>2024-10-14T14:22:14+00:00</published>
+  </entry>
+  <entry>
+    <id>D4Smk5eLgp4LzO12i27Af</id>
+    <title>Информация о хеллоуинском событии </title>
+    <updated>2024-10-15T07:50:02.634000+00:00</updated>
+    <content>&lt;p&gt;Мы дарим &lt;b&gt;ОДИН МИЛЛИОН МОНЕТ&lt;/b&gt; 20 счастливчикам, а также украшение «Свинья-призрак» всему сообществу!&lt;/p&gt;&lt;p&gt;В честь Хеллоуина мы подготовили новое событие для всего сообщества. В чем его суть? Производите хеллоуинские сладости с помощью хеллоуинского конфетного автомата, доставленного Альфредом на вашу ферму, и загружайте их в ящики на пароходе, чтобы заработать валюту события — &lt;b&gt;хеллоуинские шляпы&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Задача сообщества — собрать как можно больше хеллоуинских шляп.&lt;/p&gt;&lt;p&gt;Цели и награды события:&lt;/p&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4X0hS4sUjliX4TeBRGLsEu/702daa6feac77457fc90564fcebf6f67/info.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;1 миллиард хеллоуинских шляп — 100 хеллоуинских шляп;&lt;/p&gt;&lt;p&gt;2 миллиарда хеллоуинских шляп — 15 алмазов;&lt;/p&gt;&lt;p&gt;3 миллиарда хеллоуинских шляп — 250 хеллоуинских шляп;&lt;/p&gt;&lt;p&gt;4 миллиарда хеллоуинских шляп — 1 свинья-призрак.&lt;/p&gt;
+&lt;p&gt;Не волнуйтесь, если вы потратите валюту в каталоге события, это никак не повлияет на прогресс сообщества.&lt;/p&gt;&lt;p&gt;И это еще не все: 20 участников события получат &lt;b&gt;ОДИН МИЛЛИОН МОНЕТ&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;&lt;b&gt;За каждую выполненную сообществом цель&lt;/b&gt; мы случайным образом выберем по &lt;b&gt;пять игроков&lt;/b&gt; и отправим им один миллион монет! У каждого участника есть шанс стать одним из счастливчиков.&lt;/p&gt;&lt;p&gt;Когда придет время получать награды, просто зайдите в магазин — они будут ждать вас там. Награды будут доступны бесплатно, и вы найдете их сразу за акциями Farm Pass.&lt;/p&gt;&lt;p&gt;Событие сообщества уже началось и будет идти в течение &lt;b&gt;десяти дней&lt;/b&gt;.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/D4Smk5eLgp4LzO12i27Af"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1Ief1Okb2wf7tyfujqKdBe/4824b5109f7faf82985c382e29f43c3d/Inbox_Halloween_Gold_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2024-10-15T07:50:02+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-10-15T07:34:32.416237+00:00</updated>
+  <updated>2024-10-15T08:40:32.632125+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -220,5 +220,18 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Tapahtumat"/>
     <published>2024-10-14T14:22:14+00:00</published>
+  </entry>
+  <entry>
+    <id>D4Smk5eLgp4LzO12i27Af</id>
+    <title>Halloweenin tavoitteet </title>
+    <updated>2024-10-15T07:50:02.634000+00:00</updated>
+    <content>&lt;p&gt;Lahjoitamme 20 onnekkaalle farmarille &lt;b&gt;MILJOONA KOLIKKOA&lt;/b&gt; ja koko Hay Day -yhteisölle upean aavepossukoristeen!&lt;/p&gt;&lt;p&gt;Halloweenin kunniaksi tiedossa on uusi yhteisön tavoitetapahtuma! Tehtävännekö? Pistäkää Alfredin tuomat uudet halloweenkarkkikoneet käyntiin ja lähettäkää herkkuja laivatilausten mukana. Näin keräätte uutta halloweenvaluuttaa, &lt;b&gt;halloweenhattuja&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Tapahtumassa yhteisön on tarkoitus kerätä yhdessä mahdollisimman paljon halloweenhattuja.&lt;/p&gt;&lt;p&gt;Tavoitteet ovat seuraavat:&lt;/p&gt;
+&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4X0hS4sUjliX4TeBRGLsEu/702daa6feac77457fc90564fcebf6f67/info.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;1 miljardi halloweenhattua – 100 halloweenhattua&lt;/p&gt;&lt;p&gt;2 miljardia halloweenhattua – 15 timanttia&lt;/p&gt;&lt;p&gt;3 miljardia halloweenhattua – 250 halloweenhattua&lt;/p&gt;&lt;p&gt;4 miljardia halloweenhattua – aavepossukoriste.&lt;/p&gt;
+&lt;p&gt;Halloweenhattujen vaihtaminen palkintoihin kuvaston kautta ei vaikuta edistymiseesi.&lt;/p&gt;&lt;p&gt;Tässä ei kuitenkaan ollut vielä kaikki! 20 onnekasta halloweentapahtumaan osallistuvaa farmaria saavat &lt;b&gt;MILJOONA KOLIKKOA&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Valitsemme satunnaisesti &lt;b&gt;viisi pelaajaa&lt;/b&gt; &lt;b&gt;jokaista yhteisön saavuttamaa tavoitetta kohti&lt;/b&gt; ja lähetämme heille miljoona kolikkoa! Kaikilla on yhtä suuri mahdollisuus voittaa.&lt;/p&gt;&lt;p&gt;Pääset lunastamaan palkintosi kaupasta. Palkinnot näkyvät kaupassa ilmaisena sisältönä, jotka löydät heti Farmipassi-tarjousten jälkeen.&lt;/p&gt;&lt;p&gt;Yhteisötapahtuma on käynnissä &lt;b&gt;10 päivän ajan&lt;/b&gt; ja alkaa nyt!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/D4Smk5eLgp4LzO12i27Af"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1Ief1Okb2wf7tyfujqKdBe/4824b5109f7faf82985c382e29f43c3d/Inbox_Halloween_Gold_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Uutiset"/>
+    <published>2024-10-15T07:50:02+00:00</published>
   </entry>
 </feed>
