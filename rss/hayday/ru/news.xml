@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Oct 2024 09:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 10:40:21 +0000</lastBuildDate>
     <item>
       <title>События 30-й недели в Hay Day!</title>
       <link>https://hayday.inbox.supercell.com/#/ru/news/7Mk9IpxRi0AKTWuJ4YV7Lo</link>
@@ -194,6 +194,16 @@
       <category>Новости</category>
       <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1Ief1Okb2wf7tyfujqKdBe/4824b5109f7faf82985c382e29f43c3d/Inbox_Halloween_Gold_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Tue, 15 Oct 2024 07:50:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Голосуйте за понравившиеся проекты!</title>
+      <link>https://hayday.inbox.supercell.com/#/ru/news/13qtj26f8EKfW5wRRSrsuj</link>
+      <description>&lt;p&gt;Пришло время голосовать за понравившиеся проекты на Supercell Make! Вы можете отдать свой голос, даже если не участвовали в конкурсе проектов.&lt;/p&gt;&lt;p&gt;Нажмите кнопку ниже&lt;/p&gt;
+&lt;a href="hayday://scidOpenWebSSO?url=https%3A%2F%2Fmake.supercell.com%2Fen%2Fcampaign%2F42gfB4cKOIPhVhshlz1TMS%3Fsso_client_id%3D5CC9647E-5A7F-4ED9-A5D7-6017BAD4F13A"&gt;👉Голосовать👈&lt;/a&gt;</description>
+      <guid isPermaLink="false">13qtj26f8EKfW5wRRSrsuj</guid>
+      <category>Новости</category>
+      <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2BMZLg5eL9Hx7TcYB9qYZj/d8eeb17836cea4b96ff252a08fc744d9/votemake.png?w=900&amp;h=506&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 15 Oct 2024 10:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
