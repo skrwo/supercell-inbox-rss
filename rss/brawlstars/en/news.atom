@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-15T14:37:08.095328+00:00</updated>
+  <updated>2024-10-15T15:34:54.630412+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -210,5 +210,51 @@ This change should not affect most players who play matches normally but aims to
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5BtIS7MP2GKHLnlWF3D2Uv/af7f749088753cc9169c96af3e977e27/0827_Patch_notes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-10-04T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7mbdhGMIuxgANUhIvnrXct</id>
+    <title>Trophy Season Rework is Coming!</title>
+    <updated>2024-10-15T14:59:13.415000+00:00</updated>
+    <content>&lt;p&gt;It’s that time of the year when we rework a whole system again! This time, it’s the Trophy Season Reset!&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;What are the main problems with this system?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;It’s unnecessarily complex and not fun&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;On top of that, the rewards suck!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;It discourages players from using their favorite Brawlers (because at one point it becomes too hard to push them)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Also the matchmaking times get too long at high Trophy matches
+&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Our goals with the new system are:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Make the system clearer (not necessarily simpler) and fun!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Make it more welcoming to casuals, but also more meaningful for ladder warriors &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Make it more rewarding and therefore more engaging&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Remove the friction from playing high Trophy Brawlers&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;So, here’s all that is changing:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;We are adding more Tiers and making the system clearer and more rewarding!&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5h4eQqyBWGwTRtotVgEFS2/257b9151dbda80e96ac9f808121880b2/icon_season_trophy_800x450.png?w=800&amp;h=300&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;A lot of things are changing this time, so it might be hard to compare the old system vs the new, but in summary, the new Trophy Season system should be more intuitive and more rewarding, all for the same amount of effort you currently put into the game.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;There are now 50 Tiers in total. The top Tier is now called Max!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;To reach Max Tier with a Brawler you will need 1000 Trophies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;In the new system, you will progress a Tier every 20 Trophies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Trophy gain and loss will be adjusted to fit better with the new system and be more forgiving under 1000 Trophies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;You’ll only start losing more Trophies than you win after 1100 Trophies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Trophy Season will start and end at the same time as the Brawl Pass season&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The now monthly Trophy Season reset will always reset all Brawlers back to 1000 Trophies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;There’s no Trophy reset for any Brawler below 1000 Trophies&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+
+&lt;/p&gt;&lt;p&gt;So what happens after you reach 1000 Trophies?&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;With 1000 Trophies you reach the highest Tier available (Max)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The Trophies you get after 1000 will still be counted but now they become &lt;b&gt;Season Trophies&lt;/b&gt; and they help you progress towards a new item, &lt;b&gt;THE TROPHY BOX!&lt;/b&gt; (more on that below!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The base level Trophy Box also unlocks for everyone who has at least 1500 total Trophies, but you can only progress it further with Brawlers above 1000 Trophies&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+&lt;/p&gt;&lt;h3&gt;&lt;b&gt;New Reward: The Trophy Box!&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6J9fVVvKqwnb9I2FryKCbJ/38ce02ca9cb8871e424e083ecd27310e/bling_box_legendary_3d_mockup.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Yes, it’s a new Box! Instead of just getting Bling at the end of each Season, you now get a Trophy Box!
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;The Trophy Box unlocks once you get a Brawler to 1000 Trophies or when you reach 1500 total Trophies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Any Trophies gained above 1000 Trophies are now Season Trophies. Season Trophies level up your Trophy Box&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The Trophy Box has 5 levels: Small, Big, Mega, Omega and Ultra - the bigger the Box, the better and more rewards you get&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tier upgrade rewards got removed but don’t worry, with the new system you will also be getting more Bling than before&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The contents of the Trophy Box are mainly cosmetics, including a guaranteed Skin and, depending on the level of the Box, it could also even contain a Mythic, Legendary, or Hypercharge Skin and Gems!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;amp;%^$ this text, look at the image below:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AQ1VBv4a1goHu3EgexRLp/b67b06ec058fd7080e1fbcaab17f86c0/info_popup.png?w=2660&amp;h=1498&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;But isn’t it grindy to get there?
+&lt;/b&gt;- Yes, it is grindy to get the higher level Boxes, but if you play the same amount you are playing today, you’ll still be getting more rewards than before and skill should be taken more into account in the new system&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Matchmaking!&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1miXHdHljokzu5n8WRZT2y/9c316a27d6ca24a0d23e80c2c86f0178/battle_end__1_.png?w=2666&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Everyone’s favorite topic! There are some changes to it, but mostly after 1000 Brawler Trophies:&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Matchmaking will consider Brawler Trophies and will try to match players with a similar Trophy count&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;After 1000 Brawler Trophies, players will all be in the same matchmaking pool, this should help with matchmaking times in high Trophy Brawler matches&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;You only start losing more Trophies than you gain after 1100+ Brawler Trophies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Underdog gets removed after 1000 Trophies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Win Streaks will be tied to individual Brawlers to make Trophy pushing more fair&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The highest Win Streak record will still be kept in your profile&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+But does this mean that the pros and the casuals will all be in the same pool after 1000 Brawler Trophies?
+- Yes, but the number of pros is much, much, much smaller than the number of casuals, so it might happen, but it should be rare&lt;/p&gt;&lt;p&gt;
+
+&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Leaderboards!&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;For the sweaty ones out there, we’ll have two leaderboards &lt;b&gt;per Brawler&lt;/b&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;A &lt;b&gt;Seasonal Leaderboard&lt;/b&gt; that gets reset every Season&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;An &lt;b&gt;All-Time Leaderboard&lt;/b&gt;, that tracks the highest Trophy count ever reached with that Brawler&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;For each time you make it to the Top and enter the Seasonal Leaderboard, you get a Prestige Icon for your profile. That icon then features a number that increases each time you place in the Top with at least one Brawler, once per Season&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2GnwGMFKvgevknyQzOFj5u/21fd9d1456fbee742a45a30c071d154f/profile.png?w=2341&amp;h=1179&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;How about previous Trophy records from before the rework?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;They will remain in the “All-Time Leaderboard” we mentioned above, until someone else beats them.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+
+&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Previous Achievements!&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5Jk8P4t9x6IHJSv35iPeyq/c571655a65c32dfb046f73b9ecd9b371/emoji_og_35.png?w=677&amp;h=672&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;If in the current system you have Brawlers at Tier 35, you might be wondering if it was all in vain. And the answer is… partly, but your achievements will LIVE FOREVER! &lt;/p&gt;&lt;p&gt;
+
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Players that have had at least 1 Brawler at Tier 35, will get a unique Pin&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Players that have had at least 10 Brawlers at Tier 35, will get a new exclusive title, only available to those who achieved this feat before the rework&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Your all time high will be taken into account for this, so if you’ve had Brawlers at Tier 35 in previous Seasons, but not in the current one, that will still count!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The total number of Brawlers you ever had at Tier 35 will also be marked in your profile, so you can still use that to impress your mom&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;In the first Trophy Season reset after the update, every Brawler above 1000 Trophies will be reset back to 1000&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+
+&lt;/p&gt;&lt;h3&gt;&lt;b&gt;When Will This Happen?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;A lot of the changes will be already happening on update day which is coming near the end of October!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;If you have a Brawler over 1000 Trophies you will already be able to add progress to your first Trophy Box that will drop with the Season Reset, right after the Scary Tales season ends on November 7!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;IMPORTANT!&lt;/b&gt; Take into account that some of the values mentioned here are not final and may change by the time the update releases!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;And some smaller details and values might still change by the time the update releases but let us know your thoughts and questions on social media about these changes and if there are any big doubts we can address them in another post!&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;Bye!&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/7mbdhGMIuxgANUhIvnrXct"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/NdMlWsmu3ZMJtwQgcP6Fh/d65a2a49e2c807bdda86fda3b822d108/1011_Trophy_Season_changes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-10-15T14:59:13+00:00</published>
   </entry>
 </feed>
