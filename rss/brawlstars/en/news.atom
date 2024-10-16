@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-16T14:37:12.600885+00:00</updated>
+  <updated>2024-10-16T15:35:20.533475+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -256,5 +256,15 @@ But does this mean that the pros and the casuals will all be in the same pool af
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/NdMlWsmu3ZMJtwQgcP6Fh/d65a2a49e2c807bdda86fda3b822d108/1011_Trophy_Season_changes_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-10-15T14:59:13+00:00</published>
+  </entry>
+  <entry>
+    <id>3m11hStMKajzs0h0foCrsu</id>
+    <title>The Future of Brawl Stars in 2025!</title>
+    <updated>2024-10-16T15:11:30.508000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/3m11hStMKajzs0h0foCrsu"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/170H92TK8tcG8S8ebQCE9z/5eb7073df0972faa3cde604c20cd9c65/Roadmap_Thumb-draft-03.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/KHf4hb5iJhE"/>
+    <category term="News"/>
+    <published>2024-10-16T15:01:51+00:00</published>
   </entry>
 </feed>
