@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-16T18:40:44.038083+00:00</updated>
+  <updated>2024-10-16T19:28:51.396907+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -229,7 +229,7 @@
   <entry>
     <id>7mbdhGMIuxgANUhIvnrXct</id>
     <title>トロフィーシーズンが刷新されます！</title>
-    <updated>2024-10-16T03:19:51.270000+00:00</updated>
+    <updated>2024-10-16T18:56:47.382000+00:00</updated>
     <content>&lt;p&gt;今年もブロスタのゲームシステムが根本から改善されます！今回は「トロフィーシーズンリセット」が刷新の対象です！&lt;/p&gt;&lt;p&gt;&lt;b&gt;トロフィーシーズンリセットに関する課題&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;必要以上に複雑で楽しさに欠ける。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;報酬の実入りが少ない。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;結果、好きなキャラクターでプレイしていても進行が滞るようになり、遊びにくいと感じるプレイヤーが多数存在したことは否定できません。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;また、高トロフィー帯でマッチメイキングに時間がかかりすぎるという課題もありました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;システムの刷新の狙いは、以下の通りです。&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;システムをより分かりやく改善し（単純な簡略化ではない）、プレイを楽しくすること。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;カジュアルプレイヤーはプレイしやすく、ガチ勢はさらにやりごたえを感じられるようにすること。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;報酬を充実させることで、プレイにより夢中になれるようにすること。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;高トロフィー帯でのプレイを快適にすること。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;では、変更点をすべて確認していきましょう。&lt;/p&gt;&lt;h3&gt;&lt;b&gt;グレードの数を増やし、さらに分かりやすいシステムと報酬の充実化を目指します！&lt;/b&gt;&lt;/h3&gt;
 &lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5h4eQqyBWGwTRtotVgEFS2/257b9151dbda80e96ac9f808121880b2/icon_season_trophy_800x450.png?w=800&amp;h=300&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;今回は変更が多数行われるため、旧システムと新システムの単純な比較は難しいでしょう。一言でまとめるなら、新しいトロフィーシステムは感覚的に分かりやすく、報酬の量も増加します。今まで通りにプレイを続けても、より多くの見返りがあるはずです。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;「マックス」グレードが追加され、グレードの合計数が「50」になります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;マックスグレードに到達するには、1体のキャラクターで1000トロフィーを集める必要があります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;新システムでは、20トロフィーごとに1グレード進行できます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;トロフィーの増減数は新システム向けに調整されるほか、1000トロフィー未満の場合は増減の度合いが緩やかになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;トロフィーの減少数が増加数を上回るのは、1100トロフィー以降です。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;トロフィーシーズンの開始および終了時期は、ブロスタパスシーズンと同じとなります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;今後は毎月のトロフィーシーズンリセットで、すべてのキャラクターのトロフィー数が1000にリセットされます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1000トロフィー未満のキャラクターのトロフィー数はリセットされません。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;1000トロフィー到達後はどうなるの？&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1000トロフィーを獲得すると、「マックス」グレードに到達します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1000トロフィー以降に獲得したトロフィーは「&lt;b&gt;シーズントロフィー&lt;/b&gt;」として扱われ、新アイテムの「&lt;b&gt;トロフィーボックス&lt;/b&gt;」のレベルアップに向けて計上されます（詳細は以下をご確認ください）。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;また、基本レベルのトロフィーボックスは合計トロフィー数1500に到達済みのプレイヤー全員がアンロック可能ですが、ボックスのレベルを上げるには1000トロフィー以上のキャラクターが必要です。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;b&gt;新報酬：トロフィーボックス！&lt;/b&gt;&lt;/h3&gt;
