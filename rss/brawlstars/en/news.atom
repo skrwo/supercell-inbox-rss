@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-16T03:02:42.399200+00:00</updated>
+  <updated>2024-10-16T03:41:11.640706+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -214,7 +214,7 @@ This change should not affect most players who play matches normally but aims to
   <entry>
     <id>7mbdhGMIuxgANUhIvnrXct</id>
     <title>Trophy Season Rework is Coming!</title>
-    <updated>2024-10-15T14:59:13.415000+00:00</updated>
+    <updated>2024-10-16T03:19:51.270000+00:00</updated>
     <content>&lt;p&gt;It’s that time of the year when we rework a whole system again! This time, it’s the Trophy Season Reset!&lt;/p&gt;&lt;p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;b&gt;What are the main problems with this system?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;It’s unnecessarily complex and not fun&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;On top of that, the rewards suck!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;It discourages players from using their favorite Brawlers (because at one point it becomes too hard to push them)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Also the matchmaking times get too long at high Trophy matches
 &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Our goals with the new system are:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Make the system clearer (not necessarily simpler) and fun!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Make it more welcoming to casuals, but also more meaningful for ladder warriors &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Make it more rewarding and therefore more engaging&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Remove the friction from playing high Trophy Brawlers&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
