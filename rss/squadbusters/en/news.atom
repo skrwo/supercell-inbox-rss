@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-10-16T12:55:29.132025+00:00</updated>
+  <updated>2024-10-16T13:38:16.135917+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -11,7 +11,7 @@
     <title>All you need to know!</title>
     <updated>2024-05-22T03:11:21.457000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/tdQvcI6vCnsfQOII5d8xM"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
     <category term="Game Updates"/>
     <published>2024-04-22T11:55:16+00:00</published>
@@ -21,7 +21,7 @@
     <title>What is Squad Busters? 🧐</title>
     <updated>2024-04-24T13:37:49.458000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/1D1NDyjKXuZ8tZz04eMVoL"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4PbdVYBHswZGl4XxelJ1dg/201d2409168b737b6db571ae12a4dc53/squad_inanutshelll.jpeg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4PbdVYBHswZGl4XxelJ1dg/201d2409168b737b6db571ae12a4dc53/squad_inanutshelll.jpeg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=cDCCpWJRWak"/>
     <category term="News"/>
     <published>2024-04-22T12:06:05+00:00</published>
@@ -31,7 +31,7 @@
     <title>Breaking the curse?!</title>
     <updated>2024-05-22T02:55:14.144000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/30GoLvOJ4NNQT5B1FZvCVP"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7dJv1fW5asCDlcfGrc28iv/a5753b4705e1853a89a1a7b5741b97a8/SB_preGL_Thumb_final_02.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7dJv1fW5asCDlcfGrc28iv/a5753b4705e1853a89a1a7b5741b97a8/SB_preGL_Thumb_final_02.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=Ok_E_G52zp8"/>
     <category term="News"/>
     <published>2024-04-23T06:21:01+00:00</published>
@@ -41,7 +41,7 @@
     <title>Watch the Launch Animation!</title>
     <updated>2024-05-22T03:09:33.360000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/3PX7io2RhcJiEJQE9yIigg"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4tqSUAGiJZa8T4lqGZfDUn/2b96de163c3db3e9de92ef3877f53132/launch_video_thumb_final.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4tqSUAGiJZa8T4lqGZfDUn/2b96de163c3db3e9de92ef3877f53132/launch_video_thumb_final.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/9mFKWkge2lA"/>
     <category term="News"/>
     <published>2024-04-23T09:20:37+00:00</published>
@@ -52,7 +52,7 @@
     <updated>2024-04-29T10:23:40.681000+00:00</updated>
     <content>&lt;p&gt;An optional update with the following changes is now available!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed replays that were not working&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed characters downgrading to a previous evolution (fixed last Saturday)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;We are working on reverting the downgraded characters back to the evolution level they had before the issue. Expect a fix soon!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed party invites popping up while in Battle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added cooldown for party requests, and delay between party requests pop-ups&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Implemented a setting to disable ask-to-join party requests&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed accepting friend invites issue when having more than 1 invite&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed crashes on foldable devices&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the black screen after getting busted during training&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Changed Battle consumables rewards flying to the Play button instead of the Shop button&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the Gem Pass timer not showing up on some screens&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an emote that is showing as unlocked at level 0&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Other small fixes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Make sure to update your game!&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/2gG8P9MyV23OFnt9wBKjeY"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1t5qKqWm87mkW7KIFPLtBy/fe1aaac829921b451c2665355fc07bf6/wiz___inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-04-29T10:23:40+00:00</published>
   </entry>
@@ -77,7 +77,7 @@
 &lt;p&gt;YES! Each milestone will also unlock rewards in all the other Supercell games:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Brawl Stars&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clash of Clans&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Clash Royale&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Boom Beach&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Hay Day&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Make sure to claim your rewards over there too, and be ready for &lt;b&gt;Squad Busters Global Launch on May 29th!&lt;/b&gt;&lt;/p&gt;
 </content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/3hYHeDGQ7SOoomaSThCsWY"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1VkIYOsZbGkKBjoepo4SmE/ac604135bbd2f097f7226023061f1867/banner_rewards-800x4332.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-05-15T07:00:00+00:00</published>
   </entry>
@@ -86,7 +86,7 @@
     <title>Squad Busters Official Starter's Guide!</title>
     <updated>2024-05-29T07:10:05.031000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/5dqjwCCF38MsmZxWJTzH3k"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/48f4jijXpjaFsR5doiHNpU/613ee1e9c6e046e57922ccbac953d620/SB_GL_Dev_update_YT_Thumb_01.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/CD6koZwbkvU"/>
     <category term="Community"/>
     <published>2024-05-21T14:20:33+00:00</published>
@@ -96,7 +96,7 @@
     <title>Launch trailer: Time to SQUAD UP!</title>
     <updated>2024-06-03T02:30:20.916000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/6g5xYslzlo7Cgpay1685zi"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/794x1VBSaDzNAQwdWrJO7G/3aac48873eb789acf549538e382f0ef7/CGI_Thumb_1920x1080.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/aFHM24c86p0"/>
     <category term="Video"/>
     <published>2024-05-30T15:00:00+00:00</published>
@@ -106,7 +106,7 @@
     <title>Life's more fun when you SQUAD UP! 🐔</title>
     <updated>2024-06-03T02:29:58.914000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/3CC0pvM1XmswaHddkBHNUQ"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5KIIuf9UYw2gysnd8E016/ad1b7ce5e1daaba1f7c7b41a2775cde1/LiveAction_Thumb_1920x1080.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/QMH_SGJciQY"/>
     <category term="Video"/>
     <published>2024-05-31T15:00:00+00:00</published>
@@ -140,7 +140,7 @@ OTHER IMPROVEMENTS &amp;amp; FIXES&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&
 Follow our Social Media channels and your favorite Squad Busters content creators to learn more about the upcoming content! 
 &lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/1yohkcKJO7Efn7vh4EXnk9"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-06-04T07:00:00+00:00</published>
   </entry>
@@ -149,7 +149,7 @@ Follow our Social Media channels and your favorite Squad Busters content creator
     <title>YT Premiere: 4 NEW CHARACTERS!?</title>
     <updated>2024-06-15T16:14:07.079000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/2DvXK9WqyEfBjyCoUVUYKn"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/HBPhlzUSHyY"/>
     <category term="Game Updates"/>
     <published>2024-06-14T20:00:40+00:00</published>
@@ -207,7 +207,7 @@ Follow our Social Media channels and your favorite Squad Busters content creator
 &lt;h1&gt;Other improvements and fixes 🔎&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;You can now earn Portal Energy &lt;/b&gt;just from playing from Battles&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Single Chest Tickets now cost less Coins, and can be bought in larger stacks&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Reward Chests now convert maxed out Characters&lt;b&gt; &lt;/b&gt;into Portal Energy or XP, instead of being skipped&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Chests no longer stop respawning in Battle if a Squad is busted while opening that Chest&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tombstones no longer block Tanks, Hives, and other Map items from spawning&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed swapping Spells with Classic Wizard would sometimes accidentally throw a Spell instead&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Various improvements and fixes for spectating Battles&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/34AZtN6rOayQ2EXQEPC6N0"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KM1CwSuDPQ26ItWqmyGTf/46d510fc200aeba9cbe15d5f5cea1260/beachbarb_1920x1080.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KM1CwSuDPQ26ItWqmyGTf/46d510fc200aeba9cbe15d5f5cea1260/beachbarb_1920x1080.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-06-16T21:00:00+00:00</published>
   </entry>
@@ -228,7 +228,7 @@ In the meantime, we hope this article clarifies things and that these temporary 
 Thanks for your dedication! 🩷
 &lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/RTgzLU4w6F6iiJU3YAFQN"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/565eVZZrhcsEwpLUMTKpGP/6fb0d31d042ecafe959e4c73b3baea4c/SquadIcon_WitchSkin_1920x1080_A.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/565eVZZrhcsEwpLUMTKpGP/6fb0d31d042ecafe959e4c73b3baea4c/SquadIcon_WitchSkin_1920x1080_A.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-06-26T12:00:00+00:00</published>
   </entry>
@@ -243,7 +243,7 @@ The rewards will be in the shop as soon as we unlock a new milestone, and the ev
 &lt;/p&gt;
 &lt;a href="https://youtu.be/oiQGlxx8LVQ"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/7whM44GSqVt1q9ps76saRV"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3dLIRYQFymGKN2hnL5VSDk/346b244ce5feefcc59ec85151d3f56bc/SB_Chicken_event_inbox_thumb_final_01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3dLIRYQFymGKN2hnL5VSDk/346b244ce5feefcc59ec85151d3f56bc/SB_Chicken_event_inbox_thumb_final_01.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-07-08T07:00:00+00:00</published>
   </entry>
@@ -252,7 +252,7 @@ The rewards will be in the shop as soon as we unlock a new milestone, and the ev
     <title>Watch Squad Busters on Twitch and earn rewards!</title>
     <updated>2024-07-25T07:33:21.201000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/95WU7HIbIOOxqJqgsQith"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7f77msgivG6jfazxf1HmyS/f5ab1c8d0120180d13fd902340846572/SB_WATCH-TWITCH_800X433_22.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7f77msgivG6jfazxf1HmyS/f5ab1c8d0120180d13fd902340846572/SB_WATCH-TWITCH_800X433_22.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.twitch.tv/directory/category/squad-busters"/>
     <category term="Community"/>
     <published>2024-07-24T15:48:56+00:00</published>
@@ -262,7 +262,7 @@ The rewards will be in the shop as soon as we unlock a new milestone, and the ev
     <title>???</title>
     <updated>2024-08-09T14:54:36.295000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/Fufrl5wCFIsTDyHcs5SBW"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/271WQKrBZ9NfAQp4gFbruw/4c1a131dba9443a4fbab9dd1d1a664bb/__.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/271WQKrBZ9NfAQp4gFbruw/4c1a131dba9443a4fbab9dd1d1a664bb/__.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=hdX6Blfas0o"/>
     <category term="News"/>
     <published>2024-08-08T14:50:50+00:00</published>
@@ -272,7 +272,7 @@ The rewards will be in the shop as soon as we unlock a new milestone, and the ev
     <title>YT Premiere: New Update!</title>
     <updated>2024-08-10T15:22:31.322000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/5QZrq5eE3hiDqxi16aPmQu"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/gHGm10ZjM28"/>
     <category term="Game Updates"/>
     <published>2024-08-09T12:00:00+00:00</published>
@@ -318,7 +318,7 @@ The team is committed to making sure Squad Busters gameplay is always improving.
 &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Coming as special Shop offers:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Team Tuff Mavis (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Team Tuff Medic (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Masked Baron Mortis (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Astro Shadow Max (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Spooky Trader (New! - Coming in the Monster Madness Season)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Infernal Battle Healer (New! - Coming in the Monster Madness Season)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Street Trader (Coming in the Burgers and Bullets Season)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
 These Skins will become available for Style Tickets after a minimum of 30 days from their release.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Super Rare Skins&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Coming as special Shop Offers with an exclusive Emote:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mushroom Mike (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Astro Shadow Max (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Spooky Pup Rider (New! - Available in the Monster Madness Gem Pass)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fast Food Tank (Available in the Burgers and Bullets Gem Pass)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;b&gt;Other Skins&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;To be released in upcoming promotions:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Froggie Leon (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Astro Penny (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Maestro Royale King (New!)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Retro Future Colt (Coming in the Burgers and Bullets Season)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/3wdOYwocIWek2LbeS7Tk74"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2jOj2ShgFJRF3VC1x3dl3p/b8ef50c955679238ce84b6992c25654a/SB_KeyArtExtended_LavaWorld_800x433.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-08-21T07:00:00+00:00</published>
   </entry>
@@ -344,7 +344,7 @@ These Skins will become available for Style Tickets after a minimum of 30 days f
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7v0ppO3b01B4vIs7quSWth/55ed876b2f595c1f036328555bf084a2/IMG_0124.PNG?w=2796&amp;h=1290&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Now you’re all set to show off your Emotes and earn rewards!&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/6U7QEwxYWNMai5K4N6lUEs"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1x2CIMj4gzbVCVPfTk0eHD/f7566adb7fe43c9b27faf08d085100ce/Squad-busters-16x9-final.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Community Event"/>
     <published>2024-08-22T06:45:00+00:00</published>
   </entry>
@@ -356,7 +356,7 @@ These Skins will become available for Style Tickets after a minimum of 30 days f
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4x9T57MYQCya9Fpa0sX4pA/ada9df2adab91aec8521996ed6dd6e55/rewards.png?w=1013&amp;h=284&amp;f=center&amp;fit=fill"&gt;
 &lt;p&gt;Additionally, Content Creators will be giving away 50,000 Coins to a few lucky winners! The more times their rewards are claimed, the more Coins they’ll give away!&lt;/p&gt;&lt;p&gt;&lt;b&gt;How to Get Your Rewards:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Content Creators are sharing their unique QR codes and links as part of this giveaway. If you’re not sure which creators to look for, just type &lt;b&gt;#SquadTraderGiveaway &lt;/b&gt;on social media and keep an eye out for a Squad Busters QR code! Remember, you can only scan it once, so if you have a favorite Creator, be sure to find their code!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Scan a Creator’s QR Code:&lt;/b&gt; When you find a post with a QR code, simply scan it (or click the link). This will instantly give you 50 Baby Traders, the Spooky Trader Skin, and 300 Style Tickets 🎁&lt;/p&gt;&lt;p&gt;&lt;b&gt;When?&lt;/b&gt; The event runs for as long as the Monster Madness season is on, so from NOW until October 1st, 07:00 UTC. &lt;/p&gt;&lt;p&gt;Spooky Trader will be in the Shop&lt;b&gt; &lt;/b&gt;in the future but will remain exclusive for the time being.&lt;/p&gt;&lt;p&gt;Happy QR hunting!&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/2bTeIVTXhheKOecJuNNSxB"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/16Cw3EH1SuVuHrOfiJf7A4/386d122e833991d78cbf47f997375945/inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/16Cw3EH1SuVuHrOfiJf7A4/386d122e833991d78cbf47f997375945/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Community Event"/>
     <published>2024-09-06T12:00:00+00:00</published>
   </entry>
@@ -365,7 +365,7 @@ These Skins will become available for Style Tickets after a minimum of 30 days f
     <title>Squad UPdate: Transformers, Star Chests, and more!</title>
     <updated>2024-09-16T14:58:20.302000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/560P4izg5UPS951vW3hocC"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
     <category term="Game Updates"/>
     <published>2024-09-14T14:52:00+00:00</published>
@@ -398,7 +398,7 @@ About Portal Energy:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;There&amp;#
 &lt;p&gt;&lt;b&gt;Star Chests give only Super, Ultra, or Ultimate Characters, or unlock new Characters&lt;/b&gt;, and guarantee an Ultra every 10 Chests. Open one by collecting enough &lt;b&gt;Star Tokens&lt;/b&gt;, which can be earned by Evolving Characters, claimed as Rewards, or purchased with Coins.&lt;/p&gt;&lt;p&gt;Celebrate this new feature with us and &lt;b&gt;claim 10 FREE Star Chests, including one guaranteed Ultra Character&lt;/b&gt;, available only for a limited time! The first few Star Chests will also cost less Star Tokens for all players. Look out for more Star Chest offers in the Shop as well!&lt;/p&gt;&lt;p&gt;Star Chests have the following drop chances:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Unlock new Character&lt;/b&gt;: 40.00%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super Character&lt;/b&gt;: 58.00%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra Character&lt;/b&gt;: 1.90%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultimate Character&lt;/b&gt;: 0.10%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If no new Characters are available, Star Chests will only drop Super, Ultra or Ultimate Characters:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super Character&lt;/b&gt;: 96.67%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra Character&lt;/b&gt;: 3.17%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultimate Character&lt;/b&gt;: 0.17%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If the next Star Chest is a guaranteed Ultra or better, the drop chances are:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultra Character&lt;/b&gt;: 95.00%&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Ultimate Character&lt;/b&gt;: 5.00%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Additional details:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Evolving Characters no longer gives Portal Energy, but the amount of &lt;b&gt;Portal Energy earned per Battle has been greatly increased&lt;/b&gt;, especially when placing at the top!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Players can earn a daily First Win Bonus of Portal Energy&lt;/b&gt; by placing in the Top 5&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Star Chests can only unlock new Characters that are available from World Journey progress&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Star Chests do not drop maxed out Characters&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;For now, Star Chests cannot be opened and Star Tokens are saved if all Characters are maxed out&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Maxed out Characters from normal Reward Chests give Star Tokens instead of Portal Energy&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;
 ULTIMATE EVOLUTIONS ⭐️⭐️⭐️⭐️⭐️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;12 Characters can now Evolve to their Ultimate form, unlocking their most powerful abilities and most fantastic default Skins!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Barbarian&lt;/b&gt;: Joins the Squad with a Baby Elite Barbarian&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Goblin&lt;/b&gt;: Increases Fusion Goblin&amp;#39;s stash to 30 Coins&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Greg&lt;/b&gt;: Trees drop tons of loot&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Colt&lt;/b&gt;: Bullet Storm charges when attacking Squads&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Chicken&lt;/b&gt;: Spawns many more Hatchlings&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bo:&lt;/b&gt; Drops Mines more often and Mines last longer&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Medic&lt;/b&gt;: Passive heal gets much stronger and faster&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Hog Rider:&lt;/b&gt; Turbo increases attack speed even more&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Dynamike&lt;/b&gt;: Gives a Barrel Bomb spell&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Witch&lt;/b&gt;: Skeletons move and attack faster when nearby&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Barbarian King&lt;/b&gt;: Attacks with his Iron Fist more often&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Archer Queen:&lt;/b&gt; Attacks with exploding arrows more often&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;BALANCE CHANGES 📝&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The biggest balancing changes this update come from Green World characters and their new Ultimate Evolutions. However, we’ve also included several other focused feature improvements based on player feedback, including several reworks to Lava World content.&lt;/p&gt;&lt;p&gt;&lt;b&gt;World Roster Changes&lt;/b&gt;&lt;/p&gt;&lt;p&gt;To increase gameplay variety in the early Worlds, we’ve adjusted what unlocks in the following Worlds: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Green World&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bo&lt;/b&gt; (was Desert World)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Battle Mod: 1-Coin Chests&lt;/b&gt; (was Ice World)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Desert World&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;El Primo&lt;/b&gt; (was Green World)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Penny&lt;/b&gt; (was Beach World)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Mortis&lt;/b&gt; (was Royal World)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Royal World&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Battle Healer&lt;/b&gt; (was Desert World)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Beach World&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Nita&lt;/b&gt; (was Desert World)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Characters and Monsters 👾&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;El Primo&lt;/b&gt; has increased Health and does Flying Elbow Drop more often, to elevate his status as a Desert World character&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Medic &lt;/b&gt;has improved healing and stronger Heal Packs, to keep up with recent Health buffs&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Dynamike &lt;/b&gt;attacks faster, and dynamite travels through the air faster, to improve effectiveness in prolonged attacks&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Super Bandit&lt;/b&gt; drops more Gems&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Leon’s Invisibility Spell&lt;/b&gt; has been reworked to be easier to use and more readable&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Squads do not lose Invisibility if getting too close to an opponent, &lt;/b&gt;so it is easier to maintain Invisibility around other Squads&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Squads only go partially (not fully) Invisible&lt;/b&gt;, to be easier to examine by opponents&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Squads only become visible when attacking or taking damage&lt;/b&gt;, making it easier to reactivate and clearer to counterplay&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Battle Mods ⚔️&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Crystal Forest&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Hero Greg chops Trees faster, for snappier action&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;More Crystal Trees spawn, and spawn more often, to keep action up&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Timeout&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Timer no longer speeds up during Final Stretch, to be easier to follow&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Timer has less max time and Clock pickups are worth less time as the Battle progresses, to keep the tension up&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;To give more recharge options, Clocks will also now drop from Glimmers, Trees, Carrots and other sources, and bigger Monsters have better Clock drops&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Less Clocks spawn directly on the Map before the Final Stretch&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Hatchling Herder&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;3 Giant Hatchlings can now Fuse, gaining 3x Health and Gem value, to make capturing them earlier more worthwhile and harder to lose&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Giant Hatchling Gem value is reduced before it is Fused, to emphasize their Fusion&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Many more Giant Hatchlings spawn throughout the Battle, to keep tails long and satisfying&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Gameplay Updates 🕹️&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Lucky Finds can now be Refreshed&lt;/b&gt;, to give more strategic options&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;When picked from a Lucky Find, some Characters drop more items:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Goblin drops more Coins&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Chicken drops more Turbo Boots&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bandit drops Gems&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Penny drops Treasure Maps&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Characters that drop a Spell drop an extra Spell&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Turbo recharges instantly&lt;/b&gt; instead of after a short delay, so you can tap it all you like without penalty&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ice Skeletons always drop 1 Coin when their Ice armor is shattered, to make Ice World starts faster&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;All Trees, Carrots, Hives, Tanks and Chests respawn at 2 minutes, and the Final Stretch&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Other Improvements and Fixes 🔎&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Action Emotes shown in Battle results play with their animations looping&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Targeting precision has been improved, making it less likely to swap repeatedly between nearby targets&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Leaderboard entries now show Win Streaks when they update&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Several improvements to network and device performance&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/6dblB2tJwnLWix1x4hdkZl"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-09-16T07:59:35+00:00</published>
   </entry>
@@ -407,8 +407,8 @@ ULTIMATE EVOLUTIONS ⭐️⭐️⭐️⭐️⭐️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1
     <title>Claim free daily Style Tickets from Monday 14 to Sunday 20! 🎁</title>
     <updated>2024-10-14T10:29:29.492000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/en/news/2bECXELTjjUVy31hExaLZS"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3l6nCWKsAg51ciHIccBUS3/bd36fad7c7ed71fba371d3f5200a07d5/TicketsSocialMedia.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="squadbusters://OpenShop"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3l6nCWKsAg51ciHIccBUS3/bd36fad7c7ed71fba371d3f5200a07d5/TicketsSocialMedia.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="squadbusters-inbox://OpenShop"/>
     <category term="News"/>
     <published>2024-10-14T07:00:00+00:00</published>
   </entry>
