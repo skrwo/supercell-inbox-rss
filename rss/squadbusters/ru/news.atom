@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>squadbusters-newsEntries-ru</id>
   <title>Squadbusters - News</title>
-  <updated>2024-10-16T13:38:14.540826+00:00</updated>
+  <updated>2024-10-16T14:38:16.627282+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -336,7 +336,7 @@
     <updated>2024-10-14T10:29:29.492000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ru/news/2bECXELTjjUVy31hExaLZS"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3l6nCWKsAg51ciHIccBUS3/bd36fad7c7ed71fba371d3f5200a07d5/TicketsSocialMedia.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="squadbusters://OpenShop"/>
+    <link href="squadbusters-inbox://OpenShop"/>
     <category term="Новости"/>
     <published>2024-10-14T07:00:00+00:00</published>
   </entry>

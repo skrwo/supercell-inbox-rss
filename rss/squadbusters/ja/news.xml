@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Oct 2024 13:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 14:38:15 +0000</lastBuildDate>
     <item>
       <title>知っておきたいこと！</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -771,7 +771,7 @@ TFがスクバスに参戦！コラボ記念キャンペーン&#13;
     </item>
     <item>
       <title>14日（月）から20日（日）まで毎日スタイルチケットを回収しましょう！🎁</title>
-      <link>squadbusters://OpenShop</link>
+      <link>squadbusters-inbox://OpenShop</link>
       <guid isPermaLink="false">2bECXELTjjUVy31hExaLZS</guid>
       <category>新着</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3l6nCWKsAg51ciHIccBUS3/bd36fad7c7ed71fba371d3f5200a07d5/TicketsSocialMedia.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>

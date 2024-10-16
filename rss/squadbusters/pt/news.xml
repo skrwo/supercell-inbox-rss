@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 16 Oct 2024 13:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 14:38:18 +0000</lastBuildDate>
     <item>
       <title>Tudo que você precisa saber!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -331,7 +331,7 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     </item>
     <item>
       <title>Receba vales-estilo de graça todos os dias de 14 (segunda-feira) a 20 (domingo) de outubro! 🎁</title>
-      <link>squadbusters://OpenShop</link>
+      <link>squadbusters-inbox://OpenShop</link>
       <guid isPermaLink="false">2bECXELTjjUVy31hExaLZS</guid>
       <category>Notícias</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3l6nCWKsAg51ciHIccBUS3/bd36fad7c7ed71fba371d3f5200a07d5/TicketsSocialMedia.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
