@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-newsEntries-th</id>
   <title>Hayday - News</title>
-  <updated>2024-10-16T19:29:03.567259+00:00</updated>
+  <updated>2024-10-16T20:33:37.482530+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -233,5 +233,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2BMZLg5eL9Hx7TcYB9qYZj/d8eeb17836cea4b96ff252a08fc744d9/votemake.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ข่าว"/>
     <published>2024-10-15T10:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>7hnQAFFSG4VuqUcCIyrZmC</id>
+    <title>ผู้ชนะหนึ่งล้านเหรียญ</title>
+    <updated>2024-10-16T20:22:36.212000+00:00</updated>
+    <content>&lt;h1&gt;ขอแสดงความยินดีกับผู้ชนะ!&lt;/h1&gt;
+&lt;p&gt;นี่คือชาวไร่ที่ได้รับ 1 ล้านเหรียญตลอดช่วงเป้าหมายฮัลโลวีน:&lt;/p&gt;&lt;p&gt;&lt;b&gt;เป้าหมาย 1:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#90QC02Y80&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#YYQPURP0G&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#P9C0PLYQ9&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#8GPP9JCV8&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#V0P9J888&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;เป้าหมาย 2:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;เป้าหมาย 3:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;เป้าหมาย 4:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;เราขอย้ำว่าผู้ชนะได้รับการเลือกแบบสุ่มและข้อกำหนดในการเข้าร่วมมีดังนี้:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;อยู่ในเลเวล 17 เป็นอย่างน้อย&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;มีส่วนร่วมในอีเวนท์เรือและสิ่งก่อสร้างฮัลโลวีนชั่วคราว&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/th/news/7hnQAFFSG4VuqUcCIyrZmC"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ข่าว"/>
+    <published>2024-10-16T20:22:36+00:00</published>
   </entry>
 </feed>
