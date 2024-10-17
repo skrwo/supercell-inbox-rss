@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Oct 2024 07:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 08:39:25 +0000</lastBuildDate>
     <item>
       <title>Goblin's Fan Mail!</title>
       <link>https://youtube.com/shorts/y-Rmf7dXOZg?feature=share</link>
@@ -578,6 +578,18 @@ There was an inconsistency in Mortar versus Magic Archer interactions where Mort
       <category>Release Notes</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Tue, 08 Oct 2024 08:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAINTENANCE - BALANCE CHANGES AND BUG FIX</title>
+      <link>https://clashroyale.inbox.supercell.com/#/en/news/tMDKlzaQhkhWvofCXzw0c</link>
+      <description>&lt;h1&gt;BALANCE CHANGES&lt;/h1&gt;
+&lt;p&gt;GOBLINSTEIN&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lightning Link Duration: reduced from 5 seconds to 4 seconds (-20%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Lightning Link Crown Tower Damage (level 11): reduced from 71 to 46 (-36%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Lightning Link Cooldown: increased from 15 seconds to 17 seconds (+13%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BUG FIXES&lt;/h1&gt;
+&lt;p&gt;ELECTRO DRAGON EVOLUTION&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed a bug where its attack was not chaining onto Invisible troops&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;These changes will go live right after maintenance on Oct 17. &lt;/b&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">tMDKlzaQhkhWvofCXzw0c</guid>
+      <category>Release Notes</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bw06CgGCz65JqWa8BH5WZ/96a1454f1c377f75f02c47007028fb86/Goblinstein_Color_v1-_1_.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Oct 2024 07:49:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

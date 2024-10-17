@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-17T07:31:56.800970+00:00</updated>
+  <updated>2024-10-17T08:39:25.982418+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -627,5 +627,18 @@ There was an inconsistency in Mortar versus Magic Archer interactions where Mort
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-10-08T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>tMDKlzaQhkhWvofCXzw0c</id>
+    <title>MAINTENANCE - BALANCE CHANGES AND BUG FIX</title>
+    <updated>2024-10-17T07:49:08.312000+00:00</updated>
+    <content>&lt;h1&gt;BALANCE CHANGES&lt;/h1&gt;
+&lt;p&gt;GOBLINSTEIN&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lightning Link Duration: reduced from 5 seconds to 4 seconds (-20%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Lightning Link Crown Tower Damage (level 11): reduced from 71 to 46 (-36%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Lightning Link Cooldown: increased from 15 seconds to 17 seconds (+13%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BUG FIXES&lt;/h1&gt;
+&lt;p&gt;ELECTRO DRAGON EVOLUTION&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed a bug where its attack was not chaining onto Invisible troops&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;These changes will go live right after maintenance on Oct 17. &lt;/b&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/tMDKlzaQhkhWvofCXzw0c"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bw06CgGCz65JqWa8BH5WZ/96a1454f1c377f75f02c47007028fb86/Goblinstein_Color_v1-_1_.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Release Notes"/>
+    <published>2024-10-17T07:49:08+00:00</published>
   </entry>
 </feed>
