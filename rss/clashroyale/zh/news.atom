@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-17T15:36:31.131180+00:00</updated>
+  <updated>2024-10-17T16:42:17.277274+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -660,7 +660,7 @@ OJ&lt;/p&gt;
   <entry>
     <id>tMDKlzaQhkhWvofCXzw0c</id>
     <title>10月17日維護內容</title>
-    <updated>2024-10-17T12:41:57.638000+00:00</updated>
+    <updated>2024-10-17T16:02:12.733000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;平衡性調整&lt;/b&gt;&lt;/p&gt;&lt;p&gt;科學怪哥布林&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;閃電連結持續時間：從5秒降低至4秒（-20%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;閃電連結對皇家塔傷害（11級）：從71降低至46（-36%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;閃電連結冷卻時間：從15秒增加至17秒（+13％）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;問題修復&lt;/b&gt;
 
