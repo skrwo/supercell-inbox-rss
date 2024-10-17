@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-17T11:28:55.094173+00:00</updated>
+  <updated>2024-10-17T12:55:25.202585+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -236,5 +236,15 @@ R: Com certeza.&lt;/p&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5y3zMhRZyjyYvAh1HGwCs5/a4a6954310ed54a83fab22ce5eced1c9/1003_Brawl_is_Dead_Inbox_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Comunidade"/>
     <published>2024-10-17T07:00:17+00:00</published>
+  </entry>
+  <entry>
+    <id>26EIdLV0oUmFjXlLnMdYf</id>
+    <title>O TIO GUS DUBLOU O VÍDEO DO ROAD MAP!</title>
+    <updated>2024-10-17T11:51:31.981000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/26EIdLV0oUmFjXlLnMdYf"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6B1Mm5Lzec5qYeJrJGfUXI/7247a02613cdc5f9074e85cbe2884d33/Picsart_24-10-16_14-07-48-378.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=dSbEOizcIUQ"/>
+    <category term="Comunidade"/>
+    <published>2024-10-17T11:51:31+00:00</published>
   </entry>
 </feed>
