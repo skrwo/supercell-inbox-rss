@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-17T09:33:51.197952+00:00</updated>
+  <updated>2024-10-17T10:38:37.148094+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -631,7 +631,7 @@ There was an inconsistency in Mortar versus Magic Archer interactions where Mort
   <entry>
     <id>tMDKlzaQhkhWvofCXzw0c</id>
     <title>MAINTENANCE - BALANCE CHANGES AND BUG FIX</title>
-    <updated>2024-10-17T07:49:08.312000+00:00</updated>
+    <updated>2024-10-17T09:44:05.330000+00:00</updated>
     <content>&lt;h1&gt;BALANCE CHANGES&lt;/h1&gt;
 &lt;p&gt;GOBLINSTEIN&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lightning Link Duration: reduced from 5 seconds to 4 seconds (-20%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Lightning Link Crown Tower Damage (level 11): reduced from 71 to 46 (-36%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Lightning Link Cooldown: increased from 15 seconds to 17 seconds (+13%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;BUG FIXES&lt;/h1&gt;
@@ -640,5 +640,16 @@ There was an inconsistency in Mortar versus Magic Archer interactions where Mort
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bw06CgGCz65JqWa8BH5WZ/96a1454f1c377f75f02c47007028fb86/Goblinstein_Color_v1-_1_.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-10-17T07:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>4QPxL8P9wlcPUsL2MKOyib</id>
+    <title>GOBLIN QUEEN'S JOURNEY UPDATE</title>
+    <updated>2024-10-17T10:00:12.229000+00:00</updated>
+    <content>&lt;h1&gt;The Goblin Queen’s Journey is coming to an end!&lt;/h1&gt;
+&lt;p&gt;What does that mean and what happens to any rewards you haven’t claimed? Here’s a quick overview of what will happen in the next couple of weeks:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Goblin Road will end on Wednesday 30th of October.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;We will award you with a pretty cool badge as a lasting reward based on your progress.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;What happens to the Baby Goblins?&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Baby Goblins will be removed from all chests and other rewards. They will remain in your Collection but will be unavailable &lt;i&gt;for now&lt;/i&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;What about all the Gold you spent?&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;We will return all the Gold you spent to upgrade the Baby Goblins, as well as any Elite Wild Cards.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;You will see a timer in-game on Goblin Queen’s Journey before it ends, so you will know how much time you still have left to play to progress and collect the rewards you’re after.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;All the Cards that unlock on Goblin Queen’s Journey will be moved to the regular Trophy Road:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Goblin Demolisher: Arena 12&lt;/p&gt;&lt;p&gt;Suspicious Bush: Arena 13&lt;/p&gt;&lt;p&gt;Goblin Curse: Arena 14&lt;/p&gt;&lt;p&gt;Goblin Machine: Arena 15&lt;/p&gt;&lt;p&gt;Goblinstein: Arena 18&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/4QPxL8P9wlcPUsL2MKOyib"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YN5FtMChsu1RoGHPg9u6V/4ad4924e4563d93c9539d280d4018ac7/IMG_4765.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-10-17T10:00:12+00:00</published>
   </entry>
 </feed>

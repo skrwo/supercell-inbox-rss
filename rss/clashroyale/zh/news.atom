@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-17T09:33:50.941827+00:00</updated>
+  <updated>2024-10-17T10:38:36.535905+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -656,5 +656,18 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="更新說明"/>
     <published>2024-10-08T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>tMDKlzaQhkhWvofCXzw0c</id>
+    <title>10月17日維護內容</title>
+    <updated>2024-10-17T09:44:05.330000+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;平衡性調整&lt;/b&gt;&lt;/p&gt;&lt;p&gt;科學怪哥布林&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;閃電連結持續時間：從5秒降低至4秒（-20%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;閃電連結對皇家塔傷害（11級）：從71降低至46（-36%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;閃電連結冷卻時間：從15秒增加至17秒（+13％）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;問題修復&lt;/b&gt;
+
+進化雷電飛龍&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;修正其攻擊未連鎖到隱形部隊的問題&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;以上內容均於10月17日維護時調整。&lt;/b&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/tMDKlzaQhkhWvofCXzw0c"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bw06CgGCz65JqWa8BH5WZ/96a1454f1c377f75f02c47007028fb86/Goblinstein_Color_v1-_1_.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="更新說明"/>
+    <published>2024-10-17T07:49:08+00:00</published>
   </entry>
 </feed>
