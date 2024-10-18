@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-10-18T19:29:12.944416+00:00</updated>
+  <updated>2024-10-18T20:32:39.252895+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -116,15 +116,6 @@ Criterios de Participación: Todos los jugadores debían tener al menos 16 años
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7DBrB73c0p6JWig4540RKz/0197d94a311b95de0b9847d395e7627e/COC_-_June_MF_Winner_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eSports"/>
     <published>2024-06-23T17:52:27+00:00</published>
-  </entry>
-  <entry>
-    <id>78VzczwKKjDJQum59l8gQD</id>
-    <title>Mira de nuevo las Finales Mensuales de Julio - Día 1</title>
-    <updated>2024-07-26T21:11:51.481000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6lcURtl92t3FqiqDcYWWBI/3877eaf6e430d27446f2640c6eb97498/ES_COC_-_July_MF_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/GywExxB1uzo?si=oFVqTMpOireQcGiE&amp;t=1044"/>
-    <category term="eSports"/>
-    <published>2024-07-20T18:06:34+00:00</published>
   </entry>
   <entry>
     <id>4tSVyQ2FkvUsRak8RaTAuL</id>
@@ -383,7 +374,7 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
   <entry>
     <id>5D0HVB4uABZdSetKfnqyoq</id>
     <title>¡Inscríbete en la temporada 6 de la SPS!</title>
-    <updated>2024-09-20T18:28:55.191000+00:00</updated>
+    <updated>2024-10-18T19:50:58.585000+00:00</updated>
     <content>&lt;h1&gt;¡Inscríbete en la temporada 6 de la SPS!&lt;/h1&gt;
 &lt;p&gt;¡Hola!&lt;/p&gt;&lt;p&gt;¡Vuelve la Snapdragon Pro Series con su temporada 6!&lt;/p&gt;&lt;p&gt;Pon a prueba tus habilidades contra jugadores de todo el mundo y llévate parte de la bolsa de premios de 50 000 $. No te pierdas esta oportunidad e inscríbete ya en FACEIT&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesl.gg%252FSPSClash')"&gt; aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Esta temporada consistirá en 4 copas que se jugarán durante dos días cada una. El primer día tendrá lugar un bracket de eliminación simple con partidos al mejor de uno, en el que los mejores 8 equipos avanzarán al segundo día.&lt;/p&gt;&lt;p&gt;Cuatro ganadores, uno por cada copa, se clasificarán para la Snapdragon Mobile Open Finals. Los cuatro huecos restantes en las finales se decidirán siguiendo la clasificación general.&lt;/p&gt;&lt;p&gt;A continuación, la Snapdragon Mobile Open Finals se disputará en un formato de eliminación doble con repetición de bracket. El vencedor, que se decidirá tras una competición de dos días, se llevará a casa la mayor parte de esa bolsa de premios de 50 000 $.&lt;/p&gt;

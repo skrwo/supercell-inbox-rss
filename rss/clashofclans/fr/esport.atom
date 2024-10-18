@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-10-18T19:29:12.323016+00:00</updated>
+  <updated>2024-10-18T20:32:40.495770+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -130,15 +130,6 @@ Nous suivrons l&amp;#39;équipe de France durant la compétition CWC Official. L
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7DBrB73c0p6JWig4540RKz/0197d94a311b95de0b9847d395e7627e/COC_-_June_MF_Winner_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sport"/>
     <published>2024-06-23T17:52:27+00:00</published>
-  </entry>
-  <entry>
-    <id>78VzczwKKjDJQum59l8gQD</id>
-    <title>Re-regardez le jour 1 des Finales Mensuelles de Juillet</title>
-    <updated>2024-07-26T21:11:51.481000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1JrGys5GhwD1CoHMmm0oS3/e60b437b353b8ed0dd0fa5dcbeb95d20/FR-COC---July-MF-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/O_IXQbZLiF0?si=EQVWu0J2ROqi6s7E&amp;t=1336"/>
-    <category term="E-sport"/>
-    <published>2024-07-20T18:06:34+00:00</published>
   </entry>
   <entry>
     <id>4tSVyQ2FkvUsRak8RaTAuL</id>
@@ -305,7 +296,7 @@ Espagnol: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F
   <entry>
     <id>5D0HVB4uABZdSetKfnqyoq</id>
     <title>Inscrivez-vous à la saison 6 des SPS !</title>
-    <updated>2024-09-20T18:28:55.191000+00:00</updated>
+    <updated>2024-10-18T19:50:58.585000+00:00</updated>
     <content>&lt;h1&gt;Inscrivez-vous aux SPS saison 6 !&lt;/h1&gt;
 &lt;p&gt;Bonjour, chefs !&lt;/p&gt;&lt;p&gt;Les Snapdragon Pro Series sont de retour pour la saison 6 !&lt;/p&gt;&lt;p&gt;Mettez vos compétences à l&amp;#39;épreuve face aux joueurs du monde entier, et remportez une partie de la cagnotte de 50 000 $ ! Ne manquez pas cette chance ! Inscrivez-vous dès maintenant sur FACEIT en cliquant &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fesl.gg%252FSPSClash')"&gt;ici&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Cette saison des SPS est divisée en 4 coupes, chacune disputée sur deux jours : le premier jour, il s&amp;#39;agit d&amp;#39;un bracket à élimination directe en 1 manche gagnante, à l&amp;#39;issue duquel 8 équipes sont qualifiées pour le deuxième jour.&lt;/p&gt;&lt;p&gt;Quatre gagnants (un par coupe) seront qualifiés pour la finale de l&amp;#39;open. Le seeding des quatre dernières places de la finale se fera en fonction du classement général.&lt;/p&gt;&lt;p&gt;Pour la grande finale de l&amp;#39;open Snapdragon Mobile, les participants joueront dans un bracket à double élimination avec un reset. Une compétition sur deux jours déterminera le gagnant, qui remportera la plus grosse partie de la cagnotte de 50 000 $ !&lt;/p&gt;
