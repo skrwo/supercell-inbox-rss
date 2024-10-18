@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-18T10:39:42.118882+00:00</updated>
+  <updated>2024-10-18T11:29:04.370211+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -636,5 +636,16 @@ _クラッシュ・ロワイヤル_開発チーム&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fgVdQFmbw4tMHgeYVO5sq/33b853b88fc4e1512af94bdcff499be5/may_balance_thumbnail.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2024-10-08T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>4QPxL8P9wlcPUsL2MKOyib</id>
+    <title>ゴブリンクイーンの旅の新情報！</title>
+    <updated>2024-10-18T10:55:58.068000+00:00</updated>
+    <content>&lt;h1&gt;ゴブリンクイーンの旅が終了します！&lt;/h1&gt;
+&lt;p&gt;終わったらどうなるの？未回収の報酬は？今後数週間の流れとともに、そんな疑問にお答えします。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅は10月30日で終了します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;報酬として、アンロックしたアリーナ毎に特別なバッジが贈呈されます。各アリーナには固有のバッジが用意されています。 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ベビーゴブリンについて&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ベビーゴブリンは宝箱などの報酬から入手できなくなります。ベビーゴブリンがコレクションから消えることはありませんが、しばらくは使用不可となります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;使用したゴールドについて&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ベビーゴブリンのアップグレードに使用したゴールドおよびエリートワイルドカードは、すべて返還されます。&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅画面にはタイマーが表示され、イベント終了までの時間をリアルタイムで確認できるようになります。報酬獲得を目指してラストスパートをかけましょう。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅でアンロック可能なカードは通常のトロフィー目標の報酬になります（以下参照）。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ダイナマイトゴブリン：アリーナ12&lt;/p&gt;&lt;p&gt;ステルスブッシュ：アリーナ13&lt;/p&gt;&lt;p&gt;ゴブリンの呪い：アリーナ14&lt;/p&gt;&lt;p&gt;ゴブリンマシン：アリーナ15&lt;/p&gt;&lt;p&gt;ゴブリンシュタイン：アリーナ18&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/4QPxL8P9wlcPUsL2MKOyib"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4gSktQv4qL8SLisy7Ew6tM/67278eadde122ff72a641bc81429b05f/IMG_4765.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-10-17T10:00:12+00:00</published>
   </entry>
 </feed>

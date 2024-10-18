@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-18T10:39:33.118810+00:00</updated>
+  <updated>2024-10-18T11:28:59.494536+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -358,5 +358,20 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5y3zMhRZyjyYvAh1HGwCs5/a4a6954310ed54a83fab22ce5eced1c9/1003_Brawl_is_Dead_Inbox_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="社群"/>
     <published>2024-10-17T07:00:17+00:00</published>
+  </entry>
+  <entry>
+    <id>1nNDrsVZcoYvqdaQLNYvpY</id>
+    <title>獲取新知，享受歡樂的好去處！</title>
+    <updated>2024-10-18T10:57:36.351000+00:00</updated>
+    <content>&lt;p&gt;亂鬥英雄們，大家好！&lt;/p&gt;&lt;p&gt;想透過影片增進操作實力、觀賞高手對局或享受趣味對戰？
+不知道該到哪些頻道才能參與不定時的造型抽獎？
+請鎖定並訂閱以下頻道的創作者！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540Chun')"&gt;盛主播&lt;/a&gt;（創作者代碼：jianss）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540CodeHeyBrother')"&gt;嘿! 兄弟（Hey! Brothers）&lt;/a&gt;（創作者代碼：heybrother）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540powertech4165')"&gt;PowerTech淮特&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252Fwatch%25253Fv%25253DWxshNqXfp7I%252526list%25253DPLKhL2uK28NQuqE2TJD2GoJzaxazVLd39a')"&gt;kuroko哲平&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540BBJC691')"&gt;愛好者嗶嗶潔西&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540o0samwing0o')"&gt;羽玄SamWing&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540RayLiuBS')"&gt;劉Ray&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;每位創作者都有屬於自己的風格，並在自己的創作之路努力，
+持續保持熱枕去創作影片不是簡單的事情，
+希望大家都能找到喜歡的創作者並多多支持他們唷！&lt;/p&gt;&lt;p&gt;※除了上述介紹的創作者外，仍有不少新創作者製作不少影片，本文僅整理創作者網站中符合&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fsupercell.com%25252Fen%25252Fterms-of-service%25252Fcnt%25252F')"&gt;〈服務條款〉&lt;/a&gt;與&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fsupercell.com%25252Fen%25252Ffan-content-policy%25252Fcnt%25252F')"&gt;〈玩家內容條款〉&lt;/a&gt;、〈創作者行為規範〉等通過審核，並於近兩個月內以繁體中文更新荒野亂鬥影片之頻道
+※頻道言論不代表官方立場&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/1nNDrsVZcoYvqdaQLNYvpY"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2r9At7YluWHmcliHyT9JVw/567e171e883ec61077723d3c67bfbf7e/tw_20241019_bs_creators_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-10-18T10:00:00+00:00</published>
   </entry>
 </feed>
