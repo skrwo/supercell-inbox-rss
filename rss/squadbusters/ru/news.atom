@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>squadbusters-newsEntries-ru</id>
   <title>Squadbusters - News</title>
-  <updated>2024-10-18T11:29:10.697282+00:00</updated>
+  <updated>2024-10-18T12:56:02.607390+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -339,5 +339,15 @@
     <link href="squadbusters-inbox://OpenShop"/>
     <category term="Новости"/>
     <published>2024-10-14T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>20m1YqMuMUvdr25l4M9r65</id>
+    <title>Завтра выйдет новый эпизод Squad UP! 🎬</title>
+    <updated>2024-10-18T12:22:22.940000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ru/news/20m1YqMuMUvdr25l4M9r65"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1LhXtnty4eg0glzhL9QFUE/4c802bbbaecbe0c2c7fa976da783db91/SB_Thumbnail_Spooky_Update1_WithoutLogo_16x9_v3.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=WQXF1XqmwPc&amp;t=1s"/>
+    <category term="Обновления"/>
+    <published>2024-10-18T12:00:00+00:00</published>
   </entry>
 </feed>
