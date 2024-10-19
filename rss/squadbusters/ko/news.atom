@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2024-10-19T14:33:52.983149+00:00</updated>
+  <updated>2024-10-19T15:31:12.993257+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -472,13 +472,13 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
     <published>2024-10-14T07:00:00+00:00</published>
   </entry>
   <entry>
-    <id>20m1YqMuMUvdr25l4M9r65</id>
-    <title>스쿼드 업!데이트 신규 에피소드, 최초 공개! 🎬</title>
-    <updated>2024-10-18T12:22:22.940000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/20m1YqMuMUvdr25l4M9r65"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1LhXtnty4eg0glzhL9QFUE/4c802bbbaecbe0c2c7fa976da783db91/SB_Thumbnail_Spooky_Update1_WithoutLogo_16x9_v3.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <id>1vcV5C0gVVfoNo6nmh8ASV</id>
+    <title>오싹한 스쿼드 업!데이트 영상 보기! 🎃</title>
+    <updated>2024-10-19T14:43:36.005000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/1vcV5C0gVVfoNo6nmh8ASV"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ozVDkNH8f5A7Pbsps8FOl/c28b9be4a683a7747d519c99c10e344f/SB_Thumbnail_Spooky_Update1_WithoutLogo_16x9_v3.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=qN-zGNdaP08"/>
     <category term="업데이트"/>
-    <published>2024-10-18T12:00:00+00:00</published>
+    <published>2024-10-19T14:43:00+00:00</published>
   </entry>
 </feed>
