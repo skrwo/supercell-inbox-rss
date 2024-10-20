@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>hayday-newsEntries-id</id>
   <title>Hayday - News</title>
-  <updated>2024-10-20T07:31:36.409304+00:00</updated>
+  <updated>2024-10-20T08:39:17.474150+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7Mk9IpxRi0AKTWuJ4YV7Lo</id>
-    <title>Acara Hay Day Minggu ke-30!</title>
-    <updated>2024-07-22T07:03:42.248000+00:00</updated>
-    <content>&lt;h1&gt;Acara Hay Day Minggu ke-30!&lt;/h1&gt;
-&lt;p&gt;Halo, Petani! Kami harap kamu menikmati Acara Musim Panas sejauh ini! Semua Acara dimulai pukul 08.00 UTC (15.00 WIB). Cermati detail masing-masing Acara dengan mengunjungi Papan Acara dalam game.&lt;/p&gt;&lt;p&gt;Senin: Putar Roda (Keping Puzzle)&lt;/p&gt;&lt;p&gt;Selasa: Acara Truk (Material Perluasan Tanah)&lt;/p&gt;&lt;p&gt;Rabu: Acara Perahu (Voucher)&lt;/p&gt;&lt;p&gt;Kamis: Pengunjung Pertanian (2x Koin) + Acara Perahu Global&lt;/p&gt;&lt;p&gt;Jumat: Acara Pelaju Produksi Memancing (Pelaju 20% untuk semua) + Acara Perahu Global - 2x Poin Tiket Pertanian&lt;/p&gt;&lt;p&gt;Sabtu: Pengunjung Kota (Material Silo dan Lumbung) + Acara Perahu Global&lt;/p&gt;&lt;p&gt;Minggu: Produksi Pakan Hewan Lebih Cepat (3 jenis pakan hewan acak akan diproduksi 2x lebih cepat) + Acara Perahu Global&lt;/p&gt;&lt;p&gt;Semoga minggumu seru!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/id/news/7Mk9IpxRi0AKTWuJ4YV7Lo"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Promosi"/>
-    <published>2024-07-22T07:01:36+00:00</published>
-  </entry>
   <entry>
     <id>mlyyRXji2ZKUstTzlxpIc</id>
     <title>Acara Hay Day Minggu ke-31!</title>
@@ -255,5 +244,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Promosi"/>
     <published>2024-10-16T20:22:36+00:00</published>
+  </entry>
+  <entry>
+    <id>7bnxvxQVwYAGlGAl2s0pDG</id>
+    <title>Hay Day Minggu ke-43</title>
+    <updated>2024-10-20T08:02:09.636000+00:00</updated>
+    <content>&lt;h1&gt;Acara Hay Day Minggu ke-43&lt;/h1&gt;
+&lt;p&gt;Hai, Petani! Sudah siap untuk Acara minggu ini? Semua Acara dan Lomba dimulai pukul 08.00 UTC (15.00 WIB). Cermati detail masing-masing Acara dengan mengunjungi Papan Acara dalam game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Senin&lt;/b&gt;: Putar Roda (Voucher) + Acara Perahu Global&lt;/p&gt;&lt;p&gt;&lt;b&gt;Selasa&lt;/b&gt;: Acara Pengunjung Kota (Material Silo dan Lumbung)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rabu&lt;/b&gt;: Bangunan Produksi (20% Pelaju untuk 3 bangunan)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kamis&lt;/b&gt;: Bangunan Produksi (20% pelaju untuk 3 bangunan)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jumat&lt;/b&gt;: Acara Memancing (Salon Bebek + Pembuat Jaring 30%) + x2 Poin Tiket Pertanian&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabtu&lt;/b&gt;: Acara Pengunjung Kota (Material Perluasan Tanah)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Minggu&lt;/b&gt;: Acara Hasil Panen (tiga tanaman acak akan menghasilkan 3 hasil panen dan bukan 2 seperti biasanya)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lomba&lt;/b&gt;: Lomba Kelinci&lt;/p&gt;&lt;p&gt;Semoga minggumu seru!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/id/news/7bnxvxQVwYAGlGAl2s0pDG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Acara"/>
+    <published>2024-10-20T08:00:03+00:00</published>
   </entry>
 </feed>

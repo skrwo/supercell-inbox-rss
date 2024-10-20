@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-10-20T07:31:37.418500+00:00</updated>
+  <updated>2024-10-20T08:39:15.913579+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7Mk9IpxRi0AKTWuJ4YV7Lo</id>
-    <title>헤이데이 이벤트 30주 차!</title>
-    <updated>2024-07-22T07:03:42.248000+00:00</updated>
-    <content>&lt;h1&gt;헤이데이 이벤트 30주 차!&lt;/h1&gt;
-&lt;p&gt;안녕하세요, 농부님! 여름 이벤트를 재밌게 즐기고 계시나요? 모든 이벤트는 오전 8시(UTC)에 시작합니다. 각 이벤트에 대한 자세한 정보는 해당 요일에 게임 내 이벤트 게시판을 확인하세요.&lt;/p&gt;&lt;p&gt;월요일: 행운의 룰렛(퍼즐 조각)&lt;/p&gt;&lt;p&gt;화요일: 트럭 이벤트(확장 아이템)&lt;/p&gt;&lt;p&gt;수요일: 화물선 이벤트(쿠폰)&lt;/p&gt;&lt;p&gt;목요일: 농장 방문객(코인 2배) + 화물선 협동 이벤트&lt;/p&gt;&lt;p&gt;금요일: 낚시 생산 부스트 이벤트(모든 건물 20% 가속) +화물선 협동 이벤트 + 농장 패스 포인트 2배&lt;/p&gt;&lt;p&gt;토요일: 타운 방문객(농작물 저장소 및 헛간 아이템) + 화물선 협동 이벤트&lt;/p&gt;&lt;p&gt;일요일: 동물 사료 이벤트(무작위 동물 사료 3종 생산 2배 가속) + 화물선 협동 이벤트&lt;/p&gt;&lt;p&gt;즐거운 한 주 보내세요!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ko/news/7Mk9IpxRi0AKTWuJ4YV7Lo"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="뉴스"/>
-    <published>2024-07-22T07:01:36+00:00</published>
-  </entry>
   <entry>
     <id>mlyyRXji2ZKUstTzlxpIc</id>
     <title>헤이데이 이벤트 31주 차!</title>
@@ -244,5 +233,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-10-16T20:22:36+00:00</published>
+  </entry>
+  <entry>
+    <id>7bnxvxQVwYAGlGAl2s0pDG</id>
+    <title>헤이데이 이벤트 43주 차</title>
+    <updated>2024-10-20T08:02:09.636000+00:00</updated>
+    <content>&lt;h1&gt;헤이데이 이벤트 43주 차&lt;/h1&gt;
+&lt;p&gt;안녕하세요, 농부님! 이번 주의 이벤트를 즐길 준비를 하세요! 모든 이벤트와 더비는 오후 5시(KST)에 시작합니다. 각 이벤트에 대한 자세한 정보는 해당 요일에 게임 내 이벤트 게시판을 확인하세요.&lt;/p&gt;&lt;p&gt;&lt;b&gt;월요일&lt;/b&gt;: 행운의 룰렛(쿠폰) + 화물선 협동 이벤트&lt;/p&gt;&lt;p&gt;&lt;b&gt;화요일&lt;/b&gt;: 타운 방문객 이벤트(농작물 저장소 및 헛간 아이템)&lt;/p&gt;&lt;p&gt;&lt;b&gt;수요일&lt;/b&gt;: 생산시설 부스트 이벤트(무작위 시설 3개 20% 가속)&lt;/p&gt;&lt;p&gt;&lt;b&gt;목요일&lt;/b&gt;: 생산시설 부스트 이벤트(무작위 시설 3개 20% 가속)&lt;/p&gt;&lt;p&gt;&lt;b&gt;금요일&lt;/b&gt;: 낚시 이벤트(오리집 및 그물 제작소 30% 가속) + 농장 패스 포인트 2배&lt;/p&gt;&lt;p&gt;&lt;b&gt;토요일&lt;/b&gt;: 타운 방문객 이벤트(확장 아이템)&lt;/p&gt;&lt;p&gt;&lt;b&gt;일요일&lt;/b&gt;: 농작물 이벤트(무작위 3종 농작물 수확량 증가 - 2개 대신 3개)&lt;/p&gt;&lt;p&gt;&lt;b&gt;더비&lt;/b&gt;: 토끼 더비&lt;/p&gt;&lt;p&gt;환상적인 한 주 보내세요!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/7bnxvxQVwYAGlGAl2s0pDG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="이벤트"/>
+    <published>2024-10-20T08:00:03+00:00</published>
   </entry>
 </feed>

@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-10-20T07:31:37.241988+00:00</updated>
+  <updated>2024-10-20T08:39:20.188319+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7Mk9IpxRi0AKTWuJ4YV7Lo</id>
-    <title>Semana 30 de eventos do Hay Day</title>
-    <updated>2024-07-22T07:03:42.248000+00:00</updated>
-    <content>&lt;h1&gt;Semana 30 de eventos do Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Esperamos que você esteja gostando dos eventos especiais! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com peças de quebra-cabeça.&lt;/p&gt;&lt;p&gt;Terça-feira: materiais de expansão com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Quarta-feira: vales com os pedidos do barco.&lt;/p&gt;&lt;p&gt;Quinta-feira: dobro de moedas com os visitantes da fazenda e evento global do barco.&lt;/p&gt;&lt;p&gt;Sexta-feira: aceleração da produção em 20% da área de pesca, evento global do barco e dobro de pontos do passe rural.&lt;/p&gt;&lt;p&gt;Sábado: materiais do celeiro e do silo com os visitantes da cidade e evento global do barco.&lt;/p&gt;&lt;p&gt;Domingo: três tipos aleatórios de ração serão produzidos com o dobro de velocidade + evento global do barco.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/7Mk9IpxRi0AKTWuJ4YV7Lo"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notícias"/>
-    <published>2024-07-22T07:01:36+00:00</published>
-  </entry>
   <entry>
     <id>mlyyRXji2ZKUstTzlxpIc</id>
     <title>Semana 31 de eventos do Hay Day</title>
@@ -255,5 +244,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-10-16T20:22:36+00:00</published>
+  </entry>
+  <entry>
+    <id>7bnxvxQVwYAGlGAl2s0pDG</id>
+    <title>Semana 43 de Hay Day</title>
+    <updated>2024-10-20T08:02:09.636000+00:00</updated>
+    <content>&lt;h1&gt;Semana 43 de eventos de Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com vales e evento global do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: aceleração da produção em 20% de 3 edifícios aleatórios.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: aceleração da produção em 20% de 3 edifícios aleatórios.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 30% dos patos e do redeiro e dobro de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: visitantes da cidade com materiais de expansão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três plantações aleatórias aceleradas com rendimento de 3 unidades em cada colheita em vez de 2.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: corrida do coelhinho.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/7bnxvxQVwYAGlGAl2s0pDG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-10-20T08:00:03+00:00</published>
   </entry>
 </feed>

@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-10-20T07:31:38.399695+00:00</updated>
+  <updated>2024-10-20T08:39:18.099064+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7Mk9IpxRi0AKTWuJ4YV7Lo</id>
-    <title>Ereigniswoche 30!</title>
-    <updated>2024-07-22T07:03:42.248000+00:00</updated>
-    <content>&lt;h1&gt;Ereigniswoche 30!&lt;/h1&gt;
-&lt;p&gt;Hallo Farmer! Wir hoffen, du hattest bisher Spaß mit den Ereignissen in diesem Sommer! Alle Ereignisse beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;Montag: Glücksrad-Ereignis (Puzzlestücke)&lt;/p&gt;&lt;p&gt;Dienstag: Lieferwagen-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;Mittwoch: Schiffsereignis (Gutscheine)&lt;/p&gt;&lt;p&gt;Donnerstag: Farmbesucher-Ereignis (doppelte Münzen) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;Freitag: Produktionsschub für den gesamten Angelbereich (20 %) + globales Schiffsereignis + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;Samstag: Stadtbesucher-Ereignis (Verbesserungsmaterialien für Silo und Scheune) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;Sonntag: Flinkeres Futter (3 zufällige Arten Tierfutter werden doppelt so schnell produziert) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/7Mk9IpxRi0AKTWuJ4YV7Lo"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-07-22T07:01:36+00:00</published>
-  </entry>
   <entry>
     <id>mlyyRXji2ZKUstTzlxpIc</id>
     <title>Ereigniswoche 31!</title>
@@ -255,5 +244,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Neues"/>
     <published>2024-10-16T20:22:36+00:00</published>
+  </entry>
+  <entry>
+    <id>7bnxvxQVwYAGlGAl2s0pDG</id>
+    <title>Hay Day-Woche 43</title>
+    <updated>2024-10-20T08:02:09.636000+00:00</updated>
+    <content>&lt;h1&gt;Ereigniswoche 43&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 10:00 Uhr MESZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag:&lt;/b&gt; Glücksrad-Ereignis (Gutscheine) + globales Schiffsereignis&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag:&lt;/b&gt; Stadtbesucher-Ereignis (Verbesserungsmaterialien für Silo und Scheune)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch:&lt;/b&gt; Produktionsgebäude-Ereignis (20%iger Schub für drei Gebäude)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag:&lt;/b&gt; Produktionsgebäude-Ereignis (20%iger Schub für drei Gebäude)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag:&lt;/b&gt; Produktionsschub für den Angelbereich (Entensalon und Seilerei, 30 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag:&lt;/b&gt; Stadtbesucher-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag:&lt;/b&gt; Pflanzenereignis (ernte bei drei zufälligen Pflanzenarten 3 anstatt 2 Pflanzen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Häschenderby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/7bnxvxQVwYAGlGAl2s0pDG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Ereignisse"/>
+    <published>2024-10-20T08:00:03+00:00</published>
   </entry>
 </feed>

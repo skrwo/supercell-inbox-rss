@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-10-20T07:31:37.804627+00:00</updated>
+  <updated>2024-10-20T08:39:18.498784+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7Mk9IpxRi0AKTWuJ4YV7Lo</id>
-    <title>Hay Day Etkinlikleri 30. Hafta!</title>
-    <updated>2024-07-22T07:03:42.248000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Etkinlikleri 30. Hafta!&lt;/h1&gt;
-&lt;p&gt;Merhaba çiftçiler! Şimdiye kadarki yaz etkinliklerini sevdiğinizi umuyoruz! Tüm etkinlikler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;Pazartesi: Çarkıfelek Etkinliği (bulmaca parçaları)&lt;/p&gt;&lt;p&gt;Salı: Kamyon Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;Çarşamba: Tekne Etkinliği (hediye çekleri)&lt;/p&gt;&lt;p&gt;Perşembe: Çiftlik Ziyaretçileri (iki kat altın) + Dünya Çapında Tekne Etkinliği&lt;/p&gt;&lt;p&gt;Cuma: Balıkçılık Hızlandırma Etkinliği (tüm binalar, %20 hızlandırma) + Dünya Çapında Tekne Etkinliği + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;Cumartesi: Kasaba Ziyaretçileri Etkinliği (ağıl ve ambar malzemeleri) + Dünya Çapında Tekne Etkinliği&lt;/p&gt;&lt;p&gt;Pazar: Yem Etkinliği (rastgele üç hayvan yemi iki kat daha hızlı üretiliyor) + Dünya Çapında Tekne Etkinliği&lt;/p&gt;&lt;p&gt;Harika bir hafta diliyoruz!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/7Mk9IpxRi0AKTWuJ4YV7Lo"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Haberler"/>
-    <published>2024-07-22T07:01:36+00:00</published>
-  </entry>
   <entry>
     <id>mlyyRXji2ZKUstTzlxpIc</id>
     <title>Hay Day Etkinlikleri 31. Hafta!</title>
@@ -255,5 +244,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Haberler"/>
     <published>2024-10-16T20:22:36+00:00</published>
+  </entry>
+  <entry>
+    <id>7bnxvxQVwYAGlGAl2s0pDG</id>
+    <title>Hay Day Etkinlikleri 43. Hafta</title>
+    <updated>2024-10-20T08:02:09.636000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Etkinlikleri 43. Hafta&lt;/h1&gt;
+&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır olun! Tüm etkinlikler ve derbiler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazartesi&lt;/b&gt;: Çarkıfelek Etkinliği (hediye çekleri) + Dünya Çapında Tekne Etkinliği&lt;/p&gt;&lt;p&gt;&lt;b&gt;Salı&lt;/b&gt;: Kasaba Ziyaretçileri Etkinliği (ağıl ve ambar malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Çarşamba&lt;/b&gt;: Üretim Binası Hızlandırma Etkinliği (üç bina, %20 hızlandırma)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perşembe&lt;/b&gt;: Üretim Binası Hızlandırma Etkinliği (üç bina, %20 hızlandırma)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cuma&lt;/b&gt;: Balıkçılık Etkinliği (ördek salonu ve ağ üreticisi, %30 hızlandırma) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cumartesi&lt;/b&gt;: Kasaba Ziyaretçileri Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazar&lt;/b&gt;: Ekin Artışı Etkinliği (rastgele üç ekin, iki yerine üç mahsul verir)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: Tavşan Derbisi&lt;/p&gt;&lt;p&gt;Harika bir hafta dileriz!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/7bnxvxQVwYAGlGAl2s0pDG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Etkinlikler"/>
+    <published>2024-10-20T08:00:03+00:00</published>
   </entry>
 </feed>

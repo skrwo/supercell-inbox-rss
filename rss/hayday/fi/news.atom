@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-10-20T07:31:36.618926+00:00</updated>
+  <updated>2024-10-20T08:39:15.241256+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7Mk9IpxRi0AKTWuJ4YV7Lo</id>
-    <title>Hay Dayn tapahtumat viikolla 30</title>
-    <updated>2024-07-22T07:03:42.248000+00:00</updated>
-    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 30&lt;/h1&gt;
-&lt;p&gt;Hei farmarit! Toivottavasti teillä on ollut hauskaa kesätapahtumiemme parissa! Kaikki tapahtumat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;Maanantai: palapelin paloja onnenpyörässä&lt;/p&gt;&lt;p&gt;Tiistai: laajennusesineitä lisäpalkintoina tavararekkatilauksista&lt;/p&gt;&lt;p&gt;Keskiviikko: kuponkeja lisäpalkintoina laivatilauksista&lt;/p&gt;&lt;p&gt;Torstai: tuplasti kolikoita farmivierailijoista + laivatilausten yhteisötapahtuma&lt;/p&gt;&lt;p&gt;Perjantai: kalastusalueella kaikkien rakennusten 20 %:n tehostus + laivatilausten yhteisötapahtuma + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;Lauantai: viljavaraston ja ladon päivitysmateriaaleja lisäpalkintoina kylävierailijoista + laivatilausten yhteisötapahtuma&lt;/p&gt;&lt;p&gt;Sunnuntai: eläinten ruokintatehostus (3 satunnaista rehua valmistuu tuplanopeudella) + laivatilausten yhteisötapahtuma&lt;/p&gt;&lt;p&gt;Verratonta viikkoa!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/7Mk9IpxRi0AKTWuJ4YV7Lo"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Uutiset"/>
-    <published>2024-07-22T07:01:36+00:00</published>
-  </entry>
   <entry>
     <id>mlyyRXji2ZKUstTzlxpIc</id>
     <title>Hay Dayn tapahtumat viikolla 31</title>
@@ -255,5 +244,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Uutiset"/>
     <published>2024-10-16T20:22:36+00:00</published>
+  </entry>
+  <entry>
+    <id>7bnxvxQVwYAGlGAl2s0pDG</id>
+    <title>Hay Dayn viikko 43</title>
+    <updated>2024-10-20T08:02:09.636000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 43&lt;/h1&gt;
+&lt;p&gt;Heippa farmari! On uuden tapahtumaviikon aika! Kaikki tapahtumat ja kisat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maanantai&lt;/b&gt;: kuponkeja onnenpyörässä + laivatilausten yhteisötapahtuma&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tiistai&lt;/b&gt;: viljavaraston ja ladon päivitysmateriaaleja lisäpalkintoina kylävierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keskiviikko&lt;/b&gt;: kolmen tuotantorakennuksen 20 %:n tehostus&lt;/p&gt;&lt;p&gt;&lt;b&gt;Torstai&lt;/b&gt;: kolmen tuotantorakennuksen 20 %:n tehostus&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perjantai&lt;/b&gt;: kalastusalueella sorsasalongin ja verkontekijän 30 %:n tehostus + kaksinkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lauantai&lt;/b&gt;: laajennusesineitä lisäpalkintoina kylävierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunnuntai&lt;/b&gt;: kolmen satunnaisen viljelyskasvin tehostus (satoa korjatessa 3 viljelyskasvia tavallisen 2:n sijasta)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kisat&lt;/b&gt;: pupukisat&lt;/p&gt;&lt;p&gt;Viljavaa viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/7bnxvxQVwYAGlGAl2s0pDG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Tapahtumat"/>
+    <published>2024-10-20T08:00:03+00:00</published>
   </entry>
 </feed>
