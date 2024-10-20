@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-20T09:31:33.167609+00:00</updated>
+  <updated>2024-10-20T10:36:58.261886+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>2ixcEuELchWQIjQe2x0R3F</id>
-    <title>Goblin's Fan Mail!</title>
-    <updated>2024-07-24T16:48:41.240000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/2ixcEuELchWQIjQe2x0R3F"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/0cbIR9anVQdruibmepCLF/2c31611fe6f0b52587894ac6f1ce8a1b/goblinfanmail.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/y-Rmf7dXOZg?feature=share"/>
-    <category term="Fun"/>
-    <published>2024-07-21T15:30:03+00:00</published>
-  </entry>
   <entry>
     <id>5H2r6KUJiF8GgbUX9ZwLRP</id>
     <title>BRING HOME THE GOLD</title>
