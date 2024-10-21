@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-10-21T01:59:50.157086+00:00</updated>
+  <updated>2024-10-21T03:04:49.351534+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -829,5 +829,22 @@ TFがスクバスに参戦！コラボ記念キャンペーン&#13;
     <link href="https://www.youtube.com/watch?v=qN-zGNdaP08"/>
     <category term="アップデート"/>
     <published>2024-10-19T14:43:00+00:00</published>
+  </entry>
+  <entry>
+    <id>PECJZQaHpU7v8oUteucEq</id>
+    <title>最新アップデート情報の紹介動画をチェック！</title>
+    <updated>2024-10-21T02:23:59.919000+00:00</updated>
+    <content>&lt;h1&gt;星4ラフス大佐使ったらぶっ壊れ過ぎw押さえておくべき修正点！&lt;/h1&gt;
+&lt;a href="https://youtu.be/wl4TTZEPrtw?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;新キャラや新ワールドが追加され、神シーズンの情報を解説&lt;/h1&gt;
+&lt;a href="https://youtu.be/MeF85wYSoko?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;遂にゲームモード追加⁉️これから順次公開されるアプデ速報を見逃すな‼️&lt;/h1&gt;
+&lt;a href="https://youtu.be/MY8nCarT2p8?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;新キャラの性能紹介・バランス調整など解説します‼️&lt;/h1&gt;
+&lt;a href="https://youtu.be/oWrzKDx17Jk?si=2xT7QnWpmdqDVVSD"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/PECJZQaHpU7v8oUteucEq"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4LUp51QCnahBXfeXe8Ihyx/25a076592bcc5d1cd3a960759e15f677/maxresdefault_1920.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="ビデオ"/>
+    <published>2024-10-21T02:23:59+00:00</published>
   </entry>
 </feed>
