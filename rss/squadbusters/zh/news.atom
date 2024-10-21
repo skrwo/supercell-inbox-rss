@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-10-21T03:42:07.942063+00:00</updated>
+  <updated>2024-10-21T04:39:30.908083+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -595,21 +595,13 @@
 &lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540CodeHeyBrother%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;嘿！兄弟&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;a href="https://www.youtube.com/watch?v=lxj3z3XXN04"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;金雄&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=fLEybf4AjQc"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+&lt;a href="https://www.youtube.com/watch?v=fLEybf4AjQc"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;烏龜 Turtle &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=glsqmMuwyCY"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/zh/news/3IZoFDqGpoTHGqKLrb0Aed"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/29hAwCVQqdW7PVlDI04FN4/1a170cbe5448dc11c4c76ac2a7106ede/tw_20240915_sneakpeeks_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-09-16T01:50:00+00:00</published>
-  </entry>
-  <entry>
-    <id>7pL40SGbarUJJHsgMYFlIW</id>
-    <title>【烏龜】搶先掌握變形金剛、星星寶箱等新內容！</title>
-    <updated>2024-09-16T03:52:55.732000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/7pL40SGbarUJJHsgMYFlIW"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/aMTYaNsLqrfhkfDC3dX5Z/00dcad8cb16cc7f9c0f37cb5c29a8d3b/tw_20240915_turtle_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=glsqmMuwyCY"/>
-    <category term="最新情報"/>
-    <published>2024-09-16T02:00:00+00:00</published>
   </entry>
   <entry>
     <id>6dblB2tJwnLWix1x4hdkZl</id>
@@ -707,5 +699,35 @@
     <link href="https://www.youtube.com/watch?v=qN-zGNdaP08"/>
     <category term="更新說明"/>
     <published>2024-10-19T14:43:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7M4OOzZcKVQwaAtslItS8p</id>
+    <title>創作者帶你看10月預告（更新至#1）！</title>
+    <updated>2024-10-21T03:44:48.462000+00:00</updated>
+    <content>&lt;p&gt;突擊隊長們，大家好！
+
+最新一期的突擊搶先報已在週六推出！
+請記得到&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DqN-zGNdaP08')"&gt;英文頻道打開繁體中文字幕觀看&lt;/a&gt;唷！
+而創作者們同樣也製作和展示更多有關新角色與新模式的內容！
+別忘了訂閱他們，多多給予鼓勵唷！&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;更新預告1：全新角色（波可、法蘭克與拉夫上校）、全新世界、平衡性調整與遊戲優化&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;烏龜 Turtle &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=Lp_8vZGqS2I"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540Xiake%253Fsub_confirmation%253D1')"&gt;Xiake&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=Qbfq8Ps4XcI"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/7M4OOzZcKVQwaAtslItS8p"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2wo5eZhZSscfpEIGBAJVOh/8aac27b96a89b92a7933be5ee8013cc1/tw_20241021_sneakpeeks_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-10-21T03:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2QCQ8P6AxqsNhyqcAeO579</id>
+    <title>【淮特】搶先分析驚悚世界新角色、新模式！</title>
+    <updated>2024-10-21T03:45:00.782000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/2QCQ8P6AxqsNhyqcAeO579"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6BrDI1ToxlUsNivJwqps2d/ab6aaf561761daaa52fbfa272109c57a/tw_20241021_power_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=4hJG2CJzJEg"/>
+    <category term="最新情報"/>
+    <published>2024-10-21T03:31:00+00:00</published>
   </entry>
 </feed>
