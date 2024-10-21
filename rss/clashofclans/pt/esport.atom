@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-esportNewsEntries-pt</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-10-21T09:35:34.410967+00:00</updated>
+  <updated>2024-10-21T10:41:25.501452+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -274,5 +274,14 @@ Posição 6: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%2
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6vTAXoBLql73F0Fc9vwXlp/ec94e684c2dd8448d039324f1ec825c4/PT_CoC_Rewatch.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sports"/>
     <published>2024-09-12T16:13:28+00:00</published>
+  </entry>
+  <entry>
+    <id>7uZ6NOhJFXeUFcfKti6quD</id>
+    <title>Reveja o dia 1 da BLAST Clash!</title>
+    <updated>2024-10-21T10:35:00.121000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/Ib2I6pa5fi2jH4QaTkfcD/c7a95cff861e617152e5ca8d4c31f06d/PT_-_Clash-Twitter-1920x1080__2_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/t6weL9yM1Ns?si=M57IPDlz1FY-ij7C&amp;t=1416"/>
+    <category term="E-sports"/>
+    <published>2024-10-12T16:59:52+00:00</published>
   </entry>
 </feed>

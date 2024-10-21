@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-21T09:35:32.954588+00:00</updated>
+  <updated>2024-10-21T10:41:24.696075+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -628,13 +628,26 @@ _クラッシュ・ロワイヤル_開発チーム&lt;/p&gt;</content>
     <published>2024-10-08T08:00:04+00:00</published>
   </entry>
   <entry>
+    <id>tMDKlzaQhkhWvofCXzw0c</id>
+    <title>メンテナンス：バランス調整とバグ修正</title>
+    <updated>2024-10-21T09:39:16.127000+00:00</updated>
+    <content>&lt;h1&gt;バランス調整&lt;/h1&gt;
+&lt;p&gt;ゴブリンシュタイン&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ライトニングリンクの効果時間：5秒→4秒（‐20％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ライトニングリンクのクラウンタワーへのダメージ（レベル11）：71→46（-36％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ライトニングリンクのクールダウン時間：15秒→17秒に増加（+13％）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;バグ修正&lt;/h1&gt;
+&lt;p&gt;限界突破ライトニングドラゴン&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;透明な敵に対して攻撃が連鎖しないバグを修正&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;上記の変更は10月17日のメンテナンス後に実装される予定です。&lt;/b&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/tMDKlzaQhkhWvofCXzw0c"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bw06CgGCz65JqWa8BH5WZ/96a1454f1c377f75f02c47007028fb86/Goblinstein_Color_v1-_1_.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="リリース情報"/>
+    <published>2024-10-17T07:49:08+00:00</published>
+  </entry>
+  <entry>
     <id>4QPxL8P9wlcPUsL2MKOyib</id>
-    <title>ゴブリンクイーンの旅の新情報！</title>
-    <updated>2024-10-21T08:08:19.249000+00:00</updated>
+    <title>ゴブリンクイーンの旅の新情報</title>
+    <updated>2024-10-21T09:42:11.446000+00:00</updated>
     <content>&lt;h1&gt;ゴブリンクイーンの旅が終了します！&lt;/h1&gt;
-&lt;p&gt;終わったらどうなるの？未回収の報酬は？今後数週間の流れとともに、そんな疑問にお答えします。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅は10月30日で終了します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;報酬として、アンロックしたアリーナ毎に特別なバッジが贈呈されます。各アリーナには固有のバッジが用意されています。 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ベビーゴブリンについて&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ベビーゴブリンは宝箱などの報酬から入手できなくなります。ベビーゴブリンがコレクションから消えることはありませんが、しばらくは使用不可となります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;使用したゴールドについて&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ベビーゴブリンのアップグレードに使用したゴールドおよびエリートワイルドカードは、すべて返還されます。&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅画面にはタイマーが表示され、イベント終了までの時間をリアルタイムで確認できるようになります。報酬獲得を目指してラストスパートをかけましょう。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅でアンロック可能なカードは通常のトロフィー目標の報酬になります（以下参照）。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ダイナマイトゴブリン：アリーナ12&lt;/p&gt;&lt;p&gt;ステルスブッシュ：アリーナ13&lt;/p&gt;&lt;p&gt;ゴブリンの呪い：アリーナ14&lt;/p&gt;&lt;p&gt;ゴブリンマシン：アリーナ15&lt;/p&gt;&lt;p&gt;ゴブリンシュタイン：アリーナ18&lt;/p&gt;</content>
+&lt;p&gt;終わったらどうなるの？未回収の報酬は？今後数週間の流れとともに、そんな疑問にお答えします。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅は10月30日で終了します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;報酬として、アンロックしたアリーナごとに特別なバッジが贈呈されます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ベビーゴブリンについて&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ベビーゴブリンは宝箱などの報酬から入手できなくなります。ベビーゴブリンがコレクションから消えることはありませんが、_しばらくは_使用不可となります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;使用したゴールドについて&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ベビーゴブリンのアップグレードに使用したゴールドおよびエリートワイルドカードは、すべて返還されます。&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅画面にはタイマーが表示され、イベント終了までの時間をリアルタイムで確認できるようになります。報酬獲得を目指してラストスパートをかけましょう。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゴブリンクイーンの旅でアンロック可能なカードは通常のトロフィー目標の報酬になります（以下参照）。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ダイナマイトゴブリン：アリーナ12&lt;/p&gt;&lt;p&gt;ステルスブッシュ：アリーナ13&lt;/p&gt;&lt;p&gt;ゴブリンの呪い：アリーナ14&lt;/p&gt;&lt;p&gt;ゴブリンマシン：アリーナ15&lt;/p&gt;&lt;p&gt;ゴブリンシュタイン：アリーナ18&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/4QPxL8P9wlcPUsL2MKOyib"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4gSktQv4qL8SLisy7Ew6tM/67278eadde122ff72a641bc81429b05f/IMG_4765.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YN5FtMChsu1RoGHPg9u6V/4ad4924e4563d93c9539d280d4018ac7/IMG_4765.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-10-17T10:00:12+00:00</published>
   </entry>

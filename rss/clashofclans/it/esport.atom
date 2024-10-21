@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-10-21T09:35:33.492176+00:00</updated>
+  <updated>2024-10-21T10:41:26.235718+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -364,9 +364,28 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
   <entry>
     <id>xEBTbAuhBw67h2XvUmZMK</id>
     <title>Rivedi la SPS Coppa 1 Giorno 2!</title>
-    <updated>2024-10-11T09:24:12.330000+00:00</updated>
+    <updated>2024-10-21T10:23:17.499000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3Uv5F50v2Gp3NeGe2QUE5r/9650b8dea82cc2d7788ab17d93a73ad0/it_SPS6_Thumbnail_Day_2.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://www.twitch.tv/videos/2269025206?t=00h00m37s"/>
     <category term="Esports"/>
     <published>2024-10-07T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7uZ6NOhJFXeUFcfKti6quD</id>
+    <title>Rivedi il giorno 1 del BLAST Clash!</title>
+    <updated>2024-10-21T10:35:00.121000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3JPGfMRYwsy0qAh1wWcR5g/86c44069d5380f11d4eabb012f361de1/IT1_Clash-Twitter-1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2274050351?t=00h04m51s"/>
+    <category term="Esports"/>
+    <published>2024-10-12T16:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>2IV3KMNRR3SBlLFCtnivZD</id>
+    <title>Rivedi il giorno 2 del BLAST Clash!</title>
+    <updated>2024-10-21T10:16:04.114000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3cndVDug5DNV0zrKF1k3Kv/1c026d1cf7fc46ee705dd1a47468b837/IT2_Clash-Twitter-1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2274969379?t=00h04m57s"/>
+    <category term="Esports"/>
+    <published>2024-10-13T16:16:14+00:00</published>
   </entry>
 </feed>
