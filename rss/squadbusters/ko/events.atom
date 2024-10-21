@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-eventEntries-ko</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-10-21T06:43:47.026658+00:00</updated>
+  <updated>2024-10-21T07:33:57.110493+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1OboLH0CkYF8A33dV67oPX/c96ccd6955bb40ac6b20b37b93de390f/2W_0708____________________________.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/RiqNG0Mt_HY?si=o5CW7gmT2cVvuUdK"/>
     <published>2024-07-30T04:35:49+00:00</published>
+  </entry>
+  <entry>
+    <id>snf63LXWObdadeGhVAZHS</id>
+    <title>🗞️</title>
+    <updated>2024-10-21T07:26:16.463000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/XjsF9kLEdJo"&gt;👉영상 보기!👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3lokaQK0hhHejQYXDtCxJ7/8182feef802cfe28c712b026ba7672d0/SquadUp__Default.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/XjsF9kLEdJo"/>
+    <published>2024-10-21T07:10:49+00:00</published>
   </entry>
 </feed>
