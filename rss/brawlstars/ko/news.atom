@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-22T03:01:11.272899+00:00</updated>
+  <updated>2024-10-22T03:39:37.419358+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>3YpphZkQO2bqlJRTnpWhYN</id>
-    <title>🔥이벤트 종료🔥 퀴즈의 정답과 함께 학교대항전 시청 인증을 남기면 경품이?!</title>
-    <updated>2024-07-24T03:09:00.188000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3YpphZkQO2bqlJRTnpWhYN"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5gPYB758XOKbIM4dU6zRNW/c82c54134c4f312bd0ea5acde4830eba/0723__________v4.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1217680"/>
-    <category term="커뮤니티"/>
-    <published>2024-07-24T03:09:00+00:00</published>
-  </entry>
   <entry>
     <id>6M4Z7TKT0KGgRG0JPSN3aC</id>
     <title>페인트 브롤 시즌 배경화면 등장! 🎨</title>
@@ -165,11 +155,11 @@
   </entry>
   <entry>
     <id>1t3ucLvUrDI2QeeFDilXyU</id>
-    <title>🎊EVENT 종료🎊 먹어보고 싶은 켄지의 초밥은?! 🍣</title>
+    <title>🎊당첨자 발표🎊 먹어보고 싶은 켄지의 초밥은?! 🍣</title>
     <updated>2024-10-04T07:33:34.660000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/#/ko/news/1t3ucLvUrDI2QeeFDilXyU"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4PZAvtVRxvTB8JUZHbDY6Q/8b3fe296c03622010e64f74037f42270/1005_BS_kenji-event_inbox_800x433_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1268427"/>
+    <link href="https://cafe.naver.com/brawlstars/1280689"/>
     <category term="커뮤니티"/>
     <published>2024-10-04T07:33:34+00:00</published>
   </entry>
