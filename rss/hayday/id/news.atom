@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>hayday-newsEntries-id</id>
   <title>Hayday - News</title>
-  <updated>2024-10-22T09:34:23.945688+00:00</updated>
+  <updated>2024-10-22T10:38:43.052060+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -235,17 +235,6 @@
     <published>2024-10-15T10:00:04+00:00</published>
   </entry>
   <entry>
-    <id>7hnQAFFSG4VuqUcCIyrZmC</id>
-    <title>Pemenang 1 Juta Koin</title>
-    <updated>2024-10-18T14:13:31.060000+00:00</updated>
-    <content>&lt;h1&gt;Selamat kepada para pemenang!&lt;/h1&gt;
-&lt;p&gt;Berikut adalah Petani yang berhasil memenangkan 1 juta koin dalam acara Ambang Halloween:&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ambang 1:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#90QC02Y80&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#YYQPURP0G&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#P9C0PLYQ9&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#8GPP9JCV8&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#V0P9J888&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Ambang 2:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#YJ9L8LRUU&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#9U9QCVP2C&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#PP9CVJQLL&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#LCQRUP0LP&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#YCJQ2Q8YQ&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Ambang 3:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ambang 4:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Kembali kami ingatkan bahwa pemenang dipilih secara acak dengan ketentuan partisipasi sebagai berikut:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Minimal telah mencapai level 17.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Berpartisipasi dalam Acara Perahu + Bangunan Sementara Halloween.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/id/news/7hnQAFFSG4VuqUcCIyrZmC"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Promosi"/>
-    <published>2024-10-16T20:22:36+00:00</published>
-  </entry>
-  <entry>
     <id>7bnxvxQVwYAGlGAl2s0pDG</id>
     <title>Hay Day Minggu ke-43</title>
     <updated>2024-10-20T08:02:09.636000+00:00</updated>
@@ -255,5 +244,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Acara"/>
     <published>2024-10-20T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>7hnQAFFSG4VuqUcCIyrZmC</id>
+    <title>Pemenang 1 Juta Koin</title>
+    <updated>2024-10-22T09:39:50.272000+00:00</updated>
+    <content>&lt;h1&gt;Selamat kepada para pemenang!&lt;/h1&gt;
+&lt;p&gt;Berikut adalah Petani yang berhasil memenangkan 1 juta koin dalam acara Ambang Halloween:&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ambang 1:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#90QC02Y80&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#YYQPURP0G&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#P9C0PLYQ9&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#8GPP9JCV8&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#V0P9J888&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Ambang 2:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#YJ9L8LRUU&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#9U9QCVP2C&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#PP9CVJQLL&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#LCQRUP0LP&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#YCJQ2Q8YQ&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Ambang 3:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#Q0YL89G89&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#LLGP2PULV&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#90PQJYJ29&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#PG2R0LQPR&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#P9GQRL80Y&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Ambang 4:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Kembali kami ingatkan bahwa pemenang dipilih secara acak dengan ketentuan partisipasi sebagai berikut:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Minimal telah mencapai level 17.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Berpartisipasi dalam Acara Perahu + Bangunan Sementara Halloween.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/id/news/7hnQAFFSG4VuqUcCIyrZmC"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Promosi"/>
+    <published>2024-10-21T21:00:00+00:00</published>
   </entry>
 </feed>
