@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-22T05:36:34.006187+00:00</updated>
+  <updated>2024-10-22T06:41:40.866630+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -376,5 +376,29 @@ Dein &lt;i&gt;Clash Royale&lt;/i&gt;-Team&lt;/p&gt;</content>
     <link href="https://youtu.be/bgVeniWQNsc"/>
     <category term="Highlights"/>
     <published>2024-10-06T15:30:03+00:00</published>
+  </entry>
+  <entry>
+    <id>tMDKlzaQhkhWvofCXzw0c</id>
+    <title>WARTUNGSARBEITEN – ANPASSUNGEN DER SPIELBALANCE UND FEHLERBEHEBUNGEN</title>
+    <updated>2024-10-22T06:12:46.807000+00:00</updated>
+    <content>&lt;h1&gt;ANPASSUNGEN DER SPIELBALANCE&lt;/h1&gt;
+&lt;p&gt;DR. FRANKOBOLD&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Dauer der Blitzverbindung: von 5 Sekunden auf 4 Sekunden verringert (-20 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Schaden der Blitzverbindung an Kronentürmen (Level 11): von 71 auf 46 verringert (-36 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abklingzeit der Blitzverbindung: von 15 Sekunden auf 17 Sekunden erhöht (+13 %)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;FEHLERBEHEBUNGEN&lt;/h1&gt;
+&lt;p&gt;Elektrodrachen-Entwicklung&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, durch den die Kettenblitz-Attacke unsichtbare Truppen nicht traf.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Diese Änderungen sind direkt nach den Wartungsarbeiten am 17. Oktober aktiv.&lt;/b&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/tMDKlzaQhkhWvofCXzw0c"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bw06CgGCz65JqWa8BH5WZ/96a1454f1c377f75f02c47007028fb86/Goblinstein_Color_v1-_1_.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Versionshinweise"/>
+    <published>2024-10-17T07:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>4QPxL8P9wlcPUsL2MKOyib</id>
+    <title>UPDATE ZUR REISE DER KOBOLDKÖNIGIN</title>
+    <updated>2024-10-22T06:14:47.037000+00:00</updated>
+    <content>&lt;h1&gt;Die Reise der Koboldkönigin findet ein Ende!&lt;/h1&gt;
+&lt;p&gt;Was bedeutet das? Und was passiert mit den nicht eingeforderten Belohnungen? Hier ein kurzer Überblick darüber, was in den nächsten Wochen passieren wird:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Der Koboldpfad endet am Mittwoch, den 30. Oktober.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wir vergeben ein ziemlich schickes Abzeichen als dauerhafte Belohnung für deinen Fortschritt.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Was passiert mit den Koboldbabys?&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Koboldbabys verschwinden aus allen Truhen und sonstigen Belohnungen. Sie bleiben in deiner Sammlung, sind aber &lt;i&gt;vorerst&lt;/i&gt; nicht mehr verfügbar.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Was ist mit all deinem ausgegebenen Gold?&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Du erhältst das gesamte Gold zurück, das du für die Verbesserung der Koboldbabys ausgegeben hast, dazu alle Elitejoker.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Bevor die Reise der Koboldkönigin endet, erscheint im Spiel ein Timer, der dir anzeigt, wie viel Zeit dir noch für weitere Fortschritte bleibt, um die gewünschten Belohnungen zu erlangen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sämtliche Karten, die auf der Reise der Koboldkönigin freigeschaltet werden, kommen in den regulären Trophäenpfad:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Koboldvernichter: Arena 12&lt;/p&gt;&lt;p&gt;Schleichbusch: Arena 13&lt;/p&gt;&lt;p&gt;Koboldfluch: Arena 14&lt;/p&gt;&lt;p&gt;Koboldmaschine: Arena 15&lt;/p&gt;&lt;p&gt;Dr. Frankobold: Arena 18&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/4QPxL8P9wlcPUsL2MKOyib"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YN5FtMChsu1RoGHPg9u6V/4ad4924e4563d93c9539d280d4018ac7/IMG_4765.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-10-17T10:00:12+00:00</published>
   </entry>
 </feed>
