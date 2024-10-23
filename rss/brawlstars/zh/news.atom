@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-23T03:39:21.814718+00:00</updated>
+  <updated>2024-10-23T04:38:01.166620+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>1WADyqx9e7zMKcmNWddomd</id>
-    <title>【盛主播】🦞克蘭西解說介紹！優缺點為何？</title>
-    <updated>2024-07-26T04:13:57.408000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/1WADyqx9e7zMKcmNWddomd"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5OcsPP6bzCemX3PvSAHlA9/4f27c0ac8a538fba65f8e34745516d39/tw_20240726_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/lo2emjzqL-M"/>
-    <category term="最新情報"/>
-    <published>2024-07-25T04:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>2uzB9s3d3NX7xHrVlHK85Q</id>
-    <title>【嘿!兄弟】輸出型的克蘭西🏷️各項數值如何？</title>
-    <updated>2024-07-26T04:13:45.535000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/2uzB9s3d3NX7xHrVlHK85Q"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3YgLZtfyveErYj79Ad8qXH/b1c4b0a67598245dfcaa553216f48eaf/tw_20240726_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=6yoBNss2oh8"/>
-    <category term="最新情報"/>
-    <published>2024-07-25T04:01:00+00:00</published>
-  </entry>
   <entry>
     <id>2LBA6F5181S3z1Ae8VJKRu</id>
     <title>【第三方賽事】AET2024開放報名</title>
