@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-25T01:57:42.406635+00:00</updated>
+  <updated>2024-10-25T03:02:40.869940+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -240,5 +240,15 @@ A : 물론이죠.&lt;/p&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5y3zMhRZyjyYvAh1HGwCs5/a4a6954310ed54a83fab22ce5eced1c9/1003_Brawl_is_Dead_Inbox_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="커뮤니티"/>
     <published>2024-10-17T07:00:17+00:00</published>
+  </entry>
+  <entry>
+    <id>1aVtJdESqlHjaQ1AfwcJPY</id>
+    <title>스쿨어택!🏫 켄지 레이스를 성공한 학생은?!</title>
+    <updated>2024-10-25T02:36:16.935000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/1aVtJdESqlHjaQ1AfwcJPY"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6vLBy7NBeOWB1993FqLfNg/918c04221f6fc92cce0b23a5a3b5c58d/image.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/OcTsob8K63Y?si=N0Ka-S7hrHdt9fO7"/>
+    <category term="동영상"/>
+    <published>2024-10-25T02:36:16+00:00</published>
   </entry>
 </feed>
