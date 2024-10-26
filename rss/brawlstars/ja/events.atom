@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-eventEntries-ja</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-10-26T14:32:19.332698+00:00</updated>
+  <updated>2024-10-26T15:31:45.071145+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -15,16 +15,6 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZbwMgq0EbG5_8fbxR1Npo6rlJSWo_POGi4rsE279Xcs/17a77c1fec7390db104474aae7c6e702/YouTube______.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://bitly.com/31sgyrY"/>
     <published>2023-02-24T11:21:01+00:00</published>
-  </entry>
-  <entry>
-    <id>1o5aaTruXqDGM8CbR9V2mB</id>
-    <title>🗞️</title>
-    <updated>2024-10-25T14:13:06.733000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/DIWsSpvHj8o"&gt;👉ブロスタトーク！👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4KLX0xkmaySrQlmPvbi8Sm/1825620f4a7ca3f3d500f2686882e529/1024_Brawl_Talk_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/DIWsSpvHj8o"/>
-    <published>2024-10-25T14:13:02+00:00</published>
   </entry>
   <entry>
     <id>QlfD1pwQl5Sv0qQz1251S</id>
@@ -69,7 +59,7 @@
     <id>4rbIAciN5</id>
     <title>死のボックス コミュニティイベント</title>
     <updated>2024-10-17T08:30:19.013000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 74.20%&lt;/h1&gt;
+    <content>&lt;h1&gt;PROGRESS: 74.60%&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;📌 - 150億 &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1U6EDn2r9fBeBYt7PvgnwQ/003de5a6ff5181c3b6accbf532169320/Milestone_DoubleStarrDrops.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;✅ - 100億 &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1g1YFyvkXilqDTjT5RBUDH/611827b5f5504aad028e914ab9a27b09/Milestone-HyperStarrDrop.png?w=400&amp;h=360&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
@@ -79,5 +69,15 @@
 &lt;a href="https://www.youtube.com/watch?v=JmBkPBnVfVA"&gt;👉観る👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/ja/news/6lPj9ejyfc6JQ2OHWnAG6V"&gt;👉関連記事👈&lt;/a&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2utIoUBKSRZaaohildvcrQ/d1677f1e2c8785e30b244bcab653b556/BG.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <published>2024-10-17T07:01:21+00:00</published>
+  </entry>
+  <entry>
+    <id>1o5aaTruXqDGM8CbR9V2mB</id>
+    <title>🗞️</title>
+    <updated>2024-10-26T15:26:44.069000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://www.youtube.com/watch?v=bfeJ3OQEW0Q"&gt;👉ブロスタトーク！👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4KLX0xkmaySrQlmPvbi8Sm/1825620f4a7ca3f3d500f2686882e529/1024_Brawl_Talk_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=bfeJ3OQEW0Q"/>
+    <published>2024-10-25T14:13:02+00:00</published>
   </entry>
 </feed>
