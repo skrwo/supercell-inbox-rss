@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-27T17:32:53.391758+00:00</updated>
+  <updated>2024-10-27T18:38:01.832315+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -340,5 +340,25 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2r9At7YluWHmcliHyT9JVw/567e171e883ec61077723d3c67bfbf7e/tw_20241019_bs_creators_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-10-18T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5KjaTJ0scKMMmOzfkDxxma</id>
+    <title>【盛主播】全新模式講解！還有極限威能與造型等內容！</title>
+    <updated>2024-10-27T17:35:03.980000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/5KjaTJ0scKMMmOzfkDxxma"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/wp77rXlfZ5LhUmQVXX9X8/fdcdefff70a8cf2e331bc2003e9e31bb/tw_20241028_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=j38IGj1Qtn0"/>
+    <category term="最新情報"/>
+    <published>2024-10-27T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4BHVBsQpvoi1dqJhPRazc3</id>
+    <title>【嘿!兄弟】講解天使大戰惡魔！以及超多新內容！</title>
+    <updated>2024-10-27T17:34:05.445000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/4BHVBsQpvoi1dqJhPRazc3"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3HzXGQ4FSwZol8jwfZbElR/f78c93280c907aeb99ac684b537baf88/tw_20241028_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Fja6QGI3mW8"/>
+    <category term="最新情報"/>
+    <published>2024-10-27T16:01:00+00:00</published>
   </entry>
 </feed>
