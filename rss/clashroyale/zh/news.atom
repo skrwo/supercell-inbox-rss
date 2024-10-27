@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-27T16:40:05.466930+00:00</updated>
+  <updated>2024-10-27T17:33:08.693854+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -639,5 +639,25 @@ OJ&lt;/p&gt;
     <link href="https://youtu.be/bbgDiYLGzmk"/>
     <category term="攻略"/>
     <published>2024-10-20T10:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1CVzeIP6WbA1Ccs0otBdBS</id>
+    <title>【阿酸】快速講解進化火槍手特點！</title>
+    <updated>2024-10-27T17:26:56.334000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/1CVzeIP6WbA1Ccs0otBdBS"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6R9hqnwbCFtJgQZQbQeEeI/50a62e8761cef5731653b462b30955f6/tw_20241027_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=_1F_UYB5GEc"/>
+    <category term="最新情報"/>
+    <published>2024-10-27T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6AA53C37v60VkCsAFWXlwo</id>
+    <title>【Xiake】帶你搶先看進化火槍手實戰！</title>
+    <updated>2024-10-27T17:25:40.579000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/6AA53C37v60VkCsAFWXlwo"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6DBhxZuQDzBA5Er0hacc7G/954c77cfa900a9d0b592c3ff00f8be5f/tw_20241028_xiake_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=2fcQ8WqoGOM"/>
+    <category term="最新情報"/>
+    <published>2024-10-27T14:01:00+00:00</published>
   </entry>
 </feed>
