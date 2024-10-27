@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-10-27T08:38:14.169325+00:00</updated>
+  <updated>2024-10-27T09:31:00.382627+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>mlyyRXji2ZKUstTzlxpIc</id>
-    <title>Acara Hay Day Minggu 31!</title>
-    <updated>2024-07-29T08:16:45.375000+00:00</updated>
-    <content>&lt;h1&gt;Acara Hay Day Minggu 31&lt;/h1&gt;
-&lt;p&gt;Helo, peladang! Masa untuk satu lagi minggu yang penuh dengan acara! Semua acara bermula pada 8:00 UTC (16:00 MYT). Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;Isnin: Putaran Nasib (Baucar)&lt;/p&gt;&lt;p&gt;Selasa: Pelawat Bandar (2x XP) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Rabu: Acara Bot (Penggalak) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Khamis: Acara Bangunan Pengeluaran (3 bangunan rawak, 20% galakan) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Jumaat: Acara Galakan Pengeluaran Memancing (Salun Itik dan Pembuat Jaring, 30%) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Sabtu: Acara Pelawat Bandar (2x XP) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;Ahad: Acara Galakan Tanaman (3 Tuaian untuk 2, 3 tanaman rawak)&lt;/p&gt;&lt;p&gt;Semoga minggu anda ceria!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/mlyyRXji2ZKUstTzlxpIc"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Berita"/>
-    <published>2024-07-29T08:14:53+00:00</published>
-  </entry>
   <entry>
     <id>R9x4nQRrTWb2MuoeOPRyc</id>
     <title>Acara Hay Day Minggu 32!</title>
@@ -255,5 +244,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Berita"/>
     <published>2024-10-24T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>72nwYDDQP4AzfvXRfpAtgx</id>
+    <title>Hay Day Minggu 44</title>
+    <updated>2024-10-27T09:01:25.810000+00:00</updated>
+    <content>&lt;h1&gt;Acara Hay Day Minggu 44&lt;/h1&gt;
+&lt;p&gt;Helo, Peladang! Bersedia untuk satu lagi minggu yang penuh dengan acara! Semua acara bermula pada 8:00 UTC (16:00 MYT). Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Isnin&lt;/b&gt;: Putaran Nasib (Bahan peluasan tanah)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Selasa&lt;/b&gt;: Acara Trak (2x XP) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rabu&lt;/b&gt;: Bangunan Pengeluaran (20% galakan untuk 3 bangunan) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;&lt;b&gt;Khamis&lt;/b&gt;: Acara Pelawat Ladang (2x syiling) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jumaat&lt;/b&gt;: Acara Memancing (Udang kara + umpan 30%) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabtu&lt;/b&gt;: Acara Pelawat Bandar (Bahan silo &amp;amp; bangsal) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ahad&lt;/b&gt;: Acara Makanan Haiwan (3 jenis makanan haiwan rawak dihasilkan 2x lebih cepat) + 3x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: Biasa&lt;/p&gt;&lt;p&gt;Semoga minggu anda ceria!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/72nwYDDQP4AzfvXRfpAtgx"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Acara"/>
+    <published>2024-10-27T09:00:03+00:00</published>
   </entry>
 </feed>

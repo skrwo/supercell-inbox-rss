@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-10-27T08:38:16.396802+00:00</updated>
+  <updated>2024-10-27T09:30:59.387519+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>mlyyRXji2ZKUstTzlxpIc</id>
-    <title>ヘイ・デイ イベントカレンダー第31週！</title>
-    <updated>2024-07-29T08:16:45.375000+00:00</updated>
-    <content>&lt;h1&gt;ヘイ・デイ イベントカレンダー第31週&lt;/h1&gt;
-&lt;p&gt;農場主の皆さん、こんにちは！今週もイベントが満載です！いずれのイベントも日本時間17時から始まります。各イベントの詳細は、ゲーム内のイベント掲示板からご確認ください。&lt;/p&gt;&lt;p&gt;月曜日：ルーレット回転（チケット）&lt;/p&gt;&lt;p&gt;火曜日：町の訪問客（経験値2倍）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;水曜日：船のお仕事（ブースター）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;木曜日：生産施設ブースト（3つの施設が20％スピードアップ）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;金曜日：釣り場の施設ブースト（アヒル美容室＆アミ織機が30％スピードアップ）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;土曜日：町の訪問客（経験値2倍）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;日曜日：作物ブースト（3種類の作物の収穫が2個から3個に増量）&lt;/p&gt;&lt;p&gt;それでは、楽しい1週間を！&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ja/news/mlyyRXji2ZKUstTzlxpIc"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="ニュース"/>
-    <published>2024-07-29T08:14:53+00:00</published>
-  </entry>
   <entry>
     <id>R9x4nQRrTWb2MuoeOPRyc</id>
     <title>ヘイ・デイ イベントカレンダー第32週！</title>
@@ -255,5 +244,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2024-10-24T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>72nwYDDQP4AzfvXRfpAtgx</id>
+    <title>ヘイ・デイ第44週</title>
+    <updated>2024-10-27T09:01:25.810000+00:00</updated>
+    <content>&lt;h1&gt;ヘイ・デイ イベントカレンダー第44週&lt;/h1&gt;
+&lt;p&gt;農場主の皆さま、こんにちは！今週も各種イベントをお楽しみください！イベントやダービーはすべて日本時間17時から始まります。各イベントの詳細は、ゲーム内のイベント掲示板からご確認ください。&lt;/p&gt;&lt;p&gt;&lt;b&gt;月曜日&lt;/b&gt;：ルーレット回転（拡張用アイテム）&lt;/p&gt;&lt;p&gt;&lt;b&gt;火曜日&lt;/b&gt;：トラックのお仕事（経験値2倍）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;水曜日&lt;/b&gt;：生産施設ブースト（3つの施設が20％スピードアップ）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;木曜日&lt;/b&gt;：農場の訪問客（コイン2倍）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;金曜日&lt;/b&gt;：釣り場の施設ブースト（ロブスタープール＆ルアー用作業台が30％スピードアップ）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;土曜日&lt;/b&gt;：町の訪問客（サイロや納屋の拡張用アイテム）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;日曜日&lt;/b&gt;：動物のエサ（3種類のエサの生産速度が2倍にアップ）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;ダービー&lt;/b&gt;：通常のダービー&lt;/p&gt;&lt;p&gt;それでは、楽しい1週間を！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/72nwYDDQP4AzfvXRfpAtgx"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="イベント"/>
+    <published>2024-10-27T09:00:03+00:00</published>
   </entry>
 </feed>
