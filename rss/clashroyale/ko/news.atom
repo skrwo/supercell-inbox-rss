@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-27T11:28:56.548644+00:00</updated>
+  <updated>2024-10-27T12:52:48.077815+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,47 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>25ONSvZMlym2sXVJbtZnur</id>
-    <title>수상한 수풀 애니메이션!</title>
-    <updated>2024-08-01T02:49:26.597000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/25ONSvZMlym2sXVJbtZnur"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7NMoKhnuVcFqJaKeM4rpJ/822df71e62281d6b7d59bfab6e746c9b/susbushanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/1NWtEQ5O3Bs?si=j3eoz_5F3Yc9WNBc"/>
-    <category term="하이라이트"/>
-    <published>2024-07-27T15:30:03+00:00</published>
-  </entry>
-  <entry>
-    <id>TMDCphjTwDeXeum5zx6T2</id>
-    <title>고블린 퀸의 여정 변경 사항!</title>
-    <updated>2024-07-31T12:53:50.173000+00:00</updated>
-    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ibUcJT1unOdA2V06DVvo1/dfe5418314c1c059a43f7ceb191deaa8/Goblin_Queen_Foreground.png?w=867&amp;h=506&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;안녕하세요!&lt;/p&gt;&lt;p&gt;7월 30일, 고블린 퀸의 여정에 몇 가지 변경 사항과 신규 콘텐츠가 추가됩니다. 자세한 내용을 함께 알아봅시다!&lt;/p&gt;&lt;p&gt;&lt;b&gt;수상한 수풀 출시!&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/rvukskrivsScuyUU3SRlQ/4f294697c4246e033a8e6e1476324fb7/Suspicious_Bush_card_frame__1_.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;출시 즉시 무료로 잠금 해제할 수 있으며, 고블린 퀸의 여정을 진행하며 더 많은 카드를 획득할 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;신규 아레나!&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2519og1JPrAsAgzM0hK2hB/0f130d37139fcee690f4d573f62a4c2d/GoblinRoad_Arena_4.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;아레나가 추가된다는 건 보상이 더 많아진다는 의미이기도 하죠! 신규 아레나 보상에는 수상한 수풀 카드의 추가분도 포함되어 있습니다. 신규 아레나 보상의 내용은 아래와 같습니다.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;고블린 보관함(상자) 1개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;신규 고블린 카드 700장&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;마법 상자 2개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;고블린 금고(상자) 1개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;고블린 포상금(상자) 1개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;전설 킹 상자 1개&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;퀸 및 카드 상한 관련 변경 사항&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1a7Wyc4olmncT3LJEEjjJW/fc32097cd355f34b8896bbaf5d7af2dd/gcggameplay.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;퀸과 킹의 트로피 진척도 간 시너지를 극대화하기 위해 아래와 같은 변경 사항이 적용됩니다.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;레벨 제한이 제거됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;퀸 타워 레벨이 킹 타워 레벨과 동일하게 조정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;1개의 진화 슬롯이 즉시 잠금 해제되며, 아레나 4에서는 2개의 진화 슬롯이 잠금 해제됩니다.&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5OFqedrITikY3diQM9ME57/bda3d6d537cff5e8dd2417550aed7b6a/twoevoslots.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;처음부터 진화를 사용할 수 있게 되므로 플레이어가 원하는 진화를 적극 활용하기가 더 쉬워질 것입니다.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;더욱 수월한 진행&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6pDEBrZjBkxpM4Ke6VYDcz/5d2bbb7c69dd3f63f652f09cf08f4c74/icon_trophie_B.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;패배 시의 트로피 손실률이 낮아져 진척도를 더욱 쉽게 진행할 수 있습니다.
-전투 패배 시 증감하는 트로피 수는 아래와 같이 조정됩니다.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;아레나 1: +6&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;아레나 2: +3&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;아레나 3: +0&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;아레나 4: -3&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;실버 상자 제거&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3UuqSsZbl4fejEat0oBbjf/5d627dc5823acc704e8f9e6b6e7c6cb4/Chest_Silver_Chest_nomore.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;이제 고블린 퀸의 여정에 실버 상자가 등장하지 않습니다. 즉, 고블린 퀸의 여정 게임 모드를 플레이하는 보람이 더 커질 것입니다.&lt;/p&gt;
-&lt;p&gt;저희가 준비한 신규 콘텐츠가 마음에 들길 바랍니다!&lt;/p&gt;&lt;p&gt;아레나에서 뵙겠습니다.
-클래시 로얄 팀&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/TMDCphjTwDeXeum5zx6T2"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JimwbJYL8scbt795JdFA4/2b3e6fde5f791a4a08dcd8bff92742cd/gqj_changes_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="새 소식"/>
-    <published>2024-07-29T09:29:02+00:00</published>
   </entry>
   <entry>
     <id>2OKjyw47ufTcHhNLWJYphg</id>

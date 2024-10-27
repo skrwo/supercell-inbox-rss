@@ -2,51 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-27T11:28:56.297473+00:00</updated>
+  <updated>2024-10-27T12:52:39.099946+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>25ONSvZMlym2sXVJbtZnur</id>
-    <title>Schleichbusch-Animation!</title>
-    <updated>2024-08-01T02:49:26.597000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/25ONSvZMlym2sXVJbtZnur"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7NMoKhnuVcFqJaKeM4rpJ/822df71e62281d6b7d59bfab6e746c9b/susbushanimation.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/qY2AgKzldW8?feature=share"/>
-    <category term="Highlights"/>
-    <published>2024-07-27T15:30:03+00:00</published>
-  </entry>
-  <entry>
-    <id>TMDCphjTwDeXeum5zx6T2</id>
-    <title>Änderungen an der Reise der Koboldkönigin!</title>
-    <updated>2024-07-31T12:53:50.173000+00:00</updated>
-    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ibUcJT1unOdA2V06DVvo1/dfe5418314c1c059a43f7ceb191deaa8/Goblin_Queen_Foreground.png?w=867&amp;h=506&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Hallo zusammen!&lt;/p&gt;&lt;p&gt;Am 30. Juli erwarten dich einige Änderungen und neue Inhalte auf der Reise der Koboldkönigin. Genaueres erfährst du hier!&lt;/p&gt;&lt;p&gt;Der Schleichbusch ist im (leisen) Anmarsch!&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/rvukskrivsScuyUU3SRlQ/4f294697c4246e033a8e6e1476324fb7/Suspicious_Bush_card_frame__1_.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Du kannst ihn direkt gratis freischalten. Mehr Exemplare erhältst du, wenn du auf der Reise der Koboldkönigin Fortschritt erzielst.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Neue Arena!&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2519og1JPrAsAgzM0hK2hB/0f130d37139fcee690f4d573f62a4c2d/GoblinRoad_Arena_4.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Das bedeutet auch: mehr Belohnungen! Zu den Belohnungen in der neuen Arena gehören zusätzliche Exemplare des neuen Schleichbusches. Dies sind die Belohnungen in der neuen Arena:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;1 Koboldreserve (Truhe)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;700 Exemplare der neuen Koboldkarte&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2 Magietruhen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 Koboldtresor (Truhe)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 Koboldschatz (Truhe)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 Legendäre Königstruhe&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Änderungen an Karten- und Königinnenturm-Limits&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1a7Wyc4olmncT3LJEEjjJW/fc32097cd355f34b8896bbaf5d7af2dd/gcggameplay.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Damit der Fortschritt auf dem Trophäenpfad der Königin besser zu dem des regulären Pfads passt, nehmen wir die folgenden Änderungen vor:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Das Levellimit wird entfernt.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Der Level des Königinnenturms entspricht nun dem des Königsturms.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Ein Entwicklungsplatz wird direkt freigeschaltet. Zwei Entwicklungsplätze werden in Arena 4 freigeschaltet.&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5OFqedrITikY3diQM9ME57/bda3d6d537cff5e8dd2417550aed7b6a/twoevoslots.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Indem wir von Anfang an Entwicklungen verfügbar machen, können Spieler ihre gewünschten Entwicklungen frei einsetzen.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Verbesserter Fortschritt&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6pDEBrZjBkxpM4Ke6VYDcz/5d2bbb7c69dd3f63f652f09cf08f4c74/icon_trophie_B.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Wir senken die Menge an verlorenen Trophäen, wodurch Spieler besser Fortschritt erzielen können.
-Der Trophäenwert wird bei einer Niederlage nun wie folgt angepasst:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Arena 1: +6&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arena 2: +3&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arena 3: ±0&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arena 4: -3&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Keine Silbertruhen mehr&lt;/b&gt;&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3UuqSsZbl4fejEat0oBbjf/5d627dc5823acc704e8f9e6b6e7c6cb4/Chest_Silver_Chest_nomore.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;Wir entfernen Silbertruhen aus dem Truhenzyklus der Reise der Koboldkönigin, damit sich der Spielmodus mehr für dich lohnt.&lt;/p&gt;
-&lt;p&gt;Hoffentlich gefallen dir die neuen Inhalte!&lt;/p&gt;&lt;p&gt;Wir sehen uns in der Arena!
-Das Clash Royale-Team&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/de/news/TMDCphjTwDeXeum5zx6T2"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JimwbJYL8scbt795JdFA4/2b3e6fde5f791a4a08dcd8bff92742cd/gqj_changes_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Versionshinweise"/>
-    <published>2024-07-29T09:29:02+00:00</published>
-  </entry>
   <entry>
     <id>5U6UsslpkMR87G0Uh1OzMp</id>
     <title>August-Goldfest!</title>
