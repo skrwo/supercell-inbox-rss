@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-28T15:35:42.736296+00:00</updated>
+  <updated>2024-10-28T16:43:08.896611+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -370,5 +370,25 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
     <link href="https://youtu.be/ZC-egC-ElAU"/>
     <category term="社群"/>
     <published>2024-10-28T10:21:18+00:00</published>
+  </entry>
+  <entry>
+    <id>6NuSm4LvmWh26LzpKpsyX</id>
+    <title>【嘿!兄弟】新角茱茱搶先了解！數值介紹！</title>
+    <updated>2024-10-28T16:21:19.003000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6NuSm4LvmWh26LzpKpsyX"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Kdm4ht3qPWSMkUTQaTKvq/244634ec1e2977d1f55d4807d3af4cd9/tw_20241029_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=FUfxZYNbflg"/>
+    <category term="最新情報"/>
+    <published>2024-10-28T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6u7cv8fIN3GIDlITy1iTIQ</id>
+    <title>【盛主播】茱茱機制完全解析！強度如何？</title>
+    <updated>2024-10-28T16:22:33.493000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6u7cv8fIN3GIDlITy1iTIQ"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/gxdB39gVOvgnJw8wbwpA2/a9ec0817a7a9045c2a729702925bd18e/tw_20241029_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=mi3XRg7Qiec"/>
+    <category term="最新情報"/>
+    <published>2024-10-28T16:01:00+00:00</published>
   </entry>
 </feed>
