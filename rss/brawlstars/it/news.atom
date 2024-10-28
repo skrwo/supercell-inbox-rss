@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-newsEntries-it</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-28T09:35:14.616188+00:00</updated>
+  <updated>2024-10-28T10:40:04.425375+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -216,5 +216,15 @@ R: sì.&lt;/p&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5y3zMhRZyjyYvAh1HGwCs5/a4a6954310ed54a83fab22ce5eced1c9/1003_Brawl_is_Dead_Inbox_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-10-17T07:00:17+00:00</published>
+  </entry>
+  <entry>
+    <id>1wjRgpCFvWVCozwpWrcf8D</id>
+    <title>Ottieni gratis un premio Starr leggendario e con overdrive!</title>
+    <updated>2024-10-28T10:21:18.266000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/it/news/1wjRgpCFvWVCozwpWrcf8D"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3GLieOlpj4sXHwnTUlnlzq/ed879368ea74abb82e2b067c1c0bc1e6/BS_BSWF_2024_Thumb_Draft_01.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ZC-egC-ElAU"/>
+    <category term="Community"/>
+    <published>2024-10-28T10:21:18+00:00</published>
   </entry>
 </feed>
