@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-10-29T12:56:21.960242+00:00</updated>
+  <updated>2024-10-29T13:38:52.947626+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -287,7 +287,7 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
   <entry>
     <id>74F1PfVlJrEHSOqhOk2Smu</id>
     <title>Finales mundiales del campeonato de 2024: Qué debes saber</title>
-    <updated>2024-10-26T09:41:48.001000+00:00</updated>
+    <updated>2024-10-29T13:17:33.620000+00:00</updated>
     <content>&lt;h1&gt;¡Se acercan las finales del campeonato mundial de 2024!&lt;/h1&gt;
 &lt;p&gt;¡Hola!&lt;/p&gt;&lt;p&gt;Este año ha sido frenético. Tras cuatro competiciones mensuales, varios torneos comunitarios, una clasificatoria regional china y la clasificatoria de última oportunidad, ¡ya tenemos a los equipos para las finales del campeonato mundial! Seis equipos se han esforzado al máximo para conseguir sus tiques de oro y están listos para enfrentarse en las finales del campeonato mundial. ¿Qué equipo demostrará su valía y se alzará como campeón del mundo? Lo sabremos muy pronto...&lt;/p&gt;
 &lt;h1&gt;EL VIAJE HASTA AHORA&lt;/h1&gt;
@@ -312,5 +312,14 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3imBhgPbw6g6sHsTAZeIx3/73635d87e23e1526c09ab991b6144bf3/COC_-_WCF_AYNTK_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eSports"/>
     <published>2024-10-25T17:02:10+00:00</published>
+  </entry>
+  <entry>
+    <id>7qzDk9DQg5LqdnHGO7iW9s</id>
+    <title>¡Mira de nuevo la SPS Cup 3 - Día 2!</title>
+    <updated>2024-10-29T13:16:58.599000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1Ha1p9d8ProA3c6JSomTBj/90aa1d430512e0aed65434a51f7f2c2c/ES_Thumbnail_Day_2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/X8P_tscYCSg?si=tmnqY_9o-UE7e8XU&amp;t=278"/>
+    <category term="eSports"/>
+    <published>2024-10-27T14:00:00+00:00</published>
   </entry>
 </feed>
