@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-30T03:02:14.881039+00:00</updated>
+  <updated>2024-10-30T03:40:36.442434+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -461,7 +461,7 @@ O segundo Zap não causa mais dano reduzido.&lt;/p&gt;
   <entry>
     <id>tMDKlzaQhkhWvofCXzw0c</id>
     <title>MANUTENÇÃO: BALANCEAMENTO E CORREÇÃO DE ERRO</title>
-    <updated>2024-10-22T06:12:46.807000+00:00</updated>
+    <updated>2024-10-30T03:32:26.071000+00:00</updated>
     <content>&lt;h1&gt;BALANCEAMENTO DO JOGO&lt;/h1&gt;
 &lt;p&gt;GOBLINSTEIN&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Duração do Elo Elétrico: reduzida de 5 para 4 segundos (-20%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Dano do Elo Elétrico à torre da coroa (nível 11): reduzido de 71 para 46 (-36%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tempo de espera do Elo Elétrico: aumentado de 15 para 17 segundos (+13%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;CORREÇÃO DE ERRO&lt;/h1&gt;

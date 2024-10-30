@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-30T03:02:15.842196+00:00</updated>
+  <updated>2024-10-30T03:40:35.633461+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -459,7 +459,7 @@ OJ&lt;/p&gt;
   <entry>
     <id>tMDKlzaQhkhWvofCXzw0c</id>
     <title>ТЕХОБСЛУЖИВАНИЕ — ИСПРАВЛЕНИЯ И ИЗМЕНЕНИЯ БАЛАНСА</title>
-    <updated>2024-10-22T06:12:46.807000+00:00</updated>
+    <updated>2024-10-30T03:32:26.071000+00:00</updated>
     <content>&lt;h1&gt;ИЗМЕНЕНИЯ БАЛАНСА&lt;/h1&gt;
 &lt;p&gt;ГОБЛИНШТЕЙН&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Длительность удара током уменьшена с 5 до 4 секунд (-20 %).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Урон королевской башне от удара током (11-го уровня) уменьшен с 71 до 46 очков здоровья (-36 %).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Время перезарядки удара током увеличено с 15 до 17 секунд (+13 %).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;ИСПРАВЛЕНИЕ ОШИБОК&lt;/h1&gt;

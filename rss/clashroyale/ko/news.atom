@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-30T03:02:13.910540+00:00</updated>
+  <updated>2024-10-30T03:40:35.356386+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -466,7 +466,7 @@ OJ&lt;/p&gt;
   <entry>
     <id>tMDKlzaQhkhWvofCXzw0c</id>
     <title>점검 - 버그 수정 및 밸런스 조정</title>
-    <updated>2024-10-22T06:12:46.807000+00:00</updated>
+    <updated>2024-10-30T03:32:26.071000+00:00</updated>
     <content>&lt;h1&gt;밸런스 조정&lt;/h1&gt;
 &lt;p&gt;고블린슈타인&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;번개 링크 지속 시간: 5초 → 4초(-20%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;번개 링크 크라운 타워 피해량(11레벨): 71 → 46(-36%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;번개 링크 재사용 대기시간: 15초 → 17초(+13%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;버그 수정&lt;/h1&gt;

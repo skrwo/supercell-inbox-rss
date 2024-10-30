@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-30T03:02:12.055202+00:00</updated>
+  <updated>2024-10-30T03:40:34.231138+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -545,7 +545,7 @@ There was an inconsistency in Mortar versus Magic Archer interactions where Mort
   <entry>
     <id>tMDKlzaQhkhWvofCXzw0c</id>
     <title>MAINTENANCE - BALANCE CHANGES AND BUG FIX</title>
-    <updated>2024-10-22T06:12:46.807000+00:00</updated>
+    <updated>2024-10-30T03:32:26.071000+00:00</updated>
     <content>&lt;h1&gt;BALANCE CHANGES&lt;/h1&gt;
 &lt;p&gt;GOBLINSTEIN&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lightning Link Duration: reduced from 5 seconds to 4 seconds (-20%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Lightning Link Crown Tower Damage (level 11): reduced from 71 to 46 (-36%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Lightning Link Cooldown: increased from 15 seconds to 17 seconds (+13%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;BUG FIXES&lt;/h1&gt;

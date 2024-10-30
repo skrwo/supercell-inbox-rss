@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-30T03:02:06.488539+00:00</updated>
+  <updated>2024-10-30T03:40:33.712888+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -439,7 +439,7 @@ La 2e électrocution inflige désormais des dégâts maximum&lt;/p&gt;
   <entry>
     <id>tMDKlzaQhkhWvofCXzw0c</id>
     <title>MAINTENANCE - ÉQUILIBRAGES ET CORRECTIONS DE BUGS</title>
-    <updated>2024-10-22T06:12:46.807000+00:00</updated>
+    <updated>2024-10-30T03:32:26.071000+00:00</updated>
     <content>&lt;h1&gt;CHANGEMENTS D'ÉQUILIBRAGE&lt;/h1&gt;
 &lt;p&gt;GOBELINSTEIN&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Durée de Lien électrifiant : réduite de 5 à 4 secondes (-20 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Dégâts de Lien électrifiant sur les tours couronnées (niveau 11) : réduits de 71 à 46 (-36 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Récupération de Lien électrifiant : augmentée de 15 à 17 secondes (+13 %)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;CORRECTIONS DE BUGS&lt;/h1&gt;

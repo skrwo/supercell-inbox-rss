@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-30T03:02:11.122023+00:00</updated>
+  <updated>2024-10-30T03:40:36.282746+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -339,7 +339,7 @@ Dein &lt;i&gt;Clash Royale&lt;/i&gt;-Team&lt;/p&gt;</content>
   <entry>
     <id>tMDKlzaQhkhWvofCXzw0c</id>
     <title>WARTUNGSARBEITEN – ANPASSUNGEN DER SPIELBALANCE UND FEHLERBEHEBUNGEN</title>
-    <updated>2024-10-22T06:12:46.807000+00:00</updated>
+    <updated>2024-10-30T03:32:26.071000+00:00</updated>
     <content>&lt;h1&gt;ANPASSUNGEN DER SPIELBALANCE&lt;/h1&gt;
 &lt;p&gt;DR. FRANKOBOLD&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Dauer der Blitzverbindung: von 5 Sekunden auf 4 Sekunden verringert (-20 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Schaden der Blitzverbindung an Kronentürmen (Level 11): von 71 auf 46 verringert (-36 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abklingzeit der Blitzverbindung: von 15 Sekunden auf 17 Sekunden erhöht (+13 %)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;FEHLERBEHEBUNGEN&lt;/h1&gt;
