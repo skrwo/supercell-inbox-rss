@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-30T01:58:02.222901+00:00</updated>
+  <updated>2024-10-30T03:01:53.032369+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -284,5 +284,15 @@ A：実は… 本当です！&lt;/p&gt;</content>
     <link href="https://youtu.be/9g4bWg7E3Fg"/>
     <category term="コミュニティ"/>
     <published>2024-10-28T10:21:18+00:00</published>
+  </entry>
+  <entry>
+    <id>jWoFaO62w8spxvJyMBQwt</id>
+    <title>世界大会が100倍楽しくなる！プロが教える世界大会のしおり</title>
+    <updated>2024-10-30T02:18:58.483000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/jWoFaO62w8spxvJyMBQwt"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6WgQybpNiCjJ35OGWjWtQ3/3ef965fb1c47ab7cc4fd5fe00540946f/maxresdefault__1_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=pcF1i8y8d9o"/>
+    <category term="コミュニティ"/>
+    <published>2024-10-30T02:18:58+00:00</published>
   </entry>
 </feed>
