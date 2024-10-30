@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-10-30T12:56:12.971755+00:00</updated>
+  <updated>2024-10-30T13:39:11.491405+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
-  <entry>
-    <id>4y8A9gq6Wk4KOPfwrqFJmx</id>
-    <title>August Events</title>
-    <updated>2024-08-06T10:03:17.249000+00:00</updated>
-    <content>&lt;h1&gt;August events&lt;/h1&gt;
-&lt;p&gt;Scorched Crab: 2 - 4&#13;
-MegaScorcher: 5 - 11&#13;
-Warships Season 64: 5 - 25&#13;
-RifleScorcher Mania: 9 - 11&#13;
-Heavy Mania: 16 - 18&#13;
-Super Warrior: 19 - 21&#13;
-Rain Maker: 19 - 25&#13;
-Gunboat Crab: 30 - 1 Sep&lt;/p&gt;</content>
-    <link href="https://boombeach.inbox.supercell.com/#/en/news/4y8A9gq6Wk4KOPfwrqFJmx"/>
-    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/7DoF6h4y0QvN7UCsiWVDui/3b341facad4adba3e67fd0e62a66af5b/BlogPost_Thumbnail.jpg?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
-    <category term="Blog"/>
-    <published>2024-07-31T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>3QeMDPZIaclJf6dxI0eNdb</id>
     <title>September events</title>
