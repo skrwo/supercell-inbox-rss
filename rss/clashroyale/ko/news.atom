@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-10-30T10:39:54.340133+00:00</updated>
+  <updated>2024-10-30T11:28:59.456290+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -486,5 +486,15 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YN5FtMChsu1RoGHPg9u6V/4ad4924e4563d93c9539d280d4018ac7/IMG_4765.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="소식"/>
     <published>2024-10-17T10:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>5SG1pBfsVeUCxHnUWkOztX</id>
+    <title>월드 파이널 시청 인증하고 선물 받아가세요!🎁</title>
+    <updated>2024-10-30T11:05:54.827000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/5SG1pBfsVeUCxHnUWkOztX"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/51d2JalPdJ6UklChQ5y4p7/0d445f62946ab99317395b0d95329162/image__5_.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/clashroyale/1512196"/>
+    <category term="커뮤니티"/>
+    <published>2024-10-30T11:05:54+00:00</published>
   </entry>
 </feed>
