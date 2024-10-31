@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-eventEntries-fr</id>
   <title>Hayday - Event</title>
-  <updated>2024-10-31T07:32:00.006794+00:00</updated>
+  <updated>2024-10-31T08:37:40.563001+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -42,5 +42,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27uoFDEOjib7OR83SH1hxN/1efd278821c3cc99985638aaef7a8e2b/HalloweenMilestonePattern.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/a7J1VXst2Zw"/>
     <published>2024-10-15T07:50:02+00:00</published>
+  </entry>
+  <entry>
+    <id>6ZgUvzEES1yIPAlHCOCgz</id>
+    <title>Événements de novembre</title>
+    <updated>2024-10-31T08:00:04.746000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/lWLp_ptADNU"&gt;👉Regarder👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4cfyKPJkTQJ7SpQsCYZH8s/e8853092bea1e83916d4606fbb77d65e/HayDay_Thanksgiving_Inbox_Carousel_860x1320__1_.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/lWLp_ptADNU"/>
+    <published>2024-10-31T08:00:04+00:00</published>
   </entry>
 </feed>

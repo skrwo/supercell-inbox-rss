@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-10-31T07:31:58.031211+00:00</updated>
+  <updated>2024-10-31T08:37:41.778960+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -255,5 +255,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventi"/>
     <published>2024-10-27T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>2DV21fHOJVrjv1YrbPTiL6</id>
+    <title>Scopri tutti i nuovi eventi e contenuti in arrivo a novembre!</title>
+    <updated>2024-10-31T08:00:04.929000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/2DV21fHOJVrjv1YrbPTiL6"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1vNBld4rMpyObhljBf89qg/27e154bf7a835c74a63547188459b5ca/Thumb-draft-01__1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/lWLp_ptADNU"/>
+    <category term="Notizie"/>
+    <published>2024-10-31T08:00:04+00:00</published>
   </entry>
 </feed>
