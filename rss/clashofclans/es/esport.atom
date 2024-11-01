@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-01T12:53:26.816175+00:00</updated>
+  <updated>2024-11-01T13:36:35.184222+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -287,7 +287,7 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
   <entry>
     <id>74F1PfVlJrEHSOqhOk2Smu</id>
     <title>Finales mundiales del campeonato de 2024: Qué debes saber</title>
-    <updated>2024-10-30T12:56:36.861000+00:00</updated>
+    <updated>2024-11-01T13:18:03.077000+00:00</updated>
     <content>&lt;h1&gt;¡Se acercan las finales del campeonato mundial de 2024!&lt;/h1&gt;
 &lt;p&gt;¡Hola!&lt;/p&gt;&lt;p&gt;Este año ha sido frenético. Tras cuatro competiciones mensuales, varios torneos comunitarios, una clasificatoria regional china y la clasificatoria de última oportunidad, ¡ya tenemos a los equipos para las finales del campeonato mundial! Seis equipos se han esforzado al máximo para conseguir sus tiques de oro y están listos para enfrentarse en las finales del campeonato mundial. ¿Qué equipo demostrará su valía y se alzará como campeón del mundo? Lo sabremos muy pronto...&lt;/p&gt;
 &lt;h1&gt;EL VIAJE HASTA AHORA&lt;/h1&gt;
@@ -330,5 +330,14 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
     <link href="https://www.youtube.com/live/X8P_tscYCSg?si=tmnqY_9o-UE7e8XU&amp;t=278"/>
     <category term="eSports"/>
     <published>2024-10-27T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4YeUZyZrcBioWH7wf1FcEc</id>
+    <title>Mira de nuevo la final del campeonato mundial - Día 1</title>
+    <updated>2024-11-01T13:12:05.385000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/511qqbnWeTRr49q2bTUFxj/da97bebbd7372f2f0ba8a10453cde646/es_COC_-_WCF_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2290700520?t=00h10m17s"/>
+    <category term="eSports"/>
+    <published>2024-11-01T11:30:29+00:00</published>
   </entry>
 </feed>
