@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-newsEntries-it</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-01T09:32:49.322699+00:00</updated>
+  <updated>2024-11-01T10:38:57.962568+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -230,9 +230,9 @@ R: sì.&lt;/p&gt;</content>
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>NOTE DI RILASCIO DELLA STAGIONE ''ANGELI E DEMONI''</title>
-    <updated>2024-11-01T07:48:53.754000+00:00</updated>
-    <content>&lt;h1&gt;Maintenance - October 31st&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Fixes:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed Gadgets and Star Powers charging Supers;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed weird behavior with Winstreak and Ranked&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed all-time Global Leaderboard showing inaccurate data&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Byron healing other brawlers entities using his basic attack such as Pets and Turrets. The same behavior was happening with Pearl&amp;#39;s Gadget &amp;quot;Made With Love&amp;quot;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mandy&amp;#39;s projectile speed was nerfed around 10% from the current value and &amp;quot;In my sights&amp;quot; Star Power projectile speed: 16% → 15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(We might still see some weird behavior in the Leaderboards!)&lt;/p&gt;
+    <updated>2024-11-01T09:43:45.472000+00:00</updated>
+    <content>&lt;h1&gt;Manutenzione - 31 ottobre&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Correzioni&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corretto l’errore per il quale i gadget e le abilità stellari caricavano le super.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corretto l’errore che riguardava la serie di vittorie e la modalità Classificata.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corretto l’errore nella classifica generale che mostrava dati imprecisi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corretto l&amp;#39;errore per il quale Byron curava col suo attacco base gli alleati evocati, come animali e torrette. Lo stesso vale per il gadget di Pearl &amp;quot;Ricetta perfetta&amp;quot;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La velocità dell’attacco di Mandy è stata ridotta di circa il 10% rispetto al valore attuale, mentre l’aumento di velocità dato dall&amp;#39;abilità stellare &amp;quot;Dolce cecchina&amp;quot; è stato portato al 15% &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(dal 16%).(Potrebbe ancora esserci qualche comportamento strano nelle classifiche!) &lt;/p&gt;
 &lt;h1&gt;I NUOVI BRAWLER ✨&lt;/h1&gt;
 &lt;h3&gt;JUJU (artigliere mitico)&lt;/h3&gt;&lt;p&gt;Juju è la proprietaria dell&amp;#39;Emporio delle stranezze ed è sempre accompagnata dalla sua bambola vudù, Gris-Gris (che si pronuncia &amp;#39;&amp;#39;Gregory&amp;#39;&amp;#39;). Oltre a saper controllare gli elementi, Juju è un&amp;#39;ottima artigiana che crea pupazzi per i visitatori dello Starr Park.&lt;/p&gt;&lt;p&gt;&lt;b&gt;ATTACCO BASE: FURIA DEGLI ELEMENTI&lt;/b&gt;
 Juju lancia attacchi potenziati dal terreno su cui si trova, dando loro proprietà diverse.
