@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-11-01T07:32:18.229997+00:00</updated>
+  <updated>2024-11-01T08:38:49.774384+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -281,5 +281,16 @@ The community event will last for &lt;b&gt;ten days&lt;/b&gt;, and it starts now
     <link href="https://youtu.be/lWLp_ptADNU"/>
     <category term="News"/>
     <published>2024-10-31T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6Cgprqzy94TTMRZT0ciaK3</id>
+    <title>November Events Calendar </title>
+    <updated>2024-11-01T07:51:17.168000+00:00</updated>
+    <content>&lt;h1&gt;Get ready for the new events coming your way this November!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Farm Pass&lt;/b&gt;: 01.11 -30.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Winter is Coming Collection&lt;/b&gt;: 01.11 - 30.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sanctuary Valley&lt;/b&gt;: 04.11 - 24.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Global Truck Event&lt;/b&gt;: 06.11 - 10.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Task Event&lt;/b&gt;: 12.11 - 17.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;County Fair&lt;/b&gt;: 22.11 - 27.11 (&lt;i&gt;During this event, you will earn the currency for the Catalog&lt;/i&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Catalog Event &lt;/b&gt;(&lt;i&gt;Daily Refresh&lt;/i&gt;): 22.11 - 27.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thanksgiving Dinner Collection&lt;/b&gt;: 22.11 - 28.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thanksgiving Feast Collection&lt;/b&gt;: 22.11 - 28.11&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/6Cgprqzy94TTMRZT0ciaK3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-11-01T07:51:17+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-newsEntries-th</id>
   <title>Hayday - News</title>
-  <updated>2024-11-01T07:32:16.582413+00:00</updated>
+  <updated>2024-11-01T08:38:53.231428+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -254,5 +254,16 @@
     <link href="https://youtu.be/lWLp_ptADNU"/>
     <category term="ข่าว"/>
     <published>2024-10-31T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6Cgprqzy94TTMRZT0ciaK3</id>
+    <title>ปฏิทินอีเวนท์เดือนพฤศจิกายน </title>
+    <updated>2024-11-01T07:51:17.168000+00:00</updated>
+    <content>&lt;h1&gt;เตรียมพร้อมสำหรับอีเวนท์ใหม่ที่จะมาเยือนคุณในพฤศจิกายนนี้!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Farm Pass&lt;/b&gt;: 01.11 -30.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;คอลเลคชันฤดูหนาวมาเยือน&lt;/b&gt;: 01.11 - 30.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;เขตสงวนพันธุ์หุบเขา&lt;/b&gt;: 04.11 - 24.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;อีเวนท์รถกระบะระดับโลก&lt;/b&gt;: 06.11 - 10.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;อีเวนท์ภารกิจ&lt;/b&gt;: 12.11 - 17.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;งานรื่นเริง&lt;/b&gt;: 22.11 - 27.11 (&lt;i&gt;ในระหว่างอีเวนท์นี้ คุณจะได้รับหน่วยเงินสำหรับแค็ตตาล็อก&lt;/i&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;อีเวนท์แค็ตตาล็อก&lt;/b&gt; (&lt;i&gt;รีเฟรชรายวัน&lt;/i&gt;): 22.11 - 27.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;คอลเลคชันมื้อเย็นวันขอบคุณพระเจ้า&lt;/b&gt;: 22.11 - 28.11&lt;/p&gt;&lt;p&gt;&lt;b&gt;คอลเลคชันงานเลี้ยงวันขอบคุณพระเจ้า&lt;/b&gt;: 22.11 - 28.11&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/th/news/6Cgprqzy94TTMRZT0ciaK3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ข่าว"/>
+    <published>2024-11-01T07:51:17+00:00</published>
   </entry>
 </feed>

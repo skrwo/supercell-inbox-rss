@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-11-01T07:32:18.543364+00:00</updated>
+  <updated>2024-11-01T08:38:52.327016+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -244,5 +244,16 @@
     <link href="https://youtu.be/lWLp_ptADNU"/>
     <category term="Новости"/>
     <published>2024-10-31T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6Cgprqzy94TTMRZT0ciaK3</id>
+    <title>Календарь событий ноября </title>
+    <updated>2024-11-01T07:51:17.168000+00:00</updated>
+    <content>&lt;h1&gt;Встречайте новые события, которые пройдут в ноябре!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Farm Pass&lt;/b&gt;: с 1 по 30 ноября.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Коллекция «Зима близко»&lt;/b&gt;: с 1 по 30 ноября.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Долина с заповедником&lt;/b&gt;: с 4 по 24 ноября.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Глобальное событие с грузовиком&lt;/b&gt;: с 6 по 10 ноября.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Событие с заданиями&lt;/b&gt;: с 12 по 17 ноября.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ярмарка&lt;/b&gt;: с 22 по 27 ноября (&lt;i&gt;во время этого события вы сможете заработать валюту для каталога&lt;/i&gt;).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Событие с каталогом&lt;/b&gt; (&lt;i&gt;с ежедневным обновлением&lt;/i&gt;): с 22 по 27 ноября.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Коллекция «Ужин в честь Дня благодарения»&lt;/b&gt;: с 22 по 28 ноября.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Коллекция «Пир в честь Дня благодарения»&lt;/b&gt;: с 22 по 28 ноября.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/6Cgprqzy94TTMRZT0ciaK3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2024-11-01T07:51:17+00:00</published>
   </entry>
 </feed>

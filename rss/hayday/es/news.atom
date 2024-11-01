@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-11-01T07:32:19.269413+00:00</updated>
+  <updated>2024-11-01T08:38:50.623772+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -254,5 +254,16 @@
     <link href="https://youtu.be/lWLp_ptADNU"/>
     <category term="Noticias"/>
     <published>2024-10-31T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6Cgprqzy94TTMRZT0ciaK3</id>
+    <title>Calendario de eventos de noviembre </title>
+    <updated>2024-11-01T07:51:17.168000+00:00</updated>
+    <content>&lt;h1&gt;¡Prepárate para los eventos que llegarán a Hay Day en noviembre!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Pase de la granja&lt;/b&gt;: del 1 al 30 de noviembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Colección «Se acerca el invierno»&lt;/b&gt;: del 1 al 30 de noviembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Valle de animales de la reserva&lt;/b&gt;: del 4 al 24 de noviembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento global de la camioneta&lt;/b&gt;: del 6 al 10 de noviembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento de tareas&lt;/b&gt;: del 12 al 17 de noviembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Feria del condado&lt;/b&gt;: del 22 al 27 de noviembre (&lt;i&gt;durante el evento, recibirás la divisa para el catálogo&lt;/i&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento del catálogo&lt;/b&gt; (&lt;i&gt;reinicio diario&lt;/i&gt;): del 22 al 27 de noviembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Colección «Cena de Acción de Gracias»&lt;/b&gt;: del 22 al 28 de noviembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Colección «Festín de Acción de Gracias»&lt;/b&gt;: del 22 al 28 de noviembre&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/6Cgprqzy94TTMRZT0ciaK3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Noticias"/>
+    <published>2024-11-01T07:51:17+00:00</published>
   </entry>
 </feed>

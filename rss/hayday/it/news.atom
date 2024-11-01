@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-11-01T07:32:19.552125+00:00</updated>
+  <updated>2024-11-01T08:38:45.518445+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -265,5 +265,16 @@
     <link href="https://youtu.be/lWLp_ptADNU"/>
     <category term="Notizie"/>
     <published>2024-10-31T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6Cgprqzy94TTMRZT0ciaK3</id>
+    <title>Calendario degli eventi di novembre </title>
+    <updated>2024-11-01T07:51:17.168000+00:00</updated>
+    <content>&lt;h1&gt;Segnati le date di tutti i nuovi eventi in arrivo a novembre!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Pass della fattoria&lt;/b&gt;: dal 1º al 30 novembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Collezione &amp;#39;&amp;#39;L&amp;#39;inverno sta arrivando&amp;#39;&amp;#39;&lt;/b&gt;: dal 1º al 30 novembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Contrada degli animali&lt;/b&gt;: dal 4 al 24 novembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento globale del furgone&lt;/b&gt;: dal 6 al 10 novembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento degli incarichi&lt;/b&gt;: dal 12 al 17 novembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Fiera della contea&lt;/b&gt;: dal 22 al 27 novembre (&lt;i&gt;durante questo evento guadagnerai la valuta da spendere nel catalogo&lt;/i&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento del catalogo&lt;/b&gt; (&lt;i&gt;si aggiorna ogni giorno&lt;/i&gt;): dal 22 al 27 novembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Collezione &amp;#39;&amp;#39;Cena del Ringraziamento&amp;#39;&amp;#39;&lt;/b&gt;: dal 22 al 28 novembre&lt;/p&gt;&lt;p&gt;&lt;b&gt;Collezione &amp;#39;&amp;#39;Banchetto del Ringraziamento&amp;#39;&amp;#39;&lt;/b&gt;: dal 22 al 28 novembre&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/6Cgprqzy94TTMRZT0ciaK3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-11-01T07:51:17+00:00</published>
   </entry>
 </feed>

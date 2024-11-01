@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-11-01T07:32:17.108486+00:00</updated>
+  <updated>2024-11-01T08:38:41.783846+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -265,5 +265,16 @@
     <link href="https://youtu.be/lWLp_ptADNU"/>
     <category term="Neues"/>
     <published>2024-10-31T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6Cgprqzy94TTMRZT0ciaK3</id>
+    <title>Ereigniskalender für November </title>
+    <updated>2024-11-01T07:51:17.168000+00:00</updated>
+    <content>&lt;h1&gt;Mach dich bereit für die neuen Ereignisse, die im November auf dich zukommen!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Farmpass&lt;/b&gt;: 01.11.–30.11.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Winteranfang-Sammlung&lt;/b&gt;: 01.11.–30.11.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reservattal&lt;/b&gt;: 04.11.–24.11.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Globales Lieferwagen-Ereignis&lt;/b&gt;: 06.11.–10.11.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Aufgabenereignis&lt;/b&gt;: 12.11.–17.11.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jahrmarkt&lt;/b&gt;: 22.11.– 27.11. (&lt;i&gt;Während dieses Ereignisses kannst du die Währung für den Katalog verdienen.&lt;/i&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Katalogereignis&lt;/b&gt; (&lt;i&gt;tägliche Aktualisierung&lt;/i&gt;): 22.11.–27.11.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thanksgiving-Dinner-Sammlung&lt;/b&gt;: 22.11.–28.11.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thanksgiving-Festmahl-Sammlung&lt;/b&gt;: 22.11.–28.11.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/6Cgprqzy94TTMRZT0ciaK3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Neues"/>
+    <published>2024-11-01T07:51:17+00:00</published>
   </entry>
 </feed>

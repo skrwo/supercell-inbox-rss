@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-11-01T07:32:15.625192+00:00</updated>
+  <updated>2024-11-01T08:38:39.982191+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -254,5 +254,16 @@
     <link href="https://youtu.be/lWLp_ptADNU"/>
     <category term="뉴스"/>
     <published>2024-10-31T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6Cgprqzy94TTMRZT0ciaK3</id>
+    <title>11월 이벤트 일정 </title>
+    <updated>2024-11-01T07:51:17.168000+00:00</updated>
+    <content>&lt;h1&gt;11월에 찾아오는 새로운 이벤트를 준비하세요!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;농장 패스&lt;/b&gt;: 11월 1일~11월 30일&lt;/p&gt;&lt;p&gt;&lt;b&gt;겨울맞이 컬렉션&lt;/b&gt;: 11월 1일~11월 30일&lt;/p&gt;&lt;p&gt;&lt;b&gt;보호구역 골짜기&lt;/b&gt;: 11월 4일~11월 24일&lt;/p&gt;&lt;p&gt;&lt;b&gt;트럭 주문 협동 이벤트&lt;/b&gt;: 11월 6일~11월 10일&lt;/p&gt;&lt;p&gt;&lt;b&gt;작업 이벤트&lt;/b&gt;: 11월 12일~11월 17일&lt;/p&gt;&lt;p&gt;&lt;b&gt;농장 품평회&lt;/b&gt;: 11월 22일~11월 27일(&lt;i&gt;이벤트 동안 카탈로그에 사용할 수 있는 재화를 얻을 수 있습니다&lt;/i&gt;.)&lt;/p&gt;&lt;p&gt;&lt;b&gt;카탈로그 이벤트&lt;/b&gt;(&lt;i&gt;매일 초기화&lt;/i&gt;): 11월 22일~11월 27일&lt;/p&gt;&lt;p&gt;&lt;b&gt;추수감사절 만찬 컬렉션&lt;/b&gt;: 11월 22일~11월 28일&lt;/p&gt;&lt;p&gt;&lt;b&gt;추수감사절 축제 컬렉션&lt;/b&gt;: 11월 22일~11월 28일&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/6Cgprqzy94TTMRZT0ciaK3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-11-01T07:51:17+00:00</published>
   </entry>
 </feed>

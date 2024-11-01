@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-11-01T07:32:15.353459+00:00</updated>
+  <updated>2024-11-01T08:38:46.358785+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -265,5 +265,16 @@
     <link href="https://youtu.be/lWLp_ptADNU"/>
     <category term="ニュース"/>
     <published>2024-10-31T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6Cgprqzy94TTMRZT0ciaK3</id>
+    <title>11月のイベントカレンダー </title>
+    <updated>2024-11-01T07:51:17.168000+00:00</updated>
+    <content>&lt;h1&gt;11月も楽しいイベントが盛りだくさんです！&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;農場パス&lt;/b&gt;：11月1日～11月30日&lt;/p&gt;&lt;p&gt;&lt;b&gt;「冬の予感」コレクション&lt;/b&gt;：11月1日～11月30日&lt;/p&gt;&lt;p&gt;&lt;b&gt;動物の渓谷&lt;/b&gt;：11月4日～11月24日&lt;/p&gt;&lt;p&gt;&lt;b&gt;トラックのお仕事（協力イベント）&lt;/b&gt;：11月6日～11月10日&lt;/p&gt;&lt;p&gt;&lt;b&gt;お仕事イベント&lt;/b&gt;：11月12日～11月17日&lt;/p&gt;&lt;p&gt;&lt;b&gt;カウンティーフェア&lt;/b&gt;：11月22日～11月27日（&lt;i&gt;イベント中はカタログ用の通貨を獲得できます&lt;/i&gt;）&lt;/p&gt;&lt;p&gt;&lt;b&gt;カタログイベント&lt;/b&gt;（&lt;i&gt;毎日更新&lt;/i&gt;）：11月22日～11月27日&lt;/p&gt;&lt;p&gt;&lt;b&gt;「サンクスギビングの夕食」コレクション&lt;/b&gt;：11月22日～11月28日&lt;/p&gt;&lt;p&gt;&lt;b&gt;「サンクスギビングのごちそう」コレクション&lt;/b&gt;：11月22日～11月28日&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/6Cgprqzy94TTMRZT0ciaK3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-11-01T07:51:17+00:00</published>
   </entry>
 </feed>
