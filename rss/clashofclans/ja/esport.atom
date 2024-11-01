@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-esportNewsEntries-ja</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-01T11:29:11.599907+00:00</updated>
+  <updated>2024-11-01T12:53:27.758773+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -267,5 +267,14 @@ $9,000を賭けて、様々なタウンホールレベルのベストプレイ�
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2is3L4ck0XkF0SKATMDIBZ/a8a01a9d380173e827e187a8f76e0976/COC_-_WCF_AYNTK_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="eスポーツ"/>
     <published>2024-10-25T17:02:10+00:00</published>
+  </entry>
+  <entry>
+    <id>4YeUZyZrcBioWH7wf1FcEc</id>
+    <title>ワールドチャンピオンシップ1日目をもう一度視聴しよう！</title>
+    <updated>2024-11-01T12:48:10.848000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6UcBkiyaaoVwvy6kMI47l0/0f80c2c824c78de951e75475b1374db7/COC_-_WCF_Thumb_Day_1_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/YliXLpJtMlU?feature=shared"/>
+    <category term="eスポーツ"/>
+    <published>2024-11-01T11:30:29+00:00</published>
   </entry>
 </feed>

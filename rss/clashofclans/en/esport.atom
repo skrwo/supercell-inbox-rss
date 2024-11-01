@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-01T11:29:11.398684+00:00</updated>
+  <updated>2024-11-01T12:53:26.675779+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -331,5 +331,14 @@ That’s it, Chief! Mark your calendars and stay tuned to the Clash of Clans in-
     <link href="https://www.youtube.com/live/q4Ii3qO8CO8?si=mP1S1Eohx9BxExRV&amp;t=1381"/>
     <category term="Esports"/>
     <published>2024-10-27T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4YeUZyZrcBioWH7wf1FcEc</id>
+    <title>Rewatch Day 1 of the World Championship Finals!</title>
+    <updated>2024-11-01T12:48:10.848000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6UcBkiyaaoVwvy6kMI47l0/0f80c2c824c78de951e75475b1374db7/COC_-_WCF_Thumb_Day_1_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/fdUSfaMZ4tg?si=EQzlOIHx7GoTWc0Q&amp;t=1273"/>
+    <category term="Esports"/>
+    <published>2024-11-01T11:30:29+00:00</published>
   </entry>
 </feed>
