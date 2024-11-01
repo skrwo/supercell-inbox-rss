@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-01T05:36:08.494411+00:00</updated>
+  <updated>2024-11-01T06:43:34.093722+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -288,9 +288,16 @@ A：実は… 本当です！&lt;/p&gt;</content>
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>パッチノート：天使 VS 悪魔</title>
-    <updated>2024-11-01T04:44:12.620000+00:00</updated>
-    <content>&lt;h1&gt;Maintenance - October 31st&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Fixes:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed Gadgets and Star Powers charging Supers;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed weird behavior with Winstreak and Ranked&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed all-time Global Leaderboard showing inaccurate data&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Byron healing other brawlers entities using his basic attack such as Pets and Turrets. The same behavior was happening with Pearl&amp;#39;s Gadget &amp;quot;Made With Love&amp;quot;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mandy&amp;#39;s projectile speed was nerfed around 10% from the current value and &amp;quot;In my sights&amp;quot; Star Power projectile speed: 16% → 15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(We might still see some weird behavior in the Leaderboards!)&lt;/p&gt;
+    <updated>2024-11-01T06:42:47.037000+00:00</updated>
+    <content>&lt;h1&gt;メンテナンス - 10月31日&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;修正内容:&lt;/b&gt;
+・ガジェットとスターパワーが必殺技をチャージする問題を修正
+・連勝とガチバトルにおける動作の不具合を修正
+・グローバルランキングの全体表示に不正確なデータが表示される問題を修正
+・バイロンの通常攻撃が敵キャラクターのペットやタレットなどを回復させてしまう問題を修正。
+同じ問題がパールのガジェット「愛の形」でも発生していたため、そちらも併せて修正。
+・マンディの弾速が現在の値から約10％減少し、スターパワー「視界良好」の弾速が16％ → 15％に調整。
+（ランキングにはまだ一部の不具合が残る可能性があります） &lt;/p&gt;
 &lt;h1&gt;新キャラクター✨&lt;/h1&gt;
 &lt;h3&gt;ジュジュ：ウルトラレア - グレネーディア&lt;/h3&gt;&lt;p&gt;骨董品店を営むジュジュは、呪術人形の「グリグリ（別名グレゴリー）」をペットのようにお供として連れている。彼女は呪術使いでありながら、おもちゃ職人としても超一流で、自作の人形はスターパークで人気商品となっている。&lt;/p&gt;&lt;p&gt;&lt;b&gt;通常攻撃：パワーエレメント&lt;/b&gt;
 現在いる地形に応じて効果の異なる物体を投げる。
