@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-10-31T23:32:32.123362+00:00</updated>
+  <updated>2024-11-01T02:09:51.469816+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -288,7 +288,7 @@ A：実は… 本当です！&lt;/p&gt;</content>
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>パッチノート：天使 VS 悪魔</title>
-    <updated>2024-10-31T15:41:44.324000+00:00</updated>
+    <updated>2024-11-01T01:29:34.417000+00:00</updated>
     <content>&lt;h1&gt;Maintenance - October 31st&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Fixes:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed Gadgets and Star Powers charging Supers;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed weird behavior with Winstreak and Ranked&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed all-time Global Leaderboard showing inaccurate data&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Byron healing other brawlers entities using his basic attack such as Pets and Turrets. The same behavior was happening with Pearl&amp;#39;s Gadget &amp;quot;Made With Love&amp;quot;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mandy&amp;#39;s projectile speed was nerfed around 10% from the current value and &amp;quot;In my sights&amp;quot; Star Power projectile speed: 16% → 15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(We might still see some weird behavior in the Leaderboards!)&lt;/p&gt;
 &lt;h1&gt;新キャラクター✨&lt;/h1&gt;
@@ -335,5 +335,43 @@ A：実は… 本当です！&lt;/p&gt;</content>
     <link href="https://www.youtube.com/watch?v=pcF1i8y8d9o"/>
     <category term="コミュニティ"/>
     <published>2024-10-30T02:18:58+00:00</published>
+  </entry>
+  <entry>
+    <id>5bCcwS0G45GM8jyOnoK2iC</id>
+    <title>ブロスタ世界一決定戦2024 Rival Esports応援キャンペーン</title>
+    <updated>2024-11-01T01:43:15.272000+00:00</updated>
+    <content>&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ff3K4TgwVDJLX5UcyTRxt/bdb2189320990b0424f1b3f0bf043756/20241028_CRS_CP_IB_RVL.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;11月2・3・4日（日本時間）に、フィンランドにて、ブロスタ 世界一決定戦2024が開催されます。
+&lt;/p&gt;&lt;p&gt;東アジア代表からは「Crazy Raccoon」と「Rival Esports」が出場！
+&lt;/p&gt;&lt;p&gt;世界一を目指す「Crazy Raccoon」と「Rival Esports」に日本から声援を届けられるよう、大会終了まで一緒に応援をするキャンペーンを開催します！
+&lt;/p&gt;&lt;p&gt;ブロスタ公式Xアカウントのフォローとキャンペーンのリポストをした上で、「#ブロスタ世界一決定戦」をつけて、リプライでそれぞれのチームに応援コメントを送ってくれた方に抽選でプレゼントをご用意しています。
+&lt;/p&gt;&lt;p&gt;ぜひ、世界一を決める大舞台での日本勢の活躍を願って、応援コメントを送りましょう！
+&lt;/p&gt;&lt;p&gt;【キャンペーン名】&lt;/p&gt;&lt;p&gt;ブロスタ 世界一決定戦2024 東アジア代表 Rival Esports応援キャンペーン&lt;/p&gt;&lt;p&gt;【キャンペーン応募期間】&lt;/p&gt;&lt;p&gt;2024年11/1(金)~11/4(月)23:59&lt;/p&gt;&lt;p&gt;【応募方法】&lt;/p&gt;&lt;p&gt;1.ブロスタ公式X（旧Twitter）アカウント｢@brawlstarsjp｣をフォロー&lt;/p&gt;&lt;p&gt;2.&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fbrawlstarsjp%25252Fstatus%25252F1852162989673087067')"&gt;キャンペーン投稿&lt;/a&gt;をリポスト（RT）&lt;/p&gt;&lt;p&gt;3. リプライに #ブロスタ世界一決定戦 をつけて「Rival Esports」への応援メッセージを投稿&lt;/p&gt;&lt;p&gt;（&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fbrawlstarsjp%25252Fstatus%25252F1852163368519360681')"&gt;Crazy Raccoon応援キャンペーン&lt;/a&gt;も同時開催中です！）&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;【当選人数】&lt;/p&gt;&lt;p&gt;・ブロスタTシャツ（S/Mサイズのどちらか） 6名様&lt;/p&gt;&lt;p&gt;・Rival Esports オリジナルキャップ 2名様&lt;/p&gt;&lt;p&gt;（抽選・発表は2024年の11月下旬を予定）&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;【応募条件】&lt;/p&gt;&lt;p&gt;以下の条件を全て応募時・当選時に満たしている方&lt;/p&gt;&lt;p&gt;・X（旧Twitter）アカウントをお持ちの方&lt;/p&gt;&lt;p&gt;・ブロスタ公式X（旧Twitter）アカウント｢@brawlstarsjp｣をフォローしている方&lt;/p&gt;&lt;p&gt;・X（旧Twitter）のアカウントを公開に設定している方&lt;/p&gt;&lt;p&gt;【当選発表】&lt;/p&gt;&lt;p&gt;・応募条件を満たした方の中から当選された方に、X（旧Twitter）のダイレクトメッセージにて当選通知とその後のご案内をさせていただきます。&lt;/p&gt;&lt;p&gt;※ダイレクトメッセージでの連絡から7日間返信がない場合は当選が無効となります。&lt;/p&gt;&lt;p&gt;※都合により当選のご連絡が遅れる場合がございます。あらかじめご了承ください。
+&lt;/p&gt;&lt;p&gt;■キャンペーン注意事項■&lt;/p&gt;&lt;p&gt;投稿者は、下記のご注意事項に同意の上、ご投稿ください。ご投稿の事実をもって、投稿者は下記の注意事項に同意したものとみなされます。&lt;/p&gt;&lt;p&gt;・本キャンペーンは予告なく内容の変更もしくは中止させていただく場合がございます。&lt;/p&gt;&lt;p&gt;・当選は、お一人様一回までとなります。&lt;/p&gt;&lt;p&gt;・プレゼントの発送は日本国内に限らせていただきます。&lt;/p&gt;&lt;p&gt;・投稿者は、X（旧Twitter）社の定めるルールを遵守するものとし、自己の責任において本キャンペーンへ応募するものとします。&lt;/p&gt;&lt;p&gt;・本キャンペーンの抽選、当選結果等に関するお問い合わせにはお答えいたしかねます。&lt;/p&gt;&lt;p&gt;・当選者の権利を譲渡・換金・変更することや、賞品を交換・換金・変更することはできません。&lt;/p&gt;&lt;p&gt;・賞品の発送において、応募者のお名前・連絡先等の誤記載により賞品が発送できない場合は、弊社では一切の責を負わないものとします。&lt;/p&gt;&lt;p&gt;・賞品の発送は株式会社NAVICUSに委託します。&lt;/p&gt;&lt;p&gt;・商品の写真・画像と実際の商品は異なる場合がございます。あらかじめご了承ください。&lt;/p&gt;&lt;p&gt;・本キャンペーンは、X Corp.が後援、支持、または運営するものではなく、本キャンペーンにX Corp.は関係ありません。&lt;/p&gt;&lt;p&gt;・本キャンペーンに関しまして、X Corp.は何らの責任も負いません。&lt;/p&gt;&lt;p&gt;・個人情報の取り扱いに関しては、当社のプライバシーポリシーに準じます。&lt;/p&gt;&lt;p&gt;■Supercellのプライバシーポリシーは https://supercell.com/en/privacy-policy/jp/ からご確認をお願いいたします。&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/5bCcwS0G45GM8jyOnoK2iC"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ff3K4TgwVDJLX5UcyTRxt/bdb2189320990b0424f1b3f0bf043756/20241028_CRS_CP_IB_RVL.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="コミュニティ"/>
+    <published>2024-11-01T01:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5uiDQLbXFalBXesz942GJP</id>
+    <title>ブロスタ世界一決定戦2024 Crazy Raccoon応援キャンペーン</title>
+    <updated>2024-11-01T01:44:58.704000+00:00</updated>
+    <content>&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6TrMwmgMCso0r1mRQec18P/1505321c85ca027c7bf4ed8eab921cc2/20241028_CRS_CP_IB_CR.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;11月2・3・4日（日本時間）に、フィンランドにて、ブロスタ 世界一決定戦2024が開催されます。
+&lt;/p&gt;&lt;p&gt;東アジア代表からは「Crazy Raccoon」と「Rival Esports」が出場！
+&lt;/p&gt;&lt;p&gt;世界一を目指す「Crazy Raccoon」と「Rival Esports」に日本から声援を届けられるよう、大会終了まで一緒に応援をするキャンペーンを開催します！
+&lt;/p&gt;&lt;p&gt;ブロスタ公式Xアカウントのフォローとキャンペーンのリポストをした上で、「#ブロスタ世界一決定戦」をつけて、リプライでそれぞれのチームに応援コメントを送ってくれた方に抽選でプレゼントをご用意しています。
+&lt;/p&gt;&lt;p&gt;ぜひ、世界一を決める大舞台での日本勢の活躍を願って、応援コメントを送りましょう！
+&lt;/p&gt;&lt;p&gt;【キャンペーン名】&lt;/p&gt;&lt;p&gt;ブロスタ 世界一決定戦2024 東アジア代表 Crazy Raccoon応援キャンペーン&lt;/p&gt;&lt;p&gt;【キャンペーン応募期間】&lt;/p&gt;&lt;p&gt;2024年11/1(金)~11/4(月)23:59&lt;/p&gt;&lt;p&gt;【応募方法】&lt;/p&gt;&lt;p&gt;1.ブロスタ公式X（旧Twitter）アカウント｢@brawlstarsjp｣をフォロー&lt;/p&gt;&lt;p&gt;2.&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fbrawlstarsjp%25252Fstatus%25252F1852163368519360681')"&gt;キャンペーン投稿&lt;/a&gt;をリポスト（RT）&lt;/p&gt;&lt;p&gt;3. リプライに #ブロスタ世界一決定戦 をつけて「Crazy Raccoon」への応援メッセージを投稿&lt;/p&gt;&lt;p&gt;（&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fbrawlstarsjp%25252Fstatus%25252F1852162989673087067')"&gt;Rival Esports応援キャンペーン&lt;/a&gt;も同時開催中です！）&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;【当選人数】&lt;/p&gt;&lt;p&gt;・ブロスタTシャツ（S/Mサイズのどちらか） 2名様&lt;/p&gt;&lt;p&gt;・Crazy Raccoon アクリルスタンド 6名様（ランダム1種）&lt;/p&gt;&lt;p&gt;（抽選・発表は2024年の11月下旬を予定）&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;【応募条件】&lt;/p&gt;&lt;p&gt;以下の条件を全て応募時・当選時に満たしている方&lt;/p&gt;&lt;p&gt;・X（旧Twitter）アカウントをお持ちの方&lt;/p&gt;&lt;p&gt;・ブロスタ公式X（旧Twitter）アカウント｢@brawlstarsjp｣をフォローしている方&lt;/p&gt;&lt;p&gt;・X（旧Twitter）のアカウントを公開に設定している方&lt;/p&gt;&lt;p&gt;【当選発表】&lt;/p&gt;&lt;p&gt;・応募条件を満たした方の中から当選された方に、X（旧Twitter）のダイレクトメッセージにて当選通知とその後のご案内をさせていただきます。&lt;/p&gt;&lt;p&gt;※ダイレクトメッセージでの連絡から7日間返信がない場合は当選が無効となります。&lt;/p&gt;&lt;p&gt;※都合により当選のご連絡が遅れる場合がございます。あらかじめご了承ください。
+&lt;/p&gt;&lt;p&gt;■キャンペーン注意事項■&lt;/p&gt;&lt;p&gt;投稿者は、下記のご注意事項に同意の上、ご投稿ください。ご投稿の事実をもって、投稿者は下記の注意事項に同意したものとみなされます。&lt;/p&gt;&lt;p&gt;・本キャンペーンは予告なく内容の変更もしくは中止させていただく場合がございます。&lt;/p&gt;&lt;p&gt;・当選は、お一人様一回までとなります。&lt;/p&gt;&lt;p&gt;・プレゼントの発送は日本国内に限らせていただきます。&lt;/p&gt;&lt;p&gt;・投稿者は、X（旧Twitter）社の定めるルールを遵守するものとし、自己の責任において本キャンペーンへ応募するものとします。&lt;/p&gt;&lt;p&gt;・本キャンペーンの抽選、当選結果等に関するお問い合わせにはお答えいたしかねます。&lt;/p&gt;&lt;p&gt;・当選者の権利を譲渡・換金・変更することや、賞品を交換・換金・変更することはできません。&lt;/p&gt;&lt;p&gt;・賞品の発送において、応募者のお名前・連絡先等の誤記載により賞品が発送できない場合は、弊社では一切の責を負わないものとします。&lt;/p&gt;&lt;p&gt;・賞品の発送は株式会社NAVICUSに委託します。&lt;/p&gt;&lt;p&gt;・商品の写真・画像と実際の商品は異なる場合がございます。あらかじめご了承ください。&lt;/p&gt;&lt;p&gt;・本キャンペーンは、X Corp.が後援、支持、または運営するものではなく、本キャンペーンにX Corp.は関係ありません。&lt;/p&gt;&lt;p&gt;・本キャンペーンに関しまして、X Corp.は何らの責任も負いません。&lt;/p&gt;&lt;p&gt;・個人情報の取り扱いに関しては、当社のプライバシーポリシーに準じます。&lt;/p&gt;&lt;p&gt;■Supercellのプライバシーポリシーは https://supercell.com/en/privacy-policy/jp/ からご確認をお願いいたします。&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/5uiDQLbXFalBXesz942GJP"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6TrMwmgMCso0r1mRQec18P/1505321c85ca027c7bf4ed8eab921cc2/20241028_CRS_CP_IB_CR.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="コミュニティ"/>
+    <published>2024-11-01T01:44:58+00:00</published>
   </entry>
 </feed>
