@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-01T17:34:10.069053+00:00</updated>
+  <updated>2024-11-01T18:40:30.705046+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -254,7 +254,7 @@ A : 물론이죠.&lt;/p&gt;</content>
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>패치 노트: 천사 VS 악마</title>
-    <updated>2024-11-01T15:53:36.653000+00:00</updated>
+    <updated>2024-11-01T17:51:47.013000+00:00</updated>
     <content>&lt;h1&gt;Maintenance - October 31st&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Fixes:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed Gadgets and Star Powers charging Supers;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed weird behavior with Winstreak and Ranked&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed all-time Global Leaderboard showing inaccurate data&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Byron healing other brawlers entities using his basic attack such as Pets and Turrets. The same behavior was happening with Pearl&amp;#39;s Gadget &amp;quot;Made With Love&amp;quot;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mandy&amp;#39;s projectile speed was nerfed around 10% from the current value and &amp;quot;In my sights&amp;quot; Star Power projectile speed: 16% → 15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(We might still see some weird behavior in the Leaderboards!)&lt;/p&gt;
 &lt;h1&gt;신규 브롤러 ✨&lt;/h1&gt;
