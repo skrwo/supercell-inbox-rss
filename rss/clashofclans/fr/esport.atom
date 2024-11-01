@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-01T15:35:25.393500+00:00</updated>
+  <updated>2024-11-01T16:40:32.715223+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -293,5 +293,14 @@ Hindi: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%25
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7JRMovqCoS1KndpxXstndx/0e6fde27eb6e8894829c3e201257e624/FR_COC---WCF-AYNTK-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sport"/>
     <published>2024-10-25T17:02:10+00:00</published>
+  </entry>
+  <entry>
+    <id>4YeUZyZrcBioWH7wf1FcEc</id>
+    <title>Re-Regardez le jour 1 des Championnat du Monde</title>
+    <updated>2024-11-01T15:42:43.903000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2ZZ5EM5tzivKRBh3z2WtAY/bbcb0780e1d0f64f90f257b1b7be38f3/FR_COC---WCF-Thumb-16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/fdUSfaMZ4tg?si=EQzlOIHx7GoTWc0Q&amp;t=1273"/>
+    <category term="E-sport"/>
+    <published>2024-11-01T11:30:29+00:00</published>
   </entry>
 </feed>
