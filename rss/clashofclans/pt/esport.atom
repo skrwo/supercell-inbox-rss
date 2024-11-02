@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-esportNewsEntries-pt</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-02T17:31:02.372064+00:00</updated>
+  <updated>2024-11-02T18:37:55.231368+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -251,5 +251,14 @@ Indonésio: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%25
     <link href="https://www.youtube.com/watch?v=zpn1U29Q60A"/>
     <category term="E-sports"/>
     <published>2024-11-01T11:30:29+00:00</published>
+  </entry>
+  <entry>
+    <id>1MLoEp3ZxtFc0kroWLmlEL</id>
+    <title>Reveja o 2º dia das finais do Campeonato Mundial!</title>
+    <updated>2024-11-02T17:37:42.023000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4H0Cr4oSnMB1zezLWwsjmQ/b8fa8c18175118c12b90850552b8ae67/PT_COC_-_WCF_Thumb_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=BDmAqm9gGBs"/>
+    <category term="E-sports"/>
+    <published>2024-11-02T11:17:23+00:00</published>
   </entry>
 </feed>
