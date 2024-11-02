@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-02T14:32:50.285010+00:00</updated>
+  <updated>2024-11-02T15:33:26.019248+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -23,6 +23,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5UcIXUzuGXN5fW8DB18wtz/0b751cfb863d4b1e4d8a00b87cbff862/Thumb_ingame_final_2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-09-18T11:32:59+00:00</published>
+  </entry>
+  <entry>
+    <id>6DeIsSHq0MpwhCdHCr57Fm</id>
+    <title>Reveja o September Spectacle!</title>
+    <updated>2024-11-02T14:41:45.423000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4YZ61KIZRpBbMLSzUs67RZ/d29fb43c7bbb2f5745aff0c2699f6c40/PT-September_Spectacle_South_America_ingame.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=gK4_HO0yyPg"/>
+    <category term="Esports"/>
+    <published>2024-10-30T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>YtOkOUVEmXHdxf8G4Ay30</id>
