@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-11-02T15:33:46.353501+00:00</updated>
+  <updated>2024-11-02T16:42:03.701040+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -67,5 +67,38 @@ As we gear up for these exciting events, don’t forget to strategize and prepar
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/5bxN6RzF9Qjg07gfjA49lP/b7ea20bf883c27064e8937a3e3f9b5ba/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Blog"/>
     <published>2024-09-30T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1Z8znZwM4I4dcGDtYTXJDw</id>
+    <title>This November on Boom Beach</title>
+    <updated>2024-11-02T16:36:25.729000+00:00</updated>
+    <content>&lt;h1&gt;This November on Boom Beach&lt;/h1&gt;
+&lt;p&gt;Welcome, Commanders, to an action-packed month in Boom Beach! As we embrace the changing tides of November, our tropical battleground is set to explode with thrilling events!.
+
+Here’s what you can expect:
+
+1 - 3: Heavy &amp;amp; Bombardier Mania: Unleash the power of Heavy and Bombardier troops for a fierce showdown!
+
+4 - 6: Crystal Shield: Protect your troops with Crystal Shield.
+
+8 - 10: Tank Mania: Combine firepower and resilience for an unstoppable armored force.
+
+15 - 17: Laser Ranger &amp;amp; Heavy Mania: Engage in high-tech battles with the Laser Ranger alongside your Heavies.
+
+18 - 20: Speed Serum: Boost your troops’ speed and unleash chaos on the battlefield!
+
+18 - 24: Rainmaker: Experience the power of the Rainmaker, a unique mix of Tank and Mortar with enhanced range!&lt;/p&gt;&lt;p&gt;22 - 24 Proto Crab: Prepare for a special edition of Mega Crab featuring the Rain Maker as an optional Troop!
+
+25 - 27: Explosive Drones: Deploy Explosive Drones for devastating attacks on enemy defenses. 
+
+25 - Dec 22: Warships Season 68:  Set sail into a new season filled with fresh challenges and rewards!
+
+28 - 30: Rifleman &amp;amp; Grenadier Mania:  Bring the heat with a powerful combination of Riflemen and Grenadiers!
+
+As we gear up for these exciting events, don’t forget to strategize and prepare your troops. November in Boom Beach is an unforgettable experience filled with battles, rewards, and plenty of action! &lt;/p&gt;</content>
+    <link href="https://boombeach.inbox.supercell.com/#/en/news/1Z8znZwM4I4dcGDtYTXJDw"/>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/5LLTj9iE4rxN6U3KrhA22D/c1310cdc6ae0a487e68ae6b1b60ce7bc/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
+    <category term="Blog"/>
+    <published>2024-11-01T00:00:00+00:00</published>
   </entry>
 </feed>
