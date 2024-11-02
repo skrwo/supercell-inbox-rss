@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-02T13:32:21.815463+00:00</updated>
+  <updated>2024-11-02T14:32:50.285010+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -23,5 +23,14 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5UcIXUzuGXN5fW8DB18wtz/0b751cfb863d4b1e4d8a00b87cbff862/Thumb_ingame_final_2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-09-18T11:32:59+00:00</published>
+  </entry>
+  <entry>
+    <id>YtOkOUVEmXHdxf8G4Ay30</id>
+    <title>Reveja o Dia 1 da Final Mundial 2024</title>
+    <updated>2024-11-02T14:25:27.045000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6DUzQmS7K8oy5MalbJWUng/6cf66dac2d813a2d0a14817b348765e7/PT-BSWF24_Day_1_Thumbnail__1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=SbOj8WHPnXA"/>
+    <category term="Esports"/>
+    <published>2024-11-02T14:25:27+00:00</published>
   </entry>
 </feed>

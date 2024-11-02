@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-02T13:32:20.068589+00:00</updated>
+  <updated>2024-11-02T14:32:50.891465+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -105,5 +105,14 @@
     <link href="https://x.com/Brawl_esports/status/1851278944781091069/photo/1"/>
     <category term="Esports"/>
     <published>2024-10-30T13:37:44+00:00</published>
+  </entry>
+  <entry>
+    <id>1z4ndLCV1fV6HfNRz0XiIU</id>
+    <title>¡Revive Las Finales Mundiales - Día! </title>
+    <updated>2024-11-02T14:27:47.465000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2allajUGNhjQoLdXNQ8VoJ/9d109016b4fe7f7f5f04a9ac7444a150/ES_BSWF24_Day_1_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2290897597?t=0h2m10s"/>
+    <category term="Esports"/>
+    <published>2024-11-02T14:27:47+00:00</published>
   </entry>
 </feed>
