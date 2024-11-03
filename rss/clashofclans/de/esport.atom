@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-esportNewsEntries-de</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-03T16:38:43.817868+00:00</updated>
+  <updated>2024-11-03T17:31:22.935001+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -221,5 +221,14 @@ Dein Clash of Clans-Team&lt;/p&gt;&lt;p&gt;&lt;b&gt;Apple ist kein Sponsor und n
     <link href="https://www.youtube.com/watch?v=TO16CxdYoj4"/>
     <category term="E-Sports"/>
     <published>2024-11-02T11:17:23+00:00</published>
+  </entry>
+  <entry>
+    <id>4dbNvvh00AcfU6KydbQoXB</id>
+    <title>Wiederholung von Tag 3 des WM-Finales!</title>
+    <updated>2024-11-03T17:09:17.207000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1OB6Y5qyukkb4kwWN4jELz/7f2e30e58c0e49e5fe629dddc7495f68/DE_COC_-_WCF_Thumb_Day_3_16x9_UPDATED.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=chVFcahn4QA"/>
+    <category term="E-Sports"/>
+    <published>2024-11-03T11:28:41+00:00</published>
   </entry>
 </feed>
