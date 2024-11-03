@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-newsEntries-pt</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-03T09:31:33.225384+00:00</updated>
+  <updated>2024-11-03T10:38:42.440199+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>SXfMU0Cs50uL6J8u7Idx7</id>
-    <title>Clash dos Dragões</title>
-    <updated>2024-08-05T08:00:03.688000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/pt/news/SXfMU0Cs50uL6J8u7Idx7"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4879EsZhaskaQkX2LciEyd/58e20bae9ed9fe292a3e2a4a639815ef/PT_Clash_of_Dragons-InboxThumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/zFDVwbgDtGQ"/>
-    <category term="Novidades"/>
-    <published>2024-08-05T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>5XYtZr3aGNhjlofAMRYQIv</id>
     <title>Clash dos Dragões: Desafio Design de Vila</title>
