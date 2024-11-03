@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-11-03T08:34:58.679691+00:00</updated>
+  <updated>2024-11-03T09:31:37.187186+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>R9x4nQRrTWb2MuoeOPRyc</id>
-    <title>Semana 32 de eventos do Hay Day</title>
-    <updated>2024-08-05T08:32:30.185000+00:00</updated>
-    <content>&lt;h1&gt;Semana 32 de eventos do Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Prepare-se, pois mais eventos estão chegando! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: roda da sorte com materiais de expansão.&lt;/p&gt;&lt;p&gt;Terça-feira: vales com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Quarta-feira: aceleradores com os pedidos do barco.&lt;/p&gt;&lt;p&gt;Quinta-feira: dobro de moedas com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;Sexta-feira: aceleração da produção em 30% do tanque de lagostas e balcão de iscas e dobro de pontos no passe rural.&lt;/p&gt;&lt;p&gt;Sábado: materiais de expansão com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;Domingo: três tipos aleatórios de ração serão produzidos com o dobro de velocidade.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/R9x4nQRrTWb2MuoeOPRyc"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notícias"/>
-    <published>2024-08-05T08:30:54+00:00</published>
-  </entry>
   <entry>
     <id>4C5EIHUJtvqIxTilup474C</id>
     <title>Semana 33 de eventos do Hay Day</title>
@@ -276,5 +265,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-11-01T07:51:17+00:00</published>
+  </entry>
+  <entry>
+    <id>62VCdHtsa3Vhma8xcBwrUA</id>
+    <title>Semana 45 de Hay Day</title>
+    <updated>2024-11-03T09:02:27.715000+00:00</updated>
+    <content>&lt;h1&gt;Semana 45 de eventos do Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com peças de quebra-cabeça.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: materiais de expansão com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: vales com os pedidos do barco + evento global do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: venda de itens usados com os visitantes da fazenda + evento global do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 20% da área de pesca + dobro de pontos do passe rural + evento global do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: dobro de moedas com os visitantes da cidade + evento global do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: dobro da velocidade de produção de frutas em três árvores ou arbustos aleatórios + evento global do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: corrida descontraída do coelhinho.&lt;/p&gt;&lt;p&gt;Tenha uma semana fantástica!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/62VCdHtsa3Vhma8xcBwrUA"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-11-03T09:00:03+00:00</published>
   </entry>
 </feed>

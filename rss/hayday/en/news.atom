@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-11-03T08:34:58.093045+00:00</updated>
+  <updated>2024-11-03T09:31:39.032080+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>R9x4nQRrTWb2MuoeOPRyc</id>
-    <title>Hay Day Events Week 32!</title>
-    <updated>2024-08-05T08:32:30.185000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Events Week 32!&lt;/h1&gt;
-&lt;p&gt;Hello farmers! get ready, It&amp;#39;s time for some more Events! All events start at 8 AM UTC. Dive into the specifics of each event by visiting our event board in the game. &lt;/p&gt;&lt;p&gt;Monday: Spin the Wheel (Expansion Materials)&lt;/p&gt;&lt;p&gt;Tuesday: Truck Event (Vouchers)&lt;/p&gt;&lt;p&gt;Wednesday: Boat Event (Boosters)&lt;/p&gt;&lt;p&gt;Thursday: Farm Visitor (2x Coins)&lt;/p&gt;&lt;p&gt;Friday:  Fishing Production Boost Event (Lobster and Lures 30%) + 2x Farm Pass Points&lt;/p&gt;&lt;p&gt;Saturday: Town Visitor Event (Expansion Materials)&lt;/p&gt;&lt;p&gt;Sunday: Animal Feed Event (3 random types of animal feed produced 2x faster)&lt;/p&gt;&lt;p&gt;Have a great week!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/en/news/R9x4nQRrTWb2MuoeOPRyc"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="News"/>
-    <published>2024-08-05T08:30:54+00:00</published>
-  </entry>
   <entry>
     <id>4C5EIHUJtvqIxTilup474C</id>
     <title>Hay Day Events Week 33!</title>
@@ -292,5 +281,16 @@ The community event will last for &lt;b&gt;ten days&lt;/b&gt;, and it starts now
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-11-01T07:51:17+00:00</published>
+  </entry>
+  <entry>
+    <id>62VCdHtsa3Vhma8xcBwrUA</id>
+    <title>Hay Day Week 45</title>
+    <updated>2024-11-03T09:02:27.715000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Events Week 45&lt;/h1&gt;
+&lt;p&gt;Hi there farmers! Get ready for another week of events! All events &amp;amp; derbies start at 8 AM UTC. Jump into the specifics of each event by visiting our event board in the game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Monday&lt;/b&gt;: Spin the Wheel (Puzzle Pieces)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tuesday&lt;/b&gt;: Truck Event (Expansion Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wednesday&lt;/b&gt;: Boat Event (Vouchers) + Global Truck Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thursday&lt;/b&gt;: Farm Visitor Event (Yard Sale) + Global Truck Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Friday&lt;/b&gt;: Fishing Production Boost Event (All 20% Boost) + 2x Farm Pass Points + Global Truck Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Saturday&lt;/b&gt;: Town Visitor Event (x2 Coins) + Global Truck Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunday&lt;/b&gt;: Trees/Bushes Time Percent (3 random types of bushes or trees will produce fruits at 2x speed) + Global Truck Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: Chill Bunny&lt;/p&gt;&lt;p&gt;Wishing you a fantastic week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/62VCdHtsa3Vhma8xcBwrUA"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Events"/>
+    <published>2024-11-03T09:00:03+00:00</published>
   </entry>
 </feed>
