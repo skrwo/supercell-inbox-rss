@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-esportNewsEntries-pt</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-03T12:51:49.692103+00:00</updated>
+  <updated>2024-11-03T13:32:41.860886+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -260,5 +260,14 @@ Indonésio: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%25
     <link href="https://www.youtube.com/watch?v=BDmAqm9gGBs"/>
     <category term="E-sports"/>
     <published>2024-11-02T11:17:23+00:00</published>
+  </entry>
+  <entry>
+    <id>4dbNvvh00AcfU6KydbQoXB</id>
+    <title>Reveja o 3º Dia das Finais do Campeonato Mundial!</title>
+    <updated>2024-11-03T12:57:46.178000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7Abp409u0CWHNEgJKbvyxJ/f05bb31c16a56fa66067f0d48a88dad0/PT-COC_-_WCF_Thumb_Day_3_16x9_UPDATED.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=qm7IxvgOewA"/>
+    <category term="E-sports"/>
+    <published>2024-11-03T11:28:41+00:00</published>
   </entry>
 </feed>

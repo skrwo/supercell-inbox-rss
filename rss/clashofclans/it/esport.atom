@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-03T12:51:54.610652+00:00</updated>
+  <updated>2024-11-03T13:32:40.210681+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -41,24 +41,6 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/B8ry5VAXksTWmX0HpLcTg0vUiUWbZju7BvPsucpNHKU/9576f9d7660314fd48a5d7665387ee97/1670582992_1671455666.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2023-01-23T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>1moPRXU72HjzR91S9Svg6c</id>
-    <title>Rivedi la SPS Cup 4 - Giorno 1!</title>
-    <updated>2024-08-10T08:39:33.626000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5iZ8bgrlnBeFOvdHTv8pKo/b569b39763649cfc5d33dc345697669e/it_SPS_Cup4_D1_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.twitch.tv/videos/2214938502?t=00h04m51s"/>
-    <category term="Esports"/>
-    <published>2024-08-05T12:59:26+00:00</published>
-  </entry>
-  <entry>
-    <id>11B05zjiITWBdMkxVSUmdl</id>
-    <title>Rivedi la SPS Cup 4 - Giorno 2!</title>
-    <updated>2024-08-10T08:41:44.171000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6sVGpSV3hZXuyERo7pSbuV/d5c08662b22fe25c54db20ba6f57464e/it_SPS_Cup4_D2_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.twitch.tv/videos/2215816337?t=00h05m56s"/>
-    <category term="Esports"/>
-    <published>2024-08-05T13:01:40+00:00</published>
   </entry>
   <entry>
     <id>5OfLIomMOWLUCPY9iBca7y</id>
@@ -344,7 +326,7 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
   <entry>
     <id>4dbNvvh00AcfU6KydbQoXB</id>
     <title>Rivedi il giorno 3 delle finali del Torneo mondiale!</title>
-    <updated>2024-11-03T12:46:36.051000+00:00</updated>
+    <updated>2024-11-03T12:57:46.178000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2AKlwQPD4RfrtgfsVLyIRw/89ea4e955af2f20778c0997d44d5d5cc/IT_DAY3_COC---WCF-Thumb-Day-3-16x9-UPDATED.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/live/VIFwSNqanI0?si=FjvzDduRMcXZ5nIq&amp;t=1036"/>
     <category term="Esports"/>
