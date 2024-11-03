@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-03T18:39:05.806486+00:00</updated>
+  <updated>2024-11-03T19:29:03.344284+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -150,5 +150,14 @@
     <link href="https://youtu.be/buVzGa_RqDY"/>
     <category term="Esports"/>
     <published>2024-11-03T08:05:32+00:00</published>
+  </entry>
+  <entry>
+    <id>38FUKI5A9oeoe3FVaxbGBE</id>
+    <title>World Finals Highlights - Day 2</title>
+    <updated>2024-11-03T19:17:49.198000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/8cegP6V2LVL6hyFhCEtid/60c3bf755bf1ffb8553e664f517a9939/Day_2_Highlights_Thumbnail_4.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/KAxJd13rfGA"/>
+    <category term="Esports"/>
+    <published>2024-11-03T19:17:49+00:00</published>
   </entry>
 </feed>
