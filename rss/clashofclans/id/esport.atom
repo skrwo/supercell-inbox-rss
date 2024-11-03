@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-esportNewsEntries-id</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-02T23:31:58.654350+00:00</updated>
+  <updated>2024-11-03T02:07:47.125776+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -247,5 +247,14 @@ Terima kasih untuk musim 2023 yang luar biasa dan Salam Clash!&#13;
     <link href="https://www.youtube.com/watch?v=Quf94jcI2TU"/>
     <category term="Esports"/>
     <published>2024-11-01T11:30:29+00:00</published>
+  </entry>
+  <entry>
+    <id>1MLoEp3ZxtFc0kroWLmlEL</id>
+    <title>Tonton Ulang Hari 2 Final Kejuaraan Dunia!</title>
+    <updated>2024-11-03T01:00:43.730000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/16DO2rp0OYQgRJ6zZM9nsq/7c9f87ba1e3e847d7473aa064067adaa/ID-COC_-_WCF_Thumb_Day_2_16x9.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=EFdrJdK0z8w"/>
+    <category term="Esports"/>
+    <published>2024-11-02T11:17:23+00:00</published>
   </entry>
 </feed>
