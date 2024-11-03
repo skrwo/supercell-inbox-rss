@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-03T19:29:01.441061+00:00</updated>
+  <updated>2024-11-03T20:31:02.712426+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -32,5 +32,32 @@
     <link href="https://x.com/RivalEsportsHQ"/>
     <category term="eスポーツ"/>
     <published>2024-10-10T09:04:07+00:00</published>
+  </entry>
+  <entry>
+    <id>120B8KT69K9ctiH8emZMoI</id>
+    <title>世界一決定戦 2024 Day1</title>
+    <updated>2024-11-03T20:18:14.996000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W9aeDVo0tewyrr5EPJjXI/a5206ea5a230cdd1d187d12f4140cc17/BSWF24_Day_1_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=bbvK14aFPbE"/>
+    <category term="eスポーツ"/>
+    <published>2024-11-03T20:12:51+00:00</published>
+  </entry>
+  <entry>
+    <id>1EMYqd3oBoBcIqsaKsbokU</id>
+    <title>世界一決定戦 2024 Day2</title>
+    <updated>2024-11-03T20:18:50.194000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7hDwxdR0saaaRpYQigvJEt/28e5cb86d3debafdccbf9475538c898b/BSWF24_Day_2_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=E04TGnOxp7Y"/>
+    <category term="eスポーツ"/>
+    <published>2024-11-03T20:18:50+00:00</published>
+  </entry>
+  <entry>
+    <id>69Ddwa8OQ8ya7dwfGfeEz6</id>
+    <title>世界一決定戦 2024 Day3</title>
+    <updated>2024-11-03T20:21:15.386000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6IhjYzzs2bbkl4826C7kiW/ebece5f076b17aabbeb03e6327ae0708/BSWF24_Day_3_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=_nLpSvuHsLE"/>
+    <category term="eスポーツ"/>
+    <published>2024-11-03T20:21:15+00:00</published>
   </entry>
 </feed>
