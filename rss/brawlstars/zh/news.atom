@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-04T15:35:53.583157+00:00</updated>
+  <updated>2024-11-04T16:40:40.722390+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -414,5 +414,15 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1OyN00be2dTFEqQZInvoiP/79a2a6b777ca34b31a2725d8db9aa205/1029_Update_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="遊戲更新"/>
     <published>2024-10-29T05:24:16+00:00</published>
+  </entry>
+  <entry>
+    <id>6tHoSrL6moyYoEF1rIQQV</id>
+    <title>【691】新威能介紹：比特大招變成潔西炮台了！</title>
+    <updated>2024-11-04T16:32:17.545000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6tHoSrL6moyYoEF1rIQQV"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6tbI4duJJLRu2wNGVaYAZz/783739844bd71ffba5754f9c693516c8/tw_20241104_691_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/nHIq1vIztnU"/>
+    <category term="最新情報"/>
+    <published>2024-11-04T14:00:00+00:00</published>
   </entry>
 </feed>
