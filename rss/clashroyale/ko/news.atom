@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-04T08:39:27.244822+00:00</updated>
+  <updated>2024-11-04T09:35:21.451052+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,66 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>7tsOWldvk9OFywINNn3Kon</id>
-    <title>8월 밸런스 조정!</title>
-    <updated>2024-08-07T10:16:39.280000+00:00</updated>
-    <content>&lt;h1&gt;화살&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;크라운 타워 피해량&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
-111 → 93 (-16%)&lt;/p&gt;
-&lt;p&gt;화살을 잘 사용하면 적 유닛을 제거할 수 있을 뿐만 아니라, 적의 크라운 타워에도 상당한 피해를 입힐 수 있었습니다. 화살이 매치에 미치는 영향력을 줄이기 위해 크라운 타워에 주는 피해량을 조금 감소시켰습니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;고블린 드릴 진화&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;두 번째 잠복 시 생성되는 추가 고블린 하나 제거&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;고블린 드릴 진화 순환 덱은 크라운 타워에 거의 확정적으로 피해를 줄 수 있기에 인기가 상당했습니다. 다른 카드들도 피해를 입히는 데 사용될 수 있도록 고블린 드릴 진화에서 생성되는 추가 고블린 중 하나를 제거했습니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;마법사&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ HP:&lt;/b&gt;
-720 → 754 (+5%)
-&lt;b&gt;🛡️ 실드 HP (진화 시):&lt;/b&gt; 296 → 190 (-36%)&lt;/p&gt;
-&lt;p&gt;마법사 진화는 방어력이 상당했습니다. 그의 실드를 뚫으려면 비용이 높은 마법을 사용해야 했거든요. 앞으로는 감전 마법과 같은 저비용의 마법으로도 실드를 파괴할 수 있습니다. 대신, 독 마법으로부터 살아남을 수 있도록 마법사의 기본 HP를 증가시켰습니다. 특히, 마법사 진화가 감전 마법과 독 마법의 조합으로 인해 무력화되는 것을 방지할 수 있습니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;대포 카트&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ 실드가 있을 때의 공격 속도:&lt;/b&gt;
-1초 → 0.9초 (-10%)&lt;/p&gt;
-&lt;p&gt;한동안 대포 카트의 인기가 시들했습니다. 실드가 파괴되기 전의 공격 속도를 개선하여 실드 파괴 후와의 밸런스를 맞추고 카드의 활용도를 높이고자 합니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;일렉트로 마법사&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;배치 피해 반경&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
-2.5 → 3 (+20%)&lt;/p&gt;
-&lt;p&gt;일렉트로 마법사의 배치 피해 반경을 얼음 마법사와 동일하게 조정하여, 배치 시 효과를 더욱 강력하고 유용하게 조정하고자 합니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;고블린 머신&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🚀 로켓 공격 속도:&lt;/b&gt; 4초 → 3.5초 (-13%)&lt;/p&gt;
-&lt;p&gt;고블린 머신의 HP가 너프된 이후 로켓 공격의 이점을 살리기가 너무 어려워졌습니다. 고블린 머신의 특성을 유지하기 위해 로켓의 공격 속도를 더 빠르게 조정하였습니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;사냥꾼&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ HP:&lt;/b&gt;
-838 → 884 (+6%)&lt;/p&gt;
-&lt;p&gt;사냥꾼은 근접 유닛에 너무 약했습니다. 근거리 전투에서 제 역할을 해내도록 HP를 상향 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;얼음 마법사&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;광역 피해 반경:&lt;/b&gt;
-1 → 1.5 (+50%)&lt;/p&gt;
-&lt;p&gt;광역 공격이야말로 얼음 마법사의 강점입니다. 특히 토네이도와 함께면 효과가 엄청나죠. 이러한 강점을 잘 살릴 수 있도록 광역 피해 반경을 증가시켰습니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;공허&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;피해량 (1명의 공격 대상):&lt;/b&gt;
-544 → 472 (-13%)&lt;/p&gt;&lt;p&gt;💥 &lt;b&gt;피해량&lt;/b&gt;
-&lt;b&gt;(5명 이상의 공격 대상):&lt;/b&gt;
-48 → 76 (+58%)&lt;/p&gt;
-&lt;p&gt;공허는 비용에 비해 효과가 너무 강했습니다. 특히 마법 아처, 일렉트로 드래곤, 아처 퀸과 같은 4~5 엘릭서의 원거리 유닛을 상대로 압도적이었죠. 고비용의 원거리 유닛에 대한 효과를 낮추고, 무리 유닛에게는 조금 더 잘 대응하도록 피해량을 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;해골 드래곤&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ HP:&lt;/b&gt;
-563 → 560 (&amp;gt;1%)&lt;/p&gt;
-&lt;p&gt;마법사와 해골 드래곤 간의 상호작용 문제로 인해, 11레벨 마법사가 해골 드래곤을 처치하는 데 필요한 공격 횟수가 15레벨일 때에 비해 1회 더 많았습니다. 앞으로는 어떤 레벨에서든 마법사가 두 번의 공격으로 해골 드래곤을 처치할 수 있습니다.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/7tsOWldvk9OFywINNn3Kon"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="소식"/>
-    <published>2024-08-06T07:13:51+00:00</published>
   </entry>
   <entry>
     <id>7MgR6fGevnuRc5QpPyjcnu</id>

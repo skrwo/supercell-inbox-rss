@@ -7,66 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 04 Nov 2024 08:39:26 +0000</lastBuildDate>
-    <item>
-      <title>Balanceamento de agosto</title>
-      <link>https://clashroyale.inbox.supercell.com/#/pt/news/7tsOWldvk9OFywINNn3Kon</link>
-      <description>&lt;h1&gt;Flechas&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Dano à torre da coroa&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
-111 → 93 (-16%)&lt;/p&gt;
-&lt;p&gt;O bom uso das Flechas permitia eliminar o alvo e causar bastante dano às torres. Para reduzir a versatilidade da carta, diminuímos um pouco o dano à torre da coroa.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Evolução da Escavadeira de Goblins&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;Geração de Goblin extra removida da segunda escavação&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Os decks de Escavadeiras evoluídas estão muito populares graças ao dano quase garantido às torres da coroa. Por isso, removemos um dos Goblins extras gerados pela evolução da Escavadeira para que os decks usem outras formas de causar dano.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Mago&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Pontos de vida:&lt;/b&gt;
-720 → 754 (+5%)
-&lt;b&gt;🛡️ Pontos de vida do escudo (evolução):&lt;/b&gt; 296 → 190 (-36%)&lt;/p&gt;
-&lt;p&gt;A evolução do Mago era forte demais na defesa, pois apenas feitiços de alto valor conseguiam impactar seu escudo. Agora, o escudo também será destruído por feitiços menores, como o Zap. O Mago recebeu um aumento nos pontos de vida para sobreviver ao Veneno, especialmente para que combinações como Zap e Veneno não derrotem a evolução do Mago.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Carrinho de Canhão&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Velocidade de ataque do Canhão com escudo:&lt;/b&gt;
-1s → 0,9s (-10%)&lt;/p&gt;
-&lt;p&gt;Faz muito tempo que o Carrinho de Canhão tem sido pouco utilizado. Por isso, aumentamos a velocidade de ataque da sua versão inicial para nivelar com a versão sem escudo e fazer com que a carta seja mais viável.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Mago Elétrico&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Raio do dano de mobilização&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
-2,5 → 3 (+20%)&lt;/p&gt;
-&lt;p&gt;A melhoria nivela os raios de mobilização do Mago Elétrico e do Mago de Gelo, além de aumentar o poder e a utilidade da habilidade de implementação do Mago Elétrico.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Máquina Goblin&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🚀 Velocidade de ataque do Foguete:&lt;/b&gt; 4s → 3,5s (-13%)&lt;/p&gt;
-&lt;p&gt;Desde que reduzimos os pontos de vida da Máquina Goblin, seus Foguetes não têm sido muito aproveitados. Por isso, aumentamos a velocidade de ataque do Foguete para melhorar a consistência da Máquina Goblin.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Caçador&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Pontos de vida:&lt;/b&gt;
-838 → 884 (+6%)&lt;/p&gt;
-&lt;p&gt;O Caçador é muito vulnerável a tropas de combate corpo a corpo e precisa de mais saúde para cumprir seu papel como tropa de curto alcance.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Mago de Gelo&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Raio do dano em área:&lt;/b&gt;
-1 → 1,5 (+50%)&lt;/p&gt;
-&lt;p&gt;O Mago de Gelo depende muito do seu dano em área, sobretudo por ser quase sempre combinado com o Tornado. Aumentamos o dano em área para que a carta fique mais consistente.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Vácuo&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Dano (1 alvo):&lt;/b&gt;
-544 → 472 (-13%)&lt;/p&gt;&lt;p&gt;💥 &lt;b&gt;Dano&lt;/b&gt;
-&lt;b&gt;(5 ou mais alvos):&lt;/b&gt;
-48 → 76 (+58%)&lt;/p&gt;
-&lt;p&gt;O Vácuo é muito eficaz para vencer uma partida, especialmente contra unidades de longo alcance que custam 4 ou 5 unidades de elixir, como o Arqueiro Mágico, o Dragão Elétrico ou a Rainha Arqueira. Por isso, ajustamos o seu dano para que ele fique menos eficaz no combate a tropas de longo alcance de alto custo e um pouco melhor contra hordas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Dragões Esqueleto&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Pontos de vida:&lt;/b&gt;
-563 → 560 (&amp;gt;1%)&lt;/p&gt;
-&lt;p&gt;Havia uma inconsistência nas interações entre Magos e Dragões Esqueleto, em que o Mago precisava de mais um golpe para derrubar Dragões Esqueleto no nível 11 em comparação ao nível 15. Agora, o Mago sempre precisará de dois golpes para derrotar os Dragões Esqueleto.&lt;/p&gt;</description>
-      <guid isPermaLink="false">7tsOWldvk9OFywINNn3Kon</guid>
-      <category>Notícias</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 07:13:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Nov 2024 09:35:23 +0000</lastBuildDate>
     <item>
       <title>EVENTO DE EVOLUÇÃO GRÁTIS</title>
       <link>https://clashroyale.inbox.supercell.com/#/pt/news/6mVD6RpCNnN0V0514iWXab</link>

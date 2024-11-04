@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-04T08:39:26.253987+00:00</updated>
+  <updated>2024-11-04T09:35:23.246095+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -21,69 +21,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/71QxjdBVp7EkWaCVNTKEID/8c3c63fa8237bdf1309c56c6ca14536d/4W_1128_Roadmap_2024_1080x1080_01.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2023-12-01T08:24:15+00:00</published>
-  </entry>
-  <entry>
-    <id>7tsOWldvk9OFywINNn3Kon</id>
-    <title>8月のバランス調整！</title>
-    <updated>2024-08-07T10:16:39.280000+00:00</updated>
-    <content>&lt;h1&gt;矢の雨&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥&lt;b&gt;タワーダメージ&lt;/b&gt; &lt;b&gt;：&lt;/b&gt;
-111→93（-16％）&lt;/p&gt;
-&lt;p&gt;ユニットに最大限のダメージを与えながらタワーも削ることができる矢の雨は、少し万能すぎるカードでした。今回はタワーダメージを減少させて、カードが勝敗に与える影響を少なくします。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;限界突破ゴブリンドリル&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;2回目の潜伏時に出現するゴブリンを1体削除&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;限界突破ゴブリンドリルの高回転デッキは、敵のタワーにほぼ確実にダメージを与えられるため、使用率の高いデッキとなっています。潜伏時に出現するゴブリンを1体削除することで、他のダメージ源の比重を高めることができると考えています。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ウィザード&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント：&lt;/b&gt;
-720→754（+5％）
-
-&lt;b&gt;🛡️シールドのヒットポイント（限界突破）：&lt;/b&gt;
-296→190（-36％）&lt;/p&gt;
-&lt;p&gt;限界突破ウィザードのシールドは非常に高い防御力を誇っており、処理するにはコストの高い呪文を使用する必要がありました。今後はザップのような低コストの呪文でも、シールドを破壊できます。その代わり、ザップとポイズンのコンボなどでシールドもろとも簡単に撃破されることのないように、限界突破ウィザード自身のヒットポイントは増加しています。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;60式 ムート&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️車輪破壊前の攻撃速度：&lt;/b&gt;
-1秒→0.9秒（-10％）&lt;/p&gt;
-&lt;p&gt;60式 ムートの使用率は長い間低迷していましたが、今回のアプデで車輪破壊前の攻撃速度が車輪破壊後の攻撃速度まで上昇し、カードの実用性がアップしました。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;エレクトロウィザード&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢&lt;b&gt;召喚ダメージの範囲&lt;/b&gt; &lt;b&gt;：&lt;/b&gt;
-2.5→3（+20％）&lt;/p&gt;
-&lt;p&gt;エレクトロウィザードの召喚ダメージの範囲はアイスウィザードと同じになるため、使いどころが増えてより強力なカードになるでしょう。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ゴブリンマシン&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🚀ロケットの攻撃速度：&lt;/b&gt;
-4秒→3.5秒（-13％）&lt;/p&gt;
-&lt;p&gt;ゴブリンマシンはヒットポイントの弱体化以来、ロケットを十分に活かしきれていませんでした。今回の変更はロケットの攻撃速度を上昇させて、ダメージの期待値を上げることが狙いです。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ハンター&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント：&lt;/b&gt;
-838→884（+6％）&lt;/p&gt;
-&lt;p&gt;ハンターは近接型ユニットにあまりにも弱いため、接近戦での活躍の場を広げるためにヒットポイントを増加させました。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;アイスウィザード&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢&lt;b&gt;範囲攻撃の当たり判定：&lt;/b&gt;
-1→1.5（+50％）&lt;/p&gt;
-&lt;p&gt;アイスウィザードの真骨頂はその範囲ダメージにあります。特に、トルネードと組み合わせると効果てきめんです。本調整で範囲攻撃の当たり判定が拡大され、さらに使い勝手が良くなるでしょう。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;ボイド&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥&lt;b&gt;ダメージ（1体）：&lt;/b&gt;
-544→472（-13％）&lt;/p&gt;&lt;p&gt;💥&lt;b&gt;ダメージ&lt;/b&gt;
-&lt;b&gt;（5体以上）：&lt;/b&gt;
-48→76（+58％）&lt;/p&gt;
-&lt;p&gt;ボイドはそのコストの割に、マジックアーチャーやライトニングドラゴン、アーチャークイーンなど、4～5コストの遠距離型ユニットに対してめっぽう強いカードでした。そのため、敵の数ごとに与えるダメージが調整され、高コストの遠距離ユニットが処理しにくくなった反面、集団ユニットには以前よりも大きな効果を発揮できるようになりました。&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;スケルトンドラゴン&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ヒットポイント：&lt;/b&gt;
-563→560（-1％以下）&lt;/p&gt;
-&lt;p&gt;ウィザードがスケルトンドラゴンを倒すのにかかる攻撃回数が、レベル15同士の対面時に比べて、レベル11同士の方が1回多くなっていました。この調整により、レベルが同じである限り、ウィザードはスケルトンドラゴンを必ず2回の攻撃で撃破できるようになります。&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/7tsOWldvk9OFywINNn3Kon"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="ニュース"/>
-    <published>2024-08-06T07:13:51+00:00</published>
   </entry>
   <entry>
     <id>7MgR6fGevnuRc5QpPyjcnu</id>

@@ -7,66 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 04 Nov 2024 08:39:26 +0000</lastBuildDate>
-    <item>
-      <title>¡Ajustes de equilibrio de agosto!</title>
-      <link>https://clashroyale.inbox.supercell.com/#/es/news/7tsOWldvk9OFywINNn3Kon</link>
-      <description>&lt;h1&gt;Flechas&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Daño a las torres de coronas&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
-Se ha reducido en un 16 % (de 111 a 93).&lt;/p&gt;
-&lt;p&gt;Usar flechas para golpear torres rivales es muy sencillo e inflige demasiado daño, así que hemos reducido su daño a las torres de coronas para que su uso tenga un menor impacto en el resultado de las partidas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Evolución de la excavadora de duendes&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;Hemos eliminado el duende extra que aparecía tras la segunda excavación.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Los mazos que incluyen la evolución de la excavadora han sido muy populares gracias al daño casi garantizado que infligen a las torres de coronas. Hemos eliminado uno de los duendes extras que generaba la evolución de la excavadora para fomentar que los mazos dependan más de otras fuentes de daño.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Mago&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Puntos de vida:&lt;/b&gt;
-Se han aumentado en un 5 % (de 720 a 754).
-&lt;b&gt;🛡️ PV del escudo (evolución):&lt;/b&gt; Se han reducido en un 36 % (de 296 a 190).&lt;/p&gt;
-&lt;p&gt;La defensa de la evolución del mago era demasiado alta, pues solo los hechizos más costosos afectaban a su escudo. Ahora se puede destruir su escudo con hechizos pequeños como la descarga. El mago ha recibido un aumento de sus PV base para que sobreviva al veneno, de modo que las combinaciones como la descarga y el veneno no servirán para neutralizar a su evolución.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Cañón con ruedas&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Velocidad de ataque del cañón con escudo:&lt;/b&gt;
-Se ha acelerado en un 10 % (de 1 s a 0,9 s).&lt;/p&gt;
-&lt;p&gt;El cañón con ruedas ha sido una carta poco usada durante mucho tiempo, así que hemos aumentado su velocidad de ataque para que la versión inicial del cañón sea más similar a su versión sin escudo y que esta carta se utilice más a menudo.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Mago eléctrico&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Radio del daño de despliegue&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
-Se ha aumentado en un 20 % (de 2,5 a 3).&lt;/p&gt;
-&lt;p&gt;Con esta mejora, el mago eléctrico tendrá un radio de despliegue parecido al del mago de hielo, con lo que esperamos que aumente el poder y la facilidad de uso de la habilidad de despliegue del mago eléctrico.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Máquina duende&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🚀 Velocidad de ataque del cohete:&lt;/b&gt; Se ha acelerado en un 13 % (de 4 s a 3,5 s).&lt;/p&gt;
-&lt;p&gt;Desde que redujimos los puntos de vida de la máquina duende, ha sido demasiado difícil darle buen uso a su ataque del cohete. Hemos aumentado la velocidad de ataque del cohete para que la máquina duende sea más útil.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Cazador&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Puntos de vida:&lt;/b&gt;
-Se han aumentado en un 6 % (de 838 a 884).&lt;/p&gt;
-&lt;p&gt;El cazador es demasiado vulnerable a las tropas cuerpo a cuerpo, así que hemos aumentado sus puntos de vida para que cumpla mejor con su función como tropa de corto alcance.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Mago de hielo&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Alcance del daño de área:&lt;/b&gt;
-Se ha aumentado en un 50 % (de 1 a 1,5).&lt;/p&gt;
-&lt;p&gt;El mago de hielo depende demasiado de su ataque de área, sobre todo cuando se lo combina con el tornado. Hemos aumentado el alcance de su daño de área para que la carta sea más equilibrada.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Vacío&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Daño (1 objetivo):&lt;/b&gt;
-Se ha reducido en un 13 % (de 544 a 472).&lt;/p&gt;&lt;p&gt;💥 &lt;b&gt;Daño&lt;/b&gt;
-&lt;b&gt;(más de 5 objetivos):&lt;/b&gt;
-Se ha aumentado en un 58 % (de 48 a 76).&lt;/p&gt;
-&lt;p&gt;El vacío supone un uso demasiado eficaz del elixir, especialmente contra las tropas de alcance que cuestan 4 o 5 de elixir como el arquero mágico, el dragón eléctrico o la reina arquera. Hemos equilibrado el daño de alcance del vacío, lo que lo vuelve menos eficaz contra las tropas de alcance de mayor coste y evita que haga el ridículo contra las hordas.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Dragones esqueleto&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Puntos de vida:&lt;/b&gt;
-Se han reducido en un 1 % (de 563 a 560).&lt;/p&gt;
-&lt;p&gt;Había una inconsistencia en las interacciones de los magos contra los dragones esqueleto: el mago necesitaba un golpe más para acabar con un dragón esqueleto de nivel 11 que para acabar con uno de nivel 15. Ahora el mago siempre derrotará a los dragones esqueleto en dos golpes.&lt;/p&gt;</description>
-      <guid isPermaLink="false">7tsOWldvk9OFywINNn3Kon</guid>
-      <category>Noticias</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 07:13:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Nov 2024 09:35:22 +0000</lastBuildDate>
     <item>
       <title>Historia de la jaula del forzudo 🥊</title>
       <link>https://youtube.com/shorts/A5iYQSUkBrI?feature=share</link>

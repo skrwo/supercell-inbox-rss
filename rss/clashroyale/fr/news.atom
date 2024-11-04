@@ -2,70 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-04T08:39:26.739750+00:00</updated>
+  <updated>2024-11-04T09:35:22.882138+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>7tsOWldvk9OFywINNn3Kon</id>
-    <title>Changements d'équilibrage d'août !</title>
-    <updated>2024-08-07T10:16:39.280000+00:00</updated>
-    <content>&lt;h1&gt;Flèches&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Dégâts aux tours couronnées&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
-111 → 93 (+16 %)&lt;/p&gt;
-&lt;p&gt;C&amp;#39;est trop facile d&amp;#39;attaquer les tours ennemies avec les flèches sans impunité, c&amp;#39;est pourquoi nous réduisons les dégâts qu&amp;#39;elles infligent aux tours couronnées, afin de réduire leur impact sur l&amp;#39;issue d&amp;#39;un match.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Foreuse gobeline évoluée&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jy2HnNcnu93t7Qb7xBvfT/acd6a9a2e8e188f3ade5248a28b54af3/drillevo_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;Invocation de gobelins lors du 2e enfouissement supprimée&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Les decks qui reposent sur la foreuse gobeline évoluée sont de plus en plus populaires, car elle est presque sûre d&amp;#39;infliger des dégâts aux tours couronnées. Nous supprimons la deuxième invocation de gobelins de la foreuse évoluée pour encourager les decks à utiliser d&amp;#39;autres sources de dégâts.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Sorcier&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2js1HTeNfwMJh6kJdIVh1h/93dc6876d8856cb6b6d9ae8a53837092/wizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie :&lt;/b&gt;
-720 → 754 (+5 %)
-&lt;b&gt;🛡️ PV du bouclier (évolution) :&lt;/b&gt; 296 → 190 (-36 %)&lt;/p&gt;
-&lt;p&gt;Le sorcier évolué était trop puissant en défense, dans la mesure où seuls les sorts à coût élevé pouvaient briser son bouclier efficacement. Il pourra désormais être brisé avec des sorts plus petits, comme l&amp;#39;électrocution. En revanche, le sorcier reçoit un buff de ses PV de base pour survivre au poison, pour éviter que les combos électrocution + poison ne contrent systématiquement le sorcier évolué.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Charrette à canon&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;⏱️ Vitesse de frappe du canon protégé :&lt;/b&gt;
-1 s → 0,9 s (-10 %)&lt;/p&gt;
-&lt;p&gt;La charrette à canon est négligée depuis trop longtemps. Nous augmentons sa vitesse de frappe pour aligner le canon protégé au canon cassé, et pour rendre la carte plus viable.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Électro-sorcier&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1zP2xpg5Qq92WbkTuzE0kJ/cff650a8d7f1fee0bf632c86dea6f00b/electrowizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Rayon des dégâts de déploiement&lt;/b&gt; &lt;b&gt;:&lt;/b&gt;
-2,5 → 3 (+20 %)&lt;/p&gt;
-&lt;p&gt;Ce buff permet d&amp;#39;aligner les rayons de déploiement de l&amp;#39;électro-sorcier et du sorcier de glace, et a pour objectif d&amp;#39;ajouter un peu de puissance et d&amp;#39;utilité à la capacité de déploiement de l&amp;#39;électro-sorcier.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Machine gobeline&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/706xxnj6m1HHFi6JBvTczj/0752db686fc241f8d7fd22c95e580226/goblinmachine_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;🚀 Vitesse de frappe de la roquette :&lt;/b&gt; 4 s → 3,5 s (-13 %)&lt;/p&gt;
-&lt;p&gt;Depuis le nerf des PV de la machine gobeline, son attaque roquette n&amp;#39;est plus vraiment efficace. Nous augmentons la vitesse de frappe de la roquette pour rendre la machine gobeline globalement plus cohérente.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Chasseur&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sYIfhf0ZCHLL02syBMPg4/e4bd4b159ba068480674b0f14ec5a050/hunter_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie :&lt;/b&gt;
-838 → 884 (+6 %)&lt;/p&gt;
-&lt;p&gt;Le chasseur est trop vulnérable face aux troupes de mêlée, et il a besoin de plus de PV pour remplir son rôle de troupe à faible portée.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Sorcier de glace&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/auGn0dvobPGqIY1kEbTjL/adabeea3d9f4762684d2493e8a7b52f4/icewizard_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;🟢 &lt;b&gt;Rayon de l&amp;#39;attaque de zone :&lt;/b&gt;
-1 → 1,5 (+50 %)&lt;/p&gt;
-&lt;p&gt;Le sorcier de glace repose grandement sur son attaque de zone, surtout qu&amp;#39;elle est souvent associée à la tornade. Nous augmentons le rayon de la zone pour rendre la carte plus cohérente.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Néant&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;💥 &lt;b&gt;Dégâts (1 cible) :&lt;/b&gt;
-544 → 472 (+13 %)&lt;/p&gt;&lt;p&gt;💥 &lt;b&gt;Dégâts&lt;/b&gt;
-&lt;b&gt;(5 cibles ou plus) :&lt;/b&gt;
-48 → 76 (+58 %)&lt;/p&gt;
-&lt;p&gt;Le sort de Néant est trop efficace pour remporter un affrontement, surtout contre les unités à distance qui coûtent 4 ou 5 unités d&amp;#39;élixir, comme l&amp;#39;archer magique, l&amp;#39;électro-dragon ou la Reine des archères. Nous rééquilibrons les dégâts du Néant, en rendant le sort moins efficace contre les troupes à distance à coût élevé, et moins gênant contre les groupes.&lt;/p&gt;&lt;hr/&gt;
-&lt;h1&gt;Dragons squelettes&lt;/h1&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/13UEl0K7nGF4YlNkHQxke4/d8a02600d616d1dedfcf461ae18abffe/skeletondragons_balance.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;❤️ Points de vie :&lt;/b&gt;
-563 → 560 (&amp;gt;1 %)&lt;/p&gt;
-&lt;p&gt;Les interactions entre le sorcier et les dragons squelettes étaient incohérentes, dans la mesure où le sorcier avait besoin d&amp;#39;un coup de plus pour détruire les dragons squelettes au niveau 11, par rapport au niveau 15. Désormais, le sorcier a toujours besoin de deux coups pour éliminer les dragons squelettes.&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/7tsOWldvk9OFywINNn3Kon"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dw9hXgPFM31hTczeTzxdm/5714e2d0f515fa131b0224cdec3d4e57/august_balance_thumb.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Actualités"/>
-    <published>2024-08-06T07:13:51+00:00</published>
-  </entry>
   <entry>
     <id>7MgR6fGevnuRc5QpPyjcnu</id>
     <title>Nouveau lore de la 🥊 cage gobeline</title>
