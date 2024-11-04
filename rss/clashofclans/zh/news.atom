@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-04T09:35:24.227456+00:00</updated>
+  <updated>2024-11-04T10:39:46.761544+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -534,5 +534,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5VDQDcg4p07CXYTzPDyLE6/322b55055faf7b124d6afa6e894973cb/tw_20241021_Oct_Clan_Games.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-10-21T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>73e4HgoCgXTxKmryk6FAb0</id>
+    <title>狂歡升級嘉年華岌岌可危！</title>
+    <updated>2024-11-04T10:34:51.302000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/73e4HgoCgXTxKmryk6FAb0"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4cAeWUlaHZBDVjZeH8ymRE/48504470402e579b503221c22c3b83b5/inbox_thumbnail_hammerjam_missinghammer.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=5A7Ns3G1DOc"/>
+    <category term="最新情報"/>
+    <published>2024-11-04T10:34:44+00:00</published>
   </entry>
 </feed>
