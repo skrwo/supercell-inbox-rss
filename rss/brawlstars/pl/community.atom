@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>brawlstars-communityEntries-pl</id>
   <title>Brawlstars - Community</title>
-  <updated>2024-11-04T17:33:05.808636+00:00</updated>
+  <updated>2024-11-04T18:39:31.487509+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Community</subtitle>
   <entry>
     <id>4PzS1pNwO5cUwOj3PTk0LW</id>
     <title>RICO RANK 35 - Najlepsza Strategia !</title>
-    <updated>2024-11-04T17:33:05.808723+00:00</updated>
+    <updated>2024-11-04T18:39:31.487639+00:00</updated>
     <author>
       <name>Veni Gaming</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>6DNmgQNCGmGAUEoXBdeMTF</id>
     <title>Jak wbić  SURGE Rank 35</title>
-    <updated>2024-11-04T17:33:05.808672+00:00</updated>
+    <updated>2024-11-04T18:39:31.487586+00:00</updated>
     <author>
       <name>Veni Gaming</name>
     </author>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7pqnI0wR230U8MzxfPBGFU/f0228564cf6106791edb3b16b488d2a7/guest-content-video-18-150daed2-9a3c-4869-b492-2d533e965595-acph.jpeg-1729934980576?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/3tgZzBOf0m0?si=630C4rBgl0FciiCP"/>
     <published>2024-10-26T09:29:46+00:00</published>
+  </entry>
+  <entry>
+    <id>47saH10YcQP03mYuAvmRNB</id>
+    <title>RANKING + TEST WSZYSTKICH NOWYCH SKINÓW z RODZINKĄ!</title>
+    <updated>2024-11-04T18:39:31.487535+00:00</updated>
+    <author>
+      <name>Da Mian</name>
+    </author>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7I0XxpLV7vcSOwmzS7KFWH/fad617c58491bfc5d1b1df282fc613eb/guest-content-video-75-dc7d2bb8-9054-4579-9870-37d4b94ac36a-lbuo.png-1730741961227?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/4h7n-w_Z0iQ"/>
+    <published>2024-11-04T17:39:28+00:00</published>
   </entry>
 </feed>
