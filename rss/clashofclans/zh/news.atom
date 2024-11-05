@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-05T07:30:53.068213+00:00</updated>
+  <updated>2024-11-05T08:38:33.207704+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>09kVTU8bPZgrQwGNx4kvr</id>
-    <title>【金雄】新挑戰解法！帶你不翻車！</title>
-    <updated>2024-08-07T08:51:55.987000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/09kVTU8bPZgrQwGNx4kvr"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/g0HQqC0fGpdWCP5mKP5tX/84c1bab664e61106328a8801e28f0775/tw_20240807_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=K7UdgcjGffM"/>
-    <category term="最新情報"/>
-    <published>2024-08-07T08:09:00+00:00</published>
-  </entry>
-  <entry>
-    <id>3o6mkWZpcXAXTFZC0oh45C</id>
-    <title>【烏龜】鏡像複製神技挑戰通關路線！</title>
-    <updated>2024-08-07T08:50:33.373000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3o6mkWZpcXAXTFZC0oh45C"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/rgXkZI0osA0hm6dQisEUE/463e15561a4e1615feeb69c8df37d030/tw_20240807_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=rZ33uLJOifo"/>
-    <category term="最新情報"/>
-    <published>2024-08-07T08:10:00+00:00</published>
-  </entry>
   <entry>
     <id>40WmhuVPZdjlAEIVb4pRX</id>
     <title>【烏龜】完整了解機甲超人、掃帚女巫、新裝備與活動內容！</title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-newsEntries-fr</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-05T07:30:46.114899+00:00</updated>
+  <updated>2024-11-05T08:38:03.195573+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -230,7 +230,7 @@ R : Tout à fait.&lt;/p&gt;</content>
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>NOTES DE PATCH : Anges VS Démons</title>
-    <updated>2024-11-05T06:54:53.559000+00:00</updated>
+    <updated>2024-11-05T08:12:26.640000+00:00</updated>
     <content>&lt;h1&gt;Maintenance - 31 octobre&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Corrections :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correction des gadgets et pouvoirs star qui chargeaient les supers.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction du fonctionnement étrange des séries de victoires et du mode Classé.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction du classement général qui montrait des données incorrectes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction des soins apportés par Byron à d&amp;#39;autre entités que des brawlers avec son attaque de base, comme des familiers ou des tourelles. Le gadget Faits avec amour de Pearl avait le même comportement.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La vitesse des projectiles de Mandy a été réduite d&amp;#39;environ 10 %, et est passée de 16 à 15 % avec son pouvoir star Sucre lent.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Il est possible que vous voyiez encore des choses étranges dans les classements !&lt;/p&gt;
 &lt;h1&gt;NOUVEAUX BRAWLERS ✨&lt;/h1&gt;

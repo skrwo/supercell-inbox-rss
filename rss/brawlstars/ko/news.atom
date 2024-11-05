@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-05T07:30:47.110307+00:00</updated>
+  <updated>2024-11-05T08:38:09.390999+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -244,9 +244,9 @@ A : 물론이죠.&lt;/p&gt;</content>
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>패치 노트: 천사 VS 악마</title>
-    <updated>2024-11-05T06:54:53.559000+00:00</updated>
-    <content>&lt;h1&gt;Maintenance - October 31st&lt;/h1&gt;
-&lt;p&gt;오류 수정&lt;b&gt;:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;일부 가젯 및 스타 파워가 특수 공격을 충전할 수 있는 문제 수정  &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;연승 보너스 및 경쟁전 관련 문제 수정 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;바이런의 적정 복용량(일반 공격)이 브롤러가 소환한 펫 및 터렛을 치유할 수 있는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;펄의 사랑의 쿠키(가젯)가 브롤러가 소환한 펫 및 터렛을 치유할 수 있는 문제 수정  &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;맨디의 투사체 속도에 여전히 문제가 있어 한 번 더 조정하기로 했습니다! &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;맨디&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;사탕 뽑기(일반 공격) 투사체 속도 감소&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;시야 확보(스타 파워) 투사체 속도 감소 &amp;#39;700 (16%)&amp;#39; → &amp;#39;600 (15%)&amp;#39;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;현재 순위표에서 발생하고 있는 다양한 오류에 대해 조사하고 있습니다.  &lt;/p&gt;
+    <updated>2024-11-05T08:12:26.640000+00:00</updated>
+    <content>&lt;h1&gt;점검 - 10월 31일&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;버그 수정 사항&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;가젯과 스타 파워가 특수 공격을 충전하던 문제를 수정했습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;연승 기록과 경쟁전에서 보이던 오류를 수정했습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;역대 글로벌 순위표에 부정확한 데이터가 표시되던 문제를 수정했습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;바이런의 일반 공격이 다른 브롤러의 펫과 터렛 등을 회복하는 문제를 수정했습니다. 같은 문제를 보여주던 펄의 가젯 &amp;#39;사랑의 쿠키&amp;#39; 역시 수정되었습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;맨디의 발사체 속도가 현재 속도에서 10% 하향 조정되었습니다. &amp;#39;시야 확보&amp;#39; 스타 파워의 발사체 속도도 16%에서 15%로 감소되었습니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(향후 순위표에서 오류가 발생할 가능성이 있습니다!)&lt;/p&gt;
 &lt;h1&gt;신규 브롤러 ✨&lt;/h1&gt;
 &lt;h3&gt;주주: 신화 - 투척수&lt;/h3&gt;&lt;p&gt;기이한 상점을 운영하는 주주는 &amp;#39;애완&amp;#39; 주술 인형인 그리그리(그레고리로 발음)와 늘 함께 다닙니다. 그녀는 원소를 조종할 수 있는 무시무시한 능력을 지니고 있지만, 동시에 재능 있는 장난감 제작자이기도 합니다. 스타 파크의 수많은 방문객들에게 판매할 인형들을 직접 만들어 내죠.&lt;/p&gt;&lt;p&gt;&lt;b&gt;일반 공격: 원소 에너지&lt;/b&gt;
 현재 서 있는 환경에 따라 공격에 다른 강화 효과를 부여합니다!

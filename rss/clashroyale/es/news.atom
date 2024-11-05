@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-05T07:30:48.063689+00:00</updated>
+  <updated>2024-11-05T08:38:24.977471+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -376,11 +376,29 @@ La segunda descarga ya no inflige daño reducido.&lt;/p&gt;
   <entry>
     <id>3rcIeM2m5X7ZVeGz56vRFf</id>
     <title>Evolución de la mosquetera</title>
-    <updated>2024-11-05T07:09:36.573000+00:00</updated>
+    <updated>2024-11-05T08:12:25.985000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/es/news/3rcIeM2m5X7ZVeGz56vRFf"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5HYy3QHllUpq6flyIucfu9/ad41947472ebefd096216394f7a1fe8f/musketeerevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/oDeRicecJgU?feature=share"/>
     <category term="Lo más destacado"/>
     <published>2024-11-02T16:30:02+00:00</published>
+  </entry>
+  <entry>
+    <id>2qEDuoi4Kb7aqZ5i5LCKkD</id>
+    <title>EVENTOS Y DESAFÍOS DE NOVIEMBRE</title>
+    <updated>2024-11-05T08:17:03.097000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Evolución de la mosquetera de elección (1c1 y 2c2): del 4 al 11 de noviembre.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🤠 La evolución de la mosquetera ha afinado la puntería y ahora es capaz de golpear a objetivos que se encuentren en la otra punta de la arena. ¡Nadie podrá esconderse!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Desafío&lt;/b&gt;: del 8 al 11 de noviembre.
+🏆 &lt;b&gt;Recompensa&lt;/b&gt;: estandarte.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/739kELkwzhoPAJUrKtzmgX/5a50b8b283edec655dc6e30e9af37cb3/65_MusketeerDuel.png?w=1000&amp;h=385&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Invasión de fénix (1c1): del 11 al 18 de noviembre.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🐦‍🔥 Estas valientes aves no dejan de venir. Acaba con ellas o sufrirás su ardiente ira.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Evolución del cañón&lt;/b&gt; &lt;b&gt;(1c1): del 18 al 25 de noviembre.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🚀 La evolución del cañón realiza la entrada a la arena más explosiva de la historia.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Elixir oscuro (1c1 y 2c2): del 25 de noviembre al 2 de diciembre.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;⚫ El elixir oscuro vuelve a inundar la arena. Entra bajo tu propia responsabilidad. Tus tropas obtienen el doble de velocidad, pero reciben el doble de daño.&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Desafío&lt;/b&gt;: del 29 de noviembre al 2 de diciembre.
+🏆 &lt;b&gt;Recompensa&lt;/b&gt;: reacción.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4fidGSvUCwWYECOucjC2IA/a6bfe8549070b78994fda34a75206b02/emotes_barbarian_banjo_dl.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/2qEDuoi4Kb7aqZ5i5LCKkD"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/MluVetwXbkq0Y0QKLNaTr/664976672b0b0bcf3a913b21120d228b/SUP3965_Season_65_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notas de actualización"/>
+    <published>2024-11-04T09:00:03+00:00</published>
   </entry>
 </feed>
