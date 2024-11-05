@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-05T03:37:48.806115+00:00</updated>
+  <updated>2024-11-05T04:37:10.184962+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -230,9 +230,9 @@ A.: Definitiv!&lt;/p&gt;</content>
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>PATCHNOTIZEN: Engel vs. Dämonen</title>
-    <updated>2024-11-05T02:30:11.203000+00:00</updated>
-    <content>&lt;h1&gt;Maintenance - October 31st&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Fixes:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed Gadgets and Star Powers charging Supers;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed weird behavior with Winstreak and Ranked&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed all-time Global Leaderboard showing inaccurate data&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Byron healing other brawlers entities using his basic attack such as Pets and Turrets. The same behavior was happening with Pearl&amp;#39;s Gadget &amp;quot;Made With Love&amp;quot;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mandy&amp;#39;s projectile speed was nerfed around 10% from the current value and &amp;quot;In my sights&amp;quot; Star Power projectile speed: 16% → 15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(We might still see some weird behavior in the Leaderboards!)&lt;/p&gt;
+    <updated>2024-11-05T04:31:44.097000+00:00</updated>
+    <content>&lt;h1&gt;Wartungsarbeiten – 31. Oktober&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Fehlerbehebungen:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, durch den Superskills über Gadgets und Starpowers aufgeladen werden konnten.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, der ungewöhnliche Auswirkungen auf Siegesserien und Ranglistenspiele hatte.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, durch den auf globalen Bestenlisten für absolute Rekorde falsche Daten angezeigt wurden.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, durch den Byron mit seinen Hauptattacken andere Einheiten als Brawler heilen konnte (z. B. Begleiter und Geschütztürme). Derselbe Fehler lag auch bei Pearls Gadget „Mit Liebe gemacht“ vor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mandys Projektilgeschwindigkeit wurde um etwa 10 % verringert. Außerdem wurde die Projektilgeschwindigkeit ihrer Starpower „In Sichtweite“ von 16 % auf 15 % verringert.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(Möglicherweise können auf den Bestenlisten noch weitere Fehler auftreten!)&lt;/p&gt;
 &lt;h1&gt;NEUE BRAWLER ✨&lt;/h1&gt;
 &lt;h3&gt;JUJU: Mythisch – Artillerie&lt;/h3&gt;&lt;p&gt;Juju ist Inhaberin des Kuriositätenladens und wird auf Schritt und Tritt von ihrer Voodoo-Puppe Gris-Gris (Aussprache: „Gregory“) begleitet. Sie ist sowohl eine Meisterin der Elemente als auch eine talentierte Spielzeugmacherin und verkauft ihre Puppen an die Besucherscharen des Starr Parks.&lt;/p&gt;&lt;p&gt;&lt;b&gt;HAUPTATTACKE: ELEMENTARENERGIE&lt;/b&gt;
 Juju wirft Projektile, die von ihrem jeweiligen Untergrund verstärkt werden, was ihnen verschiedene Eigenschaften verleiht!
@@ -252,7 +252,7 @@ Shade verlässt die physische Welt und kann sich direkt durch die Umgebung hindu
 Werden Gegner in der Mitte von Shades Hauptattacke getroffen, erhält Shade einen kurzen Geschwindigkeitsschub.&lt;/p&gt;&lt;p&gt;&lt;b&gt;STARPOWER: HARTER HOODIE&lt;/b&gt;
 Shade erhält in Körperloser Form 30 % Schadensverringerung.&lt;/p&gt;&lt;p&gt;&lt;b&gt;GADGET: LANGE ÄRMEL&lt;/b&gt;
 Die nächste Hauptattacke verfügt über 50 % mehr Reichweite.&lt;/p&gt;&lt;p&gt;&lt;b&gt;GADGET: JUMPSCARE&lt;/b&gt;
-Shade erschreckt Gegner in der Nähe und verlangsamt sie dadurch 30 Sekunden lang.&lt;/p&gt;&lt;p&gt;&lt;b&gt;EIGENSCHAFT:&lt;/b&gt; Shade kann über Wasser schweben.&lt;/p&gt;&lt;p&gt;SHADE WIRD AM &lt;b&gt;29. NOVEMBER&lt;/b&gt; VERÖFFENTLICHT!&lt;/p&gt;
+Shade erschreckt Gegner in der Nähe und verlangsamt sie dadurch 4 Sekunden lang.&lt;/p&gt;&lt;p&gt;&lt;b&gt;EIGENSCHAFT:&lt;/b&gt; Shade kann über Wasser schweben.&lt;/p&gt;&lt;p&gt;SHADE WIRD AM &lt;b&gt;29. NOVEMBER&lt;/b&gt; VERÖFFENTLICHT!&lt;/p&gt;
 &lt;h1&gt;NEUE HYPERLADUNGEN 🔥&lt;/h1&gt;
 &lt;p&gt;&lt;i&gt;(Diese Hyperladungen werden nach den Brawl Stars World Finals am 4. November veröffentlicht.)&lt;/i&gt;&lt;/p&gt;&lt;h3&gt;8-BIT: AIMBOT&lt;/h3&gt;&lt;p&gt;Der Geschützturm von 8-Bit verfügt über einen Laser, der auf Gegner in der Nähe schießt.&lt;/p&gt;&lt;h3&gt;OTIS: STILLER STUN&lt;/h3&gt;&lt;p&gt;Der Superskill betäubt bei einem Treffer zusätzlich 1,5 Sekunden lang.&lt;/p&gt;&lt;h3&gt;RUFFS: DER BESTE JUNGE&lt;/h3&gt;&lt;p&gt;Ruffs‘ Superskill verursacht mehr Schaden und sein Power-Up lädt eine Hyperladung vollständig auf.&lt;/p&gt;&lt;h3&gt;DARRYL: FASS VOLLER KUGELN&lt;/h3&gt;&lt;p&gt;Schießt während einer Fassrolle mit seinen Schrotflinten um sich.&lt;/p&gt;&lt;h3&gt;PENNY: NEUE KANONE&lt;/h3&gt;&lt;p&gt;Penny setzt einen größeren Geschützturm ein, der 2 Kanonenkugeln auf einmal schießt statt 1.&lt;/p&gt;&lt;h3&gt;STU: RASTLOSRASEN&lt;/h3&gt;&lt;p&gt;Stus Superskill kann während der Hyperladung beliebig oft eingesetzt werden.&lt;/p&gt;&lt;p&gt;Hyperladungsskins verlieren den Hyperladungslook nun nicht mehr, wenn die Hyperladung endet, sondern wenn der Brawler besiegt wird.&lt;/p&gt;
 &lt;h1&gt;NEUE SAISON, NEUES EREIGNIS: 😇 ENGEL VS. DÄMONEN 😈&lt;/h1&gt;
