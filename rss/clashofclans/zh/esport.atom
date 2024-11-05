@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-esportNewsEntries-zh</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-05T05:35:11.350470+00:00</updated>
+  <updated>2024-11-05T06:41:29.582654+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -235,5 +235,14 @@ Tribe Gaming&lt;/a&gt;勇奪最終席位資格賽黃金門票，並成為第6支
     <link href="https://www.youtube.com/live/KPwQ4DVK22c?t=1205s"/>
     <category term="賽事"/>
     <published>2024-11-02T11:17:23+00:00</published>
+  </entry>
+  <entry>
+    <id>4dbNvvh00AcfU6KydbQoXB</id>
+    <title>重溫全球總決賽第3天冠軍出爐!</title>
+    <updated>2024-11-05T06:32:25.787000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/64lYoVpwmWZXqhYDs4oHeE/7794ff9769a86912088582ffc3fb13a1/tw_20241104_COC_-_WCF_Thumb_Day_3_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/M4NzySVx7qA?t=1417"/>
+    <category term="賽事"/>
+    <published>2024-11-03T11:28:41+00:00</published>
   </entry>
 </feed>
