@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-04T23:31:49.827308+00:00</updated>
+  <updated>2024-11-05T01:55:02.298551+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -360,5 +360,33 @@ La 2e électrocution inflige désormais des dégâts maximum&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YN5FtMChsu1RoGHPg9u6V/4ad4924e4563d93c9539d280d4018ac7/IMG_4765.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Actualités"/>
     <published>2024-10-17T10:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>3rcIeM2m5X7ZVeGz56vRFf</id>
+    <title>Mousquetaire évoluée !</title>
+    <updated>2024-11-05T01:43:49.244000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/3rcIeM2m5X7ZVeGz56vRFf"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5HYy3QHllUpq6flyIucfu9/ad41947472ebefd096216394f7a1fe8f/musketeerevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/oDeRicecJgU?feature=share"/>
+    <category term="Temps forts"/>
+    <published>2024-11-02T16:30:02+00:00</published>
+  </entry>
+  <entry>
+    <id>2qEDuoi4Kb7aqZ5i5LCKkD</id>
+    <title>DÉFIS ET ÉVÉNEMENTS DE NOVEMBRE</title>
+    <updated>2024-11-05T01:47:17.461000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Tirage de la mousquetaire (1c1 et 2c2) : du 4 au 11 novembre&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🤠 Cette ville n&amp;#39;est pas assez grande pour la mousquetaire évoluée ! Avec ses yeux de rapace, elle descend ses cibles à des kilomètres.&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Défi&lt;/b&gt; : du 8 au 11 novembre
+🏆 &lt;b&gt;Récompense&lt;/b&gt; : bannière&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/739kELkwzhoPAJUrKtzmgX/5a50b8b283edec655dc6e30e9af37cb3/65_MusketeerDuel.png?w=1000&amp;h=385&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Assaut du phénix (1c1) : du 11 au 18 novembre&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🐦‍🔥 ‍C&amp;#39;est une véritable invasion de piafs rouges ! Éliminez-les ou vous connaîtrez leur fureur enflammée.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Canon évolué (1c1) : du 18 au 25 novembre&lt;/b&gt;🚀 Le canon évolué arrive dans l&amp;#39;arène tel un boulet de canon ! Un boulet de canon explosif !&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Élixir noir (1c1 et 2c2) : du 25 novembre au 2 décembre&lt;/b&gt;&lt;/p&gt;&lt;p&gt;⚫ L&amp;#39;élixir noir est de retour. À utiliser avec précaution et à vos risques et périls. Vos troupes sont deux fois plus rapides, mais subissent deux fois plus de dégâts.&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Défi&lt;/b&gt; : du 29 novembre au 2 décembre
+🏆 &lt;b&gt;Récompense&lt;/b&gt; : émote&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4fidGSvUCwWYECOucjC2IA/a6bfe8549070b78994fda34a75206b02/emotes_barbarian_banjo_dl.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/2qEDuoi4Kb7aqZ5i5LCKkD"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/MluVetwXbkq0Y0QKLNaTr/664976672b0b0bcf3a913b21120d228b/SUP3965_Season_65_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notes de patch"/>
+    <published>2024-11-04T09:00:03+00:00</published>
   </entry>
 </feed>
