@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-05T06:40:59.146523+00:00</updated>
+  <updated>2024-11-05T07:30:44.150516+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -270,7 +270,7 @@ R: Com certeza.&lt;/p&gt;</content>
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>Notas da atualização Anjos x Demônios</title>
-    <updated>2024-11-05T04:31:44.097000+00:00</updated>
+    <updated>2024-11-05T06:54:53.559000+00:00</updated>
     <content>&lt;h1&gt;Manutenção - 31/10&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Correções:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigido o carregamento de supers por acessórios e poderes de estrela;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o comportamento estranho da sequência de vitórias e do modo ranqueado;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigidos os dados incorretos na classificação global geral;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigida a cura aplicada por Byron a outras entidades Brawlers, como animais e torretas, usando o ataque principal dele; (o mesmo comportamento ocorria com o acessório “Feito com carinho” da Pearl)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Velocidade dos projéteis da Mandy reduzida em cerca de 10% do valor atual e velocidade dos projéteis do poder de estrela “Ao alcance” reduzida de 16% para 15%;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ainda é possível que as classificações apresentem comportamentos estranhos.&lt;/p&gt;
 &lt;h1&gt;NOVOS BRAWLERS ✨&lt;/h1&gt;
