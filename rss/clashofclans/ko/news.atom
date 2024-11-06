@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-06T03:36:32.807251+00:00</updated>
+  <updated>2024-11-06T04:37:44.459557+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -285,6 +285,16 @@
     <link href="https://youtu.be/cuiThgLqkF4"/>
     <category term="뉴스"/>
     <published>2024-10-11T09:05:45+00:00</published>
+  </entry>
+  <entry>
+    <id>kdz8pNpYp74bRIBscKmA6</id>
+    <title>해머잼이 취소될 위기에 놓여있다고요?!</title>
+    <updated>2024-11-06T03:39:55.191000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/kdz8pNpYp74bRIBscKmA6"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6SUdLbaT0qnBlbWJO65P9z/66d7ada9f9ecd400b5963000609d9f28/Screenshot-2024-11-03-at-8.37.33.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/5A7Ns3G1DOc"/>
+    <category term="뉴스"/>
+    <published>2024-11-03T10:01:13+00:00</published>
   </entry>
   <entry>
     <id>73e4HgoCgXTxKmryk6FAb0</id>

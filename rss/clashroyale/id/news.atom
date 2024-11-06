@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-06T03:36:29.374233+00:00</updated>
+  <updated>2024-11-06T04:37:40.266412+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -262,5 +262,33 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YN5FtMChsu1RoGHPg9u6V/4ad4924e4563d93c9539d280d4018ac7/IMG_4765.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Berita"/>
     <published>2024-10-17T10:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>3rcIeM2m5X7ZVeGz56vRFf</id>
+    <title>Evolusi Musketeer!</title>
+    <updated>2024-11-06T03:51:49.636000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/3rcIeM2m5X7ZVeGz56vRFf"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5HYy3QHllUpq6flyIucfu9/ad41947472ebefd096216394f7a1fe8f/musketeerevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/oDeRicecJgU?feature=share"/>
+    <category term="Sorotan"/>
+    <published>2024-11-02T16:30:02+00:00</published>
+  </entry>
+  <entry>
+    <id>2qEDuoi4Kb7aqZ5i5LCKkD</id>
+    <title>ACARA DAN TANTANGAN DESEMBER</title>
+    <updated>2024-11-06T03:51:56.613000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Draf Musketeer (1v1 dan 2v2): 4 November–11 November&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🤠 Ayo jadi saksi duel menembak antara Musketeer! Siapa yang bisa menembak lebih cepat dari kejauhan?&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Tantangan&lt;/b&gt;: 8 November–11 November
+🏆 &lt;b&gt;Hadiah&lt;/b&gt;: Bendera&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/739kELkwzhoPAJUrKtzmgX/5a50b8b283edec655dc6e30e9af37cb3/65_MusketeerDuel.png?w=1000&amp;h=385&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Serbuan Feniks (1v1): 11 November–18 November&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🐦‍🔥 Unggas tak kenal menyerah ini akan selalu bangkit! Mampukah kalian menghadapi kepak sayap membara mereka?&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Evolusi Meriam&lt;/b&gt; &lt;b&gt;(1v1): 18 November–25 November&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🚀Evolusi Meriam tiba di Arena dengan penuh gelegar bubuk peledak!&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Eliksir Hitam (1v1 dan 2v2): 25 November–2 Desember&lt;/b&gt;&lt;/p&gt;&lt;p&gt;⚫ Eliksir Hitam kembali. Berhati-hatilah! Peleton akan bergerak dengan kecepatan ganda, tetapi juga akan menerima kerusakan ganda.&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Tantangan&lt;/b&gt;: 29 November–2 Desember
+🏆 &lt;b&gt;Hadiah&lt;/b&gt;: Emote&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4fidGSvUCwWYECOucjC2IA/a6bfe8549070b78994fda34a75206b02/emotes_barbarian_banjo_dl.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/2qEDuoi4Kb7aqZ5i5LCKkD"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/MluVetwXbkq0Y0QKLNaTr/664976672b0b0bcf3a913b21120d228b/SUP3965_Season_65_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Catatan Rilis"/>
+    <published>2024-11-04T09:00:03+00:00</published>
   </entry>
 </feed>
