@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-06T04:37:38.537654+00:00</updated>
+  <updated>2024-11-06T05:35:14.988054+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -551,5 +551,33 @@ OJ&lt;/p&gt;
     <link href="https://www.youtube.com/watch?v=KWMEv6TrlmI"/>
     <category term="最新情報"/>
     <published>2024-10-28T14:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3rcIeM2m5X7ZVeGz56vRFf</id>
+    <title>進化火槍手！</title>
+    <updated>2024-11-06T04:42:08.712000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/3rcIeM2m5X7ZVeGz56vRFf"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5HYy3QHllUpq6flyIucfu9/ad41947472ebefd096216394f7a1fe8f/musketeerevo.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/oDeRicecJgU?feature=share"/>
+    <category term="精彩時刻"/>
+    <published>2024-11-02T16:30:02+00:00</published>
+  </entry>
+  <entry>
+    <id>2qEDuoi4Kb7aqZ5i5LCKkD</id>
+    <title>11月活動和挑戰</title>
+    <updated>2024-11-06T04:42:34.552000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;火槍手選卡（1v1和2v2）：11月4日至11日&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🤠對進化火槍手來說，這座城鎮太小了！她能在一英里外擊中目標，真心不騙！&lt;/p&gt;&lt;p&gt;⚔️&lt;b&gt;挑戰&lt;/b&gt;：11月8日至11日
+🏆&lt;b&gt;獎勵&lt;/b&gt;：戰旗&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/739kELkwzhoPAJUrKtzmgX/5a50b8b283edec655dc6e30e9af37cb3/65_MusketeerDuel.png?w=1000&amp;h=385&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;鳳凰突襲（1v1）：11月11日至18日&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🐦🔥 這些勇敢的不死鳥不斷飛來！如果不將其擊落，就等著感受牠們的無盡怒火吧！&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;進化加農炮&lt;/b&gt; &lt;b&gt;（1v1）：11月18日至25日&lt;/b&gt;&lt;/p&gt;&lt;p&gt;🚀進化加農炮火爆亮相競技場，超級火爆！&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;闇黑重油（1v1和2v2）：11月25日至12月2日&lt;/b&gt;&lt;/p&gt;&lt;p&gt;⚫闇黑重油活動回歸。膽小勿入，後果自負！你的軍隊速度會加倍，但受到的傷害也會加倍！&lt;/p&gt;&lt;p&gt;⚔️&lt;b&gt;挑戰&lt;/b&gt;：11月29日至12月2日
+🏆&lt;b&gt;獎勵&lt;/b&gt;：表情&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4fidGSvUCwWYECOucjC2IA/a6bfe8549070b78994fda34a75206b02/emotes_barbarian_banjo_dl.png?w=700&amp;h=700&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/2qEDuoi4Kb7aqZ5i5LCKkD"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/MluVetwXbkq0Y0QKLNaTr/664976672b0b0bcf3a913b21120d228b/SUP3965_Season_65_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="更新說明"/>
+    <published>2024-11-04T09:00:03+00:00</published>
   </entry>
 </feed>
