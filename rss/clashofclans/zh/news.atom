@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-06T07:31:06.409197+00:00</updated>
+  <updated>2024-11-06T08:40:01.849250+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>40WmhuVPZdjlAEIVb4pRX</id>
-    <title>【烏龜】完整了解機甲超人、掃帚女巫、新裝備與活動內容！</title>
-    <updated>2024-08-08T08:36:23.035000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/40WmhuVPZdjlAEIVb4pRX"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5bJATMMqwxiKPANRpOkvrK/55d6cb65a43eb1d54aa967d4336c97fc/tw_20240808_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=RYCAGjzWxMc"/>
-    <category term="最新情報"/>
-    <published>2024-08-08T08:09:00+00:00</published>
-  </entry>
-  <entry>
-    <id>2RvO88H04oaXimMc6NIYV3</id>
-    <title>【金雄】複製魔鏡！限時部隊等新內容搶先實測！</title>
-    <updated>2024-08-08T08:37:16.887000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2RvO88H04oaXimMc6NIYV3"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2ZKEvoJZZiEJQLa1gW3gCV/527d0a12174d0ef0b2a385b9ad88c280/tw_20240808_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=f87EkBwDYtM"/>
-    <category term="最新情報"/>
-    <published>2024-08-08T08:10:00+00:00</published>
-  </entry>
   <entry>
     <id>6X40Xvo0Vz6voo6gG7kCvh</id>
     <title>動漫代幣活動與全新英雄裝備！</title>
