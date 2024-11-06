@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-eventEntries-ja</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-11-05T23:31:41.717415+00:00</updated>
+  <updated>2024-11-06T01:54:52.084190+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -24,5 +24,14 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4ehEINTyb1Buez0o4mIj1c/7839e3de16761c2f52bc8d4db28abfb5/Untitled-5.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig"/>
     <published>2023-12-01T08:26:30+00:00</published>
+  </entry>
+  <entry>
+    <id>6cQuXTToAQelQpDQ4rs2V6</id>
+    <title>11月シーズン</title>
+    <updated>2024-11-06T01:24:34.299000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/ja/news/2qEDuoi4Kb7aqZ5i5LCKkD"&gt;👉読む👈&lt;/a&gt; -- &lt;a href="https://youtube.com/shorts/oDeRicecJgU?feature=share"&gt;👉視聴👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RjveS4fHFljBuj98772bt/b6546004480bc6e143c38e26c5f8cc43/SUP3965_Season_65_Season_Carousel_Image-960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <published>2024-11-04T08:45:02+00:00</published>
   </entry>
 </feed>
