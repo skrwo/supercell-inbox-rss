@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-07T13:35:11.039025+00:00</updated>
+  <updated>2024-11-07T14:33:17.969825+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -247,5 +247,15 @@
     <link href="https://youtu.be/xjYxINzFj_s"/>
     <category term="Berita"/>
     <published>2024-11-06T15:02:02+00:00</published>
+  </entry>
+  <entry>
+    <id>1d0sbixgYXUCxuFU2VQdzU</id>
+    <title>Akankah Hammer Jam Berhasil Diselamatkan?</title>
+    <updated>2024-11-07T14:21:40.988000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/id/news/1d0sbixgYXUCxuFU2VQdzU"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4li9bk8udxmzUZ6X5wq1zf/9b0d4c3e7fe85dbe1a6aa6ec84fe744c/inbox-thumbnail-hammerjam-part2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/GajGrj7HLQM?si=6Me5rvkDrVXfGjVi"/>
+    <category term="Berita"/>
+    <published>2024-11-07T14:21:40+00:00</published>
   </entry>
 </feed>

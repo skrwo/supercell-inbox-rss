@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-esportNewsEntries-de</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-07T13:34:46.999200+00:00</updated>
+  <updated>2024-11-07T14:33:10.657968+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -15,5 +15,32 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PkZZY0hBDl5Cv8LK3oL78/8ed4d942ef1e93e2ff8d8248a3da2425/BLAST_BRAWL_Thumbnail.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-09-08T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2Tvh9Dh2WTiqiKPxRu6O3P</id>
+    <title>Erlebt die World Finals - Tag 1!</title>
+    <updated>2024-11-07T13:39:08.199000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7kfB7Ygj1oDTfAkO1oIhg3/be15407276383d059809fffcb6d79979/DE_BSWF24_Day_1_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2290898569"/>
+    <category term="Esports"/>
+    <published>2024-11-07T13:39:08+00:00</published>
+  </entry>
+  <entry>
+    <id>2FySLM8IVu7jpTc4IQL2us</id>
+    <title>Erlebt die World Finals - Tag 2!</title>
+    <updated>2024-11-07T13:41:32.236000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2cobN3ZnAtbIyfVDPKIbjb/4a240eb7600c6b4c504c0fda11c9199b/DE_BSWF24_Day_2_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2291833070"/>
+    <category term="Esports"/>
+    <published>2024-11-07T13:41:32+00:00</published>
+  </entry>
+  <entry>
+    <id>58ksnjgA5RsVneHu5eJJga</id>
+    <title>Erlebt die World Finals - Tag 3!</title>
+    <updated>2024-11-07T13:45:08.430000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1PdNQc1W1oWpKMsB9RrwN7/8c4ce2233a2ade1d40e257bb935d873d/DE_BSWF24_Day_3_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2292715298"/>
+    <category term="Esports"/>
+    <published>2024-11-07T13:45:08+00:00</published>
   </entry>
 </feed>
