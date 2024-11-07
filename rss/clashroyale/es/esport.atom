@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-esportNewsEntries-es</id>
   <title>Clashroyale - Esport News</title>
-  <updated>2024-11-07T10:37:51.816353+00:00</updated>
+  <updated>2024-11-07T11:29:16.222469+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Esport News</subtitle>
@@ -216,5 +216,14 @@ Consistió en 2 splits regulares y finales. Los Splits Red y Blue comenzaron con
 &lt;p&gt;Queremos dar las gracias y felicitar a los jugadores que compitieron durante la #CRL24, y también a todos los fans que han formado parte de este viaje. Las finales mundiales del SuperFest llegan a su fin, y con ellas, el año competitivo. Echa un vistazo a la pestaña de eSports dentro del juego de Clash Royale, a &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fx.com%2FEsportsRoyaleEN')"&gt;las cuentas de Clash Royale Esports en X&lt;/a&gt; e &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.instagram.com%2Fesportsroyale%2F%3Fhl%3Den')"&gt;Instagram&lt;/a&gt; y a la &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fesports.clashroyale.com%2F')"&gt;página web&lt;/a&gt; para estar al tanto de toda la información y las novedades de la Clash Royale League.&lt;/p&gt;&lt;p&gt;¡Nos vemos en la arena!&lt;/p&gt;&lt;p&gt;Clash Royale eSports&lt;/p&gt;</content>
     <category term="eSports"/>
     <published>2024-11-03T15:35:14+00:00</published>
+  </entry>
+  <entry>
+    <id>6laJjvd0X82VSODeoh2WfS</id>
+    <title>Los mejores momentos de la CRL 2024</title>
+    <updated>2024-11-07T11:28:22.002000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3qFcDnQgCOWj5Fx1M1Xxpi/52ec56fe60c3b1ffadecd89eeabab31e/HIGHLIGHTS.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/3YhcCSw7_48"/>
+    <category term="Lo más destacado"/>
+    <published>2024-11-07T11:28:22+00:00</published>
   </entry>
 </feed>
