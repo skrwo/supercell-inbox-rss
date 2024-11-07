@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-eventEntries-fr</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-11-07T08:39:02.859393+00:00</updated>
+  <updated>2024-11-07T09:32:13.458914+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -54,5 +54,14 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WdjU4SCRtLQWW9uwOttpy/5576fe1159a751ad0b59ae7a259c250c/1030_Anges_vs_Deamons_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/DQ5sNcR5j5A"/>
     <published>2024-10-25T14:04:36+00:00</published>
+  </entry>
+  <entry>
+    <id>71oJ1PzziY67SJDdFHUFJW</id>
+    <title>🗞️</title>
+    <updated>2024-11-07T09:10:08.319000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/CwYErV4fwTA"&gt;👉Regarder👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/fr/news/2JfjjxnuG0fEhhzMGulYyC"&gt;👉En savoir plus👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6VfyxQGkunJ8uVDPTnKVCo/b8596af4489d2474894f2171f8125a6e/1107_Season_start_carousel_800x1161_v2.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2024-11-07T09:10:08+00:00</published>
   </entry>
 </feed>

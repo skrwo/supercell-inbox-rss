@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-07T08:39:05.528720+00:00</updated>
+  <updated>2024-11-07T09:32:24.786986+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -22,45 +22,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4XanwHug2IvJQio2XMDsxa/55c7c4fcdf7ac2666b5d0605e2c648d9/1023_SUP3533_ClashonPC_October_2023__1920x1080_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2023-10-24T15:42:26+00:00</published>
-  </entry>
-  <entry>
-    <id>6X40Xvo0Vz6voo6gG7kCvh</id>
-    <title>애니메이션 메달 이벤트 &amp; 신규 영웅 장비!</title>
-    <updated>2024-08-09T07:58:49.165000+00:00</updated>
-    <content>&lt;p&gt;애니메이션 클래시는 마을회관 6레벨 이상의 플레이어라면 누구나 참여할 수 있는 이벤트입니다! &lt;/p&gt;&lt;p&gt;게임 내 다양한 활동을 즐기고 &lt;u&gt;마법 크리스털&lt;/u&gt;을 수집하여 이벤트 트랙을 달성해 보세요!&lt;/p&gt;&lt;p&gt;&lt;u&gt;마법 크리스털&lt;/u&gt;을 열심히 모아 &lt;u&gt;마법 메달&lt;/u&gt;로 교환하면 아처 퀸의 신규 영웅 장비인 &lt;u&gt;마법 반사경&lt;/u&gt;과 같이 다양하고 특별한 보상을 잠금 해제할 수 있게 됩니다! &lt;/p&gt;&lt;p&gt;그럼, 이벤트에 대해 좀 더 자세히 알아볼까요?
-&lt;/p&gt;&lt;h2&gt;&lt;b&gt;이벤트 일정이 궁금해요!&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;이벤트 시작일&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;8월 9일(금) 오후 5시&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;이벤트 종료일&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;8월 30일(금) 오후 5시&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;이벤트가 종료된 후에도 거래상의 이벤트 탭과 마법사 상인은&lt;b&gt; 9월 1일(월) 오후 5시까지 2일 동안&lt;/b&gt; 이용이 가능합니다!&lt;/p&gt;
-&lt;h1&gt;다음으로 기간 한정 유닛인 M.E.C.H.A와 빗자루 마법사를 소개합니다.&lt;/h1&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/TggQNyj02GzKqXNizU5Cm/c77215090f0919f655af9804a0fac227/MECHA1.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;M.E.C.H.A&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상부터 만나보실 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;방어 시설을 우선 대상으로 공격하는 지상 유닛입니다. 특히 장벽에는 일반 피해량의 몇 배에 달하는 피해량을 입히죠!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2XnUdIraESTbEcuZHfHJZ7/8f044ae96db15e8df14cc5be79a9e558/Broom_Witch1.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;빗자루 마녀&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상부터 만나보실 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;마법사 타워를 우선 대상으로 공격하는 공중 유닛입니다. 전장을 빠르게 날아다니는 이 친구는 공격을 받으면 방어 시설을 우선 공격하는 자그마한 지상 유닛을 생성한다고 하네요! &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h1&gt;이벤트 자원!&lt;/h1&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/30qtGUlZehMvOhGcEf3EV5/a06f8133aa90e16a11d52af55d6f2784/crystal_token.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;메달 이벤트 자원 : 마법 크리스털&lt;/b&gt;&lt;/p&gt;&lt;p&gt;마법 크리스털은 멀티플레이 전투에서 적의 마법사 타워를 무너뜨려 획득할 수 있습니다!&lt;/p&gt;&lt;p&gt;마법 크리스털을 최대한 많이 모아 광석이나 장식 등 다양한 보상을 획득해 보세요! &lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1xl7GMe8AzYMM584ysSAJt/54369ba040a2b4dcd2c83733720d4a42/magic_medal_multiple.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;마법 메달&lt;/b&gt;&lt;/p&gt;&lt;p&gt;마법 메달은 거래상의 상점에서 사용할 수 있는 이벤트 재화입니다. &lt;/p&gt;&lt;p&gt;특히 여러분이 기다리시던 초희귀 등급의 신규 영웅 장비, &lt;b&gt;마법 반사경&lt;/b&gt;까지 준비되어 있습니다! 여러분이 모은 마법 메달을 특별 시즌 장식, 광석, 마법 아이템 등 여러 아이템으로 교환해 보세요! &lt;/p&gt;
-&lt;h1&gt;신규 영웅 장비 &amp; 기타 보상!&lt;/h1&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/62EMdWCxbzvuXOyBecLW07/c76edaf9acc651475ee7c5b839971d81/HeroGear_AQ_Clone0000.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;아처 퀸 신규 영웅 장비 : 마법 반사경 (초희귀 등급)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;마법 반사경은 일정 비율의 HP와 초당 피해량을 보유한 아처 퀸의 클론을 소환합니다.&lt;/p&gt;&lt;p&gt;클론 효과는 장비에 부여된 일정 시간 동안 지속되며, 마법 반사경을 사용한 직후에는 투명 마법이 발동되어 1초 동안 아처 퀸이 모습을 감추게 됩니다.&lt;/p&gt;
-&lt;p&gt;그리고 이벤트 기간에는 흥미로운 장식물을 만나보실 수 있으니 기대해 주세요! &lt;/p&gt;
-&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3wpXzhVLmcdqbzosVhR2tH/141c8a0b033376ad0c147b15868d2cff/Untitled-1.png?w=1000&amp;h=652&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;자, 이제 준비됐으면 빗자루에 올라타 힘차게 날아볼까요? 메달 이벤트가 곧 시작할 테니까요!
-
-&lt;/p&gt;&lt;p&gt;&lt;i&gt;그럼, 건투를 빕니다!&lt;/i&gt;&lt;/p&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/6X40Xvo0Vz6voo6gG7kCvh"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7klptLdOhebuOvv84pDwxV/9302c4c524c4502d01e73cf197f8a4c4/anime_medal_thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="뉴스"/>
-    <published>2024-08-09T07:58:49+00:00</published>
-  </entry>
-  <entry>
-    <id>AzAw1Bvpuzbr4Hn4anS68</id>
-    <title>마법 크리스털 쟁탈전이 시작됩니다!</title>
-    <updated>2024-08-09T08:01:02.520000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/AzAw1Bvpuzbr4Hn4anS68"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6jHTdlxknnOvT4Q59X0yrE/613fe3da58d6ba2c1a4d274d541143f3/0808_COC_Anime-clash_Thumb_1920x1080__final_KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/JLWMphClDs0"/>
-    <category term="뉴스"/>
-    <published>2024-08-09T08:01:02+00:00</published>
   </entry>
   <entry>
     <id>1dTCTk4XyUjDjJQ5wETequ</id>
