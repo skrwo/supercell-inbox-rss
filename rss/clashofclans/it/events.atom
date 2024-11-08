@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-eventEntries-it</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-11-08T07:30:24.604398+00:00</updated>
+  <updated>2024-11-08T08:37:52.320641+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -13,5 +13,15 @@
     <content>[EMPTY]</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1FxobRPgtC4LdW6R6w6bWG/f6af2ae21549a88c7a20472dfc497de5/it_CoC_SC020_Justice_EN_860x1320_Still_Inbox_v01_nj_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <published>2024-10-31T13:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>23cQAkM6lRYNshIEWP3aMA</id>
+    <title>🗞️</title>
+    <updated>2024-11-08T08:09:14.459000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/4g-vh2zw93w"&gt;👉Scopri di più!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/rMEdiMd43185ymp9lNJve/72341ed5bd72b5a9e123eb0e9037625c/Carusel-image-1320x860px-01.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/4g-vh2zw93w"/>
+    <published>2024-11-08T08:05:07+00:00</published>
   </entry>
 </feed>

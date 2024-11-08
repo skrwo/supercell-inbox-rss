@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-08T07:30:28.567893+00:00</updated>
+  <updated>2024-11-08T08:37:53.591933+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -306,5 +306,15 @@
     <link href="https://www.youtube.com/watch?v=LNojhMwhhvU&amp;t=2s"/>
     <category term="뉴스"/>
     <published>2024-11-07T14:21:40+00:00</published>
+  </entry>
+  <entry>
+    <id>4TBceSxXyMQhVlgmTDHyt9</id>
+    <title>Hammerless EP4 : 모든 걸 망칠 뻔한 망치</title>
+    <updated>2024-11-08T08:03:24.387000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/4TBceSxXyMQhVlgmTDHyt9"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2ivDwOMOqVjGWCpVwMDkOJ/c8ecd1569ef5936df08a1bbfdee754dc/1104_COC____-____-____4.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/0jty7C5brYU"/>
+    <category term="뉴스"/>
+    <published>2024-11-07T15:02:14+00:00</published>
   </entry>
 </feed>
