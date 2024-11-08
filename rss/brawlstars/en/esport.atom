@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-08T11:29:07.257575+00:00</updated>
+  <updated>2024-11-08T12:53:30.278020+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -159,5 +159,14 @@
     <link href="https://youtu.be/hjh2vlCf-T0"/>
     <category term="Esports"/>
     <published>2024-11-07T12:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>2z5FvdyIsCVFVTasNtaav2</id>
+    <title>DragonForce LIVE at SuperFest</title>
+    <updated>2024-11-08T12:09:14.780000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4yxqi5YMCTDnnvJQbdXjGx/e0dc71caef1825d68e5c52e763906038/dragonforce_thumbnail_2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/euG3vHhSgNs"/>
+    <category term="Esports"/>
+    <published>2024-11-08T12:09:14+00:00</published>
   </entry>
 </feed>
