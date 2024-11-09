@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-09T12:50:14.331470+00:00</updated>
+  <updated>2024-11-09T13:31:08.747103+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -490,5 +490,16 @@ SuperFest2024に出場する日本チームを応援するハッシュタグ投�
     <link href="https://youtu.be/GajGrj7HLQM?si=6Me5rvkDrVXfGjVi"/>
     <category term="ニュース"/>
     <published>2024-11-07T14:21:40+00:00</published>
+  </entry>
+  <entry>
+    <id>3tKQrWNTAGPYiXi2OJEh9X</id>
+    <title>PC版クラッシュ スペシャルオファー！</title>
+    <updated>2024-11-09T13:00:30.476000+00:00</updated>
+    <content>&lt;h1&gt;こんにちは、チーフ！&lt;/h1&gt;
+&lt;p&gt;限定セールで建設ラッシュがさらに盛り上がる！PC版Google Play Gamesのクラッシュ・オブ・クランで&lt;b&gt;10％お得&lt;/b&gt;に買い物ができます！&lt;/p&gt;&lt;p&gt;このセールに回数制限はありません。アカウントに保存するだけで、購入を行うたびに自動的に割引が適用されるようになります。※ユーザー1人あたりの最大割引額は合計100ドルまでとなります。&lt;/p&gt;&lt;p&gt;Windows PCで「&lt;a href="javascript:window.sendCommand('OpenWeb?url=http%253A%252F%252Fplay.google.com%252F')"&gt;play.google.com&lt;/a&gt;」にアクセスして、&lt;b&gt;12月31日&lt;/b&gt;まで続く超お得なセールを楽しみましょう。&lt;/p&gt;&lt;p&gt;&lt;i&gt;セールの対象国は、アメリカ合衆国、マレーシア、韓国、台湾、香港、オーストラリア、日本、フィリピン、フランス、イギリス、ドイツ、ペルー、チリ、コロンビア、スペインです。なお、Googleアカウントの種類、設定、品質チェックの結果によっては、セールが利用できない場合もあります。&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/3tKQrWNTAGPYiXi2OJEh9X"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4PX2t9mNPuN9Fn1b8AvW1w/5ac5928cc6ac0440d24eb218e10c79f7/SUP3853_Clash_On_PC_Part_2_900x506_1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2024-11-09T13:00:04+00:00</published>
   </entry>
 </feed>
