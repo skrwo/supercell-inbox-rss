@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-communityEntries-fr</id>
   <title>Clashofclans - Community</title>
-  <updated>2024-11-09T08:35:36.006627+00:00</updated>
+  <updated>2024-11-09T09:29:34.260037+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Community</subtitle>
   <entry>
     <id>54Ap9ifo3CJyvzzD4LkbkI</id>
     <title>Les Meilleurs Animaux pour Chaque Héros !</title>
-    <updated>2024-11-09T08:35:36.006893+00:00</updated>
+    <updated>2024-11-09T09:29:34.260329+00:00</updated>
     <author>
       <name>Skarex</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>08NxEIJwTaoYsYuO2gRG0</id>
     <title>Nouveaux Bâtiments Superchargés &amp; Consommables Magiques !</title>
-    <updated>2024-11-09T08:35:36.006862+00:00</updated>
+    <updated>2024-11-09T09:29:34.260301+00:00</updated>
     <author>
       <name>Skarex</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>3dvWcXCesBFQvVfQwQzmmX</id>
     <title>Cette Compo HDV15/16 est Surpuissante !</title>
-    <updated>2024-11-09T08:35:36.006815+00:00</updated>
+    <updated>2024-11-09T09:29:34.260272+00:00</updated>
     <author>
       <name>Skarex</name>
     </author>
@@ -42,7 +42,7 @@
   <entry>
     <id>7130GKqtmIAqSuDjZBleBu</id>
     <title>Meilleure Compo HDV10 pour les GDC !</title>
-    <updated>2024-11-09T08:35:36.006784+00:00</updated>
+    <updated>2024-11-09T09:29:34.260238+00:00</updated>
     <author>
       <name>Skarex</name>
     </author>
@@ -53,7 +53,7 @@
   <entry>
     <id>1oTMcL7NDza6XAN6ND8ECz</id>
     <title>Supercell CONFIRME HDV17 et le 5ème Héros !</title>
-    <updated>2024-11-09T08:35:36.006751+00:00</updated>
+    <updated>2024-11-09T09:29:34.260187+00:00</updated>
     <author>
       <name>Gouloulou</name>
     </author>
@@ -64,7 +64,7 @@
   <entry>
     <id>6aJcu26ySwrRqla2xctHb3</id>
     <title>Les Meilleures Combinaisons d'Equipement pour Chaque Héros !</title>
-    <updated>2024-11-09T08:35:36.006714+00:00</updated>
+    <updated>2024-11-09T09:29:34.260152+00:00</updated>
     <author>
       <name>Skarex</name>
     </author>
@@ -75,12 +75,23 @@
   <entry>
     <id>7wsU9dHYQL8OobnFK3rf1c</id>
     <title>Les Meilleures Stratégies pour Tous Les Districts !</title>
-    <updated>2024-11-09T08:35:36.006661+00:00</updated>
+    <updated>2024-11-09T09:29:34.260116+00:00</updated>
     <author>
       <name>Skarex</name>
     </author>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2lt5sTn77t8FIwVeaWW2BO/de153016222b65d96ee312341d48ef88/guest-content-video-52-3f753008-027e-4acd-b606-ffcad76e210d-epwj.png-1730470221788?w=640&amp;h=358&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/VBS69SropYs"/>
     <published>2024-11-01T14:10:27+00:00</published>
+  </entry>
+  <entry>
+    <id>2yG6eyqrmTEhGvAeTNlsrX</id>
+    <title>3 Étoiles Faciles sur le Dernier Défi de l'HDV 16 !</title>
+    <updated>2024-11-09T09:29:34.260064+00:00</updated>
+    <author>
+      <name>Skarex</name>
+    </author>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/31lMcaMLLLaMW9q8rnG7Oz/231d0d0e746a35a21478e6b51748c45f/guest-content-video-52-3f753008-027e-4acd-b606-ffcad76e210d-lbgn.png-1731143609797?w=640&amp;h=358&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/R_Io4FHvtno"/>
+    <published>2024-11-09T09:13:37+00:00</published>
   </entry>
 </feed>
