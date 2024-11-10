@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-11-10T08:34:57.728767+00:00</updated>
+  <updated>2024-11-10T09:30:28.568822+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -304,5 +304,16 @@ The community event will last for &lt;b&gt;ten days&lt;/b&gt;, and it starts now
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-11-06T08:00:29+00:00</published>
+  </entry>
+  <entry>
+    <id>2XURAoyOUOpiUw2jDW3tOR</id>
+    <title>Hay Day Week 46</title>
+    <updated>2024-11-10T09:01:45.958000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Events Week 46&lt;/h1&gt;
+&lt;p&gt;Howdy farmers! Get ready for another week of events! All events &amp;amp; derbies start at 8 AM UTC. Jump into the specifics of each event by visiting our event board in the game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Monday&lt;/b&gt;: Spin the Wheel (Vouchers)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tuesday&lt;/b&gt;: Truck Event (x2 XP)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wednesday&lt;/b&gt;: Boat Event (x2 Coins)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thursday&lt;/b&gt;: Production Buildings (20% boost for 3 buildings)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Friday&lt;/b&gt;: Fishing Event (Duck + Net Maker 30%) + 2x Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Saturday&lt;/b&gt;: Town Visitors Event (Expansion Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunday&lt;/b&gt;: Crops Event (three random crops will yield 3 crops instead of the usual 2) &lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: Normal&lt;/p&gt;&lt;p&gt;Wishing you a great week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/2XURAoyOUOpiUw2jDW3tOR"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Events"/>
+    <published>2024-11-10T09:00:04+00:00</published>
   </entry>
 </feed>

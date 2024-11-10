@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-11-10T08:34:56.247137+00:00</updated>
+  <updated>2024-11-10T09:30:29.483870+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -276,5 +276,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Etkinlikler"/>
     <published>2024-11-03T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>2XURAoyOUOpiUw2jDW3tOR</id>
+    <title>Hay Day 46. Hafta</title>
+    <updated>2024-11-10T09:01:45.958000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Etkinlikleri 46. Hafta&lt;/h1&gt;
+&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır olun! Tüm etkinlikler ve derbiler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazartesi&lt;/b&gt;: Çarkıfelek Etkinliği (hediye çekleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Salı&lt;/b&gt;: Kamyon Etkinliği (iki kat TP)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Çarşamba&lt;/b&gt;: Tekne Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perşembe&lt;/b&gt;: Üretim Binası Hızlandırma Etkinliği (üç bina, %20 hızlandırma)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cuma&lt;/b&gt;: Balıkçılık Etkinliği (ördek salonu ve ağ üreticisi, %30 hızlandırma) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cumartesi&lt;/b&gt;: Kasaba Ziyaretçileri Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazar&lt;/b&gt;: Ekin Artışı Etkinliği (rastgele üç ekin, iki yerine üç mahsul verir)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: Normal&lt;/p&gt;&lt;p&gt;Harika bir hafta dileriz!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/2XURAoyOUOpiUw2jDW3tOR"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Etkinlikler"/>
+    <published>2024-11-10T09:00:04+00:00</published>
   </entry>
 </feed>
