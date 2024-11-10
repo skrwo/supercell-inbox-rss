@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-10T07:29:01.993334+00:00</updated>
+  <updated>2024-11-10T08:34:51.295965+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -371,7 +371,14 @@ Shade spooks nearby enemies, slowing them for 4 seconds.
     <id>2JfjjxnuG0fEhhzMGulYyC</id>
     <title>How to get all the Angelic and Demonic Drops!</title>
     <updated>2024-11-10T05:19:36.353000+00:00</updated>
-    <content>&lt;h1&gt;Announcement:&lt;/h1&gt;
+    <content>&lt;h1&gt;Announcement (10th of November)&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;SPIKE IS BACK TO LIFE! 🤙&lt;/b&gt;
+
+Also:
+- Mico with the Demonfire ability should not leave a trail while in the air anymore
+- Angel vs Demon modifiers are on for Spirit Wars and Heist again
+- And Spirit Wars will be the next mode in the Contest tomorrow!&lt;/p&gt;
+&lt;h1&gt;Announcement (8th of November)&lt;/h1&gt;
 &lt;h4&gt;&lt;b&gt;SPIKE IS DEAD! (but not for too long) 🌵❤️‍🩹&lt;/b&gt;&lt;/h4&gt;&lt;p&gt;So:
 - We are disabling Spike from the game until his exploit with Demonfire gets fixed
 - We are trying a different way to fix it that doesn&amp;#39;t require maintenance but it requires the rotation of every server we have live. This means that the fix is going to be released slowly as opposed to at the same time to all the players
