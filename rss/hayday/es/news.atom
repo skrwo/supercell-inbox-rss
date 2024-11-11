@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-11-11T12:54:50.251022+00:00</updated>
+  <updated>2024-11-11T13:36:29.966147+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4C5EIHUJtvqIxTilup474C</id>
-    <title>Eventos de la semana 33</title>
-    <updated>2024-08-13T13:06:35.563000+00:00</updated>
-    <content>&lt;h1&gt;Eventos de la semana 33&lt;/h1&gt;
-&lt;p&gt;¡Hola! ¡Prepárate para otra semana llena de eventos! Todos los eventos comienzan a las 08:00 UTC. Para saber más sobre cada uno de ellos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;Lunes: Gira la ruleta (piezas de puzle).&lt;/p&gt;&lt;p&gt;Martes: Evento de la camioneta (materiales de ampliación).&lt;/p&gt;&lt;p&gt;Miércoles: Evento del barco (tiques).&lt;/p&gt;&lt;p&gt;Jueves: Visitantes de la granja (mercadillo).&lt;/p&gt;&lt;p&gt;Viernes: Evento de pesca (todos los edificios de producción potenciados un 20 %) y doble de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;Sábado: Evento de visitantes del pueblo (doble de monedas).&lt;/p&gt;&lt;p&gt;Domingo: Porcentaje del tiempo de arbustos y árboles (tres árboles o arbustos aleatorios producen frutos el doble de rápido) y evento de la camioneta (doble de monedas).&lt;/p&gt;&lt;p&gt;¡Que tengas una buena semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/4C5EIHUJtvqIxTilup474C"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Noticias"/>
-    <published>2024-08-13T13:04:29+00:00</published>
-  </entry>
   <entry>
     <id>kkqeH4e011pQNtCxcVV5h</id>
     <title>Eventos de la semana 34</title>
@@ -269,7 +258,7 @@
   <entry>
     <id>3EmOLielXdCIRhcbGyxi09</id>
     <title>Camionetas más rápidas: llegan los pedidos múltiples</title>
-    <updated>2024-11-11T09:50:25.199000+00:00</updated>
+    <updated>2024-11-11T13:28:43.800000+00:00</updated>
     <content>&lt;h1&gt;¡Camionetas más rápidas para todos!&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Ahora todos los granjeros pueden realizar varios pedidos de la camioneta sin tener que esperar a que esta regrese.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Para ello, vuelve a abrir el tablón de pedidos después de que la camioneta se marche y completa otro pedido para que regrese con todas tus recompensas.&lt;/p&gt;&lt;p&gt;¡Justo a tiempo para el evento global de la camioneta! 👀&lt;/p&gt;&lt;p&gt;Si quieres ver cómo se usa esta función, no te pierdas el capítulo de octubre de &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;Noticias huevásticas&lt;/a&gt;.&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/es/news/3EmOLielXdCIRhcbGyxi09"/>

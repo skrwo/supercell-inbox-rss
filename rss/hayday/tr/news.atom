@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2024-11-11T12:54:47.612498+00:00</updated>
+  <updated>2024-11-11T13:36:19.251884+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>4C5EIHUJtvqIxTilup474C</id>
-    <title>Hay Day Etkinlikleri 33. Hafta!</title>
-    <updated>2024-08-13T13:06:35.563000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Etkinlikleri 33. Hafta!&lt;/h1&gt;
-&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır olun! Tüm etkinlikler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;Pazartesi: Çarkıfelek Etkinliği (bulmaca parçaları)&lt;/p&gt;&lt;p&gt;Salı: Kamyon Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;Çarşamba: Tekne Etkinliği (hediye çekleri)&lt;/p&gt;&lt;p&gt;Perşembe: Çiftlik Ziyaretçileri Etkinliği (bahçe satışı)&lt;/p&gt;&lt;p&gt;Cuma: Balıkçılık Hızlandırma Etkinliği (tüm binalar, %20 hızlandırma) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;Cumartesi: Kasaba Ziyaretçileri Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Pazar: Ağaç ve Çalı Hızlandırması (rastgele üç çalı veya ağaç iki kat hızlı meyve verir) + Kamyon Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;Harika bir hafta diliyoruz!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/4C5EIHUJtvqIxTilup474C"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Haberler"/>
-    <published>2024-08-13T13:04:29+00:00</published>
-  </entry>
   <entry>
     <id>kkqeH4e011pQNtCxcVV5h</id>
     <title>Hay Day Etkinlikleri 34. Hafta!</title>
@@ -280,7 +269,7 @@
   <entry>
     <id>3EmOLielXdCIRhcbGyxi09</id>
     <title>Kamyonlar Hızlanıyor: Birden Fazla Sipariş Özelliği Duyurusu</title>
-    <updated>2024-11-11T09:50:25.199000+00:00</updated>
+    <updated>2024-11-11T13:28:43.800000+00:00</updated>
     <content>&lt;h1&gt;Kamyonlar herkes için daha hızlı!&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Artık herkes birden fazla kamyon siparişini gönderebilecek, kamyonun geri dönmesini beklemek gerekmeyecek!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Kamyon çiftlikten ayrıldıktan sonra sipariş panosunu açıp bir siparişi daha tamamlamanız yeterli olacak. Ardından kamyon tüm ödüllerinizle birlikte geri gelecek!&lt;/p&gt;&lt;p&gt;Tam da Dünya Çapında Kamyon Etkinliği başlarken!👀&lt;/p&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;Çiftlikten Haberler&lt;/a&gt; Ekim bölümünde bu özelliğin nasıl işlediğini görebilirsin.&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/tr/news/3EmOLielXdCIRhcbGyxi09"/>
