@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-eventEntries-it</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-11-11T08:39:16.692967+00:00</updated>
+  <updated>2024-11-11T09:33:48.398145+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -14,5 +14,15 @@
 &lt;a href="https://clashroyale.inbox.supercell.com/#/it/news/2qEDuoi4Kb7aqZ5i5LCKkD"&gt;👉LEGGI👈&lt;/a&gt; -- &lt;a href="https://youtube.com/shorts/oDeRicecJgU?feature=share"&gt;👉GUARDA👈&lt;/a&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RjveS4fHFljBuj98772bt/b6546004480bc6e143c38e26c5f8cc43/SUP3965_Season_65_Season_Carousel_Image-960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <published>2024-11-04T08:45:02+00:00</published>
+  </entry>
+  <entry>
+    <id>5t1cLDOuGPg7IvYlEeKFhn</id>
+    <title>🗞️</title>
+    <updated>2024-11-11T09:25:18.751000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://booksofclash.com/books/books-of-clash-volume-4/"&gt;👉Ordina ORA!👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/23PlH9WssjCUKmCCPxeOSp/f0d994c152e2b6ee0560aab985f50230/DF_Clsh-Comics_Inbox_vol4DF_CLASH-COMICS_BOOKS-OF-CLASH-VOL-4-NewsTab-CR.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://booksofclash.com/books/books-of-clash-volume-4/"/>
+    <published>2024-11-08T16:35:35+00:00</published>
   </entry>
 </feed>
