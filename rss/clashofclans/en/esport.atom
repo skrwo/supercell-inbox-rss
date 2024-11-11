@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-11T10:38:58.967910+00:00</updated>
+  <updated>2024-11-11T11:29:13.361546+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -351,5 +351,14 @@ That’s it, Chief! Mark your calendars and stay tuned to the Clash of Clans in-
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/Ksx6Lnxj0LcbgiXsI7DsY/b933e35645f46bede29019a920541805/COC_SFEST_-_Champion__6_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-11-03T11:29:05+00:00</published>
+  </entry>
+  <entry>
+    <id>150mFCHoF4BL8CqlgUUgsq</id>
+    <title>Rewatch the SPS Cup 4 - Day 2!</title>
+    <updated>2024-11-11T10:50:16.606000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5Sk6qG5XP5XZnI81Uk6KEt/7f9c22cad66cd49796355cd8d7664ac9/SPS_S6_C4_thumb_Day_2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/th5TKBAAJss?si=R-ECXphQSMgf5ymU&amp;t=1733"/>
+    <category term="Esports"/>
+    <published>2024-11-11T10:50:11+00:00</published>
   </entry>
 </feed>
