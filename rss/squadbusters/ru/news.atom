@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>squadbusters-newsEntries-ru</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-11T06:41:28.355226+00:00</updated>
+  <updated>2024-11-11T07:32:42.635261+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -387,5 +387,23 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/ZNIGEWAJ0yO6l5lX0mnDV/e2ff0ab205d050b1a9fb097f3f0c5045/SB_Spooky_16-9_nologo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Обновления"/>
     <published>2024-10-21T06:50:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7r4SISrR9PyQTF5Tfbbznp</id>
+    <title>Леон, шахтёр и лучница вернулись! </title>
+    <updated>2024-11-11T07:15:46.781000+00:00</updated>
+    <content>&lt;h1&gt;Пропустили событие к выходу лавового мира? Не переживайте!&lt;/h1&gt;
+&lt;p&gt;С 11 по 18 ноября (07:00 UTC) на вашей площади будет гостить мини-П.Е.К.К.А. Собирайте блинчики в сражениях и обменивайте на сундуки! Это событие будет короче первого, так что пройти его будет проще. 🥞&lt;/p&gt;&lt;p&gt;В лавовых сундуках обязательно будут персонажи лавового мира! 🔥&lt;/p&gt;&lt;p&gt;&lt;b&gt;Где взять блинчики?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Блинчики будут появляться во всех матчах, но их будет больше на картах лавового мира, которые будут попадаться немного чаще в течение события.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/54HbCKdk1ZcBxWz1tGCsFj/8f5b94fb7c2f7845f7af4071dd48e72e/PANCAKES__PEKKA-CHEF_.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Совет: победите мини-П.Е.К.К.А., чтобы получить добавку блинчиков!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;А если у меня уже есть все персонажи?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Если у вас уже есть Леон, шахтёр и лучница, то у вас будет отличная возможность получить персонажей-детей для их эволюции!&lt;/p&gt;&lt;p&gt;Если все они уже достигли максимального уровня, то персонажи-дети превратятся в звёздные жетоны, что поможет вам приблизиться к следующему звёздному сундуку.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;И ещё кое-что — авторы контента Supercell будут устраивать розыгрыши скина «Лягушка Леон» начиная с четверга, 14 ноября, в 15:00 UTC!&lt;/p&gt;
+&lt;h1&gt;Удачи в сборе блинчиков! &lt;/h1&gt;
+</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ru/news/7r4SISrR9PyQTF5Tfbbznp"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4QrlH2FZxyakk0MdLucktS/6fb9695ca0676dd257bf5bd5baa8fff7/GT5Mc9BboAA71DA.jpg.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2024-11-11T07:00:00+00:00</published>
   </entry>
 </feed>

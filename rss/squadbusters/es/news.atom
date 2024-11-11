@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>squadbusters-newsEntries-es</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-11T06:41:28.062343+00:00</updated>
+  <updated>2024-11-11T07:32:43.054391+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -417,5 +417,23 @@ Si llegas a Liga Squad antes de que termine el evento, ¡encontrarás una recomp
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/ZNIGEWAJ0yO6l5lX0mnDV/e2ff0ab205d050b1a9fb097f3f0c5045/SB_Spooky_16-9_nologo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Actualizaciones"/>
     <published>2024-10-21T06:50:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7r4SISrR9PyQTF5Tfbbznp</id>
+    <title>Vuelven Leon, el minero y la arquera </title>
+    <updated>2024-11-11T07:15:46.781000+00:00</updated>
+    <content>&lt;h1&gt;¿Te perdiste el evento de presentación de Mundo Magmático? ¡No te preocupes!&lt;/h1&gt;
+&lt;p&gt;El mini P.E.K.K.A. estará en la plaza desde el lunes 11 hasta el lunes 18 (07:00 UTC). Recoge panqueques en las batallas y cámbialos por cofres. Este evento es más corto que el original, así que completarlo debería ser más fácil. 🥞&lt;/p&gt;&lt;p&gt;Los cofres de lava te darán personajes de Mundo Magmático. 🔥&lt;/p&gt;&lt;p&gt;&lt;b&gt;¿Dónde se consiguen los panqueques?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Los panqueques aparecerán en todas las partidas, pero encontrarás más en los mapas de Mundo Magmático, que salen más a menudo cuando el evento está activo.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/54HbCKdk1ZcBxWz1tGCsFj/8f5b94fb7c2f7845f7af4071dd48e72e/PANCAKES__PEKKA-CHEF_.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Y un consejo: elimina al mini P.E.K.K.A. para recibir una ración extra de panqueques.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;¿Qué pasa si ya tengo a los personajes?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Si ya tienes a Leon, al minero y a la arquera en tu colección, esta es la oportunidad perfecta para obtener sus formas bebé y hacerlos evolucionar.&lt;/p&gt;&lt;p&gt;Si ya los tienes al nivel máximo, las formas bebé que consigas se convertirán en fichas estelares, lo que te acercará más al próximo cofre estelar.&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;¡Y eso no es todo! Los creadores de contenido de Supercell regalarán skins de Leon rana a partir de las 15:00 UTC del jueves 14.&lt;/p&gt;
+&lt;h1&gt;¡Disfruta de los panqueques! &lt;/h1&gt;
+</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/es/news/7r4SISrR9PyQTF5Tfbbznp"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4QrlH2FZxyakk0MdLucktS/6fb9695ca0676dd257bf5bd5baa8fff7/GT5Mc9BboAA71DA.jpg.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Novedades"/>
+    <published>2024-11-11T07:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-11T06:41:27.738935+00:00</updated>
+  <updated>2024-11-11T07:32:41.712207+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -459,5 +459,25 @@ ULTIMATE EVOLUTIONS ⭐️⭐️⭐️⭐️⭐️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/ZNIGEWAJ0yO6l5lX0mnDV/e2ff0ab205d050b1a9fb097f3f0c5045/SB_Spooky_16-9_nologo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-10-21T06:50:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7r4SISrR9PyQTF5Tfbbznp</id>
+    <title>Leon, Miner, and Archer are back! </title>
+    <updated>2024-11-11T07:15:46.781000+00:00</updated>
+    <content>&lt;h1&gt;Did you miss the Lava World Sneak Peek event? Worry not!&lt;/h1&gt;
+&lt;p&gt;Mini Pekka will be in your plaza from Monday, 11th, to Monday, 18th (07:00 UTC). Collect Pancakes in battles and exchange them for chests! This event is shorter than the original, so it should be easier to complete! 🥞&lt;/p&gt;&lt;p&gt;The Lava Chests are guaranteed to give you the Lava World characters! 🔥&lt;/p&gt;&lt;p&gt;&lt;b&gt;Where can I find the Pancakes?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Pancakes will spawn in all matches, but you’ll find more on Lava World maps, which will appear a bit more often while the event is active. &lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/54HbCKdk1ZcBxWz1tGCsFj/8f5b94fb7c2f7845f7af4071dd48e72e/PANCAKES__PEKKA-CHEF_.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Tip: Bust Mini Pekka for an extra portion of Pancakes!&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What happens if I have the characters already?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you already own Leon, Miner, and Archer, this is a great chance to get Babies and evolve them!&lt;/p&gt;&lt;p&gt;If you have them at MAX level already, those Babies will turn into Star Tokens, getting you closer to your next Star Chest.
+&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;One last thing! Supercell Content Creators will be giving away the Froggie Leon Skin for free starting Thursday, 14th at 15:00 UTC!&lt;/p&gt;
+&lt;h1&gt;Happy Pancake hunting! &lt;/h1&gt;
+</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/7r4SISrR9PyQTF5Tfbbznp"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-11-11T07:00:00+00:00</published>
   </entry>
 </feed>

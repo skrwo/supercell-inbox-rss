@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-11T06:41:27.431717+00:00</updated>
+  <updated>2024-11-11T07:32:42.476221+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -988,5 +988,23 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4bjRR0ZOfGfZ59O52ZR4PC/7bae717800c869622afcf04c89d7cf17/20241023_SQU_TW_fanart_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-10-25T03:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>7r4SISrR9PyQTF5Tfbbznp</id>
+    <title>レオン、ディガー、アーチャーがカムバック！</title>
+    <updated>2024-11-11T07:15:46.781000+00:00</updated>
+    <content>&lt;h1&gt;ラヴァワールドの先行プレイイベントが恋しい方に朗報！&lt;/h1&gt;
+&lt;p&gt;11月11日から18日（月曜日 日本時間午後4時）まで、ミニP.E.K.K.Aがプラザに出現します。バトルでパンケーキを集めて宝箱と交換しましょう！完走しやすくなるよう、前回よりもイベントのボリュームは抑えめです🥞&lt;/p&gt;&lt;p&gt;ラヴァ宝箱からは、ラヴァワールドのキャラクターが確定で手に入ります🔥&lt;/p&gt;&lt;p&gt;&lt;b&gt;パンケーキの入手方法は？&lt;/b&gt;&lt;/p&gt;&lt;p&gt;パンケーキはバトル中に発見できますが、ラヴァワールドのマップでは獲得数が増加します。イベント中、ラヴァワールドのマップは出現頻度が上昇します。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/54HbCKdk1ZcBxWz1tGCsFj/8f5b94fb7c2f7845f7af4071dd48e72e/PANCAKES__PEKKA-CHEF_.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;ヒント：ミニP.E.K.Kを倒すとパンケーキを追加でドロップします！&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;キャラクターを入手済みの場合は？&lt;/b&gt;&lt;/p&gt;&lt;p&gt;レオン、ディガー、アーチャーを入手済みの場合でも、ベビーを集めて進化させることが可能です！&lt;/p&gt;&lt;p&gt;キャラクターの進化レベルが最大の場合、入手したベビーはスタートークンに変換されるため、スター宝箱のアンロックを進めることができます。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;最後に告知を行います… Supercellのコンテンツクリエイターによる「カエル レオン」スキンのプレゼント企画が、15日（金）日本時間午前0時から始まります！&lt;/p&gt;
+&lt;h1&gt;パンケーキ集めに励んでください！&lt;/h1&gt;
+</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/7r4SISrR9PyQTF5Tfbbznp"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4QrlH2FZxyakk0MdLucktS/6fb9695ca0676dd257bf5bd5baa8fff7/GT5Mc9BboAA71DA.jpg.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="新着"/>
+    <published>2024-11-11T07:00:00+00:00</published>
   </entry>
 </feed>
