@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-eventEntries-fr</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-11-12T17:32:39.827109+00:00</updated>
+  <updated>2024-11-12T18:39:35.967291+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -17,21 +17,13 @@
     <published>2023-09-28T13:26:32+00:00</published>
   </entry>
   <entry>
-    <id>4SD0ORFSXYTjCVJRqBllIe</id>
-    <title>🗞️</title>
-    <updated>2023-12-16T13:04:49.994000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://www.twitch.tv/videos/2005606352?t=00h30m55s"&gt;👉Regarde👈&lt;/a&gt;</content>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6J29AzP4P4vQafYSv32OVl/11e701e820c799517b0b5cc1ebf1b840/CLASHUNLEASHED-INBOX.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.twitch.tv/videos/2005606352?t=00h30m55s"/>
-    <published>2023-12-16T13:04:49+00:00</published>
-  </entry>
-  <entry>
     <id>3sTuYxRBZpmFo9vC3gy7rC</id>
     <title>🗞️</title>
-    <updated>2024-11-12T12:16:39.619000+00:00</updated>
-    <content>[EMPTY]</content>
+    <updated>2024-11-12T17:39:58.656000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/8jf2hNiBKYs"&gt;👉Regarder ! 👈&lt;/a&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Z0PIZxpgdAGQMw1HVrq3e/27bf2c489072ea93d303137d39aee660/CoC_SC020_Justice_EN_860x1320_Still_Inbox_v07_nj_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/8jf2hNiBKYs"/>
     <published>2024-10-31T13:00:04+00:00</published>
   </entry>
   <entry>

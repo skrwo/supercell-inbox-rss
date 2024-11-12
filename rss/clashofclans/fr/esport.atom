@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-12T17:32:39.829463+00:00</updated>
+  <updated>2024-11-12T18:39:35.973135+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -322,5 +322,23 @@ Hindi: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%25
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/QsKW6jaBcEEuiExi7lKsO/bb5b0d6b95de07b583645ed29a5ee044/FR_COC_SFEST---Champion.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sport"/>
     <published>2024-11-03T11:29:05+00:00</published>
+  </entry>
+  <entry>
+    <id>150mFCHoF4BL8CqlgUUgsq</id>
+    <title>Re-Regardez le jour 2 de la SPS!</title>
+    <updated>2024-11-12T17:36:20.550000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3UaxTGTuqNjkjCJETgCeO7/4a794e75de1ca09a80c8eb0e61f1073f/FR_Thumbnail_Day_2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/th5TKBAAJss?si=R-ECXphQSMgf5ymU&amp;t=1733"/>
+    <category term="E-sport"/>
+    <published>2024-11-11T10:50:11+00:00</published>
+  </entry>
+  <entry>
+    <id>3XHnksL0sIh7aymd28NH9C</id>
+    <title>Re-Regardez le jour 1 de la SPS!</title>
+    <updated>2024-11-12T17:36:07.443000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6SOcCzAbqMlD7Gh86lTFDn/a5282b9ef9ca3f914539c2170499ef39/FR_Thumbnail_Day_1.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2297764776?t=00h01m16s"/>
+    <category term="E-sport"/>
+    <published>2024-11-12T11:55:00+00:00</published>
   </entry>
 </feed>
