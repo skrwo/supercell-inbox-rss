@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-11-12T05:35:18.794469+00:00</updated>
+  <updated>2024-11-12T06:41:17.784886+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -269,7 +269,7 @@
   <entry>
     <id>3EmOLielXdCIRhcbGyxi09</id>
     <title>Camions plus efficaces : plusieurs commandes à la fois !</title>
-    <updated>2024-11-12T04:38:17.780000+00:00</updated>
+    <updated>2024-11-12T06:22:28.298000+00:00</updated>
     <content>&lt;h1&gt;Vroum vroum ! Les camions accélèrent !&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Vous pourrez désormais envoyer plusieurs commandes à la fois, sans devoir attendre le retour du camion !&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Il suffira de rouvrir le panneau des commandes après le départ du camion pour terminer une nouvelle commande, et le camion reviendra avec toutes vos récompenses !&lt;/p&gt;&lt;p&gt;C&amp;#39;est parfait pour l&amp;#39;événement général du camion qui approche ! 👀&lt;/p&gt;&lt;p&gt;Vous pouvez voir les détails de cette fonctionnalité dans l&amp;#39;épisode d&amp;#39;octobre de &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;C dans l&amp;#39;œuf&lt;/a&gt;.&lt;/p&gt;</content>
     <link href="https://hayday.inbox.supercell.com/#/fr/news/3EmOLielXdCIRhcbGyxi09"/>

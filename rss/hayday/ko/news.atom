@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-11-12T05:35:19.508602+00:00</updated>
+  <updated>2024-11-12T06:41:14.592368+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -254,6 +254,17 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="이벤트"/>
     <published>2024-11-03T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3EmOLielXdCIRhcbGyxi09</id>
+    <title>더 빨라진 트럭: 일괄 주문 공지</title>
+    <updated>2024-11-12T06:22:28.298000+00:00</updated>
+    <content>&lt;h1&gt;모두가 특송 트럭을 이용할 수 있어요!!!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;트럭이 돌아올 때까지 기다리지 마세요. 이제 플레이어 여러분 모두가 여러 개의 트럭 주문을 한꺼번에 보낼 수 있습니다!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;트럭이 떠난 후에도 주문판에서 다른 주문을 완료하면, 트럭이 모든 보상을 싣고 돌아옵니다!&lt;/p&gt;&lt;p&gt;마침 트럭 주문 협동 이벤트가 시작합니다!👀&lt;/p&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;뉴스 농장&lt;/a&gt; 10월 에피소드에서 새로 바뀐 트럭 주문 기능에 대해 더 자세히 알아보실 수 있습니다.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/3EmOLielXdCIRhcbGyxi09"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-11-06T08:00:29+00:00</published>
   </entry>
   <entry>
     <id>2XURAoyOUOpiUw2jDW3tOR</id>
