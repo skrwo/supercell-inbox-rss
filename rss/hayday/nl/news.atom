@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-11-12T01:53:50.011930+00:00</updated>
+  <updated>2024-11-12T02:55:55.596287+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -265,6 +265,17 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Evenementen"/>
     <published>2024-11-03T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3EmOLielXdCIRhcbGyxi09</id>
+    <title>Aankondiging: snellere trucks - meerdere bestellingen</title>
+    <updated>2024-11-12T02:53:02.282000+00:00</updated>
+    <content>&lt;h1&gt;Snellere trucks voor iedereen!!!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Iedereen kan nu meerdere truckbestellingen versturen zonder te wachten totdat de truck terug is!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open gewoon het bestelbord opnieuw nadat de truck is weggereden, voltooi een nieuwe bestelling en zie de truck terugkomen met al je beloningen!&lt;/p&gt;&lt;p&gt;Net op tijd voor het wereldwijde truckevenement! 👀&lt;/p&gt;&lt;p&gt;Je kunt zien hoe deze nieuwe functie werkt in de oktoberaflevering van &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;het Boernaal&lt;/a&gt;.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/3EmOLielXdCIRhcbGyxi09"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nieuws"/>
+    <published>2024-11-06T08:00:29+00:00</published>
   </entry>
   <entry>
     <id>2XURAoyOUOpiUw2jDW3tOR</id>
