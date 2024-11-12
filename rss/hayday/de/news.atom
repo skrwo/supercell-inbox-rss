@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-11-12T03:36:21.567171+00:00</updated>
+  <updated>2024-11-12T04:37:13.573624+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -265,6 +265,17 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Ereignisse"/>
     <published>2024-11-03T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3EmOLielXdCIRhcbGyxi09</id>
+    <title>Ankündigung: Schnellere Lieferwagen durch Mehrfachbestellungen</title>
+    <updated>2024-11-12T04:13:09.131000+00:00</updated>
+    <content>&lt;h1&gt;Schnellere Lieferwagen für alle!!!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Lieferwagenbestellungen lassen sich jetzt simultan abwickeln, ohne erst auf die Rückkehr des Lieferwagens warten zu müssen!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Öffne einfach erneut die Bestelltafel, nachdem der Lieferwagen abgefahren ist. Dort kannst du direkt eine weitere Bestellung abfertigen. Der Lieferwagen wird mit all deinen Belohnungen zurückkehren!&lt;/p&gt;&lt;p&gt;Gerade noch rechtzeitig für das weltweite Lieferwagen-Ereignis! 👀&lt;/p&gt;&lt;p&gt;Die Funktionsweise des Features zeigt die Oktoberausgabe des &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;Farmerjournals&lt;/a&gt;.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/3EmOLielXdCIRhcbGyxi09"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Neues"/>
+    <published>2024-11-06T08:00:29+00:00</published>
   </entry>
   <entry>
     <id>2XURAoyOUOpiUw2jDW3tOR</id>
