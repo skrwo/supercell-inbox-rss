@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-12T12:55:02.107951+00:00</updated>
+  <updated>2024-11-12T13:36:31.726891+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -190,7 +190,7 @@ OJ&lt;/p&gt;
   <entry>
     <id>ray5CzNypZv9AZ4MGoSnH</id>
     <title>이전 기기 지원 종료 안내</title>
-    <updated>2024-10-01T13:06:53.222000+00:00</updated>
+    <updated>2024-11-12T12:54:39.736000+00:00</updated>
     <content>&lt;h1&gt;기기 지원 종료: iOS 12, iOS 13, Android 5, Android 6&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;10월 2일&lt;/b&gt;에 진행되는 업데이트를 기점으로 iOS 12 이하 버전과 Android 6.0 이하 버전에 대한 지원이 종료됩니다. 이는 성능 문제와 구형 기기의 기술적인 한계를 고려해 결정된 사항입니다. 따라서 해당 운영 체제의 기기를 사용하는 플레이어는 최신 OS 버전으로 업그레이드하지 않는 한, 더 이상 _클래시 로얄_을 플레이할 수 없습니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;iOS&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;iOS 12 및 13에 대한 지원이 중단되므로, iPhone 5S, iPhone 6, iPhone 6 Plus와 같은 기기에서 지원이 종료됩니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Android&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Android 5.0(Lollipop) 및 Android 6.0(Marshmallow)를 사용하는 기기에서 지원이 종료됩니다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;권장 사항&lt;/b&gt;&lt;/p&gt;&lt;p&gt;이번 변경 사항에 영향을 받는 OS 버전의 기기를 사용 중이라면, 가능하면 최신 버전으로 업데이트하는 걸 권장합니다.&lt;/p&gt;&lt;p&gt;iOS 버전 업데이트 방법에 대한 안내는 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.apple.com%2Fko-kr%2F118575')"&gt;Apple 지원&lt;/a&gt; 웹사이트에서 확인할 수 있으며, Android 업데이트 방법에 대한 안내는 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.google.com%2Fandroid%2Fanswer%2F7680439%3Fhl%3Dko')"&gt;Google 지원&lt;/a&gt; 웹사이트에서 확인할 수 있습니다.&lt;/p&gt;&lt;p&gt;게임을 새 기기로 옮기는 방법 또는 계정을 Supercell ID와 연동하는 방법에 대한 자세한 내용은 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.supercell.com%2Fclash-royale%2Fko%2Findex.html')"&gt;FAQ&lt;/a&gt;를 확인해 주세요.&lt;/p&gt;&lt;p&gt;플레이어 여러분의 이해와 클래시 로얄을 향한 지속적인 성원에 감사드립니다!
 — &lt;i&gt;클래시 로얄&lt;/i&gt; 팀&lt;/p&gt;</content>

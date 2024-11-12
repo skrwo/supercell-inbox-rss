@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-12T12:55:04.220077+00:00</updated>
+  <updated>2024-11-12T13:36:42.102002+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -216,9 +216,9 @@ The &lt;b&gt;Free Pass&lt;/b&gt; has been significantly enhanced, now offering r
   <entry>
     <id>ray5CzNypZv9AZ4MGoSnH</id>
     <title>End of Support for Older Devices</title>
-    <updated>2024-10-01T13:06:53.222000+00:00</updated>
+    <updated>2024-11-12T12:54:39.736000+00:00</updated>
     <content>&lt;h1&gt;End of Support: iOS 12, iOS 13, Android 5, and Android 6&lt;/h1&gt;
-&lt;p&gt;Starting with the update on &lt;b&gt;October 2&lt;/b&gt;, we will be ending support for iOS versions 12 and below, as well as Android versions 6.0 and below. This decision is based on performance issues and the technical limitations of older devices. As a result, players using devices running these operating systems will no longer be able to play &lt;i&gt;Clash Royale&lt;/i&gt; unless they upgrade to a more recent OS version. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;iOS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;: Dropping support for iOS 12 and 13 will remove devices such as the iPhone 5s, iPhone 6, and iPhone 6 Plus.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Android&lt;/b&gt;&lt;/p&gt;&lt;p&gt;: Devices running Android 5.0 (Lollipop) and Android 6.0 (Marshmallow) will no longer be supported.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;What You Need to Do
+&lt;p&gt;Starting with the update on &lt;b&gt;October 2&lt;/b&gt;, we will be ending support for iOS versions 12 and below, as well as Android versions 6.0 and below. This decision is based on performance issues and the technical limitations of older devices. As a result, players using devices running these operating systems will no longer be able to play &lt;i&gt;Clash Royale&lt;/i&gt; unless they upgrade to a more recent OS version. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;iOS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;: Dropping support for iOS 12 and 13 will remove devices such as the iPhone 5s, iPhone 6, and iPhone 6 Plus.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Android&lt;/b&gt;&lt;/p&gt;&lt;p&gt;: Devices running Android 5.0 (Lollipop) and Android 6.0 (Marshmallow) will no longer be supported.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;What You Need to Do
 &lt;/b&gt;
 If your device is running any of the affected OS versions, we recommend updating to a newer version if possible.
 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-12T12:55:02.702350+00:00</updated>
+  <updated>2024-11-12T13:36:34.691114+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -183,7 +183,7 @@ OJ&lt;/p&gt;
   <entry>
     <id>ray5CzNypZv9AZ4MGoSnH</id>
     <title>Прекращение поддержки старых устройств</title>
-    <updated>2024-10-01T13:06:53.222000+00:00</updated>
+    <updated>2024-11-12T12:54:39.736000+00:00</updated>
     <content>&lt;h1&gt;Прекращение поддержки устройств с операционными системами iOS 12, iOS 13, Android 5 и Android 6&lt;/h1&gt;
 &lt;p&gt;Вместе с обновлением, которое выйдет &lt;b&gt;2 октября&lt;/b&gt;, мы прекратим поддержку устройств с операционной системой iOS 12-й версии и ниже, а также устройств на Android версии 6.0 и ниже. Это решение вызвано техническими ограничениями и проблемами с производительностью старых операционных систем. Игроки, которые пользуются устройствами с этими операционными системами, не смогут играть в &lt;i&gt;Clash Royale&lt;/i&gt;, пока не установят более новую версию системы.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;iOS&lt;/b&gt;:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;прекращение поддержки iOS 12-й и 13-й версий означает, что вы не сможете использовать такие устройства, как iPhone 5S, iPhone 6 и iPhone 6 Plus;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Android&lt;/b&gt;:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;прекращается поддержка устройств с операционными системами Android 5.0 (Lollipop) и Android 6.0 (Marshmallow).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Что вам нужно сделать&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Если на вашем устройстве установлена одна из перечисленных операционных систем, мы советуем вам обновить ее.&lt;/p&gt;&lt;p&gt;Информацию о том, как обновить операционную систему устройства, можно найти на сайтах службы поддержки &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.apple.com%2Fru-ru%2F118575')"&gt;Apple (для iOS)&lt;/a&gt; и &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.google.com%2Fandroid%2Fanswer%2F7680439%3Fhl%3Dru')"&gt;Google (для Android)&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Чтобы узнать, как привязать учетную запись к Supercell ID или перенести игру на другое устройство, посетите наш раздел &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.supercell.com%2Fclash-royale%2Fru%2Findex.html')"&gt;часто задаваемых вопросов.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Благодарим за понимание и поддержку!
 Команда &lt;i&gt;Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
