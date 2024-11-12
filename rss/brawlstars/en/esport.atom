@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-12T19:29:08.465613+00:00</updated>
+  <updated>2024-11-12T20:32:33.012280+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -177,5 +177,14 @@
     <link href="matcherino.com/t/rvlqual3"/>
     <category term="Esports"/>
     <published>2024-11-12T10:58:03+00:00</published>
+  </entry>
+  <entry>
+    <id>7sRPIDSrKQh7pwhlfHPXCR</id>
+    <title>Interview with World Champion Symantec!</title>
+    <updated>2024-11-12T20:19:49.076000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6qJS2udlg8pOcEv1K97xxB/b26531c70a1e187e92ff78c7444ecb1c/maxresdefault.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WTnnHaawFFQ?si=3Lm_8gtKhi7UQDWZ"/>
+    <category term="Esports"/>
+    <published>2024-11-12T20:19:49+00:00</published>
   </entry>
 </feed>
