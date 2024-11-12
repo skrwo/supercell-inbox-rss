@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-12T13:36:15.412937+00:00</updated>
+  <updated>2024-11-12T14:36:42.176970+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -26,12 +26,12 @@
   </entry>
   <entry>
     <id>6DeIsSHq0MpwhCdHCr57Fm</id>
-    <title>Reveja o September Spectacle!</title>
-    <updated>2024-11-02T14:41:45.423000+00:00</updated>
+    <title>Reveja o E5petáculo de 5etembro!</title>
+    <updated>2024-11-12T14:17:33.205000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4YZ61KIZRpBbMLSzUs67RZ/d29fb43c7bbb2f5745aff0c2699f6c40/PT-September_Spectacle_South_America_ingame.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=gK4_HO0yyPg"/>
     <category term="Esports"/>
-    <published>2024-10-30T22:00:00+00:00</published>
+    <published>2024-09-29T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>YtOkOUVEmXHdxf8G4Ay30</id>
@@ -41,5 +41,32 @@
     <link href="https://www.youtube.com/watch?v=SbOj8WHPnXA"/>
     <category term="Esports"/>
     <published>2024-11-02T14:25:27+00:00</published>
+  </entry>
+  <entry>
+    <id>2z5FvdyIsCVFVTasNtaav2</id>
+    <title>DragonForce AO VIVO no SuperFest</title>
+    <updated>2024-11-12T13:38:11.886000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4yxqi5YMCTDnnvJQbdXjGx/e0dc71caef1825d68e5c52e763906038/dragonforce_thumbnail_2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/euG3vHhSgNs"/>
+    <category term="Esports"/>
+    <published>2024-11-08T12:09:14+00:00</published>
+  </entry>
+  <entry>
+    <id>2IXKNDiNQxAU3ocJ9TyTeR</id>
+    <title>Reveja o Dia 2 da Final Mundial 2024</title>
+    <updated>2024-11-12T14:07:33.207000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/68LfTAlBU8AOiE4tohnhg6/f2f6d1bdcdb84e2105aec5a472af3f3f/PT-BSWF24_Day_2_Thumbnail__1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=3iXq4SbQ5ts"/>
+    <category term="Esports"/>
+    <published>2024-11-12T14:07:33+00:00</published>
+  </entry>
+  <entry>
+    <id>7Fz8vrN4Y5wvLbj5zGZ6pR</id>
+    <title>Reveja a GRANDE FINAL DA CMBS 2024!</title>
+    <updated>2024-11-12T14:11:50.156000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/50uuz855mmCD6l2UhQbp6h/1dab3f02bae920e07028212bed014086/PT-BSWF24_Day_3_Thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=FkhFYJ6AG9Q"/>
+    <category term="Esports"/>
+    <published>2024-11-12T14:11:50+00:00</published>
   </entry>
 </feed>
