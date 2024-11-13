@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 13 Nov 2024 13:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 14:36:40 +0000</lastBuildDate>
     <item>
       <title>《破壞突擊隊》你想知道的都在這！</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -729,6 +729,16 @@
       <category>最新情報</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6neMr2IakqAj7QsxHljO5W/45586354abf115cff63c6c41247012c9/tw_20241112_derder_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 Nov 2024 10:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>非強制可選更新上線！</title>
+      <link>https://squadbusters.inbox.supercell.com/#/zh/news/16iJI5aH4KYfGeU2MpcuJG</link>
+      <description>&lt;h1&gt;立即更新遊戲！&lt;/h1&gt;
+&lt;p&gt;我們推出了針對Android裝置和iOS裝置的非強制可選更新，包含以下問題修復和調整：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;不同步錯誤，主要出現在寒冰世界地圖上&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;開啟某些獎勵時，滿級帳號會出現閃退&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;部分教學介面文字翻譯缺失&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;皮納塔好友現在會顯示在線時間並以此進行排序&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;表情收藏數量在各個介面保持一致&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">16iJI5aH4KYfGeU2MpcuJG</guid>
+      <category>更新說明</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Wed, 13 Nov 2024 14:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

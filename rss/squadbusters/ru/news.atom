@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>squadbusters-newsEntries-ru</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-13T13:36:25.817086+00:00</updated>
+  <updated>2024-11-13T14:36:40.873979+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -405,5 +405,16 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Новости"/>
     <published>2024-11-11T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16iJI5aH4KYfGeU2MpcuJG</id>
+    <title>Доступно необязательное обновление! </title>
+    <updated>2024-11-13T14:30:17.751000+00:00</updated>
+    <content>&lt;h1&gt;Обновите игру! &lt;/h1&gt;
+&lt;p&gt;Вышло необязательное обновление для устройств Android и iOS со следующими исправлениями и изменениями:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;исправлены ошибки синхронизации (в основном на картах ледяного мира);&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;исправлены сбои игры в учетных записях максимального уровня при открывании некоторых наград;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;добавлен отсутствующий перевод текста в обучении;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;для друзей по пиньяте теперь отображается время входа в игру, а их список сортируется соответствующим образом;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;одинаковый счетчик эмодзи на всех экранах.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ru/news/16iJI5aH4KYfGeU2MpcuJG"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Обновления"/>
+    <published>2024-11-13T14:01:00+00:00</published>
   </entry>
 </feed>

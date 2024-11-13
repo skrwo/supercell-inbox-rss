@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>squadbusters-newsEntries-it</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-13T13:36:25.947039+00:00</updated>
+  <updated>2024-11-13T14:36:40.988231+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -425,5 +425,16 @@ Se raggiungi la Lega delle squadre prima della fine dell&amp;#39;evento, ci sar�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-11-11T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16iJI5aH4KYfGeU2MpcuJG</id>
+    <title>È disponibile un nuovo aggiornamento facoltativo! </title>
+    <updated>2024-11-13T14:30:17.751000+00:00</updated>
+    <content>&lt;h1&gt;Aggiorna il gioco! &lt;/h1&gt;
+&lt;p&gt;L&amp;#39;aggiornamento facoltativo è disponibile per i dispositivi Android e iOS e contiene le seguenti modifiche e correzioni.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto gli errori di sincronizzazione che interessavano principalmente la Taiga.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto l&amp;#39;errore per cui il gioco si interrompeva all&amp;#39;apertura di alcune ricompense sugli account con personaggi al livello massimo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo aggiunto le traduzioni mancanti in alcuni passaggi del tutorial.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Adesso è possibile vedere la presenza online degli amici nella Festa delle pignatte, che si riflette anche nell&amp;#39;ordine in cui vengono visualizzati.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo corretto l&amp;#39;errore per cui il numero di reazioni nella collezione non era sempre lo stesso nei vari menu di gioco.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/it/news/16iJI5aH4KYfGeU2MpcuJG"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Aggiornamenti"/>
+    <published>2024-11-13T14:01:00+00:00</published>
   </entry>
 </feed>

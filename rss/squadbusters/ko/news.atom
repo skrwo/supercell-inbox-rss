@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-13T13:36:26.005239+00:00</updated>
+  <updated>2024-11-13T14:36:41.049448+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -537,5 +537,16 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2024-11-11T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16iJI5aH4KYfGeU2MpcuJG</id>
+    <title>선택적 업데이트가 추가되었습니다!</title>
+    <updated>2024-11-13T14:30:17.751000+00:00</updated>
+    <content>&lt;h1&gt;지금 바로 게임을 업데이트하세요! &lt;/h1&gt;
+&lt;p&gt;Android와 iOS 기기에서 선택적 업데이트를 이용하실 수 있으며, 다음과 같은 수정 사항이 적용됩니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;아이스 월드에서 주로 발생하는 동기화 오류가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이미 최고 진화 단계인 캐릭터를 획득할 때 충돌이 생기는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;튜토리얼 진행 중 번역 텍스트가 표시되지 않는 문제가 수정되었습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이제 피냐타 파티 친구 초대 창에 마지막 접속 시간이 표시되며 이에 따라 정렬됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;보유한 이모티콘의 개수가 화면마다 다르게 보이는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/16iJI5aH4KYfGeU2MpcuJG"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="업데이트"/>
+    <published>2024-11-13T14:01:00+00:00</published>
   </entry>
 </feed>

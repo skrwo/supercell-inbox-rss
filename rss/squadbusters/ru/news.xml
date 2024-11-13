@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 13 Nov 2024 13:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 14:36:40 +0000</lastBuildDate>
     <item>
       <title>Всё, что вам нужно знать!</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -372,6 +372,16 @@
       <category>Новости</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 11 Nov 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Доступно необязательное обновление! </title>
+      <link>https://squadbusters.inbox.supercell.com/#/ru/news/16iJI5aH4KYfGeU2MpcuJG</link>
+      <description>&lt;h1&gt;Обновите игру! &lt;/h1&gt;
+&lt;p&gt;Вышло необязательное обновление для устройств Android и iOS со следующими исправлениями и изменениями:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;исправлены ошибки синхронизации (в основном на картах ледяного мира);&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;исправлены сбои игры в учетных записях максимального уровня при открывании некоторых наград;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;добавлен отсутствующий перевод текста в обучении;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;для друзей по пиньяте теперь отображается время входа в игру, а их список сортируется соответствующим образом;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;одинаковый счетчик эмодзи на всех экранах.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">16iJI5aH4KYfGeU2MpcuJG</guid>
+      <category>Обновления</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Wed, 13 Nov 2024 14:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

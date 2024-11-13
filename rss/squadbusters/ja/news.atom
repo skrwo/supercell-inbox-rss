@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-13T13:36:26.212980+00:00</updated>
+  <updated>2024-11-13T14:36:40.268986+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1006,5 +1006,16 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="新着"/>
     <published>2024-11-11T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16iJI5aH4KYfGeU2MpcuJG</id>
+    <title>任意アップデート配信！</title>
+    <updated>2024-11-13T14:30:17.751000+00:00</updated>
+    <content>&lt;h1&gt;ゲームをアップデートしましょう！&lt;/h1&gt;
+&lt;p&gt;Android／iOSデバイス用の任意アップデートが配信されました。本アップデートに含まれる修正点や変更点は以下の通りです。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;主にアイスワールドのマップで同期エラーが発生する問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;最高レベルに到達したアカウントで特定の報酬を開封する際、ゲームがクラッシュする問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;チュートリアルで一部翻訳テキストが表示されない問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ピニャータフレンドの接続時間の表示と、それに応じた並び替えを実装&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;表示されるスタンプの所有数を統一&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/16iJI5aH4KYfGeU2MpcuJG"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="アップデート"/>
+    <published>2024-11-13T14:01:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>squadbusters-newsEntries-de</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-13T13:36:26.152980+00:00</updated>
+  <updated>2024-11-13T14:36:40.923050+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -440,5 +440,16 @@ Wenn du die Squadliga erreichst, bevor das Event endet, wartet im Shop eine Belo
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-11-11T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16iJI5aH4KYfGeU2MpcuJG</id>
+    <title>Ein optionales Update ist jetzt verfügbar! </title>
+    <updated>2024-11-13T14:30:17.751000+00:00</updated>
+    <content>&lt;h1&gt;Aktualisiere dein Spiel! &lt;/h1&gt;
+&lt;p&gt;Das optionale Update ist für Android- und iOS-Geräte verfügbar und enthält die folgenden Fehlerbehebungen und Änderungen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Behebung von Synchronisierungsfehlern, vor allem bei den Maps der Eiswelt&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Behebung von Abstürzen bei maximierten Konten beim Öffnen bestimmter Belohnungen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fehlende Textübersetzungen auf einigen Bildschirmen des Tutorials wurden hinzugefügt&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Für Piñata-Freunde wird jetzt die Verbindungszeit angezeigt und sie werden entsprechend sortiert&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Behebung des Fehlers, der dazu führte, dass die Anzahl der Emotes in der Sammlung an verschiedenen Stellen unterschiedlich angezeigt wurde&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/de/news/16iJI5aH4KYfGeU2MpcuJG"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Updates"/>
+    <published>2024-11-13T14:01:00+00:00</published>
   </entry>
 </feed>

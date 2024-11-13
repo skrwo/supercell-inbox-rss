@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 Nov 2024 13:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 14:36:40 +0000</lastBuildDate>
     <item>
       <title>知っておきたいこと！</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -956,6 +956,16 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
       <category>新着</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 11 Nov 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>任意アップデート配信！</title>
+      <link>https://squadbusters.inbox.supercell.com/#/ja/news/16iJI5aH4KYfGeU2MpcuJG</link>
+      <description>&lt;h1&gt;ゲームをアップデートしましょう！&lt;/h1&gt;
+&lt;p&gt;Android／iOSデバイス用の任意アップデートが配信されました。本アップデートに含まれる修正点や変更点は以下の通りです。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;主にアイスワールドのマップで同期エラーが発生する問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;最高レベルに到達したアカウントで特定の報酬を開封する際、ゲームがクラッシュする問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;チュートリアルで一部翻訳テキストが表示されない問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ピニャータフレンドの接続時間の表示と、それに応じた並び替えを実装&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;表示されるスタンプの所有数を統一&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">16iJI5aH4KYfGeU2MpcuJG</guid>
+      <category>アップデート</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Wed, 13 Nov 2024 14:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

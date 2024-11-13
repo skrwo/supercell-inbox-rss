@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>squadbusters-newsEntries-es</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-13T13:36:26.247230+00:00</updated>
+  <updated>2024-11-13T14:36:40.571677+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -435,5 +435,16 @@ Si llegas a Liga Squad antes de que termine el evento, ¡encontrarás una recomp
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Novedades"/>
     <published>2024-11-11T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16iJI5aH4KYfGeU2MpcuJG</id>
+    <title>¡Ya disponible una actualización opcional! </title>
+    <updated>2024-11-13T14:30:17.751000+00:00</updated>
+    <content>&lt;h1&gt;¡Actualiza el juego! &lt;/h1&gt;
+&lt;p&gt;La actualización opcional está disponible para dispositivos Android y para iOS, y arregla los siguientes problemas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Errores de sincronización, en especial en los mapas de Mundo Nevado.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Errores que hacían que el juego se cerrara al abrir determinadas recompensas en cuentas al máximo nivel.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Texto que no aparecía durante el tutorial.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ahora aparecerá la hora de conexión de tus amigos de la fiesta de piñatas y los verás ordenados en función de ella.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Número inconsistente de emojis de tu colección en distintas pantallas del juego.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/es/news/16iJI5aH4KYfGeU2MpcuJG"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Actualizaciones"/>
+    <published>2024-11-13T14:01:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>squadbusters-newsEntries-tr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-13T13:36:26.035075+00:00</updated>
+  <updated>2024-11-13T14:36:40.518965+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -428,5 +428,16 @@ Etkinlik sona ermeden önce takım ligine ulaşırsanız dükkandan ödülünüz
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Haberler"/>
     <published>2024-11-11T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16iJI5aH4KYfGeU2MpcuJG</id>
+    <title>İsteğe bağlı güncelleme geldi! </title>
+    <updated>2024-11-13T14:30:17.751000+00:00</updated>
+    <content>&lt;h1&gt;Oyununu güncelle! &lt;/h1&gt;
+&lt;p&gt;Android ve iOS cihazlar için geçerli isteğe bağlı güncellemede şu düzeltmeler ve değişiklikler olacak:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Senkronizasyon bozukluğu hataları (özellikle de buz dünyası haritalarındaki) düzeltildi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Maksimuma ulaşmış hesaplarda belirli ödülleri açarken yaşanan çökmeler düzeltildi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bazı eğitim ekranlarına eksik metin çevirileri eklendi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Artık pinyata arkadaşlarının bağlantı zamanı gösteriliyor ve arkadaşlar buna göre sıralanıyor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;İfade koleksiyonu sayıları tüm ekranlarda tutarlı şekilde gösteriliyor.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/tr/news/16iJI5aH4KYfGeU2MpcuJG"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Oyun Güncellemeleri"/>
+    <published>2024-11-13T14:01:00+00:00</published>
   </entry>
 </feed>

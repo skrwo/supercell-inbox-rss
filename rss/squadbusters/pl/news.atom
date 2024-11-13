@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>squadbusters-newsEntries-pl</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-13T13:36:25.690756+00:00</updated>
+  <updated>2024-11-13T14:36:40.790294+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -405,5 +405,16 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Aktualności"/>
     <published>2024-11-11T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16iJI5aH4KYfGeU2MpcuJG</id>
+    <title>Aktualizacja opcjonalna jest dostępna </title>
+    <updated>2024-11-13T14:30:17.751000+00:00</updated>
+    <content>&lt;h1&gt;Zaktualizuj grę. &lt;/h1&gt;
+&lt;p&gt;Dostępna jest aktualizacja opcjonalna na urządzenia z Androidem i iOS. Jej zadaniem jest wprowadzenie następujących zmian:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Naprawienie błędów w synchronizacji – głównie w przypadku map lodowego świata.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawienie błędów występujących podczas otwierania niektórych nagród w przypadku wysokopoziomowych kont.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawienie braku tłumaczeń na niektórych ekranach samouczka.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Czas połączenia znajomych w piniacie jest teraz widoczny – są też oni rozlokowani zgodnie z czasem dołączenia.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stała liczba kolekcji emotek na różnych ekranach.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/16iJI5aH4KYfGeU2MpcuJG"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Aktualizacje gry"/>
+    <published>2024-11-13T14:01:00+00:00</published>
   </entry>
 </feed>

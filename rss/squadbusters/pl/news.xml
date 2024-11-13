@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 13 Nov 2024 13:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 14:36:40 +0000</lastBuildDate>
     <item>
       <title>Wszystko, co musisz wiedzieć</title>
       <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
@@ -372,6 +372,16 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
       <category>Aktualności</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/XVJqNMvrhLjAV2bURgPDX/548a89a9e3552be84e01105e3455fc5c/Lava_World_Event_16-9.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 11 Nov 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aktualizacja opcjonalna jest dostępna </title>
+      <link>https://squadbusters.inbox.supercell.com/#/pl/news/16iJI5aH4KYfGeU2MpcuJG</link>
+      <description>&lt;h1&gt;Zaktualizuj grę. &lt;/h1&gt;
+&lt;p&gt;Dostępna jest aktualizacja opcjonalna na urządzenia z Androidem i iOS. Jej zadaniem jest wprowadzenie następujących zmian:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Naprawienie błędów w synchronizacji – głównie w przypadku map lodowego świata.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawienie błędów występujących podczas otwierania niektórych nagród w przypadku wysokopoziomowych kont.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawienie braku tłumaczeń na niektórych ekranach samouczka.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Czas połączenia znajomych w piniacie jest teraz widoczny – są też oni rozlokowani zgodnie z czasem dołączenia.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stała liczba kolekcji emotek na różnych ekranach.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">16iJI5aH4KYfGeU2MpcuJG</guid>
+      <category>Aktualizacje gry</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Wed, 13 Nov 2024 14:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
