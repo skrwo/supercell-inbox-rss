@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-14T10:39:31.005932+00:00</updated>
+  <updated>2024-11-14T11:29:13.665573+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -430,5 +430,36 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CgSuIfzF5qtSdTk0odgcU/73c251ae7d4179cb1323dc524f3e8757/2v2_League.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2024-11-12T07:34:28+00:00</published>
+  </entry>
+  <entry>
+    <id>1MQ2gvhAiGE29Go3lziblF</id>
+    <title>Ноябрьские изменения баланса!</title>
+    <updated>2024-11-14T11:28:23.147000+00:00</updated>
+    <content>&lt;p&gt;Ниже представлены ноябрьские изменения баланса.&lt;/p&gt;
+&lt;h1&gt;Всадница на баране&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41lVqiZzrWZDJ5l33n37BH/f20d9e2ed3b23fa2a3a177a7cc148634/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Урон:&lt;/b&gt;
+266 → 250 (-6 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Урон при штурме:&lt;/b&gt;
+532 → 500 (-6 %)&lt;/p&gt;
+&lt;p&gt;Несмотря на то, что мы довольны возросшей популярностью всадницы, недавнее усиление сделало ее слишком сильной. Поскольку сейчас штурм — это очень стабильная и эффективная способность, мы снижаем ее урон, чтобы сбалансировать эту карту.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Гоблинштейн&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3lfUwRJwE2oL56hvOsC610/002de5298485a5b8a5195b77b2beb9a9/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Здоровье монстра:&lt;/b&gt; 2752 → 2598 (-6 %)&lt;/p&gt;
+&lt;p&gt;Для своей стоимости Гоблинштейн — слишком сильная карта, эффективная как при атаке, так и при обороне. Мы снижаем здоровье монстра, чтобы побудить игроков продумывать стратегию при использовании этой карты.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Эволюция П.Е.К.К.А.&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tWzGr7vP76sVKOEITQJTl/ab138a7f847e81eb4ab841e6a53c3b80/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Исцеление за уничтожение&lt;/b&gt;:
+376 → 282 (-25 %)&lt;/p&gt;
+&lt;p&gt;Эволюция П.Е.К.К.А. все еще остается одной из самых сильных и популярных карт в текущей мете. Это ослабление незначительно повлияет на ее силу, однако должно снизить ее популярность.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Эволюция мушкетера&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fP0VdzxtghFKSoJRa0xtb/9993119b8f93b631b01748b4486b0280/musketeerevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Снайперский урон&lt;/b&gt;:
+326 → 392 (+20 %)&lt;/p&gt;
+&lt;p&gt;Мы увеличиваем снайперский урон эволюции мушкетера, чтобы эффективность ее способности соответствовала сложности применения. Теперь мушкетер может уничтожить королеву лучниц или дракончика за 3 пули, а в сочетании с гигантским снежком ей по силам даже пламенный дракон или палач.&lt;/p&gt;&lt;p&gt;До встречи на арене!
+&lt;i&gt;Команда Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/1MQ2gvhAiGE29Go3lziblF"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2aTTrAsYIkEgmEbbC33Azw/ca567a0aecaf5a869bc2e9a97b21c863/balance2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Информация о версии"/>
+    <published>2024-11-14T11:28:23+00:00</published>
   </entry>
 </feed>

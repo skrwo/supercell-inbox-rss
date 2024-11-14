@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 14 Nov 2024 10:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 11:29:11 +0000</lastBuildDate>
     <item>
       <title>學牌組好去處！</title>
       <link>https://clashroyale.inbox.supercell.com/#/zh/news/1x62odjI4OkIgZfBs6qQfR</link>
@@ -547,6 +547,36 @@ OJ&lt;/p&gt;
       <category>更新說明</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CgSuIfzF5qtSdTk0odgcU/73c251ae7d4179cb1323dc524f3e8757/2v2_League.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Tue, 12 Nov 2024 07:34:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>11月平衡性調整！</title>
+      <link>https://clashroyale.inbox.supercell.com/#/zh/news/1MQ2gvhAiGE29Go3lziblF</link>
+      <description>&lt;p&gt;11月平衡性調整如下：&lt;/p&gt;
+&lt;h1&gt;蠻羊騎士&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41lVqiZzrWZDJ5l33n37BH/f20d9e2ed3b23fa2a3a177a7cc148634/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;傷害：&lt;/b&gt;
+266 → 250（-6.00%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;衝鋒傷害：&lt;/b&gt;
+532 → 500（-6.00%）&lt;/p&gt;
+&lt;p&gt;雖然我們很高興看到蠻羊騎士在最近一次加強後變得更加實用，但它作為核心卡牌的強度實在太高了。由於其衝鋒變得更加穩定，我們決定透過削弱其傷害來平衡一下。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;科學怪哥布林&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3lfUwRJwE2oL56hvOsC610/002de5298485a5b8a5195b77b2beb9a9/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;怪物生命值：&lt;/b&gt; 2752 → 2598（-6.00%）&lt;/p&gt;
+&lt;p&gt;無論是進攻還是防禦，科學怪哥布林提供的價值都遠高過其聖水花費。為了鼓勵玩家更有策略地使用這張卡牌，我們降低了怪物的生命值。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;進化皮卡超人&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tWzGr7vP76sVKOEITQJTl/ab138a7f847e81eb4ab841e6a53c3b80/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;每次死亡治療：&lt;/b&gt;
+376 → 282（-25.00%）&lt;/p&gt;
+&lt;p&gt;進化皮卡超人依然是目前遊戲版本中最強大且最熱門的卡牌之一。這次削弱是為了讓這張卡牌在目前的Meta中更加平衡，同時避免削弱過多。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;進化火槍手&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fP0VdzxtghFKSoJRa0xtb/9993119b8f93b631b01748b4486b0280/musketeerevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;狙擊傷害：&lt;/b&gt;
+326 → 392（20.00%）&lt;/p&gt;
+&lt;p&gt;我們決定提升進化火槍手技能的狙擊傷害，使其收益與使用難度更接近。現在，她只需三發子彈就能擊敗弓箭女皇和飛龍寶寶；搭配巨型雪球還能消滅地獄飛龍和飛斧屠夫。&lt;/p&gt;&lt;p&gt;我們競技場上見！
+&lt;i&gt;《部落衝突:皇室戰爭》遊戲團隊&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">1MQ2gvhAiGE29Go3lziblF</guid>
+      <category>更新說明</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2aTTrAsYIkEgmEbbC33Azw/ca567a0aecaf5a869bc2e9a97b21c863/balance2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Thu, 14 Nov 2024 11:28:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-14T10:39:33.031669+00:00</updated>
+  <updated>2024-11-14T11:29:10.366862+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -472,5 +472,36 @@ Il team di Clash Royale&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CgSuIfzF5qtSdTk0odgcU/73c251ae7d4179cb1323dc524f3e8757/2v2_League.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Note di rilascio"/>
     <published>2024-11-12T07:34:28+00:00</published>
+  </entry>
+  <entry>
+    <id>1MQ2gvhAiGE29Go3lziblF</id>
+    <title>Modifiche di bilanciamento di novembre</title>
+    <updated>2024-11-14T11:28:23.147000+00:00</updated>
+    <content>&lt;p&gt;Continua a leggere per scoprire tutti i dettagli sulle modifiche di bilanciamento di metà novembre.&lt;/p&gt;
+&lt;h1&gt;Domatrice di arieti&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41lVqiZzrWZDJ5l33n37BH/f20d9e2ed3b23fa2a3a177a7cc148634/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni:&lt;/b&gt;
+ridotti del 6% (da 266 a 250 punti).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Danni in carica:&lt;/b&gt;
+ridotti del 6% (da 532 a 500 punti).&lt;/p&gt;
+&lt;p&gt;Siamo contenti che la domatrice di arieti sia ora una scelta più appetibile grazie ai potenziamenti ricevuti di recente, ma, da allora, è diventata una carta fin troppo determinante negli scontri. Per questo, visto che adesso la sua carica è molto più efficace, ne abbiamo ridotto i danni, per bilanciarla.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Goblinstein&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3lfUwRJwE2oL56hvOsC610/002de5298485a5b8a5195b77b2beb9a9/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;PF del mostro:&lt;/b&gt; ridotti del 6% (da 2752 a 2598 punti).&lt;/p&gt;
+&lt;p&gt;L&amp;#39;efficacia di Goblinstein, sia in attacco che in difesa, è un po&amp;#39; eccessiva, se consideriamo il suo costo in elisir, perciò abbiamo ridotto i punti ferita del mostro, per incoraggiare i giocatori a usare questa carta in maniera più tattica.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tWzGr7vP76sVKOEITQJTl/ab138a7f847e81eb4ab841e6a53c3b80/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Cure per eliminazione:&lt;/b&gt;
+ridotte del 25% (da 376 a 282 punti).&lt;/p&gt;
+&lt;p&gt;La P.E.K.K.A evoluta è ancora una delle opzioni più forti e popolari in voga del gioco. Con questo indebolimento, miriamo a bilanciare il suo ruolo nelle strategie dei giocatori, preservandone però l&amp;#39;importanza.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Moschettiere evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fP0VdzxtghFKSoJRa0xtb/9993119b8f93b631b01748b4486b0280/musketeerevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni dei colpi da cecchino:&lt;/b&gt;
+aumentati del 20% (da 326 a 392 punti).&lt;/p&gt;
+&lt;p&gt;Abbiamo aumentato i danni dei colpi da cecchino del moschettiere evoluto per fare in modo che i loro effetti siano più in linea con la difficoltà di utilizzo dell&amp;#39;abilità. Infatti, ora questi colpi speciali permettono di abbattere la regina degli arcieri e il cucciolo di drago con tre soli proiettili e, se combinati con la Palla di neve gigante, sono sufficienti per eliminare il drago infernale e il boia.&lt;/p&gt;&lt;p&gt;Ci vediamo nell&amp;#39;arena!
+&lt;i&gt;Il team di Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/1MQ2gvhAiGE29Go3lziblF"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2aTTrAsYIkEgmEbbC33Azw/ca567a0aecaf5a869bc2e9a97b21c863/balance2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Note di rilascio"/>
+    <published>2024-11-14T11:28:23+00:00</published>
   </entry>
 </feed>

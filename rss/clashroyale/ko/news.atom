@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-14T10:39:31.591483+00:00</updated>
+  <updated>2024-11-14T11:29:14.099351+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -437,5 +437,36 @@ OJ&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CgSuIfzF5qtSdTk0odgcU/73c251ae7d4179cb1323dc524f3e8757/2v2_League.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2024-11-12T07:34:28+00:00</published>
+  </entry>
+  <entry>
+    <id>1MQ2gvhAiGE29Go3lziblF</id>
+    <title>11월 밸런스 조정!</title>
+    <updated>2024-11-14T11:28:23.147000+00:00</updated>
+    <content>&lt;p&gt;11월 중반기 밸런스 변경사항을 아래에서 확인하세요.&lt;/p&gt;
+&lt;h1&gt;램 라이더&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41lVqiZzrWZDJ5l33n37BH/f20d9e2ed3b23fa2a3a177a7cc148634/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;피해량&lt;/b&gt;:
+266 → 250(-6.00%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;돌격 피해량:&lt;/b&gt;
+532 → 500(-6.00%)&lt;/p&gt;
+&lt;p&gt;램 라이더는 최근 버프로 활용도가 훨씬 높아졌지만 압도적으로 우세해졌습니다. 돌격은 이전보다 훨씬 일관되므로, 대신 피해량을 낮춰 밸런스를 하향 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린슈타인&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3lfUwRJwE2oL56hvOsC610/002de5298485a5b8a5195b77b2beb9a9/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;몬스터 HP&lt;/b&gt;: 2752 → 2598(-6.00%)&lt;/p&gt;
+&lt;p&gt;고블린슈타인은 소모하는 엘릭서 가격에 비해 얻는 능력치가 공격과 방어 모두 과도하게 높습니다. 더 전술적으로 활용하실 수 있도록 고블린슈타인의 몬스터의 HP가 낮아집니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tWzGr7vP76sVKOEITQJTl/ab138a7f847e81eb4ab841e6a53c3b80/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;처치당 치유량&lt;/b&gt;:
+376 → 282(-25.00%)&lt;/p&gt;
+&lt;p&gt;진화한 P.E.K.K.A는 여전히 가장 강력하고 인기 있는 카드 중 하나입니다. 이번 너프는 강력함을 유지하면서도 지분을 낮출 수 있도록 하는 밸런스 하향이 목적입니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;머스킷병 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fP0VdzxtghFKSoJRa0xtb/9993119b8f93b631b01748b4486b0280/musketeerevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;스나이퍼 피해량&lt;/b&gt;
+326 → 392(20.00%)&lt;/p&gt;
+&lt;p&gt;어려운 스나이퍼 능력 사용 난이도에 균형을 맞출 수 있도록 진화한 머스킷병의 스나이퍼 피해량을 증가시킵니다. 이제 탄환 3개로 아처 퀸과 베이비 드래곤을 처치할 수 있으며, 또한 거대 눈덩이와 결합 시 인페르노 드래곤과 도끼맨을 처치할 수 있습니다.&lt;/p&gt;&lt;p&gt;아레나에서 뵙겠습니다.
+&lt;i&gt;클래시 로얄 팀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/1MQ2gvhAiGE29Go3lziblF"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2aTTrAsYIkEgmEbbC33Azw/ca567a0aecaf5a869bc2e9a97b21c863/balance2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="새 소식"/>
+    <published>2024-11-14T11:28:23+00:00</published>
   </entry>
 </feed>
