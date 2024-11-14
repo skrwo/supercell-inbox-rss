@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Nov 2024 05:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 06:42:04 +0000</lastBuildDate>
     <item>
       <title>VOTE FOR YOUR FAVORITE SUPER HERO SKIN!</title>
       <link>https://make.supercell.com/en/campaign/7LN7eOAgpUwRCHUVN0NSx7</link>
@@ -281,7 +281,63 @@ A: Definitely &lt;/p&gt;</description>
     <item>
       <title>PATCH NOTES: Angels vs Demons</title>
       <link>https://brawlstars.inbox.supercell.com/#/en/news/2KtNTVzMPzrxuH3nQGMVj</link>
-      <description>&lt;h1&gt;Maintenance - October 31st&lt;/h1&gt;
+      <description>&lt;h1&gt;Maintenance - November 14th&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;FIXED: &lt;/b&gt;
+▫️ Colt&amp;#39;s mad behavior with the Smite Ability
+▫️ Doug&amp;#39;s Super charges with the Revengeance Ability
+▫️ Clancy level charge with the Demonfire Ability
+▫️ Players unlocking duplicated Abilities in the Codex of Doom
+▫️ Contest Leaderboard showing incorrect player names
+▫️ Minor localisation fixes
+▫️ Replacement of Mad-Evil Showdown map, due to performance issues
+
+&lt;b&gt;Balance and General Changes 🛠️&lt;/b&gt;
+
+&lt;b&gt;MOE&lt;/b&gt;
+Projectile speed (Main attack) - 3600 → 2800
+Damage (Main attack) - 540 → 500
+
+&lt;b&gt;KENJI&lt;/b&gt;
+Star Power &amp;quot;Nigiri Nemesis&amp;quot; (shield) - 90% → 60%
+Super charge from Super - 100 → 65
+
+&lt;b&gt;LARRY&lt;/b&gt;
+Health points 3000 → 2800
+
+&lt;b&gt;SURGE&lt;/b&gt;
+Hypercharge rate - 30% → 20%
+
+&lt;b&gt;GALE&lt;/b&gt;
+Super charge from Basics - 90 → 80 (4 → 5 attacks)
+
+&lt;b&gt;CHARLIE&lt;/b&gt;
+Damage (Basic attack) - 760 → 800
+
+&lt;b&gt;ASH&lt;/b&gt;
+Rage from getting hit - 150 → 180 (20%)
+
+&lt;b&gt;SPIKE&lt;/b&gt;
+Health points 2600 → 2800
+
+&lt;b&gt;BROCK&lt;/b&gt;
+Health points 2400 → 2700
+
+&lt;b&gt;CLANCY&lt;/b&gt;
+Damage at all ranks (Main attack) - 800 → Damage at Rank 1: 600, Rank 2: 700, Rank 3: 800 (unchanged)
+Super damage at level 3 - 760 → 700
+
+&lt;b&gt;FRANK&lt;/b&gt;
+Damage (Main attack) - 1240 → 1160
+
+&lt;b&gt;BYRON&lt;/b&gt;
+Super charge rate - 10 ticks → 9 ticks (or 3 bullets)
+
+&lt;b&gt;ALSO: &lt;/b&gt;
+▫️ For the players who bought the Demonic and Angelic Drops in the Shop and didn&amp;#39;t get every Hypercharge Skins, the remaining ones will be available in the Shop with a discounted value (gems) until 1 week after the event ends!
+▫️ We also fixed the Contest Leaderboard for players who were getting fewer Angelic/Demonic Drops than they should
+▫️ We&amp;#39;ll now go through the list of every player affected by this issue and deliver the rewards they should have received. Unfortunately, we won&amp;#39;t be able to let each player decide what they would like to get, so we&amp;#39;ll split the Drops into 50% Angelic and 50% Demonic
+▫️ The compensation will (hopefully) be delivered in the next couple of weeks!&lt;/p&gt;
+&lt;h1&gt;Maintenance - October 31st&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Fixes:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed Gadgets and Star Powers charging Supers;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed weird behavior with Winstreak and Ranked&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed all-time Global Leaderboard showing inaccurate data&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Byron healing other brawlers entities using his basic attack such as Pets and Turrets. The same behavior was happening with Pearl&amp;#39;s Gadget &amp;quot;Made With Love&amp;quot;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mandy&amp;#39;s projectile speed was nerfed around 10% from the current value and &amp;quot;In my sights&amp;quot; Star Power projectile speed: 16% → 15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(We might still see some weird behavior in the Leaderboards!)&lt;/p&gt;
 &lt;h1&gt;NEW BRAWLERS ✨&lt;/h1&gt;
 &lt;h3&gt;JUJU: Mythic - Artillery&lt;/h3&gt;&lt;p&gt;
