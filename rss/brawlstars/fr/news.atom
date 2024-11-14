@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-newsEntries-fr</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-14T07:31:30.173681+00:00</updated>
+  <updated>2024-11-14T08:39:25.808383+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>3PHqdlzpJTq5dSe7UqZ1Db</id>
-    <title>VOTEZ POUR VOTRE SKIN DE SUPER HÉROS PRÉFÉRÉ !</title>
-    <updated>2024-08-16T08:08:50.127000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/fr/news/3PHqdlzpJTq5dSe7UqZ1Db"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6IfHywSXp9XWcMqQV45g99/78880847d33d8581080fbe7399afd57d/0814_MAKE_Vote_Starts_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://make.supercell.com/en/campaign/7LN7eOAgpUwRCHUVN0NSx7"/>
-    <category term="Communauté"/>
-    <published>2024-08-16T08:08:50+00:00</published>
-  </entry>
   <entry>
     <id>1OVipuwX4lNoMuLadusOlO</id>
     <title>42 PRIX STARR OU 7 MÉGABOÎTES ?!</title>
@@ -249,7 +239,7 @@ R : Oui, mais cela dépend quand même UN PEU de vos compétences. Si vous perde
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>NOTES DE PATCH : Anges VS Démons</title>
-    <updated>2024-11-14T06:49:48.355000+00:00</updated>
+    <updated>2024-11-14T08:30:22.824000+00:00</updated>
     <content>&lt;h1&gt;Maintenance - 31 octobre&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Corrections :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correction des gadgets et pouvoirs star qui chargeaient les supers.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction du fonctionnement étrange des séries de victoires et du mode Classé.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction du classement général qui montrait des données incorrectes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction des soins apportés par Byron à d&amp;#39;autre entités que des brawlers avec son attaque de base, comme des familiers ou des tourelles. Le gadget Faits avec amour de Pearl avait le même comportement.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La vitesse des projectiles de Mandy a été réduite d&amp;#39;environ 10 %, et est passée de 16 à 15 % avec son pouvoir star Sucre lent.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Il est possible que vous voyiez encore des choses étranges dans les classements !&lt;/p&gt;
 &lt;h1&gt;NOUVEAUX BRAWLERS ✨&lt;/h1&gt;

@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-14T07:31:29.984015+00:00</updated>
+  <updated>2024-11-14T08:39:12.082991+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>3PHqdlzpJTq5dSe7UqZ1Db</id>
-    <title>快來為你最喜歡的超級英雄造型投票吧！</title>
-    <updated>2024-08-16T08:08:50.127000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/3PHqdlzpJTq5dSe7UqZ1Db"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6IfHywSXp9XWcMqQV45g99/78880847d33d8581080fbe7399afd57d/0814_MAKE_Vote_Starts_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://make.supercell.com/en/campaign/7LN7eOAgpUwRCHUVN0NSx7"/>
-    <category term="社群"/>
-    <published>2024-08-16T08:08:50+00:00</published>
-  </entry>
   <entry>
     <id>2lt4kt3hvppVj3RsNnlxoz</id>
     <title>【第三方賽事】AET2024決賽今晚點燃戰火！</title>
@@ -423,7 +413,7 @@ AET2024歷經多場激烈爭鬥，從256支參賽隊伍裡脫穎而出、通過�
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>更新詳情：天使大戰惡魔</title>
-    <updated>2024-11-14T06:49:48.355000+00:00</updated>
+    <updated>2024-11-14T08:30:22.824000+00:00</updated>
     <content>&lt;h1&gt;10月31日維護公告&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;問題修復：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;修復武裝配件和能力之星會為超級技能蓄能的問題&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復連勝和排位賽中的異常問題&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復全球排行榜歷史數據顯示不準確的問題&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復拜倫的普通攻擊會治療其他英雄召喚物（如寵物和炮台）的問題出現同樣的問題還有珀爾的武裝配件「用愛烘焙」&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;曼蒂發射的糖果飛行速度從目前數值削弱了10%，「凝神遠眺」能力之星的糖果速度提升從16%變為15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;（排行榜仍有可能出現異常情況！）&lt;/p&gt;
 &lt;h1&gt;全新英雄✨&lt;/h1&gt;
