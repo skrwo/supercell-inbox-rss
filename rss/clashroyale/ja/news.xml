@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 Nov 2024 11:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 12:56:34 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -603,6 +603,36 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
       <category>リリース情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3CgSuIfzF5qtSdTk0odgcU/73c251ae7d4179cb1323dc524f3e8757/2v2_League.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Tue, 12 Nov 2024 07:34:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>11月のバランス調整</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ja/news/1MQ2gvhAiGE29Go3lziblF</link>
+      <description>&lt;p&gt;11月中旬のバランス調整の詳細は以下をご確認ください。&lt;/p&gt;
+&lt;h1&gt;ラムライダー&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/41lVqiZzrWZDJ5l33n37BH/f20d9e2ed3b23fa2a3a177a7cc148634/ramrider.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ダメージ&lt;/b&gt;：
+266 → 250 (-6.00％)&lt;/p&gt;&lt;p&gt;&lt;b&gt;突撃ダメージ：&lt;/b&gt;
+532 → 500 (-6.00％)&lt;/p&gt;
+&lt;p&gt;先日の強化で見事環境入りを果たしたラムライダーですが、使えば勝利が確約されるほどの存在感を放つようになってしまいました。突撃は以前よりも安定した性能を発揮しているため、今回でダメージを下げてバランスを取ることにします。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ゴブリンシュタイン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3lfUwRJwE2oL56hvOsC610/002de5298485a5b8a5195b77b2beb9a9/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;モンスターのHP&lt;/b&gt;：2752 → 2598 (-6.00％)&lt;/p&gt;
+&lt;p&gt;ゴブリンシュタインは、その低いエリクサーコストに対して、攻撃面と防御面の両方で破格の性能を誇っていました。しかし、今回の弱体化でHPが下がるため、これからはより戦略的なプレイングが要求されるようになります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5tWzGr7vP76sVKOEITQJTl/ab138a7f847e81eb4ab841e6a53c3b80/pekkaevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;撃破時回復&lt;/b&gt;：
+376 → 282 (-25.00％)&lt;/p&gt;
+&lt;p&gt;限界突破P.E.K.K.Aは、環境最強カードの一角として非常に高い使用率を誇っています。そのため今回の弱体化では、その突出した性能を抑えつつ、強カードとしての地位を維持できるように調整します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破マスケット銃士&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5fP0VdzxtghFKSoJRa0xtb/9993119b8f93b631b01748b4486b0280/musketeerevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;狙撃ダメージ：&lt;/b&gt;
+326 → 392 (20.00％)&lt;/p&gt;
+&lt;p&gt;今回の調整で狙撃ダメージを増加させることによって、狙撃の使いづらさとの釣り合いを取ります。これにより、アーチャークイーンとベビードラゴンが狙撃3発で、インフェルノドラゴンと執行人ファルチェが狙撃と巨大雪玉との組み合わせで撃破可能になります。&lt;/p&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！
+&lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">1MQ2gvhAiGE29Go3lziblF</guid>
+      <category>リリース情報</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2aTTrAsYIkEgmEbbC33Azw/ca567a0aecaf5a869bc2e9a97b21c863/balance2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Thu, 14 Nov 2024 11:28:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
