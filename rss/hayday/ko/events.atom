@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-eventEntries-ko</id>
   <title>Hayday - Event</title>
-  <updated>2024-11-14T14:37:24.745208+00:00</updated>
+  <updated>2024-11-14T15:36:25.699235+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>

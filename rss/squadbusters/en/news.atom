@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-14T14:37:26.630950+00:00</updated>
+  <updated>2024-11-14T15:36:39.438391+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -490,5 +490,21 @@ ULTIMATE EVOLUTIONS ⭐️⭐️⭐️⭐️⭐️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Game Updates"/>
     <published>2024-11-13T14:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5RAXYsnBZpNpD36qS6th9x</id>
+    <title>Get Froggie Leon FOR FREE!</title>
+    <updated>2024-11-14T15:05:52.379000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;All Supercell Content Creators are giving away Froggie Leon for free! 💚&lt;/p&gt;
+&lt;p&gt;Additionally, they will be giving away 50,000 Coins to a few lucky winners! &lt;/p&gt;
+&lt;h1&gt;How to Get the Skin&lt;/h1&gt;
+&lt;p&gt;Content Creators are sharing their unique QR codes and links as part of this giveaway. If you’re not sure which creators to look for, just type &lt;b&gt;#FroggieLeonGiveaway&lt;/b&gt; on social media and keep an eye out for a Squad Busters QR code! You can only scan it once, so if you have a favorite Creator, be sure to find their code to show your support!&lt;/p&gt;&lt;p&gt;Scanning a Creator’s QR code or clicking their link will instantly give you Froggie Leon. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Don’t worry if you don’t own Leon yet,&lt;/b&gt; the skin will be stored and ready to use as soon as you unlock the character. &lt;/p&gt;
+&lt;h1&gt;When can I claim the skin?&lt;/h1&gt;
+&lt;p&gt;The event runs from&lt;b&gt; NOW until November 21st&lt;/b&gt;, 15:00 UTC. &lt;/p&gt;&lt;p&gt;Froggie Leon will be back in the future but will remain exclusive for the time being.&lt;/p&gt;&lt;p&gt;Go get your free Froggie! 🐸&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/5RAXYsnBZpNpD36qS6th9x"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-11-14T15:00:00+00:00</published>
   </entry>
 </feed>

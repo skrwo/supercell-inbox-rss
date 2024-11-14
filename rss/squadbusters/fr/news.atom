@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>squadbusters-newsEntries-fr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-14T14:37:27.174717+00:00</updated>
+  <updated>2024-11-14T15:36:39.102023+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -446,5 +446,21 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Mises à jour"/>
     <published>2024-11-13T14:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5RAXYsnBZpNpD36qS6th9x</id>
+    <title>Obtenez Léon rainette GRATUITEMENT !</title>
+    <updated>2024-11-14T15:05:52.379000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Les créateurs Supercell offrent le skin Léon rainette gratuitement ! 💚&lt;/p&gt;
+&lt;p&gt;Quelques petits chanceux remporteront également 50 000 pièces !&lt;/p&gt;
+&lt;h1&gt;Comment obtenir le skin&lt;/h1&gt;
+&lt;p&gt;Les créateurs partageront un QR code et un lien perso pour ce concours. Si vous ne savez pas quel créateur suivre, cherchez le hashtag &lt;b&gt;#FroggieLeonGiveaway&lt;/b&gt; sur les réseaux et dénichez les QR codes ! Vous ne pouvez en scanner qu&amp;#39;un, alors si vous avez un créateur favori, soutenez-le en scannant le sien !&lt;/p&gt;&lt;p&gt;Vous avez juste à scanner le QR code d&amp;#39;un créateur ou à appuyer sur son lien et vous recevrez immédiatement Léon rainette.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Si vous n&amp;#39;avez pas encore débloqué Léon, ce n&amp;#39;est pas grave&lt;/b&gt; : le skin sera stocké et vous pourrez l&amp;#39;utiliser dès que vous le débloquez !&lt;/p&gt;
+&lt;h1&gt;Quand puis-je récupérer le skin ?&lt;/h1&gt;
+&lt;p&gt;L&amp;#39;événement commence &lt;b&gt;MAINTENANT et se termine le 21 novembre&lt;/b&gt;, à 15 h UTC.&lt;/p&gt;&lt;p&gt;Léon rainette sera disponible dans le magasin plus tard, mais il reste exclusif pour le moment.&lt;/p&gt;&lt;p&gt;Sautez donc sur l&amp;#39;occasion ! 🐸&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/5RAXYsnBZpNpD36qS6th9x"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Nouveautés"/>
+    <published>2024-11-14T15:00:00+00:00</published>
   </entry>
 </feed>

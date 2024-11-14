@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-14T14:37:26.546171+00:00</updated>
+  <updated>2024-11-14T15:36:36.321905+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -447,5 +447,21 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Novidades do jogo"/>
     <published>2024-11-13T14:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5RAXYsnBZpNpD36qS6th9x</id>
+    <title>Leon Sapinho GRÁTIS!</title>
+    <updated>2024-11-14T15:05:52.379000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Todos os criadores de conteúdo da Supercell estão distribuindo o Leon Sapinho de graça! 💚&lt;/p&gt;
+&lt;p&gt;Além disso, alguns sortudos receberão 50.000 moedas!&lt;/p&gt;
+&lt;h1&gt;Como obter o visual&lt;/h1&gt;
+&lt;p&gt;Os criadores de conteúdo estão compartilhando códigos QR e links exclusivos para a promoção. Caso você não saiba quais criadores procurar, digite &lt;b&gt;#FroggieLeonGiveaway&lt;/b&gt; nas redes sociais e busque o código QR de Squad Busters. Lembre que você só pode fazer a leitura do código uma vez, então use o código do seu criador preferido!&lt;/p&gt;&lt;p&gt;Ao fazer a leitura do código QR ou clicar no link de um criador, você receberá instantaneamente o Leon Sapinho.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Se você ainda não tem o Leon, não se preocupe!&lt;/b&gt; O visual ficará armazenado e estará pronto para usar assim que você desbloquear o personagem.&lt;/p&gt;
+&lt;h1&gt;Quando posso receber o visual?&lt;/h1&gt;
+&lt;p&gt;O evento começa &lt;b&gt;AGORA e vai até as 15h de 21 de novembro&lt;/b&gt; (UTC).&lt;/p&gt;&lt;p&gt;O Leon Sapinho estará de volta no futuro, mas por enquanto é exclusivo.&lt;/p&gt;&lt;p&gt;Vá buscar o seu sapinho! 🐸&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/5RAXYsnBZpNpD36qS6th9x"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Notícias"/>
+    <published>2024-11-14T15:00:00+00:00</published>
   </entry>
 </feed>

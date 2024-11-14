@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>squadbusters-newsEntries-es</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-14T14:37:26.150133+00:00</updated>
+  <updated>2024-11-14T15:36:37.360978+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -446,5 +446,21 @@ Si llegas a Liga Squad antes de que termine el evento, ¡encontrarás una recomp
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Actualizaciones"/>
     <published>2024-11-13T14:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5RAXYsnBZpNpD36qS6th9x</id>
+    <title>¡Consigue la skin de Leon rana gratis!</title>
+    <updated>2024-11-14T15:05:52.379000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;Todos los creadores de contenido de Supercell regalarán la skin de Leon rana. 💚&lt;/p&gt;
+&lt;p&gt;Y eso no es todo, también regalarán 50 000 monedas a varios ganadores afortunados.&lt;/p&gt;
+&lt;h1&gt;Cómo conseguir la skin&lt;/h1&gt;
+&lt;p&gt;Los creadores de contenido compartirán sus códigos QR y enlaces como parte del evento. Si no sabes a qué creadores buscar, escribe &lt;b&gt;#FroggieLeonGiveaway&lt;/b&gt; en redes sociales para dar con un código QR de Squad Busters. Solo puedes escanearlo una vez, por lo que, si tienes a un creador favorito, ¡busca su código y apóyalo!&lt;/p&gt;&lt;p&gt;Escanea el código QR de un creador o haz clic en su enlace para obtener la skin de Leon rana de forma instantánea.&lt;/p&gt;&lt;p&gt;&lt;b&gt;No te preocupes si todavía no tienes a Leon&lt;/b&gt;, ya que la skin se almacenará y la podrás usar cuando desbloquees al personaje.&lt;/p&gt;
+&lt;h1&gt;¿Cuándo puedo reclamar la skin?&lt;/h1&gt;
+&lt;p&gt;El evento empieza &lt;b&gt;ahora y dura hasta el 21 de noviembre&lt;/b&gt; a las 15:00 UTC.&lt;/p&gt;&lt;p&gt;Leon rana aparecerá en la tienda en el futuro, pero de momento seguirá siendo exclusivo del evento.&lt;/p&gt;&lt;p&gt;¡No te saltes esta skin! 🐸&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/es/news/5RAXYsnBZpNpD36qS6th9x"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Novedades"/>
+    <published>2024-11-14T15:00:00+00:00</published>
   </entry>
 </feed>

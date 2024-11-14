@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-14T14:37:26.413253+00:00</updated>
+  <updated>2024-11-14T15:36:38.544599+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1017,5 +1017,21 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/73TeKXkNHhSKvEdP5wlaWu/52c110bbbf97dddd94efedd79a2d8ee9/Optional_update.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="アップデート"/>
     <published>2024-11-13T14:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5RAXYsnBZpNpD36qS6th9x</id>
+    <title>カエル レオンを無料でゲット！</title>
+    <updated>2024-11-14T15:05:52.379000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5gcUUj65z8iOmUxGLIWhDY/07dc2a9689a721af7219c5682b273e08/Leon_FroggyLeon_portrait.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;すべてのSupercellコンテンツクリエイターから、「カエル レオン」を無料でプレゼント💚&lt;/p&gt;
+&lt;p&gt;さらに抽選で数名の方に「コイン5万枚」を進呈します！&lt;/p&gt;
+&lt;h1&gt;スキンの入手方法&lt;/h1&gt;
+&lt;p&gt;プレゼント企画の一環として、各コンテンツクリエイターが固有のQRコードとリンクをシェアします。どのクリエイターからもらえばいいのか分からない場合は「&lt;b&gt;#FroggieLeonGiveaway&lt;/b&gt;」のタグでSNSを検索し、QRコードが掲載された投稿を見つけてください！スキャンできるのは1回だけなので、推しクリエイターのコードを使用して活動を応援しましょう！&lt;/p&gt;&lt;p&gt;クリエイターのQRコードをスキャンするかリンクをクリックすれば、即座にカエル レオンを入手します。&lt;/p&gt;&lt;p&gt;**まだレオンをアンロックしていなくても大丈夫！**入手したスキンは保管され、レオンのアンロック後に使用可能になります。&lt;/p&gt;
+&lt;h1&gt;スキンの入手可能期間&lt;/h1&gt;
+&lt;p&gt;イベントの開催期間は、&lt;b&gt;現在より11月21日いっぱい&lt;/b&gt;（日本時間）までです。&lt;/p&gt;&lt;p&gt;カエル レオンはしばらくの間イベント限定スキンとなりますが、後日再入手が可能になります。&lt;/p&gt;&lt;p&gt;無料スキンを手に入れましょう🐸&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/5RAXYsnBZpNpD36qS6th9x"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="新着"/>
+    <published>2024-11-14T15:00:00+00:00</published>
   </entry>
 </feed>
