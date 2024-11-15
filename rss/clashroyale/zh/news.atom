@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-15T12:56:24.704660+00:00</updated>
+  <updated>2024-11-15T13:38:11.625730+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -652,5 +652,15 @@ OJ&lt;/p&gt;
     <link href="https://youtube.com/shorts/BqcmWJERwWk"/>
     <category term="精彩時刻"/>
     <published>2024-11-15T10:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>2lRYf3WYDlIqq1VHHGnAjm</id>
+    <title>【NARIE】主宰版本的最猛核心！這張卡簡直離譜！</title>
+    <updated>2024-11-15T13:30:02.646000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/2lRYf3WYDlIqq1VHHGnAjm"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3WXacDQkI6DMKab8Bmo71N/778f15a3f1b63b9e41b2c1842a3c5a4e/tw_20241115_narie_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=DIT89Hc5tbA"/>
+    <category term="攻略"/>
+    <published>2024-11-15T13:00:00+00:00</published>
   </entry>
 </feed>
