@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-15T09:34:10.898352+00:00</updated>
+  <updated>2024-11-15T10:39:59.219427+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -463,5 +463,15 @@ Se ha aumentado en un 20 % (de 326 a 392).&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2aTTrAsYIkEgmEbbC33Azw/ca567a0aecaf5a869bc2e9a97b21c863/balance2.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2024-11-14T11:28:23+00:00</published>
+  </entry>
+  <entry>
+    <id>6JveQddMRtOnHCm5SvpUQW</id>
+    <title>¡La evolución del cañón ya está disponible!</title>
+    <updated>2024-11-15T10:00:22.406000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/6JveQddMRtOnHCm5SvpUQW"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bLmWQUQp0KA55kd0Y4le8/3109fd16df18fe65a171d99d99694260/Illustration_CannonEvoLaunch_MusketsAtDawn.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/BqcmWJERwWk"/>
+    <category term="Lo más destacado"/>
+    <published>2024-11-15T10:00:03+00:00</published>
   </entry>
 </feed>
