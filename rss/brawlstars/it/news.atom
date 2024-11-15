@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-newsEntries-it</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-15T11:29:14.279326+00:00</updated>
+  <updated>2024-11-15T12:56:23.158992+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -239,8 +239,36 @@ Sì, ma dipende almeno in parte dalle tue abilità. Se dovessi perdere tutti gli
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>NOTE DI RILASCIO DELLA STAGIONE ''ANGELI E DEMONI''</title>
-    <updated>2024-11-15T06:09:00.472000+00:00</updated>
-    <content>&lt;h1&gt;Manutenzione del 31ottobre&lt;/h1&gt;
+    <updated>2024-11-15T12:41:24.919000+00:00</updated>
+    <content>&lt;h1&gt;Manutenzione del 14 novembre&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;PROBLEMI RISOLTI&lt;/b&gt;
+▫️ Risolto il comportamento anomalo di Colt, quando si usa l&amp;#39;abilità &amp;quot;Ira celeste&amp;quot;.
+▫️ Risolto l&amp;#39;errore con l&amp;#39;abilità &amp;quot;Ritorsione&amp;quot;, che permetteva a Doug di ricaricare la sua super.
+▫️ Risolto l&amp;#39;errore per cui Clancy caricava i suoi stadi, quando si usava l&amp;#39;abilità &amp;quot;Fiamme degli inferi&amp;quot;.
+▫️ Risolto l&amp;#39;errore per cui i giocatori ricevevano doppioni di abilità già sbloccate nel Codex fatalis.
+▫️ Risolto l&amp;#39;errore per cui i nomi dei giocatori mostrati nella classifica delle gare non erano sempre corretti.
+▫️ Risolti alcuni piccoli problemi di localizzazione.
+▫️ Sostituita la mappa Maniero medioemale in Sopravvivenza, a causa di alcuni problemi di prestazione.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Modifiche generali e di bilanciamento 🛠️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;MOE&lt;/b&gt;
+Velocità dei colpi sferrati con l&amp;#39;attacco principale ridotta a 2800 (da 3600).
+Punti danno dell&amp;#39;attacco principale ridotti a 500 (da 540).&lt;/p&gt;&lt;p&gt;&lt;b&gt;KENJI&lt;/b&gt;
+Protezione dai danni ottenuta con l&amp;#39;abilità stellare &amp;quot;Makisu d&amp;#39;acciaio&amp;quot; ridotta al 60% (dal 90%).
+Caricamento della super usando la super ridotto a 65 unità (da 100).&lt;/p&gt;&lt;p&gt;&lt;b&gt;LARRY&lt;/b&gt;
+Punti ferita ridotti a 2800 (da 3000).&lt;/p&gt;&lt;p&gt;&lt;b&gt;ENERGETIK&lt;/b&gt;
+Velocità di caricamento dell&amp;#39;overdrive ridotta al 20% ( dal 30%).&lt;/p&gt;&lt;p&gt;&lt;b&gt;GELINDO&lt;/b&gt;
+Velocità di caricamento della super tramite gli attacchi base ridotta a 80 (da 90). Adesso, per caricarla, servono cinque attacchi, invece di quattro.&lt;/p&gt;&lt;p&gt;&lt;b&gt;CHARLIE&lt;/b&gt;
+Punti danno dell&amp;#39;attacco base aumentati a 800 (da 760).&lt;/p&gt;&lt;p&gt;&lt;b&gt;ASH&lt;/b&gt;
+Quantità dei punti che riempiono l&amp;#39;indicatore della furia dopo che Ash viene colpito aumentata del 20% (da 150 a 180).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SPIKE&lt;/b&gt;
+Punti ferita aumentati a 2800 (da 2600).&lt;/p&gt;&lt;p&gt;&lt;b&gt;BROCK&lt;/b&gt;
+Punti ferita aumentati a 2700 (da 2400).&lt;/p&gt;&lt;p&gt;&lt;b&gt;CLANCY&lt;/b&gt;
+Punti danno dell&amp;#39;attacco principale modificati per il primo e secondo stadio: ridotti da 800 a 600 per il primo stadio e da 800 a 700 per il secondo. I punti danno al terzo stadio rimangono invariati (800).
+Punti danno della super al terzo stadio ridotti a 700 (da 760).&lt;/p&gt;&lt;p&gt;&lt;b&gt;FRANK&lt;/b&gt;
+Punti danno dell&amp;#39;attacco principale ridotti a 1160 (da 1240).&lt;/p&gt;&lt;p&gt;&lt;b&gt;BYRON&lt;/b&gt;
+Velocità di caricamento della super ridotta a 9 scatti dell&amp;#39;indicatore (da 10), i quali sono equivalenti a tre colpi.&lt;/p&gt;&lt;p&gt;&lt;b&gt;ALTRE MODIFICHE&lt;/b&gt;
+▫️ I giocatori che hanno acquistato i premi angelici e demoniaci nel negozio e non hanno ricevuto tutte le skin dell&amp;#39;overdrive troveranno quelle rimanenti a un prezzo in gemme scontato nel negozio, fino al termine della settimana successiva alla fine dell&amp;#39;evento.
+▫️ Abbiamo risolto l&amp;#39;errore con la classifica delle gare per cui alcuni giocatori ricevevano meno premi angelici e demoniaci del previsto.
+▫️ Controlleremo uno ad uno tutti i giocatori interessati e invieremo loro i premi che avrebbero dovuto ricevere. Purtroppo, non sarà possibile lasciar decidere a ciascun giocatore il premio che preferisce, perciò invieremo premi angelici a metà dei giocatori interessati e premi demoniaci all&amp;#39;altra metà.
+▫️ Puntiamo a inviare questi premi di risarcimento nel corso delle prossime due settimane.&lt;/p&gt;
+&lt;h1&gt;Manutenzione del 31ottobre&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;LE CORREZIONI&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corretto l&amp;#39;errore per il quale i gadget e le abilità stellari caricavano le super.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corretto l&amp;#39;errore che riguardava la serie di vittorie e la modalità Classificata.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corretto l&amp;#39;errore nella classifica generale che mostrava dati imprecisi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corretto l&amp;#39;errore per il quale Byron curava col suo attacco base gli alleati evocati, come animali e torrette. Lo stesso vale per il gadget di Pearl &amp;#39;&amp;#39;Ricetta perfetta&amp;#39;&amp;#39;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La velocità dell&amp;#39;attacco di Mandy è stata ridotta di circa il 10% rispetto al valore attuale, mentre l&amp;#39;aumento di velocità dei colpi dato dall&amp;#39;abilità stellare &amp;#39;&amp;#39;Dolce cecchina&amp;#39;&amp;#39; è stato portato al 15% (dal 16%).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(Potrebbe ancora esserci qualche comportamento strano nelle classifiche)&lt;/p&gt;
 &lt;h1&gt;I NUOVI BRAWLER ✨&lt;/h1&gt;
 &lt;h3&gt;JUJU (artigliere mitico)&lt;/h3&gt;&lt;p&gt;Juju è la proprietaria dell&amp;#39;Emporio delle stranezze ed è sempre accompagnata dalla sua bambola vudù, Gris-Gris (che si pronuncia &amp;#39;&amp;#39;Gregory&amp;#39;&amp;#39;). Oltre a saper controllare gli elementi, Juju è un&amp;#39;ottima artigiana che crea pupazzi per i visitatori dello Starr Park.&lt;/p&gt;&lt;p&gt;&lt;b&gt;ATTACCO BASE: FURIA DEGLI ELEMENTI&lt;/b&gt;
