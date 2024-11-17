@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-11-17T08:36:22.075409+00:00</updated>
+  <updated>2024-11-17T09:35:12.475959+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>kkqeH4e011pQNtCxcVV5h</id>
-    <title>Calendrier des événements Hay Day (semaine 34)</title>
-    <updated>2024-08-18T16:01:15.029000+00:00</updated>
-    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 34)&lt;/h1&gt;
-&lt;p&gt;Salut, amis de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements commencent à 8 h UTC (10 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, coupons&lt;/p&gt;&lt;p&gt;Mardi : événement du camion, EXP x2&lt;/p&gt;&lt;p&gt;Mercredi : événement du bateau, pièces x2&lt;/p&gt;&lt;p&gt;Jeudi : boost production de 20 % pour 3 bâtiments aléatoires&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 30 % (salon de plumage et fabrique de filets) + points du pass Hay Day x2&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;Dimanche : boost pour 3 récoltes aléatoires, 3 unités récoltées au lieu de 2&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/kkqeH4e011pQNtCxcVV5h"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Nouvelles"/>
-    <published>2024-08-18T16:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6yhs08FYqUPi9UJPSFsXVd</id>
     <title>Calendrier des événements Hay Day (semaine 35)</title>
@@ -287,5 +276,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Événements"/>
     <published>2024-11-10T09:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6ZtncU75VzafH8OH7E7la3</id>
+    <title>Calendrier des événements Hay Day (semaine 47)</title>
+    <updated>2024-11-17T09:01:44.532000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 47)&lt;/h1&gt;
+&lt;p&gt;Bonjour, amis de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements et les derbys commencent à 8 h UTC (10 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lundi&lt;/b&gt; : roue de la Fortune, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mardi&lt;/b&gt; : événement du camion, coupons&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercredi&lt;/b&gt; : événement du bateau, boosts&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jeudi&lt;/b&gt; : visiteurs de la ferme, pièces x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vendredi&lt;/b&gt; : événement de pêche, homards et appâts 30 % + points du pass Hay Day doublés&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samedi&lt;/b&gt; : visiteurs de la ville, matériaux du silo et de la grange&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dimanche&lt;/b&gt; : événement nourriture pour animaux, 3 types de nourriture pour animaux aléatoires sont produits 2x plus rapidement&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt; : Mystère&lt;/p&gt;&lt;p&gt;Passez une très bonne semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/6ZtncU75VzafH8OH7E7la3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Événements"/>
+    <published>2024-11-17T09:00:03+00:00</published>
   </entry>
 </feed>

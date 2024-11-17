@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-newsEntries-th</id>
   <title>Hayday - News</title>
-  <updated>2024-11-17T08:36:22.392607+00:00</updated>
+  <updated>2024-11-17T09:35:07.467704+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>kkqeH4e011pQNtCxcVV5h</id>
-    <title>อีเวนท์สัปดาห์ที่ 34 ของ Hay Day!</title>
-    <updated>2024-08-18T16:01:15.029000+00:00</updated>
-    <content>&lt;h1&gt;อีเวนท์สัปดาห์ที่ 34 ของ Hay Day!&lt;/h1&gt;
-&lt;p&gt;สวัสดีชาวไร่! เตรียมตัวให้พร้อมกับอีกสัปดาห์ที่เต็มไปด้วยอีเวนท์! ทุกอีเวนท์เริ่ม 8.00 UTC ดูรายละเอียดของแต่ละอีเวนท์ได้ที่กระดานอีเวนท์ในเกม&lt;/p&gt;&lt;p&gt;วันจันทร์: อีเวนท์หมุนวงล้อ (บัตรกำนัล)&lt;/p&gt;&lt;p&gt;วันอังคาร: อีเวนท์รถกระบะ (ค่าประสบการณ์ x2)&lt;/p&gt;&lt;p&gt;วันพุธ: อีเวนท์เรือ (เหรียญ x2)&lt;/p&gt;&lt;p&gt;วันพฤหัสบดี: อีเวนท์สิ่งก่อสร้างการผลิต (สุ่ม 3 หลังบูสต์ 20%)&lt;/p&gt;&lt;p&gt;วันศุกร์: อีเวนท์บูสต์การผลิตอุปกรณ์หาปลา (ซาลอนเป็ดและเครื่องทำตาข่ายบูสต์ 30%) + แต้ม Farm Pass x2&lt;/p&gt;&lt;p&gt;วันเสาร์: อีเวนท์ผู้มาเยือนเมือง (วัสดุการขยาย)&lt;/p&gt;&lt;p&gt;วันอาทิตย์: อีเวนท์บูสต์พืชผล (สุ่มพืชผล 3 ชนิดให้ผลิตผล 3 หน่วยแทนที่จะเป็น 2 หน่วยตามปกติ)&lt;/p&gt;&lt;p&gt;ขอให้มีสัปดาห์ที่ยอดเยี่ยม!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/th/news/kkqeH4e011pQNtCxcVV5h"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="ข่าว"/>
-    <published>2024-08-18T16:00:04+00:00</published>
-  </entry>
   <entry>
     <id>64yT7xAV2XtobKxy0u5gVD</id>
     <title>ข่าวสดจากเต้า: ฤดูใบไม้ร่วงมาแล้ว! </title>
@@ -276,5 +265,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="อีเวนท์"/>
     <published>2024-11-10T09:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6ZtncU75VzafH8OH7E7la3</id>
+    <title>สัปดาห์ที่ 47 ของ Hay Day</title>
+    <updated>2024-11-17T09:01:44.532000+00:00</updated>
+    <content>&lt;h1&gt;อีเวนท์สัปดาห์ที่ 47 ของ Hay Day&lt;/h1&gt;
+&lt;p&gt;เฮ้ ชาวไร่! เตรียมตัวให้พร้อมกับอีกสัปดาห์ที่เต็มไปด้วยอีเวนท์! ทุกอีเวนท์และการแข่งม้าเริ่ม 8.00 UTC ดูรายละเอียดของแต่ละอีเวนท์ได้ที่กระดานอีเวนท์ในเกม&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันจันทร์&lt;/b&gt;: หมุนวงล้อ (วัสดุการขยาย)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันอังคาร&lt;/b&gt;: อีเวนท์รถกระบะ (บัตรกำนัล)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันพุธ&lt;/b&gt;: อีเวนท์เรือ (บูสเตอร์)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันพฤหัสบดี&lt;/b&gt;: อีเวนท์ผู้มาเยือนฟาร์ม (เหรียญ x2)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันศุกร์&lt;/b&gt;: อีเวนท์หาปลา (ล็อบสเตอร์ + เหยื่อล่อ 30%) + แต้ม Farm Pass x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันเสาร์&lt;/b&gt;: อีเวนท์ผู้มาเยือนเมือง (วัสดุโรงนาและยุ้งฉาง)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันอาทิตย์&lt;/b&gt;: อีเวนท์อาหารสัตว์ (สุ่มอาหารสัตว์ 3 ชนิดซึ่งจะผลิตเร็วขึ้น 2 เท่า)&lt;/p&gt;&lt;p&gt;&lt;b&gt;การแข่งม้า&lt;/b&gt;: ปริศนา&lt;/p&gt;&lt;p&gt;ขอให้มีสัปดาห์ที่สุดยอด!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/th/news/6ZtncU75VzafH8OH7E7la3"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="อีเวนท์"/>
+    <published>2024-11-17T09:00:03+00:00</published>
   </entry>
 </feed>
