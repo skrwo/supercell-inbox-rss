@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-esportNewsEntries-de</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-18T14:38:46.379735+00:00</updated>
+  <updated>2024-11-18T15:36:44.758853+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
   <entry>
     <id>KgC6vPVk6vgVLqGN7mR8DZcJwGJUwR1YMzPQkzNRMd8</id>
     <title>Willkommen bei Clash Esports!</title>
-    <updated>2024-11-18T13:41:30.150000+00:00</updated>
+    <updated>2024-11-18T15:20:54.902000+00:00</updated>
     <content>&lt;p&gt;Hallo Häuptling!&lt;/p&gt;&lt;p&gt;Willkommen in der Welt von Clash of Clans-E-Sports! Um es dir leicht zu machen, haben wir in diesem Artikel die relevantesten Informationen über die Wettkampfszene von Clash of Clans gesammelt. Dort findest du alles zu laufenden und kommenden Turnieren, was sonst so ansteht, aber auch Infos zu vergangenen Turnieren. 
 &lt;/p&gt;&lt;p&gt;Dieser Artikel wird häufig aktualisiert, schau also wieder vorbei, um auf dem Laufenden zu bleiben!&lt;/p&gt;
 &lt;h1&gt;Laufende Turniere&lt;/h1&gt;
@@ -248,5 +248,14 @@ Dein Clash of Clans-Team&lt;/p&gt;&lt;p&gt;&lt;b&gt;Apple ist kein Sponsor und n
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/Ksx6Lnxj0LcbgiXsI7DsY/b933e35645f46bede29019a920541805/COC_SFEST_-_Champion__6_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-Sports"/>
     <published>2024-11-03T11:29:05+00:00</published>
+  </entry>
+  <entry>
+    <id>4hQCrhX8AAZ7nMKVdmM1qr</id>
+    <title>Wiederholung des SPS-Finales - Tag 2!</title>
+    <updated>2024-11-18T15:17:02.503000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3jyv9sj7T44QbV4qCF1oL7/a1f2595b452f8bd41869c316d5ea57ed/Thumbnail_Day_2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=TshYQs9P_kE"/>
+    <category term="E-Sports"/>
+    <published>2024-11-18T12:45:14+00:00</published>
   </entry>
 </feed>
