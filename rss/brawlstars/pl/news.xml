@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 18 Nov 2024 09:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 10:41:43 +0000</lastBuildDate>
     <item>
       <title>42 DROPY STARR CZY 7 MEGASKRZYNEK?</title>
       <link>https://brawlstars.inbox.supercell.com/#/pl/news/1OVipuwX4lNoMuLadusOlO</link>
@@ -226,7 +226,35 @@ Odp.: tak, ale jednak TROCHĘ zależy to od Twoich umiejętności. Jeśli przegr
     <item>
       <title>INFORMACJE O AKTUALIZACJI: Anioły kontra Demony</title>
       <link>https://brawlstars.inbox.supercell.com/#/pl/news/2KtNTVzMPzrxuH3nQGMVj</link>
-      <description>&lt;h1&gt;Prace techniczne – 31 października&lt;/h1&gt;
+      <description>&lt;h1&gt;Przerwa techniczna — 14 listopada&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;NAPRAWIONO:&lt;/b&gt;
+▫️ szalone zachowanie Colta przy zdolności Porażenie
+▫️ superdoładowania Douga przy zdolności Zemszczenie
+▫️ ładowanie poziomu Clancy’ego przy zdolności Demoniczny ogień
+▫️ odblokowywanie przez graczy zduplikowanych zdolności w Kodeksie Zagłady
+▫️ nieprawidłowe nazwy graczy w konkursowej tabeli wyników
+▫️ niewielkie poprawki w lokalizacji
+▫️ wymiana mapy Starcie w Dworze Szaleństwa ze względu na problemy z wydajnością&lt;/p&gt;&lt;p&gt;&lt;b&gt;Balans i ogólne zmiany 🛠️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;MOE&lt;/b&gt;
+Prędkość pocisku (główny atak): 3600 → 2800
+Obrażenia (główny atak): 540 → 500&lt;/p&gt;&lt;p&gt;&lt;b&gt;KENJI&lt;/b&gt;
+Gwiezdna moc: Nemezis Nigiri (tarcza): 90% → 60%
+Superdoładowanie z superataku: 100 → 65&lt;/p&gt;&lt;p&gt;&lt;b&gt;LARRY&lt;/b&gt;
+Punkty życia: 3000 → 2800&lt;/p&gt;&lt;p&gt;&lt;b&gt;SURGE&lt;/b&gt;
+Tempo hiperdoładowania: 30 → 20%&lt;/p&gt;&lt;p&gt;&lt;b&gt;GALE&lt;/b&gt;
+Superdoładowanie z ataków podstawowych: 90 → 80 (4 → 5 ataków)&lt;/p&gt;&lt;p&gt;&lt;b&gt;CHARLIE&lt;/b&gt;
+Obrażenia (atak podstawowy): 760 → 800&lt;/p&gt;&lt;p&gt;&lt;b&gt;ASH&lt;/b&gt;
+Szał z odnoszonych obrażeń: 150 → 180 (20%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;SPIKE&lt;/b&gt;
+Punkty życia: 2600 → 2800&lt;/p&gt;&lt;p&gt;&lt;b&gt;BROCK&lt;/b&gt;
+Punkty życia: 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;CLANCY&lt;/b&gt;
+Obrażenia na wszystkich poziomach (główny atak): 800 → obrażenia na poziomie 1.: 600, poziomie 2.: 700, poziomie 3.: 800 (bez zmian)
+Obrażenia z superataku na poziomie 3.: 760 → 700&lt;/p&gt;&lt;p&gt;&lt;b&gt;FRANK&lt;/b&gt;
+Obrażenia (główny atak): 1240 → 1160&lt;/p&gt;&lt;p&gt;&lt;b&gt;BYRON&lt;/b&gt;
+Tempo superdoładowania: 10 tyknięć → 9 tyknięć (lub 3 kule)&lt;/p&gt;&lt;p&gt;&lt;b&gt;PONADTO&lt;/b&gt;
+▫️ W przypadku graczy, którzy kupili anielskie lub demoniczne dropy w sklepie, lecz nie kupili każdego przebrania hiperdoładowania — pozostałe przebrania będą dostępne w sklepie jeszcze przez tydzień po zakończeniu wydarzenia i przecenione (do kupienia za klejnoty).
+▫️ Naprawiliśmy też konkursową tabelę wyników w przypadku graczy, którzy dostawali mniej anielskich/demonicznych dropów niż powinni.
+▫️ Teraz sprawdzimy każdego gracza na liście, którego dotyczył ten problem, a następnie dostarczymy należne nagrody. Niestety nie możemy dać każdemu graczowi opcji wyboru tego, co wolałby dostać, więc podzielimy dropy anielskie i demoniczne po połowie.
+▫️ Planujemy dostarczyć brakujące nagrody w ciągu następnych dwóch tygodni.&lt;/p&gt;
+&lt;h1&gt;Przerwa techniczna — 31 października&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Poprawki:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Naprawiliśmy gadżety i gwiezdne moce ładujące superataki.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawiliśmy dziwne zachowanie zwycięskiej passy i rankingu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawiliśmy globalną tabelę wszystkich wyników, która pokazywała nieprawidłowe dane.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawiliśmy uzdrawianie towarzyszy przez Byrona za pomocą jego głównego ataku takiego jak Pupile czy Wieżyczki. To samo dotyczyło gadżetu Pearl Upieczone z miłością.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Prędkość pocisków Mandy została znerfiona o jakieś 10% od aktualnej wartości. Również gwiezdna moc Na celowniku ma mniejszą prędkość pocisków: 16% → 15%.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(Tablica wyników może jeszcze czasem zachowywać się trochę dziwnie).&lt;/p&gt;
 &lt;h1&gt;NOWI ZADYMIARZE ✨&lt;/h1&gt;
 &lt;h3&gt;JUJU: Mityczna – Artyleria&lt;/h3&gt;&lt;p&gt;Juju jest właścicielką Sklepu Osobliwości i wszędzie towarzyszy jej „zwierzak” – laleczka voodoo o imieniu Gris-Gris (wymawiane jako „Gregory”). Choć potrafi kontrolować żywioły, Juju jest też utalentowaną twórczynią zabawek, która robi lalki na sprzedaż dla licznych gości Parku Starr.&lt;/p&gt;&lt;p&gt;&lt;b&gt;GŁÓWNY ATAK: ENERGIA ŻYWIOŁÓW&lt;/b&gt;
