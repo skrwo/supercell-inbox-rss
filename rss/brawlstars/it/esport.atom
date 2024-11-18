@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-18T08:41:42.216913+00:00</updated>
+  <updated>2024-11-18T09:37:29.863729+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -100,5 +100,23 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1PlIzrwvvfw6hbOjWZLKP7/bf71457b4ee90e662986f88cb3526a0f/FerreCup2_thumbnail.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-11-13T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7xzVh3nIWVwf7TYu3Qy4Sj</id>
+    <title>Ferre Cup 2 - Rivedi il giorno 1!</title>
+    <updated>2024-11-18T08:57:37.489000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3FENVaiyMsRBQrvg2TclLL/4624c30200cc3b76ef054e90987206eb/FerreCup2_LIVE_g1.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/dGrdelH6r7g?si=27Gj3VcMh0wz-IDh&amp;t=778"/>
+    <category term="Community"/>
+    <published>2024-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5AkMbD47N3NuKlSScpMqTB</id>
+    <title>Ferre Cup 2 - Rivedi il giorno 2!</title>
+    <updated>2024-11-18T08:59:09.595000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/24AHzfeAsF4SqmqYhT7DTP/0ed66482ba451dbc7b12d8ea8eb670a4/FerreCup2_LIVE_g2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/8qyVrpzApZY?si=g43NInpyM11vi_7K&amp;t=204"/>
+    <category term="Community"/>
+    <published>2024-11-17T00:00:00+00:00</published>
   </entry>
 </feed>
