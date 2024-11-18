@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>squadbusters-newsEntries-fr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-18T11:30:30.763461+00:00</updated>
+  <updated>2024-11-18T12:59:50.459478+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
-  <entry>
-    <id>tdQvcI6vCnsfQOII5d8xM</id>
-    <title>Tout ce qu'il faut savoir !</title>
-    <updated>2024-05-22T03:11:21.457000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/tdQvcI6vCnsfQOII5d8xM"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
-    <category term="Mises à jour"/>
-    <published>2024-04-22T11:55:16+00:00</published>
-  </entry>
   <entry>
     <id>1D1NDyjKXuZ8tZz04eMVoL</id>
     <title>C'est quoi, Squad Busters ? 🧐</title>
@@ -25,6 +15,16 @@
     <link href="https://www.youtube.com/watch?v=cDCCpWJRWak"/>
     <category term="Nouveautés"/>
     <published>2024-04-22T12:06:05+00:00</published>
+  </entry>
+  <entry>
+    <id>tdQvcI6vCnsfQOII5d8xM</id>
+    <title>Tout ce qu'il faut savoir !</title>
+    <updated>2024-11-18T12:28:09.316000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/tdQvcI6vCnsfQOII5d8xM"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
+    <category term="Mises à jour"/>
+    <published>2024-04-22T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>30GoLvOJ4NNQT5B1FZvCVP</id>
@@ -104,7 +104,7 @@
   <entry>
     <id>1yohkcKJO7Efn7vh4EXnk9</id>
     <title>Notes de patch de la mise à jour et correction de bugs ! </title>
-    <updated>2024-06-05T05:58:28.811000+00:00</updated>
+    <updated>2024-11-18T12:28:11.249000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;MAINTENANCE - 28 MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correction du décompte des membres de la Piñata où il était possible d&amp;#39;envoyer des invitations à des joueurs dont la Piñata était pleine.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Aventure Squad : réduction des besoins en énergie de portail dans le Monde Désert &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Série de victoires :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Taps bonus : + 2 taps bonus commencent un niveau plus tôt (avec 4 victoires)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le rachat de la série de victoires a été retravaillé et plafonne à 5000 pièces à la 10ème victoire.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La première position donne désormais droit à 5 taps d&amp;#39;amélioration au lieu de 4.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mise en ligne du reste des serveurs et des bases de données en préparation du lancement mondial 🚀 &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - 24 MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Corrections du festival de piñatas :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les mises à jour du score s&amp;#39;affichent désormais correctement.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les groupes du festival de piñata ne peuvent plus compter plus de 5 joueurs.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction d&amp;#39;un bug qui permettait de s&amp;#39;ajouter soi-même au groupe.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MISE À JOUR FACULTATIVE - 23 MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Résolution de problèmes de plantages divers pendant les combats.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrections apportées au magasin et à d&amp;#39;autres problèmes visuels mineurs.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction de l&amp;#39;affichage incorrect des récompenses dans les informations sur les récompenses du super pass.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Activation de la section Actualités en chinois traditionnel.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nous sommes conscients des problèmes liés au festival de piñatas et nous travaillons à leur résolution. Merci pour vos retours !&lt;/p&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - 22 MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correction des affiliations : le lien peut désormais être utilisé par tous les joueurs indépendamment de leur niveau de progression.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Résolution de problèmes de plantages occasionnels en ouvrant l&amp;#39;événement de sorts.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MAINTENANCE - 21 MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correction du problème d&amp;#39;affichage prématuré de contenu à venir dans le magasin.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Suppression des cartes du monde Givre dans la ligue Squad.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;MISE À JOUR - 21 MAI 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;La première mise à jour de Squad Busters est pleine de contenu et d&amp;#39;améliorations pour une sortie mondiale en bombe !&lt;/p&gt;&lt;p&gt;&lt;b&gt;ARRIVÉE DES ULTRA ÉVOLUTIONS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Découvrez de nouveaux styles et de nouvelles capacités explosives avec les &lt;b&gt;ultra évolutions&lt;/b&gt; !&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Tous les persos peuvent désormais évoluer dans leur forme ultra, pour ajouter toujours plus de swag à votre squad !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Découvrez l&amp;#39;ensemble des 27 nouvelles ultra évolutions dans l&amp;#39;onglet Squad en jeu.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MARTEAUX ET PERSONNALISATION DE LA PLAZA&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Le magasin de la Plaza ouvre ses portes !&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Achetez des tas de décos super quali chez l&amp;#39;ouvrier de la Plaza contre des marteaux.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vous pouvez trouver des marteaux au combat, en récompense ou dans le magasin, et ils servent à construire des décos sur votre Plaza !&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;NOUVELLE SAISON DU PASS DE GEMMES : RENCONTRE AU CLAIR DE LUNE&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Préparez-vous pour une nouvelle saison du pass de gemmes pleine de récompenses, dont deux nouvelles méga unités :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Méga Shelly magicienne&lt;/b&gt; : éblouissez vos adversaires avec un look étincelant et des sorts maléfiques !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Méga sorcière Kitsune&lt;/b&gt; : libérez des hordes de squelettes et soyez plus rusé que vos adversaires. Utilisez des attaques à 3 éclairs !&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La méga tirelire est également de retour cette saison, et vous n&amp;#39;avez plus besoin d&amp;#39;acheter le super pass pour en profiter !&lt;/p&gt;&lt;p&gt;&lt;b&gt;CHANGEMENTS D&amp;#39;ÉQUILIBRAGE&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Tout le monde a sa place dans Squad Busters, et chaque perso unique mérite d&amp;#39;avoir son moment de gloire. Ces mises à jour ont pour but d&amp;#39;aider toutes les squads à s&amp;#39;en sortir, quel que soit le chemin que vous décidez d&amp;#39;emprunter pour décrocher la victoire !&lt;/p&gt;&lt;p&gt;&lt;b&gt;Équilibrage des persos :&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Les capacités des unités qui comptent sur des ressources ont été améliorées dans un souci d&amp;#39;équilibrage avec les combattants.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Le poulet donne 1 turbo de plus.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;P&amp;#39;tit Greg coupe les arbres légèrement plus vite.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le gobelin donne plus de pièces quand il rejoint votre squad.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le négociant donne 1 gemme de plus quand vous avez récupéré assez de pièces.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mavis peut désormais obtenir des gemmes grâce aux carottes, en plus des pièces.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Les PV de plusieurs persos ont été augmentés pour les aides à survivre plus longtemps au combat, notamment les unités à distance.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;+100 PV : gobelin, poulet, reine des archères, sorcière, Shelly, Nita, Max&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+150 PV : Bo, Colt, sorcier&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+200 PV : infirmier, Dynamike, Pam, Penny, tankeuse (à pied)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+500 PV : méga poulet dragon&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Équilibrage des unités invoquées :&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Les squelettes de la sorcière se sont serré les coudes pour améliorer la lisibilité de la carte et débloquer les portails.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Leur santé a été largement augmentée, mais leur durée de vie est légèrement plus courte.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La sorcière invoque légèrement moins vite, mais tous les squelettes arrivent en même temps, jusqu&amp;#39;à un maximum de 12 squelettes à la fois.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le sort squelettique invoque moins de squelettes.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Les recrues du Roi Royale ont reçu un entraînement spécial pour protéger leur roi plus efficacement.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les recrues royales infligent plus de dégâts, et leurs PV ont été largement augmentés.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Équilibrage des méga unités :&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Les méga unités apparaissent un peu moins aléatoirement pendant les matchs, et plus souvent quand vous avez besoin d&amp;#39;elles (normalement).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les méga unités apparaissent beaucoup moins souvent chez les joueurs bien classés, ou avec une grosse squad.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;En revanche, elles seront plus souvent disponibles chez les joueurs qui ont subi des pertes plus tard dans la partie.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Si vous êtes sur le point de vous faire buter, ou si vous êtes en bas du classement, vous aurez plus de chances de trouver une méga unité.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Moins de méga unités seront disponibles pendant les matchs.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les méga unités n&amp;#39;apparaîtront plus avant les 2 premières minutes de jeu.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les méga unités n&amp;#39;apparaîtront plus pour les squads qui ont déjà une méga unité.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les méga unités n&amp;#39;apparaîtront plus si vous utilisez une clé épique ou une clé de fusion.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les méga unités n&amp;#39;apparaîtront plus pendant un certain temps si vous refusez une méga unité d&amp;#39;un coffre.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les méga unités n&amp;#39;augmentent plus le coût des coffres, afin de ne pas interférer avec la création de votre squad.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Équilibrage des mods :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Arbres géants : peuvent désormais lâcher le sort La bûche.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Hantise royale : les fantômes royaux lâchent plus de butin, pour mieux récompenser les chasseurs de fantômes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Épiques à gogo : supprimé du monde Royal.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Super mine de gemmes : supprimé du monde Désert.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Autres changements d&amp;#39;équilibrage :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Le turbo se recharge désormais plus rapidement : courrez plus, attendez moins !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les monstres lâchent désormais plus de pièces en fin de partie, pour vous aider à reformer votre squad.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les arbres de Greg, les ruches de Béa et les tanks de la tankeuse réapparaissent plus vite, pour une meilleure disponibilité !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les super boîtes bleues lâchent 1 pièce bonus, pour que les matchs démarrent plus rapidement.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les cartes du monde Royal font apparaître plus de gardes pour maintenir le rythme de l&amp;#39;action.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;AUTRES AMÉLIORATIONS ET CORRECTIONS&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ne manquez pas les doubleurs de coffre dans les événements et le magasin : ils permettent de doubler les récompenses des coffres !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Invitez vos amis sur Squad Busters et gagnez tous des récompenses !&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Consultez le nouvel onglet Affiliation dans votre liste d&amp;#39;amis !&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les offres du jour du magasin peuvent désormais être réinitialisées contre des pièces.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le chrono des tickets de coffre se met désormais en pause quand vous faites le plein de tickets de coffre, au lieu de se réinitialiser.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;L&amp;#39;écran Votre prochaine squad au combat a été mis à jour pour proposer moins de persos verrouillés par combat, pour les joueurs qui n&amp;#39;ont pas encore atteint la ligue Squad.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrections de bugs divers et amélioration des performances.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ÉVÉNEMENTS ET CONTENU À VENIR&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Festival de piñatas&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Récupérez des bâtons de piñata avec vos potes pour gagner des récompenses spéciales !&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Trouvez la piñata géante sur votre Plaza et commencez à récupérer des bâtons de piñata au combat.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Quand vous en aurez assez, vous pourrez ouvrir des piñatas pleines de pièces et d&amp;#39;objets pour votre sac de combat !&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ajoutez des amis à votre chasse aux piñatas pour progresser ensemble !&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Monde Givre&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;3 nouveaux persos et 4 nouveaux mods !&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Suivez nos chaînes sur les réseaux sociaux et vos créateurs de contenu préférés pour en savoir plus sur les événements à venir !&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/fr/news/1yohkcKJO7Efn7vh4EXnk9"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
@@ -114,17 +114,17 @@
   <entry>
     <id>2DvXK9WqyEfBjyCoUVUYKn</id>
     <title>Première YT : 4 NOUVEAUX PERSOS !?</title>
-    <updated>2024-06-15T16:14:07.079000+00:00</updated>
+    <updated>2024-11-18T12:28:14.123000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/fr/news/2DvXK9WqyEfBjyCoUVUYKn"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/HBPhlzUSHyY"/>
     <category term="Mises à jour"/>
-    <published>2024-06-14T20:00:40+00:00</published>
+    <published>2024-06-15T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>Notes de patch de la mise à jour de juin</title>
-    <updated>2024-06-24T07:56:44.350000+00:00</updated>
+    <updated>2024-11-18T12:28:16.567000+00:00</updated>
     <content>&lt;h1&gt;LE MONDE GIVRE EST LÀ ❄️&lt;/h1&gt;
 &lt;p&gt;Bataille de boules de neige ! Combattez avec les cartes et les mods du monde Givre et éliminez des esprits de glace pour débloquer les nouveaux persos !&lt;/p&gt;&lt;p&gt;Tous les joueurs ayant atteint le monde Désert &lt;b&gt;pourront jouer dans le monde Givre pendant une semaine et commencer à débloquer les nouveaux persos&lt;/b&gt; !&lt;/p&gt;&lt;p&gt;Dès le début de l&amp;#39;événement, un esprit de glace viendra visiter votre Plaza. Commencez à éliminer des esprits de glace au combat pour gagner des coffres, y compris des coffres de glace qui &lt;b&gt;renferment obligatoirement des persos du monde Givre&lt;/b&gt;.&lt;/p&gt;
 &lt;h1&gt;Persos du monde Givre ☃️&lt;/h1&gt;
@@ -228,7 +228,7 @@
   <entry>
     <id>5QZrq5eE3hiDqxi16aPmQu</id>
     <title>Première YT : Nouvelle mise à jour !</title>
-    <updated>2024-08-10T15:22:31.322000+00:00</updated>
+    <updated>2024-11-18T12:28:20.303000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/fr/news/5QZrq5eE3hiDqxi16aPmQu"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/gHGm10ZjM28"/>
@@ -238,7 +238,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Mise à jour d'août - Notes de patch !</title>
-    <updated>2024-09-01T06:35:30.766000+00:00</updated>
+    <updated>2024-11-18T12:28:23.129000+00:00</updated>
     <content>&lt;h1&gt;MAINTENANCE ET MISE À JOUR FACULTATIVE ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Quand ?&lt;/b&gt; Le mercredi 21 août&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ce qui va être corrigé ?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les unités qui n&amp;#39;attaquent pas les taupes dans le mod Tape-taupe.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Le mod sera désactivé pour le moment, puis reviendra avec la prochaine mise à jour.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le texte manquant à différents endroits.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La tirelire piñata qui ne donne pas toujours des récompenses.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigé dans la mise à jour facultative (mettez votre jeu à jour !)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Différents problèmes de plantage.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;LE MONDE MAGMA EST LÀ ! 🌋&lt;/h1&gt;
@@ -322,19 +322,9 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
     <published>2024-09-06T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>560P4izg5UPS951vW3hocC</id>
-    <title>Mise à jour de Squad : Transformers, coffres étoilés et plus !</title>
-    <updated>2024-09-16T14:58:20.302000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/560P4izg5UPS951vW3hocC"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
-    <category term="Mises à jour"/>
-    <published>2024-09-14T14:52:00+00:00</published>
-  </entry>
-  <entry>
     <id>6dblB2tJwnLWix1x4hdkZl</id>
     <title>Notes de patch : mise à jour Transformers</title>
-    <updated>2024-11-07T13:54:10.752000+00:00</updated>
+    <updated>2024-11-18T12:28:34.846000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;DÉTAILS DES MISES À JOUR (Dernière modification : 17/09)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;À propos de l&amp;#39;énergie de portail :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Il n&amp;#39;y a plus de limite à la quantité d&amp;#39;énergie de portail que vous pouvez gagner dans les combats, sauf dans la ligue Squad.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La ligue Squad a une limite quotidienne de 2000 unités d&amp;#39;énergie de portail grâce aux combats (l&amp;#39;équivalent de 10 victoires).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;En plus de ça, vous pouvez obtenir un bonus quotidien de 1000 et de l&amp;#39;énergie de portail du livre des succès.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Attention ! Il y a un bug connu quand vous entrez dans la ligue Squad : le système de limite ne se réinitialise pas, donc les joueurs peuvent continuer de jouer sans aucune limite jusqu&amp;#39;à la fin de la journée. Cela sera corrigé dans la prochaine mise à jour.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;À propos des skins robots :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Des skins robot du poulet, de l&amp;#39;infirmier, du barbare et de la reine des archères arriveront dans le magasin le 30 septembre.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ceux de l&amp;#39;infirmier, du barbare et de la reine des archères seront disponibles plus tard avec des tickets de style.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le poulet robot est un skin super rare et retournera périodiquement dans le magasin en tant qu&amp;#39;achat intégré.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
 &lt;h1&gt;SQUADS, EN AVANT !&lt;/h1&gt;
 &lt;p&gt;Les portails vers le monde de Cybertron ont été connectés ! La première collab de Squad Busters est là, ainsi que les premières évolutions ultimes et une toute nouvelle manière de les débloquer : les coffres étoilés !&lt;/p&gt;&lt;p&gt;&lt;b&gt;SQUAD BUSTERS X TRANSFORMERS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ne manquez pas cette occasion unique de débloquer Optimus Prime et Elita-1 de manière permanente&lt;/b&gt; pendant l&amp;#39;événement Squad Busters x Transformers. Si vous avez atteint le monde Désert, récupérez de l&amp;#39;Energon au combat pour ouvrir des coffres Transformers et débloquer ces incroyables Autobots.&lt;/p&gt;&lt;p&gt;Après l&amp;#39;événement, Optimus Prime et Elita-1 seront parfois disponibles dans le magasin, et ils feront partie de la rotation des persos.&lt;/p&gt;
@@ -358,7 +348,17 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
     <link href="https://squadbusters.inbox.supercell.com/#/fr/news/6dblB2tJwnLWix1x4hdkZl"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Mises à jour"/>
-    <published>2024-09-16T07:59:35+00:00</published>
+    <published>2024-09-08T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>560P4izg5UPS951vW3hocC</id>
+    <title>Mise à jour de Squad : Transformers, coffres étoilés et plus !</title>
+    <updated>2024-11-18T12:28:25.993000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/560P4izg5UPS951vW3hocC"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
+    <category term="Mises à jour"/>
+    <published>2024-09-14T14:52:00+00:00</published>
   </entry>
   <entry>
     <id>2bECXELTjjUVy31hExaLZS</id>
@@ -373,7 +373,7 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
   <entry>
     <id>1vcV5C0gVVfoNo6nmh8ASV</id>
     <title>Bouh ! Mise à jour de Squad ! 🎃</title>
-    <updated>2024-10-19T17:37:33.170000+00:00</updated>
+    <updated>2024-11-18T12:28:28.723000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/fr/news/1vcV5C0gVVfoNo6nmh8ASV"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ozVDkNH8f5A7Pbsps8FOl/c28b9be4a683a7747d519c99c10e344f/SB_Thumbnail_Spooky_Update1_WithoutLogo_16x9_v3.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=qN-zGNdaP08"/>
@@ -383,7 +383,7 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
   <entry>
     <id>bljXn0biAIwti21nkJZs0</id>
     <title>Notes de patch : mise à jour sinistre !</title>
-    <updated>2024-10-23T02:34:01.666000+00:00</updated>
+    <updated>2024-11-18T12:28:31.325000+00:00</updated>
     <content>&lt;h1&gt;LE MONDE SINISTRE EST LÀ ! 👻&lt;/h1&gt;
 &lt;p&gt;C&amp;#39;est la saison des frissons et un monde tout aussi incroyable qu&amp;#39;effroyable vous attend, rempli de bonbons et de sorts ! Le monde Sinistre arrive accompagné de trois célèbres brawlers, deux nouveaux mods et des nouvelles décorations pour la Plaza.&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6zGzDAlbZojsNPiMDGgpHO/df9919932ea477d41fa3f31249e9471e/spooky_banner.png?w=3840&amp;h=577&amp;f=center&amp;fit=fill"&gt;
@@ -439,7 +439,7 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
   <entry>
     <id>16iJI5aH4KYfGeU2MpcuJG</id>
     <title>Mise à jour facultative disponible ! </title>
-    <updated>2024-11-14T04:13:47.944000+00:00</updated>
+    <updated>2024-11-18T12:28:37.274000+00:00</updated>
     <content>&lt;h1&gt;Mettez le jeu à jour ! &lt;/h1&gt;
 &lt;p&gt;Une mise à jour facultative est disponible sur Android et iOS, pour corriger certains problèmes :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Erreurs de synchronisation, principalement sur les cartes du monde Givre.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Plantages sur les comptes maxés en ouvrant certaines récompenses.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Textes manquants sur certains écrans du tutoriel.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les amis de la piñata sont classés correctement selon leur dernière connexion, et vous pouvez voir quand c&amp;#39;était.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les compteurs de la collection d&amp;#39;émotes indiquent désormais la même chose partout dans le jeu.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/fr/news/16iJI5aH4KYfGeU2MpcuJG"/>

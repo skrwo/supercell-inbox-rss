@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-18T11:30:30.064598+00:00</updated>
+  <updated>2024-11-18T12:59:51.610156+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
-  <entry>
-    <id>tdQvcI6vCnsfQOII5d8xM</id>
-    <title>알아둬야 할 모든 것!</title>
-    <updated>2024-05-22T03:11:21.457000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/tdQvcI6vCnsfQOII5d8xM"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
-    <category term="업데이트"/>
-    <published>2024-04-22T11:55:16+00:00</published>
-  </entry>
   <entry>
     <id>1D1NDyjKXuZ8tZz04eMVoL</id>
     <title>스쿼드 버스터즈가 뭔가요? 🧐</title>
@@ -25,6 +15,16 @@
     <link href="https://www.youtube.com/watch?v=cDCCpWJRWak"/>
     <category term="뉴스"/>
     <published>2024-04-22T12:06:05+00:00</published>
+  </entry>
+  <entry>
+    <id>tdQvcI6vCnsfQOII5d8xM</id>
+    <title>알아둬야 할 모든 것!</title>
+    <updated>2024-11-18T12:28:09.316000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/tdQvcI6vCnsfQOII5d8xM"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
+    <category term="업데이트"/>
+    <published>2024-04-22T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>30GoLvOJ4NNQT5B1FZvCVP</id>
@@ -106,7 +106,7 @@
   <entry>
     <id>1yohkcKJO7Efn7vh4EXnk9</id>
     <title>업데이트 노트 + 점검 수정 및 선택적 업데이트 내역</title>
-    <updated>2024-06-05T05:58:28.811000+00:00</updated>
+    <updated>2024-11-18T12:28:11.249000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;서버 점검 : 2024년 6월 4일&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;소프트 런칭 플레이어가 사전 등록 보상인 전용 이모티콘을 받을 수 없는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;‘파냐타 축제’ 이벤트에서 ‘최고의 수집가’ 목록이 보이지 않는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;규모가 작은 스쿼드에서 메가 유닛이 (재)등장할 확률이 증가합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;매치 도중에 발생하는 동기화 오류 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;서버 안정화&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;서버 점검 : 2024년 5월 28일&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;‘피타냐 축제’에서 친구가 가득 차면 초대를 보낼 수 없도록 변경됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;스쿼드 여정 : ‘사막 월드’에 진출하는 데 필요한 포탈 에너지의 양이 줄어듭니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;연승 기록 :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;4연승부터 보상 업그레이드 탭 보너스 기회가 2회 주어집니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이제 10연승 이상의 연승 기록 유지하려면 5,000코인이 필요합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1등에게는 보상 업그레이드 탭 기회가 5회 주어집니다. (기존 : 4회)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;글로벌 출시에 앞서 모든 서버 및 DB가 활성화됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;서버 점검: 2024년 5월 24일&lt;/b&gt;&lt;/p&gt;&lt;p&gt;피냐타 축제 수정 사항&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;수집한 피냐타 막대 개수가 제때 갱신되지 않는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;‘피냐타 축제’에 5명을 초과해서 초대할 수 있는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;‘피냐타 축제’에 스스로를 초대할 수 있는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;선택적 업데이트: 2024년 5월 23일&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;전투 중에 발생하는 다양한 충돌 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;상점에서 발생하는 다양한 오류 및 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;슈퍼 패스 보상이 올바르게 표시되지 않는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;피냐타 축제 관련 문제는 현재 수정 중에 있습니다. 제보해 주셔서 감사합니다!&lt;/p&gt;&lt;p&gt;&lt;b&gt;서버 점검: 2024년 5월 22일&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;레벨에 관계없이 모든 플레이어가 ‘추천인 링크’를 사용할 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;새로운 마법 잠금 해제 이벤트에서 종종 발생하는 충돌 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;서버 점검: 2024년 5월 21일&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;상점에서 미공개 상품이 표시되는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;스쿼드 리그에서 ‘아이스 월드’ 맵이 제거됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;스쿼드 버스터즈의 첫 번째 업데이트 소식을 전해드립니다!&lt;/p&gt;&lt;p&gt;이번 업데이트에서는 글로벌 출시에 앞서 다양한 콘텐츠와 여러 개선 사항이 포함되어 있습니다!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;울트라 진화 출시&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;b&gt;울트라 진화&lt;/b&gt;로 더 화려한 외형과 더 강력한 진화 능력을 만나보세요!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;이제 모든 캐릭터는 울트라 진화가 가능합니다. 더 멋진 스쿼드를 구성할 수 있겠죠?&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;지금 바로 게임 내 스쿼드 탭에서 총 27개의 울트라 진화 정보를 확인해 보세요!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;망치 수집 및 플라자 꾸미기&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;플라자 상점이 드디어 문을 열었습니다!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;망치를 수집하고 플라자 상점에서 다양한 장식을 구매해 보세요!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;망치는 전투, 상점 또는 각종 보상 등을 통해 수집할 수 있습니다!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;신규 보석 패스 시즌 : 문라이트 매치업&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;새로운 신규 보석 패스 시즌에서 메가 유닛 2종과 다양한 보상을 만나보세요! &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마법 소녀 쉘리 (메가) : 발랄한 외모와 강력한 매직 블래스트 지팡이 때문에 적은 정신을 차릴 수 없죠!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;여우 가면 마녀 (메가) : 엘리트 해골 병사를 9마리씩 소환하면서 3연타 공격으로 적의 혼을 쏙 빼놓죠!
 &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;이번 시즌에서도 메가 저금통을 이용할 수 있습니다. 심지어 슈퍼 패스를 구매하지 않아도 이용할 수 있죠!
 &lt;/p&gt;&lt;h3&gt;&lt;b&gt;밸런스 조정 &lt;/b&gt;&lt;/h3&gt;&lt;p&gt;스쿼드 버스터즈의 모든 캐릭터에게는 각자의 개성과 역할이 있죠.&lt;/p&gt;&lt;p&gt;여러분만의 스쿼드를 구성하고 승리로 향하는 길을 개척해 보세요!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;캐릭터 밸런스 조정:&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;지원형 캐릭터의 능력을 상향하여 공격형 캐릭터와 밸런스가 개선됩니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;닭(모든 진화 단계)은 터보 부츠 1개를 추가로 제공합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;그렉(베이비 진화 단계)이 나무를 조금 더 빨리 벱니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;고블린(모든 진화 단계)이 코인을 더 많이 줍니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;거래상(모든 진화 단계)은 충분한 코인을 획득하면 보석 1개를 추가로 제공합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;메이비스(모든 진화 단계)는 이제 당근에서 코인뿐만 아니라 보석도 얻을 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
@@ -131,17 +131,17 @@
   <entry>
     <id>2DvXK9WqyEfBjyCoUVUYKn</id>
     <title>업데이트! 아이스 월드 ❄️</title>
-    <updated>2024-06-15T16:14:07.079000+00:00</updated>
+    <updated>2024-11-18T12:28:14.123000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ko/news/2DvXK9WqyEfBjyCoUVUYKn"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/rQCHqumy0Kg?si=PMlkJi8OyCcviwkl"/>
     <category term="업데이트"/>
-    <published>2024-06-14T20:00:40+00:00</published>
+    <published>2024-06-15T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>6월 업데이트 노트!</title>
-    <updated>2024-06-24T07:56:44.350000+00:00</updated>
+    <updated>2024-11-18T12:28:16.567000+00:00</updated>
     <content>&lt;h1&gt;아이스 월드에 상륙합니다! ❄️&lt;/h1&gt;
 &lt;p&gt;꽁꽁 얼어붙은 아이스 월드 위로 아이스 스피릿이 지나갑니다. 👻&lt;/p&gt;&lt;p&gt;여러분도 아이스 월드의 신규 맵과 특수 모드를 즐기고 아이스 스피릿와 함께 신규 캐릭터도 미리 만나보세요!
 &lt;/p&gt;&lt;p&gt;&lt;b&gt;사막 월드에 진출한 모든 플레이어는 일주일 동안 아이스 월드를 체험하고 신규 캐릭터도 미리 잠금 해제할 수 있습니다!&lt;/b&gt;
@@ -258,7 +258,7 @@
   <entry>
     <id>5QZrq5eE3hiDqxi16aPmQu</id>
     <title>(자막) 스쿼드 업!데이트 : 작별, 신규 캐릭터, 무료 스킨, 그리고... 🌋 [스쿼드 버스터즈]</title>
-    <updated>2024-08-10T15:22:31.322000+00:00</updated>
+    <updated>2024-11-18T12:28:20.303000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ko/news/5QZrq5eE3hiDqxi16aPmQu"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/FHuwXPDZrK0"/>
@@ -297,7 +297,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>8월 업데이트 노트!</title>
-    <updated>2024-09-01T06:35:30.766000+00:00</updated>
+    <updated>2024-11-18T12:28:23.129000+00:00</updated>
     <content>&lt;h1&gt;점검 및 선택적 업데이트 ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;서버 점검 : 2024년 8월 21일&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;두더지 잡기 특수 모드가 잠시 비활성화됩니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;해당 특수 모드는 다음 업데이트에서 스쿼드가 두더지를 공격할 수 없는 문제를 수정한 이후에 다시 활성화될 예정입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;일부 텍스트가 표시되지 않는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;피냐타 저금통 보상이 지급되지 않는 문제가 수정됩니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;선택적 업데이트를 통해서 적용 가능합니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;게임에서 종종 발생하는 충돌 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;게임 내 상점의 상품 새로고침 관련 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;라바 월드에 오신 것을 환영합니다!🌋&lt;/h1&gt;
@@ -391,19 +391,9 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
     <published>2024-09-06T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>560P4izg5UPS951vW3hocC</id>
-    <title>스쿼드 업!데이트 : 트랜스포머 콜라보가 찾아옵니다! ✨</title>
-    <updated>2024-09-16T14:58:20.302000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/560P4izg5UPS951vW3hocC"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/0hVGppx9sQA?si=eM1wTFpP9o-m--3i"/>
-    <category term="업데이트"/>
-    <published>2024-09-14T14:52:00+00:00</published>
-  </entry>
-  <entry>
     <id>6dblB2tJwnLWix1x4hdkZl</id>
     <title>트랜스포머 이벤트: 업데이트 노트!</title>
-    <updated>2024-11-07T13:54:10.752000+00:00</updated>
+    <updated>2024-11-18T12:28:34.846000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;서버 점검 : 2024년 9월 17일&lt;/b&gt; &lt;/p&gt;&lt;p&gt;&lt;b&gt;포털 에너지 관련 추가 사항&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;이제 스쿼드 리그를 제외한 모든 월드에서 전투를 통해 획득할 수 있는 일일 포털 에너지 상한선이 사라집니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;스쿼드 리그에 진입한 플레이어의 경우 전투를 통해 획득할 수 있는 일일 최대 포털 에너지 상한선은 2,000입니다. (약 10회 정도 승리하면 획득할 수 있는 수준)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;또한, 도전 과제 북에서 일일 보너스로 1,000 포털 에너지를 추가로 획득할 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;스쿼드 리그에 진입 시, 포털 에너지 획득 상한선이 제대로 적용되지 않아 다음 날이 되기 전까지 제한 없이 전투를 통해 포털 에너지를 획득할 수 있는 문제가 발생하고 있습니다. 이 문제는 다음 업데이트에서 수정될 예정입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;로봇 스킨 관련 추가 사항&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;닭, 의무병, 바바리안, 아처 퀸의 로봇 스킨은 9월 30일 상점에 등장합니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;의무병, 바바리안, 아처 퀸의 로봇 스킨은 향후 스타일 티켓으로 구매할 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;로봇 닭은 초희귀 스킨으로, 간혹 상점에 게임 내 상점 구매 상품으로 등장합니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt; 스쿼드 업! 출발!&lt;/h1&gt;
 &lt;p&gt;스쿼드 버스터즈와 트랜스포머들의 고향, 사이버트론의 세계관이 충돌했다구요?&lt;/p&gt;&lt;p&gt;여기 보세요, 두 세계를 연결하는 포털도 생성됐어요!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;첫 콜라보 이벤트의 시작과 함께 찾아온 이번 업데이트에서는 새로운 진화 단계인 얼티밋 진화 캐릭터를 잠금 해제할 수 있는 신규 보상 상자, 스타 상자가 추가됩니다!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;스쿼드 버스터즈 X 트랜스포머 이벤트&lt;/b&gt;&lt;/p&gt;&lt;p&gt;포털을 타고 스쿼드 버스터즈로 넘어온 옵티머스 프라임과 엘리타-1을 잠금 해제할 기회를 놓치지 마세요! 2주 동안 진행되는 이벤트 기간 동안 옵티머스 프라임과 엘리타-1을 획득하면 영구적으로 사용할 수 있습니다. 
@@ -436,7 +426,17 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
     <link href="https://squadbusters.inbox.supercell.com/#/ko/news/6dblB2tJwnLWix1x4hdkZl"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="업데이트"/>
-    <published>2024-09-16T07:59:35+00:00</published>
+    <published>2024-09-08T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>560P4izg5UPS951vW3hocC</id>
+    <title>스쿼드 업!데이트 : 트랜스포머 콜라보가 찾아옵니다! ✨</title>
+    <updated>2024-11-18T12:28:25.993000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/560P4izg5UPS951vW3hocC"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/0hVGppx9sQA?si=eM1wTFpP9o-m--3i"/>
+    <category term="업데이트"/>
+    <published>2024-09-14T14:52:00+00:00</published>
   </entry>
   <entry>
     <id>5cplZycU8dNDttFXqVF1Y3</id>
@@ -474,7 +474,7 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
   <entry>
     <id>1vcV5C0gVVfoNo6nmh8ASV</id>
     <title>오싹한 스쿼드 업!데이트 영상 보기! 🎃</title>
-    <updated>2024-10-19T17:37:33.170000+00:00</updated>
+    <updated>2024-11-18T12:28:28.723000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ko/news/1vcV5C0gVVfoNo6nmh8ASV"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ozVDkNH8f5A7Pbsps8FOl/c28b9be4a683a7747d519c99c10e344f/SB_Thumbnail_Spooky_Update1_WithoutLogo_16x9_v3.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/5k7JOoJi9MU?si=Y-TfAkU2vpz9zcHa"/>
@@ -484,7 +484,7 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
   <entry>
     <id>bljXn0biAIwti21nkJZs0</id>
     <title>스푸키 월드 업데이트 노트!</title>
-    <updated>2024-10-23T02:34:01.666000+00:00</updated>
+    <updated>2024-11-18T12:28:31.325000+00:00</updated>
     <content>&lt;h1&gt;스푸키 월드가 열렸습니다!👻&lt;/h1&gt;
 &lt;p&gt;10월의 할로윈을 맞이해 열리는 스푸키 월드에는 온갖 달콤한 위험이 도사리고 있죠.&lt;/p&gt;&lt;p&gt;브롤 스타즈의 인기 캐릭터 3종과 신규 특수 모드 2종 그리고 플라자 장식품까지 만나볼 수 있습니다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6zGzDAlbZojsNPiMDGgpHO/df9919932ea477d41fa3f31249e9471e/spooky_banner.png?w=3840&amp;h=577&amp;f=center&amp;fit=fill"&gt;
@@ -541,7 +541,7 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
   <entry>
     <id>16iJI5aH4KYfGeU2MpcuJG</id>
     <title>선택적 업데이트가 추가되었습니다!</title>
-    <updated>2024-11-14T04:13:47.944000+00:00</updated>
+    <updated>2024-11-18T12:28:37.274000+00:00</updated>
     <content>&lt;h1&gt;지금 바로 게임을 업데이트하세요! &lt;/h1&gt;
 &lt;p&gt;Android와 iOS 기기에서 선택적 업데이트를 이용하실 수 있으며, 다음과 같은 수정 사항이 적용됩니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;아이스 월드에서 주로 발생하는 동기화 오류가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이미 최고 진화 단계인 캐릭터를 획득할 때 충돌이 생기는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;튜토리얼 진행 중 번역 텍스트가 표시되지 않는 문제가 수정되었습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이제 피냐타 파티 친구 초대 창에 마지막 접속 시간이 표시되며 이에 따라 정렬됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;보유한 이모티콘의 개수가 화면마다 다르게 보이는 문제가 수정됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/ko/news/16iJI5aH4KYfGeU2MpcuJG"/>

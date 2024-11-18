@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 18 Nov 2024 11:30:30 +0000</lastBuildDate>
-    <item>
-      <title>Wszystko, co musisz wiedzieć</title>
-      <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
-      <guid isPermaLink="false">tdQvcI6vCnsfQOII5d8xM</guid>
-      <category>Aktualizacje gry</category>
-      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Apr 2024 11:55:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Nov 2024 12:59:48 +0000</lastBuildDate>
     <item>
       <title>Czym jest Squad Busters? 🧐</title>
       <link>https://www.youtube.com/watch?v=cDCCpWJRWak</link>
@@ -23,6 +15,14 @@
       <category>Aktualności</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4PbdVYBHswZGl4XxelJ1dg/201d2409168b737b6db571ae12a4dc53/squad_inanutshelll.jpeg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Apr 2024 12:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wszystko, co musisz wiedzieć</title>
+      <link>https://www.youtube.com/watch?v=HLz4IByPAjE</link>
+      <guid isPermaLink="false">tdQvcI6vCnsfQOII5d8xM</guid>
+      <category>Aktualizacje gry</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Apr 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Łamiemy klątwę?</title>
@@ -87,7 +87,7 @@
       <guid isPermaLink="false">2DvXK9WqyEfBjyCoUVUYKn</guid>
       <category>Aktualizacje gry</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Fri, 14 Jun 2024 20:00:40 +0000</pubDate>
+      <pubDate>Sat, 15 Jun 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Informacje o czerwcowej aktualizacji</title>
@@ -268,14 +268,6 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
       <pubDate>Fri, 06 Sep 2024 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nowości w Squad: Transformersy, gwiezdne skrzynie i więcej!</title>
-      <link>https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K</link>
-      <guid isPermaLink="false">560P4izg5UPS951vW3hocC</guid>
-      <category>Aktualizacje gry</category>
-      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Sat, 14 Sep 2024 14:52:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Informacje o aktualizacji Transformers</title>
       <link>https://squadbusters.inbox.supercell.com/#/pl/news/6dblB2tJwnLWix1x4hdkZl</link>
       <description>&lt;p&gt;&lt;b&gt;SZCZEGÓŁY AKTUALIZACJI (ostatnio edytowane 17.09)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;O energii portalu:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Nie ma już ograniczenia energii portalu zdobywanej w bitwach – nie dotyczy to ligi oddziałów.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;W lidze oddziałów obowiązuje dzienne ograniczenie energii portalu zdobywanej z nagród po bitwie wynoszące 2000 (równowartość 10 zwycięstw).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Dodatkowo możecie zdobyć 1000 jednostek energii portalu w ramach codziennego bonusu i dowolną jej ilość z księgi osiągnięć.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;UWAGA! Wejście do ligi oddziałów może wywołać znany błąd: system ograniczania energii portalu nie odświeża się, więc gracze mogą kontynuować grę bez ograniczeń do końca dnia. Naprawimy ten błąd w kolejnej aktualizacji.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;O robotycznych przebraniach&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kurczak, Medyk, Barbarzyńca oraz Królowa Łuczniczek w odsłonie Robot pojawią się w sklepie 30 września.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kurczaka, Medyka, Barbarzyńcę i Królową Łuczniczek w odsłonie Robot będzie można później kupić za bilety stylu.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kurczak Robot to bardzo rzadkie przebranie, które będzie pojawiać się w sklepie od czasu do czasu w ramach transakcji w aplikacji (IAP).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
@@ -301,7 +293,15 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
       <guid isPermaLink="false">6dblB2tJwnLWix1x4hdkZl</guid>
       <category>Aktualizacje gry</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Mon, 16 Sep 2024 07:59:35 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nowości w Squad: Transformersy, gwiezdne skrzynie i więcej!</title>
+      <link>https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K</link>
+      <guid isPermaLink="false">560P4izg5UPS951vW3hocC</guid>
+      <category>Aktualizacje gry</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Sat, 14 Sep 2024 14:52:00 +0000</pubDate>
     </item>
     <item>
       <title>Odbierz darmowe bilety stylu codziennie od 14.10 do 20.10 🎁</title>

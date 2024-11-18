@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-18T11:30:29.967967+00:00</updated>
+  <updated>2024-11-18T12:59:46.557813+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
-  <entry>
-    <id>tdQvcI6vCnsfQOII5d8xM</id>
-    <title>Tudo que você precisa saber!</title>
-    <updated>2024-05-22T03:11:21.457000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/tdQvcI6vCnsfQOII5d8xM"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
-    <category term="Novidades do jogo"/>
-    <published>2024-04-22T11:55:16+00:00</published>
-  </entry>
   <entry>
     <id>1D1NDyjKXuZ8tZz04eMVoL</id>
     <title>O que é Squad Busters? 🧐</title>
@@ -25,6 +15,16 @@
     <link href="https://www.youtube.com/watch?v=cDCCpWJRWak"/>
     <category term="Notícias"/>
     <published>2024-04-22T12:06:05+00:00</published>
+  </entry>
+  <entry>
+    <id>tdQvcI6vCnsfQOII5d8xM</id>
+    <title>Tudo que você precisa saber!</title>
+    <updated>2024-11-18T12:28:09.316000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/tdQvcI6vCnsfQOII5d8xM"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
+    <category term="Novidades do jogo"/>
+    <published>2024-04-22T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>30GoLvOJ4NNQT5B1FZvCVP</id>
@@ -114,7 +114,7 @@
   <entry>
     <id>1yohkcKJO7Efn7vh4EXnk9</id>
     <title>Notas de atualização e correções de erros! </title>
-    <updated>2024-06-05T05:58:28.811000+00:00</updated>
+    <updated>2024-11-18T12:28:11.249000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;MANUTENÇÃO&lt;/b&gt;&lt;b&gt; - 4 DE JUNHO DE 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correção de um problema para garantir que os Emotes de pré-registro fossem entregues aos jogadores do Soft Launch.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correção de um problema em que os grupos da Piñata apareciam vazios no meio do evento.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Melhoramos as chances de retorno das unidades MEGA, tornando-as mais prováveis quando o tamanho do esquadrão é baixo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Implementamos correções para evitar problemas de sincronia durante as partidas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fizemos melhorias aos servidores.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MANUTENÇÃO - 28 DE MAIO DE 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro da contagem de membros da piñata, onde era possível enviar convites a jogadores que tinham uma piñata completa&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Squad Journey: redução dos requisitos de energia do portal no mundo do deserto
  Sequência de vitórias:&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Toques de bônus: + 2 toques de bônus começam um nível antes (com 4 vitórias)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A recompra da Win Streak foi reformulada para 5000 moedas na 10ª vitória&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A 1ª posição agora dá 5 &amp;quot;toques&amp;quot; de upgrade em vez de 4&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Colocando o restante dos servidores e bancos de dados on-line em preparação para o dia do lançamento&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MANUTENÇÃO: 24 DE MAIO DE 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Correções do Festival da Piñata:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;As atualizações na pontuação agora são refletidas corretamente.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As equipes no modo piñata agora não aceitam a participação de mais de cinco jogadores.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigido o erro que permitia que o usuário adicionasse a si mesmo à festa da piñata.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ATUALIZAÇÃO OPCIONAL: 23 DE MAIO DE 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigidos diversos travamentos que ocorriam em batalha.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigida a loja e outros pequenos problemas visuais.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigidas as informações do prêmio do superpasse, que exibiam dados incorretos com relação à quantidade de recompensas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ativada a seção de notícias para chinês tradicional.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Estamos cientes dos problemas com o Festival da Piñata e estamos trabalhando para resolvê-los. Agradecemos por relatarem os erros!&lt;/p&gt;&lt;p&gt;&lt;b&gt;MANUTENÇÃO: 22 DE MAIO DE 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correção no sistema de indicações: o link agora pode ser usado por qualquer jogador, independentemente do seu nível de progresso.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correção de travamentos esporádicos ao abrir o evento de feitiços.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;MANUTENÇÃO: 21 DE MAIO DE 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correção de conteúdos da loja que estavam sendo exibidos antes do planejado.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Os mapas do Mundo Congelado foram removidos da liga do esquadrão.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;ATUALIZAÇÃO: 21 DE MAIO DE 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;A primeira atualização de Squad Busters está repleta de conteúdo novo e de melhorias sem igual para o lançamento global!&lt;/p&gt;&lt;p&gt;&lt;b&gt;CHEGAM AS EVOLUÇÕES ULTRA&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Descubra novos visuais fantásticos e novas habilidades fabulosas com as &lt;b&gt;evoluções ultra&lt;/b&gt;!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Agora todos os personagens podem evoluir para a versão ultra, trazendo muito mais estilo ao seu esquadrão.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Confira as 27 novas evoluções ultra na aba de esquadrão no jogo.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;JUNTE MARTELOS E PERSONALIZE A SUA PRAÇA&lt;/b&gt;&lt;/p&gt;&lt;p&gt;A loja da praça está aberta a negócios!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Compre as melhores decorações para a praça usando os martelos no construtor da praça!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Você pode encontrar martelos em batalhas, como recompensa ou na loja, e eles podem ser usados para construir decorações para a praça!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;NOVA TEMPORADA DO PASSE DE GEMAS: LUTA AO LUAR&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Prepare-se para uma nova temporada do passe de gemas repleta de prêmios, entre eles, duas megaunidades novas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Shelly Mágica&lt;/b&gt;: encanta todos com um visual deslumbrante e um toque de explosão mágica!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Bruxa Kitsune&lt;/b&gt;: astuta como uma raposa, ela supera os inimigos com profusões de Esqueletos e um ataque de 3 raios!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;O megabanco também está de volta nesta temporada e agora não é preciso comprar o superpasse!&lt;/p&gt;&lt;p&gt;&lt;b&gt;MUDANÇAS DE BALANCEAMENTO&lt;/b&gt;&lt;/p&gt;&lt;p&gt;O Squad Busters é para todos, e todo personagem merece brilhar com suas peculiaridades. Fizemos estas mudanças para que as escolhas na montagem do esquadrão sejam significativas e possibilitem diversos caminhos distintos à vitória!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Balanceamento de personagens:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;As habilidades de unidades de aquisição de suprimentos foram melhoradas para equilibrar o jogo com as unidades lutadoras.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Galinha dá uma bota turbo adicional.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Greg bebê corta árvores levemente mais rápido.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Goblin dá mais moedas ao entrar no esquadrão.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Comerciante dá 1 gema adicional depois de coletar moedas suficientes.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mavis agora pode conseguir gemas das cenouras além das moedas.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A saúde de vários personagens aumentou para que eles resistam mais tempo em campo, principalmente as unidades à distância.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;+100 pontos de vida: Goblin, Galinha, Rainha Arqueira, Bruxa, Shelly, Nita, Max&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+150 pontos de vida: Bo, Colt, Mago&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+200 pontos de vida: Médico, Dynamike, Pam, Penny, Garota-tanque (a pé)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+500 pontos de vida: Dragão-galinha (megaunidade)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Balanceamento de unidades conjuradas:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Os Esqueletos da Bruxa juntaram forças para melhorar a leitura do mapa e ajudar a descongestionar os portais.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Os Esqueletos da Bruxa têm muito mais pontos de vida, mas o tempo de vida foi levemente reduzido.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A velocidade de conjuração da Bruxa é levemente mais baixa, mas conjura todos de uma vez, até o máximo de 12 Esqueletos por vez.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Feitiço de Esqueleto conjura menos Esqueletos.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Os Recrutas do Rei Royale treinaram pesado para proteger melhor o Rei.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Os Recrutas Reais causam mais dano e têm muito mais pontos de vida.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Balanceamento de megaunidades:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Megaunidades aparecem em batalhas de maneira menos aleatória e mais quando você precisa delas (às vezes).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Agora é muito menos provável que megaunidades apareçam para jogadores em posição alta ou com um esquadrão grande.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Em vez disso, elas aparecem mais para esquadrões que foram reduzidos na parte final da partida.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Quem está prestes a ser dizimado e está numa posição baixa tem mais chances de encontrar uma megaunidade.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Menos megaunidades serão oferecidas durante as batalhas.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Megaunidades só vão aparecer depois dos 2:00 da batalha.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Megaunidades não vão mais aparecer para esquadrões que já têm uma megaunidade.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Megaunidades não vão mais aparecer quando uma chave épica ou chave de fusão são usadas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Megaunidades ficarão sem aparecer por um tempo se você recusar uma megaunidade de um baú.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As megaunidades não aumentam mais o custo dos baús para não interferir nas estratégias de construção de esquadrões.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Balanceamento de modificadores de batalha:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Árvores gigantes: agora podem derrubar o feitiço O Tronco.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Assombração real: os Fantasmas Reais derrubam mais itens para incentivar os caça-fantasmas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Profusão épica: foi movida para o Mundo Royal.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Supermina de gemas: foi movida para o Mundo Desértico.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Outras mudanças de balanceamento:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Turbo agora é recarregado mais rapidamente, então é mais corrida e menos espera.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Agora os monstros derrubam mais moedas na parte final da disputa para que seja mais fácil remontar esquadrões.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As árvores do Greg, as colmeias da Bea e os tanques da Garota-tanque reaparecem mais rapidamente para aumentar a disponibilidade.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Caixas de poder azul dão 1 moeda a mais para acelerar o início das partidas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Os mapas do Mundo Royal geram mais Guardas para manter o nível da ação elevado.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;OUTRAS MELHORIAS E CORREÇÕES DE ERROS&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fique de olho nos duplicadores de baú em eventos e na loja para ganhar o dobro de prêmios de baús de recompensa!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Chame amigos para jogar Squad Busters! Você e seus amigos ganham recompensas!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Confira a aba de recomendação na lista de amigos!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ofertas diárias da loja agora podem ser trocadas usando moedas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O temporizador de atualização do vale-baú agora pausa em vez de reiniciar quando se enche os vales-baú.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Para jogadores que ainda não chegaram à liga do esquadrão, a próxima batalha do seu esquadrão foi atualizada para que tenha menos personagens bloqueados por batalha.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Outras correções de erros e melhoria de desempenho.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;PRÓXIMOS EVENTOS E CONTEÚDO&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Festival da Piñata&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Colete bastões de piñata com amigos para ganhar recompensas especiais!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Procure a piñata gigante visitando a sua praça e aproveite a chance para obter bastões de piñata em batalhas!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Com bastões de piñata suficientes, você pode abrir piñatas repletas de moedas e itens para a sua mochila de batalha!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Chame amigos para que vocês possam conseguir progresso juntos na caça à piñata!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Mundo Congelado&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;3 personagens novos e 4 modificadores novos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Siga nossos canais nas mídias sociais e seus criadores de conteúdo preferidos de Squad Busters para saber mais do que está por vir!&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/1yohkcKJO7Efn7vh4EXnk9"/>
@@ -125,17 +125,17 @@
   <entry>
     <id>2DvXK9WqyEfBjyCoUVUYKn</id>
     <title>Estreia: 4 PERSONAGENS NOVOS?</title>
-    <updated>2024-06-15T16:14:07.079000+00:00</updated>
+    <updated>2024-11-18T12:28:14.123000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/2DvXK9WqyEfBjyCoUVUYKn"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/HBPhlzUSHyY"/>
     <category term="Novidades do jogo"/>
-    <published>2024-06-14T20:00:40+00:00</published>
+    <published>2024-06-15T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>Notas da atualização de junho</title>
-    <updated>2024-06-24T07:56:44.350000+00:00</updated>
+    <updated>2024-11-18T12:28:16.567000+00:00</updated>
     <content>&lt;h1&gt;O MUNDO CONGELADO CHEGOU ❄️&lt;/h1&gt;
 &lt;p&gt;É uma festa no gelo! Jogue com os mapas e modificadores do Mundo Congelado e derrote Espíritos de Gelo para ganhar personagens exclusivos dessa nova área!&lt;/p&gt;&lt;p&gt;Os jogadores que já chegaram ao Mundo Desértico &lt;b&gt;vão poder jogar no Mundo Congelado por uma semana e começar a desbloquear os novos personagens&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;Quando o evento começar, um Espírito de Gelo vai visitar a sua praça. Derrote esses danadinhos em batalhas para ganhar muitos baús de recompensa, inclusive baús de gelo, que &lt;b&gt;sempre concedem personagens do Mundo Congelado&lt;/b&gt;.&lt;/p&gt;
 &lt;h1&gt;Personagens do Mundo Congelado ☃️&lt;/h1&gt;
@@ -239,7 +239,7 @@
   <entry>
     <id>5QZrq5eE3hiDqxi16aPmQu</id>
     <title>Estreia: Nova atualização!</title>
-    <updated>2024-08-10T15:22:31.322000+00:00</updated>
+    <updated>2024-11-18T12:28:20.303000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/5QZrq5eE3hiDqxi16aPmQu"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/gHGm10ZjM28"/>
@@ -249,7 +249,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Notas de atualização de agosto</title>
-    <updated>2024-09-01T06:35:30.766000+00:00</updated>
+    <updated>2024-11-18T12:28:23.129000+00:00</updated>
     <content>&lt;h1&gt;MANUTENÇÃO E ATUALIZAÇÃO OPCIONAL ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Data:&lt;/b&gt; quarta-feira, dia 21&lt;/p&gt;&lt;p&gt;&lt;b&gt;O que vamos corrigir?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Unidades não atacando os monstros que surgem no modo Bate-bate.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;O modificador será desabilitado por ora e voltará na próxima atualização.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Textos faltando em vários lugares.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O banco da piñata nem sempre concede os prêmios.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrigidos na atualização opcional - Pedimos que atualize o jogo!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vários travamentos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;O MUNDO MAGMÁTICO CHEGOU! 🌋&lt;/h1&gt;
@@ -323,19 +323,9 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <published>2024-09-06T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>560P4izg5UPS951vW3hocC</id>
-    <title>Atualização de Squad: Transformers, baús estelares e muito mais!</title>
-    <updated>2024-09-16T14:58:20.302000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/560P4izg5UPS951vW3hocC"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
-    <category term="Novidades do jogo"/>
-    <published>2024-09-14T14:52:00+00:00</published>
-  </entry>
-  <entry>
     <id>6dblB2tJwnLWix1x4hdkZl</id>
     <title>Notas da atualização dos Transformers</title>
-    <updated>2024-11-07T13:54:10.752000+00:00</updated>
+    <updated>2024-11-18T12:28:34.846000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;INFORMAÇÕES ATUALIZADAS (editado por último em: 17/09)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Energia de portal&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;O limite da energia de portal obtida em batalhas foi removido. Os jogadores podem obter quantidades ilimitadas desse recurso até a liga do esquadrão.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Diariamente, é possível obter até 2000 unidades de energia de portal na liga do esquadrão como recompensa de batalhas. Isso equivale a dez vitórias.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Os jogadores também podem receber 1000 pontos de energia de portal pelo bônus diário e quantidades ilimitadas desse recurso pelo livro de conquistas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Atenção: há um problema conhecido que permite que os jogadores continuem recebendo quantidades ilimitadas de energia de portal no dia em que entram para a liga do esquadrão. Esse problema será solucionado na próxima atualização.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Visuais de robô&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Os visuais de robô da Galinha, do Médico, do Bárbaro e da Rainha Arqueira chegam à loja em 30 de setembro.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Futuramente, os visuais de robô do Médico, do Bárbaro e da Rainha Arqueira poderão ser obtidos com vales-estilo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O visual de robô da Galinha é um visual super-raro que poderá ser adquirido na loja ocasionalmente.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
 &lt;h1&gt;ESQUADRÕES, AVANÇAR!&lt;/h1&gt;
 &lt;p&gt;Os portais fizeram contato com o mundo de Cybertron! No primeiro evento colaborativo de Squad Busters, você conhece algumas evoluções finais e tem acesso a uma nova maneira de desbloqueá-las: os baús estelares!&lt;/p&gt;&lt;p&gt;&lt;b&gt;EVENTO SQUAD BUSTERS &amp;amp; TRANSFORMERS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Durante as duas semanas do evento Squad Busters &amp;amp; Transformers, &lt;b&gt;você pode liberar os autobots Optimus Prime e Elita-1 e ficar com eles para sempre&lt;/b&gt;! Se você já atingiu o Mundo Desértico, colete muito energon em batalhas para abrir baús Transformers e adicionar esses gigantes à sua coleção.&lt;/p&gt;&lt;p&gt;Depois do evento, Optimus Prime e Elita-1 poderão ser encontrados na loja às vezes e continuarão aparecendo nas escalações de personagens.&lt;/p&gt;
@@ -359,7 +349,17 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/6dblB2tJwnLWix1x4hdkZl"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Novidades do jogo"/>
-    <published>2024-09-16T07:59:35+00:00</published>
+    <published>2024-09-08T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>560P4izg5UPS951vW3hocC</id>
+    <title>Atualização de Squad: Transformers, baús estelares e muito mais!</title>
+    <updated>2024-11-18T12:28:25.993000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/560P4izg5UPS951vW3hocC"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
+    <category term="Novidades do jogo"/>
+    <published>2024-09-14T14:52:00+00:00</published>
   </entry>
   <entry>
     <id>2bECXELTjjUVy31hExaLZS</id>
@@ -374,7 +374,7 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
   <entry>
     <id>1vcV5C0gVVfoNo6nmh8ASV</id>
     <title>Assista a uma atualização de Squad medonha! 🎃</title>
-    <updated>2024-10-19T17:37:33.170000+00:00</updated>
+    <updated>2024-11-18T12:28:28.723000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/1vcV5C0gVVfoNo6nmh8ASV"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ozVDkNH8f5A7Pbsps8FOl/c28b9be4a683a7747d519c99c10e344f/SB_Thumbnail_Spooky_Update1_WithoutLogo_16x9_v3.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=qN-zGNdaP08"/>
@@ -384,7 +384,7 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
   <entry>
     <id>bljXn0biAIwti21nkJZs0</id>
     <title>Notas da atualização medonha!</title>
-    <updated>2024-10-23T02:34:01.666000+00:00</updated>
+    <updated>2024-11-18T12:28:31.325000+00:00</updated>
     <content>&lt;h1&gt;O MUNDO MEDONHO CHEGOU! 🌋&lt;/h1&gt;
 &lt;p&gt;É a época mais medonha do ano, e temos um novo mundo cheio de gostosuras e travessuras para você! O Mundo Medonho chega com três Brawlers muito populares, dois novos modificadores e novas decorações para a praça.&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6zGzDAlbZojsNPiMDGgpHO/df9919932ea477d41fa3f31249e9471e/spooky_banner.png?w=3840&amp;h=577&amp;f=center&amp;fit=fill"&gt;
@@ -440,7 +440,7 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
   <entry>
     <id>16iJI5aH4KYfGeU2MpcuJG</id>
     <title>Atualização opcional disponível! </title>
-    <updated>2024-11-14T04:13:47.944000+00:00</updated>
+    <updated>2024-11-18T12:28:37.274000+00:00</updated>
     <content>&lt;h1&gt;Atualize o jogo! &lt;/h1&gt;
 &lt;p&gt;Uma atualização opcional que corrige os seguintes problemas está disponível para dispositivos Android e iOS:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Erros de sincronização, especialmente nos mapas do Mundo Congelado.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Travamentos em contas maximizadas ao abrir algumas recompensas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tradução ausente em alguns tutoriais.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A ordem e o tempo de conexão dos amigos da piñata agora são exibidos corretamente.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O contador da coleção de emotes agora é exibido de maneira consistente em todas as janelas.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/16iJI5aH4KYfGeU2MpcuJG"/>

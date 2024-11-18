@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-esportNewsEntries-es</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-18T11:30:24.210953+00:00</updated>
+  <updated>2024-11-18T12:59:21.617668+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -354,20 +354,20 @@ Inglés: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%
     <published>2024-11-11T10:50:11+00:00</published>
   </entry>
   <entry>
-    <id>74kwBPbVM93jdX6pLOQzG0</id>
-    <title>¡Mira de nuevo las finales - Día 1!</title>
-    <updated>2024-11-18T11:29:26.070000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6gI58J0YCgU48dLUGBeojN/3eeeb4ce2162ed9eb23a63d3e2500b0d/ES_SPS6_Thumbnail_Day_1.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.facebook.com/shioNWUCoC/videos/1213893723246706"/>
-    <category term="eSports"/>
-    <published>2024-11-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>1Gu4xctAoZYa7eCQr4Vb98</id>
-    <title>¡Mira de nuevo las finales - Día 2! </title>
-    <updated>2024-11-18T11:18:22.217000+00:00</updated>
+    <title>¡Mira de nuevo las finales SPS - Día 2! </title>
+    <updated>2024-11-18T12:58:53.102000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4w3Qnw7Hp4aWzTfXAlSYGH/f9b0eb3c1222e032b051361f9923e645/ES_SPS6_Thumbnail_Day_2.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/live/5i2xAzs6MoE?feature=share"/>
+    <category term="eSports"/>
+    <published>2024-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>74kwBPbVM93jdX6pLOQzG0</id>
+    <title>¡Mira de nuevo las finales SPS - Día 1!</title>
+    <updated>2024-11-18T12:58:27.821000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6gI58J0YCgU48dLUGBeojN/3eeeb4ce2162ed9eb23a63d3e2500b0d/ES_SPS6_Thumbnail_Day_1.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.facebook.com/shioNWUCoC/videos/1213893723246706"/>
     <category term="eSports"/>
     <published>2024-11-19T00:00:00+00:00</published>
   </entry>

@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>squadbusters-newsEntries-pl</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-18T11:30:30.479520+00:00</updated>
+  <updated>2024-11-18T12:59:48.839453+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
-  <entry>
-    <id>tdQvcI6vCnsfQOII5d8xM</id>
-    <title>Wszystko, co musisz wiedzieć</title>
-    <updated>2024-05-22T03:11:21.457000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/tdQvcI6vCnsfQOII5d8xM"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
-    <category term="Aktualizacje gry"/>
-    <published>2024-04-22T11:55:16+00:00</published>
-  </entry>
   <entry>
     <id>1D1NDyjKXuZ8tZz04eMVoL</id>
     <title>Czym jest Squad Busters? 🧐</title>
@@ -25,6 +15,16 @@
     <link href="https://www.youtube.com/watch?v=cDCCpWJRWak"/>
     <category term="Aktualności"/>
     <published>2024-04-22T12:06:05+00:00</published>
+  </entry>
+  <entry>
+    <id>tdQvcI6vCnsfQOII5d8xM</id>
+    <title>Wszystko, co musisz wiedzieć</title>
+    <updated>2024-11-18T12:28:09.316000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/tdQvcI6vCnsfQOII5d8xM"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
+    <category term="Aktualizacje gry"/>
+    <published>2024-04-22T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>30GoLvOJ4NNQT5B1FZvCVP</id>
@@ -84,7 +84,7 @@
   <entry>
     <id>1yohkcKJO7Efn7vh4EXnk9</id>
     <title>Informacje o aktualizacji + poprawki! </title>
-    <updated>2024-06-05T05:58:28.811000+00:00</updated>
+    <updated>2024-11-18T12:28:11.249000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;PRZERWA TECHNICZNA – 24 MAJA 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Festiwal piniaty – poprawki:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Aktualizacja wyników działa już poprawnie&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;W grupie piniatowej nie może być teraz więcej niż 5 graczy&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawiliśmy błąd, w wyniku którego mogliście dodawać do grupy piniatowej sami siebie&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;AKTUALIZACJA OPCJONALNA – 23 MAJA 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Naprawiliśmy różne błędy pojawiające się podczas bitwy&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawiliśmy sklep i kilka mniejszych problemów wizualnych&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Poprawiliśmy informacje o nagrodach karnetu super, które wskazywały nieprawidłowe ilości&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sekcja Aktualności jest teraz dostępna w języku chińskim tradycyjnym&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wiemy, że pojawiają się problemy z Festiwalem piniaty – pracujemy nad ich rozwiązaniem. Dziękujemy za wszystkie zgłoszenia!&lt;/p&gt;&lt;p&gt;&lt;b&gt;PRZERWA TECHNICZNA – 22 MAJA 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Poprawka dotycząca systemu poleceń: z linku mogą teraz skorzystać wszyscy gracze niezależnie od ich poziomu postępów&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Poprawiliśmy błąd powodujący czasami występowanie awarii po otwarciu wydarzenia z zaklęciami&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;PRZERWA TECHNICZNA – 21 MAJA 2024&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Poprawiliśmy błąd powodujący zbyt wczesne wyświetlanie zawartości w sklepie&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Usunęliśmy mapy lodowego świata z ligi oddziałów&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;AKTUALIZACJA – 21 MAJA 2024&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Pierwsza aktualizacja Squad Busters zawiera wiele ulepszeń na światową premierę.&lt;/p&gt;&lt;p&gt;&lt;b&gt;ROZWINIĘCIE ULTRA JUŻ DOSTĘPNE&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Wraz z &lt;b&gt;rozwinięciem ultra&lt;/b&gt; otrzymacie nowe zdolności i wygląd.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Możecie teraz rozwinąć wszystkie postacie do formy ultra i poszpanować stylem swojego oddziału.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Zerknijcie na wszystkie 27 rozwinięć ultra na karcie Oddział w grze.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ZBIERAJCIE MŁOTY, ABY SPERSONALIZOWAĆ SWÓJ PLAC&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Sklep na placu jest już otwarty!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;U Budowniczego czekają na Was atrakcyjne dekoracje placu, które możecie kupić za młoty.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Znajdziecie je w bitwach, nagrodach lub w sklepie. Użyjcie ich, aby udekorować swój plac.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;NOWY SEZON KLEJNOTÓW: KSIĘŻYCOWY POJEDYNEK&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Przygotujcie się na nowy sezon klejnotów napakowany nagrodami, wśród których znajdują się dwie najnowsze MEGAjednostki:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;MEGA Magiczna Shelly&lt;/b&gt;: oczarujcie innych błyszczącym wyglądem i magiczną różdżką.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;MEGA Wiedźma Kitsune&lt;/b&gt;: przechytrzcie wrogów dzięki hordom szkieletów i 3 atakom elektrycznym.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;W tym sezonie wraca też MEGAbank, który nie wymaga już wykupienia karnetu super.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AKTUALIZACJA BALANSU ROZGRYWKI&lt;/b&gt;&lt;/p&gt;&lt;p&gt;W Squad Busters każdy ma swoje miejsce, a wszystkie unikatowe postacie zasługują na uwagę. Wprowadzając zmiany, chcemy zadbać o to, żeby każda konfiguracja oddziału miała znaczenie dla rozgrywki, i dawała niezliczone opcje zwycięstwa.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Balansowanie postaci&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Jednostki-dostawcy mają poprawione umiejętności, które lepiej balansują je z wojownikami&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kurczak daje 1 dodatkowy turbobut&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mały Greg trochę szybciej ścina drzewa&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Goblin daje więcej monet w momencie dołączenia do oddziału&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Handlarz daje 1 dodatkowy klejnot po uzbieraniu odpowiedniej liczby monet&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mavis może pozyskiwać teraz klejnoty z marchewek (oprócz monet)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wiele postaci ma ulepszone zdrowie, które pozwoli im wytrwać dłużej w walkach – szczególnie jednostki dystansowe&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;+100 PŻ: Goblin, Kurczak, Królowa łuczniczek, Wiedźma, Shelly, Nita, Maks&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+150 PŻ: Bo, Colt, Czarodziej&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+200 PŻ: Medyk, Dynamike, Pam, Penny, Czołg (pieszo)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;+500 PŻ: Smoczy Kurczak MEGA&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Balansowanie przywołanych jednostek&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Szkielety Wiedźmy mają połączoną siłę przez wzgląd na czytelność mapy i odblokowanie portali&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Szkielety Wiedźmy mają trochę więcej PŻ i nieco zredukowaną maksymalną długość życia&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wiedźmy przywołują trochę dłużej, ale wszystkie szkielety naraz aż do maksymalnej liczby 12 szkieletów&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Zaklęcie Szkielet przywołuje mniej szkieletów&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Rekruci Króla Royale zostali porządnie przeszkoleni, aby skuteczniej chronić króla&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Królewscy rekruci zadają teraz więcej obrażeń i mają dużo więcej PŻ&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Balansowanie MEGAjednostek:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;MEGAjednostki pojawiają się podczas meczu losowo i częściej w momentach, kiedy są Wam potrzebne (czasami)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Jest mniej prawdopodobne, że MEGAjednostki pojawią się dla graczy z wysoką pozycją lub dużym oddziałem&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Będą się pojawiać częściej w przypadku zespołów, które zostały zredukowane później w meczu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jeśli grozi Wam załatwienie lub macie niską pozycję, Wasza szansa na znalezienie MEGAjednostki jest wyższa&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Podczas meczów będzie oferowanych mniej MEGAjednostek&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;MEGAjednostki będą się pojawiać po 2:00 min meczu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;MEGAjednostki nie będą się pojawiać dla oddziałów, które już mają MEGAjednostkę&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;MEGAjednostki nie będą się pojawiać w skrzyniach, do otwarcia których użyto epickich kluczy lub kluczy fuzji&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;MEGAjednostki nie będą się pojawiać przez jakiś czas po tym, gdy nie wybierzecie MEGAjednostki ze skrzyni&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;MEGAjednostki nie zwiększają już kosztu skrzyni, aby nie utrudniać budowania oddziału&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Balansowanie trybów bitewnych&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Giganty drzewne mogą teraz upuścić zaklęcie Kłoda&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Królewskie duchy: Królewskie duchy dają teraz więcej łupów, aby lepiej nagrodzić pogromców duchów&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Megaprzeciążenie: zostało przesunięte do królewskiego świata&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Superkopalnia: została przesunięta do pustynnego świata&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Inne zmiany w balansie:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Turbo odnawia się szybciej, więc teraz jest więcej biegania niż czekania&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Potwory upuszczają teraz podczas meczu więcej monet, aby ułatwić odbudowywanie drużyn&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Drzewa Grega, ule Bei i czołgi Czołgu pojawiają się teraz szybciej, aby ulepszyć dostępność&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Niebieskie skrzynie ze wzmocnieniem zawierają 1 dodatkową monetę – aby mecz zaczął się szybciej&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mapy w królewskim świecie zawierają więcej strażników, aby akcja była wartka&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;INNE ULEPSZENIA I POPRAWKI&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Warto poszukać w sklepie lub w wydarzeniach podwajaczy skrzyń, aby uzyskać 2x skrzynie z nagrodami.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Zaproście znajomych do grania w Squad Busters i zdobywajcie nagrody – dla siebie i znajomych.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Sprawdźcie nową kartę Polecenia na swojej liście znajomych.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Oferty dnia w sklepie można odświeżać teraz za monety.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Licznik odświeżenia biletu skrzyni teraz się zatrzymuje, a nie resetuje po zapełnieniu biletami skrzyni&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kolejna bitwa oddziału została zaktualizowana tak, aby znacznie mniej postaci na bitwę było zablokowanych – w przypadku graczy, którzy nie są jeszcze w lidze oddziałów.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Inne ulepszenia i poprawki&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;NADCHODZĄCE WYDARZENIA I ZAWARTOŚĆ&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Festiwal piniaty&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Zbierajcie patyki piniatowe ze znajomymi, aby wygrać cenne nagrody.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Na Waszych placach pojawi się duża piniata, aby dać Wam szansę na zbieranie patyków piniatowych w bitwach.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Zebranie patyków piniatowych umożliwi Wam otwarcie piniat z monetami i przedmiotami do Waszych toreb bitewnych&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Polujcie na piniaty ze znajomymi, aby wspólnie zdobywać postępy.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Lodowy świat&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;3 nowe postacie i 4 nowe tryby.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Obserwujcie w mediach społecznościowych nas i Waszych ulubionych twórców treści dotyczących Squad Busters, aby dowiedzieć się więcej o nowej zawartości.&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/pl/news/1yohkcKJO7Efn7vh4EXnk9"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/LsOxt7SztzmkX1QMEtbVR/075f8f86280acef325f76b2627d8cc74/Squad_BarbarianEvo_1.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
@@ -94,17 +94,17 @@
   <entry>
     <id>2DvXK9WqyEfBjyCoUVUYKn</id>
     <title>Premiera na YT: 4 NOWE POSTACIE!?</title>
-    <updated>2024-06-15T16:14:07.079000+00:00</updated>
+    <updated>2024-11-18T12:28:14.123000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/pl/news/2DvXK9WqyEfBjyCoUVUYKn"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/HBPhlzUSHyY"/>
     <category term="Aktualizacje gry"/>
-    <published>2024-06-14T20:00:40+00:00</published>
+    <published>2024-06-15T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>Informacje o czerwcowej aktualizacji</title>
-    <updated>2024-06-24T07:56:44.350000+00:00</updated>
+    <updated>2024-11-18T12:28:16.567000+00:00</updated>
     <content>&lt;h1&gt;LODOWY ŚWIAT JUŻ JEST ❄️&lt;/h1&gt;
 &lt;p&gt;To impreza na lodzie! Graj na mapach lodowego świata w odpowiadających im trybach bitewnych i załatwiaj duchy lodu, aby zdobywać nowe postacie z lodowego świata!&lt;/p&gt;&lt;p&gt;Wszyscy gracze, którzy dotarli do pustynnego świata**, będą mogli przez tydzień grać w lodowym świecie i rozpocząć odblokowywanie nowych postaci!**&lt;/p&gt;&lt;p&gt;Gdy tylko to wydarzenie się rozpocznie, Twój plac odwiedzi duch lodu. Załatwiaj duchy lodu podczas bitew, aby zdobywać liczne skrzynie z nagrodami, w tym lodowe skrzynie, które zawierają &lt;b&gt;gwarantowane postacie z lodowego świata&lt;/b&gt;.&lt;/p&gt;
 &lt;h1&gt;Postacie z lodowego świata ☃️&lt;/h1&gt;
@@ -208,7 +208,7 @@
   <entry>
     <id>5QZrq5eE3hiDqxi16aPmQu</id>
     <title>Premiera na YT: Nowa aktualizacja!</title>
-    <updated>2024-08-10T15:22:31.322000+00:00</updated>
+    <updated>2024-11-18T12:28:20.303000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/pl/news/5QZrq5eE3hiDqxi16aPmQu"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/gHGm10ZjM28"/>
@@ -218,7 +218,7 @@
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>Informacje o sierpniowej aktualizacji</title>
-    <updated>2024-09-01T06:35:30.766000+00:00</updated>
+    <updated>2024-11-18T12:28:23.129000+00:00</updated>
     <content>&lt;h1&gt;KONSERWACJA I OPCJONALNA AKTUALIZACJA ⚙️&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Kiedy:&lt;/b&gt; środa, 21 sierpnia&lt;/p&gt;&lt;p&gt;&lt;b&gt;Co naprawiamy?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Jednostki nie atakują kretów w trybie Palnij kreta&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Modyfikacja zostanie tymczasowo wyłączona i powróci w kolejnej aktualizacji.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Brakujący tekst w kilku miejscach&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Piniatowy bank nie zawsze wydaje nagrody&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Naprawiono w opcjonalnej aktualizacji – zaktualizuj grę!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kilka błędów&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;ŚWIAT LAWY JEST JUŻ DOSTĘPNY! 🌋&lt;/h1&gt;
@@ -292,19 +292,9 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
     <published>2024-09-06T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>560P4izg5UPS951vW3hocC</id>
-    <title>Nowości w Squad: Transformersy, gwiezdne skrzynie i więcej!</title>
-    <updated>2024-09-16T14:58:20.302000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/560P4izg5UPS951vW3hocC"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
-    <category term="Aktualizacje gry"/>
-    <published>2024-09-14T14:52:00+00:00</published>
-  </entry>
-  <entry>
     <id>6dblB2tJwnLWix1x4hdkZl</id>
     <title>Informacje o aktualizacji Transformers</title>
-    <updated>2024-11-07T13:54:10.752000+00:00</updated>
+    <updated>2024-11-18T12:28:34.846000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;SZCZEGÓŁY AKTUALIZACJI (ostatnio edytowane 17.09)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;O energii portalu:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Nie ma już ograniczenia energii portalu zdobywanej w bitwach – nie dotyczy to ligi oddziałów.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;W lidze oddziałów obowiązuje dzienne ograniczenie energii portalu zdobywanej z nagród po bitwie wynoszące 2000 (równowartość 10 zwycięstw).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Dodatkowo możecie zdobyć 1000 jednostek energii portalu w ramach codziennego bonusu i dowolną jej ilość z księgi osiągnięć.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;UWAGA! Wejście do ligi oddziałów może wywołać znany błąd: system ograniczania energii portalu nie odświeża się, więc gracze mogą kontynuować grę bez ograniczeń do końca dnia. Naprawimy ten błąd w kolejnej aktualizacji.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;O robotycznych przebraniach&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kurczak, Medyk, Barbarzyńca oraz Królowa Łuczniczek w odsłonie Robot pojawią się w sklepie 30 września.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kurczaka, Medyka, Barbarzyńcę i Królową Łuczniczek w odsłonie Robot będzie można później kupić za bilety stylu.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kurczak Robot to bardzo rzadkie przebranie, które będzie pojawiać się w sklepie od czasu do czasu w ramach transakcji w aplikacji (IAP).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
 &lt;h1&gt;ZBIERZ DRUŻYNĘ I RUSZAJ!&lt;/h1&gt;
 &lt;p&gt;Portale nawiązały kontakt ze światem Cybertronu! Nadchodzi pierwsze krzyżowe wydarzenie promocyjne w Squad Busters, a wraz z nim pierwsze niesamowite rozwinięcia i zupełnie nowy sposób ich odblokowania: gwiezdne skrzynie.&lt;/p&gt;&lt;p&gt;&lt;b&gt;WYDARZENIE SQUAD BUSTERS X TRANSFORMERS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nie przegap szansy na stałe odblokowanie Optimusa Prime i Elity-1&lt;/b&gt; podczas dwutygodniowego wydarzenia Squad Busters x Transformers. Po dotarciu do pustynnego świata zbieraj energon podczas bitew, otwieraj skrzynie Transformersów i odblokowuj te świetne Autoboty.&lt;/p&gt;&lt;p&gt;Po zakończeniu wydarzenia Optimus Prime i Elita-1 będą od czasu do czasu pojawiać się w sklepie oraz w postaciach do wyboru.&lt;/p&gt;
@@ -328,7 +318,17 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
     <link href="https://squadbusters.inbox.supercell.com/#/pl/news/6dblB2tJwnLWix1x4hdkZl"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Aktualizacje gry"/>
-    <published>2024-09-16T07:59:35+00:00</published>
+    <published>2024-09-08T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>560P4izg5UPS951vW3hocC</id>
+    <title>Nowości w Squad: Transformersy, gwiezdne skrzynie i więcej!</title>
+    <updated>2024-11-18T12:28:25.993000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/560P4izg5UPS951vW3hocC"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
+    <category term="Aktualizacje gry"/>
+    <published>2024-09-14T14:52:00+00:00</published>
   </entry>
   <entry>
     <id>2bECXELTjjUVy31hExaLZS</id>
@@ -343,7 +343,7 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
   <entry>
     <id>1vcV5C0gVVfoNo6nmh8ASV</id>
     <title>Obejrzyj aktualizację Upiorny Squad 🎃</title>
-    <updated>2024-10-19T17:37:33.170000+00:00</updated>
+    <updated>2024-11-18T12:28:28.723000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/pl/news/1vcV5C0gVVfoNo6nmh8ASV"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ozVDkNH8f5A7Pbsps8FOl/c28b9be4a683a7747d519c99c10e344f/SB_Thumbnail_Spooky_Update1_WithoutLogo_16x9_v3.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=qN-zGNdaP08"/>
@@ -353,7 +353,7 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
   <entry>
     <id>bljXn0biAIwti21nkJZs0</id>
     <title>Informacje o upiornej aktualizacji</title>
-    <updated>2024-10-23T02:34:01.666000+00:00</updated>
+    <updated>2024-11-18T12:28:31.325000+00:00</updated>
     <content>&lt;h1&gt;UPIORNY ŚWIAT JEST JUŻ DOSTĘPNY 👻&lt;/h1&gt;
 &lt;p&gt;Nadchodzi czas upiorów i nowy świat pełen cukierków i psikusów jest gotowy do akcji. W upiornym świecie pojawią się trzej popularni Zadymiarze, dwa nowe tryby bitewne i nowe dekoracje placu.&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6zGzDAlbZojsNPiMDGgpHO/df9919932ea477d41fa3f31249e9471e/spooky_banner.png?w=3840&amp;h=577&amp;f=center&amp;fit=fill"&gt;
@@ -409,7 +409,7 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
   <entry>
     <id>16iJI5aH4KYfGeU2MpcuJG</id>
     <title>Aktualizacja opcjonalna jest dostępna </title>
-    <updated>2024-11-14T04:13:47.944000+00:00</updated>
+    <updated>2024-11-18T12:28:37.274000+00:00</updated>
     <content>&lt;h1&gt;Zaktualizuj grę. &lt;/h1&gt;
 &lt;p&gt;Dostępna jest aktualizacja opcjonalna na urządzenia z Androidem i iOS. Jej zadaniem jest wprowadzenie następujących zmian:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Naprawienie błędów w synchronizacji – głównie w przypadku map lodowego świata.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawienie błędów występujących podczas otwierania niektórych nagród w przypadku wysokopoziomowych kont.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Naprawienie braku tłumaczeń na niektórych ekranach samouczka.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Czas połączenia znajomych w piniacie jest teraz widoczny – są też oni rozlokowani zgodnie z czasem dołączenia.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stała liczba kolekcji emotek na różnych ekranach.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/pl/news/16iJI5aH4KYfGeU2MpcuJG"/>

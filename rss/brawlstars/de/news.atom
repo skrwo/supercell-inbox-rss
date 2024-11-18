@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-18T11:30:10.521170+00:00</updated>
+  <updated>2024-11-18T12:59:01.326252+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -210,7 +210,7 @@ A.: Definitiv!&lt;/p&gt;</content>
   <entry>
     <id>2JfjjxnuG0fEhhzMGulYyC</id>
     <title>Wie erhalte ich alle Engel- und Dämonen-Drops?</title>
-    <updated>2024-11-18T10:49:31.103000+00:00</updated>
+    <updated>2024-11-18T12:28:28.611000+00:00</updated>
     <content>&lt;h1&gt;Ankündigung (10. November)&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;SPIKE LEBT WIEDER! 🤙&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Außerdem:
 – Mico sollte nun mit der Dämonenfeuer-Fähigkeit keine Spur mehr hinterlassen, wenn er in der Luft ist.
@@ -253,8 +253,36 @@ Antwort: Durchaus, aber das hängt auch EIN WENIG von deinem Können ab. Selbst 
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>PATCHNOTIZEN: Engel vs. Dämonen</title>
-    <updated>2024-11-18T10:09:21.181000+00:00</updated>
-    <content>&lt;h1&gt;Wartungsarbeiten – 31. Oktober&lt;/h1&gt;
+    <updated>2024-11-18T12:52:36.204000+00:00</updated>
+    <content>&lt;h1&gt;Wartungsarbeiten – 14. November&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;BEHOBEN:&lt;/b&gt;
+▫️ Colts verrückte Interaktion mit der Engelslicht-Fähigkeit
+▫️ Dougs Superskill wird mit der Rache-Fähigkeit aufgeladen
+▫️ Clancys Phasenaufladung mit der Dämonenfeuer-Fähigkeit
+▫️ Spieler schalten Fähigkeiten im Kodex der Verdammnis mehrfach frei
+▫️ Die Bestenliste für Wettbewerbe zeigt falsche Spielernamen an
+▫️ Kleinere Lokalisierungsanpassungen
+▫️ Ersetzung der Mad-Evil-Map für Showdown aufgrund von Leistungsproblemen&lt;/p&gt;&lt;p&gt;&lt;b&gt;Balanceänderungen und allgemeine Anpassungen 🛠️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;MOE&lt;/b&gt;
+Projektilgeschwindigkeit (Hauptattacke): 3600 → 2800
+Schaden (Hauptattacke): 540 → 500&lt;/p&gt;&lt;p&gt;&lt;b&gt;KENJI&lt;/b&gt;
+Starpower „Nigiri-Nemesis“ (Schild): 90 % → 60 %
+Superaufladung beim Superskill: 100 → 65&lt;/p&gt;&lt;p&gt;&lt;b&gt;LARRY&lt;/b&gt;
+Trefferpunkte: 3000 → 2800&lt;/p&gt;&lt;p&gt;&lt;b&gt;SURGE&lt;/b&gt;
+Hyperladungsrate: 30 % → 20 %&lt;/p&gt;&lt;p&gt;&lt;b&gt;GALE&lt;/b&gt;
+Superaufladung bei Hauptattacken: 90 → 80 (4 → 5 Angriffe)&lt;/p&gt;&lt;p&gt;&lt;b&gt;CHARLIE&lt;/b&gt;
+Schaden (Hauptattacke): 760 → 800&lt;/p&gt;&lt;p&gt;&lt;b&gt;ASH&lt;/b&gt;
+Wut durch erlittene Treffer: 150 → 180 (+20 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;SPIKE&lt;/b&gt;
+Trefferpunkte: 2600 → 2800&lt;/p&gt;&lt;p&gt;&lt;b&gt;BROCK&lt;/b&gt;
+Trefferpunkte: 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;CLANCY&lt;/b&gt;
+Schaden für alle Phasen (Hauptattacke): 800 → Schaden bei Phase 1 – 600, Phase 2 – 700, Phase 3 – 800 (unverändert)
+Superskill-Schaden bei Phase 3: 760 → 700&lt;/p&gt;&lt;p&gt;&lt;b&gt;FRANK&lt;/b&gt;
+Schaden (Hauptattacke): 1240 → 1160&lt;/p&gt;&lt;p&gt;&lt;b&gt;BYRON&lt;/b&gt;
+Superaufladungsrate: 10 Ticks → 9 Ticks (oder 3 Geschosse)&lt;/p&gt;&lt;p&gt;&lt;b&gt;AUSSERDEM:&lt;/b&gt;
+▫️ Für Spieler, die die Dämonen- und Engel-Drops im Shop gekauft und nicht alle Hyperladungsskins bekommen haben, sind bis 1 Woche nach Ereignisende die übrigen Skins zu einem geringeren Juwelenpreis im Shop verfügbar!
+▫️ Wir haben den Fehler mit der Wettbewerb-Bestenliste für Spieler behoben, die weniger Engel-/Dämonen-Drops bekommen haben, als beabsichtigt.
+▫️ Wir gehen nun die Liste aller von diesem Problem betroffenen Spieler durch und schreiben die Belohnungen gut, die sie hätten bekommen sollen. Leider kann dadurch nicht jeder Spieler seine Belohnungen auswählen. Daher teilen wir die Drops in 50 % Engel-Drops und 50 % Dämonen-Drops auf.
+▫️ Diese Belohnungen zur Wiedergutmachung werden (hoffentlich) innerhalb der nächsten paar Wochen verschickt!&lt;/p&gt;
+&lt;h1&gt;Wartungsarbeiten – 31. Oktober&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Fehlerbehebungen:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, durch den Superskills über Gadgets und Starpowers aufgeladen werden konnten.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, der ungewöhnliche Auswirkungen auf Siegesserien und Ranglistenspiele hatte.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, durch den auf globalen Bestenlisten für absolute Rekorde falsche Daten angezeigt wurden.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Fehler behoben, durch den Byron mit seinen Hauptattacken andere Einheiten als Brawler heilen konnte (z. B. Begleiter und Geschütztürme). Derselbe Fehler lag auch bei Pearls Gadget „Mit Liebe gemacht“ vor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mandys Projektilgeschwindigkeit wurde um etwa 10 % verringert. Außerdem wurde die Projektilgeschwindigkeit ihrer Starpower „In Sichtweite“ von 16 % auf 15 % verringert.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(Möglicherweise können auf den Bestenlisten noch weitere Fehler auftreten!)&lt;/p&gt;
 &lt;h1&gt;NEUE BRAWLER ✨&lt;/h1&gt;
 &lt;h3&gt;JUJU: Mythisch – Artillerie&lt;/h3&gt;&lt;p&gt;Juju ist Inhaberin des Kuriositätenladens und wird auf Schritt und Tritt von ihrer Voodoo-Puppe Gris-Gris (Aussprache: „Gregory“) begleitet. Sie ist sowohl eine Meisterin der Elemente als auch eine talentierte Spielzeugmacherin und verkauft ihre Puppen an die Besucherscharen des Starr Parks.&lt;/p&gt;&lt;p&gt;&lt;b&gt;HAUPTATTACKE: ELEMENTARENERGIE&lt;/b&gt;

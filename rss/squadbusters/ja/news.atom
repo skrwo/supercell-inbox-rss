@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-18T11:30:30.371534+00:00</updated>
+  <updated>2024-11-18T12:59:49.919082+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
-  <entry>
-    <id>tdQvcI6vCnsfQOII5d8xM</id>
-    <title>知っておきたいこと！</title>
-    <updated>2024-05-22T03:11:21.457000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/tdQvcI6vCnsfQOII5d8xM"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
-    <category term="アップデート"/>
-    <published>2024-04-22T11:55:16+00:00</published>
-  </entry>
   <entry>
     <id>1D1NDyjKXuZ8tZz04eMVoL</id>
     <title>スクワッド・バスターズとは？🧐</title>
@@ -25,6 +15,16 @@
     <link href="https://www.youtube.com/watch?v=cDCCpWJRWak"/>
     <category term="新着"/>
     <published>2024-04-22T12:06:05+00:00</published>
+  </entry>
+  <entry>
+    <id>tdQvcI6vCnsfQOII5d8xM</id>
+    <title>知っておきたいこと！</title>
+    <updated>2024-11-18T12:28:09.316000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/tdQvcI6vCnsfQOII5d8xM"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/pRyVbLwk2JNLK59Jj0XfH/cc769641bea4524ef1ee28b9c81ed7c8/thumb_inbox.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=HLz4IByPAjE"/>
+    <category term="アップデート"/>
+    <published>2024-04-22T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>30GoLvOJ4NNQT5B1FZvCVP</id>
@@ -132,7 +132,7 @@
   <entry>
     <id>1yohkcKJO7Efn7vh4EXnk9</id>
     <title>アップデート情報 + バグ修正！</title>
-    <updated>2024-06-05T05:58:28.811000+00:00</updated>
+    <updated>2024-11-18T12:28:11.249000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;メンテナンス日：2024年6月4日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;事前登録のエモートがソフトローンチ時に遊んでいたプレイヤーに確実に配信されるよう修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;イベントの途中でピニャータ・グループが空になる問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スクワッドの人数が少ない場合、メガユニットが出現しやすくなりました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;サーバーの調整。
 &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;メンテナンス日：2024年5月28日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;メンバーが満員のピニャータに招待を送ることができる問題の修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スクワッドジャーニー：デザートワールドでのポータルエネルギーの必要量を削減&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;連勝：ボーナスタップ：4勝で +2 ボーナスタップが1レベル早く開始&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;連勝ボーナスの再購入の上限が10勝時に5000コインに再設定&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;1位の報酬が4タップアップグレードから5タップアップグレードに変更&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ローンチ日に向けて残りのサーバーとデータベースをオンラインに戻します🚀&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;メンテナンス日：2024年5月24日&lt;/b&gt;&lt;/p&gt;&lt;p&gt;「ピニャータ祭り」の修正：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スコア更新の通知を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ピニャータパーティーの参加プレイヤーが5人を超えないように修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;自分をピニャータパーティーに追加できてしまっていた不具合を修正&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;任意アップデート - 2024年5月23日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;バトル中にゲームがさまざまな場面でクラッシュする不具合を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ショップおよびその他のビジュアル上の細かな不具合を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;報酬の量が誤って表示されていたスーパーパス報酬の情報を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;繁体字中国語用のニュースセクションを新たに追加&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ピニャータ祭りの不具合は現在修正中です。ご報告いただき、誠にありがとうございます！&lt;/p&gt;&lt;p&gt;&lt;b&gt;メンテナンス：2024年5月22日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;紹介機能の修正：進行レベルにかかわらず、すべてのプレイヤーが紹介リンクを使用できるように修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;呪文イベントを開くとゲームが時々クラッシュする不具合を修正&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;メンテナンス：2024年5月21日&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;将来のコンテンツが予定よりも早くショップに出現する不具合を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スクワッドリーグからアイスワールドのマップを削除&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;アップデート - 2024年5月21日&lt;/b&gt;&lt;/p&gt;&lt;p&gt;スクワッド・バスターズの全世界リリースに向け、記念すべき初アップデートを配信します。さまざまなコンテンツや改善点が満載です！&lt;/p&gt;&lt;p&gt;&lt;b&gt;「ウルトラ」進化が開放&lt;/b&gt;&lt;/p&gt;&lt;p&gt;キャラクターを&lt;b&gt;ウルトラ&lt;/b&gt;に進化させて、見た目とスキルをレベルアップさせましょう！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;すべてのキャラクターが「ウルトラ」まで進化可能に。スクワッドがさらに強化されます&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲーム内の「スクワッド」タブから、全27種のウルトラ進化を確認しましょう&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;かなづちを集めてプラザをカスタマイズ&lt;/b&gt;&lt;/p&gt;&lt;p&gt;プラザショップが開店！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;「かなづち」があれば、プラザの大工からオシャレなプラザデコレーションを購入可能に！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;かなづちをバトル、報酬、ショップで入手して、プラザデコレーションを建設しましょう！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;新エメラルドパスシーズン：ムーンライトマッチ&lt;/b&gt;&lt;/p&gt;&lt;p&gt;新エメラルドパスシーズンでは、以下の新メガユニットを含む豪華報酬を獲得することができます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;マジカル シェリー（メガ）&lt;/b&gt;：まばゆいルックスとマジックブラストを放つ魔法の杖で、敵の目を眩ませましょう！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;キツネ ネクロマンサー（メガ）&lt;/b&gt;：スケルトンの大群と3方向に放つ遠距離攻撃で、対戦相手を圧倒しましょう！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今シーズンでは、メガバンクも帰ってきます。スーパーパスを購入しなくても利用可能です！&lt;/p&gt;&lt;p&gt;&lt;b&gt;バランス調整&lt;/b&gt;&lt;/p&gt;&lt;p&gt;スクワッド・バスターズの魅力は、好きなキャラクターを活躍させることができる点です。今回のアップデートで、スクワッド編成の自由度を上げ、すべてのプレイヤーに自分なりの勝利の方程式を模索してほしいと考えています！&lt;/p&gt;&lt;p&gt;&lt;b&gt;キャラクターのバランス調整&lt;/b&gt;&lt;/p&gt;&lt;p&gt;サプライヤー系ユニットのスキルを強化し、戦闘系ユニットとのバランスを改善しました&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ニワトリが付与するターボブーツが1つ増加&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ベビーグレッグが木を切る速度が若干上昇&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゴブリンのスクワッド加入時に付与されるコインが増加&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;コインを一定数集めた際に旅商人が付与するエメラルドが1つ増加&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;メイヴィスがニンジンを拾うと、コインに加えてエメラルドも獲得&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;遠距離ユニットを含む多くのキャラクターのHPを増加させ、生存性能を向上&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;HP+100：ゴブリン、ニワトリ、アーチャークイーン、ネクロマンサー、シェリー、ニタ、MAX&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;HP+150：ボウ、コルト、ウィザード&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;HP+200：衛生兵、ダイナマイク、パム、ペニー、戦車（徒歩）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;HP+500：ドラゴン ニワトリ（メガ）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;召喚ユニットのバランス調整&lt;/b&gt;&lt;/p&gt;&lt;p&gt;マップの視認性とポータルへの干渉を改善するため、ネクロマンサーのスケルトンの特性を整理しました&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ネクロマンサーのスケルトンのHPを増加させる一方で、最大稼働時間を減少&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ネクロマンサーの召喚速度を若干低下させた一方で、同時に最大12体のスケルトンを召喚できるように変更&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スケルトンの呪文で召喚されるスケルトンの数が減少&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ロワイヤルキングの親衛隊は、猛訓練によってキングの護衛能力をさらに磨き上げました&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;見習い親衛隊の与ダメージが上昇し、HPも大幅に強化&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;メガユニットのバランス調整&lt;/b&gt;&lt;/p&gt;&lt;p&gt;マッチ中におけるメガユニット出現のランダム性が低下し、必要な時に出現する確率が時々上昇します&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;高順位または大規模スクワッドのプレイヤーは、メガユニットの出現確率が低下&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;マッチ後半で劣勢のスクワッドは、メガユニットの出現確率が上昇&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;敗北寸前か低順位の場合、メガユニットの出現確率が上昇&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;マッチ中に出現するメガユニットの数が減少&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;メガユニットがマッチ開始から2分経過後のみ出現するように変更&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スクワッドにメガユニットがいる場合、新たなメガユニットが出現しなくなるように変更&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スーパーカギや合体のカギを使用した場合、メガユニットが出現しなくなるように変更&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;宝箱から出現したメガユニットをスキップすると、メガユニットがしばらく出現しなくなるように変更&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;さらにスクワッド編成を阻害しないよう、メガユニットが宝箱の価格を引き上げないように変更&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;特別ルールのバランス調整&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ツリージャイアント：一定確率でローリングウッドの呪文をドロップ&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;うらめしロイヤル：ロイヤルゴースト撃破時の戦利品がより豪華に&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スーパーレアオーバーロード：ロイヤルワールドに移行&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スーパーエメラルド鉱山：デザートワールドに移行&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;その他のバランス調整&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ターボの再チャージ速度が短縮。待機時間を減らし、頻繁に高速移動できるように調整&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;マッチ後半になるほどモンスターがドロップするコインが増加。スクワッドを再編しやすくなるように調整&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;グレッグの木、ビーのハチの巣、戦車兵の戦車がより短時間で再出現するように調整&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;青いパワーアップボックスから追加で1枚のコインが出現し、マッチ開始を早めるように調整&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ロイヤルワールドのマップに出現する盾の戦士の数を増加させ、バトルがさらに盛り上がるように調整&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;その他の改善および修正&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;イベントやショップで「ダブル報酬」を手に入れれば、リワード宝箱の報酬が2倍に！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;友達を招待してスクワッド・バスターズをプレイすれば報酬を獲得！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;フレンドリスト内に追加された「紹介」タブをご確認ください！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;デイリーセールをコインで更新できるように変更&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;宝箱チケットが補充されると、更新タイマーのカウントが一時停止するように変更&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スクワッドリーグ到達前のプレイヤーの場合、「次のバトルの登場キャラクター」に表示されるロック中のキャラクターの数が減少するように変更&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;その他パフォーマンスの向上およびバグ修正&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;今後のイベントとコンテンツ&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;ピニャータ祭り&lt;/b&gt;&lt;/p&gt;&lt;p&gt;フレンドと一緒にピニャータスティックを集めて特別な賞品を獲得しましょう！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;プラザに出現する巨大ピニャータを訪れ、バトルでピニャータスティックを回収！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ピニャータスティックを一定数集めてピニャータを開け、大量のコインやバトルバッグ用のアイテムを獲得！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;フレンドと一緒にピニャータスティックを集め、イベントを進めましょう！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;アイスワールド&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;3体の新キャラクターと4つの特別ルールが登場！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;公式SNSチャンネルや推しのコンテンツクリエイターをフォローして、新コンテンツの詳細をお見逃しなく！&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/1yohkcKJO7Efn7vh4EXnk9"/>
@@ -143,17 +143,17 @@
   <entry>
     <id>2DvXK9WqyEfBjyCoUVUYKn</id>
     <title>YouTubeプレミア公開：新キャラ4体！？</title>
-    <updated>2024-06-15T16:14:07.079000+00:00</updated>
+    <updated>2024-11-18T12:28:14.123000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/2DvXK9WqyEfBjyCoUVUYKn"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QdM5r4Ryla7kL5qEYPw2/bd3f6720703181e3bbd8bb8b4e5e6806/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/HBPhlzUSHyY"/>
     <category term="アップデート"/>
-    <published>2024-06-14T20:00:40+00:00</published>
+    <published>2024-06-15T22:00:00+00:00</published>
   </entry>
   <entry>
     <id>34AZtN6rOayQ2EXQEPC6N0</id>
     <title>6月のアップデート情報！</title>
-    <updated>2024-06-24T07:56:44.350000+00:00</updated>
+    <updated>2024-11-18T12:28:16.567000+00:00</updated>
     <content>&lt;h1&gt;アイスワールドが登場❄️&lt;/h1&gt;
 &lt;p&gt;パーティーの舞台は氷上です！アイスワールドのマップと特別ルールでゲームをプレイしましょう。アイススピリットを倒すことで、新キャラクターもアンロックできます！&lt;/p&gt;&lt;p&gt;すでにデザートワールドに到達しているプレイヤーは、&lt;b&gt;アイスワールドでのプレイを1週間お楽しみいただけます。新しいキャラクターのアンロックを目指しましょう！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;イベントが始まると、プラザにアイススピリットが現れます。バトルでアイススピリットを倒して、リワード宝箱を開封しましょう。運が良ければ、&lt;b&gt;アイスワールドのキャラクターが入った&lt;/b&gt;「氷の宝箱」も入手できます。&lt;/p&gt;
 &lt;h1&gt;アイスワールドのキャラクター☃️&lt;/h1&gt;
@@ -410,7 +410,7 @@ Amazon、Amazon.co.jpおよびそれらのロゴはAmazon.com, Inc. またはそ
   <entry>
     <id>5QZrq5eE3hiDqxi16aPmQu</id>
     <title>YouTubeプレミア公開：	 新アップデート！</title>
-    <updated>2024-08-10T15:22:31.322000+00:00</updated>
+    <updated>2024-11-18T12:28:20.303000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/5QZrq5eE3hiDqxi16aPmQu"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/u8pQuaAm2TKAKpk81De6v/94aae9f573d73cb0bf36ce4ea55bea9b/SB_THUMB_LAVA_WORLD_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/gHGm10ZjM28"/>
@@ -511,7 +511,7 @@ Amazon、Amazon.co.jpおよびそれらのロゴはAmazon.com, Inc. またはそ
   <entry>
     <id>3wdOYwocIWek2LbeS7Tk74</id>
     <title>8月のアップデート - パッチノート！</title>
-    <updated>2024-09-01T06:35:30.766000+00:00</updated>
+    <updated>2024-11-18T12:28:23.129000+00:00</updated>
     <content>&lt;h1&gt;メンテナンス＆任意アップデート⚙️&lt;/h1&gt;
 &lt;p&gt;**日付：**21日（水）&lt;/p&gt;&lt;p&gt;&lt;b&gt;修正内容&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;「モグラ叩き」でユニットがモグラを攻撃できない不具合&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;本特別ルールは一時的に削除され、次のアップデートで再実装されます&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;いくつかのゲーム内テキストが表示されない問題&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;一部のプレイヤーがピニャータ金庫から報酬を獲得できない不具合&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;上記の内容が任意アップデートで修正されます。ゲームのアップデートをお忘れなく！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲームがフリーズする不具合&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;ラヴァワールドが登場🌋&lt;/h1&gt;
@@ -585,34 +585,9 @@ Amazon、Amazon.co.jpおよびそれらのロゴはAmazon.com, Inc. またはそ
     <published>2024-09-06T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>560P4izg5UPS951vW3hocC</id>
-    <title>スクアプ：トランスフォーマーやスター宝箱など盛りだくさん！</title>
-    <updated>2024-09-16T14:58:20.302000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/560P4izg5UPS951vW3hocC"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
-    <category term="アップデート"/>
-    <published>2024-09-14T14:52:00+00:00</published>
-  </entry>
-  <entry>
-    <id>6AyAIH03KEIK27CoV0ccrX</id>
-    <title>最新アップデート情報の紹介動画をチェック！</title>
-    <updated>2024-09-16T03:53:32.713000+00:00</updated>
-    <content>&lt;h1&gt;新キャラやトランスフォーマーコラボが確定し、新シーズンの情報を解説&lt;/h1&gt;
-&lt;a href="https://youtu.be/O0hgFX0ZD0U?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
-&lt;h1&gt;世界1が今回のアプデを最速で徹底解説します‼️&lt;/h1&gt;
-&lt;a href="https://youtu.be/WlMDJyfdCZw?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
-&lt;h1&gt;誰でもリーグに行けるようになります‼️バランス調整や新キャラの能力解説もしていきます!!&lt;/h1&gt;
-&lt;a href="https://youtu.be/gk6fnrnJKx0?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
-    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6AyAIH03KEIK27CoV0ccrX"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3eUX6Xz7gn5dxoMKxC0YP9/73f489119f78e4d3fd56b29c55fc8797/GXj9ZrGaQAASKtY.jpg.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <category term="コミュニティ"/>
-    <published>2024-09-16T03:53:32+00:00</published>
-  </entry>
-  <entry>
     <id>6dblB2tJwnLWix1x4hdkZl</id>
     <title>トランスフォーマーアップデート：パッチノート！</title>
-    <updated>2024-11-07T13:54:10.752000+00:00</updated>
+    <updated>2024-11-18T12:28:34.846000+00:00</updated>
     <content>&lt;p&gt;&lt;b&gt;詳細を更新（最終編集：9月17日）&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;ポータルエネルギー&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スクワッドリーグを除き、バトルで獲得できるポータルエネルギーに上限がなくなりました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スクワッドリーグにおけるバトルの獲得ポータルエネルギーの上限は、1日2000です（10勝に相当）&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;さらにデイリーボーナスの1000ポータルエネルギーに加え、ブックからもポータルエネルギーを獲得できます&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;注意：スクワッドリーグで上限システムが更新されず、プレイヤーがその日の終わりまで上限なしでプレイを継続できるバグが確認されています。こちらの不具合は次回のアップデートで修正される予定です。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ロボットスキン&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ロボットスキン（ニワトリ、衛生兵、バーバリアン、アーチャークイーン）が9月30日にショップに登場します&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ロボット 衛生兵、ロボット バーバリアン、ロボット アーチャークイーンは、後日スタイルチケットで入手できるようになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ロボット ニワトリはスーパーレアスキンです。ショップに定期的に再登場し、アプリ内課金で入手可能になります。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
 &lt;h1&gt;スクワッドを組んで出撃せよ！&lt;/h1&gt;
 &lt;p&gt;サイバトロン界への扉が開き、スクバス初のコラボが始動！レジェンド進化キャラクターを新機能「スター宝箱」でアンロック！&lt;/p&gt;&lt;p&gt;&lt;b&gt;スクバス×トランスフォーマーイベント&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2週間にわたるスクバス×トランスフォーマーイベントで、&lt;b&gt;オプティマスプライムとエリータ‐１を永久にアンロック&lt;/b&gt;しましょう。デザートワールドに到達済みのプレイヤーは、エネルゴンを集めてトランスフォーマー宝箱を開封し、オートボットの強力な戦士たちをアンロックできます。&lt;/p&gt;&lt;p&gt;オプティマスプライムとエリータ‐１は、イベント終了後もショップに定期的に登場し、キャラクターのラインアップにも引き続き出現します。&lt;/p&gt;
@@ -636,7 +611,32 @@ Amazon、Amazon.co.jpおよびそれらのロゴはAmazon.com, Inc. またはそ
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6dblB2tJwnLWix1x4hdkZl"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3qewVkB6FzLvOa4ZMw8Fxg/03e9519ffe5e2c2d930aacd05fdfef24/Inbox_thumb_Patch_Notes.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="アップデート"/>
-    <published>2024-09-16T07:59:35+00:00</published>
+    <published>2024-09-08T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>560P4izg5UPS951vW3hocC</id>
+    <title>スクアプ：トランスフォーマーやスター宝箱など盛りだくさん！</title>
+    <updated>2024-11-18T12:28:25.993000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/560P4izg5UPS951vW3hocC"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6GhrKrfLMRSNfkgRLaEn6c/bf3de609a32a2cc09eb8b4586e0bc37e/inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/WQXF1XqmwPc?si=7FfggLjauXabEN3K"/>
+    <category term="アップデート"/>
+    <published>2024-09-14T14:52:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6AyAIH03KEIK27CoV0ccrX</id>
+    <title>最新アップデート情報の紹介動画をチェック！</title>
+    <updated>2024-09-16T03:53:32.713000+00:00</updated>
+    <content>&lt;h1&gt;新キャラやトランスフォーマーコラボが確定し、新シーズンの情報を解説&lt;/h1&gt;
+&lt;a href="https://youtu.be/O0hgFX0ZD0U?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;世界1が今回のアプデを最速で徹底解説します‼️&lt;/h1&gt;
+&lt;a href="https://youtu.be/WlMDJyfdCZw?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;誰でもリーグに行けるようになります‼️バランス調整や新キャラの能力解説もしていきます!!&lt;/h1&gt;
+&lt;a href="https://youtu.be/gk6fnrnJKx0?feature=shared"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6AyAIH03KEIK27CoV0ccrX"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3eUX6Xz7gn5dxoMKxC0YP9/73f489119f78e4d3fd56b29c55fc8797/GXj9ZrGaQAASKtY.jpg.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="コミュニティ"/>
+    <published>2024-09-16T03:53:32+00:00</published>
   </entry>
   <entry>
     <id>274vkjCUVmEUc3qxeO3BqF</id>
@@ -823,7 +823,7 @@ TFがスクバスに参戦！コラボ記念キャンペーン&#13;
   <entry>
     <id>1vcV5C0gVVfoNo6nmh8ASV</id>
     <title>"スプーキー"なスクアプ新エピソード🎃</title>
-    <updated>2024-10-19T17:37:33.170000+00:00</updated>
+    <updated>2024-11-18T12:28:28.723000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/1vcV5C0gVVfoNo6nmh8ASV"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ozVDkNH8f5A7Pbsps8FOl/c28b9be4a683a7747d519c99c10e344f/SB_Thumbnail_Spooky_Update1_WithoutLogo_16x9_v3.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=qN-zGNdaP08"/>
@@ -850,7 +850,7 @@ TFがスクバスに参戦！コラボ記念キャンペーン&#13;
   <entry>
     <id>bljXn0biAIwti21nkJZs0</id>
     <title>不気味なアップデート情報！</title>
-    <updated>2024-10-23T02:34:01.666000+00:00</updated>
+    <updated>2024-11-18T12:28:31.325000+00:00</updated>
     <content>&lt;h1&gt;スプーキーワールドが登場👻&lt;/h1&gt;
 &lt;p&gt;不気味な季節の訪れとともに、イタズラやお菓子でいっぱいの新ワールドがやってきます！スプーキーワールドではブロスタの人気キャラクター3体、特別ルール2種類、そしてプラザデコレーションが実装されます。&lt;/p&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6zGzDAlbZojsNPiMDGgpHO/df9919932ea477d41fa3f31249e9471e/spooky_banner.png?w=3840&amp;h=577&amp;f=center&amp;fit=fill"&gt;
@@ -1010,7 +1010,7 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
   <entry>
     <id>16iJI5aH4KYfGeU2MpcuJG</id>
     <title>任意アップデート配信！</title>
-    <updated>2024-11-14T04:13:47.944000+00:00</updated>
+    <updated>2024-11-18T12:28:37.274000+00:00</updated>
     <content>&lt;h1&gt;ゲームをアップデートしましょう！&lt;/h1&gt;
 &lt;p&gt;Android／iOSデバイス用の任意アップデートが配信されました。本アップデートに含まれる修正点や変更点は以下の通りです。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;主にアイスワールドのマップで同期エラーが発生する問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;最高レベルに到達したアカウントで特定の報酬を開封する際、ゲームがクラッシュする問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;チュートリアルで一部翻訳テキストが表示されない問題を修正&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ピニャータフレンドの接続時間の表示と、それに応じた並び替えを実装&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;表示されるスタンプの所有数を統一&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/16iJI5aH4KYfGeU2MpcuJG"/>
