@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 18 Nov 2024 07:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 08:41:38 +0000</lastBuildDate>
     <item>
       <title>42個寶物之星還是7個超級寶箱！？</title>
       <link>https://brawlstars.inbox.supercell.com/#/zh/news/1OVipuwX4lNoMuLadusOlO</link>
@@ -341,7 +341,35 @@
     <item>
       <title>更新詳情：天使大戰惡魔</title>
       <link>https://brawlstars.inbox.supercell.com/#/zh/news/2KtNTVzMPzrxuH3nQGMVj</link>
-      <description>&lt;h1&gt;10月31日維護公告&lt;/h1&gt;
+      <description>&lt;h1&gt;維護時間：11月14日&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;問題修復：&lt;/b&gt;
+▫️修復使用「毀滅」能力時，柯爾特出現誇張行為的問題。
+▫️修復使用「復仇」能力時，道格超級技能蓄能出現異常的問題。
+▫️修復使用「魔焰」能力時，克蘭西階段強化蓄能出現異常的問題。
+▫️修復玩家在末日法典中重複解鎖相同能力的問題。
+▫️修復對決排行榜顯示玩家名稱有誤的問題。
+▫️優化少量遊戲內文字。
+▫️由於效能原因，我們替換了荒野生死鬥地圖「瘋狂莊園」。&lt;/p&gt;&lt;p&gt;&lt;b&gt;平衡性調整和其他調整🛠️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;莫&lt;/b&gt;
+普通攻擊石頭的飛行速度從3600降低至2800
+普通攻擊傷害從540降低至500&lt;/p&gt;&lt;p&gt;&lt;b&gt;賢治&lt;/b&gt;
+能力之星「握壽司之護」的減傷效果從90%降低至60%
+超級技能命中提供的蓄能從100降低至65&lt;/p&gt;&lt;p&gt;&lt;b&gt;賴瑞&lt;/b&gt;
+生命值從3000降低至2800&lt;/p&gt;&lt;p&gt;&lt;b&gt;奔騰&lt;/b&gt;
+極限威能的蓄能速率從30%降低至20%&lt;/p&gt;&lt;p&gt;&lt;b&gt;格爾&lt;/b&gt;
+普通攻擊命中提供的超級技能蓄能從90降低至80（所需命中次數從4次增加至5次）&lt;/p&gt;&lt;p&gt;&lt;b&gt;查莉&lt;/b&gt;
+普通攻擊傷害從760提升至800&lt;/p&gt;&lt;p&gt;&lt;b&gt;阿信&lt;/b&gt;
+被攻擊命中時獲得的怒氣值從150提升至180（提升20%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;史派克&lt;/b&gt;
+生命值從2600提升至2800&lt;/p&gt;&lt;p&gt;&lt;b&gt;布洛克&lt;/b&gt;
+生命值從2400提升至2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;克蘭西&lt;/b&gt;
+各強化階段的普通攻擊傷害從固定的800調整為：600（第一階段）、700（第二階段）、800（第三階段，保持不變）
+第三階段超級技能傷害從760降低至700&lt;/p&gt;&lt;p&gt;&lt;b&gt;法蘭克&lt;/b&gt;
+普通攻擊傷害從1240降低至1160&lt;/p&gt;&lt;p&gt;&lt;b&gt;拜倫&lt;/b&gt;
+完成超級技能蓄能所需的持續傷害觸發次數從10次降低至9次（命中3枚毒鏢）&lt;/p&gt;&lt;p&gt;&lt;b&gt;其他：&lt;/b&gt;
+▫️在商店中購買惡魔和天使之星，但沒有獲得所有極限威能造型的玩家，可前往商店以折扣價（寶石）購買剩餘的極限威能造型，活動結束一週後截止！
+▫️我們還修復對決排行榜，以解決玩家獲得的天使/惡魔之星數量少於應得數量的問題。
+▫️現在我們將查看受這個問題影響的所有玩家名單，並為他們補發應得的獎勵。遺憾的是，我們無法讓每位玩家決定自己想要獲得什麼，因此我們將把寶物之星均分成50%天使之星和50%惡魔之星。
+▫️如果一切順利，補償內容會在數週內發放！&lt;/p&gt;
+&lt;h1&gt;10月31日維護公告&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;問題修復：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;修復武裝配件和能力之星會為超級技能蓄能的問題&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復連勝和排位賽中的異常問題&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復全球排行榜歷史數據顯示不準確的問題&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復拜倫的普通攻擊會治療其他英雄召喚物（如寵物和炮台）的問題出現同樣的問題還有珀爾的武裝配件「用愛烘焙」&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;曼蒂發射的糖果飛行速度從目前數值削弱了10%，「凝神遠眺」能力之星的糖果速度提升從16%變為15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;（排行榜仍有可能出現異常情況！）&lt;/p&gt;
 &lt;h1&gt;全新英雄✨&lt;/h1&gt;
 &lt;h3&gt;茱茱：神話 - 壓制型&lt;/h3&gt;&lt;p&gt;茱茱是奇物商店的老闆，不管去哪，身邊都跟著她的「寵物」巫毒娃娃，格里格里！茱茱不僅能控制元素，製作娃娃也極具天賦！她會製作各種玩偶娃娃，出售給美好星樂園的遊客們。&lt;/p&gt;&lt;p&gt;&lt;b&gt;普通攻擊：元素奔流&lt;/b&gt;
