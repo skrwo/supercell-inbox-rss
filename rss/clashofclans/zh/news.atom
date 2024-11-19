@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-19T12:57:44.293169+00:00</updated>
+  <updated>2024-11-19T13:40:26.551802+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -520,5 +520,15 @@
     <link href="https://www.youtube.com/watch?v=mauM86oYgrI"/>
     <category term="最新情報"/>
     <published>2024-11-09T14:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3wCD8LB4gi8iZILkNo6sfW</id>
+    <title>狂歡升級嘉年華MV！</title>
+    <updated>2024-11-19T13:21:32.126000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3wCD8LB4gi8iZILkNo6sfW"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2FL9jAoD9L51rC72tdaCBR/921e1361f4c4e132e3f4c5aa5a5a2af2/Trio_Thumb_01.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/wuk3eCQX5uw"/>
+    <category term="社群"/>
+    <published>2024-11-19T13:00:54+00:00</published>
   </entry>
 </feed>
