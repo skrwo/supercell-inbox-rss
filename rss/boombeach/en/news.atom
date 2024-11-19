@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-11-19T18:41:58.655142+00:00</updated>
+  <updated>2024-11-19T19:29:15.942233+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -100,5 +100,38 @@ As we gear up for these exciting events, don’t forget to strategize and prepar
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/5LLTj9iE4rxN6U3KrhA22D/c1310cdc6ae0a487e68ae6b1b60ce7bc/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Blog"/>
     <published>2024-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3GmqHS9kcDZ4QYu94WdLp9</id>
+    <title>Storm after the Calm</title>
+    <updated>2024-11-19T19:02:05.385000+00:00</updated>
+    <content>&lt;h1&gt;Welcome to the November update, “Storm after the Calm”&lt;/h1&gt;
+&lt;p&gt;In addition to the usual bug fixes, we have new features that will shake up gameplay at both the high and low levels.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Squashed bugs and other fixes:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed issues with events not always refreshing correctly in the event sidebar.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Events that can be completed, such as Cycle of Evil, now have a completed state in the event sidebar.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an issue that caused bottle message chains not to advance.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Taunt causing situations where hacked buildings were unable to attack.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Damage is now shown if a mine is selected during scouting.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Explosive Drones do not attack shielded targets multiple times.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Brick will not start moving after using her passive grenade ability if a target is within firing range.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stat bonuses now affect NPC units, such as critters and Super Warriors.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed helicopters not facing the target they are firing at.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Critter stats are now shown in the Critter Launcher info page when tapping the Critter entry.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed sound effects not playing in WS tech tree.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kavan&amp;#39;s Second Wind ability can once again be triggered multiple times without waiting for it to finish first.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Helper will no longer suggest using the submarine if it is being upgraded.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Errant “total bonus” text moved to popover when applicable.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correct stats and level are now displayed for hero abilities and info screen while scouting.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Gameplay Changes&lt;/b&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Units will now lose their flag/flare target when grabbed by Grappler.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Battle-end ads are now available for Gearheart intermediate stages.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added “Top” and “Self” buttons to Warship leaderboard to aid in scrolling.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Option to disable or enable Camera shake added to Gameplay Options.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Building Suggestor UI has been improved.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;All building rebuild times set to 8 seconds for all levels.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Balance Changes&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Scorcher and MegaScorcher destruction explosion damage was reduced by 40%. In the previous update, a bug was fixed that caused explosion damage to always use level 1 values instead of the current level - fixing this tripled explosion damage on max level. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;HQ and Vault store more resources at lower levels. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Low level storages store more resources. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vault upgrade levels moved: Lvl 19-&amp;gt; HQ20, Lvl 20-&amp;gt; HQ22 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kavan’s Galvanizing Presence progression smoothed. As a result, Lvl 21 value was reduced from 13.6% to 12.4%. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kavan now unlocks Second Wind Level 5 at level 16. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;In Warships, Kavan’s fourth tier is now level 16, with Second Wind level 5 (previously, it was 17 and 6). &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;In Warships, several troops had their intermediate upgrade levels adjusted. Healer, Scorcher, and Cryoneer gained one level to their maximum upgrade. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;HQ 27&lt;/b&gt;&lt;/p&gt;&lt;p&gt;HQ can now be upgraded to level 27. After the upgrade, the following will become available: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;An additional Stone Storage can be built.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;One Boom Mine can be added.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The following buildings can be upgraded: Quarry, Gold Storage, Statue Storage, Gunboat, and Armory. Note that Landing Craft can not be upgraded. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The following defenses can be upgraded: Bunker, Sniper Tower, Machine Gun, Mortar, Cannon, Flamethrower, Boom Cannon, Rocket Launcher, Critter Launcher, Shock Launcher.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Once the armory has been upgraded the following units and abilities can be upgraded: Rifleman, Heavy, Zooka, Warrior, Tank, Medic, Grenadier, Scorcher, Laser Ranger, Cryoneer, Bombardier, Mech, Artillery, Medkit, Shock Bomb, Barrage, Critters, Mine, Boom Mine, Shock Mine.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;All heroes can be upgraded one level.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;After the upgrade, Brick’s Cluster Grenade and Everspark’s Explosive Charges can be upgraded to level 7.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;New Feature: Engravings&lt;/b&gt;&lt;/p&gt;&lt;p&gt;A new building called the Engraver can be built. The Engraver is used to research Engravings, which can be activated to give various bonuses to your troops. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Researching Engravings&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Research starts by tapping the Engraving icon on the building and going to the Research tab. 
+
+There are four research mills, each using a different type of Shard. Multiple mills can be running simultaneously, but the price to start research increases for each mill. 
+
+The first research will unlock the Engraving and give the first quality increase. Further research yields level progress and a chance for a quality increase. &lt;/p&gt;&lt;p&gt;The researched Engraving is chosen randomly but all Engravings have an affinity for one type of Shard, and research conducted with Shards of that type will have a higher chance of targeting these Engravings.
+
+The level of the Engraving determines the maximum quality the Engraving can be. The quality of the engraving increases its effect. 
+
+If research does not yield a quality increase, the player will get a Research Token. These tokens can be used to purchase quality upgrades. There is a cap of 999 Research Tokens. 
+
+Only one Engraving can be active at a time. To activate another Engraving, the previous one must first be deactivated. 
+
+Engravings are activated with Power Powder. The cheaper option has an activation time, while normal activation is instant.&lt;/p&gt;&lt;p&gt;&lt;b&gt;New Feature: Squad Leaders&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Squad Leaders is a new feature that will eventually be tested both in Warships and on the main base as a special event. The date of the special event will be announced later. 
+
+The troops in one Landing Craft are considered a squad. One Squad Leader can be attached to one squad, replacing one of the troops in the Landing Craft.
+
+Squad Leaders have the same troop types as normal troops and can only be attached to the same type of troop as they are. Using them does not cost anything and they can be freely removed and moved around. 
+
+Squads that have a Squad Leader attached have a Squad Leader icon in the corner of their unit icon. The Squad Leader is also marked on the battlefield and in Landing Crafts.
+
+Squad Leaders have their own stats and most have special abilities. These abilities can apply only to the leader or to the squad they are leading.
+
+Squad Leaders also have access to a Squad Flare. This works as a normal flare, but only for that squad. If both flares are active, the one deployed last has priority. This Squad Flare is deployed from the unit icon in the bottom left corner. &lt;/p&gt;</content>
+    <link href="https://boombeach.inbox.supercell.com/#/en/news/3GmqHS9kcDZ4QYu94WdLp9"/>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/4JbNxNvGAs59J3l2mt8xup/2dc29e1e438d01a2c9ed05e79fc8e428/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
+    <category term="Blog"/>
+    <published>2024-11-19T00:00:00+00:00</published>
   </entry>
 </feed>
