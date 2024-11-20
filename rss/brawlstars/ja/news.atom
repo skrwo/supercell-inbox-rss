@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-20T05:36:57.379257+00:00</updated>
+  <updated>2024-11-20T06:43:05.091804+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -418,5 +418,27 @@ HP：2400 → 2700に上昇&lt;/p&gt;&lt;p&gt;&lt;b&gt;クランシー&lt;/b&gt;
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1OyN00be2dTFEqQZInvoiP/79a2a6b777ca34b31a2725d8db9aa205/1029_Update_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="アップデート"/>
     <published>2024-11-13T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3RjVNzYIY8HPh1gpCxjFXG</id>
+    <title>ブロスタ公式Xをフォローしよう！</title>
+    <updated>2024-11-20T06:05:51.625000+00:00</updated>
+    <content>&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2TxKMflu8eDWxvsrCaLT4C/042dde9bcd6b78a97c0e52243b6353a2/20241119_BST_X_flow_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;ブロスタ公式Xをフォローしよう！&lt;/h1&gt;
+&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fbrawlstarsjp')"&gt;ブロスタ公式X&lt;/a&gt;では、ブロスタがもっと楽しくなるコンテンツや情報をお届けしています！
+
+・ブロスタがうまくなる、ブロスタの面白い動画紹介
+・大会やイベント情報
+・ブロスタグッズやブロスタパスなど、豪華プレゼントがもらえるキャンペーン情報
+・最新のアップデート情報
+
+などなど、公式Xでしかお知らせしていない情報がたくさん。&lt;/p&gt;&lt;p&gt;
+この機会に、ぜひブロスタ公式Xをフォローしてみましょう！
+
+ブロスタ公式X：&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fbrawlstarsjp')"&gt;https://x.com/brawlstarsjp&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/3RjVNzYIY8HPh1gpCxjFXG"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2l362oA0S5TQa0WVCyCzmQ/bbe61bd51737934953c783ddf1bd7024/20241119_BST_X_flow_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="コミュニティ"/>
+    <published>2024-11-20T06:05:51+00:00</published>
   </entry>
 </feed>
