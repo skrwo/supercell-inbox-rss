@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-21T10:40:26.896796+00:00</updated>
+  <updated>2024-11-21T11:30:52.295134+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1033,5 +1033,21 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="新着"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6WlBiYTZF3xgTpoRk4w6vC</id>
+    <title>「Google Play ベスト オブ 2024」マルチプレイヤー部門 大賞 受賞！</title>
+    <updated>2024-11-21T11:21:21.777000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4F0sgmWq8o96TXk4cpVvVI/2ac86f9c33caf9c6694866756c1d6190/20241121_SQU_GooglePlay_Bestof2024_1920_1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;「Google Play ベスト オブ 2024」マルチプレイヤー部門 大賞 受賞！&lt;/h1&gt;
+&lt;p&gt;いつも、スクワッド・バスターズで遊んでいただき、ありがとうございます✨
+
+2024 年に日本で人気を集めた Google Play のコンテンツを紹介する Google Play ベスト オブ 2024 のゲーム部門にて、スクワッド・バスターズが&lt;b&gt;「マルチプレイヤー部門」大賞&lt;/b&gt;を受賞しました。
+
+これからも、スクワッド・バスターズの応援よろしくお願いいたします。&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6WlBiYTZF3xgTpoRk4w6vC"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/12GErd8tA2M5Uz8zIhjAdw/12e51a6d40ba0db5d72dda270e26c7ce/20241121_SQU_GooglePlay_Bestof2024_1920_1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="新着"/>
+    <published>2024-11-21T11:21:21+00:00</published>
   </entry>
 </feed>
