@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-22T12:57:05.138773+00:00</updated>
+  <updated>2024-11-22T13:38:50.098601+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -539,5 +539,25 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/KHIalZPh8SI25yLl0iJ45/1252583bf793aca8a2924432091ec156/tw_20241118_Clan_Games_November_2024_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-11-21T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7myhza2oGXr6sbuQzyL2O7</id>
+    <title>【烏龜】帶你搶先了解17本以及新陷阱等內容！</title>
+    <updated>2024-11-22T13:18:28.769000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7myhza2oGXr6sbuQzyL2O7"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/24DszCqVzXcpjvV5txLnTP/c82359748aa1a0609dd835278bea65e6/tw_20241122_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=VE03M9NMgVM"/>
+    <category term="最新情報"/>
+    <published>2024-11-22T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>24Z01O7xyNlcNN4VsRGESU</id>
+    <title>【金雄】全新17本攻守效果如何？一起來看！</title>
+    <updated>2024-11-22T13:19:32.668000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/24Z01O7xyNlcNN4VsRGESU"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7DrEzWhP0dd8B4ZXneqHrd/5f8433b21597c973b62c27c3f838415d/tw_20241122_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=h7EDdWwGajc"/>
+    <category term="最新情報"/>
+    <published>2024-11-22T13:01:00+00:00</published>
   </entry>
 </feed>
