@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-11-22T11:29:34.948912+00:00</updated>
+  <updated>2024-11-22T12:56:45.946006+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -250,7 +250,7 @@ A: 네, 하지만 플레이어의 실력에 따라 살짝 달라집니다. 콘�
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>패치 노트: 천사 VS 악마</title>
-    <updated>2024-11-18T14:21:54.705000+00:00</updated>
+    <updated>2024-11-22T12:35:03.515000+00:00</updated>
     <content>&lt;h1&gt;서버 점검 - 11월 14일&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;수정 사항:&lt;/b&gt;
 ▫️ 격분(천사 능력) 사용 시 콜트가 비정상적으로 행동하던 문제 수정
