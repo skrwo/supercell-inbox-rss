@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-22T09:36:08.256144+00:00</updated>
+  <updated>2024-11-22T10:40:17.995085+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -822,5 +822,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/Wc6kxhrjIcCEcfKcR0vjl/0d9faa0cc93f4a68417d798d44dab8cf/SB_LeonFroggy_Skin_1080_copy_2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>51obV5g0qWqTWDHSCzUAuK</id>
+    <title>【Wish】防守篇：教你如何保護自己</title>
+    <updated>2024-11-22T10:00:03.893000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/51obV5g0qWqTWDHSCzUAuK"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/29zh9vNUTtnvLbV2lmAnnM/1c3059bd4c0640d6b291b96172169bbf/tw_20241122_wish_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=a_ZtaNeEUdw"/>
+    <category term="最新情報"/>
+    <published>2024-11-22T10:00:00+00:00</published>
   </entry>
 </feed>
