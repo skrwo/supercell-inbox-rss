@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-23T12:53:01.372332+00:00</updated>
+  <updated>2024-11-23T13:34:25.943920+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -559,5 +559,25 @@
     <link href="https://www.youtube.com/watch?v=h7EDdWwGajc"/>
     <category term="最新情報"/>
     <published>2024-11-22T13:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2d1oAaWGUE4RB7dnDtGhs8</id>
+    <title>【金雄】新防禦強度如何？新法術的影響會是？</title>
+    <updated>2024-11-23T13:21:09.324000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2d1oAaWGUE4RB7dnDtGhs8"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4ckPT322FNGAoRtvjG70FD/5a1025e739197fcb8ca9225ef83d88c9/tw_20241123_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Jo9e35fIK8o"/>
+    <category term="最新情報"/>
+    <published>2024-11-23T13:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6hCDG6eUaUYERBEsRxLfkU</id>
+    <title>【烏龜】快速看懂復活法術、巨矛投手與火焰噴射器！</title>
+    <updated>2024-11-23T13:22:07.510000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6hCDG6eUaUYERBEsRxLfkU"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1wcbMcB61RHfdOTIo7fNEz/e769fc11217539b91da6a6828b2ae4f1/tw_20241123_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Zru_TXbTSwc"/>
+    <category term="最新情報"/>
+    <published>2024-11-24T13:02:00+00:00</published>
   </entry>
 </feed>
