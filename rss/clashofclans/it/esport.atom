@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-esportNewsEntries-it</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-23T19:28:53.693540+00:00</updated>
+  <updated>2024-11-23T20:33:12.417355+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -42,24 +42,6 @@ Criteri di partecipazione: tutti i giocatori dovevano avere 16 di età compiuti 
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/B8ry5VAXksTWmX0HpLcTg0vUiUWbZju7BvPsucpNHKU/9576f9d7660314fd48a5d7665387ee97/1670582992_1671455666.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2023-01-23T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>4pjBoKpKiBsOayDBM61JHu</id>
-    <title>Rivedi la prima giornata della GCC's Gothic Division!</title>
-    <updated>2024-08-26T14:03:31.262000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/11hgmEgzmUJTS0d5S9Fgwn/e26b69b4b2aa6a8911af4ddcbcfd7661/IT_GCC_August_Day_1_-_SC_Rewatch_900x506.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.twitch.tv/videos/2232646001"/>
-    <category term="Esports"/>
-    <published>2024-08-25T17:12:59+00:00</published>
-  </entry>
-  <entry>
-    <id>1pfJ0tLMg9sdML0PGPrKkL</id>
-    <title>Rivedi la seconda giornata della GCC's Gothic Division!</title>
-    <updated>2024-08-26T14:04:14.812000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1pHLs3yP8o2E3UgYTBVUmf/f3161f18e8ae21bb82d43a8f08a053dc/IT_GCC_August_Day_2_-_SC_Rewatch_900x506.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.twitch.tv/videos/2233541397"/>
-    <category term="Esports"/>
-    <published>2024-08-25T17:14:28+00:00</published>
   </entry>
   <entry>
     <id>1w2izatsG7bKx8TPzFKcTi</id>
