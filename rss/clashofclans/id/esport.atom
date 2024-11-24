@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-esportNewsEntries-id</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-11-24T14:34:46.128776+00:00</updated>
+  <updated>2024-11-24T15:31:30.498995+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -49,15 +49,6 @@ Struktur Turnamen: 4 Kualifikasi dimana 8 tim teratas melaju ke Final Kualifikas
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/B8ry5VAXksTWmX0HpLcTg0vUiUWbZju7BvPsucpNHKU/9576f9d7660314fd48a5d7665387ee97/1670582992_1671455666.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2023-01-23T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>1w2izatsG7bKx8TPzFKcTi</id>
-    <title>Final Clash Worlds akan hadir di SuperFEST!</title>
-    <updated>2024-08-29T10:53:04.036000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3tHlPtiEPYbdbcAuqhPid4/0e75eb345b3ffbabab044f3607c46e57/ID-COC_-_SuperFEST_Video_Thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/VU_9JE5qu_A"/>
-    <category term="Esports"/>
-    <published>2024-08-26T13:50:59+00:00</published>
   </entry>
   <entry>
     <id>1QjQyLfjKUhux4J2It366V</id>
