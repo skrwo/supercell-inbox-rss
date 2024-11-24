@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-23T23:32:20.010317+00:00</updated>
+  <updated>2024-11-24T02:13:56.682108+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -551,6 +551,16 @@
     <published>2024-11-22T13:00:00+00:00</published>
   </entry>
   <entry>
+    <id>24Z01O7xyNlcNN4VsRGESU</id>
+    <title>【金雄】全新17本攻守效果如何？一起來看！</title>
+    <updated>2024-11-24T01:38:48.677000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/24Z01O7xyNlcNN4VsRGESU"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7DrEzWhP0dd8B4ZXneqHrd/5f8433b21597c973b62c27c3f838415d/tw_20241122_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=h7EDdWwGajc"/>
+    <category term="最新情報"/>
+    <published>2024-11-22T13:01:00+00:00</published>
+  </entry>
+  <entry>
     <id>4C9M13y0uYZxi1YXImfDhh</id>
     <title>【12月更新預告】升級費用與時間降低</title>
     <updated>2024-11-23T20:06:25.368000+00:00</updated>
@@ -570,16 +580,6 @@
     <link href="https://clashofclans.inbox.supercell.com/#/zh/news/4C9M13y0uYZxi1YXImfDhh"/>
     <category term="最新情報"/>
     <published>2024-11-22T13:02:00+00:00</published>
-  </entry>
-  <entry>
-    <id>2d1oAaWGUE4RB7dnDtGhs8</id>
-    <title>【金雄】新防禦強度如何？新法術的影響會是？</title>
-    <updated>2024-11-23T13:21:09.324000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2d1oAaWGUE4RB7dnDtGhs8"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4ckPT322FNGAoRtvjG70FD/5a1025e739197fcb8ca9225ef83d88c9/tw_20241123_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=Jo9e35fIK8o"/>
-    <category term="最新情報"/>
-    <published>2024-11-23T13:01:00+00:00</published>
   </entry>
   <entry>
     <id>6hCDG6eUaUYERBEsRxLfkU</id>
