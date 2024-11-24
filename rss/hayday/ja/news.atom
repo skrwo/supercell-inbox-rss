@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2024-11-24T08:38:38.244251+00:00</updated>
+  <updated>2024-11-24T09:31:09.498042+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -287,5 +287,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="イベント"/>
     <published>2024-11-17T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>65WXP4sZLcM1vb9oJh0gjr</id>
+    <title>ヘイ・デイ第48週</title>
+    <updated>2024-11-24T09:02:12.320000+00:00</updated>
+    <content>&lt;h1&gt;ヘイ・デイ第48週&lt;/h1&gt;
+&lt;p&gt;農場主の皆さま、こんにちは！今週も各種イベントをお楽しみください！イベントやダービーはすべて日本時間17時から始まります。各イベントの詳細は、ゲーム内のイベント掲示板からご確認ください。&lt;/p&gt;&lt;p&gt;&lt;b&gt;月曜日&lt;/b&gt;：ルーレット回転（パズルピース）&lt;/p&gt;&lt;p&gt;&lt;b&gt;火曜日&lt;/b&gt;：トラックのお仕事（コイン2倍）&lt;/p&gt;&lt;p&gt;&lt;b&gt;水曜日&lt;/b&gt;：船のお仕事（パズルピース）&lt;/p&gt;&lt;p&gt;&lt;b&gt;木曜日&lt;/b&gt;：農場の訪問客（フリーマーケット）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;金曜日&lt;/b&gt;：釣り場の施設ブースト（全施設が20％スピードアップ）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;土曜日&lt;/b&gt;：町の訪問客（経験値2倍）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;日曜日&lt;/b&gt;：果物ブースト（イベント中、3種類の木または茂みの生産速度が2倍にアップ）+ 農場パスポイント3倍&lt;/p&gt;&lt;p&gt;&lt;b&gt;ダービー&lt;/b&gt;：通常のダービー&lt;/p&gt;&lt;p&gt;それでは、楽しい1週間を！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/65WXP4sZLcM1vb9oJh0gjr"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="イベント"/>
+    <published>2024-11-24T09:00:04+00:00</published>
   </entry>
 </feed>
