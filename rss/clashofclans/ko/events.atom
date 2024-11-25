@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-eventEntries-ko</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-11-25T09:36:36.075596+00:00</updated>
+  <updated>2024-11-25T10:41:10.822822+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -55,5 +55,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/rMEdiMd43185ymp9lNJve/72341ed5bd72b5a9e123eb0e9037625c/Carusel-image-1320x860px-01.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/ZeusKOsZ2lM"/>
     <published>2024-11-08T08:05:07+00:00</published>
+  </entry>
+  <entry>
+    <id>3jMi5hN4VXUfuSE3ByOzwj</id>
+    <title>마을회관 17레벨 및 신규 영웅!</title>
+    <updated>2024-11-25T10:03:20.560000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/1gM7yMvwut0"&gt;👉지금 시청하기!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2cLm3aaQal6unPcvMMxDTK/7fc06350fccd89d3927cf98b4f3a0a66/Pop_up.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/1gM7yMvwut0"/>
+    <published>2024-11-25T10:03:11+00:00</published>
   </entry>
 </feed>
