@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>squadbusters-newsEntries-it</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-25T14:39:08.304260+00:00</updated>
+  <updated>2024-11-25T15:38:06.091972+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -452,5 +452,17 @@ Se raggiungi la Lega delle squadre prima della fine dell&amp;#39;evento, ci sar�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1jdbathXNw46lk3bkImeJ9</id>
+    <title>Diciamo addio alla serie di vittorie</title>
+    <updated>2024-11-25T14:55:21.782000+00:00</updated>
+    <content>&lt;p&gt;La serie di vittorie, purtroppo, non si è dimostrata una funzionalità efficace nel gratificare i giocatori. Infatti, questo sistema ha finito per renderli tesi ed esitanti, il che ha creato in alcuni la sensazione che il gioco fosse per loro meno accessibile.&lt;/p&gt;&lt;p&gt;Quindi, per favorire un&amp;#39;atmosfera più distesa e per separare meglio le ricompense per la progressione dagli aspetti più superficiali (come mettere in mostra la quantità di vittorie ottenute di fila), abbiamo deciso di rimuovere la serie di vittorie e di ricalibrare il numero dei tocchi per i bauli delle ricompense, basandolo sul posizionamento ottenuto in classifica a fine battaglia. Questi cambiamenti verranno introdotti con il prossimo aggiornamento, assieme a delle modifiche sostanziali che interesseranno il post partita.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cosa significa tutto questo?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;A partire dal 16 dicembre, le vittorie ottenute non contribuiranno più a creare una serie di vittorie.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La serie di vittorie più alta che hai ottenuto continuerà comunque ad apparire sul profilo del giocatore in memoria del traguardo raggiunto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Per salutare questa funzionalità al meglio, regaleremo delle reazioni esclusive ai giocatori che abbiano raggiunto i seguenti valori nella serie di vittorie prima del 16 dicembre: 0-9, 10, 25, 50 e 100.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nsjWVqFcZYBM3PUDaeOQS/c5857522f192fd5ccad0a6f353992e92/image__13_.png?w=1800&amp;h=600&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Ci sarà un risarcimento per le monete spese per mantenere intatta la serie di vittorie?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Capiamo questa preoccupazione, ma ricorda che mantenere intatta una serie di vittorie non voleva dire soltanto potersi vantare dei propri progressi, ma anche ottenere più personaggi baby dai bauli delle ricompense. Offrire un risarcimento equivalente alle monete spese potrebbe allargare il divario tra chi fa acquisti con denaro reale in gioco e chi non li fa, che è una cosa che cerchiamo attentamente di evitare.&lt;/p&gt;&lt;p&gt;Siamo sempre al lavoro per far evolvere e migliorare il gioco, perciò continua a seguirci!&lt;/p&gt;&lt;p&gt;Grazie per il contributo e il sostegno! 🩷&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/it/news/1jdbathXNw46lk3bkImeJ9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Notizie"/>
+    <published>2024-11-25T14:55:00+00:00</published>
   </entry>
 </feed>

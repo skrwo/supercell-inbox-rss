@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>squadbusters-newsEntries-pl</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-25T14:39:08.060111+00:00</updated>
+  <updated>2024-11-25T15:38:06.582232+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -432,5 +432,17 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Aktualności"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1jdbathXNw46lk3bkImeJ9</id>
+    <title>Żegnamy się ze zwycięskimi passami!</title>
+    <updated>2024-11-25T14:55:21.782000+00:00</updated>
+    <content>&lt;p&gt;Zwycięskie passy nie spełniały swojej roli jako satysfakcjonującego elementu rozgrywki. Zamiast tego zauważyliśmy, że wprowadzały niepożądane napięcie i wahanie przed grą, sprawiając, że dla niektórych graczy gra stawała się mniej przystępna.&lt;/p&gt;&lt;p&gt;Aby zapewnić bardziej zrelaksowaną rozgrywkę i lepiej oddzielić aspekty kosmetyczne od premii do postępu, postanowiliśmy usunąć zwycięskie passy i przekalibrować liczbę stuknięć dla skrzyń z nagrodami w zależności od pozycji. Te zmiany zostaną wprowadzone wraz z przebudową ekranu końcowego bitwy w następnej aktualizacji.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Co to oznacza?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Od 16 grudnia zwycięstwa nie będą już wliczane do zwycięskiej passy.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wasza najdłuższa zwycięska passa zostanie zachowana w profilu gracza jako pamiątkowe osiągnięcie.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;W ramach pożegnalnego prezentu dostarczymy ekskluzywne emotki graczom, którzy przed 16 grudnia osiągnęli następujące etapy zwycięskiej passy: 0–9, 10, 25, 50 i 100.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nsjWVqFcZYBM3PUDaeOQS/c5857522f192fd5ccad0a6f353992e92/image__13_.png?w=1800&amp;h=600&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;A co z rekompensatą za monety wydane na utrzymanie zwycięskiej passy?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Rozumiemy tę kwestię, ale ponieważ utrzymywanie zwycięskiej passy nie było tylko kwestią prestiżu, ale także oznaczało zdobywanie większej liczby maluchów ze skrzyni z nagrodami, bezpośrednia rekompensata za wydane monety mogłaby zwiększyć różnicę między graczami niewydającymi pieniędzy a płacącymi, czego staramy się unikać.&lt;/p&gt;&lt;p&gt;Wypatrujcie aktualności, podczas gdy dalej rozwijamy i ulepszamy grę!&lt;/p&gt;&lt;p&gt;Dziękujemy za opinie i wsparcie! 🩷&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/1jdbathXNw46lk3bkImeJ9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Aktualności"/>
+    <published>2024-11-25T14:55:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-25T14:39:08.720588+00:00</updated>
+  <updated>2024-11-25T15:38:09.198052+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -506,5 +506,19 @@ ULTIMATE EVOLUTIONS ⭐️⭐️⭐️⭐️⭐️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1jdbathXNw46lk3bkImeJ9</id>
+    <title>We're saying goodbye to Win Streaks!</title>
+    <updated>2024-11-25T14:55:21.782000+00:00</updated>
+    <content>&lt;p&gt;Win Streaks haven’t been hitting the mark when it comes to feeling truly rewarding. Instead, we realized they’ve added unwanted tension and hesitation to play, making the game feel less accessible for some players. &lt;/p&gt;&lt;p&gt;To create a more relaxed experience and to better separate vanity aspects from progression boosts, we’ve decided to remove Win Streaks and to recalibrate the number of taps for Reward Chests based on position. These changes will roll out alongside a rework of the end-of-battle flow in our next update.
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;What does this mean?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Starting December 16th, wins will no longer contribute to a Win Streak.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Your highest Win Streak will be preserved on your player profile as a legacy achievement.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;As a farewell gift, we’ll deliver exclusive emotes for players who have hit the following win-streak milestones anytime before December 16th: 0-9, 10, 25, 50, and 100.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nsjWVqFcZYBM3PUDaeOQS/c5857522f192fd5ccad0a6f353992e92/image__13_.png?w=1800&amp;h=600&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;What about compensation for Coins spent maintaining Win Streaks?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We understand this concern, but since maintaining a win streak wasn’t just for vanity and also meant earning more babies from Reward Chests, directly compensating for Coins spent could widen the gap between free-to-play and paying players, something we’re carefully trying to avoid.&lt;/p&gt;&lt;p&gt;Stay tuned as we continue to evolve and improve the game! &lt;/p&gt;&lt;p&gt;Thanks for your feedback and support! 🩷&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/1jdbathXNw46lk3bkImeJ9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-11-25T14:55:00+00:00</published>
   </entry>
 </feed>

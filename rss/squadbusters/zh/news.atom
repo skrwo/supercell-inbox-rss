@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-25T14:39:08.833047+00:00</updated>
+  <updated>2024-11-25T15:38:07.854529+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -832,5 +832,17 @@
     <link href="https://www.youtube.com/watch?v=a_ZtaNeEUdw"/>
     <category term="最新情報"/>
     <published>2024-11-22T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1jdbathXNw46lk3bkImeJ9</id>
+    <title>告別連勝系統！</title>
+    <updated>2024-11-25T14:55:21.782000+00:00</updated>
+    <content>&lt;p&gt;目前的連勝系統，無法讓大家感到「自己的付出能獲得足夠的回報」，反而帶來了不必要的緊張和壓力，而且在開始對戰前會有所顧慮。這使得部分玩家無法享受《破壞突擊隊》上手即玩的樂趣。&lt;/p&gt;&lt;p&gt;為了讓遊戲體驗更加輕鬆愉快、進一步區分「加速推進遊戲進度」與「炫耀實力」兩方面的設計，我們決定移除現在的連勝系統。獎勵寶箱能夠點擊的次數，也將對應調整為按照對戰中的排名來確定。這些調整預計將在下次更新時，與重製後的對戰結算流程一起實裝。&lt;/p&gt;&lt;p&gt;&lt;b&gt;這些調整代表什麼？&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;從12月16日開始，獲勝將不再累計連勝。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;個人最高連勝場次數將會保留在玩家資料中，作為過去的成就來展示。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;我們將為12月16日前達成各個連勝里程碑（0至9場、10場、25場、50場和100場連勝）的玩家送上對應專屬表情，作為連勝系統的告別禮物。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nsjWVqFcZYBM3PUDaeOQS/c5857522f192fd5ccad0a6f353992e92/image__13_.png?w=1800&amp;h=600&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;為了維持連勝而花費的金幣該如何補償？&lt;/b&gt;&lt;/p&gt;&lt;p&gt;我們理解這個訴求，但考慮到維持連勝並不只是炫耀，也能使玩家透過獎勵寶箱獲得更多小小角色，因此，如果直接補償花費的金幣，將會導致付費玩家和免費玩家之間的差距拉大——而這正是我們努力想要避免的情況。&lt;/p&gt;&lt;p&gt;我們會不斷為《破壞突擊隊》帶來優化和更新，敬請期待！&lt;/p&gt;&lt;p&gt;感謝大家一直以來的支持與回饋！🩷&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/1jdbathXNw46lk3bkImeJ9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-11-25T14:55:00+00:00</published>
   </entry>
 </feed>

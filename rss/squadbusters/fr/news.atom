@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>squadbusters-newsEntries-fr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-25T14:39:07.956785+00:00</updated>
+  <updated>2024-11-25T15:38:11.207533+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -462,5 +462,17 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Nouveautés"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1jdbathXNw46lk3bkImeJ9</id>
+    <title>On dit adieu aux séries de victoires !</title>
+    <updated>2024-11-25T14:55:21.782000+00:00</updated>
+    <content>&lt;p&gt;Les séries de victoires ne sont pas aussi gratifiantes que nous l&amp;#39;espérions. Au contraire, nous avons constaté qu&amp;#39;elles provoquent une tension et une hésitation à jouer, ce qui rend le jeu moins accessible pour certains joueurs.&lt;/p&gt;&lt;p&gt;Nous souhaitons que l&amp;#39;expérience de jeu soit plus décontractée et que les boosts de progression ne dépendent plus des séries de victoires. Ainsi, nous avons décidé de supprimer ces dernières et de recalibrer le nombre de taps sur les coffres selon la position obtenue en fin de partie. Ces changements arriveront dans la prochaine mise à jour et s&amp;#39;accompagneront aussi d&amp;#39;un remaniement des fins de partie.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Qu&amp;#39;est-ce que cela signifie ?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;À partir du 16 décembre, les victoires ne contribueront plus à une série de victoires.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Votre série de victoires la plus élevée restera affichée sur votre profil de joueur en souvenir de vos exploits.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;En guise de cadeau d&amp;#39;adieu, avant le 16 décembre, des émotes seront offertes aux joueurs ayant atteint les paliers suivants dans leur plus haute série de victoire : 0-9, 10, 25, 50 et 100.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nsjWVqFcZYBM3PUDaeOQS/c5857522f192fd5ccad0a6f353992e92/image__13_.png?w=1800&amp;h=600&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Y aura-t-il une compensation pour les pièces dépensées sur les séries de victoires ?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nous comprenons cette idée, mais étant donné que maintenir sa série de victoires permettait aussi de gagner plus de p&amp;#39;tits dans les coffres, compenser directement les pièces dépensées pourrait élargir le fossé entre les joueurs free-to-play et ceux qui dépensent de l&amp;#39;argent réel, et c&amp;#39;est quelque chose que nous cherchons à éviter.&lt;/p&gt;&lt;p&gt;Restez à l&amp;#39;affût des prochaines évolutions et améliorations apportées au jeu !&lt;/p&gt;&lt;p&gt;Merci pour vos retours et pour votre soutien !&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/1jdbathXNw46lk3bkImeJ9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Nouveautés"/>
+    <published>2024-11-25T14:55:00+00:00</published>
   </entry>
 </feed>

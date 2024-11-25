@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>squadbusters-newsEntries-es</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-25T14:39:08.508697+00:00</updated>
+  <updated>2024-11-25T15:38:10.157271+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -462,5 +462,17 @@ Si llegas a Liga Squad antes de que termine el evento, ¡encontrarás una recomp
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Novedades"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1jdbathXNw46lk3bkImeJ9</id>
+    <title>Adiós a las rachas de victorias</title>
+    <updated>2024-11-25T14:55:21.782000+00:00</updated>
+    <content>&lt;p&gt;Nos hemos dado cuenta de que, en lugar de ser gratificantes para los jugadores, las rachas de victorias provocan tanto una tensión indeseada como dudas para los jugadores. Esta situación fomenta la sensación de que el juego es menos accesible para ciertos jugadores.&lt;/p&gt;&lt;p&gt;Para hacer que el juego sea más relajado y separar la progresión de aspectos más superficiales, hemos decidido eliminar las rachas de victorias y modificar el número de toques de los cofres de recompensas de acuerdo con los resultados de las batallas. Introduciremos estas modificaciones en la próxima actualización, junto a cambios sustanciales a las pantallas posteriores a las partidas.&lt;/p&gt;&lt;p&gt;&lt;b&gt;¿Esto qué significa?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;A partir del 16 de diciembre, las victorias ya no contribuirán a las rachas de victorias.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La racha de victorias más larga que hayas conseguido seguirá apareciendo en tu perfil de jugador para conmemorar tus logros.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Como regalo de despedida, enviaremos emojis exclusivos a los jugadores que hayan alcanzado los siguientes valores en las rachas de victorias antes del 16 de diciembre: 0-9, 10, 25, 50 y 100.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nsjWVqFcZYBM3PUDaeOQS/c5857522f192fd5ccad0a6f353992e92/image__13_.png?w=1800&amp;h=600&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;¿Habrá alguna compensación por las monedas que se hayan gastado en las rachas de victorias?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Entendemos tu preocupación, pero mantener una racha de victorias no era algo únicamente superficial, sino que también contribuía a obtener más formas bebé en los cofres de recompensas. Enviar una compensación equivalente al número de monedas gastadas contribuiría a aumentar las diferencias entre los jugadores que pagan y los que no, algo que queremos evitar a toda costa.&lt;/p&gt;&lt;p&gt;Siempre buscamos la forma de mejorar el juego, así que no te pierdas las próximas novedades.&lt;/p&gt;&lt;p&gt;¡Gracias por tus comentarios y por el apoyo! 🩷&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/es/news/1jdbathXNw46lk3bkImeJ9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Novedades"/>
+    <published>2024-11-25T14:55:00+00:00</published>
   </entry>
 </feed>

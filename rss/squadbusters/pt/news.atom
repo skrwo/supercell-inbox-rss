@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-25T14:39:07.866335+00:00</updated>
+  <updated>2024-11-25T15:38:08.882738+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -463,5 +463,17 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1jdbathXNw46lk3bkImeJ9</id>
+    <title>É hora de dar tchau às séries de vitórias!</title>
+    <updated>2024-11-25T14:55:21.782000+00:00</updated>
+    <content>&lt;p&gt;As séries de vitórias andam deixando a desejar no quesito recompensa. Percebemos que elas causavam tensão indesejada e hesitação de jogar, deixando o jogo menos acessível para certos jogadores.&lt;/p&gt;&lt;p&gt;Queremos uma experiência mais descontraída e separar melhor aspectos estéticos de reforços de progressão, então decidimos retirar as séries de vitórias do jogo e recalibrar o número de toques em baús de recompensa, com base na posição. Vamos implementar as alterações junto a uma reformulação do fluxo do fim da batalha na próxima atualização.&lt;/p&gt;&lt;p&gt;&lt;b&gt;O que isso quer dizer?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;A partir de 16 dezembro, as vitórias não contribuirão mais para uma série de vitórias.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sua maior série de vitórias será preservada no seu perfil, como uma conquista para a posteridade.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Como um presente de despedidas, vamos conceder emotes a quem tiver batido os seguintes marcos nas séries de vitórias antes de 16 de dezembro: 0-9, 10, 25, 50 e 100.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nsjWVqFcZYBM3PUDaeOQS/c5857522f192fd5ccad0a6f353992e92/image__13_.png?w=1800&amp;h=600&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Qual será a compensação para gastos de moedas na manutenção de séries de vitórias?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Entendemos o questionamento, mas como manter uma série de vitórias não era pura questão estética e também rendia mais bebês nos baús de recompensa, compensar diretamente as moedas gastas poderia aumentar o vão entre quem joga sem pagar e quem joga pagando, algo que estamos tomando o cuidado de evitar.&lt;/p&gt;&lt;p&gt;Fiquem ligados conforme continuamos a melhorar o jogo!&lt;/p&gt;&lt;p&gt;Agradecemos pela participação e pelo apoio! 🩷&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/1jdbathXNw46lk3bkImeJ9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Notícias"/>
+    <published>2024-11-25T14:55:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>squadbusters-newsEntries-tr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-11-25T14:39:08.602107+00:00</updated>
+  <updated>2024-11-25T15:38:08.389121+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -455,5 +455,17 @@ Etkinlik sona ermeden önce takım ligine ulaşırsanız dükkandan ödülünüz
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2tjx3Dqsvea4aYJYuhMZXT/23642e3de63bc54f108c52e31e1c83f6/SB_LeonFroggy_Skin_1080__2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Haberler"/>
     <published>2024-11-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1jdbathXNw46lk3bkImeJ9</id>
+    <title>Kazanma serilerine veda ediyoruz!</title>
+    <updated>2024-11-25T14:55:21.782000+00:00</updated>
+    <content>&lt;p&gt;Kazanma serileri, ödül kazandırma konusunda istediğimiz sonucu vermedi. Bunun yerine, gereksiz gerilim yaratıp oyuncuların oynamaya devam etmek konusunda tereddüt yaşamasına neden oldu ve bazı oyuncuları oyundan uzaklaştırdı.&lt;/p&gt;&lt;p&gt;Daha rahat bir oyun deneyimi sağlamak ve ilerleme güçlendirmelerini gösteriş öğelerinden ayırmak için kazanma serilerini kaldırmaya ve ödül sandığı dokunuş haklarını oyun sonu sıralamalarına göre yeniden ayarlamaya karar verdik. Bu değişiklikler bir sonraki güncellemede, savaş sonu ekranı düzenlemesiyle birlikte oyuna gelecek.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bu ne anlama geliyor?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;16 Aralık&amp;#39;tan itibaren zaferler kazanma serisi oluşturmayacak.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;En yüksek kazanma seriniz, oyuncu profilinizde eski başarınız olarak gösterilmeye devam edecek.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Veda ödülü olarak, 16 Aralık&amp;#39;tan önce şu kazanma serisi eşiklerine ulaşmış oyunculara özel ifadeler hediye edeceğiz: 0-9, 10, 25, 50 ve 100&amp;#39;lü kazanma serileri.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nsjWVqFcZYBM3PUDaeOQS/c5857522f192fd5ccad0a6f353992e92/image__13_.png?w=1800&amp;h=600&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;&lt;b&gt;Kazanma serilerini devam ettirmek için harcanan altınlar ne olacak?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Bu endişenizi anlıyoruz, ancak kazanma serilerini devam ettirerek ödül sandıklarından daha fazla bebek kopya aldığınız için harcanan altınları doğrudan iade ettiğimizde ücretsiz oynayan ve satın alım yapan oyuncular arasındaki boşluk büyüyebilir. Bu, özellikle önlemeye çalıştığımız bir durum.&lt;/p&gt;&lt;p&gt;Oyunu geliştirmeye devam edeceğiz, beklemede kalın!&lt;/p&gt;&lt;p&gt;Geri bildirimleriniz ve desteğiniz için teşekkürler! 🩷&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/tr/news/1jdbathXNw46lk3bkImeJ9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Haberler"/>
+    <published>2024-11-25T14:55:00+00:00</published>
   </entry>
 </feed>
