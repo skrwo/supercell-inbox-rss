@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-11-24T23:32:14.035271+00:00</updated>
+  <updated>2024-11-25T02:09:17.949640+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -228,5 +228,15 @@
     <link href="https://youtu.be/wuk3eCQX5uw"/>
     <category term="community"/>
     <published>2024-11-19T13:00:54+00:00</published>
+  </entry>
+  <entry>
+    <id>4ouQmMyDi5XUYELL3y1qnn</id>
+    <title>Es wurde eine faszinierende Entdeckung gemacht!</title>
+    <updated>2024-11-25T01:35:46.848000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/de/news/4ouQmMyDi5XUYELL3y1qnn"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/56uqSzaFtns1A5RzIhHNPc/e6e145ba867589c72db40765d025c741/inbox-minion-prince.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Xshm7VF7mMM?si=gkc03ZaCvJvCOvQk"/>
+    <category term="news"/>
+    <published>2024-11-22T10:33:46+00:00</published>
   </entry>
 </feed>
