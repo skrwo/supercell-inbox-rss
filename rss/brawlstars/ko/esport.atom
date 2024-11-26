@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-26T06:43:07.601163+00:00</updated>
+  <updated>2024-11-26T07:33:32.188899+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -14,5 +14,14 @@
     <link href="https://cafe.naver.com/brawlstars/1288029"/>
     <category term="뉴스"/>
     <published>2024-10-30T05:57:41+00:00</published>
+  </entry>
+  <entry>
+    <id>45L9dCtj4ZvlmZRm2PN9iW</id>
+    <title>[Be Stars : Tryout 0-1화] 핀란드에 울린 🚨본이 주의보🚨 헬싱키에서 월드 클래스들과 상견례 하고 왔습니다 🔥</title>
+    <updated>2024-11-26T07:32:27.755000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2VwckaWH4khXC9k8XKZpif/a180556471b46a9cf5adfff2dad4bcb6/1126_BS_GenG-Be-Stars_Ep0-1_Thumb_1920x1080__v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/g44jJ-hVIGA?si=ZHh9obmlJvbpEyhF"/>
+    <category term="동영상"/>
+    <published>2024-11-26T07:32:27+00:00</published>
   </entry>
 </feed>
