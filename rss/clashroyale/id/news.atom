@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2024-11-27T23:32:03.921732+00:00</updated>
+  <updated>2024-11-28T02:09:24.579159+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -352,5 +352,14 @@ Tim Clash Royale&lt;/p&gt;
     <link href="https://youtube.com/shorts/BqcmWJERwWk"/>
     <category term="Sorotan"/>
     <published>2024-11-15T10:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>2uwRSvIyOURY4iZrPaMLUT</id>
+    <title>Suasana akan segera menjadi dingin...</title>
+    <updated>2024-11-28T01:56:06.937000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/2uwRSvIyOURY4iZrPaMLUT"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3vJrEwq7cgRzHXTGi7SK0b/887e822a9688ae297386f784ecb394cf/Snowball_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Sorotan"/>
+    <published>2024-11-27T15:00:00+00:00</published>
   </entry>
 </feed>
