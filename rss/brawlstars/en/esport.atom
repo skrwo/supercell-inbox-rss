@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-11-29T18:41:39.525554+00:00</updated>
+  <updated>2024-11-29T19:28:58.911234+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -150,5 +150,14 @@
     <link href="https://youtu.be/WTnnHaawFFQ?si=3Lm_8gtKhi7UQDWZ"/>
     <category term="Esports"/>
     <published>2024-11-12T20:19:49+00:00</published>
+  </entry>
+  <entry>
+    <id>Jxsrwi6F0j6pM9hRtgos2</id>
+    <title>Keep Winning: SK Brawl Stars World Finals 2024 Documentary</title>
+    <updated>2024-11-29T19:12:45.191000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2NBwr9w1vTh0k99fgLkjM4/dde8aa1e36b70a275842fb344a0f357d/5bbU0W9AmXA-HD.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/5bbU0W9AmXA?si=3JuznHzufiqoe9AM"/>
+    <category term="Esports"/>
+    <published>2024-11-29T19:12:45+00:00</published>
   </entry>
 </feed>
