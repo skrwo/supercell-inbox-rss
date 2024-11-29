@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-11-29T07:33:47.021062+00:00</updated>
+  <updated>2024-11-29T08:42:09.231270+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>64yT7xAV2XtobKxy0u5gVD</id>
-    <title>Boernaal: de herfst is er! </title>
-    <updated>2024-08-31T08:03:42.816000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/nl/news/64yT7xAV2XtobKxy0u5gVD"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7em8uZlknxpP4lxu1mQXXg/7337c10845d92912c2556ddf3a062137/Hayday_September_thumb_C.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/WaVyT0fcSkw"/>
-    <category term="Nieuws"/>
-    <published>2024-08-31T08:00:12+00:00</published>
-  </entry>
   <entry>
     <id>1C4rqK0hj9ZBGjOMwx7L49</id>
     <title>Hay Day-evenementen: week 36</title>
@@ -287,5 +277,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Evenementen"/>
     <published>2024-11-24T09:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>20kkKbH24VqTIbqxg9lv4X</id>
+    <title>Nieuw gewas, productiegebouw en vogels?!</title>
+    <updated>2024-11-29T08:00:04.984000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/20kkKbH24VqTIbqxg9lv4X"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6vLhAp7IjCgn9ZLPATAxvo/b1f312e6069f1a7933e2cfb08b891065/Thumb-draft-04__2_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/axVfcDrE0mE"/>
+    <category term="Spelupdates"/>
+    <published>2024-11-29T08:00:04+00:00</published>
   </entry>
 </feed>

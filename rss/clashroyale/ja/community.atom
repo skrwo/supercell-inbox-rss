@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-communityEntries-ja</id>
   <title>Clashroyale - Community</title>
-  <updated>2024-11-29T07:33:41.978340+00:00</updated>
+  <updated>2024-11-29T08:41:40.290499+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Community</subtitle>
   <entry>
     <id>GxdFrGVA9o7UTKtIiUpZn</id>
     <title>【クラロワ】10月の新進化「限界突破ライトニングドラゴン」は、ビリビリが無限に連鎖する？！（先行プレイ）</title>
-    <updated>2024-11-29T07:33:41.978432+00:00</updated>
+    <updated>2024-11-29T08:41:40.290621+00:00</updated>
     <author>
       <name>kabutom</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>36lpCyqHvnMF4NKn6CMLDy</id>
     <title>【クラロワ】11月の進化カード「限界突破マスケット銃士」はスナイパー？！（先行プレイ）</title>
-    <updated>2024-11-29T07:33:41.978378+00:00</updated>
+    <updated>2024-11-29T08:41:40.290583+00:00</updated>
     <author>
       <name>kabutom</name>
     </author>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2S8Pjasi671RCKW5pFx1k3/bf84a8eeba78d0534f24e04b2e004349/guest-content-video-64-9d860d13-39d6-4f84-a074-2068dd4e6b18-jskz.jpeg-1730073342359?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=kjvybrFmIYA"/>
     <published>2024-10-27T23:55:50+00:00</published>
+  </entry>
+  <entry>
+    <id>1VgjTjjduJ05NSKvwxzG2t</id>
+    <title>【クラロワ】12月の進化カード「限界突破巨大雪玉」は、陸も空もまとめてゴーロゴロ！？（先行プレイ）</title>
+    <updated>2024-11-29T08:41:40.290526+00:00</updated>
+    <author>
+      <name>kabutom</name>
+    </author>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1uXB4WoFR8WvXKKGjYxwn2/e17bec347c98fd8a83926ce92f36e96a/thumbnail-1732867436382?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=8OW1BFJXOXs"/>
+    <published>2024-11-29T08:04:04+00:00</published>
   </entry>
 </feed>

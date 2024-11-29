@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 29 Nov 2024 07:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 08:41:59 +0000</lastBuildDate>
     <item>
       <title>오늘의 이벤트!</title>
       <link>hayday://OpenEventBoard</link>
@@ -25,6 +25,15 @@
       <guid isPermaLink="false">6ZgUvzEES1yIPAlHCOCgz</guid>
       <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4cfyKPJkTQJ7SpQsCYZH8s/e8853092bea1e83916d4606fbb77d65e/HayDay_Thanksgiving_Inbox_Carousel_860x1320__1_.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Thu, 31 Oct 2024 08:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>겨울 업데이트를 어서 확인해 보세요.</title>
+      <link>https://youtu.be/axVfcDrE0mE</link>
+      <description>&lt;br&gt;
+&lt;a href="https://youtu.be/axVfcDrE0mE"&gt;👉영상 보기👈&lt;/a&gt;</description>
+      <guid isPermaLink="false">6JEWS3e5RH4ciciYXLe6NB</guid>
+      <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5hVBdKztO9Cymj9HFdvSaw/5af840e4d0c050bb250f9c00c4f5119c/inbox5.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 29 Nov 2024 08:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
