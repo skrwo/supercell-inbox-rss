@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-communityEntries-de</id>
   <title>Hayday - Community</title>
-  <updated>2024-11-29T12:58:12.959911+00:00</updated>
+  <updated>2024-11-29T13:40:12.587912+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Community</subtitle>
   <entry>
     <id>1EPCqYUA670wXVFYZfSgHB</id>
     <title>MARMELADE UND SAFT?!</title>
-    <updated>2024-11-29T12:58:12.960070+00:00</updated>
+    <updated>2024-11-29T13:40:12.588103+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>6aKLzAIBevRzcfrmtXWHCQ</id>
     <title>DARUM SOLLTEST DU LANGSAM LEVELN</title>
-    <updated>2024-11-29T12:58:12.960036+00:00</updated>
+    <updated>2024-11-29T13:40:12.588072+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>33iasSkk22nt1woqKLftCy</id>
     <title>HALLOWEEN DAIRY NEWS</title>
-    <updated>2024-11-29T12:58:12.959999+00:00</updated>
+    <updated>2024-11-29T13:40:12.588039+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
@@ -42,12 +42,23 @@
   <entry>
     <id>7nU3EuSj846osXGAmpTOuD</id>
     <title>HALLOWEEN UPDATE  ALLE INFOS</title>
-    <updated>2024-11-29T12:58:12.959945+00:00</updated>
+    <updated>2024-11-29T13:40:12.588001+00:00</updated>
     <author>
       <name>SyromerB</name>
     </author>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1R41ol3JpCBFk9RvWbXmzs/3770469ee54ffee03d584347669ced1d/guest-content-video-10-991b1391-3024-4dbc-a19c-5f8eac90d4f0-bmou.png-1728064169198?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=pWf0Fz9sFvI"/>
     <published>2024-10-04T17:49:35+00:00</published>
+  </entry>
+  <entry>
+    <id>13uoLoFRkBsp65WpCRVfNt</id>
+    <title>WINTER UPDATE 2024 Dairy News</title>
+    <updated>2024-11-29T13:40:12.587946+00:00</updated>
+    <author>
+      <name>SyromerB</name>
+    </author>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3sWFBF2KjuhXRd01siCmax/5e19b59acb93a84791de5c9d7e7fd2d2/thumbnail-1732886997449?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/yjwFOhtpic0"/>
+    <published>2024-11-29T13:30:06+00:00</published>
   </entry>
 </feed>
