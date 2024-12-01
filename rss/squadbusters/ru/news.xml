@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 01 Dec 2024 06:43:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 07:32:43 +0000</lastBuildDate>
     <item>
       <title>Что такое Squad Busters? 🧐</title>
       <link>https://www.youtube.com/watch?v=cDCCpWJRWak</link>
@@ -408,6 +408,14 @@
       <category>Новости</category>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4eol41hOm9ucqfMOXyszHd/124840c917aef0aad05b48d1c4e7f2e8/End-of-Winstreak_16x9_InGame.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Mon, 25 Nov 2024 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Подарки каждый день до 25 декабря! 🎁 Счастливого Рождества в Squad Busters! 🎄</title>
+      <link>squadbusters-inbox://OpenShop</link>
+      <guid isPermaLink="false">27VO0bXkH5vGg7FpmGRWCS</guid>
+      <category>Новости</category>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2TcG3Bq5Jn7oBFT07PUqnA/d8f75249913d1be13b4b145dff009a2c/SB_XMas_Calendar_1080_nologo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Sun, 01 Dec 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

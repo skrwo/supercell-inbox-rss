@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-01T06:43:11.720880+00:00</updated>
+  <updated>2024-12-01T07:32:44.212208+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1099,5 +1099,15 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/60wXjPNf7pHNTBmGvCifyC/62cb919fe932403fe5c5029bfd7e35de/20241125_SQU_TW_skins_CP_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-11-27T08:54:45+00:00</published>
+  </entry>
+  <entry>
+    <id>27VO0bXkH5vGg7FpmGRWCS</id>
+    <title>12月25日まで無料ギフトを毎日獲得🎁ハッピースクワッドマス🎄</title>
+    <updated>2024-12-01T07:14:12.255000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/27VO0bXkH5vGg7FpmGRWCS"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2TcG3Bq5Jn7oBFT07PUqnA/d8f75249913d1be13b4b145dff009a2c/SB_XMas_Calendar_1080_nologo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="squadbusters-inbox://OpenShop"/>
+    <category term="新着"/>
+    <published>2024-12-01T07:00:00+00:00</published>
   </entry>
 </feed>
