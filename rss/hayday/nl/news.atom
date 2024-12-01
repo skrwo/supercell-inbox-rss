@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-12-01T08:38:31.938961+00:00</updated>
+  <updated>2024-12-01T09:32:17.879053+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1C4rqK0hj9ZBGjOMwx7L49</id>
-    <title>Hay Day-evenementen: week 36</title>
-    <updated>2024-09-02T14:55:30.645000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day-evenementen: week 36&lt;/h1&gt;
-&lt;p&gt;Hallo boeren! Maak jullie klaar voor een nieuwe week vol evenementen! Alle evenementen beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;Maandag: rad van fortuin (puzzelstukken) + 3x zoveel boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Dinsdag: truckevenement (2x zoveel munten) + 3x zoveel boerderijkaartpunten&lt;/p&gt;&lt;p&gt;Woensdag: bootevenement (puzzelstukken) + truckevenement (3x zoveel XP)&lt;/p&gt;&lt;p&gt;Donderdag: boerderijbezoekers (rommelmarkt) + truckevenement (3x zoveel XP)&lt;/p&gt;&lt;p&gt;Vrijdag: visboost (20% boost voor alle vissen) + truckevenement (3x zoveel XP)&lt;/p&gt;&lt;p&gt;Zaterdag: stadsbezoekersevenement (silo- en schuurmateriaal) + truckevenement (3x zoveel XP)&lt;/p&gt;&lt;p&gt;Zondag: fruitboost (2x zo snel)&lt;/p&gt;&lt;p&gt;Een fijne week gewenst!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/nl/news/1C4rqK0hj9ZBGjOMwx7L49"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Evenementen"/>
-    <published>2024-09-01T12:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1v9LlSeoFkHNCINbu6ZG5L</id>
     <title>Hay Day: week 37</title>
@@ -287,5 +276,26 @@
     <link href="https://youtu.be/axVfcDrE0mE"/>
     <category term="Spelupdates"/>
     <published>2024-11-29T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>3P47pUsFe9NIg9lDwNq09O</id>
+    <title>Maak je klaar voor de nieuwe evenementen in december!</title>
+    <updated>2024-12-01T09:00:03.992000+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Boerderijkaart&lt;/b&gt;: 01/12 - 31/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Gregs kalenderevenement&lt;/b&gt;: 01/12 - 24/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Catalogusevenement (wekelijks vernieuwd)&lt;/b&gt;: 01/12 - 31/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wintervakantieverzameling&lt;/b&gt;: 01/12 - 31/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Takenevenement&lt;/b&gt;: 03/12 - 08/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kippendorp&lt;/b&gt;: 04/12 - 24/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Inpaktafel en bootevenement&lt;/b&gt;: 10/12 - 31/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kermis&lt;/b&gt;: 16/12 - 20/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Winterfeestjesverzameling&lt;/b&gt;: 21/12 - 27/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Winterfestiviteitenverzameling&lt;/b&gt;: 21/12 - 27/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Takenevenement voor speciale producten&lt;/b&gt;: 22/12 - 25/12&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/3P47pUsFe9NIg9lDwNq09O"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3gOXDBvUt9dRgHL16jRZm0/368ec0538c975b97d85d9e2cb1a88764/inboxcalendar.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Evenementen"/>
+    <published>2024-12-01T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1E1dwhUD42iPXki9OWCQoE</id>
+    <title>Hay Day: week 49</title>
+    <updated>2024-12-01T09:00:50.213000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day: week 49&lt;/h1&gt;
+&lt;p&gt;Hey boeren! Maak jullie klaar voor een nieuwe week vol evenementen! Alle evenementen en derby&amp;#39;s beginnen om 8.00 UTC. Kom meer te weten over elk evenement via het evenementenbord in het spel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maandag&lt;/b&gt;: rad van fortuin (tegoedbonnen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dinsdag&lt;/b&gt;: stadsbezoekersevenement (silo- en schuurmateriaal)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Woensdag&lt;/b&gt;: bootevenement (2x zoveel munten)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donderdag&lt;/b&gt;: productiegebouwen (20% boost voor 3 gebouwen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vrijdag&lt;/b&gt;: visevenement (30% boost voor eenden en netten)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Zaterdag&lt;/b&gt;: stadsbezoekersevenement (uitbreidingsmateriaal)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Zondag&lt;/b&gt;: gewassenevenement (drie willekeurige gewassen leveren 3 gewassen op in plaats van 2)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: normaal&lt;/p&gt;&lt;p&gt;We wensen je een fijne week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/1E1dwhUD42iPXki9OWCQoE"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Evenementen"/>
+    <published>2024-12-01T09:00:04+00:00</published>
   </entry>
 </feed>

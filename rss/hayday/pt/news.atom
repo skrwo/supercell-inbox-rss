@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-12-01T08:38:32.063267+00:00</updated>
+  <updated>2024-12-01T09:32:19.004948+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1C4rqK0hj9ZBGjOMwx7L49</id>
-    <title>Semana 36 de eventos do Hay Day</title>
-    <updated>2024-09-02T14:55:30.645000+00:00</updated>
-    <content>&lt;h1&gt;Semana 36 de eventos do Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;Segunda-feira: triplo de pontos do passe rural e roda da sorte com peças de quebra-cabeça.&lt;/p&gt;&lt;p&gt;Terça-feira: moedas em dobro com os pedidos do caminhão e triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;Quarta-feira: peças de quebra-cabeça com os pedidos do barco e triplo de XP com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Quinta-feira: venda de itens usados com os visitantes da fazenda e triplo de XP com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Sexta-feira: aceleração da produção em 20% da área de pesca e triplo de XP com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Sábado: materiais do celeiro e do silo com os visitantes da cidade e triplo de XP com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;Domingo: aceleração das frutas (duas vezes mais rápido).&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/1C4rqK0hj9ZBGjOMwx7L49"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Eventos"/>
-    <published>2024-09-01T12:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1v9LlSeoFkHNCINbu6ZG5L</id>
     <title>Semana 37 de eventos do Hay Day</title>
@@ -287,5 +276,16 @@
     <link href="https://youtu.be/axVfcDrE0mE"/>
     <category term="Novidades do jogo"/>
     <published>2024-11-29T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>1E1dwhUD42iPXki9OWCQoE</id>
+    <title>Semana 49 de Hay Day</title>
+    <updated>2024-12-01T09:00:50.213000+00:00</updated>
+    <content>&lt;h1&gt;Semana 49 de Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com vales.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: dobro de moedas com os pedidos do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: aceleração da produção em 20% de 3 edifícios aleatórios.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 30% do salão dos patos e redeiro.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: visitantes da cidade com materiais de expansão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três plantações aleatórias aceleradas com rendimento de 3 unidades em cada colheita em vez de 2.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: normal.&lt;/p&gt;&lt;p&gt;Tenha uma semana maravilhosa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/1E1dwhUD42iPXki9OWCQoE"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-12-01T09:00:04+00:00</published>
   </entry>
 </feed>

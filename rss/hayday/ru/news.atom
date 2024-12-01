@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-12-01T08:38:31.850162+00:00</updated>
+  <updated>2024-12-01T09:32:18.887656+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1C4rqK0hj9ZBGjOMwx7L49</id>
-    <title>События 36-й недели в Hay Day</title>
-    <updated>2024-09-02T14:55:30.645000+00:00</updated>
-    <content>&lt;h1&gt;События 36-й недели в Hay Day&lt;/h1&gt;
-&lt;p&gt;Привет, фермеры! Наступила новая неделя событий! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: куски головоломки на колесе фортуны и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;Вторник: вдвое больше монет за выполнение заказов на доставку грузовиком и втрое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;Среда: куски головоломки за загрузку пароходов и в три раза больше опыта за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Четверг: событие с посетителями фермы и распродажей на дому и в три раза больше опыта за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Пятница: ускорение производства в рыболовной зоне на 20 % и и в три раза больше опыта за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Суббота: материалы для улучшения амбара и силосной башни за обслуживание гостей города и в три раза больше опыта за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;Воскресенье: ускорение созревания всех фруктов в два раза.&lt;/p&gt;&lt;p&gt;Желаем отличной недели!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/1C4rqK0hj9ZBGjOMwx7L49"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="События"/>
-    <published>2024-09-01T12:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1v9LlSeoFkHNCINbu6ZG5L</id>
     <title>События 37-й недели в Hay Day</title>
@@ -277,5 +266,26 @@
     <link href="https://youtu.be/axVfcDrE0mE"/>
     <category term="Обновления"/>
     <published>2024-11-29T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>3P47pUsFe9NIg9lDwNq09O</id>
+    <title>Встречайте новые события, которые пройдут в декабре!</title>
+    <updated>2024-12-01T09:00:03.992000+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Farm Pass&lt;/b&gt;: с 1 по 31 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Календарь Грега&lt;/b&gt;: с 1 по 24 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Событие с каталогом (с еженедельным обновлением)&lt;/b&gt;: с 1 по 31 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Коллекция «Зимние праздники»&lt;/b&gt;: с 1 по 31 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Событие с заданиями&lt;/b&gt;: с 3 по 8 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Куриная долина&lt;/b&gt;: с 4 по 24 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Стол для упаковки подарков и событие с пароходом&lt;/b&gt;: с 10 по 31 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ярмарка&lt;/b&gt;: с 16 по 20 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Коллекция «Праздничное веселье»&lt;/b&gt;: с 21 по 27 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Коллекция «Праздничная атмосфера»&lt;/b&gt;: с 21 по 27 декабря.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Событие с заданиями и особыми продуктами&lt;/b&gt;: с 22 по 25 декабря.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/3P47pUsFe9NIg9lDwNq09O"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3gOXDBvUt9dRgHL16jRZm0/368ec0538c975b97d85d9e2cb1a88764/inboxcalendar.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="События"/>
+    <published>2024-12-01T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1E1dwhUD42iPXki9OWCQoE</id>
+    <title>События 49-й недели в Hay Day</title>
+    <updated>2024-12-01T09:00:50.213000+00:00</updated>
+    <content>&lt;h1&gt;События 49-й недели в Hay Day&lt;/h1&gt;
+&lt;p&gt;Привет, фермеры! Наступила новая неделя событий! Все события и скачки начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Понедельник:&lt;/b&gt; ваучеры на колесе фортуны.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Вторник&lt;/b&gt;: материалы для улучшения амбара и силосной башни за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Среда&lt;/b&gt;: вдвое больше монет за загрузку пароходов.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Четверг&lt;/b&gt;: ускорение трех случайных производственных зданий на 20 %.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Пятница&lt;/b&gt;: рыболовное событие с ускорением производства на 30 % (утиный салон и вязальщик сетей).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Суббота&lt;/b&gt;: материалы для расширения за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Воскресенье&lt;/b&gt;: три случайных растения будут приносить в полтора раза больше урожая.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Скачки&lt;/b&gt;: обычные скачки.&lt;/p&gt;&lt;p&gt;Удачной недели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/1E1dwhUD42iPXki9OWCQoE"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="События"/>
+    <published>2024-12-01T09:00:04+00:00</published>
   </entry>
 </feed>
