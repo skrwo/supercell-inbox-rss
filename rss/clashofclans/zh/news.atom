@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-12-01T02:26:10.715516+00:00</updated>
+  <updated>2024-12-01T03:54:59.571446+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -604,5 +604,15 @@
     <link href="https://youtu.be/L_BJsEyDDkI"/>
     <category term="最新情報"/>
     <published>2024-11-29T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5yzWIZ7tJV0ehVEdxzWkNz</id>
+    <title>【金雄】搶先了解新造型與12月活動表！</title>
+    <updated>2024-12-01T03:51:39.131000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/5yzWIZ7tJV0ehVEdxzWkNz"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1PC1sGYbB9N6qxGt1RUwAF/df995a4e016e4982f0107c4531506c48/tw_20241130_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=uqyN3w8Rj0E"/>
+    <category term="最新情報"/>
+    <published>2024-12-01T03:00:00+00:00</published>
   </entry>
 </feed>
