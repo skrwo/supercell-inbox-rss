@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-eventEntries-it</id>
   <title>Clashroyale - Event</title>
-  <updated>2024-12-02T08:42:44.687457+00:00</updated>
+  <updated>2024-12-02T09:37:44.102192+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
-  <entry>
-    <id>6cQuXTToAQelQpDQ4rs2V6</id>
-    <title>STAGIONE DI NOVEMBRE</title>
-    <updated>2024-11-06T04:42:47.166000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/it/news/2qEDuoi4Kb7aqZ5i5LCKkD"&gt;👉LEGGI👈&lt;/a&gt; -- &lt;a href="https://youtube.com/shorts/oDeRicecJgU?feature=share"&gt;👉GUARDA👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RjveS4fHFljBuj98772bt/b6546004480bc6e143c38e26c5f8cc43/SUP3965_Season_65_Season_Carousel_Image-960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <published>2024-11-04T08:45:02+00:00</published>
-  </entry>
   <entry>
     <id>5t1cLDOuGPg7IvYlEeKFhn</id>
     <title>🗞️</title>
@@ -24,5 +15,14 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4DwqvuVk1d34LuyBOQB5tu/18c15418d9beb331180c108498280e4d/it_DF_Clsh-Comics_Inbox_vol4DF_CLASH-COMICS_BOOKS-OF-CLASH-VOL-4-NewsTab-CR.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://booksofclash.com/books/books-of-clash-volume-4/"/>
     <published>2024-11-08T16:35:35+00:00</published>
+  </entry>
+  <entry>
+    <id>5suFus59IFP1rLuS27cx2t</id>
+    <title>La magia di Clashmas</title>
+    <updated>2024-12-02T09:08:05.566000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/it/news/2qEavBtU9OZAfu3TD4wfQK"&gt;👉Leggi👈&lt;/a&gt; -- &lt;a href="https://youtu.be/SwrPvXraSP4"&gt;👉Guarda👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/799wnc5h7NLnCJ3Yp1E6xU/33733526b2b7552e33f3e09d939b28c9/SUP3969_Season_66_Season_Carousel_Image-960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <published>2024-12-02T09:04:35+00:00</published>
   </entry>
 </feed>

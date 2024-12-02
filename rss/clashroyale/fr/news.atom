@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-02T08:42:44.556432+00:00</updated>
+  <updated>2024-12-02T09:37:42.083912+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -437,5 +437,38 @@ L&amp;#39;équipe de Clash Royale&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3vJrEwq7cgRzHXTGi7SK0b/887e822a9688ae297386f784ecb394cf/Snowball_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Temps forts"/>
     <published>2024-11-27T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2qEavBtU9OZAfu3TD4wfQK</id>
+    <title>Défis et événements de décembre !</title>
+    <updated>2024-12-02T09:09:38.024000+00:00</updated>
+    <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Tirage de la boule de neige évoluée&lt;/b&gt; &lt;b&gt;(1c1 et 2c2) : du 2 au 9 décembre&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Gare à la boule de neige évoluée,
+qui emporte vos troupes sans rien demander.&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Défi&lt;/b&gt; : du 6 au 9 décembre
+🏆 &lt;b&gt;Récompense&lt;/b&gt; : décoration de bannière&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1mzWGJyVCu9ubhzZHWTxAa/a05c94da35f869d1f5f1cbe38b91125b/PhoenixInTheSnow_decoration.png?w=2614&amp;h=1579&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Tempête de neige&lt;/b&gt; &lt;b&gt;(1c1 et 2c2) : du 9 au 16 décembre&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Gare au vent glacial...
+Car sans chaleur, ça va faire mal !&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Défi&lt;/b&gt; : du 13 au 16 décembre
+🏆 &lt;b&gt;Récompense&lt;/b&gt; : fond de bannière&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5w0TWDAmQ6E7WDxe8Qnxa3/62b1621c1d627abbf33422245a2cf9d7/PhoenixInTheSnow_BannerBase.png?w=4000&amp;h=995&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Pluie de cadeaux&lt;/b&gt; &lt;b&gt;(1c1) : du 16 au 23 décembre&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Clashmas est là ! C&amp;#39;est une véritable pluie de cadeaux !
+Papa Noël est là, et il apporte la joie ! Restez prêt de lui, et c&amp;#39;est le jackpot !&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Défi&lt;/b&gt; : du 20 au 23 décembre
+🏆 &lt;b&gt;Récompense&lt;/b&gt; : bannière (décoration + fond)&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4YGpPuQp70VFrCEHwRHjVz/c96c7b19cc6a423d9eb155439b1c4376/Cookiesforyou_banner.png?w=4000&amp;h=1541&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Festin de fêtes&lt;/b&gt; &lt;b&gt;(1c1 et 2c2) : du 23 au 30 décembre&lt;/b&gt;&lt;/p&gt;&lt;p&gt;La table est mise, le festin est prêt,
+Apportez vos couverts et votre épée, tous ne survivront pas à cette soirée !&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Défi&lt;/b&gt; : du 27 au 30 décembre
+🏆 &lt;b&gt;Récompense&lt;/b&gt; : bannière (décoration + fond)&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2GhRBgMpA7Br9Q27ZhklPo/eda304ab2c853d6fc9ee50446ec3d3a5/SaltBaeChef_banner.png?w=3678&amp;h=1417&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Livraison spéciale (1c1 et 2c2) : du 30 décembre au 6 janvier&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Chargez votre capacité avec vos unités,
+et une fois pleine, la livraison spéciale est envoyée !&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Défi&lt;/b&gt; : du 3 au 6 janvier
+🏆 &lt;b&gt;Récompense&lt;/b&gt; : bannière (décoration + fond)&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1WAjlWPLTTHlw7F6nwBUyI/66b2a510fe8938e9b2c5f87e0b50bba9/KnittingKing_banner.png?w=3678&amp;h=1417&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Défi 20 victoires : du 13 au 18 décembre&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Le plus épique des défis est de retour ! Trois défaites et tout s&amp;#39;arrête !
+Gagnez une émote exclusive !&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1qPzuW1o7dqlxfhkYRgD0G/6a884dc77a4ef969de7597fa2cf1edd3/20win2024_emote.png?w=1230&amp;h=1244&amp;f=center&amp;fit=fill"&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/2qEavBtU9OZAfu3TD4wfQK"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aUvXHazbdBYrRb8EKYbDI/4479b65733f10bcafa30353b3ff0d6f9/SUP3969_Season_66_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Actualités"/>
+    <published>2024-12-02T08:00:00+00:00</published>
   </entry>
 </feed>
