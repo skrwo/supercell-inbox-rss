@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-12-02T11:30:12.586259+00:00</updated>
+  <updated>2024-12-02T12:59:46.178973+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -159,5 +159,14 @@
     <link href="https://youtu.be/5bbU0W9AmXA?si=3JuznHzufiqoe9AM"/>
     <category term="Esports"/>
     <published>2024-11-29T19:12:45+00:00</published>
+  </entry>
+  <entry>
+    <id>3jKO2zmAVFj0sHbz6DLZSU</id>
+    <title>Sign up today for the All Stars LATAM Split 2!</title>
+    <updated>2024-12-02T12:13:59.831000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/29cxxfl7P8eVubMC2XZUY6/d652c03b974ec824aef8cdc3d804aa5e/EN_All-Stars-LATAM-Split-2_Sign-ups.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://docs.google.com/forms/d/e/1FAIpQLSfg5PAU3gJj9kRaXOH9A14FmD9a_9M5lfZB6pHzqyfjINHyZA/viewform"/>
+    <category term="Esports"/>
+    <published>2024-12-02T12:09:37+00:00</published>
   </entry>
 </feed>
