@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-03T05:38:14.610736+00:00</updated>
+  <updated>2024-12-03T06:45:09.159361+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -315,5 +315,15 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1OyN00be2dTFEqQZInvoiP/79a2a6b777ca34b31a2725d8db9aa205/1029_Update_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="업데이트"/>
     <published>2024-11-13T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>73IeQD0c1xSGuzyzOMSX3S</id>
+    <title>Ho Ho Ho! 해피 브롤리데이! 특별한 크리스마스 팝업이 곧 찾아옵니다! 🎅</title>
+    <updated>2024-12-03T06:29:58.197000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/73IeQD0c1xSGuzyzOMSX3S"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hbcIL6bUWaiX7L1mcrSgd/2a845144b4b4c29164e03dd1b185bafe/_____-1__3_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/uuAM22bSVbc?si=Ii6QSrdrf3dDbgY2"/>
+    <category term="동영상"/>
+    <published>2024-12-03T06:29:58+00:00</published>
   </entry>
 </feed>
