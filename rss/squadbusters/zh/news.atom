@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-03T07:34:29.588406+00:00</updated>
+  <updated>2024-12-03T08:41:35.023968+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -854,5 +854,15 @@
     <link href="squadbusters-inbox://OpenShop"/>
     <category term="最新情報"/>
     <published>2024-12-01T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4P238icVN8ionNPaim8jPE</id>
+    <title>【阿德老師】冰法爆擊數據分析</title>
+    <updated>2024-12-03T08:00:11.062000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/4P238icVN8ionNPaim8jPE"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3mkmmGIKAsdz3GZC6wDSzc/eb2bc13c5491fb55793fb419a5c17743/tw_20241203_derder_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Z_3V0HK_xQw"/>
+    <category term="最新情報"/>
+    <published>2024-12-03T08:00:00+00:00</published>
   </entry>
 </feed>
