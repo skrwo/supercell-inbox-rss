@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-04T08:42:40.443037+00:00</updated>
+  <updated>2024-12-04T09:37:03.552568+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>OMdl6zwCroEC5PferVNar</id>
-    <title>브롤스타즈 애니메이션 - 스폰지밥이 브롤스타즈에 찾아왔어요!</title>
-    <updated>2024-09-05T09:13:04.776000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/OMdl6zwCroEC5PferVNar"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Tqqq8vnhQlkBaSEvldaiP/2f51e848a65767e5c26f1381b2cfad6a/0903_SB_pop-up_YT_Thumb_1.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/73QCI5782CE"/>
-    <category term="동영상"/>
-    <published>2024-09-05T09:09:59+00:00</published>
-  </entry>
   <entry>
     <id>3XkPGvKocPGxHIkWFGNMdF</id>
     <title>마음에 드는 스킨에 투표하세요! #SupercellMAKE</title>
@@ -239,7 +229,7 @@ A: 네, 하지만 플레이어의 실력에 따라 살짝 달라집니다. 콘�
   <entry>
     <id>2KtNTVzMPzrxuH3nQGMVj</id>
     <title>패치 노트: 천사 VS 악마</title>
-    <updated>2024-12-02T11:34:12.627000+00:00</updated>
+    <updated>2024-12-04T09:25:51.808000+00:00</updated>
     <content>&lt;h1&gt;서버 점검 - 11월 14일&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;수정 사항:&lt;/b&gt;
 ▫️ 격분(천사 능력) 사용 시 콜트가 비정상적으로 행동하던 문제 수정
