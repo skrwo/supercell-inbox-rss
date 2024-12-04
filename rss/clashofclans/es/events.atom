@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-eventEntries-es</id>
   <title>Clashofclans - Event</title>
-  <updated>2024-12-04T07:34:20.490515+00:00</updated>
+  <updated>2024-12-04T08:42:44.736351+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -25,5 +25,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4pAUrV0W0G3HltJupAWnXu/37c31ad4b92d56e7b9442469b97edbcc/es_CoC_SC021_Clashmas_EN_860x1320_Still_Inbox_v01_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/MVMFD105BDw"/>
     <published>2024-12-01T08:00:06+00:00</published>
+  </entry>
+  <entry>
+    <id>3NCu1rUiH46L1Cc4yskLpK</id>
+    <title>Evento: Controla a los héroes </title>
+    <updated>2024-12-04T08:12:31.364000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/KKruiSgciok"&gt;👉Ver ahora👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/y8ct5xwVa5TbaXYztU7XF/27310419e2bd4c12b88ddb54f38f0e0f/CoC_Controllable_Heroes_Popup_Textless.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/KKruiSgciok"/>
+    <published>2024-12-04T08:04:22+00:00</published>
   </entry>
 </feed>
