@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-04T06:44:24.383714+00:00</updated>
+  <updated>2024-12-04T07:33:51.063659+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -314,5 +314,15 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <link href="https://youtube.com/shorts/uuAM22bSVbc?si=Ii6QSrdrf3dDbgY2"/>
     <category term="동영상"/>
     <published>2024-12-03T06:29:58+00:00</published>
+  </entry>
+  <entry>
+    <id>1ydytk079NgmdRJhupLHLS</id>
+    <title>신화&amp;전설 현지인들의 마스터 도전기! 😤</title>
+    <updated>2024-12-04T07:26:05.971000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/1ydytk079NgmdRJhupLHLS"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7IdQswiUGU6xSgbH4wNpQ4/e961be0bfc437a6e2274db693ee24d66/1202_BS______.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/T14DLwodgy8?si=dF-pCGRkJEAX-OPF"/>
+    <category term="동영상"/>
+    <published>2024-12-04T07:26:05+00:00</published>
   </entry>
 </feed>
