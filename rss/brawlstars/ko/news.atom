@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-05T03:47:18.238553+00:00</updated>
+  <updated>2024-12-05T04:40:17.916210+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -314,5 +314,15 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <link href="https://youtu.be/T14DLwodgy8?si=dF-pCGRkJEAX-OPF"/>
     <category term="동영상"/>
     <published>2024-12-04T07:26:05+00:00</published>
+  </entry>
+  <entry>
+    <id>2G17pGlwg19hsfCf8rOTgH</id>
+    <title>영화관에서 브롤스타즈 애니메이션을 즐겨보세요! 📽️</title>
+    <updated>2024-12-05T04:37:18.550000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/2G17pGlwg19hsfCf8rOTgH"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7wEXkzBwnNqJqlV13NyvVI/e4c8930f03d0b559fe66439f8a388536/image__14_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1316545"/>
+    <category term="동영상"/>
+    <published>2024-12-05T04:37:18+00:00</published>
   </entry>
 </feed>
