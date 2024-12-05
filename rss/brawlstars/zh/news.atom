@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-05T02:12:04.959903+00:00</updated>
+  <updated>2024-12-05T03:13:01.730445+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -377,7 +377,8 @@
 &lt;p&gt;&lt;b&gt;1、相同隊伍可以同時報名第一週到第四週的週賽嗎？&lt;/b&gt;
 答：隊伍報名時可以一次報名第一週到第四週的週賽，但報名完成後將無法更改資料，且若已於週賽中取得晉級總決賽資格，則無法參加後續週賽。&lt;/p&gt;&lt;p&gt;&lt;b&gt;2、我可以每週週賽加入不同隊伍報名參賽嗎？&lt;/b&gt;
 答：可以，但參賽選手每週週賽只能報名一次，若先前已報名過該週賽，則該週賽無法再次報名。舉例說明：
-（1）A選手與B選手、C選手於12月5日報名第一週週賽，未報名第二週週賽，則A選手可另外與C選手、D選手報名第二週週賽。
+（1）A選手與B選手、C選手於12月5日報名第一週週賽，未報名第二週週賽，也未在12月22日第一週週賽晉級總決賽，則A選手可另外與C選手、D選手報名第二週週賽。
+※特別補充：若A選手和C選手已在第一週週賽晉級總決賽，卻又與D選手報名第二週週賽，由於晉級總決賽者不得參加後續賽事，所以將以報名成員不足三人視為報名無效。
 （2）A選手與B選手、C選手於12月5日報名第一週和第二週週賽，則A選手不可另外與C選手、D選手報名第二週週賽。&lt;/p&gt;&lt;p&gt;&lt;b&gt;3、我在第一週週賽用了自己的A帳號報名，可以在第二週週賽不用自己的A帳號報名，換用自己的B帳號報名嗎？&lt;/b&gt;
 答：不可以，參賽選手在賽事期間只能選用自己的一個帳號，並以該帳號參加所有賽事，不得使用不同帳號報名各週賽事。&lt;/p&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6LLyn0MQnYTNuhyl7Vpe0o"/>
