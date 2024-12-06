@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-communityEntries-ko</id>
   <title>Brawlstars - Community</title>
-  <updated>2024-12-06T04:40:35.507258+00:00</updated>
+  <updated>2024-12-06T05:38:04.030353+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Community</subtitle>
   <entry>
     <id>4xQKyIPlTziwLWI27ZPZgu</id>
     <title>래리&amp;로리의 악몽이 떠오르는건.. 기분탓이겠죠!? 신규 신화 브롤러 주주의 모든 정보 공개</title>
-    <updated>2024-12-06T04:40:35.507372+00:00</updated>
+    <updated>2024-12-06T05:38:04.030532+00:00</updated>
     <author>
       <name>홀릿 Youtube Holit</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>3UlB2bRFBma1Jxji8jSWH0</id>
     <title>이 영상을 보면 젬그랩 승률이 쭉쭉 UP!</title>
-    <updated>2024-12-06T04:40:35.507337+00:00</updated>
+    <updated>2024-12-06T05:38:04.030497+00:00</updated>
     <author>
       <name>시로Siro</name>
     </author>
@@ -31,12 +31,23 @@
   <entry>
     <id>5wwCLmP3ByZcZweOHFOzjw</id>
     <title>운영을 하면 할 수록 정말 맛있다니까?</title>
-    <updated>2024-12-06T04:40:35.507285+00:00</updated>
+    <updated>2024-12-06T05:38:04.030441+00:00</updated>
     <author>
       <name>시로Siro</name>
     </author>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/58UaWNEEcV93rOt4b1jwC7/3365564df04ffa140a3c47e901856823/guest-content-video-92-0fcff67e-513e-443f-8a22-f1cbc18fa28e-gkq7.png-1732720524666?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=8QHcs5qo97g"/>
     <published>2024-11-27T15:15:31+00:00</published>
+  </entry>
+  <entry>
+    <id>4XIhNYdXsIBt3Px5RdMGvv</id>
+    <title>상황에 맞게 픽을 할 줄 안다면 클랜시도 3티어가 아닌 1티어가 될 수 있습니다.</title>
+    <updated>2024-12-06T05:38:04.030384+00:00</updated>
+    <author>
+      <name>시로Siro</name>
+    </author>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4g9eIeJ3h9zncEKMqFWR0u/85157c7547744d140f8e0addb3b624d4/thumbnail-1733461840478?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=z8CSSq2xhaM"/>
+    <published>2024-12-06T05:10:48+00:00</published>
   </entry>
 </feed>
