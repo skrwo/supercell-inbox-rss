@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-06T12:58:21.242874+00:00</updated>
+  <updated>2024-12-06T13:40:27.060124+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -274,5 +274,15 @@ Shade erschreckt Gegner in der Nähe und verlangsamt sie dadurch 4 Sekunden lang
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1OyN00be2dTFEqQZInvoiP/79a2a6b777ca34b31a2725d8db9aa205/1029_Update_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Updates"/>
     <published>2024-11-13T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>nSZBd0biUgnb3PpDzK4Z4</id>
+    <title>Bis zu Brawl Stars ... UND NOCH VIEL WEITER!</title>
+    <updated>2024-12-06T13:18:41.446000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/de/news/nSZBd0biUgnb3PpDzK4Z4"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7KKm0NlixRWGcEeWKNFkOy/f0dc634d844448489a443c0ef395d516/1206_Toy_Story_Animation_Teaser_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/PtutVHfyBx8"/>
+    <category term="Video"/>
+    <published>2024-12-06T13:14:40+00:00</published>
   </entry>
 </feed>

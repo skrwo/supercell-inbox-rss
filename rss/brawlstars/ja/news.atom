@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-06T12:58:22.307222+00:00</updated>
+  <updated>2024-12-06T13:40:28.336146+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -433,5 +433,15 @@ HP：2400 → 2700に上昇&lt;/p&gt;&lt;p&gt;&lt;b&gt;クランシー&lt;/b&gt;
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/48fuCcLkLChcrOriZYTavp/fbec4af1f05e7ac474f94b0495e59b6f/20241203_BST_event_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-12-04T07:13:23+00:00</published>
+  </entry>
+  <entry>
+    <id>nSZBd0biUgnb3PpDzK4Z4</id>
+    <title>ブロスタの彼方へ... さあ行くぞ！</title>
+    <updated>2024-12-06T13:18:41.446000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/nSZBd0biUgnb3PpDzK4Z4"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7KKm0NlixRWGcEeWKNFkOy/f0dc634d844448489a443c0ef395d516/1206_Toy_Story_Animation_Teaser_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/PtutVHfyBx8"/>
+    <category term="ビデオ"/>
+    <published>2024-12-06T13:14:40+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-06T12:58:21.986812+00:00</updated>
+  <updated>2024-12-06T13:40:29.096000+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -385,5 +385,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7btmSr8mdsSlObUsDLHf4w/74287ad5c2efd3d80583c0f0d131dda8/tw_20241204_CampusCup_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="賽事情報"/>
     <published>2024-12-04T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>nSZBd0biUgnb3PpDzK4Z4</id>
+    <title>飛向亂鬥......浩瀚無垠！</title>
+    <updated>2024-12-06T13:18:41.446000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/nSZBd0biUgnb3PpDzK4Z4"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7KKm0NlixRWGcEeWKNFkOy/f0dc634d844448489a443c0ef395d516/1206_Toy_Story_Animation_Teaser_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/PtutVHfyBx8"/>
+    <category term="動畫"/>
+    <published>2024-12-06T13:14:40+00:00</published>
   </entry>
 </feed>

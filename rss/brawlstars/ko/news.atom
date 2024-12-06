@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-06T12:58:21.735088+00:00</updated>
+  <updated>2024-12-06T13:40:29.380178+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -334,5 +334,15 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <link href="https://youtube.com/shorts/Vd9X4k16Pbs"/>
     <category term="동영상"/>
     <published>2024-12-06T10:13:33+00:00</published>
+  </entry>
+  <entry>
+    <id>nSZBd0biUgnb3PpDzK4Z4</id>
+    <title>브롤스타즈... 저 너머로!</title>
+    <updated>2024-12-06T13:18:41.446000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/nSZBd0biUgnb3PpDzK4Z4"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7KKm0NlixRWGcEeWKNFkOy/f0dc634d844448489a443c0ef395d516/1206_Toy_Story_Animation_Teaser_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ATzxJ5TqCkk?si=GPFZfztktttYtS7K"/>
+    <category term="동영상"/>
+    <published>2024-12-06T13:14:40+00:00</published>
   </entry>
 </feed>
