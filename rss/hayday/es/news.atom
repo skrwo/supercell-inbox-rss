@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-12-06T07:33:34.692207+00:00</updated>
+  <updated>2024-12-06T08:41:18.312537+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -286,5 +286,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventos"/>
     <published>2024-12-01T09:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>6rfigF6hic8edFvzF70fUy</id>
+    <title>¡Participa en la nueva competición de decoración!</title>
+    <updated>2024-12-06T08:00:03.705000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/6rfigF6hic8edFvzF70fUy"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5NAOPL1Vltm2FUBhObkxHV/8fd0df483c3edf81dd4c6769325a95a9/HD_Decoration_Event_Thumbnail_01.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ccTtAOI_kP4"/>
+    <category term="Comunidad"/>
+    <published>2024-12-06T08:00:03+00:00</published>
   </entry>
 </feed>
