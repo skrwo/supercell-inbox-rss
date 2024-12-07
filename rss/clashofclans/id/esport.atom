@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-esportNewsEntries-id</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2024-12-07T03:46:29.739183+00:00</updated>
+  <updated>2024-12-07T04:40:12.343802+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -67,15 +67,6 @@ Struktur Turnamen: 4 Kualifikasi dimana 8 tim teratas melaju ke Final Kualifikas
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/dAR1DidzYLC1wYhjvcZVE/5f6e9b08bf5a7d689109d1d4ca3e2be0/id-COC_-_SuperFEST_Article_Thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2024-08-26T15:07:34+00:00</published>
-  </entry>
-  <entry>
-    <id>3fxKr3KQO9YGZjwtfTUFkZ</id>
-    <title>Tonton Ulang Hari ke-1 Kualifikasi Peluang Terakhir!</title>
-    <updated>2024-09-16T10:52:29.939000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5EuUyXGECoaNzJySYNzLq4/2b0bb059b3eb3d2e1112389af777d3b7/ID_COC_-_LCQ_Thumb_Day_1_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/live/qmQ8cuchGuU"/>
-    <category term="Esports"/>
-    <published>2024-09-07T17:50:00+00:00</published>
   </entry>
   <entry>
     <id>6UTQJeEQt0VBFnbLSTvuM3</id>
