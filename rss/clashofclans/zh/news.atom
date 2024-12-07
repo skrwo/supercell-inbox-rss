@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-12-07T12:54:54.065350+00:00</updated>
+  <updated>2024-12-07T13:35:40.906760+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>6Eq58lt7bZHytTYkOU9jRv</id>
-    <title>【金雄】超級蓄能等更多新內容？</title>
-    <updated>2024-09-08T13:32:54.234000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6Eq58lt7bZHytTYkOU9jRv"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6WkqasFBEDdKHbPOFUO4Xd/97c80a7b501771fa59d6767230bccc05/tw_20240908_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=jdZXeQg3TIs"/>
-    <category term="最新情報"/>
-    <published>2024-09-08T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>11Ix4auTy4JYjqrHojOjIq</id>
-    <title>【烏龜】快速帶你了解超級蓄能與魔法零食！</title>
-    <updated>2024-09-08T13:33:53.185000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/11Ix4auTy4JYjqrHojOjIq"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/D9aCRcPi384RqbWJ9U2Lg/967fdeba80c3fa96ae7feac67b7bd8e0/tw_20240908_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=6dGpXlRicD8"/>
-    <category term="最新情報"/>
-    <published>2024-09-08T13:01:00+00:00</published>
-  </entry>
   <entry>
     <id>44K4goqHSvbLuq1uDWTDOa</id>
     <title>9月更新詳情</title>
