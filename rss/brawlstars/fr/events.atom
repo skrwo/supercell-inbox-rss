@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-eventEntries-fr</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-12-08T15:34:47.705289+00:00</updated>
+  <updated>2024-12-08T16:40:29.458366+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -26,16 +26,6 @@
     <published>2023-08-30T09:58:23+00:00</published>
   </entry>
   <entry>
-    <id>1o5aaTruXqDGM8CbR9V2mB</id>
-    <title>🗞️</title>
-    <updated>2024-10-27T14:28:53.394000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/DIWsSpvHj8o"&gt;👉Brawl Talk !👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4KLX0xkmaySrQlmPvbi8Sm/1825620f4a7ca3f3d500f2686882e529/1024_Brawl_Talk_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/DIWsSpvHj8o"/>
-    <published>2024-10-25T14:13:02+00:00</published>
-  </entry>
-  <entry>
     <id>6B3xKari2bZlnRiswx1BY6</id>
     <title>🗞️</title>
     <updated>2024-11-28T08:32:54.589000+00:00</updated>
@@ -54,5 +44,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7UfNrhDwu5CdotaE4yaHw/0eaaeda1ee77202ba8bc665da345ac85/1204_Toons_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/Z7h8yavCfas"/>
     <published>2024-12-05T09:13:15+00:00</published>
+  </entry>
+  <entry>
+    <id>1nYH89PFQtbwzS3TipPXQK</id>
+    <title>🗞️</title>
+    <updated>2024-12-08T16:36:16.870000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/kdCibyiDN0U"&gt;👉Brawl Talk !👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hqOA5NRQ8yhvG4AwdX4lM/762b1607c1da50a1c5cb6fd405c3452f/1208_Brawl_Talk_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/kdCibyiDN0U"/>
+    <published>2024-12-08T15:41:22+00:00</published>
   </entry>
 </feed>
