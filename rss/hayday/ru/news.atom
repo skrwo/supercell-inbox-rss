@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-12-08T08:38:57.159457+00:00</updated>
+  <updated>2024-12-08T09:33:10.838984+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1v9LlSeoFkHNCINbu6ZG5L</id>
-    <title>События 37-й недели в Hay Day</title>
-    <updated>2024-09-08T13:02:06.160000+00:00</updated>
-    <content>&lt;h1&gt;События 37-й недели в Hay Day&lt;/h1&gt;
-&lt;p&gt;Привет, фермеры! Наступила новая неделя событий! Все события начинаются в 8:00 UTC. Подробности о каждом из них можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;Понедельник: ваучеры на колесе фортуны.&lt;/p&gt;&lt;p&gt;Вторник: материалы для улучшения амбара и силосной башни за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;Среда: вдвое больше монет за загрузку пароходов.&lt;/p&gt;&lt;p&gt;Четверг: ускорение трех случайных производственных зданий на 20 %.&lt;/p&gt;&lt;p&gt;Пятница: рыболовное событие с ускорением производства на 30 % (утиный салон и вязальщик сетей).&lt;/p&gt;&lt;p&gt;Суббота: материалы для расширения за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;Воскресенье: три случайных растения будут приносить в полтора раза больше урожая.&lt;/p&gt;&lt;p&gt;Желаем продуктивной недели!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/1v9LlSeoFkHNCINbu6ZG5L"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="События"/>
-    <published>2024-09-08T13:00:04+00:00</published>
-  </entry>
   <entry>
     <id>Huxner3Pa10yLIVMEXCKU</id>
     <title>Информация о событии с посетителями фермы</title>
@@ -297,5 +286,16 @@
     <link href="https://youtu.be/ccTtAOI_kP4"/>
     <category term="Сообщество"/>
     <published>2024-12-06T08:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1njkVgeFvwPb9y4ikJnHyZ</id>
+    <title>События 50-й недели в Hay Day</title>
+    <updated>2024-12-08T09:01:08.269000+00:00</updated>
+    <content>&lt;h1&gt;События 50-й недели в Hay Day&lt;/h1&gt;
+&lt;p&gt;Привет, фермеры! Наступила новая неделя событий. Все события и скачки начинаются в 8:00 UTC. Подробности можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Понедельник&lt;/b&gt;: материалы для расширения на колесе фортуны.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Вторник&lt;/b&gt;: вдвое больше опыта за выполнение заказов на доставку грузовиком.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Среда&lt;/b&gt;: три случайных растения будут приносить в полтора раза больше урожая, а также глобальное событие с загрузкой парохода.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Четверг&lt;/b&gt;: вдвое больше монет за обслуживание посетителей фермы, а также глобальное событие с загрузкой парохода.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Пятница&lt;/b&gt;: ускорение производства в рыболовной зоне на 30 % (раковый пруд и станок для приманок), удвоение очков Farm Pass, а также глобальное событие с загрузкой парохода.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Суббота&lt;/b&gt;: материалы для улучшения амбара и силосной башни за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Воскресенье&lt;/b&gt;: ускорение дробилки (три случайных типа корма для животных будут производиться вдвое быстрее).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Скачки&lt;/b&gt;: цветущие скачки.&lt;/p&gt;&lt;p&gt;Желаем фантастической недели!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/1njkVgeFvwPb9y4ikJnHyZ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="События"/>
+    <published>2024-12-08T09:00:03+00:00</published>
   </entry>
 </feed>
