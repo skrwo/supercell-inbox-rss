@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-08T16:40:22.472895+00:00</updated>
+  <updated>2024-12-08T17:32:24.014563+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -164,16 +164,6 @@ R: Com certeza.&lt;/p&gt;</content>
     <published>2024-10-17T11:51:31+00:00</published>
   </entry>
   <entry>
-    <id>77P6eKmiFj2EWIofN1xsFm</id>
-    <title>Brawl Talk Dublado pelo Tio Gus!</title>
-    <updated>2024-12-08T16:31:52.292000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/77P6eKmiFj2EWIofN1xsFm"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5jdYO895lKrC2JaaQjBVHx/88606e5a64dd4071586ed5055d8b0108/Picsart_24-12-08_06-30-37-432.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href=" https://youtu.be/6aRjHPZBYvI"/>
-    <category term="Comunidade"/>
-    <published>2024-10-26T16:01:49+00:00</published>
-  </entry>
-  <entry>
     <id>1wjRgpCFvWVCozwpWrcf8D</id>
     <title>Descubra como ganhar um sorteio Starr lendário e de hipercarga de graça!</title>
     <updated>2024-10-29T05:10:35.507000+00:00</updated>
@@ -304,5 +294,15 @@ Shade assusta os inimigos próximos, desacelerando-os por 4 segundos.&lt;/p&gt;&
     <link href="https://youtu.be/PtutVHfyBx8"/>
     <category term="Video"/>
     <published>2024-12-06T13:14:40+00:00</published>
+  </entry>
+  <entry>
+    <id>77P6eKmiFj2EWIofN1xsFm</id>
+    <title>Brawl Talk Dublado pelo Tio Gus!</title>
+    <updated>2024-12-08T16:50:07.523000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/77P6eKmiFj2EWIofN1xsFm"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5jdYO895lKrC2JaaQjBVHx/88606e5a64dd4071586ed5055d8b0108/Picsart_24-12-08_06-30-37-432.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href=" https://youtu.be/6aRjHPZBYvI"/>
+    <category term="Comunidade"/>
+    <published>2024-12-08T16:00:00+00:00</published>
   </entry>
 </feed>
