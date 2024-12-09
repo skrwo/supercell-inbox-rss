@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-12-09T14:40:03.250373+00:00</updated>
+  <updated>2024-12-09T15:37:58.502130+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>Huxner3Pa10yLIVMEXCKU</id>
-    <title>Maklumat Tentang Pencapaian Pelawat</title>
-    <updated>2024-09-10T06:11:13.888000+00:00</updated>
-    <content>&lt;h1&gt;Pencapaian Pelawat Green Game Jam&lt;/h1&gt;
-&lt;p&gt;Di Hay Day, semuanya baik-baik dan setiap hidangan ialah hidangan mampan! Kami akan menyertai Green Game Jam dan ingin menjemput anda untuk bawa kemampaman ini ke kehidupan sebenar anda dan kongsikannya dengan orang tersayang anda.&lt;/p&gt;&lt;p&gt;Kini, pelawat bandar kami akan memberi syiling tambahan untuk semua produk berasaskan tumbuhan ketika Acara Tugasan ini dan kami juga bersedia untuk memberi lebih ganjaran!&lt;/p&gt;&lt;p&gt;Untuk 7 hari yang seterusnya, jom kita bersama-sama sebagai sebuah komuniti, melayan sebanyak mungkin pelawat bandar dan meraih ganjaran tambahan.&lt;/p&gt;&lt;p&gt;Ganjaran:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;20 juta pelawat ladang dilayan: 2 skru&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;40 juta pelawat ladang dilayan: 2 penanda tanah&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;60 juta pelawat ladang dilayan: 10 permata&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;80 juta pelawat ladang dilayan: 1 gnome labu&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Perhatikan peti masuk anda untuk menjejak kemajuan kita, dan pergi ke kedai apabila tiba masanya untuk kumpul ganjaran anda. Anda akan nampak hiasan ini sebagai item percuma, terletak selepas tawaran Pas Ladang.&lt;/p&gt;&lt;p&gt;Bersama-sama kita mencipta impak positif! Semoga berjaya!&lt;/p&gt;
-</content>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/Huxner3Pa10yLIVMEXCKU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Komuniti"/>
-    <published>2024-09-10T06:07:34+00:00</published>
-  </entry>
   <entry>
     <id>5hsfIMZVmVNjuwwOJu2DW6</id>
     <title>Hay Day Minggu 38</title>
@@ -307,5 +295,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Acara"/>
     <published>2024-12-08T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>38Br3VKVw4LguA3SMohKkS</id>
+    <title>Mempelajari cara membentuk petak ladang!</title>
+    <updated>2024-12-09T15:00:04.614000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/38Br3VKVw4LguA3SMohKkS"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3VULwmD7ozEBJhRW9YitDS/e8a7097bada1a6c19a37845b8226d25b/HD_Decoration_Event_Part2_Thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Qf6KONg-jj0"/>
+    <category term="Komuniti"/>
+    <published>2024-12-09T15:00:04+00:00</published>
   </entry>
 </feed>

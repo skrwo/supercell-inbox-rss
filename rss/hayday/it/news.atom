@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-12-09T14:40:03.937774+00:00</updated>
+  <updated>2024-12-09T15:38:00.789378+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>Huxner3Pa10yLIVMEXCKU</id>
-    <title>Informazioni sulla sfida ''Traguardo dei visitatori''</title>
-    <updated>2024-09-10T06:11:13.888000+00:00</updated>
-    <content>&lt;h1&gt;Evento del Green Game Jam: Traguardo dei visitatori della fattoria&lt;/h1&gt;
-&lt;p&gt;In Hay Day, la vita è tutta rosa e fiori e tutti i cibi sono sostenibili! Abbiamo deciso di partecipare all&amp;#39;iniziativa &amp;#39;&amp;#39;Green Game Jam&amp;#39;&amp;#39; e, per l&amp;#39;occasione, ti invitiamo a portare un po&amp;#39; di quella sostenibilità nella tua vita di tutti i giorni e a condividerla coi tuoi cari.&lt;/p&gt;&lt;p&gt;Al momento, i visitatori della fattoria ti daranno più monete per ogni prodotto di origine vegetale che produci durante l&amp;#39;evento degli incarichi, mentre noi, per non essere da meno, saremo pronti a premiarti con delle ricompense extra!&lt;/p&gt;&lt;p&gt;Per i prossimi sette giorni, lavora assieme alla community per servire il maggior numero di visitatori della fattoria possibile e guadagnare tanti bei premi aggiuntivi!&lt;/p&gt;&lt;p&gt;Le ricompense&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;A 20 milioni di visitatori della fattoria serviti, tu e gli altri contadini della community potrete ritirare due viti.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A 40 milioni, potrete prendere due paletti.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A 60 milioni, vi regaleremo 10 diamanti.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A 80 milioni, potrete ricevere un nanetto sulla zucca.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Tieni d&amp;#39;occhio il menu dei messaggi in arrivo in gioco per controllare quanto manca al raggiungimento del traguardo e sapere quando sarà arrivato il momento di andare al negozio per ritirare le ricompense, che saranno offerte sotto forma di articoli gratuiti, subito dopo la sezione delle offerte del Pass della fattoria.&lt;/p&gt;&lt;p&gt;Impegniamoci tutti insieme per rendere il mondo un posto migliore! Buona fortuna!&lt;/p&gt;
-</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/Huxner3Pa10yLIVMEXCKU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Community"/>
-    <published>2024-09-10T06:07:34+00:00</published>
-  </entry>
   <entry>
     <id>5hsfIMZVmVNjuwwOJu2DW6</id>
     <title>Eventi di Hay Day (settimana n. 38)</title>
@@ -307,5 +295,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventi"/>
     <published>2024-12-08T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>38Br3VKVw4LguA3SMohKkS</id>
+    <title>Scopri come decorare una porzione della fattoria!</title>
+    <updated>2024-12-09T15:00:04.614000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/38Br3VKVw4LguA3SMohKkS"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3VULwmD7ozEBJhRW9YitDS/e8a7097bada1a6c19a37845b8226d25b/HD_Decoration_Event_Part2_Thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Qf6KONg-jj0"/>
+    <category term="Community"/>
+    <published>2024-12-09T15:00:04+00:00</published>
   </entry>
 </feed>

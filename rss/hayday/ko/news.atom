@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-12-09T14:40:05.979959+00:00</updated>
+  <updated>2024-12-09T15:38:00.129717+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>Huxner3Pa10yLIVMEXCKU</id>
-    <title>방문객 마일스톤 정보</title>
-    <updated>2024-09-10T06:11:13.888000+00:00</updated>
-    <content>&lt;h1&gt;Green Game Jam 방문객 마일스톤&lt;/h1&gt;
-&lt;p&gt;헤이데이에서는 기분 좋은 일상과 긍정적인 분위기가 가득하며, 언제나 환경을 생각한 지속 가능한 음식이 제공됩니다! 이번 이벤트는 헤이데이가 Green Game Jam과 함께합니다. 일상에서 지속 가능성을 실천하고, 소중한 사람들과 그 가치를 나누는 이벤트에 참여해 주세요.&lt;/p&gt;&lt;p&gt;현재 농장 방문객이 작업 이벤트 동안 농부님이 생산하는 모든 식물 기반 물품에 대해 추가 코인을 지불합니다. 더 나아가 농부님께 더 많은 보상을 드릴 준비가 되어 있어요!&lt;/p&gt;&lt;p&gt;앞으로 7일 동안 커뮤니티와 힘을 합쳐 최대한 많은 농장 방문객에게 서비스를 제공하세요. 함께 서비스를 제공하는 과정에서 작업 추가 보상을 획득할 수 있습니다.&lt;/p&gt;&lt;p&gt;마일스톤별 보상은 아래와 같습니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;2,000만 농장 방문객 서비스 제공: 나사못 2개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4,000만 농장 방문객 서비스 제공: 표시 말뚝 2개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;6,000만 농장 방문객 서비스 제공: 다이아몬드 10개&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;8,000만 농장 방문객 서비스 제공: 호박 요정 1개&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;수신함에서 이 목표의 진행 상황을 주시하고, 보상을 받을 때가 되면 상점으로 이동하세요. 보상은 농장 패스 상품 섹션에 무료 아이템으로 표시됩니다.&lt;/p&gt;&lt;p&gt;모두 함께 힘을 합쳐 긍정적인 영향을 이끌어내보아요! 행운을 빕니다!&lt;/p&gt;
-</content>
-    <link href="https://hayday.inbox.supercell.com/#/ko/news/Huxner3Pa10yLIVMEXCKU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="커뮤니티"/>
-    <published>2024-09-10T06:07:34+00:00</published>
-  </entry>
   <entry>
     <id>5hsfIMZVmVNjuwwOJu2DW6</id>
     <title>헤이데이 이벤트 38주 차</title>
@@ -296,5 +284,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="이벤트"/>
     <published>2024-12-08T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>38Br3VKVw4LguA3SMohKkS</id>
+    <title>농장 패치를 만드는 방법을 배워보세요!</title>
+    <updated>2024-12-09T15:00:04.614000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/38Br3VKVw4LguA3SMohKkS"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3VULwmD7ozEBJhRW9YitDS/e8a7097bada1a6c19a37845b8226d25b/HD_Decoration_Event_Part2_Thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Qf6KONg-jj0"/>
+    <category term="커뮤니티"/>
+    <published>2024-12-09T15:00:04+00:00</published>
   </entry>
 </feed>

@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-12-09T14:40:03.696016+00:00</updated>
+  <updated>2024-12-09T15:37:59.059174+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>Huxner3Pa10yLIVMEXCKU</id>
-    <title>Informações da meta de visitantes</title>
-    <updated>2024-09-10T06:11:13.888000+00:00</updated>
-    <content>&lt;h1&gt;Meta de visitantes: edição Green Game Jam&lt;/h1&gt;
-&lt;p&gt;Nada de ruim acontece em Hay Day, e toda refeição é feita de forma sustentável! Fizemos uma parceria com a Green Game Jam e convidamos você a implementar sustentabilidade no seu dia a dia e a compartilhar a ideia com os entes queridos.&lt;/p&gt;&lt;p&gt;Agora, os visitantes da fazenda estão dando moedas extras pelos produtos vegetarianos no evento de tarefas, e nós queremos dar ainda mais recompensas!&lt;/p&gt;&lt;p&gt;Pelos próximos 7 dias, vamos trabalhar juntos para servir o máximo de visitantes da fazenda que pudermos para que todos ganhem recompensas extras no processo.&lt;/p&gt;&lt;p&gt;Recompensas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;20 milhões de visitantes servidos: 2 parafusos&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;40 milhões de visitantes servidos: 2 estacas de marcação&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;60 milhões de visitantes servidos: 10 diamantes&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;80 milhões de visitantes servidos: 1 gnomo na abóbora&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fique de olho na caixa de entrada para acompanhar o nosso progresso no evento e, quando chegar a hora, é só correr para a loja e resgatar as recompensas. A premiação ficará disponível na seção de itens gratuitos, perto das ofertas do passe rural.&lt;/p&gt;&lt;p&gt;Juntos, criaremos um impacto positivo! Boa sorte!&lt;/p&gt;
-</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/Huxner3Pa10yLIVMEXCKU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Comunidade"/>
-    <published>2024-09-10T06:07:34+00:00</published>
-  </entry>
   <entry>
     <id>5hsfIMZVmVNjuwwOJu2DW6</id>
     <title>Semana 38 de eventos do Hay Day</title>
@@ -297,5 +285,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventos"/>
     <published>2024-12-08T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>38Br3VKVw4LguA3SMohKkS</id>
+    <title>Aprenda a criar um projetinho!</title>
+    <updated>2024-12-09T15:00:04.614000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/38Br3VKVw4LguA3SMohKkS"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3VULwmD7ozEBJhRW9YitDS/e8a7097bada1a6c19a37845b8226d25b/HD_Decoration_Event_Part2_Thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Qf6KONg-jj0"/>
+    <category term="Comunidade"/>
+    <published>2024-12-09T15:00:04+00:00</published>
   </entry>
 </feed>

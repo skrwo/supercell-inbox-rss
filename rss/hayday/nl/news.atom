@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2024-12-09T14:40:04.638974+00:00</updated>
+  <updated>2024-12-09T15:38:00.309532+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>Huxner3Pa10yLIVMEXCKU</id>
-    <title>Info over bezoekersmijlpalen</title>
-    <updated>2024-09-10T06:11:13.888000+00:00</updated>
-    <content>&lt;h1&gt;Bezoekersmijlpalen: Green Game Jam&lt;/h1&gt;
-&lt;p&gt;In Hay Day gebeurt nooit iets slechts en is elke maaltijd duurzaam! We sluiten ons aan bij Green Game Jam en nodigen je uit om wat van die duurzaamheid in je echte leven toe te passen en te delen met je familie en vrienden.&lt;/p&gt;&lt;p&gt;Momenteel geven onze boerderijbezoekers extra munten voor alle plantaardige producten die je maakt tijdens het takenevenement... en er zijn nóg meer beloningen te verdienen!&lt;/p&gt;&lt;p&gt;Laten we de komende 7 dagen samenkomen als community om zo veel mogelijk boerderijbezoekers te bedienen en daarbij extra beloningen te verdienen.&lt;/p&gt;&lt;p&gt;Beloningen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;20 miljoen boerderijbezoekers bediend: 2x schroeven&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;40 miljoen boerderijbezoekers bediend: 2x markeerders&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;60 miljoen boerderijbezoekers bediend: 10x diamanten&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;80 miljoen boerderijbezoekers bediend: 1x Pompoenkabouter&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Houd je postvak In in de gaten om onze voortgang op deze mijlpaal te volgen. Ga vervolgens naar de winkel wanneer het tijd is om je beloningen te verzamelen. Daar zullen ze gratis te claimen zijn, voorbij de boerderijkaartaanbiedingen.&lt;/p&gt;&lt;p&gt;Samen kunnen we een positieve impact maken! Veel succes!&lt;/p&gt;
-</content>
-    <link href="https://hayday.inbox.supercell.com/#/nl/news/Huxner3Pa10yLIVMEXCKU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Community"/>
-    <published>2024-09-10T06:07:34+00:00</published>
-  </entry>
   <entry>
     <id>5hsfIMZVmVNjuwwOJu2DW6</id>
     <title>Hay Day: week 38</title>
@@ -307,5 +295,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Evenementen"/>
     <published>2024-12-08T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>38Br3VKVw4LguA3SMohKkS</id>
+    <title>Ontwerp jouw unieke stukje boerderij!</title>
+    <updated>2024-12-09T15:00:04.614000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/38Br3VKVw4LguA3SMohKkS"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3VULwmD7ozEBJhRW9YitDS/e8a7097bada1a6c19a37845b8226d25b/HD_Decoration_Event_Part2_Thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Qf6KONg-jj0"/>
+    <category term="Community"/>
+    <published>2024-12-09T15:00:04+00:00</published>
   </entry>
 </feed>

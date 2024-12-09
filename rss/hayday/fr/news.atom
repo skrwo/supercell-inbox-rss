@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-12-09T14:40:04.936717+00:00</updated>
+  <updated>2024-12-09T15:37:59.221554+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>Huxner3Pa10yLIVMEXCKU</id>
-    <title>Infos sur l'événement : Objectif visiteurs</title>
-    <updated>2024-09-10T06:11:13.888000+00:00</updated>
-    <content>&lt;h1&gt;Palier de visiteurs de la Green Game Jam&lt;/h1&gt;
-&lt;p&gt;Dans Hay Day, tout va toujours très bien, et chaque repas est bon pour la planète ! Nous rejoignons la Green Game Jam et vous invitons à apporter de l&amp;#39;écologie dans vos vies et la partager avec vos amis.&lt;/p&gt;&lt;p&gt;En ce moment même et pendant la durée de l&amp;#39;événement spécial, les visiteurs de la ferme donnent des pièces supplémentaires en échange de vos produits végétariens - mais d&amp;#39;autres récompenses vous attendent également !&lt;/p&gt;&lt;p&gt;Pendant les 7 prochains jours, travaillons tous ensemble pour servir le plus de visiteurs de la ferme possible contre des récompenses.&lt;/p&gt;&lt;p&gt;Récompenses :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;20 millions de visiteurs de la ferme : 2x vis&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;40 millions de visiteurs de la ferme : 2x piquets&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;60 millions de visiteurs de la ferme : 10x diamants&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;80 millions de visiteurs de la ferme : 1x gnome citrouille&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Surveillez votre boîte de réception pour suivre la progression vers cet objectif et le moment venu, récupérez vos récompenses dans le magasin. Elles vous y attendront en tant qu&amp;#39;objets gratuits, juste après les offres du pass Hay Day.&lt;/p&gt;&lt;p&gt;Ensemble, ayons un impact positif ! Bonne chance !&lt;/p&gt;
-</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/Huxner3Pa10yLIVMEXCKU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Communauté"/>
-    <published>2024-09-10T06:07:34+00:00</published>
-  </entry>
   <entry>
     <id>5hsfIMZVmVNjuwwOJu2DW6</id>
     <title>Calendrier des événements Hay Day (semaine 38)</title>
@@ -307,5 +295,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Événements"/>
     <published>2024-12-08T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>38Br3VKVw4LguA3SMohKkS</id>
+    <title>Apprenez à créer une parcelle !</title>
+    <updated>2024-12-09T15:00:04.614000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/38Br3VKVw4LguA3SMohKkS"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3VULwmD7ozEBJhRW9YitDS/e8a7097bada1a6c19a37845b8226d25b/HD_Decoration_Event_Part2_Thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Qf6KONg-jj0"/>
+    <category term="Communauté"/>
+    <published>2024-12-09T15:00:04+00:00</published>
   </entry>
 </feed>

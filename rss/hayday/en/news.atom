@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-12-09T14:40:05.432057+00:00</updated>
+  <updated>2024-12-09T15:38:00.974899+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>Huxner3Pa10yLIVMEXCKU</id>
-    <title>Visitor Milestone Info</title>
-    <updated>2024-09-10T06:11:13.888000+00:00</updated>
-    <content>&lt;h1&gt;Green Game Jam Visitor Milestone&lt;/h1&gt;
-&lt;p&gt;In Hay Day, nothing bad ever happens and every meal is a sustainable meal! We are joining Green Game Jam and inviting you to bring some of that sustainability to your real lives and share it with your loved ones.&lt;/p&gt;&lt;p&gt;Right now, our Farm Visitors are giving out extra Coins for all the vegetarian goodies you produce during the Task Event - and we&amp;#39;re ready to give you even more rewards!&lt;/p&gt;&lt;p&gt;For the next 7 days, let&amp;#39;s come together as a community to serve as many Farm Visitors as we can, earning extra rewards along the way.
-&lt;/p&gt;&lt;p&gt;Rewards:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;20 Million Farm Visitors Served: 2x Screws&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;40 Million Farm Visitors Served: 2x Marker Stakes&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;60 Million Farm Visitors Served: 10x Diamonds &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;80 Million Farm Visitors Served: 1x Pumpkin Gnome&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Keep an eye on your inbox to track our progress towards this milestone, and when it&amp;#39;s time to collect your rewards, head over to the Shop. You&amp;#39;ll find them waiting as free items, just a scroll past the Farm Pass offers.
-&lt;/p&gt;&lt;p&gt;Together, we can create a positive impact! Good luck!&lt;/p&gt;&lt;p&gt;
-&lt;/p&gt;
-</content>
-    <link href="https://hayday.inbox.supercell.com/#/en/news/Huxner3Pa10yLIVMEXCKU"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4QRrvCvEbJRggrHqCKAU3V/f24bddd357ecde13c72a61b7e1b50a1f/DN_GnomeInbox_900x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Community"/>
-    <published>2024-09-10T06:07:34+00:00</published>
-  </entry>
   <entry>
     <id>5hsfIMZVmVNjuwwOJu2DW6</id>
     <title>Hay Day Week 38</title>
@@ -327,5 +312,15 @@ The community event will last for &lt;b&gt;ten days&lt;/b&gt;, and it starts now
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Events"/>
     <published>2024-12-08T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>38Br3VKVw4LguA3SMohKkS</id>
+    <title>Learn how to create a Farm Patch!</title>
+    <updated>2024-12-09T15:00:04.614000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/38Br3VKVw4LguA3SMohKkS"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3VULwmD7ozEBJhRW9YitDS/e8a7097bada1a6c19a37845b8226d25b/HD_Decoration_Event_Part2_Thumbnail.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Qf6KONg-jj0"/>
+    <category term="Community"/>
+    <published>2024-12-09T15:00:04+00:00</published>
   </entry>
 </feed>
