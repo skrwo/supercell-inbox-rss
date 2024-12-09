@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-09T06:45:13.103109+00:00</updated>
+  <updated>2024-12-09T07:34:40.704578+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -344,5 +344,15 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <link href="https://youtu.be/ATzxJ5TqCkk?si=GPFZfztktttYtS7K"/>
     <category term="동영상"/>
     <published>2024-12-06T13:14:40+00:00</published>
+  </entry>
+  <entry>
+    <id>2FacSJFYfDCBi339H2eEz1</id>
+    <title>[브롤스타즈 X 구글 플레이] 특별한 코드 퀘스트 참여하고 선물 받아가세요! 🎁</title>
+    <updated>2024-12-09T06:48:35.445000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/2FacSJFYfDCBi339H2eEz1"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2HBJLW12nL5HKgqoLbjVkf/d98ed164fc76b551398f13c23dafae3c/1209_BS___-_____-__-____-______-_-___-___inbox.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1320759"/>
+    <category term="커뮤니티"/>
+    <published>2024-12-09T06:48:35+00:00</published>
   </entry>
 </feed>
