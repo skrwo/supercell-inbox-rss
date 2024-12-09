@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>squadbusters-newsEntries-it</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-09T13:42:50.336006+00:00</updated>
+  <updated>2024-12-09T14:40:07.563765+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -474,5 +474,15 @@ Se raggiungi la Lega delle squadre prima della fine dell&amp;#39;evento, ci sar√
     <link href="squadbusters-inbox://OpenShop"/>
     <category term="Notizie"/>
     <published>2024-12-01T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>42s0W2xBUQtj2JfFewJvc5</id>
+    <title>Iscriviti ora e contribuisci allo sblocco di premi fantastici!</title>
+    <updated>2024-12-09T13:58:30.941000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/it/news/42s0W2xBUQtj2JfFewJvc5"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/58iix5JdlNNUob3f3hlJ8H/d67075273b8b97ebe15a5883da9350ba/1M_Thmbs_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/@SquadBusters"/>
+    <category term="Evento della community"/>
+    <published>2024-12-09T13:45:00+00:00</published>
   </entry>
 </feed>

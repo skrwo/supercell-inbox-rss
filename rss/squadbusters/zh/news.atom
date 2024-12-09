@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-09T13:42:53.772562+00:00</updated>
+  <updated>2024-12-09T14:40:07.689736+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -864,5 +864,15 @@
     <link href="https://youtu.be/Z_3V0HK_xQw"/>
     <category term="最新情報"/>
     <published>2024-12-03T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>42s0W2xBUQtj2JfFewJvc5</id>
+    <title>立即訂閱，一起解鎖超讚獎勵！</title>
+    <updated>2024-12-09T13:58:30.941000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/42s0W2xBUQtj2JfFewJvc5"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/58iix5JdlNNUob3f3hlJ8H/d67075273b8b97ebe15a5883da9350ba/1M_Thmbs_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/@SquadBusters"/>
+    <category term="社群活動"/>
+    <published>2024-12-09T13:45:00+00:00</published>
   </entry>
 </feed>
