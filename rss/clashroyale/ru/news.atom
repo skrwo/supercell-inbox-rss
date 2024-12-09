@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-09T11:30:34.711175+00:00</updated>
+  <updated>2024-12-09T13:00:36.798813+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>4pHYeqFPnOfnlNN2uEXDwd</id>
-    <title>Планы на 2024</title>
-    <updated>2023-12-01T18:19:22.632000+00:00</updated>
-    <content>&lt;p&gt;В этом году мы внесли ряд значительных изменений в игровой процесс Clash Royale и продолжим их в 2024 году.&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2k6JCZ5MW9HXfYGrqjrX6X/52028e074d9607d6e3e366245b4c4da7/RU_2_CR-Roadmap-2024-1080x1080-2.jpg?w=1080&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Разработчики стремятся предоставить еще больше нового геймплея чаще, чем когда-либо прежде!&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3NUghtzhB9bkT5E4jAvbbk/2633b13580dd8b4300f3def92464f70f/CR-Roadmap-2024-1080x1080_KR_extra2.png?w=1080&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;В декабре мы выпустим небольшое обновление приложения, чтобы подготовиться к большому сезону в январе, где вы познакомитесь с нашим самым первым башенным отрядом...&lt;/p&gt;
-&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5YhbP6ApUDoNfcC2giEBJP/52f586fbb2b6c5f698a4765a83d27b0b/RU_CR-Roadmap-2024-1080x1080.jpg?w=1800&amp;h=1485&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;Пожалуйста, обратите внимание, что все, что здесь представлено, находится на стадии разработки и может быть изменено.
-Если у вас есть идеи или отзывы, сообщите нам об этом в социальных сетях:
-
-&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Ftwitter.com%2FClashRoyale')"&gt;X&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.instagram.com%2Fclashroyale%2F%3Fhl%3Den')"&gt;Instagram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.tiktok.com%2F%40clashroyale%3Flang%3Den')"&gt;TikTok&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=http%3A%2F%2Fsupr.cl%2FDiscordRoyale')"&gt;Discord&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Увидимся на Арене!
-- Команда Clash Royale&lt;/p&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/4pHYeqFPnOfnlNN2uEXDwd"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4e5ElFJHubDiR3cW1wssj3/e1b0d6f2e551898030b17b529f6df284/RU_1CR-Roadmap-2024-1080x1080.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Информация о версии"/>
-    <published>2023-12-01T18:19:19+00:00</published>
-  </entry>
   <entry>
     <id>5obaqeCSqYBwWkSOmRgutV</id>
     <title>П.Е.К.К.А. против мегарыцаря: схватка авторов</title>
@@ -440,9 +420,18 @@ OJ&lt;/p&gt;
     <published>2024-11-15T10:00:03+00:00</published>
   </entry>
   <entry>
+    <id>2uwRSvIyOURY4iZrPaMLUT</id>
+    <title>Вот-вот наступят холода...</title>
+    <updated>2024-12-09T11:54:31.509000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/2uwRSvIyOURY4iZrPaMLUT"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3vJrEwq7cgRzHXTGi7SK0b/887e822a9688ae297386f784ecb394cf/Snowball_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Лучшие моменты"/>
+    <published>2024-11-27T15:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>2qEavBtU9OZAfu3TD4wfQK</id>
     <title>Декабрьские события и испытания</title>
-    <updated>2024-12-03T08:33:52.487000+00:00</updated>
+    <updated>2024-12-09T11:49:47.160000+00:00</updated>
     <content>&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4lvCptB8L1uWaLsPkrX4tz/f438c93813e9c4f98919088b40c5b2a7/icon_menu_tournament.png?w=450&amp;h=450&amp;f=center&amp;fit=fill"&gt;
 &lt;hr/&gt;&lt;p&gt;&lt;b&gt;Эволюция снежка с выбором карт&lt;/b&gt; &lt;b&gt;(1 на 1 и 2 на 2): 2–9 декабря.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Остерегайтесь могучей эволюции снежка,
 Иначе распрощаетесь со своими воинами.&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Испытание&lt;/b&gt;: 6–9 декабря.
