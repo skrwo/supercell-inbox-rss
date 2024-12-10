@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-eventEntries-ko</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-12-10T08:42:10.189691+00:00</updated>
+  <updated>2024-12-10T09:37:08.577115+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hqOA5NRQ8yhvG4AwdX4lM/762b1607c1da50a1c5cb6fd405c3452f/1208_Brawl_Talk_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/fh2PgkpSQKQ"/>
     <published>2024-12-08T15:41:22+00:00</published>
+  </entry>
+  <entry>
+    <id>2zH1VPTofN7OlJy6EAWwr1</id>
+    <title>🗞️</title>
+    <updated>2024-12-10T09:00:24.441000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://cafe.naver.com/brawlstars/1321812"&gt;👉자세히 보기 📝👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4rUbgLwT2fGfjjLRm9AlHw/f60340d3371bbb749bc1f73bec571ec8/1210_BS_______________800x1161.jpg?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1321812"/>
+    <published>2024-12-10T09:00:24+00:00</published>
   </entry>
 </feed>
