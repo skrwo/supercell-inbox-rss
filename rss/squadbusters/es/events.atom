@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>squadbusters-eventEntries-es</id>
   <title>Squadbusters - Event</title>
-  <updated>2024-12-10T15:38:32.685117+00:00</updated>
+  <updated>2024-12-10T16:44:51.935208+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -73,5 +73,21 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2aWWOVcSdtw7DYQd4ekxFf/df73904d41f0fb557d02befe7d8e62ab/YouTube_Progress_tracker_background_with_logo.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/@SquadBusters"/>
     <published>2024-12-09T13:58:50+00:00</published>
+  </entry>
+  <entry>
+    <id>40c7W8boX</id>
+    <title>Desafío de 2 M de suscriptores</title>
+    <updated>2024-12-10T16:38:06.992000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 45.40%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - 2 millón &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4XsPAtxbHY9YhBBGkfMVv0/c50de69644f5fb50fd5c31a7566405cf/Star_tokens.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 1.5 millón &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2zDYTpWQcu62KuzoO8i4Qz/0eaa4b35f44965dc78f1de70c71ff7c1/DragonChicken_Skin_emote.gif?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ - 1 millón &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1psy6hvVNV0GTQZj4CHDYH/7c5e54c2b6dea20c4a881956c90a35db/Totem-chests.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="https://www.youtube.com/@SquadBusters"&gt;👉Suscribirse👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2aWWOVcSdtw7DYQd4ekxFf/df73904d41f0fb557d02befe7d8e62ab/YouTube_Progress_tracker_background_with_logo.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/@SquadBusters"/>
+    <published>2024-12-10T16:35:49+00:00</published>
   </entry>
 </feed>
