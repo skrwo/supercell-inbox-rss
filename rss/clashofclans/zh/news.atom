@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-12-10T13:41:36.664487+00:00</updated>
+  <updated>2024-12-10T14:40:15.764409+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -464,5 +464,25 @@
     <link href="https://www.youtube.com/watch?v=qhcwLSe0EQ0"/>
     <category term="最新情報"/>
     <published>2024-12-04T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17Oe6qpHDSYXSn5e4zGtiE</id>
+    <title>【烏龜】解析大鬧玩具店活動與雷電戰靴！</title>
+    <updated>2024-12-10T14:11:12.753000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/17Oe6qpHDSYXSn5e4zGtiE"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4VwqNfLR19ealvjGq3LMTX/f7c311fe4ffdfb767ad93430f1ec3b7d/tw_20241210_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=cS_yJ73AF08"/>
+    <category term="最新情報"/>
+    <published>2024-12-10T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3wCAxl6GgdrMxDTefSP786</id>
+    <title>【金雄】一同來了解全新裝備與限時部隊！</title>
+    <updated>2024-12-10T14:12:06.021000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3wCAxl6GgdrMxDTefSP786"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/45JCVjFOph8qi8Vn57xpW3/d4772b44baa82fa7ed091b9e2953874a/tw_20241210_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=AuYqaZUhj9I"/>
+    <category term="最新情報"/>
+    <published>2024-12-10T14:01:00+00:00</published>
   </entry>
 </feed>
