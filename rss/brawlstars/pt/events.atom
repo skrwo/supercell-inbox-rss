@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-eventEntries-pt</id>
   <title>Brawlstars - Event</title>
-  <updated>2024-12-11T12:59:44.409080+00:00</updated>
+  <updated>2024-12-11T13:40:49.010098+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -35,5 +35,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hqOA5NRQ8yhvG4AwdX4lM/762b1607c1da50a1c5cb6fd405c3452f/1208_Brawl_Talk_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/kdCibyiDN0U"/>
     <published>2024-12-08T15:41:22+00:00</published>
+  </entry>
+  <entry>
+    <id>5sOEScsV2IGAh3OnPYzLd</id>
+    <title>🗞️</title>
+    <updated>2024-12-11T13:14:46.983000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/6F3pA_cwMgo"&gt;👉Assistir!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7k7X0N1a68xHsiv8I6F1Qb/17b372b9f490f8989f2f8ca55a7cfad2/1211_Toy_Story_Animation_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/6F3pA_cwMgo"/>
+    <published>2024-12-11T13:06:04+00:00</published>
   </entry>
 </feed>
