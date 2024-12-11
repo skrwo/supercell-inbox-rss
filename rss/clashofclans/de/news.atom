@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashofclans-newsEntries-de</id>
   <title>Clashofclans - News</title>
-  <updated>2024-12-11T08:42:28.542253+00:00</updated>
+  <updated>2024-12-11T09:36:31.182887+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -165,12 +165,46 @@
   <entry>
     <id>3tKQrWNTAGPYiXi2OJEh9X</id>
     <title>Clash auf dem PC – Sonderangebot!</title>
-    <updated>2024-12-11T08:20:16.893000+00:00</updated>
+    <updated>2024-12-11T09:31:22.407000+00:00</updated>
     <content>&lt;h1&gt;Hallo Häuptling!&lt;/h1&gt;
 &lt;p&gt;Feiere die Hammerparty mit einem exklusiven Angebot: Sichere dir &lt;b&gt;10 % Rabatt&lt;/b&gt; auf alle Käufe in Clash of Clans, die du über Google Play Spiele auf dem PC tätigst!&lt;/p&gt;&lt;p&gt;Du kannst diesen Rabatt unbegrenzt oft nutzen. Speichere das Angebot einfach für dein Konto und der Rabatt wird automatisch auf alle Käufe angewendet. (Bitte beachte, dass der maximale Rabattwert im Aktionszeitraum 100 $ pro Nutzer beträgt.)&lt;/p&gt;&lt;p&gt;Besuche jetzt auf deinem Windows-PC &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fplay.google.com%252F')"&gt;play.google.com&lt;/a&gt; und melde dich mit deinem Google-Konto an, um von diesem fantastischen Angebot zu profitieren. Es gilt bis zum &lt;b&gt;31. Dezember&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;&lt;i&gt;Das Angebot ist in den folgenden Regionen verfügbar: Vereinigte Staaten, Malaysia, Südkorea, Taiwan, Hongkong, Australien, Japan, Philippinen, Frankreich, Großbritannien, Deutschland, Peru, Chile, Kolumbien, Spanien. Die Berechtigung zur Nutzung des Angebots richtet sich nach der Art des Google-Kontos sowie dessen Einstellungen und Qualitäts-Checks.&lt;/i&gt;&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/de/news/3tKQrWNTAGPYiXi2OJEh9X"/>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4PX2t9mNPuN9Fn1b8AvW1w/5ac5928cc6ac0440d24eb218e10c79f7/SUP3853_Clash_On_PC_Part_2_900x506_1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="news"/>
     <published>2024-12-10T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5sB5a386Lmes1llvCMLfyZ</id>
+    <title>Spielzeuggeschäft-Gerangel: Clash-Weihnacht-Medaillenereignis!</title>
+    <updated>2024-12-11T08:58:39.886000+00:00</updated>
+    <content>&lt;h1&gt;Erfahre alles über dieses Medaillenereignis!&lt;/h1&gt;
+&lt;p&gt;Ab Rathaus-Level 6 kannst du Zahnräder sammeln, indem du Aktionen im Spiel ausführst und Fortschritt auf dem Ereignispfad machst. Diese Zahnräder können in Spielzeugmedaillen umgewandelt werden. Mit ihnen kannst du besondere Belohnungen freischalten, wie die Elektrostiefel als neue epische Ausrüstung für die Königliche Gladiatorin oder die neue Superdekoration: die Schneekugel!&lt;/p&gt;
+&lt;h1&gt;Wann?&lt;/h1&gt;
+&lt;p&gt;Beginn des Ereignisses:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;11. Dezember, 09:00 Uhr MEZ&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ende des Ereignisses:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;30. Dezember, 09:00 Uhr MEZ&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nachdem das Ereignis am &lt;b&gt;30. Dezember&lt;/b&gt; endet, hast du noch zwei Tage lang (bis zum 1. Januar um 09:00 Uhr MEZ) Zugriff auf den Ereignisreiter beim Händler sowie das Medaillenereignis-Gebäude.&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3GjFiIeXMn88xEbP7qYCr5/a4a8ee11fb3e85339df2158d9c9712df/clashmas_2024_event_building_marketing.png?w=2027&amp;h=2027&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;Neue temporäre Einheiten und neuer Zauber!&lt;/h1&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/66QqgRUFbCnnDVAEa6Lkxa/593076834c22f344eda46a15139ea664/Troop_PEKKA_GB_Shadow.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;P.E.K.K.E.K.S.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Verfügbar für Spieler ab Rathaus-Level 6.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bodentruppe, greift alle Gebäude an und verursacht SEHR HOHEN Flächenschaden!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/53DbiYqZxTY3rKc06Tnk6I/76be1126e317756e4449f0e6db58c28d/Seasonal_Troop_HV_Ice_Wizard_1.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;EISMAGIER&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Verfügbar für Spieler ab Rathaus-Level 6.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bodentruppe, greift Abwehranlagen an und verlangsamt diese mit seiner mächtigen Eisattacke!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1oNDst16hEuewuYIw7Oypk/54ffc536602222b43a7d4b5af46f2a91/Troop_RamRider_GB_Shadow.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;WIDDERREITERIN&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Verfügbar für Spieler ab Rathaus-Level 6.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bodentruppe, greift Abwehranlagen an und stößt gegen Mauern, wodurch diese zusammenfallen wie zu lange gebackene Plätzchen!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1YAgKmGG7NhMdD1Dw4NTUq/8442fa10cef25ef3ae5d1bca39e90eb8/xmas_icon.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;WEIHNACHTSPRÄSENT-ZAUBER&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Verfügbar für Spieler ab Rathaus-Level 6.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Das allerbeste Geschenk! Ein Hagel der Zerstörung, der auf die Dörfer deiner Feinde niederregnet!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;Ereignisressourcen!&lt;/h1&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2szwglewHliV7ZxzfWwGQx/03ef04a804e4bb647323fcb4fde85ac9/clashmas24_cog_cluster.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Medaillenereignis-Ressource: Zahnräder!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Zahnräder bekommst du, indem du in Mehrspieler-Angriffen die gegnerischen Dörfer angreifst und zerstörst! Sammle Zahnräder und sichere dir so Erze, Dekorationen und mehr!&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2AtkykcCyvNsoxzzepSzRn/b0604846c1e4c9ba17660d34b6c56b17/clashmas24_key_cluster.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Spielzeugmedaillen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Diese Ereigniswährung kannst du beim Händler ausgeben. Kaufe mit deinen Medaillen eine einzigartige saisonale Superdekoration, Ressourcen (wie Erze für deine Heldenausrüstung), Magische Gegenstände und mehr.&lt;/p&gt;
+&lt;h1&gt;Neue Heldenausrüstung und Superdekoration!&lt;/h1&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2ihqPvDhiebNcS3265VZqV/25b38d0a6a8fa8d3172b3645a725d079/icon_gear_RC_ElectroBoots.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Neue epische Heldenausrüstung der Königlichen Gladiatorin: Elektrostiefel!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Diese Ausrüstung ruft eine elektrisierende Aura hervor, die regelmäßig an allen Zielen in der Nähe der Königlichen Gladiatorin Schaden verursacht.&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7JIyUw3CuudZJ5vjmkFXGD/65cb6551282d3a4ecaafbe8a9b2cc1c3/Clashmas24_SnowGlobe.png?w=700&amp;h=700&amp;f=center"&gt;
+&lt;p&gt;Eine animierte Kugel, in der eine gemütliche und verschneite Barbarenhütte zu sehen ist!&lt;/p&gt;
+&lt;p&gt;Es wird Zeit, dich auf die Clash-Weihnacht einzustimmen. Das Spielzeuggeschäft-Gerangel-Medaillenereignis erwartet dich!&lt;/p&gt;&lt;p&gt;Dein Clash-Team&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/de/news/5sB5a386Lmes1llvCMLfyZ"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2iQdP5RLDv9XU49G5tVu0C/bb95772b2de04695d5587fb507f71cb5/1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="news"/>
+    <published>2024-12-11T08:54:39+00:00</published>
   </entry>
 </feed>
