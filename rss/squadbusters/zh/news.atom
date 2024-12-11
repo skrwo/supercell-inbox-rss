@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-11T07:33:21.204488+00:00</updated>
+  <updated>2024-12-11T08:42:31.436572+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -714,21 +714,13 @@
 &lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;烏龜 Turtle &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;a href="https://www.youtube.com/watch?v=Lp_8vZGqS2I"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540Xiake%253Fsub_confirmation%253D1')"&gt;Xiake&lt;/a&gt;&lt;/p&gt;
-&lt;a href="https://www.youtube.com/watch?v=Qbfq8Ps4XcI"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+&lt;a href="https://www.youtube.com/watch?v=Qbfq8Ps4XcI"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540powertech4165%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;PowerTech淮特 &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=4hJG2CJzJEg"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/zh/news/7M4OOzZcKVQwaAtslItS8p"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2wo5eZhZSscfpEIGBAJVOh/8aac27b96a89b92a7933be5ee8013cc1/tw_20241021_sneakpeeks_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-10-21T03:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>2QCQ8P6AxqsNhyqcAeO579</id>
-    <title>【淮特】搶先分析驚悚世界新角色、新模式！</title>
-    <updated>2024-10-21T03:45:00.782000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/2QCQ8P6AxqsNhyqcAeO579"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6BrDI1ToxlUsNivJwqps2d/ab6aaf561761daaa52fbfa272109c57a/tw_20241021_power_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=4hJG2CJzJEg"/>
-    <category term="最新情報"/>
-    <published>2024-10-21T03:31:00+00:00</published>
   </entry>
   <entry>
     <id>bljXn0biAIwti21nkJZs0</id>
