@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-11T03:46:23.044407+00:00</updated>
+  <updated>2024-12-11T04:40:40.519435+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -385,5 +385,25 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2LBQvKwayb4uYmZPblV3VQ/f0ea403d91f1840b37582dc07a79b82d/1209_Loading_screen_Brawl_x_TS.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="更新說明"/>
     <published>2024-12-10T05:30:09+00:00</published>
+  </entry>
+  <entry>
+    <id>2ihZBVStAARZHs9ZaOxodp</id>
+    <title>【盛主播】分析巴斯光年三種模式！🚀</title>
+    <updated>2024-12-11T04:24:16.426000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/2ihZBVStAARZHs9ZaOxodp"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4FKQU5WOh6S5iVoqQdsMd8/ef3507267cc896ce982a02622dd4448b/tw_20241211_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=5QuvczvgrXQ"/>
+    <category term="最新情報"/>
+    <published>2024-12-11T04:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1WX7tAot7hvnJhEGjSmHkN</id>
+    <title>【嘿!兄弟】🧑‍🚀巴斯光年實測介紹！</title>
+    <updated>2024-12-11T04:25:20.742000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/1WX7tAot7hvnJhEGjSmHkN"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5H9ToskUIiRyauSSq54aEW/72c5131a8c62934b34b2b69919967cd2/tw_20241211_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=sBkLxM6S1lI"/>
+    <category term="最新情報"/>
+    <published>2024-12-11T04:01:00+00:00</published>
   </entry>
 </feed>
