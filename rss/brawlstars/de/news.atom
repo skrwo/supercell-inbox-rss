@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-12T07:33:27.231506+00:00</updated>
+  <updated>2024-12-12T08:41:58.703559+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -229,7 +229,7 @@ Shade erschreckt Gegner in der Nähe und verlangsamt sie dadurch 4 Sekunden lang
   <entry>
     <id>49BuyTboQeye3O4NAEvQCR</id>
     <title>PATCHNOTIZEN: Toy Story!</title>
-    <updated>2024-12-12T04:06:10.057000+00:00</updated>
+    <updated>2024-12-12T08:06:44.995000+00:00</updated>
     <content>&lt;h1&gt;Optionales Update für Android und iOS – 12. Dezember&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Absturz behoben, der auftrat, wenn mit arabischer oder hebräischer Spracheinstellung Buzz Lightyear in der Brawlerauswahl gewählt wurde.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Neue Kollaboration: Toy Story!&lt;/h1&gt;
@@ -258,19 +258,9 @@ Shade erschreckt Gegner in der Nähe und verlangsamt sie dadurch 4 Sekunden lang
     <published>2024-12-10T05:30:09+00:00</published>
   </entry>
   <entry>
-    <id>K7TfOp3wt8dbNVjgWwuCc</id>
-    <title>HOL DIR KOSTENLOS BUZZ LIGHTYEAR UND BRAWLIDAYS-GESCHENKE!</title>
-    <updated>2024-12-12T07:05:42.950000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/de/news/K7TfOp3wt8dbNVjgWwuCc"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1tsITpAQaZY3Uas8PvNh6H/b86a08802e0f118bf162f3235f265edb/BS_Brawliversary_Thumb_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/4KrSb74_C3k"/>
-    <category term="Community"/>
-    <published>2024-12-12T07:05:42+00:00</published>
-  </entry>
-  <entry>
     <id>6ISdhQB8e5PcfijYIx42TB</id>
     <title>Brawl-Jubiläum und Brawlidays-Ereignisse!</title>
-    <updated>2024-12-12T07:06:16.170000+00:00</updated>
+    <updated>2024-12-12T07:59:20.384000+00:00</updated>
     <content>&lt;h1&gt;Brawl-Jubiläum und Brawlidays-Ereignisse!&lt;/h1&gt;
 &lt;p&gt;Wir feiern unseren Geburtstag! Seit dem globalen Launch von Brawl Stars sind 6 Jahre vergangen!&lt;/p&gt;&lt;p&gt;Wie immer feiern wir dies ab heute bis zu den Brawlidays! Das bedeutet ... es gibt GESCHENKE!
 Hier ist alles, was du wissen musst!&lt;/p&gt;&lt;p&gt;Buzz Lightyear ist jetzt GRATIS im Brawlidays-Kalender verfügbar. Diesen findest du im Shop.
@@ -306,6 +296,16 @@ TAG 15 – Hyperladung-Drop&lt;/p&gt;&lt;p&gt;Diese Geschenke sind bis zum 31. D
     <link href="https://brawlstars.inbox.supercell.com/#/de/news/6ISdhQB8e5PcfijYIx42TB"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ivEQjVaH7P2JmezF0OKYC/ca4db0a89c8ba6675918825bb2b1b3ee/1212_Buzz_Lightyear_Event_inbox_800x433_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
-    <published>2024-12-12T07:06:16+00:00</published>
+    <published>2024-12-12T04:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>K7TfOp3wt8dbNVjgWwuCc</id>
+    <title>HOL DIR KOSTENLOS BUZZ LIGHTYEAR UND BRAWLIDAYS-GESCHENKE!</title>
+    <updated>2024-12-12T08:06:29.364000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/de/news/K7TfOp3wt8dbNVjgWwuCc"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1tsITpAQaZY3Uas8PvNh6H/b86a08802e0f118bf162f3235f265edb/BS_Brawliversary_Thumb_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/4KrSb74_C3k"/>
+    <category term="Community"/>
+    <published>2024-12-12T06:00:00+00:00</published>
   </entry>
 </feed>

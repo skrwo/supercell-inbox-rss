@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Dec 2024 07:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 08:42:00 +0000</lastBuildDate>
     <item>
       <title>ケンジリリース記念キャンペーン</title>
       <link>https://brawlstars.inbox.supercell.com/#/ja/news/4J48HPxq8dWOfsDrXjVllc</link>
@@ -395,14 +395,6 @@ HP：2400 → 2700に上昇&lt;/p&gt;&lt;p&gt;&lt;b&gt;クランシー&lt;/b&gt;
       <pubDate>Tue, 10 Dec 2024 05:30:09 +0000</pubDate>
     </item>
     <item>
-      <title>バズ・ライトイヤー＆クリスマスプレゼントを無料でゲット！</title>
-      <link>https://youtu.be/4KrSb74_C3k</link>
-      <guid isPermaLink="false">K7TfOp3wt8dbNVjgWwuCc</guid>
-      <category>コミュニティ</category>
-      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1tsITpAQaZY3Uas8PvNh6H/b86a08802e0f118bf162f3235f265edb/BS_Brawliversary_Thumb_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Dec 2024 07:05:42 +0000</pubDate>
-    </item>
-    <item>
       <title>クリスマス＆クリスマスイベント！</title>
       <link>https://brawlstars.inbox.supercell.com/#/ja/news/6ISdhQB8e5PcfijYIx42TB</link>
       <description>&lt;h1&gt;クリスマス＆クリスマスイベント！&lt;/h1&gt;
@@ -440,7 +432,15 @@ HP：2400 → 2700に上昇&lt;/p&gt;&lt;p&gt;&lt;b&gt;クランシー&lt;/b&gt;
       <guid isPermaLink="false">6ISdhQB8e5PcfijYIx42TB</guid>
       <category>コミュニティ</category>
       <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ivEQjVaH7P2JmezF0OKYC/ca4db0a89c8ba6675918825bb2b1b3ee/1212_Buzz_Lightyear_Event_inbox_800x433_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Thu, 12 Dec 2024 07:06:16 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2024 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>バズ・ライトイヤー＆クリスマスプレゼントを無料でゲット！</title>
+      <link>https://www.youtube.com/watch?v=_1MPB3ROH_o</link>
+      <guid isPermaLink="false">K7TfOp3wt8dbNVjgWwuCc</guid>
+      <category>コミュニティ</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1tsITpAQaZY3Uas8PvNh6H/b86a08802e0f118bf162f3235f265edb/BS_Brawliversary_Thumb_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Dec 2024 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
