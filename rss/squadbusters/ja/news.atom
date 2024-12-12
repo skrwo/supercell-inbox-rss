@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-12T08:42:11.938342+00:00</updated>
+  <updated>2024-12-12T09:36:31.500908+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1119,5 +1119,21 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://www.youtube.com/@SquadBusters"/>
     <category term="コミュニティイベント"/>
     <published>2024-12-09T13:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6QXPowU2NfvL0VE3t2m8Br</id>
+    <title>「2024 App Store Awards」ベストiPadゲーム 受賞！</title>
+    <updated>2024-12-12T09:27:36.564000+00:00</updated>
+    <content>&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5WwoqSjWGMTq3U1ci34LVl/02b992ad4f28bff76c81684496e59c70/20241212_SQU_2024_App_Store_Awards_1920_1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;「2024 App Store Awards」ベストiPadゲーム 受賞！&lt;/h1&gt;
+&lt;p&gt;いつも、スクワッド・バスターズで遊んでいただき、ありがとうございます😊
+
+その年最高のアプリとゲームを表彰する &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fapps.apple.com%252Fjp%252Fstory%252Fid1773419699%253Futm_source%253Dtwitter%2526utm_medium%253Dsocial%2526utm_campaign%253Ddhtwitter%2526utm_content%253Dapp.dashhudson.com%252Fapp-store-jp%252Flibrary%252Fmedia%252F481127688')"&gt;2024 App Store Awards&lt;/a&gt; にて、スクワッド・バスターズが&lt;b&gt;「&lt;/b&gt;&lt;b&gt;ベストiPadゲーム&lt;/b&gt;&lt;b&gt;」&lt;/b&gt;を受賞しました。
+
+これからも、スクワッド・バスターズの応援よろしくお願いいたします。&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6QXPowU2NfvL0VE3t2m8Br"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5WwoqSjWGMTq3U1ci34LVl/02b992ad4f28bff76c81684496e59c70/20241212_SQU_2024_App_Store_Awards_1920_1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="新着"/>
+    <published>2024-12-12T09:27:36+00:00</published>
   </entry>
 </feed>
