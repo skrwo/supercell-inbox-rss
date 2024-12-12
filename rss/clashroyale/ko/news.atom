@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-12T14:39:22.530957+00:00</updated>
+  <updated>2024-12-12T15:38:13.922352+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,26 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>5PZFPp9dFqz7s4vLHjn11Q</id>
-    <title>#페카팀 🆚 #메나팀 ?</title>
-    <updated>2024-09-16T11:03:12.044000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/5PZFPp9dFqz7s4vLHjn11Q"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ijsp8G8yDczBaFzKtOlcw/fc53ad66efcdb828b85aa38a225abcd6/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/Grr_fBksO6Q?si=cLnQ3QDSzp8vIy1r"/>
-    <category term="소식"/>
-    <published>2024-09-13T12:10:02+00:00</published>
-  </entry>
-  <entry>
-    <id>7N2RSdrZ3xY9AanD45u8E5</id>
-    <title>내일 🥊 #메가 나이트 #카드 진화</title>
-    <updated>2024-09-14T10:35:57.479000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/7N2RSdrZ3xY9AanD45u8E5"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2oYtRPOvYfQOTF0xUJDxHP/d3ffb840f48fb93ecb740547bbd1d2be/mega-knight-evo_KR.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/9wZSoW_tkFk?si=hEyh6Gdv_rcyvQ9h"/>
-    <category term="소식"/>
-    <published>2024-09-13T15:10:02+00:00</published>
   </entry>
   <entry>
     <id>1KPLDlOeGTRnDBJG0uZacK</id>

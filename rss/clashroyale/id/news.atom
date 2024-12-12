@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-12T14:39:24.082056+00:00</updated>
+  <updated>2024-12-12T15:38:12.657349+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>5PZFPp9dFqz7s4vLHjn11Q</id>
-    <title>#TeamPEKKA 🆚 #TeamMEGA ?</title>
-    <updated>2024-09-16T11:03:12.044000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/id/news/5PZFPp9dFqz7s4vLHjn11Q"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ijsp8G8yDczBaFzKtOlcw/fc53ad66efcdb828b85aa38a225abcd6/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/x1KHwNugC58"/>
-    <category term="Berita"/>
-    <published>2024-09-13T12:10:02+00:00</published>
-  </entry>
-  <entry>
-    <id>7N2RSdrZ3xY9AanD45u8E5</id>
-    <title>TOMORROW 🥊 #MEGAKNIGHT #CARDEVOLUTION</title>
-    <updated>2024-09-14T10:35:57.479000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/id/news/7N2RSdrZ3xY9AanD45u8E5"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1q8NvlmaDozwJD37kKGHKh/c57369a43294a5bcaa437c758ae608c2/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/oLRv9_jSNOw"/>
-    <category term="Berita"/>
-    <published>2024-09-13T15:10:02+00:00</published>
-  </entry>
   <entry>
     <id>1KPLDlOeGTRnDBJG0uZacK</id>
     <title>🥊 Pertarungan Kelas Berat Dimulai! (Edisi UFC)</title>

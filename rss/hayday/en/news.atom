@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2024-12-12T14:39:28.187425+00:00</updated>
+  <updated>2024-12-12T15:38:30.310293+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -311,5 +311,16 @@ The community event will last for &lt;b&gt;ten days&lt;/b&gt;, and it starts now
     <link href="https://youtu.be/Qf6KONg-jj0"/>
     <category term="Community"/>
     <published>2024-12-09T15:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>13qtj26f8EKfW5wRRSrsuj</id>
+    <title>Vote for your favorite Farm Patches NOW!</title>
+    <updated>2024-12-12T15:00:03.583000+00:00</updated>
+    <content>&lt;p&gt;It&amp;#39;s time to vote for your favorite designs on Supercell Make! You can vote even if you didn&amp;#39;t submit a design.&lt;/p&gt;&lt;p&gt;Click the below button:&lt;/p&gt;
+&lt;a href="hayday://scidOpenWebSSO?url=https%3A%2F%2Fmake.supercell.com%2Fen%2Fcampaign%2F3UlPRxD5J5hNIayOQfwlwL%3Fsso_client_id%3D5CC9647E-5A7F-4ED9-A5D7-6017BAD4F13A"&gt;👉Vote Now👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/13qtj26f8EKfW5wRRSrsuj"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I91ALpi0ojfyeARk70YmB/915bfafa165baa2fbed132344e614f37/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2024-12-11T22:00:00+00:00</published>
   </entry>
 </feed>

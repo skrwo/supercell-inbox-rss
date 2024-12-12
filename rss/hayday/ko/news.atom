@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>hayday-newsEntries-ko</id>
   <title>Hayday - News</title>
-  <updated>2024-12-12T14:39:27.358464+00:00</updated>
+  <updated>2024-12-12T15:38:34.527441+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -283,5 +283,16 @@
     <link href="https://youtu.be/Qf6KONg-jj0"/>
     <category term="커뮤니티"/>
     <published>2024-12-09T15:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>13qtj26f8EKfW5wRRSrsuj</id>
+    <title>지금 좋아하는 디자인에 투표하세요!</title>
+    <updated>2024-12-12T15:00:03.583000+00:00</updated>
+    <content>&lt;p&gt;Supercell Make에서 제일 마음에 드는 디자인에 투표하세요! 디자인을 제출하지 않았어도 투표에 참여할 수 있습니다.&lt;/p&gt;&lt;p&gt;아래 버튼을 누르세요:&lt;/p&gt;
+&lt;a href="hayday://scidOpenWebSSO?url=https%3A%2F%2Fmake.supercell.com%2Fen%2Fcampaign%2F3UlPRxD5J5hNIayOQfwlwL%3Fsso_client_id%3D5CC9647E-5A7F-4ED9-A5D7-6017BAD4F13A"&gt;👉지금 투표👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ko/news/13qtj26f8EKfW5wRRSrsuj"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/A2B9COpinpEoVColF39Ew/6e4b78d00cea2b5e818637a012829da4/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2024-12-11T22:00:00+00:00</published>
   </entry>
 </feed>
