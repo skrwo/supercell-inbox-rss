@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-13T16:42:40.928046+00:00</updated>
+  <updated>2024-12-13T17:35:56.513731+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -229,7 +229,7 @@ Shade erschreckt Gegner in der Nähe und verlangsamt sie dadurch 4 Sekunden lang
   <entry>
     <id>49BuyTboQeye3O4NAEvQCR</id>
     <title>PATCHNOTIZEN: Toy Story!</title>
-    <updated>2024-12-13T04:48:04.720000+00:00</updated>
+    <updated>2024-12-13T16:45:27.593000+00:00</updated>
     <content>&lt;h1&gt;Optionales Update für Android und iOS – 12. Dezember&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Absturz behoben, der auftrat, wenn mit arabischer oder hebräischer Spracheinstellung Buzz Lightyear in der Brawlerauswahl gewählt wurde.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Neue Kollaboration: Toy Story!&lt;/h1&gt;
@@ -260,40 +260,37 @@ Shade erschreckt Gegner in der Nähe und verlangsamt sie dadurch 4 Sekunden lang
   <entry>
     <id>6ISdhQB8e5PcfijYIx42TB</id>
     <title>Brawl-Jubiläum und Brawlidays-Ereignisse!</title>
-    <updated>2024-12-13T16:35:21.030000+00:00</updated>
-    <content>&lt;h1&gt;Brawl-Jubiläum und Brawlidays-Ereignisse!&lt;/h1&gt;
-&lt;p&gt;Wir feiern unseren Geburtstag! Seit dem globalen Launch von Brawl Stars sind 6 Jahre vergangen!&lt;/p&gt;&lt;p&gt;Wie immer feiern wir dies ab heute bis zu den Brawlidays! Das bedeutet ... es gibt GESCHENKE!
-Hier ist alles, was du wissen musst!&lt;/p&gt;&lt;p&gt;Buzz Lightyear ist jetzt GRATIS im Brawlidays-Kalender verfügbar. Diesen findest du im Shop.
+    <updated>2024-12-13T16:51:05.840000+00:00</updated>
+    <content>&lt;p&gt;Wir feiern unseren Geburtstag! Seit dem globalen Launch von Brawl Stars sind sechs Jahre vergangen!&lt;/p&gt;&lt;p&gt;Wie immer feiern wir dies ab heute bis zu den Brawlidays! Das bedeutet ... es gibt GESCHENKE!
+Hier ist alles, was du wissen musst:&lt;/p&gt;&lt;p&gt;Buzz Lightyear ist jetzt GRATIS im Brawlidays-Kalender verfügbar. Diesen findest du im Shop.
 Schließe den Space-Ranger-Meisterungspfad von Buzz Lightyear ab, bevor er das Spiel verlässt!
 Megabaum-Ereignis! Tritt einem Club bei, nutze deine Tickets und sammle Geschenke, um am 25. Dezember die Belohnungen des Baumes einzuheimsen.&lt;/p&gt;&lt;p&gt;&lt;b&gt;BUZZ LIGHTYEAR IST IN BRAWL STARS GELANDET!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;– Du kannst Buzz Lightyear GRATIS im Brawlidays-Kalender abholen!
 – Buzz Lightyear ist ein temporärer Brawler, der vom 12. Dezember bis zum 4. Februar verfügbar ist.
 – Er verfügt über seine eigene Space-Ranger-Meisterung mit einzigartigen Items. Schließe den Pfad ab, bevor er das Spiel verlässt!
 – Buzz Lightyear wird auf Powerlevel UNENDLICH sowie mit einem Gadget und einer Hyperladung freigeschaltet (ohne Starpower).
-– Er hat 3 verschiedene Modi: Flügelmodus, Lasermodus und Schwertmodus. Jeder dieser Modi verändert Buzz Lightyears Hauptattacke und seinen Superskill.
-– Alle Trophäen, die du mit Buzz Lightyear sammelst, zählen zu den Trophäenboxen hinzu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;BRAWLIDAYS-KALENDER!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ab jetzt bis zum 25. Dezember kriegst du jeden Tag eine Gratisbelohnung! An Tag 1 erwartet dich Buzz Lightyear! Hier ist die komplette Liste!&lt;/p&gt;&lt;p&gt;DAY 1 - Buzz Lightyear
-DAY 2 - Player Icon
-DAY 3 - 1 Present
-DAY 4 - Pin
-DAY 5 - 1 Present
-DAY 6 - Player Icon
-DAY 7 - 1 Present
-DAY 8 - Pin
-DAY 9 - 1 Present
-DAY 10 - Pin
-DAY 11 - 1 Present
-DAY 12 - Player Icon
-DAY 13 - Legendary Starr Drop
-DAY 14 - Spray
-DAY 15 - Hypercharge Drop&lt;/p&gt;&lt;p&gt;Diese Geschenke sind bis zum 31. Dezember verfügbar, also schnapp sie dir ALLE!&lt;/p&gt;&lt;p&gt;&lt;b&gt;MEGABAUM-CLUBEREIGNIS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;– Wenn du nicht in einem Club bist, TRITT EINEM BEI!
-– Vom 12. bis zum 25. Dezember erhält jeder in deinem Club, einschließlich dir, 3 Tickets pro Tag.
-– Nutze diese Tickets, um im Megabaum-Ereignis SIEGE zu sammeln!
+– Er hat drei verschiedene Modi: Flügelmodus, Lasermodus und Schwertmodus. Jeder dieser Modi verändert Buzz Lightyears Hauptattacke und seinen Superskill.
+– Alle Trophäen, die du mit Buzz Lightyear sammelst, zählen zu den Trophäenboxen hinzu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;BRAWLIDAYS-KALENDER!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ab jetzt bis zum 25. Dezember kriegst du jeden Tag eine Gratisbelohnung! An Tag 1 erwartet dich Buzz Lightyear! Hier ist die komplette Liste!&lt;/p&gt;&lt;p&gt;TAG 1 – Buzz Lightyear
+TAG 2 – Spielericon
+TAG 3 – ein Geschenk
+TAG 4 – Pin
+TAG 5 – ein Geschenk
+TAG 6 – Spielericon
+TAG 7 – ein Geschenk
+TAG 8 – Pin
+TAG 9 – ein Geschenk
+TAG 10 – Pin
+TAG 11 – ein Geschenk
+TAG 12 – Spielericon
+TAG 13 – Legendärer Starr-Drop
+TAG 14 – Spray
+TAG 15 – Hyperladung-Drop&lt;/p&gt;&lt;p&gt;Diese Geschenke sind bis zum 31. Dezember verfügbar, also schnapp sie dir ALLE!&lt;/p&gt;&lt;p&gt;&lt;b&gt;MEGABAUM-CLUBEREIGNIS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;– Wenn du nicht in einem Club bist, TRITT EINEM BEI!
+– Vom 12. bis zum 25. Dezember erhält jeder in deinem Club, einschließlich dir, drei Tickets pro Tag.
+– Nutze diese Tickets, um im Megabaum-Ereignis SIEGE einzufahren!
 – Für alle 25 Clubsiege, die du und deine Clubmitglieder einfahren, kann am 25. Dezember ein zusätzliches Geschenk geöffnet werden.
 – Im Megabaum-Ereignis trittst du in zufälligen Spielmodi mit ebenso zufälligen Modifikatoren an (genau wie beim Megaschwein).&lt;/p&gt;&lt;p&gt;&lt;b&gt;GESCHENKE UND SKINS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;– Toy Story-Skins werden nur im Shop verfügbar sein!
 – Spielzeug-Skins sind eine andere Gruppe von Skins, die zunächst in Geschenken zu finden sein werden.
 – In Geschenken kriegst du Belohnungen wie Juwelen, Bling, Skins, Brawler, Hyperladungen und die neu veröffentlichten Spielzeug-Skins!
-– Die Spielzeug-Skins sind am 25. Dezember auch im Shop erhältlich.
-&lt;b&gt;
-VIELEN DANK!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Danke, dass du ein weiteres Jahr Teil von Brawl Stars warst. Wir hoffen, dass dir die Geschenke gefallen!&lt;/p&gt;</content>
+– Die Spielzeug-Skins sind am 25. Dezember auch im Shop erhältlich.&lt;/p&gt;&lt;p&gt;&lt;b&gt;VIELEN DANK!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Danke, dass du ein weiteres Jahr Teil von Brawl Stars warst. Wir hoffen, dass dir die Geschenke gefallen!&lt;/p&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/#/de/news/6ISdhQB8e5PcfijYIx42TB"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ivEQjVaH7P2JmezF0OKYC/ca4db0a89c8ba6675918825bb2b1b3ee/1212_Buzz_Lightyear_Event_inbox_800x433_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
