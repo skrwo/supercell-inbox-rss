@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2024-12-13T07:32:16.368523+00:00</updated>
+  <updated>2024-12-13T08:41:38.135292+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -295,5 +295,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/A2B9COpinpEoVColF39Ew/6e4b78d00cea2b5e818637a012829da4/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Новости"/>
     <published>2024-12-11T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2ZInClpRTG8Y4VvmnykwTT</id>
+    <title>Информация о сборе падуба</title>
+    <updated>2024-12-13T07:55:03.171000+00:00</updated>
+    <content>&lt;p&gt;Мы раздаем суперускорители, разрешения на расширение, ящики-сюрпризы и украшение «Корова-Санта»!&lt;/p&gt;&lt;p&gt;В честь зимних праздников мы подготовили новое событие для всего сообщества. В чем его суть? Производите &lt;b&gt;подарки&lt;/b&gt; с помощью &lt;b&gt;стола для упаковки подарков&lt;/b&gt;, доставленного Альфредом на вашу ферму, и загружайте их в ящики на пароходе, чтобы заработать валюту события — &lt;b&gt;падуб&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Задача сообщества — собрать как можно больше падуба.&lt;/p&gt;&lt;p&gt;Цели и награды события:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1 миллиард единиц падуба — 2 ускорителя для парохода;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2 миллиарда единиц падуба — украшение «Корова-Санта»;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3 миллиарда единиц падуба — 2 суперускорителя для молокозавода;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4 миллиарда единиц падуба — 4 разрешения на расширение.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;После достижения каждого рубежа мы будем добавлять в магазин по одному &lt;b&gt;бесплатному ящику-сюрпризу&lt;/b&gt; для всех!&lt;/p&gt;&lt;p&gt;Не волнуйтесь, если вы еще не достигли 35-го уровня. Вместо ускорителей вы будете получать по 10 000 монет за каждый рубеж, награда за который содержит ускорители.&lt;/p&gt;&lt;p&gt;Когда придет время получать награды, просто зайдите в магазин — они будут ждать вас там. Награды будут доступны бесплатно, и вы найдете их сразу за акциями Farm Pass.&lt;/p&gt;&lt;p&gt;Событие сообщества уже началось и будет идти в течение &lt;b&gt;восьми дней&lt;/b&gt;.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/2ZInClpRTG8Y4VvmnykwTT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Сообщество"/>
+    <published>2024-12-13T07:55:03+00:00</published>
   </entry>
 </feed>

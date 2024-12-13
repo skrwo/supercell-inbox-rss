@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2024-12-13T07:32:13.043472+00:00</updated>
+  <updated>2024-12-13T08:41:36.543198+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -295,5 +295,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/A2B9COpinpEoVColF39Ew/6e4b78d00cea2b5e818637a012829da4/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-12-11T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2ZInClpRTG8Y4VvmnykwTT</id>
+    <title>Metas do azevinho</title>
+    <updated>2024-12-13T07:55:03.171000+00:00</updated>
+    <content>&lt;p&gt;Estamos dando superaceleradores, autorizações de expansão, caixas surpresa e a vaca natalina!&lt;/p&gt;&lt;p&gt;Para celebrar o Natal, preparamos uma nova meta da comunidade! Nesse evento, a sua missão será produzir &lt;b&gt;presentes&lt;/b&gt; com a &lt;b&gt;estação de embrulho&lt;/b&gt; entregue por Alfred, enviá-los no barco para ganhar &lt;b&gt;azevinho&lt;/b&gt; (a nova moeda) e, assim, encher a barra de progresso.&lt;/p&gt;&lt;p&gt;O objetivo é que a comunidade trabalhe em conjunto para obter a maior quantidade de azevinho possível.&lt;/p&gt;&lt;p&gt;As metas são as seguintes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1 bilhão de azevinhos - 2 aceleradores do barco&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2 bilhões de azevinhos - vaca natalina&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3 bilhões de azevinhos - 2 superaceleradores de laticínios&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4 bilhões de azevinhos - 4 autorizações de expansão&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A cada meta atingida, disponibilizaremos uma &lt;b&gt;caixa surpresa grátis&lt;/b&gt; na loja para todos!&lt;/p&gt;&lt;p&gt;Não se preocupe caso esteja abaixo do nível 35, pois você receberá 10.000 moedas nos marcos que dão aceleradores.&lt;/p&gt;&lt;p&gt;Quando chegar a hora de coletar as recompensas, é só visitar a loja. A premiação ficará disponível na seção de itens gratuitos, perto das ofertas do passe rural.&lt;/p&gt;&lt;p&gt;O evento da comunidade dura &lt;b&gt;oito dias&lt;/b&gt; e começa agora!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/2ZInClpRTG8Y4VvmnykwTT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Comunidade"/>
+    <published>2024-12-13T07:55:03+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>hayday-newsEntries-id</id>
   <title>Hayday - News</title>
-  <updated>2024-12-13T07:32:13.643611+00:00</updated>
+  <updated>2024-12-13T08:41:38.320479+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -305,5 +305,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/A2B9COpinpEoVColF39Ew/6e4b78d00cea2b5e818637a012829da4/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Promosi"/>
     <published>2024-12-11T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2ZInClpRTG8Y4VvmnykwTT</id>
+    <title>Info Ambang Mistletoe</title>
+    <updated>2024-12-13T07:55:03.171000+00:00</updated>
+    <content>&lt;p&gt;Kami akan membagi-bagikan Pelaju Super, Izin Perluasan, Kotak Kejutan, dan Dekorasi Sapi Santa!&lt;/p&gt;&lt;p&gt;Kami juga telah menyiapkan ambang komunitas baru untuk merayakan Liburan Musim Dingin. Misimu? Isi bilah progres dengan membuat &lt;b&gt;Kado&lt;/b&gt; menggunakan &lt;b&gt;Meja Pembungkusan Kado&lt;/b&gt; baru yang dikirim Alfred, lalu kirim Kado lewat pesanan perahu untuk mendapatkan mata uang baru: &lt;b&gt;Mistletoe&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Kalian harus bekerja sama sebagai komunitas untuk meraih Mistletoe sebanyak mungkin.&lt;/p&gt;&lt;p&gt;Berikut adalah ambang dan hadiah yang tersedia:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1 miliar Mistletoe - 2 Pelaju Perahu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2 miliar Mistletoe - Dekorasi Sapi Santa&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3 miliar Mistletoe - 2 Pelaju Super untuk Pengolahan Susu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4 miliar Mistletoe - 4 Izin Perluasan&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Setiap mencapai suatu ambang, kami akan mengaktifkan bonus &lt;b&gt;kotak kejutan gratis&lt;/b&gt; di toko untuk semua pemain!&lt;/p&gt;&lt;p&gt;Untuk kamu yang masih berada di bawah level 35, jangan khawatir! Setiap mencapai ambang yang berhadiah Pelaju, kamu akan menerima 10.000 Koin sebagai alternatif.&lt;/p&gt;&lt;p&gt;Saat tiba waktu untuk mengeklaim hadiah, mampir saja ke Toko. Hadiah akan ditampilkan sebagai item gratis. Cukup geser layar hingga melewati penawaran Tiket Pertanian.&lt;/p&gt;&lt;p&gt;Acara komunitas akan berlangsung selama &lt;b&gt;delapan hari&lt;/b&gt; dan dimulai dari sekarang!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/id/news/2ZInClpRTG8Y4VvmnykwTT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Komunitas"/>
+    <published>2024-12-13T07:55:03+00:00</published>
   </entry>
 </feed>

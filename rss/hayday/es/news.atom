@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-12-13T07:32:14.427444+00:00</updated>
+  <updated>2024-12-13T08:41:38.981007+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -294,5 +294,15 @@
     <link href=" https://youtu.be/Qf6KONg-jj0"/>
     <category term="Comunidad"/>
     <published>2024-12-09T15:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>2ZInClpRTG8Y4VvmnykwTT</id>
+    <title>Desafío: el objetivo del acebo</title>
+    <updated>2024-12-13T07:55:03.171000+00:00</updated>
+    <content>&lt;p&gt;Vamos a regalar superpotenciadores, permisos de ampliación, cajas sorpresas y a Papá Bovi-noel.&lt;/p&gt;&lt;p&gt;Hemos preparado un nuevo objetivo de la comunidad para celebrar las fiestas de invierno. ¿Qué tiene que hacer la comunidad? Llenar el medidor de progreso fabricando &lt;b&gt;regalos&lt;/b&gt; con la &lt;b&gt;estación de papel de regalo&lt;/b&gt; que te entregará Alfred para después completar pedidos del barco y obtener la nueva divisa, &lt;b&gt;el acebo&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;El objetivo es que la comunidad consiga tanto acebo como sea posible.&lt;/p&gt;&lt;p&gt;Estos son los objetivos:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mil millones de acebo: potenciadores del barco x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2 mil millones de acebo: Papá Bovi-noel&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3 mil millones de acebo: superpotenciadores de la lechería x2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4 mil millones de acebo: permisos de ampliación x4&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Activaremos una &lt;b&gt;caja sorpresa gratis&lt;/b&gt; adicional en la tienda por cada meta alcanzada.&lt;/p&gt;&lt;p&gt;Y si estás por debajo del nivel 35, no te preocupes, ya que recibirás 10 000 monedas en lugar de potenciadores por cada meta que los incluya.&lt;/p&gt;&lt;p&gt;Cuando sea hora de reclamar las recompensas, dirígete a la tienda. Las recompensas estarán disponibles como objetos gratuitos, solo tienes que pasar las ofertas del pase de la granja.&lt;/p&gt;&lt;p&gt;El evento de la comunidad durará &lt;b&gt;ocho días&lt;/b&gt; ¡y empieza ahora!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/2ZInClpRTG8Y4VvmnykwTT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Comunidad"/>
+    <published>2024-12-13T07:55:03+00:00</published>
   </entry>
 </feed>

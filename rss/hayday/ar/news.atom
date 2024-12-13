@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-12-13T07:32:13.205815+00:00</updated>
+  <updated>2024-12-13T08:41:36.378423+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -305,5 +305,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6hN6C4XoLwUj4AD0xkBEDY/14f673cb4190fc53841321d852fb0319/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أخبار"/>
     <published>2024-12-11T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2ZInClpRTG8Y4VvmnykwTT</id>
+    <title>إنجاز نبتة البهشية</title>
+    <updated>2024-12-13T07:55:03.171000+00:00</updated>
+    <content>&lt;p&gt;سنمنح معززات خارقة وتراخيص توسعة وصناديق مفاجآت وسانتا البقرة.&lt;/p&gt;&lt;p&gt;أعددنا إنجاز مجتمع لعبة جديدًا للاحتفال بعطلة الشتاء! ما المهمة المطلوبة؟ املأ شريط تتبع التقدم من خلال إنتاج &lt;b&gt;الهدايا&lt;/b&gt; باستخدام &lt;b&gt;محطة تغليف الهدايا&lt;/b&gt; الجديدة التي سيوصلها ألفريد، ثم اشحنها في طلبات القارب لتربح العملة الجديدة &lt;b&gt;نبتة البهشية&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;يكمن الهدف في الوصول إلى أكبر عدد ممكن من نباتات البهشية بالتعاون معًا بوصفنا مجتمع اللعبة.&lt;/p&gt;&lt;p&gt;فيما يلي الإنجازات:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;مليار نبتة بهشية: معززا قارب اثنان&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;مليارا نبتة بهشية: سانتا البقرة&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3 مليارات نبتة بهشية: معززان خارقان لمعمل الألبان&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4 مليارات نبتة بهشية: 4 تراخيص توسعة&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;عن كل إنجاز محقق، سيحصل الجميع على &lt;b&gt;صندوق مفاجآت مجاني&lt;/b&gt; في المتجر.&lt;/p&gt;&lt;p&gt;ولا تقلق إن كان مستواك أقل من 35! فبدلاً من المعززات ستتلقى 10000 من العملات عن كل إنجاز يشمل معززات.&lt;/p&gt;&lt;p&gt;عندما يحين وقت جمع مكافآتك، اذهب إلى المتجر. ستجدها في انتظارك باعتبارها عناصر مجانية، فقط اسحب لرؤية عروض Farm Pass.&lt;/p&gt;&lt;p&gt;سيجري حدث المجتمع لمدة &lt;b&gt;8 أيام&lt;/b&gt; ويبدأ الآن!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/2ZInClpRTG8Y4VvmnykwTT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="المجتمع"/>
+    <published>2024-12-13T07:55:03+00:00</published>
   </entry>
 </feed>

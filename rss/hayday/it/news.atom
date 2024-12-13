@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-12-13T07:32:16.097998+00:00</updated>
+  <updated>2024-12-13T08:41:37.844906+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -305,5 +305,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/A2B9COpinpEoVColF39Ew/6e4b78d00cea2b5e818637a012829da4/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2024-12-11T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2ZInClpRTG8Y4VvmnykwTT</id>
+    <title>Info sull'evento ''I traguardi dell'agrifoglio''</title>
+    <updated>2024-12-13T07:55:03.171000+00:00</updated>
+    <content>&lt;p&gt;Regaleremo superpotenziamenti, permessi di espansione, scatole a sorpresa e la decorazione &amp;#39;&amp;#39;Mucca Natale&amp;#39;&amp;#39;!&lt;/p&gt;&lt;p&gt;Abbiamo preparato un nuovo evento incentrato sui traguardi della community per farti godere al meglio le feste invernali! Stavolta bisognerà riempire l&amp;#39;indicatore producendo i &lt;b&gt;regali&lt;/b&gt; col &lt;b&gt;banco dei regali&lt;/b&gt; portato da Alfred e spedendoli con la barca, in modo da guadagnare la nuova valuta, l&amp;#39;&lt;b&gt;agrifoglio&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Dovrai quindi provare ad accumulare quanto più agrifoglio possibile assieme alla community!&lt;/p&gt;&lt;p&gt;I traguardi da raggiungere sono i seguenti.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Una volta raggiunto un miliardo di agrifogli, regaleremo due potenziamenti per la barca.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A due miliardi di agrifogli, regaleremo Mucca Natale.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A tre miliardi di agrifogli, regaleremo due superpotenziamenti per il caseificio.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A quattro miliardi di agrifogli, regaleremo quattro permessi di espansione.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ogni volta che tu e gli altri contadini avrete raggiunto un traguardo, troverete nel negozio una &lt;b&gt;scatola a sorpresa gratuita&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;Se il livello della tua fattoria è inferiore al 35º, non preoccuparti: ogni volta che verrà raggiunto un traguardo con in palio dei potenziamenti, al loro posto riceverai 10.000 monete!&lt;/p&gt;&lt;p&gt;Quando sarà giunto il momento, ti basterà andare al negozio per ritirare le ricompense in serbo per te, che troverai sotto forma di articoli gratuiti, subito dopo la sezione delle offerte del Pass della fattoria.&lt;/p&gt;&lt;p&gt;Questo evento della community inizia adesso e durerà &lt;b&gt;otto giorni&lt;/b&gt;!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/2ZInClpRTG8Y4VvmnykwTT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Community"/>
+    <published>2024-12-13T07:55:03+00:00</published>
   </entry>
 </feed>

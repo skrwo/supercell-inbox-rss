@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-12-13T07:32:13.893757+00:00</updated>
+  <updated>2024-12-13T08:41:36.069567+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -305,5 +305,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/A2B9COpinpEoVColF39Ew/6e4b78d00cea2b5e818637a012829da4/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Uutiset"/>
     <published>2024-12-11T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2ZInClpRTG8Y4VvmnykwTT</id>
+    <title>Piikkipaatsamatavoitteet</title>
+    <updated>2024-12-13T07:55:03.171000+00:00</updated>
+    <content>&lt;p&gt;Lahjoitamme farmareille superkiihdyttimiä, laajennuslupia, yllätyslaatikoita ja lehmäpukin!&lt;/p&gt;&lt;p&gt;Talven juhlapyhien kunniaksi tiedossa on uusi yhteisön tavoitetapahtuma! Tehtävännekö? Pistäkää Alfredin tuomat uudet &lt;b&gt;paketointipöydät&lt;/b&gt; käyntiin ja lähettäkää &lt;b&gt;lahjoja&lt;/b&gt; laivatilausten mukana. Näin keräätte uutta valuuttaa, &lt;b&gt;piikkipaatsamaa&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Tapahtumassa yhteisön on tarkoitus kerätä yhdessä mahdollisimman paljon piikkipaatsamaa.&lt;/p&gt;&lt;p&gt;Tavoitteet ovat seuraavat:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Miljardi piikkipaatsamaa: 2 laivakiihdytintä.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2 miljardia piikkipaatsamaa: lehmäpukki.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3 miljardia piikkipaatsamaa: 2 meijerin superkiihdytintä.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4 miljardia piikkipaatsamaa: 4 laajennuslupaa.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lisäksi kaikki saavat jokaisen saavutetun tavoitteen myötä kaupasta &lt;b&gt;ilmaisen yllätyslaatikon&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;Eikä huolta, jos et ole vielä saavuttanut tasoa 35. Kiihdyttimien sijaan saat jokaisesta niitä sisältävästä tavoitteesta palkinnoksi 10 000 kolikkoa.&lt;/p&gt;&lt;p&gt;Pääset lunastamaan palkintosi kaupasta. Palkinnot näkyvät kaupassa ilmaisena sisältönä, jotka löydät heti Farmipassi-tarjousten jälkeen.&lt;/p&gt;&lt;p&gt;Yhteisötapahtuma on käynnissä &lt;b&gt;kahdeksan päivän ajan&lt;/b&gt; ja alkaa nyt!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/2ZInClpRTG8Y4VvmnykwTT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Yhteisö"/>
+    <published>2024-12-13T07:55:03+00:00</published>
   </entry>
 </feed>

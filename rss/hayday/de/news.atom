@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-12-13T07:32:14.167939+00:00</updated>
+  <updated>2024-12-13T08:41:36.903735+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -305,5 +305,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6hN6C4XoLwUj4AD0xkBEDY/14f673cb4190fc53841321d852fb0319/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Neues"/>
     <published>2024-12-11T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2ZInClpRTG8Y4VvmnykwTT</id>
+    <title>Infos zum Winterbeeren-Meilenstein</title>
+    <updated>2024-12-13T07:55:03.171000+00:00</updated>
+    <content>&lt;p&gt;Wir verschenken Superschübe, Erweiterungserlaubnisse, Überraschungskisten und den Ni-Kuh-laus!&lt;/p&gt;&lt;p&gt;Zur Feier der Winterfeiertage haben wir einen neuen Community-Meilenstein vorbereitet. Dein Auftrag? Fülle die Kontrollleiste, indem du mit der neuen &lt;b&gt;Geschenke-Einpackstation&lt;/b&gt;, die dir von Alfred geliefert wird, &lt;b&gt;Geschenke&lt;/b&gt; produzierst. Verschicke die Geschenke dann per Schiffsbestellung, um die neue Währung zu erhalten: &lt;b&gt;Winterbeeren&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Das gemeinsame Ziel der Community ist es, so viele Winterbeeren wie möglich zu sammeln.&lt;/p&gt;&lt;p&gt;Das sind die Meilensteine:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1 Milliarde Winterbeeren: 2 Schiffsschübe&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;2 Milliarden Winterbeeren: Ni-Kuh-laus&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;3 Milliarden Winterbeeren: 2 Superschübe für die Molkerei&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4 Milliarden Winterbeeren: 4 Erweiterungserlaubnisse&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Für jeden erreichten Meilenstein machen wir im Laden als Bonus eine &lt;b&gt;kostenlose Überraschungskiste&lt;/b&gt; verfügbar!&lt;/p&gt;&lt;p&gt;Und keine Sorge, falls du unter Level 35 bist! Anstatt von Schüben erhältst du 10.000 Münzen für jeden Meilenstein, der dir Schübe gewähren würde.&lt;/p&gt;&lt;p&gt;Kommt die Zeit zur Abholung der Belohnungen: Auf zum Laden! Scrolle einfach an den Farmpass-Angeboten vorbei, um sie kostenlos einzufordern.&lt;/p&gt;&lt;p&gt;Das Community-Ereignis dauert &lt;b&gt;acht Tage&lt;/b&gt; und beginnt jetzt!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/2ZInClpRTG8Y4VvmnykwTT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Community"/>
+    <published>2024-12-13T07:55:03+00:00</published>
   </entry>
 </feed>
