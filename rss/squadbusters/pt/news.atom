@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-14T15:33:26.916298+00:00</updated>
+  <updated>2024-12-14T16:40:02.269262+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -487,13 +487,13 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <published>2024-12-01T07:00:00+00:00</published>
   </entry>
   <entry>
-    <id>01R0ttava6skgGXr5CxqN6</id>
-    <title>Nova atualização de SQUAD no YouTube!</title>
-    <updated>2024-12-14T02:19:40.274000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/01R0ttava6skgGXr5CxqN6"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3kQimsrw1Q05ORFAkZrJmk/4a75ae354c8a12b36bce00900a81621f/DEC_Update_16x9-NO-LOGO_less2mb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="www.youtube.com"/>
+    <id>46grBBNNbC2kR5WWBRL6lt</id>
+    <title>Atualização de SQUAD: modos de jogo, Natal do Squad e planos para 2025! </title>
+    <updated>2024-12-14T16:21:54.124000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/46grBBNNbC2kR5WWBRL6lt"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5Xk0rf5W3nMiIfk4iTXkII/4cfe7b49a1a1ec678bf81f283f450b2d/DEC_Update_16x9-NO-LOGO_less2mb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/SlxBjhAhOU0"/>
     <category term="Novidades do jogo"/>
-    <published>2024-12-13T13:00:00+00:00</published>
+    <published>2024-12-14T15:00:00+00:00</published>
   </entry>
 </feed>
