@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-15T11:29:16.338496+00:00</updated>
+  <updated>2024-12-15T12:55:01.711071+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>1KPLDlOeGTRnDBJG0uZacK</id>
-    <title>🥊 The Heavyweight Fight Has Begun!  (UFC edition)</title>
-    <updated>2024-09-19T14:21:07.965000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/1KPLDlOeGTRnDBJG0uZacK"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vUnoe0Bcmp2wcLl68jPpQ/0a87edf4298f1a116771edea8c61cc50/Untitled-2.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/_vC4yIbvPRU?feature=share"/>
-    <category term="News"/>
-    <published>2024-09-16T07:17:06+00:00</published>
-  </entry>
   <entry>
     <id>2OvYw39ZhCTu5nshQ0XDd6</id>
     <title>#UFC 🤝 #ClashRoyale</title>
@@ -496,5 +486,15 @@ Win an exclusive Emote!&lt;/p&gt;
     <link href="https://www.youtube.com/shorts/rUmgdnqw8RE"/>
     <category term="News"/>
     <published>2024-12-13T15:10:05+00:00</published>
+  </entry>
+  <entry>
+    <id>3SfrNpOkDbK9zwxPKOiKUf</id>
+    <title>Cards for Cards</title>
+    <updated>2024-12-15T12:00:41.296000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/3SfrNpOkDbK9zwxPKOiKUf"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6IFr8gK80DhvGlPfAKuaD7/ddeec76260d3a1229d1bf6eb1f7e6c2f/Clash_Royale_Cards_for_Cards_Dec_2024_35s_16x9_1080p25_ProRes_4444XQ.00_00_11_01.Still002.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=UsyxMzmxsns"/>
+    <category term="Community"/>
+    <published>2024-12-15T12:00:41+00:00</published>
   </entry>
 </feed>
