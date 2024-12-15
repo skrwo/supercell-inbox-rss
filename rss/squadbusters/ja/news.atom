@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-15T07:30:41.353028+00:00</updated>
+  <updated>2024-12-15T08:38:44.041897+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1145,5 +1145,18 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://youtu.be/SlxBjhAhOU0"/>
     <category term="アップデート"/>
     <published>2024-12-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>lJCUo1106f31We37lnhaS</id>
+    <title>最新アップデート情報の紹介動画をチェック！</title>
+    <updated>2024-12-15T07:58:44.147000+00:00</updated>
+    <content>&lt;h1&gt;課金しなくても⭐5が作れちゃう⁉️新ゲームモード追加でスクバスが最強になって帰ってきました🔥&lt;/h1&gt;
+&lt;a href="https://youtu.be/8AundpU6POw?si=bdB5ADnJX9MsW-dm"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;【アプデ速報】プレイヤー待望のアップデートが盛り沢山!!!僕なりの感想を述べます&lt;/h1&gt;
+&lt;a href="https://youtu.be/PCVFYHpvPDY?si=JBPHtVjN4nVo5fL1"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/lJCUo1106f31We37lnhaS"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/dsNVzn3r11T130D1LbJBV/824890e1e89aa36998bbd4176ce3be7f/sddefault__10__re.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="ビデオ"/>
+    <published>2024-12-15T07:58:44+00:00</published>
   </entry>
 </feed>
