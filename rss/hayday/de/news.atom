@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2024-12-15T08:38:42.296052+00:00</updated>
+  <updated>2024-12-15T09:32:07.977609+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -304,5 +304,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2024-12-13T07:55:03+00:00</published>
+  </entry>
+  <entry>
+    <id>kIBL7GdAYwlHZ23oCjIkT</id>
+    <title>Hay Day-Woche 51</title>
+    <updated>2024-12-15T09:01:42.289000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-Woche 51&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 9:00 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag:&lt;/b&gt; Glücksrad-Ereignis (Puzzlestücke)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag:&lt;/b&gt; Lieferwagen-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch:&lt;/b&gt; Flinkeres Futter (drei zufällige Arten Tierfutter werden doppelt so schnell produziert)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag:&lt;/b&gt; Farmbesucher-Ereignis (Flohmarkt)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag:&lt;/b&gt; Produktionsschub für den gesamten Angelbereich (20 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag:&lt;/b&gt; Stadtbesucher-Ereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag:&lt;/b&gt; Früchteereignis (drei zufällige Arten von Sträuchern oder Bäumen produzieren doppelt so schnell Früchte)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Normales Derby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/kIBL7GdAYwlHZ23oCjIkT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Ereignisse"/>
+    <published>2024-12-15T09:00:03+00:00</published>
   </entry>
 </feed>

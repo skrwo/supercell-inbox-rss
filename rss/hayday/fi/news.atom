@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-12-15T08:38:42.558466+00:00</updated>
+  <updated>2024-12-15T09:32:09.419199+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -304,5 +304,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Yhteisö"/>
     <published>2024-12-13T07:55:03+00:00</published>
+  </entry>
+  <entry>
+    <id>kIBL7GdAYwlHZ23oCjIkT</id>
+    <title>Hay Dayn viikko 51</title>
+    <updated>2024-12-15T09:01:42.289000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn viikko 51&lt;/h1&gt;
+&lt;p&gt;Hei farmari! On uuden tapahtumaviikon aika! Kaikki tapahtumat ja kisat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maanantai&lt;/b&gt;: palapelin paloja onnenpyörässä&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tiistai&lt;/b&gt;: laajennusesineitä lisäpalkintoina tavararekkatilauksista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keskiviikko&lt;/b&gt;: eläinten ruokintatehostus (3 satunnaista rehua valmistuu tuplanopeudella)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Torstai&lt;/b&gt;: myyjäiset farmivierailijoille&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perjantai&lt;/b&gt;: kalastusalueella kaikkien rakennusten 20 %:n tehostus + kaksinkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lauantai&lt;/b&gt;: tuplasti kolikoita kylävierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunnuntai&lt;/b&gt;: kolme satunnaista puu-/pensaslajia tuottaa satoa tuplanopeudella&lt;/p&gt;&lt;p&gt;&lt;b&gt;Naapurustokisat&lt;/b&gt;: tavalliset kisat&lt;/p&gt;&lt;p&gt;Verratonta viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/kIBL7GdAYwlHZ23oCjIkT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Tapahtumat"/>
+    <published>2024-12-15T09:00:03+00:00</published>
   </entry>
 </feed>

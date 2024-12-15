@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-15T08:38:36.932072+00:00</updated>
+  <updated>2024-12-15T09:32:01.211015+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -375,15 +375,5 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <link href="https://youtu.be/hZZpGe0e3_Q"/>
     <category term="커뮤니티"/>
     <published>2024-12-12T06:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>3PwsyRZdkJG5JDGznqtFLk</id>
-    <title>오후 5시! 브롤스타즈 크리스마스 팝업 깜짝 라이브 방송이 시작됩니다!🎄</title>
-    <updated>2024-12-15T03:27:17.807000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3PwsyRZdkJG5JDGznqtFLk"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5xTC50kTTfpULxIcG36mJy/675bc1192778033d424cb6242f442257/image__22_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=_Rzez3CIZBE"/>
-    <category term="생중계"/>
-    <published>2024-12-15T03:27:17+00:00</published>
   </entry>
 </feed>

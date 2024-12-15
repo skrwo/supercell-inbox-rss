@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2024-12-15T08:38:41.800037+00:00</updated>
+  <updated>2024-12-15T09:32:08.212943+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -294,5 +294,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/A2B9COpinpEoVColF39Ew/6e4b78d00cea2b5e818637a012829da4/SCMake3_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Berita"/>
     <published>2024-12-11T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>kIBL7GdAYwlHZ23oCjIkT</id>
+    <title>Hay Day Minggu 51</title>
+    <updated>2024-12-15T09:01:42.289000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Minggu 51&lt;/h1&gt;
+&lt;p&gt;Hei, Peladang! Bersedia untuk satu lagi minggu yang penuh dengan acara! Semua acara bermula pada 8:00 UTC (16:00 MYT). Maklumat terperinci setiap acara boleh didapati di papan acara dalam permainan.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Isnin:&lt;/b&gt; Putaran Nasib (Kepingan susun suai gambar)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Selasa:&lt;/b&gt; Acara Trak (Bahan peluasan tanah)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rabu:&lt;/b&gt; Acara Makanan Haiwan (3 jenis makanan haiwan rawak dihasilkan 2x lebih cepat)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Khamis:&lt;/b&gt; Acara Pelawat Ladang (Jualan halaman)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jumaat:&lt;/b&gt; Acara Galakan Pengeluaran Memancing (Semua 20% galakan) + 2x Mata Pas Ladang&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabtu:&lt;/b&gt; Acara Pelawat Bandar (x2 syiling)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ahad:&lt;/b&gt; Mempercepat Pertumbuhan Pokok dan Rimbunan (3 jenis rimbunan atau pokok rawak membuahkan hasil 2x lebih cepat)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: Biasa&lt;/p&gt;&lt;p&gt;Semoga minggu anda ceria!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/kIBL7GdAYwlHZ23oCjIkT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Acara"/>
+    <published>2024-12-15T09:00:03+00:00</published>
   </entry>
 </feed>

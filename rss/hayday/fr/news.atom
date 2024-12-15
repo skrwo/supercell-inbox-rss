@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-12-15T08:38:42.650877+00:00</updated>
+  <updated>2024-12-15T09:32:08.721027+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -304,5 +304,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Communauté"/>
     <published>2024-12-13T07:55:03+00:00</published>
+  </entry>
+  <entry>
+    <id>kIBL7GdAYwlHZ23oCjIkT</id>
+    <title>Calendrier des événements Hay Day (semaine 51)</title>
+    <updated>2024-12-15T09:01:42.289000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 51)&lt;/h1&gt;
+&lt;p&gt;Bonjour, amis de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements et les derbys commencent à 8 h UTC (9 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lundi&lt;/b&gt; : roue de la Fortune, pièces de puzzle&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mardi&lt;/b&gt; : événement du camion, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercredi&lt;/b&gt; : événement nourriture pour animaux, 3 types de nourriture pour animaux aléatoires sont produits 2x plus rapidement&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jeudi&lt;/b&gt; : visiteurs de la ferme, vide-grenier&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vendredi&lt;/b&gt; : coin de pêche, boost de production de 20 % pour les poissons + points du pass Hay Day doublés&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samedi&lt;/b&gt; : visiteurs de la ville, pièces x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dimanche&lt;/b&gt; : production des arbres et arbustes plus rapide, 3 arbres ou arbustes produisent des fruits 2x plus vite&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt; : normal&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/kIBL7GdAYwlHZ23oCjIkT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Événements"/>
+    <published>2024-12-15T09:00:03+00:00</published>
   </entry>
 </feed>

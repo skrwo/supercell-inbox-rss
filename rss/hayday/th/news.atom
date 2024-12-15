@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-newsEntries-th</id>
   <title>Hayday - News</title>
-  <updated>2024-12-15T08:38:42.434841+00:00</updated>
+  <updated>2024-12-15T09:32:09.053928+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -304,5 +304,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/27fDz43aMw2D8XMobveQZS/8af0a1e0606d785fffa4aca3225a9322/HD_Community_Event_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ชุมชน"/>
     <published>2024-12-13T07:55:03+00:00</published>
+  </entry>
+  <entry>
+    <id>kIBL7GdAYwlHZ23oCjIkT</id>
+    <title>สัปดาห์ที่ 51 ของ Hay Day</title>
+    <updated>2024-12-15T09:01:42.289000+00:00</updated>
+    <content>&lt;h1&gt;สัปดาห์ที่ 51 ของ Hay Day&lt;/h1&gt;
+&lt;p&gt;เฮ้ ชาวไร่! เตรียมตัวให้พร้อมกับอีกสัปดาห์ที่เต็มไปด้วยอีเวนท์! ทุกอีเวนท์และการแข่งม้าเริ่ม 8.00 UTC ดูรายละเอียดของแต่ละอีเวนท์ได้ที่กระดานอีเวนท์ในเกม&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันจันทร์&lt;/b&gt;: หมุนวงล้อ (ชิ้นส่วนภาพต่อ)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันอังคาร:&lt;/b&gt; อีเวนท์รถกระบะ (วัสดุการขยาย)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันพุธ:&lt;/b&gt; อีเวนท์อาหารสัตว์ (สุ่มอาหารสัตว์ 3 ชนิดซึ่งจะผลิตเร็วขึ้น 2 เท่า)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันพฤหัสบดี:&lt;/b&gt; อีเวนท์ผู้มาเยือนฟาร์ม (เปิดสวนขาย)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันศุกร์:&lt;/b&gt; อีเวนท์บูสต์การผลิตอุปกรณ์หาปลา (ทั้งหมดบูสต์ 20%) + แต้ม Farm Pass x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันเสาร์:&lt;/b&gt; อีเวนท์ผู้มาเยือนเมือง (เหรียญ x2)&lt;/p&gt;&lt;p&gt;&lt;b&gt;วันอาทิตย์:&lt;/b&gt; บูสต์ผลผลิตต้นไม้และพุ่มไม้ (สุ่มพุ่มไม้หรือต้นไม้ 3 ต้นให้ผลิตผลได้เร็วขึ้น 2 เท่า)&lt;/p&gt;&lt;p&gt;&lt;b&gt;การแข่งม้า:&lt;/b&gt; ปกติ&lt;/p&gt;&lt;p&gt;ขอให้มีสัปดาห์ที่ยอดเยี่ยม!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/th/news/kIBL7GdAYwlHZ23oCjIkT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="อีเวนท์"/>
+    <published>2024-12-15T09:00:03+00:00</published>
   </entry>
 </feed>
