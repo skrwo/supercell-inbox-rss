@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-16T09:37:50.407091+00:00</updated>
+  <updated>2024-12-16T10:42:14.731014+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -370,5 +370,29 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aUvXHazbdBYrRb8EKYbDI/4479b65733f10bcafa30353b3ff0d6f9/SUP3969_Season_66_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Новости"/>
     <published>2024-12-02T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6LRgiiEG8lo6AqHQF5jsZL</id>
+    <title>Обновление игры: новый воин для башни — королевский повар!</title>
+    <updated>2024-12-16T10:32:36.451000+00:00</updated>
+    <content>&lt;ul&gt;&lt;li&gt;&lt;p&gt;Новый воин для башни — королевский повар.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Pass Royale с улучшенным призовым раундом начиная со следующего сезона.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Больше элементов оформления в призах-сюрпризах.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Гоблинята покидают игру.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;h1&gt;Новый воин для башни — королевский повар&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6g6wqpU9gYGnYMZg03YGkL/f1b624e2d22a878ca0ed44e09360f9f9/Royal_chef_card_frame_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;В Clash Royale появится первый атакующий воин для башни!&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Королевский повар — это легендарный воин для башни, который становится доступен на 13-й арене.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Каждые 18 секунд королевский повар увеличивает уровень вашего воина с наибольшим запасом здоровья на 1! Если ему приходится атаковать, то зарядка способности может занимать до 30 секунд.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Королевский повар будет отдавать предпочтение тем воинам, которые еще не получали повышение уровня. Его способность действует только на воинов, имеющих не менее 20 % общего запаса здоровья.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;h3&gt;&lt;b&gt;Улучшение призового раунда Pass Royale&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;b&gt;Начиная с январского сезона&lt;/b&gt; зарабатывать призы-сюрпризы станет проще, чем когда-либо:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;после прохождения пропуска вы сможете получать дополнительные призы-сюрпризы, зарабатывая короны;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;в зависимости от длины сезона можно получить от 28 до 35 призов-сюрпризов;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;призы-сюрпризы накапливаются. Если вы пройдете пропуск за 20 дней, то вас будут дожидаться 20 призов-сюрпризов;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;как только вы получите все доступные призы-сюрпризы, появится таймер, отсчитывающий время до появления нового.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rwj1BMutPpAaocEjUjofc/8661aab2e21b7541bf69b4a008e4c879/luckyloop.png?w=512&amp;h=233&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;Больше элементов оформления в призах-сюрпризах &lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7Aj2hVWYQOkre34sawhIjt/1360d32082232e085d093c0bf56e836c/emoji_Hogrider_heart.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Теперь в призах-сюрпризах будет еще больше элементов оформления!&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Прощайте, гоблинята!&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5JYGureRdHw0rTLFeQM3wg/51c0182b4145c3fe05f0247ae4619b41/BabyGoblinsCard.webp?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Королева гоблинов покинула арену, так что пришло время попрощаться с гоблинятами.&lt;/p&gt;
+&lt;p&gt;Не переживайте — вы получите компенсацию за золото и элитные карты-джокеры, потраченные на их улучшение.&lt;/p&gt;&lt;hr/&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Убрано одно задание и перераспределены коронные награды — теперь вам доступно только 4 задания вместо 5.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Теперь вы будете получать уведомление, если ваша ежедневная серия грозит прерваться.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Переработан подход к обучению игры новыми картами — мы внесли небольшие визуальные изменения и системные улучшения, чтобы сделать подготовку к будущим обновлениям более гладкой.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Теперь вы можете переключаться между разными колодами на экране игрового режима события.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;В меню настроек добавлен переключатель, позволяющий активировать вибрацию.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлена ошибка, из-за которой способность Гоблинштейна «Удар током» и снаряжение электрогиганта не наносили сниженный урон башне короля.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлена ошибка, из-за которой зеркало показывало знак вопроса вместо стоимости в эликсире.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Различные исправления эволюции мегарыцаря.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Различные исправления эволюции электродракона.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Различные исправления эволюции гигантского снежка.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Различные исправления эволюции мушкетера.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Исправлены разные ошибки, приводившие к вылету игры.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/6LRgiiEG8lo6AqHQF5jsZL"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YJsV45LLIhkNmzt8hHDaI/b6f49d07c8936c1ea477ac8d55c72f2a/Royal_Chef_Tower_Troop_FINAL.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Информация о версии"/>
+    <published>2024-12-16T10:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-16T09:37:55.974500+00:00</updated>
+  <updated>2024-12-16T10:42:15.101525+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -402,5 +402,30 @@ Ganhe um emote exclusivo!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/aUvXHazbdBYrRb8EKYbDI/4479b65733f10bcafa30353b3ff0d6f9/SUP3969_Season_66_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2024-12-02T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6LRgiiEG8lo6AqHQF5jsZL</id>
+    <title>Atualização (nova tropa de torre): Cozinheiro Real!</title>
+    <updated>2024-12-16T10:32:36.451000+00:00</updated>
+    <content>&lt;ul&gt;&lt;li&gt;&lt;p&gt;Nova tropa de torre: Cozinheiro Real&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Pass Royale com um ciclo da sorte melhor a partir da próxima temporada&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mais personalizações nos cubos da sorte&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Goblins Bebês removidos&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
+&lt;h1&gt;Nova tropa de torre: Cozinheiro Real&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6g6wqpU9gYGnYMZg03YGkL/f1b624e2d22a878ca0ed44e09360f9f9/Royal_chef_card_frame_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;A primeiríssima tropa de torre ofensiva está chegando ao Clash Royale!&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;O Cozinheiro Real é uma tropa de torre lendária, disponível a partir da arena 13.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A cada 18 segundos, o Cozinheiro Real aumenta em 1 o nível da sua tropa com mais HP! A habilidade dele demora mais, até 30 segundos, para ativar durante os ataques.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A habilidade do Cozinheiro Real dá prioridade a tropas que ainda não subiram de nível e só afeta tropas com pelo menos 20% do HP total restante.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;h3&gt;&lt;b&gt;Pass Royale com um ciclo da sorte melhor&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;b&gt;A partir da temporada de janeiro&lt;/b&gt;, ganhar cubos da sorte será mais fácil do que nunca:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Assim que você concluir o passe, suas coroas vão conceder um cubo da sorte extra por dia.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Dependendo da duração da temporada, você pode desbloquear entre 28 e 35 cubos da sorte no total.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Eles são cumulativos. Se você terminar o passe no dia 20, terá 20 cubos da sorte para receber.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Após resgatar todos os cubos da sorte disponíveis, um cronômetro avisará quando o próximo estiver pronto para o desbloqueio.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rwj1BMutPpAaocEjUjofc/8661aab2e21b7541bf69b4a008e4c879/luckyloop.png?w=512&amp;h=233&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;
+&lt;h1&gt;Mais personalizações nos cubos da sorte &lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7Aj2hVWYQOkre34sawhIjt/1360d32082232e085d093c0bf56e836c/emoji_Hogrider_heart.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Agora você pode desbloquear ainda mais recompensas de personalização nos cubos da sorte!&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Adeus, Goblins Bebês!&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5JYGureRdHw0rTLFeQM3wg/51c0182b4145c3fe05f0247ae4619b41/BabyGoblinsCard.webp?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Agora que não há mais Rainha Goblin na Arena, chegou a hora de dizer adeus aos Goblins Bebês.&lt;/p&gt;
+&lt;p&gt;Mas não se preocupe! Você receberá uma compensação pelo ouro e pelos curingas de elite usados para aumentar o nível deles!&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Melhorias e Correções de bugs&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Tiramos 1 tarefa e consolidamos recompensas de coroas, de modo que agora você só tem 4 tarefas em vez de 5.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Você agora receberá uma notificação quando estiver perto de perder a série de tarefas diárias.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Melhoramos o tutorial de entrega de cartas. Fizemos alguns ajustes visuais e otimizações no backend para melhorar a experiência e prepará-la para atualizações futuras.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A troca de decks agora está disponível nos modos de jogo de evento.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Adicionamos uma opção de ligar ou desligar resposta tátil ao menu de configurações.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigimos o fato de a habilidade Elo Elétrico do Goblinstein e o pacote Zap do Gigante Elétrico não terem dano menor na torre do rei.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigimos o Espelho exibindo um ponto de interrogação para ao custo de elixir.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Foi corrigido o fato de a Evo do Cavaleiro ocasionalmente receber 100% de dano ao perseguir uma tropa após o ataque.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correções diversas para a evolução do Megacavaleiro.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correções diversas para a evolução do Dragão Elétrico.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correções diversas para a evolução da Bola de Neve.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correções diversas para a evolução da Mosqueteira.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Corrigimos panes diversas.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/6LRgiiEG8lo6AqHQF5jsZL"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YJsV45LLIhkNmzt8hHDaI/b6f49d07c8936c1ea477ac8d55c72f2a/Royal_Chef_Tower_Troop_FINAL.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notas de lançamento"/>
+    <published>2024-12-16T10:00:00+00:00</published>
   </entry>
 </feed>
