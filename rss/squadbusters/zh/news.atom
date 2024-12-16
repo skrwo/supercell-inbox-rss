@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-16T08:43:05.776605+00:00</updated>
+  <updated>2024-12-16T09:38:31.067651+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -894,6 +894,16 @@
     <link href="https://youtu.be/SlxBjhAhOU0"/>
     <category term="更新說明"/>
     <published>2024-12-14T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>56xy4riPvSyNMIbLNvkmpZ</id>
+    <title>【金雄】快速了解新遊戲模式等內容！</title>
+    <updated>2024-12-16T08:59:03.784000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/56xy4riPvSyNMIbLNvkmpZ"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5GJWeN8y9Cxn9SOQOR3gFM/693958b5b5a5fc7356efb4d5c0b54c9d/tw_20241215_kaneo_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=bQyd6uSAiJw"/>
+    <category term="最新情報"/>
+    <published>2024-12-15T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>10srd1jqHAEW1EDc3WbjsP</id>
