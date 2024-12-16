@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2024-12-16T14:39:57.176306+00:00</updated>
+  <updated>2024-12-16T15:37:32.007716+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -113,5 +113,18 @@ Squad Leaders also have access to a Squad Flare. This works as a normal flare, b
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/4JbNxNvGAs59J3l2mt8xup/2dc29e1e438d01a2c9ed05e79fc8e428/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Blog"/>
     <published>2024-11-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>41mmvB0GXhIE7LY0BX54Gz</id>
+    <title>This December on Boom Beach</title>
+    <updated>2024-12-16T14:41:13.762000+00:00</updated>
+    <content>&lt;h1&gt;This December on Boom Beach&lt;/h1&gt;
+&lt;p&gt;Welcome, Commanders, to another electrifying month in Boom Beach! &lt;/p&gt;&lt;p&gt;As we sail into December, prepare to take your gameplay to the next level. This month is packed with thrilling events and opportunities to showcase your skills on the battlefield.
+
+1 - 3: Cryoneer &amp;amp; Warrior Mania: Unleash the ice-cold precision of Cryoneers paired with the swift strikes of Warriors for a dynamic combo!&lt;/p&gt;&lt;p&gt;2 - 8: Leader Event: Step into the spotlight and lead your forces to victory in this special event!&lt;/p&gt;&lt;p&gt;4 - 6: Scorcher &amp;amp; Zooka Mania: Combine the blazing fury of Scorchers with the explosive power of Zookas for an unstoppable force.&lt;/p&gt;&lt;p&gt;7 - 9: Laser Ranger &amp;amp; Bombardier Mania: Engage in high-tech warfare with Laser Rangers and Bombardiers delivering devastating precision strikes!&lt;/p&gt;&lt;p&gt;9 - 15: Heavy Choppa: Take command of the Heavy Choppa, a powerful troop transporter, and dominate the battlefield.&lt;/p&gt;&lt;p&gt;10 - 12: Heavy &amp;amp; Tank Mania: Deploy the ultimate combination of resilience and firepower with Heavies and Tanks leading your charge.&lt;/p&gt;&lt;p&gt;13 - 15: Mech &amp;amp; Medic Mania: Pair the robust Mech with the life-saving Medics to create an unbreakable force of destruction and survival.&lt;/p&gt;&lt;p&gt;16 - 18: Crystal Critters: Enhance your strategies with Crystal Critters, adding a touch of magic to protect and empower your troops.&lt;/p&gt;&lt;p&gt;20 - 26: Rain Maker: Experience the unmatched range and firepower of the Rain Maker, a unique blend of Tank and Mortar that reigns supreme!&lt;/p&gt;&lt;p&gt;20 - 30: All Troop Mania: It’s an all-out war! Every troop type is supercharged for maximum mayhem. Let the chaos ensue!&lt;/p&gt;&lt;p&gt;20 - 26: GBA Week: Gear up your Gunboat Abilities (GBA) for a week of explosive tactical fun! The rotation (in order): Speed Serum, Tiny Shock, Remote Hack, Remote Defib, Cryo Bomb, Crystal Shield, Super Warrior.&lt;/p&gt;&lt;p&gt;27 - 29: Fireworks Crab: Get ready for a dazzling display of power and strategy in this special edition of Mega Crab.&lt;/p&gt;&lt;p&gt;30 - Jan 19: Warships Season 69: Chart your course for glory in the newest season of Warships, featuring fresh challenges and exclusive rewards!&lt;/p&gt;</content>
+    <link href="https://boombeach.inbox.supercell.com/#/en/news/41mmvB0GXhIE7LY0BX54Gz"/>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/vdwNHhmYPY385LIFZP9Ww/1c43c6116f7cac255af568ca238d6e3f/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
+    <category term="Blog"/>
+    <published>2024-12-01T00:00:00+00:00</published>
   </entry>
 </feed>
