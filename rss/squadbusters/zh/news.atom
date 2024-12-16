@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-16T13:00:16.778597+00:00</updated>
+  <updated>2024-12-16T13:41:35.785780+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -926,7 +926,7 @@
 &lt;h1&gt;決鬥&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1vGdYUdFBzCJ0ipFqj1b7i/514d11cff3ae0d026681d04119cce04c/SHOWDOWNbig.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
 &lt;p&gt;&lt;b&gt;決鬥是全新的5人遊戲模式，玩家的目標是成為堅持到最後的突擊隊。&lt;/b&gt;組建最強大的突擊隊，淘汰其他玩家，贏得對戰勝利！&lt;/p&gt;
-&lt;h3&gt;&lt;b&gt;決鬥的主要特點&lt;/b&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;地圖中心的金幣礦井可以讓你快速獲得金幣&lt;/b&gt;，但要小心其他人可能也對它虎視眈眈！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;地圖上會出現超級藥水&lt;/b&gt;，拾取後可立即獲得加成效果，包括治療突擊隊和暫時的速度提升、攻擊強化和傷害減免。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;突擊隊上方會有一個突擊隊生命值條&lt;/b&gt;，以及一個代表目前突擊隊角色總數的數字。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;淘汰其他玩家帶來的收益前所未有的高&lt;/b&gt;！擊殺角色可以獲得大量金幣。你淘汰的突擊隊規模越大，可獲得的金幣就越多！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;金色箱子取代了藍色箱子&lt;/b&gt;，打破後可以為你提供一些金幣，而不是渦輪。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;寶箱的刷新速度更快，升級到更高稀有度的時間更短&lt;/b&gt;，讓玩家可以更快地組建突擊隊。隨著對戰的進行，寶箱的最低費用也會上升，如果發現自己的金幣不夠，記得找找隨機出現的免費寶箱！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;藤蔓生長的方向更難預測&lt;/b&gt;，每場對戰都會向不同的位置迅速生長逼近。時間太久的話，憤怒藤蔓就會覆蓋整個地圖，要小心！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;該模式&lt;b&gt;暫不適用於派對&lt;/b&gt;。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;寶箱中不會開出商人和幻影刺客。&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;決鬥中不會出現以下對戰隨機事件：&lt;/b&gt;打地鼠、史詩狂潮、憤怒藤蔓、超時出局、寶石狂潮、1金幣寶箱、戒指爭奪戰、寶石魔鍋、水晶森林、小雞隊長、戰利品機器。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;主要特點&lt;/b&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;地圖中心的金幣礦井可以讓你快速獲得金幣&lt;/b&gt;，但要小心其他人可能也對它虎視眈眈！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;地圖上會出現超級藥水&lt;/b&gt;，拾取後可立即獲得加成效果，包括治療突擊隊和暫時的速度提升、攻擊強化和傷害減免。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;突擊隊上方會有一個突擊隊生命值條&lt;/b&gt;，以及一個代表目前突擊隊角色總數的數字。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;淘汰其他玩家帶來的收益前所未有的高&lt;/b&gt;！擊殺角色可以獲得大量金幣。你淘汰的突擊隊規模越大，可獲得的金幣就越多！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;金色箱子取代了藍色箱子&lt;/b&gt;，打破後可以為你提供一些金幣，而不是渦輪。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;寶箱的刷新速度更快，升級到更高稀有度的時間更短&lt;/b&gt;，讓玩家可以更快地組建突擊隊。隨著對戰的進行，寶箱的最低費用也會上升，如果發現自己的金幣不夠，記得找找隨機出現的免費寶箱！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;藤蔓生長的方向更難預測&lt;/b&gt;，每場對戰都會向不同的位置迅速生長逼近。時間太久的話，憤怒藤蔓就會覆蓋整個地圖，要小心！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;該模式&lt;b&gt;暫不適用於派對&lt;/b&gt;。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;寶箱中不會開出商人和幻影刺客。&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;決鬥中不會出現以下對戰隨機事件：&lt;/b&gt;打地鼠、史詩狂潮、憤怒藤蔓、超時出局、寶石狂潮、1金幣寶箱、戒指爭奪戰、寶石魔鍋、水晶森林、小雞隊長、戰利品機器。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;雙人寶石大作戰&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/vTYnfRBJwovvru5KO23Ub/5bcfd2d8a48657706343bffa919b6f61/DUObig.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
 &lt;p&gt;&lt;b&gt;雙人寶石大作戰的核心是與你的隊友一起收集寶石！&lt;/b&gt;你可以和好友組隊，也可以配對一位隨機玩家，與另外三支突擊隊較量，看看誰能收集最多的寶石！&lt;/p&gt;

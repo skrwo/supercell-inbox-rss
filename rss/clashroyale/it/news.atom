@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-16T13:00:05.130721+00:00</updated>
+  <updated>2024-12-16T13:41:28.345239+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -424,9 +424,19 @@ Vinci una provocazione esclusiva!&lt;/p&gt;
     <published>2024-12-02T08:00:00+00:00</published>
   </entry>
   <entry>
+    <id>4vavETbHCy3PIG5VxYI4LL</id>
+    <title>Palla di neve gigante evoluta</title>
+    <updated>2024-12-16T13:18:32.558000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/4vavETbHCy3PIG5VxYI4LL"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vllrawI6A76Ree9t9V5bZ/cc41828dec6a9e1845aba4e7d8d26dbf/giantsnowball_in-game.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/shorts/rUmgdnqw8RE"/>
+    <category term="Notizie"/>
+    <published>2024-12-13T15:10:05+00:00</published>
+  </entry>
+  <entry>
     <id>6LRgiiEG8lo6AqHQF5jsZL</id>
     <title>Lo chef reale, la nuova truppa delle torri</title>
-    <updated>2024-12-16T10:50:00.016000+00:00</updated>
+    <updated>2024-12-16T13:19:12.559000+00:00</updated>
     <content>&lt;ul&gt;&lt;li&gt;&lt;p&gt;Arriva la nuova truppa delle torri, lo chef reale!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo migliorato la meccanica del ciclo fortunato per la prossima stagione del Pass Royale.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;I premi fortunati danno più personalizzazioni di prima!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;I marmocchi goblin spariranno dal gioco.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
 &lt;h1&gt;La nuova truppa delle torri: lo chef reale&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6g6wqpU9gYGnYMZg03YGkL/f1b624e2d22a878ca0ed44e09360f9f9/Royal_chef_card_frame_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
@@ -441,7 +451,8 @@ Vinci una provocazione esclusiva!&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5JYGureRdHw0rTLFeQM3wg/51c0182b4145c3fe05f0247ae4619b41/BabyGoblinsCard.webp?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;Dopo aver dovuto salutare la regina goblin, ora è il turno dei marmocchi goblin.&lt;/p&gt;
 &lt;p&gt;Non preoccuparti, però, perché ti rimborseremo per tutte le monete d&amp;#39;oro e i jolly élite che hai usato per migliorarli!&lt;/p&gt;&lt;hr/&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Gli incarichi giornalieri ora sono quattro e non più cinque e le corone in palio sono state ridistribuite di conseguenza.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Inoltre, ora riceverai un avviso ogni volta che stai per interrompere la serie di incarichi completati di fila.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo migliorato i tutorial che introducono l&amp;#39;arrivo di nuove carte, in particolare, migliorando leggermente l&amp;#39;aspetto grafico e il back-end della funzionalità, per renderla più utile e adatta agli aggiornamenti futuri.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ora è possibile passare da uno dei propri mazzi a un altro anche per le modalità disponibili nel menu degli eventi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo aggiunto la possibilità di attivare o disattivare l&amp;#39;interfaccia aptica dalle impostazioni.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo corretto l&amp;#39;errore per cui l&amp;#39;abilità &amp;quot;Legame elettrizzante&amp;quot; di Goblinstein e l&amp;#39;elettrizzatore da spalla del gigante elettrico non causavano una quantità di danni ridotta alla torre del re.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto l&amp;#39;errore per cui lo Specchio mostrava un punto di domanda, al posto del suo costo in elisir.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto vari errori relativi al gran cavaliere evoluto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto vari errori relativi al drago elettrico evoluto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto vari errori relativi alla Palla di neve evoluta.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto vari errori relativi al moschettiere evoluto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo corretto diversi arresti anomali del gioco.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+&lt;h1&gt;Modifiche e correzione di errori&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Gli incarichi giornalieri ora sono quattro e non più cinque e le corone in palio sono state ridistribuite di conseguenza.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Inoltre, ora riceverai un avviso ogni volta che stai per interrompere la serie di incarichi completati di fila.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo migliorato i tutorial che introducono l&amp;#39;arrivo di nuove carte, in particolare, migliorando leggermente l&amp;#39;aspetto grafico e il back-end della funzionalità, per renderla più utile e adatta agli aggiornamenti futuri.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ora è possibile passare da uno dei propri mazzi a un altro anche per le modalità disponibili nel menu degli eventi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo aggiunto la possibilità di attivare o disattivare l&amp;#39;interfaccia aptica dalle impostazioni.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo corretto l&amp;#39;errore per cui l&amp;#39;abilità &amp;quot;Legame elettrizzante&amp;quot; di Goblinstein e l&amp;#39;elettrizzatore da spalla del gigante elettrico non causavano una quantità di danni ridotta alla torre del re.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto il problema per cui il cavaliere evoluto occasionalmente subiva il 100% di danni mentre inseguiva una truppa dopo aver attaccato.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto l&amp;#39;errore per cui lo Specchio mostrava un punto di domanda, al posto del suo costo in elisir.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto vari errori relativi al gran cavaliere evoluto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto vari errori relativi al drago elettrico evoluto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto vari errori relativi alla Palla di neve evoluta.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo risolto vari errori relativi al moschettiere evoluto.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Abbiamo corretto diversi arresti anomali del gioco.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/it/news/6LRgiiEG8lo6AqHQF5jsZL"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YJsV45LLIhkNmzt8hHDaI/b6f49d07c8936c1ea477ac8d55c72f2a/Royal_Chef_Tower_Troop_FINAL.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Note di rilascio"/>

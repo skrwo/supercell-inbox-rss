@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-16T13:00:05.591656+00:00</updated>
+  <updated>2024-12-16T13:41:25.006246+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -282,9 +282,19 @@ Gewinne ein exklusives Emote!&lt;/p&gt;
     <published>2024-12-02T08:00:00+00:00</published>
   </entry>
   <entry>
+    <id>4vavETbHCy3PIG5VxYI4LL</id>
+    <title>Schneeball-Entwicklung</title>
+    <updated>2024-12-16T13:18:32.558000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/4vavETbHCy3PIG5VxYI4LL"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vllrawI6A76Ree9t9V5bZ/cc41828dec6a9e1845aba4e7d8d26dbf/giantsnowball_in-game.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/shorts/rUmgdnqw8RE"/>
+    <category term="News"/>
+    <published>2024-12-13T15:10:05+00:00</published>
+  </entry>
+  <entry>
     <id>6LRgiiEG8lo6AqHQF5jsZL</id>
     <title>Spielupdate – Neue Turmtruppe: Königskoch!</title>
-    <updated>2024-12-16T10:50:00.016000+00:00</updated>
+    <updated>2024-12-16T13:19:12.559000+00:00</updated>
     <content>&lt;ul&gt;&lt;li&gt;&lt;p&gt;Neue Turmtruppe: Königskoch&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Pass Royale mit verbesserter Glücksschleife ab nächster Saison&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mehr Designgegenstände in Glücksboxen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Koboldbabys werden entfernt&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;
 &lt;h1&gt;Neue Turmtruppe: Königskoch&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6g6wqpU9gYGnYMZg03YGkL/f1b624e2d22a878ca0ed44e09360f9f9/Royal_chef_card_frame_alpha.png?w=400&amp;h=450&amp;f=center"&gt;
