@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2024-12-17T07:33:18.119104+00:00</updated>
+  <updated>2024-12-17T08:42:19.933222+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -304,5 +304,22 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="活動"/>
     <published>2024-12-15T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>XDH2tKqQb3wXHEYcDn9CO</id>
+    <title>投票選出最棒的農場區域！</title>
+    <updated>2024-12-17T08:26:39.604000+00:00</updated>
+    <content>&lt;p&gt;以下是Supercell Make上得票排名前三的農場區域：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fmake.supercell.com%252Fen%252Fcreation%252Fcozy-christmas-farm-airport')"&gt;Cozy Christmas Farm Airport&lt;/a&gt;（舒適聖誕農場機場）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fmake.supercell.com%252Fen%252Fcreation%252Fyochais-winter-wonderland')"&gt;Yochai’s Winter Wonderland&lt;/a&gt;（Yochai的冬日奇境）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fmake.supercell.com%252Fen%252Fcreation%252Fsnowy-winter-park')"&gt;Snowy Winter Park&lt;/a&gt;（冬日雪景公園）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;誰設計了最棒的冬季農場區域？&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Christmas Farm Airport（聖誕農場機場）&lt;/p&gt;&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6ZvSH1zrOWTJKahGzV9JPj/98f56d8bee81eed9ad3d45e91a010cce/vote12.png?w=300&amp;h=400&amp;f=center&amp;fit=pad"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Winter Wonderland（冬日奇境）&lt;/p&gt;&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/2qew3t2Yq7XxvgouyVJsvT/30e9021b74ffebc45e4f4f68e8516549/vote22.png?w=300&amp;h=400&amp;f=center&amp;fit=pad"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Snowy Winter Park（冬日雪景公園）&lt;/p&gt;&lt;img src="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7KMaxS1n54BV4gRgjorXh1/84f34b5acf0485b0187647746e8c0918/vote23.png?w=300&amp;h=400&amp;f=center&amp;fit=pad"&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/zh/news/XDH2tKqQb3wXHEYcDn9CO"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4uxsDXIfXPff5UYq44YbzU/4ae988c9e8a37b32f6d326fce82c9fe1/supercellmake.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="社群"/>
+    <published>2024-12-17T08:26:39+00:00</published>
   </entry>
 </feed>
