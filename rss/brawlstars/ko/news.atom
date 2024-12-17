@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-17T05:38:01.969332+00:00</updated>
+  <updated>2024-12-17T06:44:09.020215+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -375,5 +375,15 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <link href="https://youtu.be/hZZpGe0e3_Q"/>
     <category term="커뮤니티"/>
     <published>2024-12-12T06:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>24X4QvPmxU0DS2EetdztTz</id>
+    <title>[브롤스타즈 X 포토이즘] 지금 이 순간을 브롤스타즈와 함께! 📸</title>
+    <updated>2024-12-17T06:28:47.091000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/24X4QvPmxU0DS2EetdztTz"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3EqqA3Vo6KMJvm7ChsqloN/eb4583b3510e604316ebb6b60367e03a/IMG_1896.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.instagram.com/p/DDqywN_B4KG/?img_index=1"/>
+    <category term="뉴스"/>
+    <published>2024-12-17T06:28:47+00:00</published>
   </entry>
 </feed>
