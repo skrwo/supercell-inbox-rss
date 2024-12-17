@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-17T04:40:08.977992+00:00</updated>
+  <updated>2024-12-17T05:38:11.407963+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -611,7 +611,7 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
   <entry>
     <id>2dbeQSx4qenVAmrdN1aY9b</id>
     <title>12월 업데이트 노트! </title>
-    <updated>2024-12-16T10:55:48.531000+00:00</updated>
+    <updated>2024-12-17T05:25:19.222000+00:00</updated>
     <content>&lt;h1&gt;12월 업데이트가 찾아왔습니다!&lt;/h1&gt;
 &lt;p&gt;연말을 화려하게 장식할 대규모 업데이트가 스쿼드 버스터즈에 찾아왔습니다!&lt;/p&gt;&lt;p&gt;마지막까지 생존한 스쿼드만이 승리하는 &lt;b&gt;쇼다운&lt;/b&gt;,&lt;b&gt; &lt;/b&gt;친구와 함께 플레이할 수 있는 &lt;b&gt;듀오 보석 쟁탈전&lt;/b&gt;,&lt;b&gt; &lt;/b&gt;캐릭터 라인업을 직접 구성해서 트로피를 놓고 치열하게 랭킹 경쟁을 펼치는 &lt;b&gt;스쿼드 리그&lt;/b&gt;까지?!
 
@@ -648,7 +648,7 @@ QR 코드가 더 많이 사용될수록, 추가 보상을 받을 수 있는 인�
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/y94K3Fp1JpTvHYQsDnLkt/4d53b3a5a00aade860bfb639f1b96214/gift_300.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
 &lt;p&gt;&lt;b&gt;이제 전투에서 승리하면 일일 승리 횟수에 따라 새로운 보상인 &amp;#39;일일 승리 보상&amp;#39;을 받을 수 있습니다!&lt;/b&gt;&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;일일 승리 보상은 전투 시작 버튼 상단에서 확인할 수 있습니다&lt;/b&gt;. 하루 최대 6승까지 누적되며 2승, 4승, 6승 시 보상을 받을 수 있습니다. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;승리 기준은 플레이한 게임 모드에 따라 약간의 차이가 있습니다.&lt;/b&gt; 
-각 모드에서 승리로 인정되는 순위는 다음과 같습니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;솔로 보석 쟁탈전 / 스쿼드 리그 : 5위 내로 전투 마무리&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;쇼다운 : 2위 내로 전투 마무리&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;듀오 보석 쟁탈전 : 2위 내로 전투 마무리&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;전투가 끝나면 다양한 보상이 들어 있는 승리 보상을 획득합니다&lt;/b&gt;. 
+각 모드에서 승리로 인정되는 순위는 다음과 같습니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;보석 사냥 / 스쿼드 리그 : 5위 내로 전투 마무리&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;쇼다운 : 2위 내로 전투 마무리&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;듀오 보석 쟁탈전 : 2위 내로 전투 마무리&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;전투가 끝나면 다양한 보상이 들어 있는 승리 보상을 획득합니다&lt;/b&gt;. 
 선물 상자에서는 코인, 상자 배수 아이템, 스타일 티켓 그리고 스타 토큰도 나올 수 있죠.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;현재 일일 첫 승리 보상으로 받는 포털 에너지는 그대로 유지됩니다!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;일일 승리 보상과 진행도는 24시간마다 초기화됩니다.&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;상자 티켓 삭제&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2Ddh1cvfLYHztlcjkodwgi/c2fac82220803f89b82d74826c6b1862/chest_refill.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
