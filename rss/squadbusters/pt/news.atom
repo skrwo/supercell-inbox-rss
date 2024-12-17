@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-17T14:40:16.513766+00:00</updated>
+  <updated>2024-12-17T15:37:29.617781+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -489,7 +489,7 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
   <entry>
     <id>46grBBNNbC2kR5WWBRL6lt</id>
     <title>Atualização de SQUAD: modos de jogo, Natal do Squad e planos para 2025! </title>
-    <updated>2024-12-15T05:53:19.506000+00:00</updated>
+    <updated>2024-12-17T15:35:12.214000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/pt/news/46grBBNNbC2kR5WWBRL6lt"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5Xk0rf5W3nMiIfk4iTXkII/4cfe7b49a1a1ec678bf81f283f450b2d/DEC_Update_16x9-NO-LOGO_less2mb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/SlxBjhAhOU0"/>
@@ -550,5 +550,28 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/64qOss6pDUNn22CZpZErNn/ce287885dfb43abd499f24f94eaa2626/Christmas_Feature_Art_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Novidades do jogo"/>
     <published>2024-12-16T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>71W6L6i1QkPtrVHpa0DSey</id>
+    <title>Funcionamento das recompensas de fim de batalha</title>
+    <updated>2024-12-17T15:28:47.605000+00:00</updated>
+    <content>&lt;p&gt;Com a introdução dos novos modos de jogo, agora as recompensas recebidas no fim da batalha dependem do modo em que você joga e da sua posição.&lt;/p&gt;&lt;p&gt;Descubra nas tabelas a seguir como a sua posição em cada modo de jogo determina as suas chances de ganhar &lt;b&gt;baús, toques de baús, energia de portal, gemas&lt;/b&gt; e &lt;b&gt;troféus&lt;/b&gt;!&lt;/p&gt;
+&lt;h1&gt;CAÇA-GEMAS&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4nqEiAMTbLxaqZTdUeDWIi/a28df3e78417ba43df046587c92db254/1.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;CAÇA-GEMAS EM DUPLAS&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1EtFpEGNCSicgyMESwLlDq/edaaa7919f5bf6aaa04ddc0b93265dc8/2.png?w=1500&amp;h=925&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;CONFRONTO&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3zVmCHUeRM8kZ0viInPDSo/8b2081c55933337eac5624aee594f78a/3.png?w=1500&amp;h=1024&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;LIGA DO ESQUADRÃO&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5arsdJA0PsVaJYhl7PJsgd/4a5e362229c57b81a1aa665835bb1ef5/4.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Lembre-se de que as vitórias também ajudam a progredir no caminho de prêmios diários!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/71W6L6i1QkPtrVHpa0DSey"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3VyrHQ5HGX71xDADtDfksC/65efaa37de3b2ea35fc10cd174a2eb37/Inbox_Dec_CoverImg_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Novidades do jogo"/>
+    <published>2024-12-17T09:00:00+00:00</published>
   </entry>
 </feed>

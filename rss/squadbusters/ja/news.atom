@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-17T14:40:21.111155+00:00</updated>
+  <updated>2024-12-17T15:37:29.668588+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1139,7 +1139,7 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
   <entry>
     <id>46grBBNNbC2kR5WWBRL6lt</id>
     <title>スクアプ：ゲームモード、スクワッドマス、2025年の展望！</title>
-    <updated>2024-12-15T05:53:19.506000+00:00</updated>
+    <updated>2024-12-17T15:35:12.214000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/ja/news/46grBBNNbC2kR5WWBRL6lt"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5Xk0rf5W3nMiIfk4iTXkII/4cfe7b49a1a1ec678bf81f283f450b2d/DEC_Update_16x9-NO-LOGO_less2mb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/SlxBjhAhOU0"/>
@@ -1217,5 +1217,28 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/64qOss6pDUNn22CZpZErNn/ce287885dfb43abd499f24f94eaa2626/Christmas_Feature_Art_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="アップデート"/>
     <published>2024-12-16T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>71W6L6i1QkPtrVHpa0DSey</id>
+    <title>バトル終了時の報酬を解説！</title>
+    <updated>2024-12-17T15:28:47.605000+00:00</updated>
+    <content>&lt;p&gt;新ゲームモードの実装に伴い、今後はプレイしたモードと順位によってバトル後の報酬が変わります。&lt;/p&gt;&lt;p&gt;報酬を以下の表でチェックしましょう！ゲームモードと順位に応じて、獲得できる&lt;b&gt;宝箱、宝箱のタップ数、ポータルエネルギー、エメラルド&lt;/b&gt;、そして&lt;b&gt;トロフィー&lt;/b&gt;が変動します！&lt;/p&gt;
+&lt;h1&gt;エメラルドハント&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4nqEiAMTbLxaqZTdUeDWIi/a28df3e78417ba43df046587c92db254/1.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;デュオ エメラルドハント&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1EtFpEGNCSicgyMESwLlDq/edaaa7919f5bf6aaa04ddc0b93265dc8/2.png?w=1500&amp;h=925&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;バトルロイヤル&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3zVmCHUeRM8kZ0viInPDSo/8b2081c55933337eac5624aee594f78a/3.png?w=1500&amp;h=1024&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;スクワッドリーグ&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5arsdJA0PsVaJYhl7PJsgd/4a5e362229c57b81a1aa665835bb1ef5/4.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;バトルの勝利数に応じたデイリー報酬もありますよ！&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/71W6L6i1QkPtrVHpa0DSey"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3VyrHQ5HGX71xDADtDfksC/65efaa37de3b2ea35fc10cd174a2eb37/Inbox_Dec_CoverImg_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="アップデート"/>
+    <published>2024-12-17T09:00:00+00:00</published>
   </entry>
 </feed>

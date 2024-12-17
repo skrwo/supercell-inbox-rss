@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-17T14:40:19.675220+00:00</updated>
+  <updated>2024-12-17T15:37:29.731600+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -888,7 +888,7 @@
   <entry>
     <id>46grBBNNbC2kR5WWBRL6lt</id>
     <title>突擊搶先報：全新遊戲模式、Squad聖誕節還有對於2025的願景!</title>
-    <updated>2024-12-15T05:53:19.506000+00:00</updated>
+    <updated>2024-12-17T15:35:12.214000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/zh/news/46grBBNNbC2kR5WWBRL6lt"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5Xk0rf5W3nMiIfk4iTXkII/4cfe7b49a1a1ec678bf81f283f450b2d/DEC_Update_16x9-NO-LOGO_less2mb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/SlxBjhAhOU0"/>
@@ -969,5 +969,28 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/383aAbfNdHAyqZy1Fp7oJT/27e3743a9d1e231765fc6485ad4f5fb3/Christmas_Feature_Art_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="更新說明"/>
     <published>2024-12-16T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>71W6L6i1QkPtrVHpa0DSey</id>
+    <title>對戰結算獎勵詳解！</title>
+    <updated>2024-12-17T15:28:47.605000+00:00</updated>
+    <content>&lt;p&gt;隨著新遊戲模式的推出，你在對戰後獲得的獎勵將取決於你玩的模式和你的對戰排名。&lt;/p&gt;&lt;p&gt;查看下方表格，了解你在每種遊戲模式中的排名如何決定以下獎勵：&lt;b&gt;寶箱、寶箱點擊次數、傳送能量、寶石和獎盃！&lt;/b&gt;&lt;/p&gt;
+&lt;h1&gt;寶石大作戰&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4nqEiAMTbLxaqZTdUeDWIi/a28df3e78417ba43df046587c92db254/1.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;雙人寶石大作戰&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1EtFpEGNCSicgyMESwLlDq/edaaa7919f5bf6aaa04ddc0b93265dc8/2.png?w=1500&amp;h=925&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;決鬥&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3zVmCHUeRM8kZ0viInPDSo/8b2081c55933337eac5624aee594f78a/3.png?w=1500&amp;h=1024&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;突擊隊聯賽&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5arsdJA0PsVaJYhl7PJsgd/4a5e362229c57b81a1aa665835bb1ef5/4.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;請注意：獲得勝場還會推進你的每日獎勵進度！&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/71W6L6i1QkPtrVHpa0DSey"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3VyrHQ5HGX71xDADtDfksC/65efaa37de3b2ea35fc10cd174a2eb37/Inbox_Dec_CoverImg_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="更新說明"/>
+    <published>2024-12-17T09:00:00+00:00</published>
   </entry>
 </feed>

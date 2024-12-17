@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>squadbusters-newsEntries-tr</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-17T14:40:20.621332+00:00</updated>
+  <updated>2024-12-17T15:37:29.487256+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -491,7 +491,7 @@ Etkinlik sona ermeden önce takım ligine ulaşırsanız dükkandan ödülünüz
   <entry>
     <id>46grBBNNbC2kR5WWBRL6lt</id>
     <title>Squad Güncel: Oyun modları, Squadmas ve 2025 planları! </title>
-    <updated>2024-12-15T05:53:19.506000+00:00</updated>
+    <updated>2024-12-17T15:35:12.214000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/tr/news/46grBBNNbC2kR5WWBRL6lt"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5Xk0rf5W3nMiIfk4iTXkII/4cfe7b49a1a1ec678bf81f283f450b2d/DEC_Update_16x9-NO-LOGO_less2mb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/SlxBjhAhOU0"/>
@@ -552,5 +552,28 @@ Etkinlik sona ermeden önce takım ligine ulaşırsanız dükkandan ödülünüz
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/64qOss6pDUNn22CZpZErNn/ce287885dfb43abd499f24f94eaa2626/Christmas_Feature_Art_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Oyun Güncellemeleri"/>
     <published>2024-12-16T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>71W6L6i1QkPtrVHpa0DSey</id>
+    <title>Savaş Sonu Ödülleri Açıklaması!</title>
+    <updated>2024-12-17T15:28:47.605000+00:00</updated>
+    <content>&lt;p&gt;Yeni oyun modlarının gelmesiyle maçlardan sonra kazandığınız ödüller artık oynadığınız moda ve bitirme sıranıza bağlı olacak.&lt;/p&gt;&lt;p&gt;Her bir oyun modundaki bitirme sıranıza göre hangi ödülleri (&lt;b&gt;sandık, sandık dokunuşu, portal enerjisi, elmas&lt;/b&gt; ve &lt;b&gt;kupa&lt;/b&gt;) alacağınızı görmek için aşağıdaki tablolara göz atın!&lt;/p&gt;
+&lt;h1&gt;ELMAS AVI&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4nqEiAMTbLxaqZTdUeDWIi/a28df3e78417ba43df046587c92db254/1.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;İKİLİ ELMAS AVI&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1EtFpEGNCSicgyMESwLlDq/edaaa7919f5bf6aaa04ddc0b93265dc8/2.png?w=1500&amp;h=925&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;HESAPLAŞMA&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3zVmCHUeRM8kZ0viInPDSo/8b2081c55933337eac5624aee594f78a/3.png?w=1500&amp;h=1024&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;TAKIM LİGİ&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5arsdJA0PsVaJYhl7PJsgd/4a5e362229c57b81a1aa665835bb1ef5/4.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Unutmayın, zaferler günlük ödül yolundaki ilerlemenize de katkı sağlar!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/tr/news/71W6L6i1QkPtrVHpa0DSey"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3VyrHQ5HGX71xDADtDfksC/65efaa37de3b2ea35fc10cd174a2eb37/Inbox_Dec_CoverImg_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Oyun Güncellemeleri"/>
+    <published>2024-12-17T09:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>squadbusters-newsEntries-it</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-17T14:40:19.188003+00:00</updated>
+  <updated>2024-12-17T15:37:29.196919+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -488,7 +488,7 @@ Se raggiungi la Lega delle squadre prima della fine dell&amp;#39;evento, ci sar�
   <entry>
     <id>46grBBNNbC2kR5WWBRL6lt</id>
     <title>Squaggiornamento - Le modalità, le feste e i piani per il 2025 </title>
-    <updated>2024-12-15T05:53:19.506000+00:00</updated>
+    <updated>2024-12-17T15:35:12.214000+00:00</updated>
     <link href="https://squadbusters.inbox.supercell.com/#/it/news/46grBBNNbC2kR5WWBRL6lt"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5Xk0rf5W3nMiIfk4iTXkII/4cfe7b49a1a1ec678bf81f283f450b2d/DEC_Update_16x9-NO-LOGO_less2mb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/SlxBjhAhOU0"/>
@@ -549,5 +549,28 @@ Se raggiungi la Lega delle squadre prima della fine dell&amp;#39;evento, ci sar�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/64qOss6pDUNn22CZpZErNn/ce287885dfb43abd499f24f94eaa2626/Christmas_Feature_Art_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Aggiornamenti"/>
     <published>2024-12-16T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>71W6L6i1QkPtrVHpa0DSey</id>
+    <title>Come funzionano le ricompense di fine battaglia</title>
+    <updated>2024-12-17T15:28:47.605000+00:00</updated>
+    <content>&lt;p&gt;In seguito all&amp;#39;introduzione di nuove modalità di gioco, le ricompense ottenibili alla fine di uno scontro dipenderanno dal piazzamento ottenuto al termine di esso e dalla modalità scelta.&lt;/p&gt;&lt;p&gt;Controlla qui sotto le tabelle che illustrano per ciascuna modalità i piazzamenti richiesti per ottenere le seguenti ricompense: &lt;b&gt;bauli, tocchi dei bauli, unità di energia dei portali, gemme&lt;/b&gt; e &lt;b&gt;trofei&lt;/b&gt;!&lt;/p&gt;
+&lt;h1&gt;CACCIA ALLE GEMME&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4nqEiAMTbLxaqZTdUeDWIi/a28df3e78417ba43df046587c92db254/1.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;CACCIA ALLE GEMME IN DUE&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1EtFpEGNCSicgyMESwLlDq/edaaa7919f5bf6aaa04ddc0b93265dc8/2.png?w=1500&amp;h=925&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;SOPRAVVIVENZA&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3zVmCHUeRM8kZ0viInPDSo/8b2081c55933337eac5624aee594f78a/3.png?w=1500&amp;h=1024&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;LEGA DELLE SQUADRE&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5arsdJA0PsVaJYhl7PJsgd/4a5e362229c57b81a1aa665835bb1ef5/4.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Ricorda che le vittorie che ottieni ti permetteranno di avanzare lungo il percorso dei premi giornalieri!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/it/news/71W6L6i1QkPtrVHpa0DSey"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3VyrHQ5HGX71xDADtDfksC/65efaa37de3b2ea35fc10cd174a2eb37/Inbox_Dec_CoverImg_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Aggiornamenti"/>
+    <published>2024-12-17T09:00:00+00:00</published>
   </entry>
 </feed>
