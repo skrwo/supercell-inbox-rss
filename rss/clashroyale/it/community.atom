@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-communityEntries-it</id>
   <title>Clashroyale - Community</title>
-  <updated>2024-12-17T23:30:44.289423+00:00</updated>
+  <updated>2024-12-18T02:02:57.061835+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Community</subtitle>
   <entry>
     <id>5WZi7PmNUffHE0h8zfeVP3</id>
     <title>EGOLEM DI CICCIOGAMER CON DRAGO EVO E GOBLINSTEIN!</title>
-    <updated>2024-12-17T23:30:44.289654+00:00</updated>
+    <updated>2024-12-18T02:02:57.062109+00:00</updated>
     <author>
       <name>DavideRooney</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>7L6wwNlRqUQVCC4pFPasBZ</id>
     <title>COME GIOCARE PERFETTAMENTE HOG 2.6 ...PRO TIPS FONDAMENTALI!</title>
-    <updated>2024-12-17T23:30:44.289599+00:00</updated>
+    <updated>2024-12-18T02:02:57.062065+00:00</updated>
     <author>
       <name>DavideRooney</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>4yk85SaBzR47OkSL7ERict</id>
     <title>PROVIAMO IL CANNONE EVO NEL 2.6 HOG CON MOSK EVO!</title>
-    <updated>2024-12-17T23:30:44.289540+00:00</updated>
+    <updated>2024-12-18T02:02:57.062013+00:00</updated>
     <author>
       <name>DavideRooney</name>
     </author>
@@ -42,12 +42,23 @@
   <entry>
     <id>1lQNwrtSd9G9jkQTEcyyC3</id>
     <title>TOP 1 ITALIA CON GIGANTE ROYALE...DECK RINATO!</title>
-    <updated>2024-12-17T23:30:44.289465+00:00</updated>
+    <updated>2024-12-18T02:02:57.061949+00:00</updated>
     <author>
       <name>DavideRooney</name>
     </author>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/cxXPkDN1Ra0soYDg6kFuo/ca0bdf6dc3b7e2b26fe25bb5075988fe/thumbnail-1733578755594?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=Hf38gTmfyD8"/>
     <published>2024-12-07T13:39:23+00:00</published>
+  </entry>
+  <entry>
+    <id>6MXe6iKoXuxCTQRUVQnLWw</id>
+    <title>LA MIA PRIMA VOLTA CON LO CHEF... LIVELLO 15 IN TOP LADDER!</title>
+    <updated>2024-12-18T02:02:57.061868+00:00</updated>
+    <author>
+      <name>DavideRooney</name>
+    </author>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/lCagaHv7VC4jhVVLnZG99/0ac6c2874853366e27501eb05ec91eb2/thumbnail-1734478780239?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=XmTLqhFLnKU"/>
+    <published>2024-12-17T23:39:47+00:00</published>
   </entry>
 </feed>
