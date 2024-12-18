@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-18T03:45:08.070914+00:00</updated>
+  <updated>2024-12-18T04:38:43.781300+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -689,10 +689,14 @@ HP, 초당 피해량뿐만 아니라 일부 캐릭터의 능력 또한 개선됩
   </entry>
   <entry>
     <id>71W6L6i1QkPtrVHpa0DSey</id>
-    <title>전투 종료 보상에 대한 설명!</title>
-    <updated>2024-12-17T16:08:12.873000+00:00</updated>
-    <content>&lt;p&gt;새로운 게임 모드가 도임됨에 따라, 이제 매치 후 받는 보상은 플레이하는 모드와 순위에 따라 달라집니다.&lt;/p&gt;&lt;p&gt;아래 표를 확인하여 각 게임 모드에서의 순위가 보상(&lt;b&gt;상자, 상자 탭, 포털 에너지, 보석,&lt;/b&gt; &lt;b&gt;트로피&lt;/b&gt;)에 어떻게 영향을 미치는지 알아보세요!&lt;/p&gt;
-&lt;h1&gt;보석 쟁탈전&lt;/h1&gt;
+    <title>전투 종료 보상에 대한 안내!</title>
+    <updated>2024-12-18T04:31:33.474000+00:00</updated>
+    <content>&lt;p&gt;신규 게임 모드가 추가되어 게임 모드 및 순위에 따라 전투 종료 후 받는 보상이 결정됩니다.
+&lt;/p&gt;&lt;p&gt;
+전투 마무리 순위는 상자, 상자 업그레이드 탭, 포털 에너지, 보석, 트로피에 영향을 줍니다.
+
+각 게임 모드에서 순위에 따라 어떤 보상을 받게 되는지 아래의 이미지를 확인해 주세요! &lt;/p&gt;
+&lt;h1&gt;보석 사냥&lt;/h1&gt;
 
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4nqEiAMTbLxaqZTdUeDWIi/a28df3e78417ba43df046587c92db254/1.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
 &lt;h1&gt;보석 쟁탈전 듀오&lt;/h1&gt;
@@ -704,7 +708,8 @@ HP, 초당 피해량뿐만 아니라 일부 캐릭터의 능력 또한 개선됩
 &lt;h1&gt;스쿼드 리그&lt;/h1&gt;
 
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5arsdJA0PsVaJYhl7PJsgd/4a5e362229c57b81a1aa665835bb1ef5/4.png?w=1500&amp;h=1500&amp;f=center&amp;fit=fill"&gt;
-&lt;p&gt;참고로 승리는 일일 보상 트랙을 진행하는 데에도 도움이 됩니다!&lt;/p&gt;</content>
+&lt;p&gt;한 가지 더!&lt;/p&gt;&lt;p&gt;
+전투에서 승리하면 일일 승리 보상을 위한 누적 횟수에 집계됩니다! &lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/ko/news/71W6L6i1QkPtrVHpa0DSey"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3VyrHQ5HGX71xDADtDfksC/65efaa37de3b2ea35fc10cd174a2eb37/Inbox_Dec_CoverImg_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="업데이트"/>
