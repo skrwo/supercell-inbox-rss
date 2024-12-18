@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2024-12-18T15:36:34.923728+00:00</updated>
+  <updated>2024-12-18T16:42:35.580909+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -212,35 +212,32 @@
   <entry>
     <id>5sB5a386Lmes1llvCMLfyZ</id>
     <title>장난감 가게 대전: 클래시마스 메달 이벤트!</title>
-    <updated>2024-12-18T09:55:55.903000+00:00</updated>
-    <content>&lt;h1&gt;이번 메달 이벤트에 관한 모든 정보를 여기에서 확인하세요!&lt;/h1&gt;
-&lt;p&gt;마을회관 6레벨 이상의 플레이어라면 이벤트 기간 동안 톱니바퀴를 모아 이벤트 트랙을 진행할 수 있습니다. 이벤트 트랙을 달성하여 장난감 메달을 획득하고 거래상이 준비한 특별한 크리스마스 선물을 만나 보세요! &lt;/p&gt;&lt;p&gt;거래상의 메달 상점에는 &lt;b&gt;로얄 챔피언의 신규 초희귀 영웅 장비인 일렉트로 부츠&lt;/b&gt;와 &lt;b&gt;슈퍼 장식품인 스노우볼&lt;/b&gt;이 준비되어 있다는 건 안 비밀입니다!&lt;/p&gt;&lt;p&gt;
-&lt;/p&gt;
-&lt;h1&gt;이벤트 일정 (KST)&lt;/h1&gt;
-&lt;p&gt;시작일 : &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;12월 11일 (수) 오후 5시&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;종료일 : &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;12월 30일 (월) 오후 5시&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;거래상 메달 상점과 이벤트 건물은 이벤트 종료 2일 후인 1월 1일 오후 5시까지 이용할 수 있습니다.&lt;/p&gt;
+    <updated>2024-12-18T15:50:51.461000+00:00</updated>
+    <content>&lt;h1&gt;메달 이벤트에 대한 모든 것!&lt;/h1&gt;
+&lt;p&gt;이번 이벤트는 마을회관 6레벨 이상의 플레이어라면 누구든지 참여할 수 있습니다. 게임 내 다양한 활동을 통해 톱니바퀴를 수집하여 이벤트 트랙을 진행하세요. 톱니바퀴를 장난감 메달로 전환하여 로얄 챔피언의 초희귀 영웅 장비 &amp;#39;일렉트로 부츠&amp;#39;와 슈퍼 장식 &amp;#39;스노우볼&amp;#39;과 같은 특별한 보상을 &lt;b&gt;잠금 해제할 수 있습니다&lt;/b&gt;!&lt;/p&gt;
+&lt;h1&gt;이벤트 기간&lt;/h1&gt;
+&lt;p&gt;이벤트 시작&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;12월 11일 오후 5시(KST)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;이벤트 종료&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;12월 30일 오후 5시(KST)&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;**&lt;u&gt;12월 30일&lt;/u&gt;**에 이벤트가 종료된 후에도 거래상 이벤트 탭과 메달 이벤트 건물은 1월 1일 오후 5시(KST)까지 이틀 더 이용할 수 있습니다.&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3GjFiIeXMn88xEbP7qYCr5/a4a8ee11fb3e85339df2158d9c9712df/clashmas_2024_event_building_marketing.png?w=2027&amp;h=2027&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;신규 기간 한정 유닛과 마법!&lt;/h1&gt;
+&lt;h1&gt;신규 기간 한정 유닛 및 마법!&lt;/h1&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/66QqgRUFbCnnDVAEa6Lkxa/593076834c22f344eda46a15139ea664/Troop_PEKKA_GB_Shadow.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;C.O.O.K.I.E&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상 사용 가능 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;지상 유닛으로 모든 건물을 공격합니다. 매우 강력한 범위 공격을 시전하죠! &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;C.O.O.K.I.E&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상에서 사용 가능합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;모든 건물을 공격하며 어마 무시하게 큰 광역 피해를 주는 지상 유닛입니다!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/53DbiYqZxTY3rKc06Tnk6I/76be1126e317756e4449f0e6db58c28d/Seasonal_Troop_HV_Ice_Wizard_1.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;얼음 마법사&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상 사용 가능 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;지상 유닛으로 방어 시설을 우선 타격합니다. 얼음 마법사의 얼음 공격은 방어 시설을 꽁꽁 얼려 느리게 만듭니다. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;얼음 마법사&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상에서 사용 가능합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;강력한 얼음 공격으로 적의 방어시설을 느리게 하는 지상 유닛입니다!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1oNDst16hEuewuYIw7Oypk/54ffc536602222b43a7d4b5af46f2a91/Troop_RamRider_GB_Shadow.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;램 라이더&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상 사용 가능 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;지상 유닛으로 방어 시설을 향해 장벽도 부수며 돌진하죠! 램 라이더 앞에서는 단단한 장벽도 오래 구운 비스킷처럼 바스러집니다. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;램 라이더&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상에서 사용 가능합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;장벽으로 돌진해 피해를 주고 방어시설을 가뿐하게 파괴하는 지상 유닛입니다!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1YAgKmGG7NhMdD1Dw4NTUq/8442fa10cef25ef3ae5d1bca39e90eb8/xmas_icon.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;산타의 선물 마법&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상 사용 가능 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;최고의 클래시마스 선물이죠! 적들의 마을을 쓸어버리는 무시무시한 선물 비를 내립니다!&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;산타의 선물 마법&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;마을회관 6레벨 이상에서 사용 가능합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;최고의 선물이 왔어요! 적의 마을에 파괴의 우박이 쏟아져 내립니다!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;이벤트 자원!&lt;/h1&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2szwglewHliV7ZxzfWwGQx/03ef04a804e4bb647323fcb4fde85ac9/clashmas24_cog_cluster.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;메달 이벤트 자원: 톱니바퀴!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;멀티플레이 공격을 통해 톱니바퀴를 획득할 수 있습니다! 톱니바퀴를 모아 이벤트 트랙을 달성하고 광석과 장식품, 그리고 장난감 메달을 잠금 해제하세요!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;메달 이벤트 자원: 톱니바퀴!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;멀티플레이 전투에서 상대방의 마을을 공격하고 파괴하면 톱니바퀴를 얻을 수 있습니다! 톱니바퀴를 모아 광석, 장식 등을 획득하세요!&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2AtkykcCyvNsoxzzepSzRn/b0604846c1e4c9ba17660d34b6c56b17/clashmas24_key_cluster.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;장난감 메달&lt;/b&gt;&lt;/p&gt;&lt;p&gt;거래상의 상점의 이벤트 탭에서 사용할 수 있는 재화입니다. 장난감 메달을 충분히 모아 클래시마스 시즌의 슈퍼 데코와 신규 초희귀 영웅 장비, 광석과 다양한 마법 아이템을 획득해 보세요!&lt;/p&gt;
-&lt;h1&gt;신규 영웅 장비 &amp; 슈퍼 장식품!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;장난감 메달&lt;/b&gt;&lt;/p&gt;&lt;p&gt;이번 이벤트의 화폐이며 거래상의 상점에서 사용할 수 있습니다. 메달을 사용해 특별한 시즌 슈퍼 장식이나 영웅 장비에 필요한 광석과 같은 자원, 마법 아이템 등을 구매하세요.&lt;/p&gt;
+&lt;h1&gt;새 영웅 장비 및 슈퍼 장식!&lt;/h1&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2ihqPvDhiebNcS3265VZqV/25b38d0a6a8fa8d3172b3645a725d079/icon_gear_RC_ElectroBoots.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;신규 로얄 챔피언 초희귀 영웅 장비: 일렉트로 부츠!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;이 영웅 장비는 로얄 챔피언 주변에 짜릿한 전기 자기장을 생성하여 모든 것에 주기적인 피해를 줍니다.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;신규 로얄 챔피언 초희귀 영웅 장비: 일렉트로 부츠!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;이 장비를 사용하면 짜릿한 오라를 형성해 로얄 챔피언 주변의 모든 것에 주기적으로 피해를 줍니다!&lt;/p&gt;
 &lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7JIyUw3CuudZJ5vjmkFXGD/65cb6551282d3a4ecaafbe8a9b2cc1c3/Clashmas24_SnowGlobe.png?w=700&amp;h=700&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;슈퍼 장식품인 스노우볼 안에는 바바리안 오두막에 따뜻한 눈이 내리고 있어요!&lt;/b&gt; &lt;/p&gt;
-&lt;p&gt;&lt;b&gt;벌써 크리스마스 분위기가 물씬 느껴지는 장난감 가게 대전 메달 이벤트를 즐겨 보세요!&lt;/b&gt;
-&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;메리 클래시마스!&lt;/b&gt;
-&lt;/p&gt;&lt;p&gt;- 클래시 오브 클랜 팀&lt;/p&gt;</content>
+&lt;p&gt;눈 내리는 아늑한 바바리안 오두막을 볼 수 있는 애니메이션 스노우 볼!&lt;/p&gt;
+&lt;p&gt;장난감 가게 대전 메달 이벤트와 함께 클래시마스 분위기를 마음껏 즐겨보세요!&lt;/p&gt;&lt;p&gt;- 클래시 오브 클랜 팀&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/ko/news/5sB5a386Lmes1llvCMLfyZ"/>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2iQdP5RLDv9XU49G5tVu0C/bb95772b2de04695d5587fb507f71cb5/1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
