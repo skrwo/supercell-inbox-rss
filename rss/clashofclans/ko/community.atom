@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-communityEntries-ko</id>
   <title>Clashofclans - Community</title>
-  <updated>2024-12-18T09:34:46.594233+00:00</updated>
+  <updated>2024-12-18T10:39:42.659126+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Community</subtitle>
   <entry>
     <id>2QNEZ1Y9DcGiKJbQ2wSyTR</id>
     <title>이 조합 못 막습니다</title>
-    <updated>2024-12-18T09:34:46.594312+00:00</updated>
+    <updated>2024-12-18T10:39:42.659252+00:00</updated>
     <author>
       <name>이준호TV</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>4bCTe01XtnnplQfTldtCRy</id>
     <title>강추하는 17홀 날먹 강제종료 파밍 전략! 이제 파밍 걱정 끝입니다</title>
-    <updated>2024-12-18T09:34:46.594261+00:00</updated>
+    <updated>2024-12-18T10:39:42.659213+00:00</updated>
     <author>
       <name>재진COC</name>
     </author>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2g8tGTMV8hPNLTlyUHbrpi/679f3bafd869f049f3ed96ee003003bc/guest-content-video-95-9f834291-8c96-414f-91d0-b81f91d8d8f4-opqh.jpeg-1732693782689?w=640&amp;h=358&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/ARMw4ufNFH8?si=23-96eSqPLWya6Mt"/>
     <published>2024-11-27T07:49:48+00:00</published>
+  </entry>
+  <entry>
+    <id>6FDMn3jeyaxnrrPeXaispk</id>
+    <title>이 영상 하나면 요즘 대세 일렉부츠 투명전략 바로 마스터 가능합니다! (초보도 가능)</title>
+    <updated>2024-12-18T10:39:42.659155+00:00</updated>
+    <author>
+      <name>재진COC</name>
+    </author>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3HILO3GdW4mcSQ5FvMM4Yg/dde552b0741658ee8914141495d3c422/thumbnail-1734514523945?w=640&amp;h=358&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/atDijFISnxc?si=5zaVqLlCXXn4WaYn"/>
+    <published>2024-12-18T09:35:31+00:00</published>
   </entry>
 </feed>
