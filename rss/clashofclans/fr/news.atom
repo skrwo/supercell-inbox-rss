@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-newsEntries-fr</id>
   <title>Clashofclans - News</title>
-  <updated>2024-12-18T08:41:25.842874+00:00</updated>
+  <updated>2024-12-18T09:34:46.281543+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>53iW9CiupeQNrbHIclFLx1</id>
-    <title>Coffres gratuits?! Réclamez les ici!</title>
-    <updated>2024-09-22T19:33:12.401000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/fr/news/53iW9CiupeQNrbHIclFLx1"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1pdRNCzXCPNSfkAasDsMTi/fc21b3483c3d08719f4b9517fa1c2244/treasure_event_popup.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="clashofclans-inbox://action=voucher&amp;code=53a84a01-ac52-4502-a7a0-0a0b70a7cd93"/>
-    <category term="Actualités"/>
-    <published>2024-09-19T08:02:48+00:00</published>
-  </entry>
   <entry>
     <id>1iYDyqIj8X7Zdn6UFMXXQA</id>
     <title> Clash-O-Ween revient !</title>
@@ -179,7 +169,7 @@
   <entry>
     <id>5sB5a386Lmes1llvCMLfyZ</id>
     <title>Grabuge chez les jouets : événement de médailles de Clashmas !</title>
-    <updated>2024-12-18T03:13:41.486000+00:00</updated>
+    <updated>2024-12-18T09:00:45.512000+00:00</updated>
     <content>&lt;h1&gt;Découvrez tout sur cet événement de médailles !&lt;/h1&gt;
 &lt;p&gt;Disponible à partir de l&amp;#39;hôtel de ville 6. Les joueurs devront récupérer des rouages en accomplissant certaines tâches au cours du jeu et en progressant sur la voie des récompenses. Ces rouages peuvent être convertis en médailles en plastique &lt;b&gt;et&lt;/b&gt; débloquer des récompenses spéciales comme les électro-bottes, un équipement épique pour la Championne royale, et une nouvelle déco : la boule à neige !&lt;/p&gt;
 &lt;h1&gt;Quand ça ?&lt;/h1&gt;
