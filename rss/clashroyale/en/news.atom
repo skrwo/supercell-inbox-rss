@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-19T16:39:55.771129+00:00</updated>
+  <updated>2024-12-19T17:33:03.473110+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>52K9QRrwjxn8pOqi9GGzwZ</id>
-    <title>Mega Knight Evolution Lore Drop 🥊</title>
-    <updated>2024-10-02T08:08:47.368000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/52K9QRrwjxn8pOqi9GGzwZ"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2a59yRoJlVIRxXvuKGSIWc/790362403fd549178fc78971e7259ec5/Untitled-1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/TfVrkZ0bcks?feature=share"/>
-    <category term="Fun"/>
-    <published>2024-09-20T15:10:02+00:00</published>
-  </entry>
   <entry>
     <id>29Sk4HwZ8bVnJZjfyHurXW</id>
     <title>PASS ROYALE CHANGES!</title>
@@ -511,5 +501,15 @@ Win an exclusive Emote!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YJsV45LLIhkNmzt8hHDaI/b6f49d07c8936c1ea477ac8d55c72f2a/Royal_Chef_Tower_Troop_FINAL.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-12-16T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7LwAuSYVoVhxIKG0oCiYX1</id>
+    <title>Goodbye, Baby Goblins!</title>
+    <updated>2024-12-19T16:55:06.738000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/7LwAuSYVoVhxIKG0oCiYX1"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zRkqNQ2x1GlbdVDiU09dn/d70a7e3c115fe99a1a424bc573c008e8/in-game.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/ClashRoyale/status/1869761209505067015"/>
+    <category term="News"/>
+    <published>2024-12-19T16:55:06+00:00</published>
   </entry>
 </feed>
