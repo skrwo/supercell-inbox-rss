@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-20T16:39:10.250101+00:00</updated>
+  <updated>2024-12-20T17:32:18.280081+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -342,7 +342,7 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
   <entry>
     <id>49BuyTboQeye3O4NAEvQCR</id>
     <title>패치 노트: 토이 스토리!</title>
-    <updated>2024-12-20T16:00:50.968000+00:00</updated>
+    <updated>2024-12-20T16:52:25.026000+00:00</updated>
     <content>&lt;h1&gt;12월 18일 업데이트 내용&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;1. 브롤러 밸런스&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;버즈 라이트이어 - 세이버 모드&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;HP 감소 &amp;#39;4500&amp;#39; → &amp;#39;4200&amp;#39;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;특수 공격 충전량 감소 &amp;#39;90&amp;#39; → &amp;#39;75&amp;#39;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;버즈 라이트이어 - 레이저 모드&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;레이저 블라스트(일반 공격) 피해량 감소 &amp;#39;1160&amp;#39; ➝ &amp;#39;1080&amp;#39;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;​&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. 오류 수정 및 기타&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;​&lt;/b&gt;수상스포츠(핫 존) 맵의 핫 존 위치 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Sk8 비트 환경의 음악 관련 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이제 제시의 터렛이 전투 카드 및 승리 애니메이션에 등장합니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;켄지의 패배 애니메이션 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;켄지가 5대5 브롤 볼에서 공을 맵 바깥으로 날려 보낼 수 있는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;버즈 라이트이어의 하이퍼차지 설명의 아이콘이 수정됩니다. (HP 아이콘 ➝ 속도 아이콘)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이제 메인 화면에서 버즈 라이트이어의 트로피 수치 변화가 표시되지 않습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;버즈 라이트이어가 맵 바깥으로 비행을 시도할 경우 발생하는 충돌 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;자넷이 크레센도(특수 공격)가 종료된 직후 하이퍼차지 및 크레센도(특수 공격)를 바로 사용하는 경우, 비행을 시작한 위치로 되돌아가는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이제 그레이가 지팡이(가젯) 사용 시 특수 공격이 충전됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;베리가 달콤한 소용돌이(특수 공격)로 생성되는 첫 아이스크림이 한 번에 3,040의 피해를 주는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;멜로디의 하이퍼차지 관련 애니메이션 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;브롤리데이 크로마 스킨인 &amp;#39;빨간 코 곰 니타&amp;#39; 및 &amp;#39;슈가 밤 마이크&amp;#39;의 스킨 항목이 올바르지 않게 표시되는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;사막의 스콜피온 척 스킨의 신호기가 올바르게 표시되지 않는 문제 수정&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;아랍어 및 히브리어 설정 시, 브롤러 선택 화면에서 버즈 라이트이어를 누르면 발생하는 충돌 현상이 Android 및 iOS용 선택적 업데이트가 제공됩니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;새로운 콜라보: 토이 스토리!&lt;/h1&gt;
