@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-20T10:37:51.602862+00:00</updated>
+  <updated>2024-12-20T11:29:11.241124+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1004,5 +1004,27 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/52trrB8SVFjETFpRX7xnJ3/04c45ab7a9e447f7c041f8c82e077f32/tw_20241219_Announcement_wPaula_SirClaz_16x9.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="社群"/>
     <published>2024-12-18T07:35:47+00:00</published>
+  </entry>
+  <entry>
+    <id>3iOSqPsooqIaYnRdDOkeS2</id>
+    <title>創作者們直播預告！（12月第3週）</title>
+    <updated>2024-12-20T10:45:37.945000+00:00</updated>
+    <content>&lt;p&gt;突擊隊長們，大家好！
+
+相信大家都知道遊戲近期進行了更新，
+推出許多新模式，有緊張刺激的決鬥、講究陣容的聯賽，
+以及考驗默契的雙人寶石大作戰，
+接下來還有歡樂節日活動！
+
+因此&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜&lt;/a&gt;、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540derderteacher%253Fsub_confirmation%253D1')"&gt;阿德老師&lt;/a&gt;與&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540Xiake%253Fsub_confirmation%253D1')"&gt;Xiake&lt;/a&gt;陸續安排了直播，
+相信透過直播互動，
+可以讓大家享受到充滿綜藝的趣味對戰，
+或是了解最新的打法觀念！&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2YNuNFZ4xSDSRjvAL48tWq/39b272c3d9a416c78177db2daa6c55d7/tw_20241220_Creators_12w3_Live_Schedule.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;預計進行直播的創作者們其頻道如下（按照直播時間先後排列）：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540derderteacher%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;阿德老師 &lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;烏龜 Turtle &lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540Xiake%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;Xiake &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;如果喜歡這幾位創作者的直播，請不吝到他們的頻道與其互動，並訂閱、支持他們唷！&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/3iOSqPsooqIaYnRdDOkeS2"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6m5jwUI2xR0oPOsGtKAccS/7453555cd6605a3f0403d2b34a946751/tw_20241220_Creators_12w3_Live_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2024-12-20T10:30:00+00:00</published>
   </entry>
 </feed>
