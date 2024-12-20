@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-20T11:29:04.354525+00:00</updated>
+  <updated>2024-12-20T12:54:03.326484+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -305,5 +305,15 @@ Gewinne ein exklusives Emote!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YJsV45LLIhkNmzt8hHDaI/b6f49d07c8936c1ea477ac8d55c72f2a/Royal_Chef_Tower_Troop_FINAL.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Versionshinweise"/>
     <published>2024-12-16T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7LwAuSYVoVhxIKG0oCiYX1</id>
+    <title>Auf Wiedersehen, Koboldbabys!</title>
+    <updated>2024-12-20T11:47:04.922000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/7LwAuSYVoVhxIKG0oCiYX1"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zRkqNQ2x1GlbdVDiU09dn/d70a7e3c115fe99a1a424bc573c008e8/in-game.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/ClashRoyale/status/1869761209505067015"/>
+    <category term="News"/>
+    <published>2024-12-19T16:55:06+00:00</published>
   </entry>
 </feed>
