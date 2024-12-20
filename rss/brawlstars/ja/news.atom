@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-20T14:34:36.465178+00:00</updated>
+  <updated>2024-12-20T15:32:21.443797+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -630,5 +630,15 @@ HP：2400 → 2700に上昇&lt;/p&gt;&lt;p&gt;&lt;b&gt;クランシー&lt;/b&gt;
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2LBQvKwayb4uYmZPblV3VQ/f0ea403d91f1840b37582dc07a79b82d/1209_Loading_screen_Brawl_x_TS.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2024-12-19T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>47nYCHdRXEi4HgMrUMLxLM</id>
+    <title>YAPIMARUさん企画「ブロスタオールスター2024」開催！</title>
+    <updated>2024-12-20T15:04:46.282000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/47nYCHdRXEi4HgMrUMLxLM"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78gYhiTOv2opsIwtPyiDr5/d84ea95026e55a1f66e14fd8dc6d115d/____________1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/FFOhoCLd8sQ"/>
+    <category term="コミュニティ"/>
+    <published>2024-12-20T15:04:46+00:00</published>
   </entry>
 </feed>
