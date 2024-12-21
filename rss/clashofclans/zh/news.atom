@@ -2,29 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-12-21T11:29:12.294027+00:00</updated>
+  <updated>2024-12-21T12:50:51.662898+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>3IyOikfATTa8keSz15yq7g</id>
-    <title>9月部落競賽獎勵搶先看</title>
-    <updated>2024-09-23T05:00:53.432000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3IyOikfATTa8keSz15yq7g"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/38tWiGJk6CTUWc7wu2p8fT/a271c35659ec3fd6e2c364b10c039c03/tw_20240918_-_TTRPG_clan_games_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="最新情報"/>
-    <published>2024-09-21T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>6VudqDIEEFpxzskWHKlEPO</id>
-    <title>【XBB】從1星失誤中學習！調整進攻思路！</title>
-    <updated>2024-09-22T10:00:03.917000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6VudqDIEEFpxzskWHKlEPO"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6poYGYYayva7tKv0WKAOFh/ae5f87b477eae3b20c51ef6071c6913e/tw_20240919_XBB_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/7fpM0hNlyEg"/>
-    <category term="最新情報"/>
-    <published>2024-09-22T10:00:00+00:00</published>
-  </entry>
   <entry>
     <id>1iYDyqIj8X7Zdn6UFMXXQA</id>
     <title> Clash萬聖節驚悚回歸！</title>
