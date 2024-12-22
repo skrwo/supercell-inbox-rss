@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2024-12-22T08:35:19.694935+00:00</updated>
+  <updated>2024-12-22T09:29:39.783233+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5mB2scWB7UvrgoYbJFxUrk</id>
-    <title>Calendrier des événements Hay Day (semaine 39)</title>
-    <updated>2024-09-22T08:01:49.264000+00:00</updated>
-    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 39)&lt;/h1&gt;
-&lt;p&gt;Salut, amis de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements commencent à 8 h UTC (10 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;Lundi : roue de la Fortune, pièces de puzzle&lt;/p&gt;&lt;p&gt;Mardi : événement du camion, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;Mercredi : événement du bateau, coupons&lt;/p&gt;&lt;p&gt;Jeudi : visiteurs de la ferme, vide-grenier&lt;/p&gt;&lt;p&gt;Vendredi : coin de pêche, boost de production de 20 % pour les poissons + événement général du bateau&lt;/p&gt;&lt;p&gt;Samedi : visiteurs de la ville, pièces x2 + événement général du bateau&lt;/p&gt;&lt;p&gt;Dimanche : production des arbres et arbustes plus rapide, 3 arbres ou arbustes produisent des fruits 2x plus vite + événement général du bateau&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/5mB2scWB7UvrgoYbJFxUrk"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Événements"/>
-    <published>2024-09-22T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>43kCOyzgYjxQ0LhlIZsAcV</id>
     <title>Calendrier des événements Hay Day (semaine 40)</title>
@@ -332,5 +321,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4uxsDXIfXPff5UYq44YbzU/4ae988c9e8a37b32f6d326fce82c9fe1/supercellmake.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Communauté"/>
     <published>2024-12-17T08:26:39+00:00</published>
+  </entry>
+  <entry>
+    <id>1NNzseXHHa0nJrCrfl1DPF</id>
+    <title>Calendrier des événements Hay Day (semaine 52)</title>
+    <updated>2024-12-22T09:02:16.651000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 52)&lt;/h1&gt;
+&lt;p&gt;Bonjour à tous ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements et les derbys commencent à 8 h UTC (9 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lundi&lt;/b&gt; : roue de la Fortune, coupons&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mardi&lt;/b&gt; : événement du camion, EXP x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercredi&lt;/b&gt; : boost pour 3 récoltes, 3 unités récoltées au lieu de 2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jeudi&lt;/b&gt; : bâtiments de production, boost de production de 20 % pour 3 bâtiments aléatoires&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vendredi&lt;/b&gt; : coin de pêche, boost de production de 30 % (salon de plumage et fabrique de filets) + points du pass Hay Day x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samedi&lt;/b&gt; : visiteurs de la ville, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dimanche&lt;/b&gt; : boost pour 3 récoltes, 3 unités récoltées au lieu de 2 + points du pass Hay Day x3&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt; : Bingo&lt;/p&gt;&lt;p&gt;Passez une très bonne semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/1NNzseXHHa0nJrCrfl1DPF"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Événements"/>
+    <published>2024-12-22T09:00:04+00:00</published>
   </entry>
 </feed>

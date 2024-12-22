@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2024-12-22T08:35:19.587347+00:00</updated>
+  <updated>2024-12-22T09:29:36.502524+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>5mB2scWB7UvrgoYbJFxUrk</id>
-    <title>Eventos de la semana 39</title>
-    <updated>2024-09-22T08:01:49.264000+00:00</updated>
-    <content>&lt;h1&gt;Eventos de la semana 39&lt;/h1&gt;
-&lt;p&gt;¡Hola! ¡Prepárate para otra semana llena de eventos! Todos los eventos comienzan a las 08:00 UTC. Para saber más sobre cada uno de ellos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;Lunes: Gira la ruleta (piezas de puzle).&lt;/p&gt;&lt;p&gt;Martes: Evento de la camioneta (materiales de ampliación).&lt;/p&gt;&lt;p&gt;Miércoles: Evento del barco (tiques).&lt;/p&gt;&lt;p&gt;Jueves: Visitantes de la granja (mercadillo).&lt;/p&gt;&lt;p&gt;Viernes: Evento de pesca (todos los edificios de producción potenciados un 20 %) y evento global del barco.&lt;/p&gt;&lt;p&gt;Sábado: Evento de visitantes del pueblo (doble de monedas) y evento global del barco.&lt;/p&gt;&lt;p&gt;Domingo: Porcentaje del tiempo de arbustos y árboles (tres árboles o arbustos aleatorios producen frutos el doble de rápido) y evento global del barco.&lt;/p&gt;&lt;p&gt;¡Que tengas una buena semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/5mB2scWB7UvrgoYbJFxUrk"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Eventos"/>
-    <published>2024-09-22T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>43kCOyzgYjxQ0LhlIZsAcV</id>
     <title>Eventos de la semana 40</title>
@@ -321,5 +310,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4uxsDXIfXPff5UYq44YbzU/4ae988c9e8a37b32f6d326fce82c9fe1/supercellmake.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Comunidad"/>
     <published>2024-12-17T08:26:39+00:00</published>
+  </entry>
+  <entry>
+    <id>1NNzseXHHa0nJrCrfl1DPF</id>
+    <title>Eventos de la semana 52</title>
+    <updated>2024-12-22T09:02:16.651000+00:00</updated>
+    <content>&lt;h1&gt;Eventos de la semana 52&lt;/h1&gt;
+&lt;p&gt;¡Buenas! ¡Prepárate para otra semana llena de eventos! Todos los eventos y derbis comienzan a las 08:00 UTC. Para saber más sobre cada uno de ellos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunes&lt;/b&gt;: Gira la ruleta (tiques).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martes&lt;/b&gt;: Evento de la camioneta (doble de XP).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Miércoles&lt;/b&gt;: Cultivos prósperos (tres cultivos aleatorios generarán 3 cosechas en vez de 2).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jueves&lt;/b&gt;: Edificios de producción potenciados (3 edificios aleatorios un 20 % más rápidos).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Viernes&lt;/b&gt;: Evento de pesca (patos y telar de redes un 30 % más rápidos) y doble de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: Evento de visitantes del pueblo (materiales de ampliación).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: Cultivos prósperos (tres cultivos aleatorios generarán 3 cosechas en vez de 2) y triple de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: derbi del bingo.&lt;/p&gt;&lt;p&gt;¡Esperamos que tengas una semana fantástica!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/1NNzseXHHa0nJrCrfl1DPF"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2024-12-22T09:00:04+00:00</published>
   </entry>
 </feed>
