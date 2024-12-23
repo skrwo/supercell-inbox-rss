@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-12-23T10:38:05.504892+00:00</updated>
+  <updated>2024-12-23T11:29:16.992644+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -32,5 +32,14 @@
     <link href="https://youtu.be/RvbMiU54sT0?si=3L_JmaFxrQ66EK8Z"/>
     <category term="동영상"/>
     <published>2024-12-01T06:45:05+00:00</published>
+  </entry>
+  <entry>
+    <id>82TArWRZvW9pCl5e9h1dl</id>
+    <title>[Be Stars : Tryout 1화] : 학교 후배에게 고백받았습니다...?</title>
+    <updated>2024-12-23T10:48:06.479000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5Q3rxS6U4FVA62f6I3h9Vb/7eb7ba196a7bd344530b5dd0a55fe577/1223_BS_GenG-Be-Stars_Ep1_Thumb_1920x1080_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="http://youtube.com/watch?v=zoS02u3C-hE&amp;embeds_referring_euri=https%3A%2F%2Fcafe.naver.com%2F&amp;source_ve_path=MjM4NTE"/>
+    <category term="이스포츠"/>
+    <published>2024-12-23T10:48:06+00:00</published>
   </entry>
 </feed>
