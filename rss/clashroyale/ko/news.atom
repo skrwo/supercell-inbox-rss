@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-23T12:54:58.234680+00:00</updated>
+  <updated>2024-12-23T13:35:22.881333+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -422,5 +422,15 @@
     <link href="https://x.com/ClashRoyale/status/1869761209505067015"/>
     <category term="소식"/>
     <published>2024-12-19T16:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>1Bxp3DLdFjyxfsKcvfeqlu</id>
+    <title>상자 열쇠 변경 사항</title>
+    <updated>2024-12-23T13:23:23.600000+00:00</updated>
+    <content>&lt;p&gt;다가오는 흥미진진한 새해를 맞이하여 클래시 로얄의 전투 보상 시스템에 몇 가지 변경 사항이 있습니다.&lt;/p&gt;&lt;h3&gt;상자 열쇠가 사라집니다&lt;/h3&gt;&lt;p&gt;1월 초부터 상점 특가 상품이나 다이아몬드 로얄 패스의 보상에서 상자 열쇠가 제외됩니다. 그리고 3월 말에는 게임에서 상자 열쇠가 완전히 사라질 예정입니다.&lt;/p&gt;&lt;p&gt;단순히 상자 열쇠가 사라지는 것이 아니라 새로운 기능을 위한 공간을 마련하는 것이니 안심하세요! 앞으로 열쇠에 대한 걱정 없이 더 자유롭게 게임을 즐기고 보상을 획득할 수 있게 됩니다.&lt;/p&gt;&lt;h3&gt;어떻게 해야 할까요?&lt;/h3&gt;&lt;p&gt;상자 열쇠를 헛되이 방치하지 마세요! 상자 열쇠를 보유하고 있다면 지금이야말로 대기열에 있는 상자를 잠금 해제할 완벽한 타이밍입니다. 사용하지 않은 상자 열쇠는 3월 말에 사라진다는 사실을 명심하세요!&lt;/p&gt;&lt;p&gt;지금은 여기까지만 알려드리지만, 내년 초에 자세한 내용을 공개할 예정이니 기대해 주세요!&lt;/p&gt;&lt;p&gt;즐거운 클래시마스 되세요.&lt;/p&gt;&lt;p&gt;&lt;i&gt;클래시 로얄 팀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/1Bxp3DLdFjyxfsKcvfeqlu"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/582VGyTzTVIlNVzeLqPsVn/0341d9570aac08693260ac15f6df1f26/Key.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="소식"/>
+    <published>2024-12-20T15:00:00+00:00</published>
   </entry>
 </feed>

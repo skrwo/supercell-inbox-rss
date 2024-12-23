@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>brawlstars-newsEntries-tr</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-23T12:54:45.405000+00:00</updated>
+  <updated>2024-12-23T13:35:19.088122+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -262,7 +262,7 @@ Shade yakındaki düşmanları korkutarak 4 saniyeliğine yavaşlatır.&lt;/p&gt
   <entry>
     <id>49BuyTboQeye3O4NAEvQCR</id>
     <title>YAMA NOTLARI: Oyuncak Hikayesi!</title>
-    <updated>2024-12-23T12:16:09.988000+00:00</updated>
+    <updated>2024-12-23T13:12:17.665000+00:00</updated>
     <content>&lt;h1&gt;Bakım Arası ve Dengeleme Değişiklikleri - 18 Aralık&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Dengeleme Değişiklikleri:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Buzz Işıkyılı 🚀&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kılıç Modu:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sağlık puanı - 4500 ➝ 4200Temel saldırılarla süper özellik dolumu - 90 → 75&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lazer Modu:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hasar - 1160 ➝ 1080 (Bu da süper dolumunu biraz azaltıyor)&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Düzeltmeler&lt;/b&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Su sporu haritasındaki sıcak bölgenin yerleşimi düzeltildi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kaykay müziği ortamında artık doğru müzik çalıyor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jessie&amp;#39;nin tareti artık savaş kartlarında ve kazanma animasyonu sırasında görünüyor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kenji&amp;#39;nin kaybetme animasyonundaki bazı görsel sorunlar düzeltildi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;5&amp;#39;e 5 savaş topunda Kenji&amp;#39;nin topu haritanın dışına atabilmesiyle ilgili bir sorun düzeltildi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Buzz Işıkyılı hiperşarj açıklamasında artık hız istatistikleri için doğru simge var (sağlık simgesi yerine).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Buzz Işıkyılı ile kazanınca artık ana ekranda kupa kaybı veya kazancı gösterilmiyor. Kupa sayısı aynı kalıyor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Buzz Işıkyılı haritanın dışına uçtuğunda olan çökme hatası düzeltildi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Janet artık yere inmeden hemen önce hiperşarjlı süperini kullandığında ilk süperinin başlangıç noktasına geri dönmüyor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gray&amp;#39;in baston aksesuarı artık süperini dolduruyor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Berry&amp;#39;nin süperiyle oluşturduğu ilk birikinti artık ilk dokunuşta 3040 hasar vermiyor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Melodie&amp;#39;nin hiperşarj sırasında ve sonrasında gösterilen animasyonları düzeltildi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Nita ve Dynamike&amp;#39;ın Brawl Yeni Yılı renk seçenekleri artık doğru adlarla gösteriliyor.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Çöl Akrebi Chuck&amp;#39;ın direkleri artık haritaya doğru şekilde yerleşiyor.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Android ve iOS için isteğe bağlı güncelleme&lt;/h1&gt;

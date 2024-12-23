@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2024-12-23T12:55:32.495117+00:00</updated>
+  <updated>2024-12-23T13:35:27.254868+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -321,5 +321,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4uxsDXIfXPff5UYq44YbzU/4ae988c9e8a37b32f6d326fce82c9fe1/supercellmake.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="المجتمع"/>
     <published>2024-12-17T08:26:39+00:00</published>
+  </entry>
+  <entry>
+    <id>31T9oIFzI2F40uU9UJcb2i</id>
+    <title>لقطات أخطاء أخبار المزرعة 2024</title>
+    <updated>2024-12-23T13:01:13.296000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/31T9oIFzI2F40uU9UJcb2i"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6tCDtJQNcCpcIWAve63nYY/34d9621a34c223b480db999124f4f487/Thumb-draft-04__1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/dqjJDe-9u4o"/>
+    <category term="المجتمع"/>
+    <published>2024-12-23T13:00:04+00:00</published>
   </entry>
 </feed>
