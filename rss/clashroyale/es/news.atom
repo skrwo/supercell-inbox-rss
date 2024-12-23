@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-23T09:32:33.312824+00:00</updated>
+  <updated>2024-12-23T10:38:07.320688+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -427,5 +427,15 @@ Y cuando esté llena, ¡haz una entrega especial!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b
     <link href="https://x.com/ClashRoyale/status/1869761209505067015"/>
     <category term="Noticias"/>
     <published>2024-12-19T16:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>1VO5tDZRAQkkmvlZiRDEKj</id>
+    <title>Imprime, envuelve y regala 🎁</title>
+    <updated>2024-12-23T10:02:37.031000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/1VO5tDZRAQkkmvlZiRDEKj"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7C8jI9qG9iuO70BXtcBRWg/228911fcd8b52b3ceb3be026b337ba59/X_post_landscape.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://supr.cl/ItsAWrap"/>
+    <category term="Diversión"/>
+    <published>2024-12-20T20:00:00+00:00</published>
   </entry>
 </feed>
