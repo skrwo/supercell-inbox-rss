@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>brawlstars-newsEntries-ru</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-23T03:01:15.683211+00:00</updated>
+  <updated>2024-12-23T03:39:09.706869+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -262,7 +262,7 @@
   <entry>
     <id>49BuyTboQeye3O4NAEvQCR</id>
     <title>История игрушек — информация</title>
-    <updated>2024-12-20T16:52:25.026000+00:00</updated>
+    <updated>2024-12-23T03:33:33.417000+00:00</updated>
     <content>&lt;h1&gt;Необязательное обновление (Android и iOS)&lt;/h1&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;Исправлена ошибка, возникавшая на арабском языке и иврите при выборе Базза Лайтера на экране выбора бойца.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Новый совместный проект: «История игрушек»!&lt;/h1&gt;
