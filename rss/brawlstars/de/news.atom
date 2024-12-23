@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-newsEntries-de</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-23T11:29:18.940458+00:00</updated>
+  <updated>2024-12-23T12:54:51.997385+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -262,7 +262,7 @@ Shade erschreckt Gegner in der Nähe und verlangsamt sie dadurch 4 Sekunden lang
   <entry>
     <id>49BuyTboQeye3O4NAEvQCR</id>
     <title>PATCHNOTIZEN: Toy Story!</title>
-    <updated>2024-12-23T10:40:04.525000+00:00</updated>
+    <updated>2024-12-23T12:16:09.988000+00:00</updated>
     <content>&lt;h1&gt;Wartungsarbeiten und Anpassungen der Spielbalance – 18. Dezember&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Anpassungen der Spielbalance&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Buzz Lightyear 🚀&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Schwertmodus:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Trefferpunkte: 4500 ➝ 4200Superaufladung von Hauptattacken 90 ➝ 75&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Lasermodus:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Schaden: 1160 ➝ 1080 (dies verringert auch die Superaufladung leicht)&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Fehlerbehebungen:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Die Platzierung der Hotzone auf der Map Wassersport wurde behoben.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Umgebung Sk8 Beats verfügt nun über die korrekte Musik.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jessies Geschützturm erscheint nun auf Kampfkarten und während ihrer Siegesanimation.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Einige visuelle Mängel mit Kenjis Animation bei Niederlagen wurden behoben.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ein Problem wurde behoben, bei dem Kenji den Ball im 5v5-Brawlball von der Map schießen konnte.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Beschreibung der Hyperladung von Buzz Lightyear verfügt nun über das korrekte Symbol für seine Tempowerte (anstatt des Trefferpunkte-Icons).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bei Siegen mit Buzz Lightyear wird kein Trophäenabzug oder -gewinn mehr im Hauptbildschirm angezeigt. Die Trophäenanzahl bleibt dieselbe.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Es wurde ein Absturzfehler behoben, wenn Buzz Lightyear aus der Map flog.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Janet kehrt nicht mehr zum Startpunkt ihres ersten Superskills zurück, wenn sie ihren hypergeladenen Superskill kurz vor der Landung einsetzt.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Grays Gadget „Spazierstock“ lädt nun seinen Superskill auf.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die erste Pfütze, die von Berrys Superskill kreiert wird, verursacht nicht mehr 3040 Schaden bei der ersten Schadensanwendung.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Melodies Animation während und nach ihrer Hyperladung wurde korrigiert.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Nitas und Dynamikes Brawlidays-Farbvarianten-Skins sind nun korrekt beschriftet.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Signalpfosten von Wüstenskorpion Chuck werden nun korrekt auf der Map platziert.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Optionales Update für Android und iOS&lt;/h1&gt;

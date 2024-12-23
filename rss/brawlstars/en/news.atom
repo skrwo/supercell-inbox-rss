@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-23T11:29:10.326770+00:00</updated>
+  <updated>2024-12-23T12:54:48.775946+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -404,12 +404,11 @@ Shade spooks nearby enemies, slowing them for 4 seconds.
   <entry>
     <id>49BuyTboQeye3O4NAEvQCR</id>
     <title>PATCH NOTES: Toy Story!</title>
-    <updated>2024-12-23T10:40:04.525000+00:00</updated>
+    <updated>2024-12-23T12:16:09.988000+00:00</updated>
     <content>&lt;h1&gt;Maintenance and Balance Changes - December 18th&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Balance Changes:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Buzz Lightyear 🚀&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Saber Mode:
 Health points 4500 ➝ 4200
-Super charge from basics 90 ➝ 75&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Laser Mode:
-Damage - 1160 ➝ 1080 (which also slightly decreased the Super charge)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Fixes&lt;/b&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed the placement of the Hot Zone in the Watersports map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The Sk8 Beats environment now has the correct music&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jessie’s turret now appears in battle cards, and during her win animation&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed some visual issues with Kenji’s lose animation&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Solved an issue with Kenji being able to knock the ball out of the map in Brawl Ball 5v5&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Buzz Lightyear Hypercharge description now has the correct icon for Speed stats (instead of the Health icon)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Winning with Buzz Lightyear no longer displays trophy loss or gains on the home screen. The trophy count will remain the same&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the crash error when Buzz Lightyear flies out of the map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Janet no longer returns to the starting point of her first Super when using her Hypercharged Super just before landing&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gray’s Gadget &amp;quot;Walking Cane&amp;quot; now charges his Super&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The first Puddle created by Berry&amp;#39;s Super no longer does 3040 damage at the first tick&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Melodie&amp;#39;s animation while and after Hypercharged&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Nita and Dynamike Brawlidays recolor Skins are now correctly labeled&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Desert Scorpion Chuck poles are now correctly placed on the map&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+Super charge from basics 90 ➝ 75&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Laser Mode:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Damage - 1160 ➝ 1080 (which also slightly decreased the Super charge)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Fixes&lt;/b&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed the placement of the Hot Zone in the Watersports map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The Sk8 Beats environment now has the correct music&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jessie’s turret now appears in battle cards, and during her win animation&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed some visual issues with Kenji’s lose animation&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Solved an issue with Kenji being able to knock the ball out of the map in Brawl Ball 5v5&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Buzz Lightyear Hypercharge description now has the correct icon for Speed stats (instead of the Health icon)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Winning with Buzz Lightyear no longer displays trophy loss or gains on the home screen. The trophy count will remain the same&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the crash error when Buzz Lightyear flies out of the map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Janet no longer returns to the starting point of her first Super when using her Hypercharged Super just before landing&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gray’s Gadget &amp;quot;Walking Cane&amp;quot; now charges his Super&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The first Puddle created by Berry&amp;#39;s Super no longer does 3040 damage at the first tick&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Melodie&amp;#39;s animation while and after Hypercharged&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Nita and Dynamike Brawlidays recolor Skins are now correctly labeled&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Desert Scorpion Chuck poles are now correctly placed on the map&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;Optional update for Android and iOS&lt;/h1&gt;
 &lt;p&gt;Fixed the game crashing for the Arabic and Hebrew languages when selecting Buzz Lightyear on the Brawlers selection screen.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;New Collab: Toy Story!&lt;/h1&gt;
@@ -446,5 +445,15 @@ Nerfs&lt;/b&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Moe&lt;/b&gt;&lt
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2LBQvKwayb4uYmZPblV3VQ/f0ea403d91f1840b37582dc07a79b82d/1209_Loading_screen_Brawl_x_TS.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2024-12-19T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>DDEgarfsslTgQJ2lYWTpZ</id>
+    <title>Brawlidays Playlist of 2024!</title>
+    <updated>2024-12-23T12:08:47.597000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/DDEgarfsslTgQJ2lYWTpZ"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3AwXlvYuzyMrSFt88YMq2Z/3ea55717efe51be742aaf7f46cc85d1e/Thumbnail_1.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/Pmv4xHuOucw?si=ARZWaKvx8KGXTC87"/>
+    <category term="Community"/>
+    <published>2024-12-23T12:08:47+00:00</published>
   </entry>
 </feed>
