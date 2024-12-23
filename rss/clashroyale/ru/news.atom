@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-23T15:32:34.741286+00:00</updated>
+  <updated>2024-12-23T16:39:18.021122+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -409,11 +409,21 @@
   <entry>
     <id>1Bxp3DLdFjyxfsKcvfeqlu</id>
     <title>Ключи от сундуков — изменения</title>
-    <updated>2024-12-23T13:23:23.600000+00:00</updated>
+    <updated>2024-12-23T16:35:31.307000+00:00</updated>
     <content>&lt;p&gt;Пока мы готовимся к новому удивительному году в Clash Royale, хотим немного вам рассказать о грядущих изменениях системы наград за сражения.&lt;/p&gt;&lt;h3&gt;Ключей от сундуков больше не будет&lt;/h3&gt;&lt;p&gt;В начале января ключи от сундуков исчезнут из акций в магазине и наград алмазного пропуска. А в конце марта мы полностью уберем ключи из игры.&lt;/p&gt;&lt;p&gt;Но не переживайте, мы избавляемся от них не просто так: мы освобождаем место для новых функций! В будущем вы сможете играть и зарабатывать больше наград, не беспокоясь о ключах.&lt;/p&gt;&lt;h3&gt;Что мне делать?&lt;/h3&gt;&lt;p&gt;Тратьте все собранные ключи! Если вы хранили ключи в ожидании подходящего момента, то этот момент настал: пришло время открыть скопившиеся сундуки! Помните: все неиспользованные ключи исчезнут в конце марта.&lt;/p&gt;&lt;p&gt;Это все, о чем мы пока можем рассказать. Следите за новостями — в начале следующего года вас ждет больше подробностей!&lt;/p&gt;&lt;p&gt;Счастливого Clash-Рождества!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Команда Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/ru/news/1Bxp3DLdFjyxfsKcvfeqlu"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/582VGyTzTVIlNVzeLqPsVn/0341d9570aac08693260ac15f6df1f26/Key.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Новости"/>
     <published>2024-12-20T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1VO5tDZRAQkkmvlZiRDEKj</id>
+    <title>Распечатайте, заверните и дарите 🎁</title>
+    <updated>2024-12-23T16:38:03.736000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/1VO5tDZRAQkkmvlZiRDEKj"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7C8jI9qG9iuO70BXtcBRWg/228911fcd8b52b3ceb3be026b337ba59/X_post_landscape.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://supr.cl/ItsAWrap"/>
+    <category term="Развлечения"/>
+    <published>2024-12-20T20:00:00+00:00</published>
   </entry>
 </feed>
