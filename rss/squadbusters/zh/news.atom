@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-24T09:31:48.391024+00:00</updated>
+  <updated>2024-12-24T10:38:01.521438+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1014,5 +1014,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4Z9AApYIwviZgOUxm0a1am/49e09e185d00a136615fd85b8bfc7106/tw_20241220_Creators_12w3_Live_thumb-NEW.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-12-20T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>27ImcFlwq6ce2jsaWGn40k</id>
+    <title>【Wish】雙人寶石模式這樣配合！超穩！</title>
+    <updated>2024-12-24T10:00:02.732000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/27ImcFlwq6ce2jsaWGn40k"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/nd0ETbPNxhr76iRdpPJmm/b55d4a9b16b2e87448e46b92624537e8/tw_20241224_wish_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=aoDlWU21UdE"/>
+    <category term="最新情報"/>
+    <published>2024-12-24T10:00:00+00:00</published>
   </entry>
 </feed>
