@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-24T01:56:36.058579+00:00</updated>
+  <updated>2024-12-24T02:58:59.131480+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -421,12 +421,22 @@ Y cuando esté llena, ¡haz una entrega especial!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b
   <entry>
     <id>7LwAuSYVoVhxIKG0oCiYX1</id>
     <title>¡Adiós, bebés duende!</title>
-    <updated>2024-12-20T11:47:04.922000+00:00</updated>
+    <updated>2024-12-24T02:27:37.626000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/es/news/7LwAuSYVoVhxIKG0oCiYX1"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2zRkqNQ2x1GlbdVDiU09dn/d70a7e3c115fe99a1a424bc573c008e8/in-game.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://x.com/ClashRoyale/status/1869761209505067015"/>
     <category term="Noticias"/>
     <published>2024-12-19T16:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>1Bxp3DLdFjyxfsKcvfeqlu</id>
+    <title>CAMBIOS EN LAS LLAVES DE COFRES</title>
+    <updated>2024-12-24T02:02:17.219000+00:00</updated>
+    <content>&lt;p&gt;Mientras nos preparamos para otro emocionante año de Clash Royale, queremos contarte algunos cambios que implementaremos en las recompensas de las batallas.&lt;/p&gt;&lt;h3&gt;Adiós a las llave de cofres&lt;/h3&gt;&lt;p&gt;A partir de principios de enero, las llaves de cofres no se incluirán entre las recompensas del Pass Royale de diamante ni en las ofertas de la tienda, y eliminaremos las llave de cofres del juego definitivamente a finales de marzo.&lt;/p&gt;&lt;p&gt;No te preocupes, no las eliminaremos sin más, ¡sino que queremos hacer sitio para nuevas funciones! Los nuevos cambios te permitirán jugar más partidas y conseguir recompensas sin tener que preocuparte por las llaves.&lt;/p&gt;&lt;h3&gt;¿Qué deberías hacer?&lt;/h3&gt;&lt;p&gt;¡No desperdicies las llaves! Si las has estado guardando, este es el momento perfecto para desbloquear los cofres que tuvieras en la recámara. No olvides que las llaves que no hayas usado desaparecerán a finales de marzo.&lt;/p&gt;&lt;p&gt;Por ahora no podemos contar más, pero desvelaremos más detalles a principios del año que viene. ¡No te los pierdas!&lt;/p&gt;&lt;p&gt;Feliz Clashmas,&lt;/p&gt;&lt;p&gt;&lt;i&gt;El equipo de Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/1Bxp3DLdFjyxfsKcvfeqlu"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/582VGyTzTVIlNVzeLqPsVn/0341d9570aac08693260ac15f6df1f26/Key.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Noticias"/>
+    <published>2024-12-20T15:00:00+00:00</published>
   </entry>
   <entry>
     <id>1VO5tDZRAQkkmvlZiRDEKj</id>
