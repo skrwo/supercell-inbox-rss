@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2024-12-25T09:31:27.204997+00:00</updated>
+  <updated>2024-12-25T10:36:41.256974+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1319,5 +1319,20 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1tqrgGk0NkzvItwJgt3imc/689055d0f6764806fb1ea167c004a0c7/20241220_SQU_christmas_campaign_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2024-12-25T07:02:26+00:00</published>
+  </entry>
+  <entry>
+    <id>5nL9L0x0TZ4mx9mtGHq5w8</id>
+    <title>最新アップデート情報の紹介動画をチェック！</title>
+    <updated>2024-12-25T10:22:27.268000+00:00</updated>
+    <content>&lt;h1&gt;【無料】25日の星4誰にする？選ぶ際の注意点やおすすめキャラを解説！&lt;/h1&gt;
+&lt;a href="https://youtu.be/0oa-m5oDduQ?si=RgZLP9Sxy7ifJBHi"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;世界トップランカーが25日の無料⭐4選択権を誰に使うのがいいか教えちゃいます🤩🤩&lt;/h1&gt;
+&lt;a href="https://youtu.be/wgV7W6Af6kI?si=WVvK2cv14gnsGv03"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;今回のイベントは○○です‼️新イベはやるべき？やらなくてもいい？全部話します🤩&lt;/h1&gt;
+&lt;a href="https://youtu.be/6pyjHTRUutM?si=1B12B552UqPtpTNr"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/5nL9L0x0TZ4mx9mtGHq5w8"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7eVodXVxi3ebQEIOJj1ETG/2927ad8750229781b8f9f7b9270eb4e9/maxresdefault__16__re.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="ビデオ"/>
+    <published>2024-12-25T10:22:27+00:00</published>
   </entry>
 </feed>
