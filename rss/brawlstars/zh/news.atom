@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-25T11:29:06.287589+00:00</updated>
+  <updated>2024-12-25T12:53:00.263762+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>6LaGKRSJPNpRE6EP22AnBZ</id>
-    <title>【嘿!兄弟】🐟新角賢治有點強？詳細解析普攻大招！</title>
-    <updated>2024-09-26T09:30:03.663000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6LaGKRSJPNpRE6EP22AnBZ"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4zV5LqFkFs7KyP0MFwJuvT/f73abcf7f0c843cc832bcba121cd7784/tw_20240926_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=kD7HdfzaAzE"/>
-    <category term="最新情報"/>
-    <published>2024-09-26T09:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>7xXR6GSNB56jtCUgKP5O08</id>
-    <title>【盛主播】賢治操作上限極高！🍣瘋狂觸發回血效果！</title>
-    <updated>2024-09-26T09:30:03.712000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/7xXR6GSNB56jtCUgKP5O08"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5KEKoNuwRoL0URw9SY9ny9/21b65f33f5a64ef795ca7996b9414e6b/tw_20240926_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=_FK0gFBm66M"/>
-    <category term="最新情報"/>
-    <published>2024-09-26T09:01:00+00:00</published>
-  </entry>
   <entry>
     <id>75hI5Yf6qRfMiAR8lxZ6Ej</id>
     <title>沒有永恆的機制《荒野亂鬥》Podcast</title>
