@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2024-12-29T11:28:58.598583+00:00</updated>
+  <updated>2024-12-29T12:50:39.258530+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>6DeIsSHq0MpwhCdHCr57Fm</id>
-    <title>Reveja o E5petáculo de 5etembro!</title>
-    <updated>2024-11-12T14:17:33.205000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4YZ61KIZRpBbMLSzUs67RZ/d29fb43c7bbb2f5745aff0c2699f6c40/PT-September_Spectacle_South_America_ingame.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=gK4_HO0yyPg"/>
-    <category term="Esports"/>
-    <published>2024-09-29T22:00:00+00:00</published>
-  </entry>
   <entry>
     <id>YtOkOUVEmXHdxf8G4Ay30</id>
     <title>Reveja o Dia 1 da Final Mundial 2024</title>
