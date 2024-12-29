@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2024-12-29T08:36:25.624949+00:00</updated>
+  <updated>2024-12-29T09:29:51.534969+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>43kCOyzgYjxQ0LhlIZsAcV</id>
-    <title>Eventi di Hay Day (settimana n. 40)</title>
-    <updated>2024-09-30T13:05:34.088000+00:00</updated>
-    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 40)&lt;/h1&gt;
-&lt;p&gt;Ehilà! Questa settimana ti attendono tantissimi eventi e un derby, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ogni evento, consulta il loro tabellone in gioco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunedì&lt;/b&gt;: buoni (gira la ruota).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martedì&lt;/b&gt;: XP doppi (ordini del furgone) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercoledì&lt;/b&gt;: monete doppie (ordini per la barca) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Giovedì&lt;/b&gt;: potenziamento del 20% per tre edifici produttivi e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Venerdì&lt;/b&gt;: potenziamento del 30% per due edifici per la pesca (salone delle anatre e retificio) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabato&lt;/b&gt;: monete doppie (visitatori della fattoria).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domenica&lt;/b&gt;: potenziamento colture (tre unità invece di due da tre colture a caso).&lt;/p&gt;&lt;p&gt;Infine, non dimenticate di partecipare al derby regolare, che inizia martedì!&lt;/p&gt;&lt;p&gt;Ti auguriamo una settimana fantastica!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/43kCOyzgYjxQ0LhlIZsAcV"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Eventi"/>
-    <published>2024-09-29T08:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>2O2tBLGm3BQh6Y7PUjbUrE</id>
-    <title>NUOVO AGGIORNAMENTO in arrivo!</title>
-    <updated>2024-10-08T09:48:18.245000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/2O2tBLGm3BQh6Y7PUjbUrE"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7v2OFqhjHyZ1LB4esQOEQ4/fc289e5d3634daafc15281faac3aa5d4/Dairy_News_OCTOBER_Thumb-draft-01.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/Ay4hCFxeCKM"/>
-    <category term="Notizie"/>
-    <published>2024-09-29T21:00:00+00:00</published>
-  </entry>
   <entry>
     <id>4EOY2EC9w5ck43M40in9iN</id>
     <title>Note di rilascio dell'aggiornamento autunnale del 2024</title>
@@ -335,5 +314,16 @@
     <link href="https://youtu.be/RoFDPQwlWfU"/>
     <category term="Community"/>
     <published>2024-12-27T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>1kozf6tmV9FHCshM7btxr2</id>
+    <title>Eventi di Hay Day (settimana n. 53)</title>
+    <updated>2024-12-29T09:02:09.971000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 53)&lt;/h1&gt;
+&lt;p&gt;Ehilà, questa settimana ti attendono tantissimi eventi e un derby, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ogni evento, consulta il loro tabellone in gioco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunedì&lt;/b&gt;: oggetti espansione (gira la ruota) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martedì&lt;/b&gt;: produttività dei mangimifici ottimizzata (tre tipi casuali di mangime per animali verranno prodotti al doppio della velocità) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercoledì&lt;/b&gt;: potenziamenti (ordini per la barca) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Giovedì&lt;/b&gt;: monete doppie (visitatori della fattoria) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Venerdì&lt;/b&gt;: potenziamento del 30% per due edifici per la pesca (vasca per aragoste e banco da lavoro per esche) e punti del Pass della fattoria tripli.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabato&lt;/b&gt;: materiali per granaio e silo (visitatori della città).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domenica&lt;/b&gt;: produttività dei mangimifici ottimizzata (tre tipi casuali di mangime per animali verranno prodotti al doppio della velocità).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: derby intensivo.&lt;/p&gt;&lt;p&gt;Ti auguriamo una splendida settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/1kozf6tmV9FHCshM7btxr2"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventi"/>
+    <published>2024-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

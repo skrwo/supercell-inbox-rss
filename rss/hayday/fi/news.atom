@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2024-12-29T08:36:29.190574+00:00</updated>
+  <updated>2024-12-29T09:29:50.036825+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>43kCOyzgYjxQ0LhlIZsAcV</id>
-    <title>Hay Dayn viikko 40</title>
-    <updated>2024-09-30T13:05:34.088000+00:00</updated>
-    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 40&lt;/h1&gt;
-&lt;p&gt;Hei farmari! On uuden tapahtumaviikon aika! Kaikki tapahtumat ja kisat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maanantai&lt;/b&gt;: kuponkeja onnenpyörässä&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tiistai&lt;/b&gt;: tuplasti kokemuspisteitä rekkatilauksista + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keskiviikko&lt;/b&gt;: tuplasti kolikoita laivatilauksista + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Torstai&lt;/b&gt;: kolmen tuotantorakennuksen 20 %:n tehostus + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perjantai&lt;/b&gt;: kalastusalueella sorsasalongin ja verkontekijän 30 %:n tehostus + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lauantai&lt;/b&gt;: tuplasti kolikoita farmivierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunnuntai&lt;/b&gt;: kolmen satunnaisen viljelyskasvin tehostus (satoa korjatessa 3 viljelyskasvia tavallisen 2:n sijasta)&lt;/p&gt;&lt;p&gt;Muistathan myös osallistua tämän viikon lähipiirikilpailuihin. On normaalikilpailujen aika, jotka alkavat tiistaina!&lt;/p&gt;&lt;p&gt;Viljavaa viikkoa!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/43kCOyzgYjxQ0LhlIZsAcV"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Tapahtumat"/>
-    <published>2024-09-29T08:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>2O2tBLGm3BQh6Y7PUjbUrE</id>
-    <title>UUSI PÄIVITYS saapuu pian!</title>
-    <updated>2024-10-08T09:48:18.245000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/2O2tBLGm3BQh6Y7PUjbUrE"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7v2OFqhjHyZ1LB4esQOEQ4/fc289e5d3634daafc15281faac3aa5d4/Dairy_News_OCTOBER_Thumb-draft-01.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/Ay4hCFxeCKM"/>
-    <category term="Uutiset"/>
-    <published>2024-09-29T21:00:00+00:00</published>
-  </entry>
   <entry>
     <id>4EOY2EC9w5ck43M40in9iN</id>
     <title>Julkaisutiedot: syksyn 2024 päivitys</title>
@@ -352,5 +331,16 @@
     <link href="https://youtu.be/RoFDPQwlWfU"/>
     <category term="Yhteisö"/>
     <published>2024-12-27T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>1kozf6tmV9FHCshM7btxr2</id>
+    <title>Hay Dayn viikko 53</title>
+    <updated>2024-12-29T09:02:09.971000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn viikko 53&lt;/h1&gt;
+&lt;p&gt;Hei farmarit! On uuden tapahtumaviikon aika! Kaikki tapahtumat ja kisat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maanantai&lt;/b&gt;: laajennusesineitä onnenpyörässä + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tiistai&lt;/b&gt;: eläinten ruokintatehostus (3 satunnaista rehua valmistuu tuplanopeudella) + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keskiviikko&lt;/b&gt;: kiihdyttimiä lisäpalkintona laivatilauksista + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Torstai&lt;/b&gt;: tuplasti kolikoita farmivierailijoista + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perjantai&lt;/b&gt;: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus + kolminkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lauantai&lt;/b&gt;: viljavaraston ja ladon päivitysmateriaaleja lisäpalkintoina kylävierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunnuntai&lt;/b&gt;: eläinten ruokintatehostus (3 satunnaista rehua valmistuu tuplanopeudella)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Naapurustokisat&lt;/b&gt;: Voimakisat&lt;/p&gt;&lt;p&gt;Viljavaa viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/1kozf6tmV9FHCshM7btxr2"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Tapahtumat"/>
+    <published>2024-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
