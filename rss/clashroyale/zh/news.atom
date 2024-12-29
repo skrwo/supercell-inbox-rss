@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2024-12-29T15:29:46.955569+00:00</updated>
+  <updated>2024-12-29T16:36:45.788997+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -15,26 +15,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/38IUailtNMwW0O0IfSDXmu/fec46e7428cc76a8d11035e4fd434a71/tw_20231026_cr_creators_thumb.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="攻略"/>
     <published>2023-10-26T02:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>1akFcGnPf2BIC9Mz1ze5kj</id>
-    <title>【Xiake】全新英雄科學怪哥布林實戰！電力十足？</title>
-    <updated>2024-09-30T16:02:50.605000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/1akFcGnPf2BIC9Mz1ze5kj"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/ScOTxxkGh1SakXZfZeMy0/26417ed93921963f65a78f5fcdce5f2e/tw_20240930_xiake_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=41YxRyAR5E8"/>
-    <category term="最新情報"/>
-    <published>2024-09-30T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>6fYXP2HGPq84I8gttWe3jI</id>
-    <title>【阿酸】快速了解科學怪哥布林！還有其超長連鎖？</title>
-    <updated>2024-09-30T16:05:16.866000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/6fYXP2HGPq84I8gttWe3jI"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/swaVh0bQbOF0pb8fxYV6Q/0836f769f5c2345d224eca4e7be0f2f2/tw_20240930_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=00KssFGo268"/>
-    <category term="最新情報"/>
-    <published>2024-09-30T16:01:00+00:00</published>
   </entry>
   <entry>
     <id>ray5CzNypZv9AZ4MGoSnH</id>
@@ -565,5 +545,25 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/582VGyTzTVIlNVzeLqPsVn/0341d9570aac08693260ac15f6df1f26/Key.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-12-20T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3Aqng2TyvpEGsmS8PDzzH4</id>
+    <title>【阿酸】實測進化吹箭哥布林機制！</title>
+    <updated>2024-12-29T16:04:20.669000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/3Aqng2TyvpEGsmS8PDzzH4"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4q3S9rCBWGJSwv4R9JKnhQ/22c717237da9f38650a91a5cb4106b9a/tw_20241229_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Frrww0tRfAo"/>
+    <category term="最新情報"/>
+    <published>2024-12-29T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>UHJrzDEyYhpgHIMBtqNmf</id>
+    <title>【Xiake】搶先看進化吹箭哥布林實戰！</title>
+    <updated>2024-12-29T16:05:31.242000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/UHJrzDEyYhpgHIMBtqNmf"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/77eX1xTdHv0RYLoTHOxZmn/0d913f2a19f407a546f6e892a1523ace/tw_20241229_xiake_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=M-okeG0Cdoo"/>
+    <category term="最新情報"/>
+    <published>2024-12-29T15:01:00+00:00</published>
   </entry>
 </feed>
