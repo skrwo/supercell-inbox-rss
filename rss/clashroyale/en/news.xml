@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2024 19:29:06 +0000</lastBuildDate>
-    <item>
-      <title>End of Support for Older Devices</title>
-      <link>https://clashroyale.inbox.supercell.com/#/en/news/ray5CzNypZv9AZ4MGoSnH</link>
-      <description>&lt;h1&gt;End of Support: iOS 12, iOS 13, Android 5, and Android 6&lt;/h1&gt;
-&lt;p&gt;Starting with the update on &lt;b&gt;October 2&lt;/b&gt;, we will be ending support for iOS versions 12 and below, as well as Android versions 6.0 and below. This decision is based on performance issues and the technical limitations of older devices. As a result, players using devices running these operating systems will no longer be able to play &lt;i&gt;Clash Royale&lt;/i&gt; unless they upgrade to a more recent OS version. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;iOS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;: Dropping support for iOS 12 and 13 will remove devices such as the iPhone 5s, iPhone 6, and iPhone 6 Plus.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Android&lt;/b&gt;&lt;/p&gt;&lt;p&gt;: Devices running Android 5.0 (Lollipop) and Android 6.0 (Marshmallow) will no longer be supported.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;What You Need to Do
-&lt;/b&gt;
-If your device is running any of the affected OS versions, we recommend updating to a newer version if possible.
-
-You can find instructions on how to update your iOS version on the &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.apple.com%2Fen-us%2F118575')"&gt;Apple Support website&lt;/a&gt;, and Android updates can be found on &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.google.com%2Fandroid%2Fanswer%2F7680439%3Fhl%3Den')"&gt;Google’s Support&lt;/a&gt; website.
-
-For more information on transferring your game to a new device or linking your account to Supercell ID, please visit our &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fsupport.supercell.com%2Fclash-royale%2Fen%2Findex.html')"&gt;Frequently Asked Questions.&lt;/a&gt;
-
-Thank you for your understanding and continued support!
-— The &lt;i&gt;Clash Royale&lt;/i&gt; Team&lt;/p&gt;</description>
-      <guid isPermaLink="false">ray5CzNypZv9AZ4MGoSnH</guid>
-      <category>News</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/__faI48NPbqjLU8i2SFKxkQoIkHSsr-WAy-u1kz-r0M/1a5eec8552d281817966017474c5c91d/en_20180530_endofsupport_hero.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Oct 2024 13:06:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>October TV Royale!</title>
-      <link>https://youtu.be/-k-VL-ampa8</link>
-      <guid isPermaLink="false">1FFmpxCqumBWD6cotIu9fn</guid>
-      <category>Highlights</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7nII3UL88SWBPQUUuf5xNB/e43d08edca89857ccd4e0723ab275edc/TV_Royale_October_Thumb_01.png?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Tue, 01 Oct 2024 14:47:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Dec 2024 20:31:33 +0000</lastBuildDate>
     <item>
       <title>OCTOBER UPDATE!</title>
       <link>https://clashroyale.inbox.supercell.com/#/en/news/51t7tXh4rDoqz0FhT5JXHh</link>
@@ -465,6 +438,14 @@ Win an exclusive Emote!&lt;/p&gt;
       <category>Fun</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5vavxRAnELM4MLGfxgute0/baf3df207aeceae86412f7a9c70d4e8d/X_post_landscape.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Fri, 20 Dec 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dart Goblin Evolution!</title>
+      <link>https://youtube.com/shorts/c59ORg2YTXE?feature=share</link>
+      <guid isPermaLink="false">1H2iTXIEIg6hIdgh8qlgX0</guid>
+      <category>News</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7MzM6aHf7Q2xIrjGSBExng/7a10b588fac49ec41b9560276e14e002/DartGoblin_Gameplay_in-game.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Dec 2024 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
