@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2024-12-31T16:40:13.389847+00:00</updated>
+  <updated>2024-12-31T17:30:57.066134+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -451,5 +451,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/Az5g0ivAlrg7cU0iTTKt2/479c1aa9a8fb8e5c1bf9b895615487d0/tw_20241217_Clan_Games_December_2024_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-12-21T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5ACxqJu3K7wzZbpNlnzqd</id>
+    <title>【金雄】搶先看2025年最新英雄造型！</title>
+    <updated>2024-12-31T17:24:55.728000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/5ACxqJu3K7wzZbpNlnzqd"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7iitK5qyZZBjs4hq77k9Yo/d81f86ed888e3409312033c634d6b6fa/tw_20241231_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=trD6vd4jvB0"/>
+    <category term="最新情報"/>
+    <published>2024-12-31T13:00:00+00:00</published>
   </entry>
 </feed>
