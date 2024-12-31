@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-31T15:31:14.275625+00:00</updated>
+  <updated>2024-12-31T16:39:50.646487+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -592,5 +592,15 @@ HP：2400 → 2700に上昇&lt;/p&gt;&lt;p&gt;&lt;b&gt;クランシー&lt;/b&gt;
     <link href="https://www.youtube.com/live/FFOhoCLd8sQ"/>
     <category term="コミュニティ"/>
     <published>2024-12-20T15:04:46+00:00</published>
+  </entry>
+  <entry>
+    <id>1ZiXxRN7aB7yOAkyTKaXTc</id>
+    <title>2025年もブロスタをよろしくお願いします！</title>
+    <updated>2024-12-31T15:43:09.867000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/1ZiXxRN7aB7yOAkyTKaXTc"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7lE8MkjefPoFsSKEV3nExt/a0d65eb38b91b5fd3fbcea42b931e7b5/maxresdefault__5_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=zMoHIF5P3XM"/>
+    <category term="コミュニティ"/>
+    <published>2024-12-31T15:43:09+00:00</published>
   </entry>
 </feed>
