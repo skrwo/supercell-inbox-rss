@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2024-12-30T23:29:35.965582+00:00</updated>
+  <updated>2024-12-31T01:55:43.788226+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -301,5 +301,15 @@ Shade assusta os inimigos próximos, desacelerando-os por 4 segundos.&lt;/p&gt;&
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2LBQvKwayb4uYmZPblV3VQ/f0ea403d91f1840b37582dc07a79b82d/1209_Loading_screen_Brawl_x_TS.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Notas de Lançamento"/>
     <published>2024-12-19T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6MFUGTY7vUzwJG2lnGnAtR</id>
+    <title>Vem conferir o Protha Awards 2024! </title>
+    <updated>2024-12-31T01:28:30.999000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/6MFUGTY7vUzwJG2lnGnAtR"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4VmbHIp1rf0JvR9IkztZTj/7ff0650e432addba5088a6cec735c069/WhatsApp_Image_2024-12-30_at_22.24.11.jpeg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ISb_2V7R5ME?si=YyjQ8E6NjV11xjNg"/>
+    <category term="Comunidade"/>
+    <published>2024-12-31T01:28:30+00:00</published>
   </entry>
 </feed>
