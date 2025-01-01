@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-eventEntries-ja</id>
   <title>Brawlstars - Event</title>
-  <updated>2025-01-01T09:31:32.669324+00:00</updated>
+  <updated>2025-01-01T10:36:41.912297+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -78,11 +78,11 @@
   <entry>
     <id>5RCU7TDc5TRg1MM6uHH09c</id>
     <title>🗞️</title>
-    <updated>2025-01-01T09:02:57.768000+00:00</updated>
+    <updated>2025-01-01T09:32:36.873000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="https://youtu.be/T0Z9WsTuR04"&gt;👉スターフォース！👈&lt;/a&gt;</content>
+&lt;a href="https://youtu.be/bFr-gMMR_t8"&gt;👉スターフォース！👈&lt;/a&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7AcFsCGgtNcdYCsM4bry1E/74a1940b8432cb5b71f67835b99fa999/1230_Starr_Force_Animation_Launch_Carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/T0Z9WsTuR04"/>
+    <link href="https://youtu.be/bFr-gMMR_t8"/>
     <published>2025-01-01T09:01:52+00:00</published>
   </entry>
 </feed>
