@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-01T10:37:15.536990+00:00</updated>
+  <updated>2025-01-01T11:29:17.506987+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -461,5 +461,25 @@
     <link href="https://www.youtube.com/watch?v=trD6vd4jvB0"/>
     <category term="最新情報"/>
     <published>2024-12-31T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3F3bSAJqIVAATIHzUC3XwB</id>
+    <title>【烏龜】新年跟著步驟輕鬆通過難關！</title>
+    <updated>2025-01-01T10:55:20.169000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/3F3bSAJqIVAATIHzUC3XwB"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6QNcCmblAiLV5G75kNKZJ/a88098a202cdca3c1459c5d26e7d3c42/tw_20250101_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=6tSiNbaNvM0"/>
+    <category term="最新情報"/>
+    <published>2025-01-01T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2IrVoPLP6hzd3Ml6pEWvGs</id>
+    <title>【金雄】帶你順順過新年第一個挑戰！</title>
+    <updated>2025-01-01T10:56:23.274000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2IrVoPLP6hzd3Ml6pEWvGs"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/416jKAQS2RbNiUME5PT8AV/187386096c58f962e0ab5a6cc5d42962/tw_20250101_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=xlsNvuYqmro"/>
+    <category term="最新情報"/>
+    <published>2025-01-01T10:00:00+00:00</published>
   </entry>
 </feed>
