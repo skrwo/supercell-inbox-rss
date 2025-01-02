@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-02T09:31:53.190439+00:00</updated>
+  <updated>2025-01-02T10:37:20.769004+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -336,5 +336,15 @@ Gagnez une émote exclusive !&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/582VGyTzTVIlNVzeLqPsVn/0341d9570aac08693260ac15f6df1f26/Key.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Actualités"/>
     <published>2024-12-20T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1H2iTXIEIg6hIdgh8qlgX0</id>
+    <title>Gobelin à sarbacane évolué !</title>
+    <updated>2025-01-02T10:04:49.564000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/1H2iTXIEIg6hIdgh8qlgX0"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7MzM6aHf7Q2xIrjGSBExng/7a10b588fac49ec41b9560276e14e002/DartGoblin_Gameplay_in-game.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/c59ORg2YTXE?feature=share"/>
+    <category term="Actualités"/>
+    <published>2024-12-30T20:00:00+00:00</published>
   </entry>
 </feed>
