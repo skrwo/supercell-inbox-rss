@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-02T07:28:58.495634+00:00</updated>
+  <updated>2025-01-02T08:38:07.138974+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>1t3ucLvUrDI2QeeFDilXyU</id>
-    <title>🎊당첨자 발표🎊 먹어보고 싶은 켄지의 초밥은?! 🍣</title>
-    <updated>2024-10-04T07:33:34.660000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/1t3ucLvUrDI2QeeFDilXyU"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4PZAvtVRxvTB8JUZHbDY6Q/8b3fe296c03622010e64f74037f42270/1005_BS_kenji-event_inbox_800x433_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1280689"/>
-    <category term="커뮤니티"/>
-    <published>2024-10-04T07:33:34+00:00</published>
-  </entry>
   <entry>
     <id>1kVnz1unhFmO7cTXRQAZEG</id>
     <title>패치 노트: 네모바지 스폰지밥</title>
