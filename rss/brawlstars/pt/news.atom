@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-02T16:39:44.026415+00:00</updated>
+  <updated>2025-01-02T17:31:44.321478+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -321,5 +321,15 @@ Essa é uma pergunta que só &lt;i&gt;você&lt;/i&gt; pode responder... 🍍&lt;
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4lGIQWFxIVHiF2VgPRr4D1/91e05c526a2cf0587312aabd3ec85888/0102_Pizza_Planet_Event_inbox_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2025-01-02T08:59:34+00:00</published>
+  </entry>
+  <entry>
+    <id>6RM8rm6iDeETCXLGxwXP9</id>
+    <title>Confira a Dublagem do Tio Gus!</title>
+    <updated>2025-01-02T16:51:04.093000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/6RM8rm6iDeETCXLGxwXP9"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/e27nGBEJnULpDoT4y05rR/5b099fe6e0409a2b088cc43257324fdf/Picsart_25-01-02_10-31-36-719.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=qt7zUYNDXzs"/>
+    <category term="Comunidade"/>
+    <published>2025-01-02T16:51:04+00:00</published>
   </entry>
 </feed>
