@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-02T03:37:57.887347+00:00</updated>
+  <updated>2025-01-02T04:37:19.826512+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -409,5 +409,25 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2wuNNQn9QUOgIjwoyhLrM4/3cb802312afd717fa5446ddea0fea592/tw_20241220_bs_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-12-20T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3Xew0XKKUIbH6hXi7pM2mF</id>
+    <title>【盛主播】謎寶攻擊有哪些特點🧐？</title>
+    <updated>2025-01-02T04:12:35.160000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/3Xew0XKKUIbH6hXi7pM2mF"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3ZCANONSZp1tHgkMGngWZr/f2696ece6ce823027d92d971156c1562/tw_20250102_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=_WlRACGd0AQ"/>
+    <category term="最新情報"/>
+    <published>2025-01-02T04:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Qx1i82sToq1fuFb9R4Xg7</id>
+    <title>【嘿!兄弟】帶你了解可把對手關起來的謎寶🎱！</title>
+    <updated>2025-01-02T04:14:46.784000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/Qx1i82sToq1fuFb9R4Xg7"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2rALzZLG9nVcf1LKRTf3QA/67f73e998dd665f4df566439aaef3a04/tw_20250102_heybros_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=3hxP5wZiK24"/>
+    <category term="最新情報"/>
+    <published>2025-01-02T04:01:00+00:00</published>
   </entry>
 </feed>
