@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-03T01:56:21.835592+00:00</updated>
+  <updated>2025-01-03T02:59:04.815102+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -519,5 +519,25 @@
     <link href="https://youtube.com/shorts/c59ORg2YTXE?feature=share"/>
     <category term="最新情報"/>
     <published>2024-12-30T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7AwwtLxcS7SjvKS6SEdzl2</id>
+    <title>【阿酸】實測自帶附魔效果的新卡牌！</title>
+    <updated>2025-01-03T02:33:12.993000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/7AwwtLxcS7SjvKS6SEdzl2"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wCqkgoJcGCun5kpMc2S2v/9d9a9514ad715ff3388c82235909f3ed/tw_20250103_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=39HRdYEvhc0"/>
+    <category term="最新情報"/>
+    <published>2025-01-03T02:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1QhizN4hh0vUvRBltd8ZNR</id>
+    <title>【Xiake】符文巨人對於戰局的影響是？</title>
+    <updated>2025-01-03T02:31:58.571000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/1QhizN4hh0vUvRBltd8ZNR"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/uh04NYKRulewtN1u0nHCC/89eaf559cfd8846c8a3dfdf5ee189d56/tw_20250103_xiake_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=ghQI05nomG4"/>
+    <category term="最新情報"/>
+    <published>2025-01-03T02:01:00+00:00</published>
   </entry>
 </feed>
