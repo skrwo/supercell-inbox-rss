@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-newsEntries-fr</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-03T07:28:58.136035+00:00</updated>
+  <updated>2025-01-03T08:38:03.115951+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -233,7 +233,7 @@ Shade fait peur aux ennemis proches, les ralentissant pendant 4 secondes.&lt;/p&
   <entry>
     <id>49BuyTboQeye3O4NAEvQCR</id>
     <title>NOTES DE PATCH : Toy Story !</title>
-    <updated>2024-12-26T23:52:06.732000+00:00</updated>
+    <updated>2025-01-03T08:35:34.877000+00:00</updated>
     <content>&lt;h1&gt;Maintenance et modifications d'équilibrage - 18 décembre&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Équilibrages :&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Buzz l&amp;#39;Éclair 🚀&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mode Sabre :&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;PV : 4 500 → 4 200Charge du super des attaques de base : 4 coups→ 5 coups&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mode Laser :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Dégâts : 1 160 → 1 080 (charge du super légèrement réduite)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;b&gt;Corrections :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;La zone réservée a changé d&amp;#39;emplacement dans la carte Sports aquatiques&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La musique de l&amp;#39;environnement Skatepark a été changée&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La tourelle de Jessie apparaît désormais dans les cartes de combat et dans son animation de victoire&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Éléments visuels de l&amp;#39;animation de défaite de Kenji modifiés&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction de Kenji qui pouvait faire sortir la balle de la carte en Brawlball 5c5&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La description de l&amp;#39;hypercharge de Buzz l&amp;#39;Éclair affiche désormais l&amp;#39;icône correcte pour la vitesse (affichait auparavant l&amp;#39;icône de santé)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Remporter la victoire avec Buzz l&amp;#39;Éclair n&amp;#39;affiche plus d&amp;#39;augmentation ou de perte de trophées sur l&amp;#39;écran principal. Le nombre de trophées reste le même.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction du plantage lorsque Buzz l&amp;#39;Éclair s&amp;#39;envolait hors de la carte&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Janet ne retourne plus au point de départ de son premier super si elle utilise son super hyperchargé juste avant d&amp;#39;atterrir&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le gadget Canne ferrée de Gray charge désormais son super&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La première flaque créée par le super de Berry n&amp;#39;inflige plus immédiatement 3 040 points de dégâts&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction de l&amp;#39;animation de Melody pendant et suivant son hypercharge&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les skins recolorisés des fêtes Brawl de Nita et Dynamike sont désormais correctement nommés&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les bâtons de Chuck scorpion des sables se placent désormais au bon endroit&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;Mise à jour facultative pour Android et iOS&lt;/h1&gt;
@@ -276,7 +276,7 @@ Shade fait peur aux ennemis proches, les ralentissant pendant 4 secondes.&lt;/p&
   <entry>
     <id>58PXswgjyh5AjJP1V5omDx</id>
     <title>TOUT SUR L'ÉVÉNEMENT PIZZA PLANÈTE !</title>
-    <updated>2025-01-03T06:02:51.531000+00:00</updated>
+    <updated>2025-01-03T08:32:13.027000+00:00</updated>
     <content>&lt;h1&gt;TOUT SUR L'ÉVÉNEMENT PIZZA PLANÈTE !&lt;/h1&gt;
 &lt;p&gt;L&amp;#39;événement Pizza Planète commence TOUT DE SUITE ! Vous pouvez gagner le skin Surge l&amp;#39;Éclair et le nouveau brawler Meeple GRATUITEMENT !&lt;/p&gt;&lt;h4&gt;&lt;b&gt;Votre mission : récupérer des parts de pizza et les dépenser sur des offres dans le magasin de Pizza Planète !&lt;/b&gt;&lt;/h4&gt;&lt;p&gt;&lt;b&gt;&amp;quot;Comment récupérer ces délicieuses parts de pizza ?&amp;quot;&lt;/b&gt;
 Rien de plus simple ! Vous pouvez les obtenir grâce à différentes sources :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Le calendrier des parts de pizza dans le magasin (une fois par jour)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les offres du jour dans le magasin de Pizza Planète&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les quêtes de saison&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Le concours classé&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vous voulez plus de parts sans devoir vous acharner au travail ? Vous pouvez en acheter dans le magasin contre des gemmes !&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;&amp;quot;Qu&amp;#39;est-ce que je peux faire avec les parts de pizza ?&amp;quot;&lt;/b&gt;
