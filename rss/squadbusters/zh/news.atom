@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-01-03T09:32:39.743594+00:00</updated>
+  <updated>2025-01-03T10:38:03.007755+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1046,5 +1046,30 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1QGXMlsvSnA5c4KAXfxdJK/0f43fdd01269d077de61d5ced257b75d/tw_20241227_Creators_12w4_Live_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-12-27T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4et42glGcUyYhaJ9JqHECW</id>
+    <title>創作者們直播預告！（1月第1週）</title>
+    <updated>2025-01-03T10:13:39.423000+00:00</updated>
+    <content>&lt;p&gt;突擊隊長們，大家好！
+
+搶先了解每週創作者直播安排，
+希望對於大家是有所幫助的。
+直播中除了能與創作者和他們的觀眾互動外，
+透過直播相信能收獲樂趣與對戰觀念！
+
+本週與上週相同，
+&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜&lt;/a&gt;、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540derderteacher%253Fsub_confirmation%253D1')"&gt;阿德老師&lt;/a&gt;和&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540Wish-SB%253Fsub_confirmation%253D1')"&gt;Wish&lt;/a&gt;都安排了直播！
+大家假日或平日晚上時間有空時，
+不妨到他們的頻道看看直播放鬆一下唷！&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3iVa4X0vzev7xeRsbEKOW7/c4f7d1176be5e18731093fa846f3978e/tw_20250103_Creators_1w1_Live_Schedule.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;預計進行直播的創作者們其頻道如下（按照直播時間先後排列）：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540derderteacher%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;阿德老師 &lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;&lt;b&gt;烏龜 Turtle &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540Wish-SB%253Fsub_confirmation%253D1')"&gt;F2P Wish-SB &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;創作者頻道常常會介紹許多新資訊或是攻略，
+有時還會舉辦小型趣味賽事！
+想要提升自己對戰技巧或與更多同好同樂，
+請記得訂閱他們，才不會錯過優質內容唷！&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/4et42glGcUyYhaJ9JqHECW"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3tEsAp9n7681Uxske6xghP/2febbdb40a170f6b4c5a04eec508038d/tw_20250103_Creators_1w1_Live_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2025-01-03T10:00:00+00:00</published>
   </entry>
 </feed>
