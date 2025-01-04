@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2025-01-04T21:30:05.521920+00:00</updated>
+  <updated>2025-01-04T22:32:42.285384+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -84,5 +84,35 @@ Squad Leaders also have access to a Squad Flare. This works as a normal flare, b
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/vdwNHhmYPY385LIFZP9Ww/1c43c6116f7cac255af568ca238d6e3f/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Blog"/>
     <published>2024-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5GCSOabeKZsHs0OndBjGSp</id>
+    <title>This January on Boom Beach</title>
+    <updated>2025-01-04T21:42:34.375000+00:00</updated>
+    <content>&lt;h1&gt;This January in Boom Beach&lt;/h1&gt;
+&lt;p&gt;As we kick off the new year, prepare for an exhilarating month filled with thrilling events and opportunities to showcase your strategic prowess on the battlefield.&lt;/p&gt;&lt;p&gt;3 - 5: Warrior &amp;amp; Zooka Mania: Combine the lightning-fast strikes of Warriors with the explosive power of Zookas for a devastating offensive duo!
+
+6 - 8: Cryo Bomb: Freeze your enemies in their tracks with this chilling Gunboat Ability, perfect for creating tactical advantages.
+
+6 - 12: Cryo Tank: Deploy these icy behemoths to slow enemy defenses and pave the way for your troops.
+
+10 - 12: Grenadier &amp;amp; Laser Ranger Mania: Unleash a barrage of explosives and precision laser fire with this formidable long-range combination!
+
+17 - 19: Heavy &amp;amp; Mech Mania: Bring the brawn to the battlefield with the unbeatable duo of Heavies and Mechs, creating an unstoppable frontline.
+
+20 - 22: Explosive Drones: Take Explosive Drones to the battlefield and devastate your opponent!
+
+24 - 26: Lunar Mega Crab: Celebrate the Lunar New Year with this special edition of Mega Crab, offering unique challenges and rewards!
+
+27 - Feb 16: Warships Season 70: Set sail for a new season of Warships featuring fresh layouts, exciting strategies, and exclusive rewards.
+
+27 - Feb 2: Turret Engineer: Upgrade your offensive game with this proto troop, perfect for your attacks.
+
+31 - Feb 2: Bombardier &amp;amp; Medic Mania: Close out the month with a bang by pairing the long-range devastation of Bombardiers with the healing support of Medics.
+&lt;/p&gt;</content>
+    <link href="https://boombeach.inbox.supercell.com/#/en/news/5GCSOabeKZsHs0OndBjGSp"/>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/4VOqufY8ReD1ae4W29QNSq/1b0cd83e09953a42880abfe8380270c1/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
+    <category term="Blog"/>
+    <published>2025-01-01T00:00:00+00:00</published>
   </entry>
 </feed>
