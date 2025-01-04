@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-01-04T09:30:45.343555+00:00</updated>
+  <updated>2025-01-04T10:36:01.417573+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1071,5 +1071,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3tEsAp9n7681Uxske6xghP/2febbdb40a170f6b4c5a04eec508038d/tw_20250103_Creators_1w1_Live_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-01-03T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>i6feq9thXZIz5PrbAwVOO</id>
+    <title>【阿德老師】決鬥模式角色評比</title>
+    <updated>2025-01-04T10:00:03.298000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/i6feq9thXZIz5PrbAwVOO"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1MFcfqNWTtf9bM2r0MWHoO/d5975fc575aed3cb053b06287d2f64c3/tw_20250104_derder_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=rMNfw1fwDGU"/>
+    <category term="最新情報"/>
+    <published>2025-01-04T10:00:00+00:00</published>
   </entry>
 </feed>
