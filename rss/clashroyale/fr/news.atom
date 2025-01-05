@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-05T17:30:22.093393+00:00</updated>
+  <updated>2025-01-05T18:37:37.761721+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>1Q2ABYJgC3ZmSEcxLdJcQu</id>
-    <title>Perdez si vous l'osez.</title>
-    <updated>2024-10-13T20:08:53+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/1Q2ABYJgC3ZmSEcxLdJcQu"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4oMzY03zAYIpqvbgmUZ4zL/7703369eea140c3daefc8e75e510e19d/loseifyoudare.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/bgVeniWQNsc"/>
-    <category term="Temps forts"/>
-    <published>2024-10-06T15:30:03+00:00</published>
-  </entry>
   <entry>
     <id>A2lfJu71gQbOZvCaVPsin</id>
     <title>Changements d'équilibrage (octobre)</title>
