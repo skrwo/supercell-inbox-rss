@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-06T04:38:23.217908+00:00</updated>
+  <updated>2025-01-06T05:36:06.099691+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -316,9 +316,13 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
   <entry>
     <id>58PXswgjyh5AjJP1V5omDx</id>
     <title>피자 플래닛 이벤트의 모든 것을 알려드립니다!</title>
-    <updated>2025-01-06T02:43:56.207000+00:00</updated>
-    <content>&lt;h1&gt;1월 3일 피자 플래닛 오류 수정 안내&lt;/h1&gt;
-&lt;h3&gt;1. 피자 플래닛 오류 수정 안내&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;이제 아케이드 콘테스트에 정상적으로 참여할 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;점검이 종료되면 모든 플레이어의 보유 피자 조각이 0으로 설정될 예정입니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;피자 조각이 0인 상태로 이벤트를 시작한 플레이어에겐 300 피자 조각의 보상이 지급됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;보상은 수신함으로 직접 지급되며, 해당 과정은 며칠 정도 소요될 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;상점에서 보석으로 피자 조각을 구매한 플레이어는 다시 상점에서 피자 조각을 수령할 수 있도록 할 예정입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;2. 피자 플래닛 추가 유의 사항&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;피자 조각을 300 이상 소모한 플레이어에겐 보상이 지급되지 않습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;피자 조각 보유량 관련 문제는 피자 조각이 집게 머니를 대체하면서 발생한 문제로 이전 이벤트에서 남아 있던 집게 머니가 초기화되지 않고 피자 조각으로 전환된 현상으로 파악됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이후에도 추가적인 점검을 통해 이벤트 관련 문제를 수정해 나갈 계획입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;게임 서비스에 이용에 불편을 드린 점 대단히 죄송합니다.&lt;/p&gt;
+    <updated>2025-01-06T05:00:33.192000+00:00</updated>
+    <content>&lt;h1&gt;점검 - 1월 3일&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;수정 사항 및 세부사항&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1&lt;/b&gt; - 이제 모든 플레이어가 아케이드 콘테스트를 정상적으로 이용할 수 있습니다. (아케이드 콘테스트 보상 화면에서 멈추던 플레이어 포함)
+&lt;b&gt;2&lt;/b&gt; -점검이 끝난 후에는 모든 플레이어의 피자 조각이 0개로 초기화됩니다.
+&lt;b&gt;3&lt;/b&gt; - 하지만 점검 전에 0개의 피자 조각으로 시작했던 플레이어에게는 보상을 지급해 드립니다.
+&lt;b&gt;4&lt;/b&gt; - 보상은 피자 조각 300개이며, 해당 보상을 받는 플레이어가 많아 계정에 지급되기까지 최대 며칠이 걸릴 수 있습니다. 보상은 계정으로 직접 지급되며, 수신함에서 수령 가능합니다. (수신함은 화면 오른쪽 상단에 있으며, 보상이 지급되면 알림이 표시됩니다.)
+&lt;b&gt;5&lt;/b&gt; - 상점에서 보석을 사용해 피자 조각을 구매한 플레이어는 구매한 피자 조각을 상점에서 다시 수령할 수 있습니다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;추가 정보&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;이미 피자 조각을 보유한 상태에서 이벤트를 시작했고, 피자 플래닛 상점에서 피자 조각을 300개 이상 사용한 플레이어에게는 보상이 지급되지 않습니다. (이미 다른 플레이어보다 &amp;quot;앞서&amp;quot; 이벤트를 시작했기 때문입니다.)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이번 문제는 피자 플래닛 이벤트 시작 전, 이전 이벤트에서 모은 화폐(집게 머니)가 초기화되지 않고 피자 조각을 대체했기 때문에 발생했습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;이벤트와 관련된 사소한 문제를 해결하기 위해 추가 점검이 다음 주 또는 추후 실시될 수 있습니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;이번에 발생한 예기치 못한 문제로 인해 불편을 드려 죄송합니다. 오늘 이후부터 이벤트가 원활하게 진행되기를 바랍니다!&lt;/p&gt;
 &lt;h1&gt;피자 플래닛 이벤트의 모든 것을 알려드립니다!&lt;/h1&gt;
 &lt;p&gt;피자 플래닛 이벤트가 시작되었습니다. 서지 라이트이어 스킨과 신규 브롤러 미플을 무료로 받으세요!&lt;/p&gt;&lt;h4&gt;&lt;b&gt;여러분의 미션은 바로, 피자 조각을 모으고, 모은 피자 조각을 피자 플래닛 상점에서 특별 상품을 구매하는 데 사용하는 것입니다!&lt;/b&gt;&lt;/h4&gt;&lt;p&gt;&lt;b&gt;&amp;quot;맛있는 피자 조각은 어떻게 모을 수 있나요?&amp;quot;&lt;/b&gt;
 아주 간단합니다! 다음 획득처에서 얻을 수 있습니다.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;상점의 피자 조각 달력(일 1회 이용 가능)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;피자 플래닛 상점의 일일 상품&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;시즌 퀘스트&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;점수판 콘테스트&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;매일 조금씩 말고, 더 많은 피자 조각을 얻고 싶으신가요? 상점에서 보석으로 구매할 수도 있답니다!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;“피자 조각은 어디에 쓰나요?”&lt;/b&gt;
