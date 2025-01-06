@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-06T15:32:10.539438+00:00</updated>
+  <updated>2025-01-06T16:41:00.752930+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -428,7 +428,7 @@
   <entry>
     <id>58PXswgjyh5AjJP1V5omDx</id>
     <title>比薩星球活動詳情介紹！</title>
-    <updated>2025-01-06T12:00:00.548000+00:00</updated>
+    <updated>2025-01-06T15:57:45.707000+00:00</updated>
     <content>&lt;h1&gt;維護時間 - 1月3日&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;問題修復詳情：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1&lt;/b&gt; - 現在所有玩家應該都能正常參加電玩對決活動了，包括卡在電玩對決獎勵介面的玩家。
 &lt;b&gt;2&lt;/b&gt; - 維護後，所有玩家的比薩片數量都會重置為0。
