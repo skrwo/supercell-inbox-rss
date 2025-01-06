@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-06T07:30:19.132208+00:00</updated>
+  <updated>2025-01-06T08:39:11.213800+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -247,5 +247,14 @@ Menangkan Emote eksklusif!&lt;/p&gt;
     <link href="https://youtube.com/shorts/c59ORg2YTXE?feature=share"/>
     <category term="Berita"/>
     <published>2024-12-30T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3z2ivnt1r51IpxX3z6WmdM</id>
+    <title>Kartu Baru: Raksasa Rune!</title>
+    <updated>2025-01-06T07:42:16.159000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/3z2ivnt1r51IpxX3z6WmdM"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RmcwzFx6xNADaB67yZd6N/24504f88c93bba4873edf2cda3d210a7/Buff_Giant___GoblinDart_BLUE_ingame.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2025-01-02T15:00:00+00:00</published>
   </entry>
 </feed>
