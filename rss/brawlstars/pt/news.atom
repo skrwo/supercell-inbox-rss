@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-newsEntries-pt</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-06T03:03:38.901133+00:00</updated>
+  <updated>2025-01-06T03:41:15.233193+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -284,16 +284,6 @@ Shade assusta os inimigos próximos, desacelerando-os por 4 segundos.&lt;/p&gt;&
     <published>2024-12-19T10:00:00+00:00</published>
   </entry>
   <entry>
-    <id>487FLwhfkGeqMP0Oq3dO65</id>
-    <title>Animação da Força Starr</title>
-    <updated>2025-01-02T09:20:01.043000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/487FLwhfkGeqMP0Oq3dO65"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7BKZNH8mwGga5x99M19DJy/a68b15f9669e2f1b2b091f3bb50439dc/1230_Starr_Force_Animation_Launch_YT_thumb01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/T0Z9WsTuR04"/>
-    <category term="Video"/>
-    <published>2024-12-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>6MFUGTY7vUzwJG2lnGnAtR</id>
     <title>Vem conferir o Protha Awards 2024! </title>
     <updated>2024-12-31T01:28:30.999000+00:00</updated>
@@ -302,6 +292,16 @@ Shade assusta os inimigos próximos, desacelerando-os por 4 segundos.&lt;/p&gt;&
     <link href="https://youtu.be/ISb_2V7R5ME?si=YyjQ8E6NjV11xjNg"/>
     <category term="Comunidade"/>
     <published>2024-12-31T01:28:30+00:00</published>
+  </entry>
+  <entry>
+    <id>487FLwhfkGeqMP0Oq3dO65</id>
+    <title>Animação da Força Starr</title>
+    <updated>2025-01-06T03:35:28.526000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/pt/news/487FLwhfkGeqMP0Oq3dO65"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7BKZNH8mwGga5x99M19DJy/a68b15f9669e2f1b2b091f3bb50439dc/1230_Starr_Force_Animation_Launch_YT_thumb01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/T0Z9WsTuR04"/>
+    <category term="Video"/>
+    <published>2025-01-02T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>58PXswgjyh5AjJP1V5omDx</id>

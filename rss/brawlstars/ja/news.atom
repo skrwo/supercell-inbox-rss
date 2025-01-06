@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-06T03:03:38.315086+00:00</updated>
+  <updated>2025-01-06T03:41:14.893410+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -565,16 +565,6 @@ HP：2400 → 2700に上昇&lt;/p&gt;&lt;p&gt;&lt;b&gt;クランシー&lt;/b&gt;
     <published>2024-12-19T10:00:00+00:00</published>
   </entry>
   <entry>
-    <id>487FLwhfkGeqMP0Oq3dO65</id>
-    <title>スターフォースアニメーション</title>
-    <updated>2025-01-02T09:20:01.043000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/487FLwhfkGeqMP0Oq3dO65"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7BKZNH8mwGga5x99M19DJy/a68b15f9669e2f1b2b091f3bb50439dc/1230_Starr_Force_Animation_Launch_YT_thumb01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/T0Z9WsTuR04"/>
-    <category term="ビデオ"/>
-    <published>2024-12-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>47nYCHdRXEi4HgMrUMLxLM</id>
     <title>YAPIMARUさん企画「ブロスタオールスター2024」開催！</title>
     <updated>2024-12-20T15:04:46.282000+00:00</updated>
@@ -593,6 +583,16 @@ HP：2400 → 2700に上昇&lt;/p&gt;&lt;p&gt;&lt;b&gt;クランシー&lt;/b&gt;
     <link href="https://www.youtube.com/watch?v=zMoHIF5P3XM"/>
     <category term="コミュニティ"/>
     <published>2024-12-31T15:43:09+00:00</published>
+  </entry>
+  <entry>
+    <id>487FLwhfkGeqMP0Oq3dO65</id>
+    <title>スターフォースアニメーション</title>
+    <updated>2025-01-06T03:35:28.526000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/487FLwhfkGeqMP0Oq3dO65"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7BKZNH8mwGga5x99M19DJy/a68b15f9669e2f1b2b091f3bb50439dc/1230_Starr_Force_Animation_Launch_YT_thumb01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/T0Z9WsTuR04"/>
+    <category term="ビデオ"/>
+    <published>2025-01-02T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>20IGd7mY1fJsNTAn40iez</id>

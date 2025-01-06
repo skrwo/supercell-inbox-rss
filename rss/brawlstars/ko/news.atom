@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-06T03:03:37.471905+00:00</updated>
+  <updated>2025-01-06T03:41:14.582147+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -294,16 +294,6 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <published>2024-12-19T10:00:00+00:00</published>
   </entry>
   <entry>
-    <id>487FLwhfkGeqMP0Oq3dO65</id>
-    <title>스타 포스 애니메이션</title>
-    <updated>2025-01-02T09:20:01.043000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/487FLwhfkGeqMP0Oq3dO65"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7BKZNH8mwGga5x99M19DJy/a68b15f9669e2f1b2b091f3bb50439dc/1230_Starr_Force_Animation_Launch_YT_thumb01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/T0Z9WsTuR04"/>
-    <category term="동영상"/>
-    <published>2024-12-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>2QO3BorJTPDT5P3QwzFaY0</id>
     <title>🎄 2024년 브롤리데이 플레이리스트 🎄</title>
     <updated>2024-12-23T13:55:27.641000+00:00</updated>
@@ -312,6 +302,16 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <link href="https://youtu.be/Pmv4xHuOucw"/>
     <category term="커뮤니티"/>
     <published>2024-12-23T13:55:27+00:00</published>
+  </entry>
+  <entry>
+    <id>487FLwhfkGeqMP0Oq3dO65</id>
+    <title>스타 포스 애니메이션</title>
+    <updated>2025-01-06T03:35:28.526000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/487FLwhfkGeqMP0Oq3dO65"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7BKZNH8mwGga5x99M19DJy/a68b15f9669e2f1b2b091f3bb50439dc/1230_Starr_Force_Animation_Launch_YT_thumb01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/CA0D5pLuPuo"/>
+    <category term="동영상"/>
+    <published>2025-01-02T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>58PXswgjyh5AjJP1V5omDx</id>

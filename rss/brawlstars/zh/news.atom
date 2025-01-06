@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-06T03:03:37.719216+00:00</updated>
+  <updated>2025-01-06T03:41:15.396526+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -381,16 +381,6 @@
     <published>2024-12-19T10:00:00+00:00</published>
   </entry>
   <entry>
-    <id>487FLwhfkGeqMP0Oq3dO65</id>
-    <title>亂鬥星勢力動畫</title>
-    <updated>2025-01-02T09:20:01.043000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/487FLwhfkGeqMP0Oq3dO65"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7BKZNH8mwGga5x99M19DJy/a68b15f9669e2f1b2b091f3bb50439dc/1230_Starr_Force_Animation_Launch_YT_thumb01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/T0Z9WsTuR04"/>
-    <category term="動畫"/>
-    <published>2024-12-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>5VwG8pw0Xi3jRwkOhk5B65</id>
     <title>亂鬥蹤跡</title>
     <updated>2024-12-20T11:00:33.681000+00:00</updated>
@@ -404,6 +394,16 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2wuNNQn9QUOgIjwoyhLrM4/3cb802312afd717fa5446ddea0fea592/tw_20241220_bs_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-12-20T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>487FLwhfkGeqMP0Oq3dO65</id>
+    <title>亂鬥星勢力動畫</title>
+    <updated>2025-01-06T03:35:28.526000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/487FLwhfkGeqMP0Oq3dO65"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7BKZNH8mwGga5x99M19DJy/a68b15f9669e2f1b2b091f3bb50439dc/1230_Starr_Force_Animation_Launch_YT_thumb01.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/T0Z9WsTuR04"/>
+    <category term="動畫"/>
+    <published>2025-01-02T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>3Xew0XKKUIbH6hXi7pM2mF</id>
