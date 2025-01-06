@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2025-01-06T08:39:15.933459+00:00</updated>
+  <updated>2025-01-06T09:33:58.180461+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6luXvKBXwtgkWRoddQO05e</id>
-    <title>Créez une ferme fabuleuse et gagnez des récompenses !</title>
-    <updated>2024-10-08T08:01:14.464000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/6luXvKBXwtgkWRoddQO05e"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1bx3Rttb8uHgaNeVpqiJg1/c4d880e707e648101227f190da547821/HayDay_Decoration_Event_Thumbnail_03.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/22Smb8PhqQk"/>
-    <category term="Nouvelles"/>
-    <published>2024-10-08T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1ee9RawVaQpusomepxDReU</id>
     <title>Calendrier des événements Hay Day (semaine 42)</title>
@@ -311,5 +301,16 @@
     <link href="https://youtu.be/-Fw3so2daD0"/>
     <category term="Nouvelles"/>
     <published>2024-12-30T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>1grbu5xFOZp2mDjLEwf395</id>
+    <title>Calendrier des événements Hay Day (semaine 1)</title>
+    <updated>2025-01-06T09:03:32.124000+00:00</updated>
+    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 1)&lt;/h1&gt;
+&lt;p&gt;Bonjour à tous ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements et les derbys commencent à 8 h UTC (9 h, heure française). Vous pouvez en savoir plus sur les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lundi&lt;/b&gt; : roue de la Fortune, pièces de puzzle&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mardi&lt;/b&gt; : événement du camion, pièces x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercredi&lt;/b&gt; : bateau, pièces de puzzle&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jeudi&lt;/b&gt; : visiteurs de la ferme, vide-grenier&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vendredi&lt;/b&gt; : coin de pêche, boost de production de 20 % pour les poissons + points du pass Hay Day doublés&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samedi&lt;/b&gt; : visiteurs de la ville, EXP x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dimanche&lt;/b&gt; : fruits, trois types d&amp;#39;arbres ou d&amp;#39;arbustes aléatoires produisent des fruits 2x plus vite&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt; : Mystère&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/1grbu5xFOZp2mDjLEwf395"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Événements"/>
+    <published>2025-01-06T09:01:32+00:00</published>
   </entry>
 </feed>

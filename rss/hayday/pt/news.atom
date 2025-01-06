@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2025-01-06T08:39:16.803413+00:00</updated>
+  <updated>2025-01-06T09:33:56.303850+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6luXvKBXwtgkWRoddQO05e</id>
-    <title>Ganhe prêmios com o seu design da fazenda!</title>
-    <updated>2024-10-08T08:01:14.464000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/6luXvKBXwtgkWRoddQO05e"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1bx3Rttb8uHgaNeVpqiJg1/c4d880e707e648101227f190da547821/HayDay_Decoration_Event_Thumbnail_03.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/22Smb8PhqQk"/>
-    <category term="Notícias"/>
-    <published>2024-10-08T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1ee9RawVaQpusomepxDReU</id>
     <title>Semana 42 de Hay Day</title>
@@ -280,5 +270,16 @@
     <link href="https://youtu.be/RoFDPQwlWfU"/>
     <category term="Comunidade"/>
     <published>2024-12-27T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>1grbu5xFOZp2mDjLEwf395</id>
+    <title>Semana 1 de Hay Day</title>
+    <updated>2025-01-06T09:03:32.124000+00:00</updated>
+    <content>&lt;h1&gt;Semana 1 de Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com peças de quebra-cabeça.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: moedas em dobro com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: peças de quebra-cabeça com os pedidos do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: venda de itens usados com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 20% da área de pesca + dobro de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: dobro de XP com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três tipos aleatórios de árvores ou arbustos produzirão frutos com o dobro de velocidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: misteriosa.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/1grbu5xFOZp2mDjLEwf395"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2025-01-06T09:01:32+00:00</published>
   </entry>
 </feed>

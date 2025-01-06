@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2025-01-06T08:39:17.618265+00:00</updated>
+  <updated>2025-01-06T09:33:57.837044+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6luXvKBXwtgkWRoddQO05e</id>
-    <title>Çiftliğini tasarlayarak ödüller kazan!</title>
-    <updated>2024-10-08T08:01:14.464000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/6luXvKBXwtgkWRoddQO05e"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1bx3Rttb8uHgaNeVpqiJg1/c4d880e707e648101227f190da547821/HayDay_Decoration_Event_Thumbnail_03.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/22Smb8PhqQk"/>
-    <category term="Haberler"/>
-    <published>2024-10-08T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1ee9RawVaQpusomepxDReU</id>
     <title>Hay Day 42. Hafta</title>

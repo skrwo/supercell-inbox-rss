@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2025-01-06T08:39:18.137702+00:00</updated>
+  <updated>2025-01-06T09:33:58.846997+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6luXvKBXwtgkWRoddQO05e</id>
-    <title>農場をデザインして報酬をゲット！</title>
-    <updated>2024-10-08T08:01:14.464000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/ja/news/6luXvKBXwtgkWRoddQO05e"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1bx3Rttb8uHgaNeVpqiJg1/c4d880e707e648101227f190da547821/HayDay_Decoration_Event_Thumbnail_03.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/22Smb8PhqQk"/>
-    <category term="ニュース"/>
-    <published>2024-10-08T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>1ee9RawVaQpusomepxDReU</id>
     <title>ヘイ・デイ第42週</title>
@@ -311,5 +301,16 @@
     <link href="https://youtu.be/-Fw3so2daD0"/>
     <category term="ニュース"/>
     <published>2024-12-30T08:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>1grbu5xFOZp2mDjLEwf395</id>
+    <title>ヘイ・デイ第1週</title>
+    <updated>2025-01-06T09:03:32.124000+00:00</updated>
+    <content>&lt;h1&gt;ヘイ・デイ第1週&lt;/h1&gt;
+&lt;p&gt;農場主の皆さま、こんにちは！今週も各種イベントをお楽しみください！イベントやダービーはすべて日本時間17時から始まります。各イベントの詳細は、ゲーム内のイベント掲示板からご確認ください。&lt;/p&gt;&lt;p&gt;**月曜日：**ルーレット回転（パズルピース）&lt;/p&gt;&lt;p&gt;**火曜日：**トラックのお仕事（コイン2倍）&lt;/p&gt;&lt;p&gt;**水曜日：**船のお仕事（パズルピース）&lt;/p&gt;&lt;p&gt;**木曜日：**農場の訪問客（フリーマーケット）&lt;/p&gt;&lt;p&gt;**金曜日：**釣り場の施設ブースト（全施設の生産速度が20％アップ）+ 農場パスポイント2倍&lt;/p&gt;&lt;p&gt;**土曜日：**町の訪問客（経験値2倍）&lt;/p&gt;&lt;p&gt;**日曜日：**果物ブースト（イベント中、3種類の木または茂みの生産速度が2倍にアップ）&lt;/p&gt;&lt;p&gt;**ダービー：**ミステリーダービー&lt;/p&gt;&lt;p&gt;それでは、素敵な1週間を！&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/1grbu5xFOZp2mDjLEwf395"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="イベント"/>
+    <published>2025-01-06T09:01:32+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-eventEntries-ko</id>
   <title>Clashroyale - Event</title>
-  <updated>2025-01-06T08:39:08.512973+00:00</updated>
+  <updated>2025-01-06T09:33:52.538419+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -27,15 +27,6 @@
     <published>2024-11-08T16:35:35+00:00</published>
   </entry>
   <entry>
-    <id>5suFus59IFP1rLuS27cx2t</id>
-    <title>🗞️</title>
-    <updated>2024-12-02T09:08:05.566000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/2qEavBtU9OZAfu3TD4wfQK"&gt;👉자세한 내용 확인!👈&lt;/a&gt; -- &lt;a href="https://youtu.be/hqrwnjgR4NU?si=vV5aqtV91dOATnuC"&gt;👉확인하기!👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3dTe7pXuB9Fq3J3OVZxyNO/eadd149c33eb1d9271cdb2a0ee580aa4/1202_season66_inboxKV__960x764__02.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <published>2024-12-02T09:04:35+00:00</published>
-  </entry>
-  <entry>
     <id>3m3sHBUCk93JRuzW6egIIs</id>
     <title>🗞️</title>
     <updated>2024-12-16T11:09:57.482000+00:00</updated>
@@ -43,5 +34,14 @@
 &lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/6LRgiiEG8lo6AqHQF5jsZL"&gt;👉자세한 내용 확인!👈&lt;/a&gt; -- &lt;a href="https://youtube.com/shorts/TGUWgNbZ_AA?si=-fw_AlaSq7GtFsOu"&gt;👉확인하기!👈&lt;/a&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5DB4guEkRhpSDWcPQsa6ZL/2f06b6e3d951b3e4e1c971688fc5e8c7/image__10_.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <published>2024-12-16T10:22:48+00:00</published>
+  </entry>
+  <entry>
+    <id>5HAU6eUtA4Wujv0Npz6yMw</id>
+    <title>🗞️</title>
+    <updated>2025-01-06T09:11:29.266000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/7rGel3JoJ1ypcJlHa6oXBU"&gt;👉읽어보기!👈&lt;/a&gt; -- &lt;a href="https://youtube.com/shorts/wHDXMba-XUg?si=eAMQ59bprRiEPTeM"&gt;👉확인하기!👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3EIqX26k6vPTAkkTYW8ZRx/27b07d1e41229ee0129cae85360f3bac/0106_season67_inboxKV__960x764__02.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <published>2025-01-06T09:10:03+00:00</published>
   </entry>
 </feed>

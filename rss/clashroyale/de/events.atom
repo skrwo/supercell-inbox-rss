@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-eventEntries-de</id>
   <title>Clashroyale - Event</title>
-  <updated>2025-01-06T08:39:09.334420+00:00</updated>
+  <updated>2025-01-06T09:33:52.387394+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -17,15 +17,6 @@
     <published>2024-11-08T16:35:35+00:00</published>
   </entry>
   <entry>
-    <id>5suFus59IFP1rLuS27cx2t</id>
-    <title>Kuschelige Clashmas</title>
-    <updated>2024-12-02T09:08:05.566000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/de/news/2qEavBtU9OZAfu3TD4wfQK"&gt;👉Lesen👈&lt;/a&gt; -- &lt;a href="https://youtu.be/SwrPvXraSP4"&gt;👉Ansehen👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/799wnc5h7NLnCJ3Yp1E6xU/33733526b2b7552e33f3e09d939b28c9/SUP3969_Season_66_Season_Carousel_Image-960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <published>2024-12-02T09:04:35+00:00</published>
-  </entry>
-  <entry>
     <id>3m3sHBUCk93JRuzW6egIIs</id>
     <title>Neue Turmtrupp!</title>
     <updated>2024-12-16T11:09:57.482000+00:00</updated>
@@ -33,5 +24,14 @@
 &lt;a href="https://clashroyale.inbox.supercell.com/#/de/news/6LRgiiEG8lo6AqHQF5jsZL"&gt;👉Mehr dazu👈&lt;/a&gt; -- &lt;a href="https://www.youtube.com/shorts/JUEjO3NCSlI"&gt;👉Watch👈&lt;/a&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3YJsV45LLIhkNmzt8hHDaI/b6f49d07c8936c1ea477ac8d55c72f2a/Royal_Chef_Tower_Troop_FINAL.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <published>2024-12-16T10:22:48+00:00</published>
+  </entry>
+  <entry>
+    <id>5HAU6eUtA4Wujv0Npz6yMw</id>
+    <title>🗞️</title>
+    <updated>2025-01-06T09:11:29.266000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/de/news/7rGel3JoJ1ypcJlHa6oXBU"&gt;👉Lesen👈&lt;/a&gt; -- &lt;a href="TBC"&gt;👉Ansehen👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3ryZN4hd2QIQLZvBc36FZR/ed39a976a2a23a1d04f12e55db0b3232/SUP3973_Season_67_Season_Carousel_Image-960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <published>2025-01-06T09:10:03+00:00</published>
   </entry>
 </feed>
