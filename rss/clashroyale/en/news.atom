@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-07T16:11:56.782419+00:00</updated>
+  <updated>2025-01-07T16:51:12.283020+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -339,7 +339,7 @@ Win an exclusive Emote!&lt;/p&gt;
   <entry>
     <id>3QzPOpdprqQdDwMIYaVAWm</id>
     <title>January Balance Changes</title>
-    <updated>2025-01-07T16:05:30.414000+00:00</updated>
+    <updated>2025-01-07T16:15:20.367000+00:00</updated>
     <content>&lt;p&gt;New Year, New Balance Changes!&lt;/p&gt;&lt;p&gt;It&amp;#39;s time to shake things up in the Arena! In this big wave, we&amp;#39;re adjusting some overperforming and underwhelming cards and addressing several design issues and inconsistencies.
 
 &lt;b&gt;THESE CHANGES WILL BE LIVE AFTER A MAINTENANCE BREAK ON WEDNESDAY, JANUARY 8&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
@@ -475,7 +475,7 @@ Win an exclusive Emote!&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;&lt;b&gt;Rage Duration
 &lt;/b&gt;6s → 5.5s (-8%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Damage
-&lt;/b&gt;200 → 220 (10%)&lt;/p&gt;
+&lt;/b&gt;200 → 220 (6%)&lt;/p&gt;
 &lt;p&gt;To maintain consistency across the game, we’re reducing the duration of the Lumberjack&amp;#39;s Rage effect to match the duration of the Rage spell. However, we’re also increasing his damage to offset the potential damage per second loss.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;That’s all for now!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;If you like these changes or feel there&amp;#39;s still room for improvement, please let us know. We value your feedback and would love to hear from you!&lt;/p&gt;&lt;p&gt;See you in the Arena,
 &lt;i&gt;The Clash Royale Team&lt;/i&gt;&lt;/p&gt;</content>
