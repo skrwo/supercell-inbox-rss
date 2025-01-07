@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-06T23:30:22.762742+00:00</updated>
+  <updated>2025-01-07T01:57:37.010183+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -246,6 +246,16 @@ Gagnez une émote exclusive !&lt;/p&gt;
     <link href="https://youtube.com/shorts/c59ORg2YTXE?feature=share"/>
     <category term="Actualités"/>
     <published>2024-12-30T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3z2ivnt1r51IpxX3z6WmdM</id>
+    <title>New Card: Rune Giant!</title>
+    <updated>2025-01-07T01:52:40.749000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/3z2ivnt1r51IpxX3z6WmdM"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4RmcwzFx6xNADaB67yZd6N/24504f88c93bba4873edf2cda3d210a7/Buff_Giant___GoblinDart_BLUE_ingame.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/DPPcV0-0QWs"/>
+    <category term="Actualités"/>
+    <published>2025-01-02T15:00:00+00:00</published>
   </entry>
   <entry>
     <id>7rGel3JoJ1ypcJlHa6oXBU</id>
