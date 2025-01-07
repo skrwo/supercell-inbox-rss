@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-07T12:55:39.520888+00:00</updated>
+  <updated>2025-01-07T15:03:57.435290+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -335,5 +335,153 @@ Win an exclusive Emote!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2kHOTEJun3KamjZnVY5ZY3/4fc59d2a56d241a165d293979e37b251/SUP3973_Season_67_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="News"/>
     <published>2025-01-06T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3QzPOpdprqQdDwMIYaVAWm</id>
+    <title>January Balance Changes</title>
+    <updated>2025-01-07T14:47:04.477000+00:00</updated>
+    <content>&lt;p&gt;New Year, New Balance Changes!&lt;/p&gt;&lt;p&gt;It&amp;#39;s time to shake things up in the Arena! In this big wave, we&amp;#39;re adjusting some overperforming and underwhelming cards and addressing several design issues and inconsistencies.
+
+&lt;b&gt;THESE CHANGES WILL BE LIVE AFTER A MAINTENANCE BREAK ON WEDNESDAY, JANUARY 8&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;NERFS ⬇️&lt;/h1&gt;
+
+&lt;h1&gt;Archer Queen&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1BbBC0kN1QFEaNOWu1I4wv/2bf5eff75134bdfd7073e6a743066af5/archer-queen.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Cloaking Cape Cooldown
+&lt;/b&gt;15s → 17s (13%)&lt;/p&gt;
+&lt;p&gt;Previously, Archer Queen could use her ability twice during a single deployment—once for defense and once for offense—making her way too powerful. With the new increased cooldown, we aim to limit her ability to just one use per deployment (in most cases), giving Archer Queen&amp;#39;s opponents a fairer chance to deal with her.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Cannon Cart&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Shield Hitpoints
+&lt;/b&gt;892 → 824 (-8%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hitpoints
+&lt;/b&gt;820 → 824 (0%)&lt;/p&gt;
+&lt;p&gt;The excessive Shield Hitpoints made Canon Cart too tough. The new reduced Shield&amp;#39;s durability makes Cannon Cart more manageable without compromising its unique role as a damage-dealing mobile unit. Another reason for lowering Cannon Cart&amp;#39;s Shield Hitpoints is to align them with the Hitpoints of its stationary form. Moving forward, any balance changes to Cannon Cart will focus on maintaining consistency between its &amp;#39;Wheeled&amp;#39; and &amp;#39;Wheel-Free&amp;#39; forms. &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Fisherman&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/296en3HCwrsuNhlvU2ugio/ec27ee43dfd8436253d1a0e989bf7c32/Fisherman.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Slow Duration from Anchor
+&lt;/b&gt;2.5s → 1.5s (-40%)&lt;/p&gt;
+&lt;p&gt;This change aims to cut excess power from Fisherman while keeping most interactions consistent.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblinstein&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Doctor Hitpoints
+&lt;/b&gt;885 → 721 (-19%)&lt;/p&gt;
+&lt;p&gt;Goblinstein has shifted the meta heavily toward Lightning and Rocket as the preferred spells, and we aim to restore spell diversity. So, Doctor can now be destroyed by Poison or combinations like Fireball + Zap.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Ram Rider&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Hitpoints
+&lt;/b&gt;1767 → 1696 (-4%)&lt;/p&gt;
+&lt;p&gt;While we appreciate that the Charge Range buff has made Ram Rider and Prince much more viable in 2024, Ram Rider reaches towers too effortlessly, albeit often with very low Health. We&amp;#39;re reducing the Ram Rider&amp;#39;s Hitpoints to make her easier to counter. &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Spear Goblins&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;First Hit Speed
+&lt;/b&gt;3s → 4s (33%)&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re partially reverting Spear Goblins&amp;#39; June buff as an indirect nerf to Goblin Gang and Goblin Giant.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Bomber Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;One attack cannot damage the same enemy twice&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Bomber Evolution&amp;#39;s attack could hit a target twice from certain angles and distances. This interaction was unpredictable and often frustrating, particularly with Crown Towers. So, we&amp;#39;re removing it to make the Bomber&amp;#39;s behaviour more consistent and balanced. &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Electro Dragon Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53azp1Zw59FWVfFP5Grz8I/7945bc95185d5c4a2dc7e057f72c5297/electrodragonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Extra Chain Damage
+&lt;/b&gt;192 → 128 (-33%)&lt;/p&gt;
+&lt;p&gt;Electro Dragon Evolution was single-handedly destroying huge pushes, which was frustrating for decks that don&amp;#39;t have specific counters like Lightning.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblin Barrel Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6F2LRXJiTfesyhLt6nNYRj/3992b7cfad9e65d1db61699330db781e/goblinbarrelevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Additional visual indicator on Decoy Barrel&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The fact that both barrels were identical added too much randomness to the battle, which conflicted with the game&amp;#39;s core design. This change aims to nerf the card while maintaining its viability as a dual-lane offensive tool.
+&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Ice Spirit Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/43h81XUw7jeSjMdtRHcA8x/d7d58a2a40fb4dcb41a7b5fd2040d694/icespiritevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Ice Blasts
+&lt;/b&gt;3 times → 2 times (-33%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ice Blast Damage
+&lt;/b&gt;110 → 163 (48%)&lt;/p&gt;
+&lt;h1&gt;Skeletons Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4v4Jlj0ed6ULBEGZFwFb2g/81b61d41d3cdda8f90a08322834a73f6/skeletons_evolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Skeletons on Deploy
+&lt;/b&gt;4 → 3 (-25%)&lt;/p&gt;
+&lt;p&gt;These Evolutions were too efficient on defense and too strong at shutting down huge pushes for only 1 Elixir.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;P.E.K.K.A Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Heal per death&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Scales with the HP of the destroyed troop&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Healing Values at Level 11&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Small troops (&amp;lt;990 HP): 282 → 142 (-50%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Medium troops (991-1989 HP): 282 → 282 (0%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Large troops (&amp;gt;1990 HP): 282 → 565 (100%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;P.E.K.K.A Evolution now heals based on the maximum Health of the troop she destroys rather than a fixed amount. This rework decreases her ability to farm Hitpoints on smaller swarm troops, such as Skeletons or Goblin Gang, while maintaining her strength against big guys like Giant.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Royal Recruits Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/57WXREtbLQFHj91T4RTgAI/2aeb7f88c1dff51da6aad0d9b6f52a68/royal-recruits-ev1.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Charge Range
+&lt;/b&gt;1.5 tiles → 2 tiles (33%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Charge Damage
+&lt;/b&gt;273 → 266 (-3%)&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BUFFS ⬆️&lt;/h1&gt;
+
+&lt;h1&gt;Dark Prince&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14wNhTVoIYcsBZSNg2vMWX/5098f215b07a737d7a2ba0ea8fef7411/DarkPrince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Charge Range
+&lt;/b&gt;3.5 tiles → 3 tiles (-14%)&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re rebalancing Charge Ranges for Royal Recruits Evolution and Dark Prince, making the ranges consistent across the game. Troops that cost 5 or more Elixir will now have a 2-tile Charge Range, while those that cost 4 Elixir will have a 3-tile Charge Range.&lt;/p&gt;&lt;p&gt;Additionally, we&amp;#39;re slightly reducing the Charge Damage for Royal Recruits Evolution to align it with other troops that deal double their regular damage as Charge Damage&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Baby Dragon&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/54qbPGQ3BqgUjE5NPmv2Q1/d0145ce38fde4100fcd22efa4a0920b9/Baby_Dragon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Attack Splash Radius
+&lt;/b&gt;1.2 tiles → 1.5 tiles (25%)&lt;/p&gt;
+&lt;h1&gt;Witch&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Tyx7aZCv75grZdp29nc6i/0a39fe4bb9a16e61121a9de6292f6505/Witch.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Attack Splash Radius
+&lt;/b&gt;1 tiles → 1.5 tiles (50%)&lt;/p&gt;
+&lt;p&gt;For consistency, all troops, except for Skeleton Dragons, should have a Splash Radius of 1.5 tiles on their attacks. &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Electro Giant&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2IUSJQZ3LiKgGBV1PnfaoP/b729181b680082c9229ceaa872860fac/ElectroGiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Added Sight Clipping&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Electro Giant will now behave consistently with other building-targeting troops and not attack buildings that are too far away.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblin Demolisher&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J8KdCJh1wmj0XF7XoHKOi/c0bfbbe4d9b54ab2dbd3058026e15d41/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Lifetime after 50% HP
+&lt;/b&gt;7s → 8s (14%)
+&lt;/p&gt;
+&lt;p&gt;The last nerf to Goblin Demolisher was too severe and made it difficult to damage towers in his second form.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Goblin Machine&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4prl3ihf330fkfTucbK2MM/83375cc3e0dae6ccd3e7f3f5f575eaec/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Damage
+&lt;/b&gt;135 → 212 (57%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hit Speed
+&lt;/b&gt;0.9s → 1.2s (33%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Damage per Second
+&lt;/b&gt;150 → 176 (17%)
+&lt;/p&gt;
+&lt;p&gt;As Goblin Machine struggles in the current meta, we&amp;#39;re reworking his melee attack to be slower and stronger. The Machine can now destroy Goblins in 1 attack.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Mighty Miner&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYp9te8VjaZiNBdJRaYyL/ca14e5184f75ee9f0b3401f33352439f/MightyMiner.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Damage Increase Time&lt;/b&gt;&lt;b&gt;
+&lt;/b&gt;2.25s → 2s (-11%)&lt;/p&gt;
+&lt;p&gt;Mighty Miner reaches his maximum damage faster, matching the speed of the Inferno Dragon and Inferno Tower.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Mini P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/zm41wHzp4QhoKAJq1a784/760ab871ed18eb5f5c7898afc93d19a1/MiniPEKKA.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Damage
+&lt;/b&gt;720 → 754 (5%)&lt;/p&gt;
+&lt;p&gt;Mini P.E.K.K.A now packs a meaner punch and can once again destroy Wizard in one hit. &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Cannon Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dFVgREur3VhAzLLxhXVk4/3d03c0d16d7b0ccc33771cd6e9e10e9d/cannonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Barrage Damage
+&lt;/b&gt;320 → 353 (10%)&lt;/p&gt;
+&lt;p&gt;Cannon Evolution is less popular than other Evolutions, so we are increasing its Barrage damage to make it a more viable option. &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Wall Breakers Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6gstQOpW7bik5xsr3OYa8X/975334dcb08b38c14dfc14dfa49675a0/wallbreakersevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Death Damage to Troops and Buildings
+&lt;/b&gt;195 → 292 (50%)&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re buffing Wall Breakers Evolution&amp;#39;s ability to damage troops when their barrel is destroyed, making them harder to stop on offense and potentially more viable as a defensive tool.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Dagger Duchess&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Projectile Speed
+&lt;/b&gt;600 → 1000 (66.67%)&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re increasing Duchess&amp;#39; dagger speed to buff her and resolve a rare bug that caused her to switch targets before destroying troops or buildings that take reduced damage.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Rework 🔄&lt;/h1&gt;
+
+&lt;h1&gt;Lumberjack&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Rage Duration
+&lt;/b&gt;6s → 5.5s (-8%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Damage
+&lt;/b&gt;200 → 220 (10%)&lt;/p&gt;
+&lt;p&gt;To maintain consistency across the game, we’re reducing the duration of the Lumberjack&amp;#39;s Rage effect to match the duration of the Rage spell. However, we’re also increasing his damage to offset the potential damage per second loss.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;That’s all for now!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;If you like these changes or feel there&amp;#39;s still room for improvement, please let us know. We value your feedback and would love to hear from you!&lt;/p&gt;&lt;p&gt;See you in the Arena,
+&lt;i&gt;The Clash Royale Team&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/3QzPOpdprqQdDwMIYaVAWm"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/K7p45FgrjH7Ks8Y2DPNQb/1d4b690ef91dd3b77ada660e13328453/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Release Notes"/>
+    <published>2025-01-07T14:47:04+00:00</published>
   </entry>
 </feed>
