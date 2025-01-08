@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2025-01-08T07:29:59.307443+00:00</updated>
+  <updated>2025-01-08T08:39:57.177278+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1334,5 +1334,18 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7eVodXVxi3ebQEIOJj1ETG/2927ad8750229781b8f9f7b9270eb4e9/maxresdefault__16__re.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="ビデオ"/>
     <published>2024-12-25T10:22:27+00:00</published>
+  </entry>
+  <entry>
+    <id>7DatgexqxAraVxj7ON42LY</id>
+    <title>編成のコツをクリエイターの動画から学ぼう！</title>
+    <updated>2025-01-08T08:21:27.217000+00:00</updated>
+    <content>&lt;h1&gt;【最強パ】理論値を出せ！編成を組む時に意識していることや考え方を紹介！&lt;/h1&gt;
+&lt;a href="https://youtu.be/zwBKCqOYP58?si=FhiMJrJNN3nA_D7e"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;【最強】無課金でも簡単に作れて無双出来る編成を作ってしまいました🤩&lt;/h1&gt;
+&lt;a href="https://youtu.be/mRxa8sEwxC4?si=IbmUfs01OoJRaHAE"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/7DatgexqxAraVxj7ON42LY"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4Wu9cbwhbWpijvroXGxP0Y/8a13bb4f71ce94176beaa9d690a439a9/maxresdefault__17__re.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="ビデオ"/>
+    <published>2025-01-08T08:21:27+00:00</published>
   </entry>
 </feed>
