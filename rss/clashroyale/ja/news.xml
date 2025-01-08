@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jan 2025 14:36:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 15:33:51 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -397,6 +397,147 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
       <category>ニュース</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2kHOTEJun3KamjZnVY5ZY3/4fc59d2a56d241a165d293979e37b251/SUP3973_Season_67_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Jan 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1月のバランス調整</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ja/news/3QzPOpdprqQdDwMIYaVAWm</link>
+      <description>&lt;p&gt;新年の訪れとともに新たなバランス調整が実装！&lt;/p&gt;&lt;p&gt;今回の変更で強力すぎる、または活躍の場に恵まれないカードの調整を行い、ゲームバランスの見直しや仕様の統一を目指します。&lt;/p&gt;&lt;p&gt;&lt;b&gt;これらの変更は、1月8日（水）に予定されているメンテナンス後に実装されます。&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;弱体化⬇️&lt;/h1&gt;
+
+&lt;h1&gt;アーチャークイーン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1BbBC0kN1QFEaNOWu1I4wv/2bf5eff75134bdfd7073e6a743066af5/archer-queen.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;シャドウクロークのクールダウン&lt;/b&gt;
+15秒 → 17秒（+13％）&lt;/p&gt;
+&lt;p&gt;アーチャークイーンはこれまで、1度の配置でスキルを2回使用できる状態でした。自陣の防衛時に使用したスキルゲージが、敵陣を攻撃する際にすでに回復していたため、姿は見えなくても大きな存在感を放っていました。そのため今回クールダウンが延長され、アーチャークイーンを配置した際のスキル使用可能回数が、基本的に1回になるように制限されています。この変更により、アーチャークイーンデッキとの対戦がよりフェアなものになるでしょう。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;60式 ムート&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;シールドのヒットポイント&lt;/b&gt;
+892 → 824（-8％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;ヒットポイント&lt;/b&gt;
+820 → 824（0％）&lt;/p&gt;
+&lt;p&gt;60式 ムートはシールドのヒットポイントが過度に高かったため、今回の調整でシールドの耐久性を下げ、相手側の迎撃を容易にします。それでも、ダメージ稼ぎを任せられる移動式ユニットとしての唯一無二の地位は揺るがないはずです。また、シールドのヒットポイントが下がったことで、車輪破壊後のヒットポイントとのバランスも改善されるでしょう。60式 ムートへの今後の調整は、車輪破壊前と車輪破壊後の性能の統一に焦点を当てたものとなります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;漁師トリトン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/296en3HCwrsuNhlvU2ugio/ec27ee43dfd8436253d1a0e989bf7c32/Fisherman.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;錨による移動力低下の効果時間&lt;/b&gt;
+2.5秒 → 1.5秒（-40％）&lt;/p&gt;
+&lt;p&gt;この変更により、漁師トリトンの強力すぎる部分を抑えつつ、ユニット自体の戦闘力をほぼ据え置きに維持できるはずです。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ゴブリンシュタイン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;博士のヒットポイント&lt;/b&gt;
+885 → 721（-19％）&lt;/p&gt;
+&lt;p&gt;以前の環境では、ゴブリンシュタインの対策としてライトニングやロケットなどのカードを優先して採用するデッキが目立っていました。今回の調整で、ポイズン、またはファイアボール＋ザップなどで博士を破壊できるようになるため、呪文の偏りが改善されるはずです。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ラムライダー&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ヒットポイント&lt;/b&gt;
+1767 → 1696（-4％）&lt;/p&gt;
+&lt;p&gt;突撃助走距離の強化により2024年の環境入りを果たしたラムライダーやプリンスですが、中でもラムライダーは多大なヒットポイントを犠牲にしつつも、難なくタワーにたどり着くことが可能でした。そのため今回はラムライダーのヒットポイントを低下させ、相手側の迎撃を容易にします。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;槍ゴブリン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;初撃速度&lt;/b&gt;
+3秒 → 4秒（+33％）&lt;/p&gt;
+&lt;p&gt;6月に行われた槍ゴブリンの強化の一部を以前の数値に戻し、ゴブリンギャングとゴブジャイアントを間接的に弱体化させます。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破ボンバー&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;1回の攻撃で同じ敵が2度ダメージを受けないように調整&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;以前まで、特定の角度と距離から射出された限界突破ボンバーの攻撃は、同じ対象に2度ダメージを与えることが可能で、特にクラウンタワーへの攻撃時に想定以上の高火力を発揮し、プレイ体験に支障をきたしていました。今回の調整で同じ対象にダメージが入る仕様を削除し、性能バランスを改善します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破ライトニングドラゴン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53azp1Zw59FWVfFP5Grz8I/7945bc95185d5c4a2dc7e057f72c5297/electrodragonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;追加連鎖ダメージ&lt;/b&gt;
+192 → 128（-33％）&lt;/p&gt;
+&lt;p&gt;以前の限界突破ライトニングドラゴンは、単騎で多数のユニットを破壊できる火力を備えており、ライトニングなどの特定の対策カードを採用していないデッキを大きく苦しめていました。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破ゴブリンバレル&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6F2LRXJiTfesyhLt6nNYRj/3992b7cfad9e65d1db61699330db781e/goblinbarrelevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;デコイバレル判別用の視覚的インディケーターを追加&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;以前は2つのバレルの見た目が完全に同じで、ゲームの基本デザインと相反するランダム性の要因となっていました。今回の変更で、両レーンを同時に攻撃するカード本来のコンセプトを維持しつつ、性能を弱体化させます。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破アイススピリット&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/43h81XUw7jeSjMdtRHcA8x/d7d58a2a40fb4dcb41a7b5fd2040d694/icespiritevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;アイスブラスト&lt;/b&gt;
+3回 → 2回（-33％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;アイスブラストのダメ―ジ&lt;/b&gt;
+110 → 163（+48％）&lt;/p&gt;
+&lt;h1&gt;限界突破スケルトン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4v4Jlj0ed6ULBEGZFwFb2g/81b61d41d3cdda8f90a08322834a73f6/skeletons_evolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;配置時の出撃数&lt;/b&gt;
+4 → 3（-25％）&lt;/p&gt;
+&lt;p&gt;優秀な性能で敵の大群を迎撃し、1エリクサーに見合わない防衛力を発揮していた限界突破カードを弱体化します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;撃破時回復&lt;/b&gt;&lt;/p&gt;&lt;p&gt;破壊したユニットのヒットポイントに応じて増減するように変更&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;レベル11での回復量&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;小型ユニット（990 HP以下）：282 → 142（-50％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中型ユニット（991～1989HP）：282 → 282（0％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;大型ユニット（1990 HP以上）：282 → 565（+100％）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;限界突破P.E.K.K.Aの撃破時回復量は固定ではなく、破壊したユニットの最大ヒットポイントに応じて増減するようになります。この変更により、ジャイアントなどの大型ユニットに対する有用性を維持しつつ、スケルトンやゴブリンギャングなどの小型ユニットの集団を破壊した際にヒットポイントが過度に回復しなくなります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破見習い親衛隊&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/57WXREtbLQFHj91T4RTgAI/2aeb7f88c1dff51da6aad0d9b6f52a68/royal-recruits-ev1.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;突撃助走距離&lt;/b&gt;
+1.5マス → 2マス（+33％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;突撃ダメージ&lt;/b&gt;
+273 → 266（-3％）&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h1&gt;強化⬆️&lt;/h1&gt;
+
+&lt;h1&gt;ダークプリンス&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14wNhTVoIYcsBZSNg2vMWX/5098f215b07a737d7a2ba0ea8fef7411/DarkPrince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;突撃助走距離&lt;/b&gt;
+3.5マス → 3マス（-14％）&lt;/p&gt;
+&lt;p&gt;限界突破見習い親衛隊とダークプリンスの突撃助走距離を調整します。今回の変更で、5エリクサー以上のユニットの突撃助走距離を2マスに、4エリクサーのユニットでは3マスに統一します。&lt;/p&gt;&lt;p&gt;さらに、限界突破見習い親衛隊の突撃ダメージを若干低下させ、突撃ダメージが通常ダメージの2倍となる他のユニットとのバランスを取ります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ベビードラゴン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/54qbPGQ3BqgUjE5NPmv2Q1/d0145ce38fde4100fcd22efa4a0920b9/Baby_Dragon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;範囲攻撃の当たり判定&lt;/b&gt;
+1.2マス → 1.5マス（+25％）&lt;/p&gt;
+&lt;h1&gt;ネクロマンサー&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Tyx7aZCv75grZdp29nc6i/0a39fe4bb9a16e61121a9de6292f6505/Witch.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;範囲攻撃の当たり判定&lt;/b&gt;
+1マス → 1.5マス（+50％）&lt;/p&gt;
+&lt;p&gt;今回の変更で、スケルトンドラゴンを除く全ユニットの範囲攻撃の当たり判定を1.5マスに統一します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;エレクトロジャイアント&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2IUSJQZ3LiKgGBV1PnfaoP/b729181b680082c9229ceaa872860fac/ElectroGiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;視認範囲限界を追加&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;今回の変更により、建物を攻撃する他のユニットと同じく、遠すぎる建物を目標にしないように調整します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ダイナマイトゴブリン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J8KdCJh1wmj0XF7XoHKOi/c0bfbbe4d9b54ab2dbd3058026e15d41/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ヒットポイント50％以降の生存時間&lt;/b&gt;
+7秒 → 8秒（+14％）&lt;/p&gt;
+&lt;p&gt;前回の調整でダイナマイトゴブリンを弱体化しすぎてしまったため、今回の強化で第二形態時のタワー攻撃能力を向上させます。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ゴブリンマシン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4prl3ihf330fkfTucbK2MM/83375cc3e0dae6ccd3e7f3f5f575eaec/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ダメージ&lt;/b&gt;
+135 → 212（+57％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;攻撃速度&lt;/b&gt;
+0.9秒 → 1.2秒（+33％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;毎秒ダメージ&lt;/b&gt;
+150 → 176（+17％）&lt;/p&gt;
+&lt;p&gt;ゴブリンマシンは現環境で活躍の機会が少なかったため、今回の調整で近接攻撃のダメージを上昇させつつ攻撃速度を低下させ、ゴブリンを1回の攻撃で破壊できるようにします。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;マイティディガー&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYp9te8VjaZiNBdJRaYyL/ca14e5184f75ee9f0b3401f33352439f/MightyMiner.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ダメージ上昇時間&lt;/b&gt;2.25秒 → 2秒（-11％）&lt;/p&gt;
+&lt;p&gt;マイティディガーのダメージ量が最大になるまでの時間が短縮され、インフェルノドラゴンやインフェルノタワーとのバランスを取ります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ミニP.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/zm41wHzp4QhoKAJq1a784/760ab871ed18eb5f5c7898afc93d19a1/MiniPEKKA.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ダメージ&lt;/b&gt;
+720 → 754（+5％）&lt;/p&gt;
+&lt;p&gt;ミニP.E.K.K.Aの単発ダメージが若干増加したことで、ウィザードを再びワンパンできるようになります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破大砲&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dFVgREur3VhAzLLxhXVk4/3d03c0d16d7b0ccc33771cd6e9e10e9d/cannonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;爆撃のダメージ&lt;/b&gt;
+320 → 353（+10％）&lt;/p&gt;
+&lt;p&gt;限界突破大砲は他の限界突破カードよりも採用率が低いため、爆撃のダメージを増加させて使用率の向上を図ります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破ウォールブレイカー&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6gstQOpW7bik5xsr3OYa8X/975334dcb08b38c14dfc14dfa49675a0/wallbreakersevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ユニットや建物への死亡時ダメージ&lt;/b&gt;
+195 → 292（+50％）&lt;/p&gt;
+&lt;p&gt;限界突破ウォールブレイカーが持つユニットへの攻撃能力を強化し、タワー侵攻時に相手に与えるプレッシャーを増加させつつ、防衛にも転用できるようなカードにすることを目指します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;ダガーガール&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ダガーの速度&lt;/b&gt;
+600 → 1000（+66.67％）&lt;/p&gt;
+&lt;p&gt;ダガーの速度を増加させてダガーガールを強化するとともに、稀に起きていたバグ（被ダメージを軽減するユニットや建物を破壊する前に攻撃目標を変更する）を修正します。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;リワーク🔄&lt;/h1&gt;
+
+&lt;h1&gt;ランバージャック&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;レイジの効果時間&lt;/b&gt;
+6秒 → 5.5秒（-8％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;ダメージ&lt;/b&gt;
+200 → 220（+10％）&lt;/p&gt;
+&lt;p&gt;ランバージャックのレイジの効果時間が、通常のレイジの呪文と同じになるように調整します。その代わりにランバージャックの攻撃力を上昇させ、毎秒ダメージの減少を防いでいます。&lt;/p&gt;&lt;hr/&gt;
+&lt;p&gt;&lt;i&gt;今回は以上です！&lt;/i&gt;&lt;/p&gt;&lt;p&gt;今回の変更の感想や他の改善案などがあれば、ぜひお聞かせください！&lt;/p&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！
+&lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">3QzPOpdprqQdDwMIYaVAWm</guid>
+      <category>リリース情報</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jOCPVoax8MjVTh2bKqHc8/edc03420084bae076f23a34315da9dba/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jan 2025 14:47:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
