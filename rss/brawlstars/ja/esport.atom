@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-08T08:39:17.200776+00:00</updated>
+  <updated>2025-01-08T09:32:49.901259+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>9v2cAgW43h7lvAGaqo2la</id>
-    <title>RIVAL CUP SPLIT 2 開催！</title>
-    <updated>2024-10-18T02:32:05.434000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/67dGiTziOxxTvpUi82aeou/eb7af53c15931f60ef4cfbb58c4d408f/GZcYxctbMAA0HMd.jpeg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://x.com/RivalEsportsHQ"/>
-    <category term="eスポーツ"/>
-    <published>2024-10-10T09:04:07+00:00</published>
-  </entry>
   <entry>
     <id>120B8KT69K9ctiH8emZMoI</id>
     <title>世界一決定戦 2024 Day1</title>
