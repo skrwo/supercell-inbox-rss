@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Jan 2025 08:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 09:32:45 +0000</lastBuildDate>
     <item>
       <title>WARTUNGSARBEITEN – ANPASSUNGEN DER SPIELBALANCE UND FEHLERBEHEBUNGEN</title>
       <link>https://clashroyale.inbox.supercell.com/#/de/news/tMDKlzaQhkhWvofCXzw0c</link>
@@ -275,6 +275,148 @@ Gewinne ein exklusives Emote!&lt;/p&gt;
       <category>News</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2kHOTEJun3KamjZnVY5ZY3/4fc59d2a56d241a165d293979e37b251/SUP3973_Season_67_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Jan 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Balanceänderungen im Januar</title>
+      <link>https://clashroyale.inbox.supercell.com/#/de/news/3QzPOpdprqQdDwMIYaVAWm</link>
+      <description>&lt;p&gt;Neues Jahr, neue Änderungen der Spielbalance!&lt;/p&gt;&lt;p&gt;Zeit für etwas Abwechslung in der Arena! Wir haben eine Vielzahl an Änderungen für zu gute Karten und solche, die zuletzt nicht überzeugen konnten. Außerdem gehen wir einige Designprobleme und Unregelmäßigkeiten an.&lt;/p&gt;&lt;p&gt;&lt;b&gt;DIESE ÄNDERUNGEN GELTEN NACH DER WARTUNGSPAUSE AM MITWOCH, DEN 8. JANUAR.&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;NERFS ⬇️&lt;/h1&gt;
+
+&lt;h1&gt;Bogenschützen-Königin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1BbBC0kN1QFEaNOWu1I4wv/2bf5eff75134bdfd7073e6a743066af5/archer-queen.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Abklingzeit vom Tarnumhang&lt;/b&gt;
+15 Sek. → 17 Sek. (+13 %)&lt;/p&gt;
+&lt;p&gt;Zuvor konnte die Bogenschützen-Königin ihre Fähigkeit bei einer Entsendung zweimal nutzen – einmal in der Defensive und einmal für eine Offensive. Das machte sie viel zu stark. Mit der Erhöhung der Abklingzeit wollen wir ihre Fähigkeit (in den meisten Fällen) auf eine Verwendung pro Entsendung begrenzen. Dies sollte es erleichtern, mit der Bogenschützen-Königin fertig zu werden.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Kanonenkarre&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Schild-Trefferpunkte&lt;/b&gt;
+892 → 824 (-8 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trefferpunkte&lt;/b&gt;
+820 → 824 (+0 %)&lt;/p&gt;
+&lt;p&gt;Durch die immensen Schild-Trefferpunkte war die Kanonenkarre zu robust. Mit dem schwächeren Schild ist die Kanonenkarre leichter zu besiegen, ohne dass ihre einzigartige Rolle als Schaden verursachende, mobile Einheit beeinträchtigt wird. Ein weiterer Anlass für die Senkung der Schild-Trefferpunkte der Kanonenkarre besteht in der Angleichung an ihre Trefferpunkte in stationärer Form. Bei zukünftigen Änderungen an der Kanonenkarre wird die Einheitlichkeit zwischen ihren Formen (mit und ohne Räder) im Vordergrund stehen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Fischer&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/296en3HCwrsuNhlvU2ugio/ec27ee43dfd8436253d1a0e989bf7c32/Fisherman.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Verlangsamungsdauer durch den Anker&lt;/b&gt;
+2,5 Sek. → 1,5 Sek. (-40 %)&lt;/p&gt;
+&lt;p&gt;Durch diese Anpassung soll der Fischer seine übermäßige Stärke einbüßen, während es bei den meisten Interaktionen keine Änderungen geben wird.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Dr. Frankobold&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Trefferpunkte des Doktors&lt;/b&gt;
+885 → 721 (-19 %)&lt;/p&gt;
+&lt;p&gt;Mit Dr. Frankobold wurde in der Meta unverhältnismäßig oft auf Blitz und Rakete als Zauber zurückgegriffen. Jetzt wollen wir bei den Zaubern wieder für mehr Vielfalt sorgen. Daher kann der Doktor jetzt durch Gift oder Kombinationen wie Feuerball und Knall besiegt werden.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Widderreiterin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Trefferpunkte&lt;/b&gt;
+1767 → 1696 (-4 %)&lt;/p&gt;
+&lt;p&gt;Wir sehen es positiv, dass die Erhöhung der Ansturmreichweite dazu führte, dass die Widderreiterin und der Prinz im Jahr 2024 viel größere Bedeutung fanden. Die Widderreiterin erreicht Türme jedoch etwas zu mühelos, allerdings oft mit sehr niedrigen Trefferpunkten. Wir ziehen der Widderreiterin einige Trefferpunkte ab, sodass es einfacher wird, sie zu kontern.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Speerkobolde&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Geschwindigkeit des ersten Treffers&lt;/b&gt;
+3 Sek. → 4 Sek. (+33 %)&lt;/p&gt;
+&lt;p&gt;Wir nehmen den Buff für die Speerkobolde vom Juni teilweise zurück, um indirekt die Koboldgang und den Koboldriesen abzuschwächen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Bomberentwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Ein Angriff kann demselben Gegner nicht zweimal Schaden zufügen&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Die Angriffe der Bomberentwicklung konnten ein Ziel aus bestimmten Winkeln auf gewisse Entfernung zweimal treffen. Diese Interaktion ließ sich nicht vorhersehen und führte oft zu Frustration, insbesondere bei Kronentürmen. Wir entfernen sie also, um das Verhalten der Bomberentwicklung einheitlicher und ausgewogener zu machen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Elektrodrachen-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53azp1Zw59FWVfFP5Grz8I/7945bc95185d5c4a2dc7e057f72c5297/electrodragonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Zusätzlicher Kettenschaden&lt;/b&gt;
+192 → 128 (-33 %)&lt;/p&gt;
+&lt;p&gt;Die Elektrodrachen-Entwicklung beendete im Alleingang massive Angriffe, was sich gegenüber Decks ohne spezielle Konter wie Blitz ungerecht anfühlte.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Koboldfass-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6F2LRXJiTfesyhLt6nNYRj/3992b7cfad9e65d1db61699330db781e/goblinbarrelevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Zusätzlicher visueller Indikator für die Fass-Attrappe&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dadurch, dass beide Fässer identisch aussahen, gab es im Kampf zu viele Zufallsfaktoren, was dem Kernprinzip des Spiels widerspricht. Mit dieser Änderung soll die Karte abgeschwächt werden, aber ihre Brauchbarkeit als offensive Option für beide Seiten erhalten bleiben.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Eisgeist-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/43h81XUw7jeSjMdtRHcA8x/d7d58a2a40fb4dcb41a7b5fd2040d694/icespiritevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Eis-Explosionen&lt;/b&gt;
+3 → 2 (-33 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Eis-Explosionsschaden&lt;/b&gt;
+110 → 163 (+48 %)&lt;/p&gt;
+&lt;h1&gt;Skelette-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4v4Jlj0ed6ULBEGZFwFb2g/81b61d41d3cdda8f90a08322834a73f6/skeletons_evolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Skelette bei Entsendung&lt;/b&gt;
+4 → 3 (-25 %)&lt;/p&gt;
+&lt;p&gt;Diese Entwicklungen waren für nur 1 Elixier zu effizient in der Verteidigung und beim Aufhalten größerer Angriffe.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A.-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Heilung pro Tod&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Skaliert mit den TP der besiegten Einheit&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Heilungswerte auf Level 11&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kleine Einheiten (&amp;lt;990 TP): 282 → 142 (-50 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mittlere Einheiten (991–1989 TP): 282 → 282 (±0 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Große Einheiten (&amp;gt;1990 TP): 282 → 565 (+100 %)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die P.E.K.K.A.-Entwicklung heilt sich nun abhängig von den maximalen Trefferpunkten der von ihr besiegten Truppe anstatt um einen feststehenden Betrag. Diese Überarbeitung mindert ihre Fähigkeit, im Kampf mit kleineren Einheitengruppen, wie Skeletten oder der Koboldgang, Trefferpunkte anzusammeln. Ihre Stärke gegen große Bedrohungen wie Riesen wird dagegen betont.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Königsrekruten-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/57WXREtbLQFHj91T4RTgAI/2aeb7f88c1dff51da6aad0d9b6f52a68/royal-recruits-ev1.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Ansturmreichweite&lt;/b&gt;
+1,5 Felder → 2 Felder (+33 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ansturmschaden&lt;/b&gt;
+273 → 266 (-3 %)&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h1&gt;BUFFS ⬆️&lt;/h1&gt;
+
+&lt;h1&gt;Dunkler Prinz&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14wNhTVoIYcsBZSNg2vMWX/5098f215b07a737d7a2ba0ea8fef7411/DarkPrince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Ansturmreichweite&lt;/b&gt;
+3,5 Felder → 3 Felder (-14 %)&lt;/p&gt;
+&lt;p&gt;Wir passen die Balance für die Ansturmreichweite der Königsrekruten-Entwicklung und des Dunklen Prinzen an, um im Spiel für Einheitlichkeit zu sorgen. Truppen mit Elixierkosten von 5 oder mehr verfügen nun über eine Ansturmreichweite von zwei Feldern, während sie für solche mit Elixierkosten von 4 bei drei Feldern liegt.&lt;/p&gt;&lt;p&gt;Außerdem senken wir den Ansturmschaden der Königsrekruten-Entwicklung geringfügig, um sie an andere Truppen anzugleichen, die als Ansturmschaden doppelten regulären Schaden verursachen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Drachenbaby&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/54qbPGQ3BqgUjE5NPmv2Q1/d0145ce38fde4100fcd22efa4a0920b9/Baby_Dragon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Radius des Flächenschadens&lt;/b&gt;
+1,2 Felder → 1,5 Felder (+25 %)&lt;/p&gt;
+&lt;h1&gt;Hexe&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Tyx7aZCv75grZdp29nc6i/0a39fe4bb9a16e61121a9de6292f6505/Witch.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Radius des Flächenschadens&lt;/b&gt;
+1 Feld → 1,5 Felder (+50 %)&lt;/p&gt;
+&lt;p&gt;Um für Einheitlichkeit zu sorgen, sollte der Radius des Flächenschadens für alle Truppen (außer Skelettdrachen) anderthalb Felder groß sein.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Elektroriese&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2IUSJQZ3LiKgGBV1PnfaoP/b729181b680082c9229ceaa872860fac/ElectroGiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Sichtreichweite beschränkt&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Der Elektroriese verhält sich jetzt wie andere Truppen, die sich auf Gebäude konzentrieren, und greift keine Gebäude an, die zu weit entfernt sind.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Koboldvernichter&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J8KdCJh1wmj0XF7XoHKOi/c0bfbbe4d9b54ab2dbd3058026e15d41/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Lebensdauer nach Erreichen von 50 % TP&lt;/b&gt;
+7 Sek. → 8 Sek. (+14 %)&lt;/p&gt;
+&lt;p&gt;Der letzte Nerf für den Koboldvernichter war zu drastisch und machte es schwierig, mit seiner zweiten Form Schaden gegen Türme zu erzielen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Koboldmaschine&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4prl3ihf330fkfTucbK2MM/83375cc3e0dae6ccd3e7f3f5f575eaec/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Schaden&lt;/b&gt;
+135 → 212 (+57 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Treffergeschwindigkeit&lt;/b&gt;
+0,9 Sek. → 1,2 Sek. (+33 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Schaden pro Sekunde&lt;/b&gt;
+150 → 176 (+17 %)&lt;/p&gt;
+&lt;p&gt;Da es die Koboldmaschine in der derzeitigen Meta ein wenig schwer hat, überarbeiten wir ihren Nahkampfangriff. Sie schlägt jetzt langsamer und härter zu. Somit braucht die Koboldmaschine gegen Kobolde nur eine Attacke.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Großer Gräber&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYp9te8VjaZiNBdJRaYyL/ca14e5184f75ee9f0b3401f33352439f/MightyMiner.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Zeit bis zur Schadenserhöhung&lt;/b&gt;
+2,25 Sek. → 2 Sek. (-11 %)&lt;/p&gt;
+&lt;p&gt;Der Große Gräber erreicht schneller seinen Maximalschaden. Somit zieht er mit dem Infernodrachen und dem Infernoturm gleich.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mini-P.E.K.K.A.&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/zm41wHzp4QhoKAJq1a784/760ab871ed18eb5f5c7898afc93d19a1/MiniPEKKA.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Schaden&lt;/b&gt;
+720 → 754 (+5 %)&lt;/p&gt;
+&lt;p&gt;Mini-P.E.K.K.A. kann jetzt heftiger zuschlagen und Magier wieder mit einem Treffer ausschalten.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Kanonenentwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dFVgREur3VhAzLLxhXVk4/3d03c0d16d7b0ccc33771cd6e9e10e9d/cannonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kugelhagel-Schaden&lt;/b&gt;
+320 → 353 (+10 %)&lt;/p&gt;
+&lt;p&gt;Die Kanonenentwicklung ist weniger beliebt als andere Entwicklungen. Wir erhöhen daher ihren Kugelhagel-Schaden, um sie zu einer nützlicheren Option zu machen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mauerbrecher-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6gstQOpW7bik5xsr3OYa8X/975334dcb08b38c14dfc14dfa49675a0/wallbreakersevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Todesschaden gegen Truppen und Gebäude&lt;/b&gt;
+195 → 292 (+50 %)&lt;/p&gt;
+&lt;p&gt;Wir geben der Mauerbrecher-Entwicklung mehr Schaden gegen Truppen, wenn ihr Fass zerstört wird. Dadurch sind sie in der Offensive schwieriger aufzuhalten und möglicherweise lassen sie sich auch in der Defensive nutzen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Dolchherzogin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Geschossgeschwindigkeit&lt;/b&gt;
+600 → 1000 (+66,67 %)&lt;/p&gt;
+&lt;p&gt;Wir erhöhen die Geschwindigkeit der Dolche der Herzogin, um sie zu stärken und einen seltenen Fehler zu beheben, der dazu führte, dass sie das Ziel wechselte, bevor sie Truppen oder Gebäude mit Schadensverringerung besiegt hatte.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Überarbeitung 🔄&lt;/h1&gt;
+
+&lt;h1&gt;Holzfäller&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Wutdauer&lt;/b&gt;
+6 Sek. → 5,5 Sek. (-8 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Schaden&lt;/b&gt;
+200 → 220 (+10 %)&lt;/p&gt;
+&lt;p&gt;Um im Spiel für Einheitlichkeit zu sorgen, verringern wir die Dauer des Wuteffekts des Holzfällers. Sie entspricht jetzt der Dauer des Wutzaubers. Wir erhöhen jedoch seinen Schaden, um den Schaden pro Sekunde nicht eventuell zu mindern.&lt;/p&gt;&lt;hr/&gt;
+&lt;p&gt;&lt;i&gt;Das war‘s fürs Erste!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Lass uns gerne wissen, ob dir diese Änderungen gefallen oder wo du Verbesserungspotenzial siehst. Wir wissen dein Feedback zu schätzen und würden mit Freude deine Meinung hören!&lt;/p&gt;&lt;p&gt;Wir sehen uns in der Arena!
+&lt;i&gt;Das Clash Royale-Team&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">3QzPOpdprqQdDwMIYaVAWm</guid>
+      <category>Versionshinweise</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jOCPVoax8MjVTh2bKqHc8/edc03420084bae076f23a34315da9dba/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jan 2025 14:47:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
