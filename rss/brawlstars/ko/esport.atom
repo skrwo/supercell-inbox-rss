@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-09T05:33:30.156464+00:00</updated>
+  <updated>2025-01-09T06:40:35.326886+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -50,5 +50,14 @@
     <link href="https://youtu.be/Wzmr-4bBylI?si=8g56pMjT7xMABqa1"/>
     <category term="이스포츠"/>
     <published>2025-01-06T05:29:58+00:00</published>
+  </entry>
+  <entry>
+    <id>1NUpqRoZ0DEOSEAST9YvFu</id>
+    <title>[Be Stars : Tryout 3화] 미래의 팀원을 만나고 왔습니다</title>
+    <updated>2025-01-09T06:06:55.814000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1NpxFtTlqGf5HvrtCdiy2c/4c5bac51398450d3c0efa1e6319e9ae2/Be_Stars_Ep.3____.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/1jSmBf4dRnM?si=x6nucn2MU4VqomiC"/>
+    <category term="이스포츠"/>
+    <published>2025-01-09T06:06:55+00:00</published>
   </entry>
 </feed>
