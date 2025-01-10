@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Jan 2025 11:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 12:55:12 +0000</lastBuildDate>
     <item>
       <title>MAINTENANCE - ÉQUILIBRAGES ET CORRECTIONS DE BUGS</title>
       <link>https://clashroyale.inbox.supercell.com/#/fr/news/tMDKlzaQhkhWvofCXzw0c</link>
@@ -266,6 +266,147 @@ Gagnez une émote exclusive !&lt;/p&gt;
       <category>Actualités</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2kHOTEJun3KamjZnVY5ZY3/4fc59d2a56d241a165d293979e37b251/SUP3973_Season_67_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Jan 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Équilibrages de janvier</title>
+      <link>https://clashroyale.inbox.supercell.com/#/fr/news/3QzPOpdprqQdDwMIYaVAWm</link>
+      <description>&lt;p&gt;Nouvelle année, nouveaux équilibrages !&lt;/p&gt;&lt;p&gt;On fait bouger les choses dans l&amp;#39;arène ! Dans cette manche de changements, nous améliorons certaines cartes faibles et ajustons également quelques designs.&lt;/p&gt;&lt;p&gt;&lt;b&gt;CES CHANGEMENTS SORTIRONT APRÈS LA MAINTENANCE DU MERCREDI 8 JANVIER&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;NERFS ⬇️&lt;/h1&gt;
+
+&lt;h1&gt;Reine des archères&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1BbBC0kN1QFEaNOWu1I4wv/2bf5eff75134bdfd7073e6a743066af5/archer-queen.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Délai d&amp;#39;attente de cape d&amp;#39;invisibilité&lt;/b&gt;
+15 s → 17 s (13 %)&lt;/p&gt;
+&lt;p&gt;Précédemment, la Reine des archères pouvait utiliser sa capacité deux fois pendant son déploiement —une fois en défense et une fois en offense— ce qui en faisait une unité surpuissante. Avec le nouveau délai d&amp;#39;attente, nous souhaitons limiter la capacité de la Reine des archères à une seule utilisation par déploiement (dans la plupart des cas) afin de laisser une chance à ses adversaires.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Charrette à canon&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Points de vie du bouclier&lt;/b&gt;
+892 → 824 (-8 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Points de vie&lt;/b&gt;
+820 → 824 (0 %)&lt;/p&gt;
+&lt;p&gt;Les PV du bouclier étaient trop hauts et rendaient la charrette à canon trop résistante. Ainsi, la réduction des PV du bouclier rend la charrette à canon plus facile à gérer pour l&amp;#39;ennemi, sans lui retirer sa spécificité d&amp;#39;unité à gros dégâts. Un autre objectif de cette réduction de PV du bouclier est également d&amp;#39;aligner ceux-ci avec les PV de la charrette en mode statique. À l&amp;#39;avenir, tout équilibrage de la charrette à canon aura pour objectif de maintenir une cohérence entre ses deux formes.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Pêcheur&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/296en3HCwrsuNhlvU2ugio/ec27ee43dfd8436253d1a0e989bf7c32/Fisherman.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durée de ralentissement de l&amp;#39;ancre&lt;/b&gt;
+2,5 s → 1,5 s (-40 %)&lt;/p&gt;
+&lt;p&gt;Cet ajustement a pour objectif de réduire le pouvoir excessif du pêcheur tout en maintenant la cohérence de ses interactions.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Gobelinstein&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;PV du docteur&lt;/b&gt;
+885 → 721 (-19 %)&lt;/p&gt;
+&lt;p&gt;Gobelinstein a eu un effet assez puissant sur la méta, qui s&amp;#39;est penchée vers les sorts de foudre et de roquette ; nous souhaitons restaurer l&amp;#39;utilisation de sorts variés. C&amp;#39;est pourquoi le docteur peut désormais être anéanti par le sort de poison ou par un combinaison telle que boule de feu + électrocution.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Cavabélière&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Points de vie&lt;/b&gt;
+1 767 → 1 696 (-4 %)&lt;/p&gt;
+&lt;p&gt;Nous savons que les buffs de la portée de leurs charges ont rendu la cavabélière et le Prince beaucoup plus viables en 2024, mais la cavabélière atteint néanmoins les tours trop facilement (même s&amp;#39;il ne lui reste plus beaucoup de PV). Nous réduisons les PV de la cavabélière pour la rendre plus facile à contrer.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Gobelins à lances&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vitesse de la première frappe&lt;/b&gt;
+3 s → 4 s (33 %)&lt;/p&gt;
+&lt;p&gt;Nous revenons partiellement sur notre buff du gobelin à lances de juin afin de nerf le gang de gobelins et le gobelin géant.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Bombardier évolué&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Une seule attaque ne peut plus blesser le même ennemi plusieurs fois&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;L&amp;#39;attaque du bombardier évolué pouvait blesser un seul ennemi deux fois, selon l&amp;#39;angle et la distance de lancer. Cette interaction était imprévisible et souvent frustrante, surtout vis-à-vis des tours couronnées. Donc nous la supprimons entièrement, afin de rendre le comportement du bombardier plus cohérent et équilibré.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Électro-dragon évolué&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53azp1Zw59FWVfFP5Grz8I/7945bc95185d5c4a2dc7e057f72c5297/electrodragonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts bonus en chaîne&lt;/b&gt;
+192 → 128 (-33 %)&lt;/p&gt;
+&lt;p&gt;L&amp;#39;électro-dragon évolué détruisait à lui seul de grosses vagues offensives, ce qui était très frustrant pour les decks qui n&amp;#39;ont pas de contre-offensives spécifiques, tel que le sort de foudre.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Fût à gobelins évolué&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6F2LRXJiTfesyhLt6nNYRj/3992b7cfad9e65d1db61699330db781e/goblinbarrelevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Indicateur visuel supplémentaire sur le fût de gobelins&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Les deux fûts étaient identiques, ce qui rendait l&amp;#39;interaction trop aléatoire et ne va pas avec le design ni l&amp;#39;objectif du jeu. Ce changement vise à appliquer un nerf à la carte tout en maintenant sa viabilité en tant qu&amp;#39;outil offensif sur deux voies.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Esprit de glace évolué&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/43h81XUw7jeSjMdtRHcA8x/d7d58a2a40fb4dcb41a7b5fd2040d694/icespiritevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Explosion de glace&lt;/b&gt;
+3 fois → 2 fois (-33 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dégâts de l&amp;#39;explosion de glace&lt;/b&gt;
+110 → 163 (48 %)&lt;/p&gt;
+&lt;h1&gt;Squelettes évolués&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4v4Jlj0ed6ULBEGZFwFb2g/81b61d41d3cdda8f90a08322834a73f6/skeletons_evolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Déploiement de squelettes&lt;/b&gt;
+4 → 3 (-25 %)&lt;/p&gt;
+&lt;p&gt;Pour une carte à 1 unité d&amp;#39;élixir, cette évolution était trop efficace en défense, et trop capable d&amp;#39;anéantir des vagues offensives.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A évoluée&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Soins par mort&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Augmentés selon les PV de l&amp;#39;unité détruite&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Soins au niveau 11&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Petites unités (&amp;lt;990 PV) : 282 → 142 (-50 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Unités moyennes (991-1 989 PV) : 282 → 282 (0 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Grosses unités (&amp;lt;1 990 PV) : 282 → 565 (100 %)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Les soins de P.E.K.K.A évoluée dépendent désormais des PV maximum de l&amp;#39;unité qu&amp;#39;elle détruit, au lieu d&amp;#39;être un chiffre établi. Cet équilibrage lui permet de moins farmer de PV sur les petites unités (comme des squelettes ou des gangs de gobelins) tout en gardant sa puissance contre les grosses unités telles que le géant.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Recrues royales évoluées&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/57WXREtbLQFHj91T4RTgAI/2aeb7f88c1dff51da6aad0d9b6f52a68/royal-recruits-ev1.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Portée de la charge&lt;/b&gt;
+1,5 → 2 cases (-33 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dégâts de charge&lt;/b&gt;
+273 → 266 (-3 %)&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h1&gt;BUFFS ⬆️&lt;/h1&gt;
+
+&lt;h1&gt;Prince ténébreux&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14wNhTVoIYcsBZSNg2vMWX/5098f215b07a737d7a2ba0ea8fef7411/DarkPrince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Portée de la charge&lt;/b&gt;
+3,5 → 3 cases (-14 %)&lt;/p&gt;
+&lt;p&gt;Nous rééquilibrons la portée de charge des recrues royales évoluées et du prince ténébreux, afin de garder une cohérence général dans le jeu. Les troupes coûtant 5 unités d&amp;#39;élixir ou plus auront désormais une portée de charge de 2 cases, et celles coûtant 4 unités d&amp;#39;élixir auront une portée de charge de 3 cases.&lt;/p&gt;&lt;p&gt;De plus, nous réduisons légèrement les dégâts de la charge des recrues royales évoluées afin de l&amp;#39;aligner avec les autres troupes qui infligent le double de dégâts en attaque de charge.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Bébé dragon&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/54qbPGQ3BqgUjE5NPmv2Q1/d0145ce38fde4100fcd22efa4a0920b9/Baby_Dragon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Rayon de l&amp;#39;attaque de zone&lt;/b&gt;
+1,2 → 1,5 cases (25 %)&lt;/p&gt;
+&lt;h1&gt;Sorcière&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Tyx7aZCv75grZdp29nc6i/0a39fe4bb9a16e61121a9de6292f6505/Witch.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Rayon de l&amp;#39;attaque de zone&lt;/b&gt;
+1 → 1,5 cases (50 %)&lt;/p&gt;
+&lt;p&gt;Afin de garder une cohérence, toutes les troupes (sauf les dragons squelettes) devraient avoir un rayon d&amp;#39;attaque de zone de 1,5 cases.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Électro-géant&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2IUSJQZ3LiKgGBV1PnfaoP/b729181b680082c9229ceaa872860fac/ElectroGiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Ajout de limite de vision&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Comme les autres troupes qui ciblent les bâtiments, l&amp;#39;électro-géant n&amp;#39;attaquera pas les bâtiments qui sont trop loin.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Gobelin explosif&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J8KdCJh1wmj0XF7XoHKOi/c0bfbbe4d9b54ab2dbd3058026e15d41/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durée de vie à moins de 50 % de PV&lt;/b&gt;
+7 s → 8 s (14 %)&lt;/p&gt;
+&lt;p&gt;Le dernier nerf du gobelin explosif était trop drastique et le gobelin avait du mal à infliger des dégâts aux tours dans sa seconde forme.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Machine gobeline&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4prl3ihf330fkfTucbK2MM/83375cc3e0dae6ccd3e7f3f5f575eaec/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts&lt;/b&gt;
+135 → 212 (57 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vitesse de frappe&lt;/b&gt;
+0,9 s → 1,2 s (33 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dégâts par seconde&lt;/b&gt;
+150 → 176 (17 %)&lt;/p&gt;
+&lt;p&gt;La machine gobeline est un peu à la traîne dans la méta actuelle, donc nous ajustons son attaque afin de la rendre plus lente mais plus puissante. La machine peut désormais anéantir des gobelins en une seule attaque.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Maître mineur&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYp9te8VjaZiNBdJRaYyL/ca14e5184f75ee9f0b3401f33352439f/MightyMiner.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durée d&amp;#39;augmentation des dégâts&lt;/b&gt;2,25 s → 2 s (-11 %)&lt;/p&gt;
+&lt;p&gt;Le Maître mineur atteint le maximum de dégâts plus vite — à la vitesse du dragon de l&amp;#39;enfer et de la tour de l&amp;#39;enfer.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mini P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/zm41wHzp4QhoKAJq1a784/760ab871ed18eb5f5c7898afc93d19a1/MiniPEKKA.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts&lt;/b&gt;
+720 → 754 (5 %)&lt;/p&gt;
+&lt;p&gt;Mini P.E.K.K.A frappe encore plus fort et peut à nouveau anéantir un sorcier en un coup.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Canon évolué&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dFVgREur3VhAzLLxhXVk4/3d03c0d16d7b0ccc33771cd6e9e10e9d/cannonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts du barrage&lt;/b&gt;
+320 → 353 (10 %)&lt;/p&gt;
+&lt;p&gt;Le canon évolué est moins populaire que ses confrères évolués, donc nous améliorons les dégâts de son barrage afin d&amp;#39;en faire une option plus viable.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Sapeurs évolués&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6gstQOpW7bik5xsr3OYa8X/975334dcb08b38c14dfc14dfa49675a0/wallbreakersevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts de mort aux troupes et bâtiments&lt;/b&gt;
+195 → 292 (50 %)&lt;/p&gt;
+&lt;p&gt;Nous appliquons un buff à la capacité des sapeurs évolués qui leur permet d&amp;#39;infliger des dégâts aux ennemis lorsque leur fût est détruit, les rendant plus résistants en offense et plus viables en défense.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Duchesse aux dagues&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vitesse des projectiles&lt;/b&gt;
+600 → 1 000 (66,67 %)&lt;/p&gt;
+&lt;p&gt;Nous augmentons la vitesse des dagues de la duchesse afin de lui donner un buff et de résoudre un bug qui lui faisait changer de cible avant de détruire des unités ou bâtiments recevant des dégâts réduits.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Ajustements 🔄&lt;/h1&gt;
+
+&lt;h1&gt;Bûcheron&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durée de rage&lt;/b&gt;
+6 s → 5,5 s (-8 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dégâts&lt;/b&gt;
+200 → 220 (10 %)&lt;/p&gt;
+&lt;p&gt;Afin de garder une cohérence dans le jeu, nous réduisons la durée de l&amp;#39;effet du bûcheron enragé, qui dure désormais aussi longtemps que le sort de rage. Cependant, afin de compenser pour la potentielle perte de dégâts par seconde, nous augmentons ses dégâts.&lt;/p&gt;&lt;hr/&gt;
+&lt;p&gt;&lt;i&gt;Et c&amp;#39;est tout pour l’instant !&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Si vous appréciez ces ajustements ou à l&amp;#39;inverse pensez qu&amp;#39;il y a encore à faire, n&amp;#39;hésitez pas à nous contacter. Vos retours nous sont précieux, et nous aimerions vous entendre !&lt;/p&gt;&lt;p&gt;À bientôt dans l&amp;#39;arène !
+&lt;i&gt;L&amp;#39;équipe de Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">3QzPOpdprqQdDwMIYaVAWm</guid>
+      <category>Notes de patch</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jOCPVoax8MjVTh2bKqHc8/edc03420084bae076f23a34315da9dba/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jan 2025 14:47:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
