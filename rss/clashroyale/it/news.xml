@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 10 Jan 2025 01:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 03:02:40 +0000</lastBuildDate>
     <item>
       <title>MANUTENZIONE: CORREZIONI DI ERRORI E MODIFICHE DI BILANCIAMENTO</title>
       <link>https://clashroyale.inbox.supercell.com/#/it/news/tMDKlzaQhkhWvofCXzw0c</link>
@@ -275,6 +275,147 @@ Vinci una provocazione esclusiva!&lt;/p&gt;
       <category>Notizie</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2kHOTEJun3KamjZnVY5ZY3/4fc59d2a56d241a165d293979e37b251/SUP3973_Season_67_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Jan 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modifiche di bilanciamento di gennaio</title>
+      <link>https://clashroyale.inbox.supercell.com/#/it/news/3QzPOpdprqQdDwMIYaVAWm</link>
+      <description>&lt;p&gt;Anno nuovo, modifiche di bilanciamento nuove!&lt;/p&gt;&lt;p&gt;È ora di cambiare un po&amp;#39; le carte in tavola con un bilanciamento bello grosso, in cui ci occuperemo di unità che fanno troppo bene (o troppo male) il loro dovere, di diversi problemi di progettazione e di incoerenze varie.&lt;/p&gt;&lt;p&gt;&lt;b&gt;QUESTE MODIFICHE SARANNO EFFETTIVE DA MERCOLEDÌ 8 GENNAIO, DOPO UN PERIODO DI MANUTENZIONE.&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;INDEBOLIMENTI ⬇️&lt;/h1&gt;
+
+&lt;h1&gt;Regina degli arcieri&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1BbBC0kN1QFEaNOWu1I4wv/2bf5eff75134bdfd7073e6a743066af5/archer-queen.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Periodo di ricarica del Manto dell&amp;#39;invisibilità&lt;/b&gt;
+Aumentato del 13% (da 15 secondi a 17)&lt;/p&gt;
+&lt;p&gt;Prima, la regina degli arcieri poteva usare la sua abilità due volte durante un unico schieramento, ovvero una volta in difesa e una in attacco, cosa che la rendeva troppo forte. Aumentando il periodo di ricarica, l&amp;#39;idea è quella di limitare a una volta l&amp;#39;uso della sua abilità (almeno nella maggior parte dei casi), così chi si troverà la regina davanti avrà qualche possibilità in più di sconfiggerla.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Cannone a rotelle&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Punti ferita dello scudo&lt;/b&gt;
+Diminuiti dell&amp;#39;8% (da 892 a 824)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Punti ferita&lt;/b&gt;
+Aumentati dello 0,05% (da 820 a 824)&lt;/p&gt;
+&lt;p&gt;La quantità eccessiva di punti ferita dello scudo rendevano il cannone a rotelle troppo duro da abbattere, quindi questa riduzione farà sì che il cannone sia più facile da affrontare, senza che ciò intacchi il suo ruolo unico di unità mobile offensiva. Un altro motivo alla base di questo indebolimento è quello di uniformare i punti ferita dello scudo con quelli della sua forma stazionaria. In seguito a queste decisioni, d&amp;#39;ora in avanti qualsiasi modifica fatta al cannone a rotelle manterrà l&amp;#39;uguaglianza tra la forma mobile e quella immobile.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Pescatore&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/296en3HCwrsuNhlvU2ugio/ec27ee43dfd8436253d1a0e989bf7c32/Fisherman.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durata del rallentamento causato dall&amp;#39;ancora&lt;/b&gt;
+Diminuita del 40% (da 2,5 secondi a 1,5)&lt;/p&gt;
+&lt;p&gt;Questa modifica ha lo scopo di ridurre l&amp;#39;efficacia eccessiva del pescatore, mantenendo pressoché inalterate tutte le altri interazioni che ha con gli avversari.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Goblinstein&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Punti ferita del dottore&lt;/b&gt;
+Diminuiti del 19% (da 885 a 721)&lt;/p&gt;
+&lt;p&gt;Goblinstein ha influenzato non poco il meta del gioco, facendo aumentare di un bel po&amp;#39; l&amp;#39;uso del Fulmine e del Razzo. Poiché vogliamo mantenere una certa varietà nell&amp;#39;utilizzo degli incantesimi, ora il dottore può essere eliminato col Veleno o sferrando certi attacchi combinati che usano, ad esempio, la Sfera infuocata e la Scarica.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Domatrice di arieti&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Punti ferita&lt;/b&gt;
+Diminuiti del 4% (da 1767 a 1696)&lt;/p&gt;
+&lt;p&gt;Sebbene abbiamo apprezzato il fatto che il cambio alla distanza di attivazione dell&amp;#39;attacco in carica abbia reso più popolari il principe e la domatrice nel 2024, quest&amp;#39;ultima riusciva a raggiungere le torri troppo facilmente, anche se alla fine le rimanevano pochi punti ferita. Con questa riduzione, sarà più semplice contrastarla.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Goblin lancieri&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità del primo colpo&lt;/b&gt;
+Rallentata del 33% (da 3 secondi a 4)&lt;/p&gt;
+&lt;p&gt;Abbiamo annullato in parte il potenziamento di giugno dato ai goblin lancieri, in modo da indebolire indirettamente anche la gang di goblin e il gigante goblin.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Bombarolo evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Lo stesso attacco non danneggia più lo stesso nemico due volte&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;L&amp;#39;attacco del bombarolo evoluto poteva colpire un nemico due volte se sferrato da una certa angolazione e da certe distanze, il che poteva dare luogo a situazioni imprevedibili e spesso frustranti, soprattutto se c&amp;#39;erano le torri della corona di mezzo. Abbiamo corretto questa meccanica, così ora l&amp;#39;attacco della truppa sarà più costante e bilanciato.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Drago elettrico evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53azp1Zw59FWVfFP5Grz8I/7945bc95185d5c4a2dc7e057f72c5297/electrodragonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni degli attacchi concatenati extra&lt;/b&gt;
+Diminuiti del 33% (da 192 punti a 128)&lt;/p&gt;
+&lt;p&gt;Il drago elettrico evoluto poteva fermare completamente da solo assalti massicci e creare così non poca frustrazione in coloro che non avevano carte adatte a contrastarlo, come il Fulmine.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Barile goblin evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6F2LRXJiTfesyhLt6nNYRj/3992b7cfad9e65d1db61699330db781e/goblinbarrelevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Indicatore visivo aggiuntivo sul barile con le esche&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I due barili lanciati con questa carta erano identici e aggiungevano così troppa casualità durante le partite, il che cozza con l&amp;#39;idea alla base del gioco. Sebbene il cambio sia volto a indebolire l&amp;#39;evoluzione, questo non avrà alcun impatto sul ruolo della carta, ossia attaccare l&amp;#39;avversario sulle due corsie.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Spirito del ghiaccio evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/43h81XUw7jeSjMdtRHcA8x/d7d58a2a40fb4dcb41a7b5fd2040d694/icespiritevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Esplosioni gelide&lt;/b&gt;
+Diminuite del 33% (da 3 a 2)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Danni delle esplosioni gelide&lt;/b&gt;
+Diminuiti del 48% (da 110 punti a 163)&lt;/p&gt;
+&lt;h1&gt;Scheletri evoluti&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4v4Jlj0ed6ULBEGZFwFb2g/81b61d41d3cdda8f90a08322834a73f6/skeletons_evolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Numero di scheletri allo schieramento&lt;/b&gt;
+Diminuito del 25% (da 4 a 3)&lt;/p&gt;
+&lt;p&gt;Considerando che il loro costo è di una sola unità di elisir, queste due evoluzioni erano troppo forti in difesa e troppo efficaci nell&amp;#39;arrestare gli assalti imponenti.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Cure per eliminazione&lt;/b&gt;&lt;/p&gt;&lt;p&gt;In proporzione ai punti ferita della truppa eliminata&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Punti ferita recuperati al livello 11&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Contro truppe piccole (990 punti ferita o meno): riduzione del 50% (da 282 punti a 142)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Contro truppe medie (da 991 a 1989 punti ferita): nessun aumento o riduzione (valore mantenuto a 282 punti)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Contro truppe grandi (1990 punti ferita o più): aumento del 100% (da 282 punti a 565)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ora la P.E.K.K.A evoluta si cura in base alla salute massima della truppa che elimina, invece di recuperare una quantità di punti ferita fissa. Con questa modifica, desideriamo diminuire la sua capacità di curarsi facilmente con piccoli gruppi di truppe, come gli scheletri o la gang di goblin, ma vogliamo comunque mantenere la sua abilità contro i pezzi grossi, come il gigante.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Reclute Royale evolute&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/57WXREtbLQFHj91T4RTgAI/2aeb7f88c1dff51da6aad0d9b6f52a68/royal-recruits-ev1.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Distanza di attivazione dell&amp;#39;attacco in carica&lt;/b&gt;
+Aumentata del 33% (da 1,5 caselle a 2)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Danni in carica&lt;/b&gt;
+Diminuiti del 3% (da 273 punti a 266)&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h1&gt;POTENZIAMENTI ⬆️&lt;/h1&gt;
+
+&lt;h1&gt;Principe nero&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14wNhTVoIYcsBZSNg2vMWX/5098f215b07a737d7a2ba0ea8fef7411/DarkPrince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Distanza di attivazione dell&amp;#39;attacco in carica&lt;/b&gt;
+Diminuita del 14% (da 3,5 caselle a 3)&lt;/p&gt;
+&lt;p&gt;Abbiamo bilanciato le distanze di attivazione delle cariche delle reclute Royale evolute e del principe nero, in modo da rendere tutte queste distanze più omogenee in gioco. Ora, alle truppe che costano almeno cinque unità di elisir serviranno due caselle per attivare l&amp;#39;attacco in carica, mentre a quelle che ne costano quattro ne serviranno tre.&lt;/p&gt;&lt;p&gt;Infine, abbiamo ridotto leggermente il danno in carica delle reclute Royale evolute, così da uniformarlo con quello delle altre truppe che causano il doppio dei danni normali quando caricano.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Cucciolo di drago&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/54qbPGQ3BqgUjE5NPmv2Q1/d0145ce38fde4100fcd22efa4a0920b9/Baby_Dragon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Raggio del danno ad area&lt;/b&gt;
+Aumentato del 25% (da 1,2 caselle a 1,5)&lt;/p&gt;
+&lt;h1&gt;Strega&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Tyx7aZCv75grZdp29nc6i/0a39fe4bb9a16e61121a9de6292f6505/Witch.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Raggio del danno ad area&lt;/b&gt;
+Aumentato del 50% (da una casella a 1,5)&lt;/p&gt;
+&lt;p&gt;Per ragioni di uniformità, il raggio del danno ad area di tutte le truppe, tranne quello dei draghi d&amp;#39;ossa, dovrebbe essere di una casella e mezza.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Gigante elettrico&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2IUSJQZ3LiKgGBV1PnfaoP/b729181b680082c9229ceaa872860fac/ElectroGiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Visuale d&amp;#39;attacco ridotta&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Il gigante elettrico si comporterà come le altre truppe che prendono di mira gli edifici, quindi eviterà di dirigersi verso quelli che sono troppo distanti.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Goblin demolitore&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J8KdCJh1wmj0XF7XoHKOi/c0bfbbe4d9b54ab2dbd3058026e15d41/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durata degli effetti a metà PF&lt;/b&gt;
+Aumentata del 14% (da 7 secondi a 8)&lt;/p&gt;
+&lt;p&gt;L&amp;#39;ultimo indebolimento al goblin demolitore è stato un po&amp;#39; eccessivo e gli rendeva difficile danneggiare le torri nella sua seconda forma.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Macchina goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4prl3ihf330fkfTucbK2MM/83375cc3e0dae6ccd3e7f3f5f575eaec/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni&lt;/b&gt;
+Aumentati del 57% (da 135 punti a 212)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Velocità dei colpi&lt;/b&gt;
+Ridotta del 33% (da 0,9 secondi a 1,2)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Danni al secondo&lt;/b&gt;
+Aumentati del 17% (da 150 punti a 176)&lt;/p&gt;
+&lt;p&gt;La macchina goblin ha un po&amp;#39; di difficoltà nel meta attuale, quindi abbiamo modificato il suo attacco corpo a corpo rallentandolo, ma rendendolo più forte. Ora sarà in grado di eliminare i goblin con un solo attacco.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Minatore colossale&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYp9te8VjaZiNBdJRaYyL/ca14e5184f75ee9f0b3401f33352439f/MightyMiner.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durata richiesta per l&amp;#39;incremento dei danni&lt;/b&gt;Diminuita dell&amp;#39;11% (da 2,25 secondi a 2)&lt;/p&gt;
+&lt;p&gt;Il minatore colossale raggiungerà più in fretta il momento in cui causerà il massimo dei danni e sarà tanto veloce quanto il drago infernale e la torre infernale.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Mini P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/zm41wHzp4QhoKAJq1a784/760ab871ed18eb5f5c7898afc93d19a1/MiniPEKKA.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni&lt;/b&gt;
+Aumentati del 5% (da 720 punti a 754)&lt;/p&gt;
+&lt;p&gt;La mini P.E.K.K.A ora picchia ancora più forte e può far fuori nuovamente lo stregone con un colpo solo.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Cannone evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dFVgREur3VhAzLLxhXVk4/3d03c0d16d7b0ccc33771cd6e9e10e9d/cannonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni del bombardamento&lt;/b&gt;
+Aumentati del 10% (da 320 punti a 353)&lt;/p&gt;
+&lt;p&gt;Il cannone evoluto è meno popolare delle altre evoluzioni, quindi abbiamo aumentato i danni del bombardamento per renderlo più appetibile.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Spaccamuro evoluti&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6gstQOpW7bik5xsr3OYa8X/975334dcb08b38c14dfc14dfa49675a0/wallbreakersevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni a truppe ed edifici all&amp;#39;esplosione dei barili&lt;/b&gt;
+Aumentati del 50% (da 195 punti a 292)&lt;/p&gt;
+&lt;p&gt;Abbiamo potenziato l&amp;#39;abilità che permette agli spaccamuro evoluti di danneggiare le truppe avversarie quando il loro barile viene distrutto. In questo modo, saranno più duri da sconfiggere mentre attaccano e avranno più potenziale in difesa.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Duchessa dei pugnali&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità dei pugnali&lt;/b&gt;
+Aumentata del 66,67% (da 600 unità a 1000)&lt;/p&gt;
+&lt;p&gt;Abbiamo aumentato la velocità dei pugnali della duchessa sia per potenziarla sia per risolvere un errore occasionale che le faceva cambiare obiettivo prima di eliminare truppe o edifici che ricevono danni ridotti.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Modifiche sostanziali 🔄&lt;/h1&gt;
+
+&lt;h1&gt;Boscaiolo&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durata della Furia&lt;/b&gt;
+Ridotta dell&amp;#39;8% (da 6 secondi a 5,5)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Danni&lt;/b&gt;
+Aumentati del 10% (da 200 punti a 220)&lt;/p&gt;
+&lt;p&gt;Per coerenza, abbiamo ridotto la durata della Furia del boscaiolo, così da renderla uguale a quella dell&amp;#39;incantesimo Furia. Tuttavia, abbiamo anche aumentato la forza d&amp;#39;attacco della truppa per bilanciare la potenziale riduzione di danni al secondo.&lt;/p&gt;&lt;hr/&gt;
+&lt;p&gt;&lt;i&gt;E con questo è tutto!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Se questi cambi ti piacciono o pensi che possiamo fare di meglio, faccelo sapere! Apprezziamo sempre i tuoi commenti e ci piacerebbe tanto sapere la tua opinione!&lt;/p&gt;&lt;p&gt;Ci vediamo nell&amp;#39;arena!
+&lt;i&gt;Il team di Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">3QzPOpdprqQdDwMIYaVAWm</guid>
+      <category>Note di rilascio</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jOCPVoax8MjVTh2bKqHc8/edc03420084bae076f23a34315da9dba/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jan 2025 14:47:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
