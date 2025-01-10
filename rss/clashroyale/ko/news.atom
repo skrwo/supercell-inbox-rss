@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-10T08:38:51.917169+00:00</updated>
+  <updated>2025-01-10T09:32:53.420007+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -303,5 +303,147 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2kHOTEJun3KamjZnVY5ZY3/4fc59d2a56d241a165d293979e37b251/SUP3973_Season_67_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="소식"/>
     <published>2025-01-06T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3QzPOpdprqQdDwMIYaVAWm</id>
+    <title>1월 밸런스 조정</title>
+    <updated>2025-01-10T08:54:07.431000+00:00</updated>
+    <content>&lt;p&gt;새로운 해 그리고 새로운 밸런스 조정!&lt;/p&gt;&lt;p&gt;아레나에 변화를 가져올 시간이에요! 이번 밸런스 조정에서는 너무 강력하거나 저조한 활약을 보여주고 있는 카드를 조정하고, 여러 디자인 및 일관성 관련 문제를 재조정하려 합니다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;이 변경 사항은 1월 8일 수요일 점검 진행 후에 적용됩니다.&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;하향 조정 ⬇️&lt;/h1&gt;
+
+&lt;h1&gt;아처 퀸&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1BbBC0kN1QFEaNOWu1I4wv/2bf5eff75134bdfd7073e6a743066af5/archer-queen.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;투명 망토 재사용 대기 시간&lt;/b&gt;
+15초 → 17초(13%)&lt;/p&gt;
+&lt;p&gt;이전에 아처 퀸은 한 번 배치되면 방어와 공격에서 각각 한 번씩 능력을 사용할 수 있어 지나치게 강력한 유닛으로 평가되었습니다. 아처 퀸을 전투에서 상대할만하게 만들기 위해, 재사용 대기 시간을 늘려 아처 퀸 배치 시 대부분의 경우 능력을 한 번만 사용할 수 있도록 제한하려 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;대포 카트&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;실드 HP&lt;/b&gt;
+892 → 824(-8%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;HP&lt;/b&gt;
+820 → 824(0%)&lt;/p&gt;
+&lt;p&gt;과도한 실드 HP로 인해 대포 카트가 지나치게 항력했습니다. 새롭게 하향 조정된 실드 HP는 대포 카트의 이동형 공격 유닝스로서의 고유한 역할을 손상시키지 않으면서, 상대하기 더 쉬워지도록 해줍니다. 대포 카트의 실드 HP를 낮춘 또 다른 이유는 바로 고정 박격포 형태로 변화했을 때의 HP와 일치시키기 위함입니다. 앞으로 대포 카트의 모든 밸런스 조정은 이동형과 고정형 간의 일관성을 유지하는 데 중점을 둘 예정입니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;낚시꾼&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/296en3HCwrsuNhlvU2ugio/ec27ee43dfd8436253d1a0e989bf7c32/Fisherman.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;갈고리에 걸린 후 감속 지속 시간&lt;/b&gt;
+2.5초 → 1.5초(-40%)&lt;/p&gt;
+&lt;p&gt;이 조정은 유닛의 능력을 유지하는 동시에 낚시꾼의 과도한 강력함을 억제합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린슈타인&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;박사 HP&lt;/b&gt;
+885 → 721(-19%)&lt;/p&gt;
+&lt;p&gt;고블린슈타인을 대응하는 카운터 카드로 번개 마법과 로켓 카드의 사용 빈도가 높았습니다. 이에 따라 다양한 마법 카드가 골고루 사용될 수 있도록 조정했습니다. 이제 박사는 독 마법 혹은 파이어 볼과 감전 마법 조합에 의해 처치될 수 있습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;램 라이더&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;HP&lt;/b&gt;
+1767 → 1696(-4%)&lt;/p&gt;
+&lt;p&gt;돌격 사정거리 상향 조정 덕분에 램 라이더와 프린스가 2024년 한 해 동안 많은 선택을 받았습니다. 하지만 HP가 낮음에도 불구하고 램 라이더는 너무 쉽게 타워에 도달할 수 있었습니다. 램 라이더를 조금 더 쉽게 상대할 수 있도록 HP를 하향 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;창 고블린&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;첫 공격 속도&lt;/b&gt;
+3초 → 4초(33%)&lt;/p&gt;
+&lt;p&gt;창 고블린의 6월 상향 조정 중 일부를 되돌림으로써, 고블린 갱과 자이언트 고블린을 간접적인 하향 효과를 줍니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;폭탄병 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;한 번의 공격으로 같은 적을 두 번 공격할 수 없음&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;폭탄병 진화는 특정 각도와 거리 조건에서 같은 적을 두 번 공격할 수 있었습니다. 이로 인해 특히 크라운 타워에 과도한 피해를 입히며 종종 예기치 못한 상황을 연출했습니다. 공격의 일관성과 균형을 맞추기 위해 이 능력을 제거했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;일렉트로 드래곤 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53azp1Zw59FWVfFP5Grz8I/7945bc95185d5c4a2dc7e057f72c5297/electrodragonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;추가 연쇄 피해량&lt;/b&gt;
+192 → 128(-33%)&lt;/p&gt;
+&lt;p&gt;일렉트로 드래곤 진화는 단독으로 적의 압박을 무력화하여, 카운터 카드인 번개 마법이 없는 덱은 일렉트로 드래곤을 상대하기가 매우 어려웠습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 통 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6F2LRXJiTfesyhLt6nNYRj/3992b7cfad9e65d1db61699330db781e/goblinbarrelevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;미끼 통에 비주얼 표시 추가&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;두 고블린 통의 똑같은 생김새는 게임의 기본 디자인과 맞지 않아 전투에서 대처하기 어렵게 만들고 무작위성을 일으켰습니다. 이번 하향 조정으로 양 라인을 동시에 공격할 수 있는 기능은 유지하면서 상대하기 좀 더 쉽게 하고자 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;아이스 스피릿 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/43h81XUw7jeSjMdtRHcA8x/d7d58a2a40fb4dcb41a7b5fd2040d694/icespiritevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;얼음 폭발&lt;/b&gt;
+3번 → 2번(-33%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;얼음 폭발 피해량&lt;/b&gt;
+110 → 163(48%)&lt;/p&gt;
+&lt;h1&gt;해골 병사 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4v4Jlj0ed6ULBEGZFwFb2g/81b61d41d3cdda8f90a08322834a73f6/skeletons_evolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;소환하는 해골 수&lt;/b&gt;
+4 → 3(-25%)&lt;/p&gt;
+&lt;p&gt;1 엘릭서라는 적은 비용에 비해 두 진화는 적의 공격을 방어하고 압박을 무력화하는 데 너무 효과적이었습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;처치당 치유량&lt;/b&gt;&lt;/p&gt;&lt;p&gt;처치한 유닛의 타입에 따라 HP가 증감하도록 변경&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;11레벨의 치유량&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;소형 유닛(HP: 990 이하): 282 → 142(-50%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;중형 유닛(HP: 991~1989): 282 → 282(0%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;대형 유닛(HP: 1990 이상): 282 → 565(100%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;이제 P.E.K.K.A 진화는 유닛을 처치할 때마다 고정된 치유량이 아닌 유닛의 최대 HP에 따라 치유량이 달라집니다. 이번 조정을 통해 해골 병사나 고블린 갱 같은 소형 유닛 무리로부터 HP를 계속해서 회복하는 능력을 약화시키고, 자이언트와 같은 대형 유닛을 처치하는 능력은 유지하려 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;로얄 훈련병 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/57WXREtbLQFHj91T4RTgAI/2aeb7f88c1dff51da6aad0d9b6f52a68/royal-recruits-ev1.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;돌격 사정거리&lt;/b&gt;
+1.5타일 → 2타일 (33%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;돌격 피해량&lt;/b&gt;
+273 → 266(-3%)&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h1&gt;상향 조정 ⬆️&lt;/h1&gt;
+
+&lt;h1&gt;다크 프린스&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14wNhTVoIYcsBZSNg2vMWX/5098f215b07a737d7a2ba0ea8fef7411/DarkPrince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;돌격 사정거리&lt;/b&gt;
+3.5타일 → 3타일(-14%)&lt;/p&gt;
+&lt;p&gt;로얄 훈련병 진화 및 다크 프린스의 돌격 사정거리를 재조정하여 게임 전반적으로 돌격 사정거리를 일관되게 유지하고자 합니다. 이제 5 엘릭서 비용 이상 유닛의 돌격 사정거리는 2타일이며, 4 엘릭서 비용을 지닌 유닛의 돌격 사정거리는 3타일입니다.&lt;/p&gt;&lt;p&gt;또한, 다른 유닛과의 균형을 위해 로얄 훈련병 진화의 돌격 피해량을 약간 줄여 일반 피해량의 2배로 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;베이비 드래곤&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/54qbPGQ3BqgUjE5NPmv2Q1/d0145ce38fde4100fcd22efa4a0920b9/Baby_Dragon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;광역 피해 반경&lt;/b&gt;
+1.2타일 → 1.5타일(25%)&lt;/p&gt;
+&lt;h1&gt;마녀&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Tyx7aZCv75grZdp29nc6i/0a39fe4bb9a16e61121a9de6292f6505/Witch.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;광역 피해 반경&lt;/b&gt;
+1타일 → 1.5타일(50%)&lt;/p&gt;
+&lt;p&gt;일관성 유지를 위해 해골 드래곤을 제외한 공격 시 모든 유닛의 광역 피해 반경이 1.5타일로 통일됩니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;일렉트로 자이언트&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2IUSJQZ3LiKgGBV1PnfaoP/b729181b680082c9229ceaa872860fac/ElectroGiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;시야 범위 제한 추가&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;이제 일렉트로 자이언트는 다른 건물을 목표로 하는 유닛과 같은 시야 범위를 가지며, 너무 멀리 떨어진 건물은 공격하지 않습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 데몰리셔&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J8KdCJh1wmj0XF7XoHKOi/c0bfbbe4d9b54ab2dbd3058026e15d41/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;HP 50% 이후 수명&lt;/b&gt;
+7초 → 8초(14%)&lt;/p&gt;
+&lt;p&gt;지난번 하향 조정으로 고블린 데몰리셔의 능력이 너무 약화되어, 돌진 공격 시 타워를 공격하기 어려웠습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;고블린 머신&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4prl3ihf330fkfTucbK2MM/83375cc3e0dae6ccd3e7f3f5f575eaec/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;피해량&lt;/b&gt;
+135 → 212(57%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;공격 속도&lt;/b&gt;
+0.9초 → 1.2초(33%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;초당 피해량&lt;/b&gt;
+150 → 176(17%)&lt;/p&gt;
+&lt;p&gt;현재 메타에서 고블린 머신이 많은 선택을 받지 못하고 있기에, 고블린 머신의 근접 공격을 느리지만 더욱 강력해지도록 조정했습니다. 이제 고블린 머신이 고블린을 1번의 공격으로 처치할 수 있습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;능력자 광부&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYp9te8VjaZiNBdJRaYyL/ca14e5184f75ee9f0b3401f33352439f/MightyMiner.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;피해량 증가 시간&lt;/b&gt;2.25초 → 2초(-11%)&lt;/p&gt;
+&lt;p&gt;능력자 광부의 공격 피해량이 최대에 도달하는 시간이 단축되어, 인페르노 드래곤과 인페르노 타워와 동일한 피해량 증가 속도를 가지게 되었습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;미니 P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/zm41wHzp4QhoKAJq1a784/760ab871ed18eb5f5c7898afc93d19a1/MiniPEKKA.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;피해량&lt;/b&gt;
+720 → 754(5%)&lt;/p&gt;
+&lt;p&gt;미니 P.E.K.K.A의 공격이 강해짐에 따라, 이제 마법사를 다시 한 번의 공격으로 파괴할 수 있습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;대포 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dFVgREur3VhAzLLxhXVk4/3d03c0d16d7b0ccc33771cd6e9e10e9d/cannonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;로켓포 피해량&lt;/b&gt;
+320 → 353(10%)&lt;/p&gt;
+&lt;p&gt;대포 진화는 다른 진화들에 비해 인기가 낮은 카드였습니다. 더 많은 선택을 받을 수 있도록, 로켓포 피해량을 증가시켰습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;해골 돌격병 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6gstQOpW7bik5xsr3OYa8X/975334dcb08b38c14dfc14dfa49675a0/wallbreakersevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;데스 피해량(유닛 및 건물)&lt;/b&gt;
+195 → 292(50%)&lt;/p&gt;
+&lt;p&gt;해골 돌격병 진화의 통이 파괴되었을 때 발생하는 데스 피해량을 강화해, 상대가 방어하기 어렵게 만들고 방어에 더 효과적인 도구가 되도록 조정했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;단검 공작부인&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;발사체 속도&lt;/b&gt;
+600 → 1000(66.67%)&lt;/p&gt;
+&lt;p&gt;단검 속도를 향상해 단검 공작부인을 강화하는 동시에, 피해량이 감소된 유닛이나 건물을 파괴하기 전에 공격 목표를 바꾸는 드물게 발생하던 버그를 수정하고자 합니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;재조정 🔄&lt;/h1&gt;
+
+&lt;h1&gt;나무꾼&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;분노 마법 지속 시간&lt;/b&gt;
+6초 → 5.5초(-8%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;피해량&lt;/b&gt;
+200 → 220(10%)&lt;/p&gt;
+&lt;p&gt;게임의 전반적인 균형을 맞추기 위해 &amp;#39;분노의 나무꾼&amp;#39; 효과 지속 시간을 감소시켜 분노 마법 효과와 동일하도록 조정했습니다. 하지만 잠재적인 초당 피해량 손실을 상쇄하기 위해 공격 피해량을 증가시켰습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;p&gt;&lt;i&gt;오늘은 여기까지입니다!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;이번 변화가 마음에 드시거나 혹은 아직 더 발전해야 할 부분이 있다고 느끼신다면 저희에게 알려주세요. 저희는 플레이어 여러분의 소중한 의견을 늘 기다리고 있습니다!&lt;/p&gt;&lt;p&gt;아레나에서 뵙겠습니다.
+&lt;i&gt;클래시 로얄 팀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/3QzPOpdprqQdDwMIYaVAWm"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jOCPVoax8MjVTh2bKqHc8/edc03420084bae076f23a34315da9dba/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="새 소식"/>
+    <published>2025-01-07T14:47:04+00:00</published>
   </entry>
 </feed>
