@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2025-01-12T08:35:30.060668+00:00</updated>
+  <updated>2025-01-12T09:29:50.134194+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -322,5 +322,16 @@ The community event will last for &lt;b&gt;ten days&lt;/b&gt;, and it starts now
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Events"/>
     <published>2025-01-06T09:01:32+00:00</published>
+  </entry>
+  <entry>
+    <id>3QzNxMK6s1e4V4GLtAzXfH</id>
+    <title>Hay Day Week 3</title>
+    <updated>2025-01-12T09:02:08.143000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Week 3&lt;/h1&gt;
+&lt;p&gt;Hey there farmers! Get ready for another week of events! All events &amp;amp; derbies start at 8 AM UTC. You can learn the specifics of each event by visiting our event board in the game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Monday&lt;/b&gt;: Spin the Wheel (Vouchers)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tuesday:&lt;/b&gt; Town Visitor Event (Silo &amp;amp; Barn Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wednesday: &lt;/b&gt;Boat Event (x2 Coins)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thursday: &lt;/b&gt;Production Buildings (20% boost for 3 buildings)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Friday: &lt;/b&gt;Fishing Event (Duck + Net Maker 30%) + 2x Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Saturday: &lt;/b&gt;Town Visitors Event (Expansion Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunday: &lt;/b&gt;Crops Event (three random crops will yield 3 crops instead of the usual 2) &lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Normal&lt;/p&gt;&lt;p&gt;Have a wonderful week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/3QzNxMK6s1e4V4GLtAzXfH"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Events"/>
+    <published>2025-01-12T09:00:02+00:00</published>
   </entry>
 </feed>

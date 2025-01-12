@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2025-01-12T08:35:35.077517+00:00</updated>
+  <updated>2025-01-12T09:29:49.695571+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -301,5 +301,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أحداث"/>
     <published>2025-01-06T09:01:32+00:00</published>
+  </entry>
+  <entry>
+    <id>3QzNxMK6s1e4V4GLtAzXfH</id>
+    <title>الأسبوع 3 من Hay Day</title>
+    <updated>2025-01-12T09:02:08.143000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 3 من Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! استعدوا لأسبوع آخر مليء بالأحداث. تبدأ كل الأحداث والديربي في الساعة 8 ص بتوقيت جرينتش. يمكن الاطلاع على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;&lt;b&gt;الإثنين&lt;/b&gt;: تدوير العجلة (القسائم)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الثلاثاء:&lt;/b&gt; حدث زوار البلدة (مواد للصومعة والحظيرة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأربعاء:&lt;/b&gt; حدث طلبات القارب (ضعف العملات)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الخميس:&lt;/b&gt; مباني الإنتاج (تعزيز 20% لـ 3 مبان)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الجمعة:&lt;/b&gt; حدث الصيد (البط + آلة صناعة الشباك 30%) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;**السبت :**حدث زوار البلدة (مواد توسعة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأحد:&lt;/b&gt; حدث المحاصيل (ثلاثة محاصيل عشوائية ستنتج 3 حزم بدلاً من 2 كالسابق)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الديربي&lt;/b&gt;: عادي&lt;/p&gt;&lt;p&gt;نتمنى لكم أسبوعًا رائعًا!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/3QzNxMK6s1e4V4GLtAzXfH"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أحداث"/>
+    <published>2025-01-12T09:00:02+00:00</published>
   </entry>
 </feed>
