@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-13T10:39:38.904393+00:00</updated>
+  <updated>2025-01-13T11:29:22.440055+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -447,5 +447,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2kHOTEJun3KamjZnVY5ZY3/4fc59d2a56d241a165d293979e37b251/SUP3973_Season_67_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-01-06T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>kHn3lDjyhTTE4QlIPJCWc</id>
+    <title>【NARIE】新版本五套強勢卡組</title>
+    <updated>2025-01-13T10:59:45.079000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/kHn3lDjyhTTE4QlIPJCWc"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1XxJZvjsoRsvel4wrW8HIg/de8535bf498a27c478625eed53b457e7/tw_20250113_narie_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/gTA9k9bTUtg"/>
+    <category term="攻略"/>
+    <published>2025-01-13T10:00:00+00:00</published>
   </entry>
 </feed>
