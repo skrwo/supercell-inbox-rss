@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-14T19:28:54.637057+00:00</updated>
+  <updated>2025-01-14T20:31:11.134878+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>3m11hStMKajzs0h0foCrsu</id>
-    <title>2025년의 브롤스타즈 로드맵!</title>
-    <updated>2024-10-17T02:05:17.828000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/3m11hStMKajzs0h0foCrsu"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/170H92TK8tcG8S8ebQCE9z/5eb7073df0972faa3cde604c20cd9c65/Roadmap_Thumb-draft-03.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/bfGpHOs0cGM?si=XlaP7WWJvIG99zaR"/>
-    <category term="뉴스"/>
-    <published>2024-10-16T15:01:51+00:00</published>
-  </entry>
   <entry>
     <id>6lPj9ejyfc6JQ2OHWnAG6V</id>
     <title>#deadgame 이벤트에서 데드 상자 10개를 획득하세요!</title>
