@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 14 Jan 2025 07:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 08:37:47 +0000</lastBuildDate>
     <item>
       <title>學牌組好去處！</title>
       <link>https://clashroyale.inbox.supercell.com/#/zh/news/1x62odjI4OkIgZfBs6qQfR</link>
@@ -396,6 +396,155 @@
       <category>最新情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2kHOTEJun3KamjZnVY5ZY3/4fc59d2a56d241a165d293979e37b251/SUP3973_Season_67_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Jan 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年1月平衡性調整</title>
+      <link>https://clashroyale.inbox.supercell.com/#/zh/news/3QzPOpdprqQdDwMIYaVAWm</link>
+      <description>&lt;p&gt;新的一年，新的平衡性調整！&lt;/p&gt;&lt;p&gt;競技場迎來了新變化！在本次大改中，我們調整了多張偏弱/過強的卡牌，還解決了一些設計相關問題和一致性問題。&lt;/p&gt;&lt;p&gt;&lt;b&gt;這些調整&lt;/b&gt;&lt;b&gt;已&lt;/b&gt;&lt;b&gt;於1月8日（週三）維護後實裝。&lt;/b&gt;&lt;/p&gt;
+&lt;h1&gt;削弱⬇️&lt;/h1&gt;
+
+&lt;h1&gt;弓箭女皇&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1BbBC0kN1QFEaNOWu1I4wv/2bf5eff75134bdfd7073e6a743066af5/archer-queen.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;隱身披風冷卻時間&lt;/b&gt;
+15秒→ 17秒（+13%） &lt;/p&gt;
+&lt;p&gt;調整前，每次部署弓箭女皇會有兩次使用技能的機會（一次用於防守，一次用於進攻），這使她過於強勢。透過延長技能冷卻時間，我們希望將她限制為每次登場僅能使用出一次技能（在大部分情況下），讓對手能公平迎戰。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;加農炮戰車&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4cx7pOedzrfPgsSvwKbJAG/bc8e9da61dadd33a0fe20b490978fddb/cannoncart_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;護盾生命值&lt;/b&gt;
+892→ 824（-8%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;生命值&lt;/b&gt;
+820→ 824（0%）&lt;/p&gt;
+&lt;p&gt;過高的護盾生命值讓加農炮戰車堅不可摧。護盾生命值降低後，加農炮戰車應該會比以前更容易對付，同時不會影響其作為高輸出機動單位的獨特定位。降低護盾生命值的另一個原因是為了與其靜止形態的生命值保持一致。未來對加農炮戰車進行平衡性調整時，我們會更加注意「輪子形態」和「無輪形態」之間的一致性。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;漁大師&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/296en3HCwrsuNhlvU2ugio/ec27ee43dfd8436253d1a0e989bf7c32/Fisherman.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;船錨的減速持續時間&lt;/b&gt;
+2.5秒→ 1.5秒（-40%）
+&lt;/p&gt;
+&lt;p&gt;這個調整是為了削弱漁大師的過強表現，同時保持大部分的單位互動不變。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;科學怪哥布林&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3lfUwRJwE2oL56hvOsC610/002de5298485a5b8a5195b77b2beb9a9/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;博士生命值&lt;/b&gt;
+825→ 721（-19%）
+&lt;/p&gt;
+&lt;p&gt;調整前，科學怪哥布林這張卡牌使得雷電法術與火箭成為了法術卡牌的最佳選擇，我們希望恢復法術的多樣性。因此，現在博士可以被毒藥法術或火球+電擊法術的組合擊殺。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;蠻羊騎士&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Wl37Q3Q7DYzSj9XGO7nUB/385c990bc355f096b6517d663b9570ef/ramrider_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;生命值&lt;/b&gt;
+1767→ 1696（-4%）&lt;/p&gt;
+&lt;p&gt;我們在2024年調整了蠻羊騎士和王子的衝鋒觸發距離，讓他們變得更實用，但蠻羊騎士總能過於輕鬆地攻到塔下（儘管這時候她常常只剩一點點血）。因此，我們降低了蠻羊騎士的生命值，讓她更容易被反制。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;哥布林投矛手&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5mBJ0GyXwzTJ9zZfJmaD97/3ed232c0f1efa324f6e4b21f1faca577/speargoblins.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;第一次出手速度&lt;/b&gt;
+3秒→ 4秒（33%）&lt;/p&gt;
+&lt;p&gt;我們回調了6月對哥布林投矛手的部分加強，以間接削弱哥布林大隊和哥布林巨人。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;進化炸彈兵&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/bGZjKH7NXm2gHBEb4hqkn/698ecdf8c04c659236fb722cdbfcfcce/bomberevo.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;單次攻擊無法對同一敵人造成兩次傷害&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;調整前，進化炸彈兵的攻擊在某些角度和距離下可能會對同一目標造成兩次傷害。這種情況難以預測且令人挫折，尤其是對皇家塔的攻擊。因此，我們決定避免這種情況，使進化炸彈兵的表現更加一致和平衡。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;進化雷電飛龍&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/53azp1Zw59FWVfFP5Grz8I/7945bc95185d5c4a2dc7e057f72c5297/electrodragonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;額外閃電鏈傷害&lt;/b&gt;
+192→ 128（-33%）&lt;/p&gt;
+&lt;p&gt;進化雷電飛龍憑一己之力就能阻擋大規模推進，這讓那些牌組中沒有對應反制卡牌（如雷電法術）的玩家非常頭痛。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;進化哥布林飛桶&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6F2LRXJiTfesyhLt6nNYRj/3992b7cfad9e65d1db61699330db781e/goblinbarrelevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;替身飛桶增加額外視覺標識 &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;兩個飛桶都長得一樣，為對戰帶來了過多的隨機性，這與遊戲的核心設計相衝突。本次調整是為了削弱該卡牌，同時保持其作為雙路進攻手段的實用性。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;進化冰雪精靈&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/43h81XUw7jeSjMdtRHcA8x/d7d58a2a40fb4dcb41a7b5fd2040d694/icespiritevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;冰爆&lt;/b&gt;
+3次→ 2次（-33%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;冰爆傷害&lt;/b&gt;
+110→ 163（+48%）&lt;/p&gt;
+&lt;h1&gt;進化骷髏兵&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4v4Jlj0ed6ULBEGZFwFb2g/81b61d41d3cdda8f90a08322834a73f6/skeletons_evolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;部署時的骷髏兵數量&lt;/b&gt;
+4個→ 3個（-25%）&lt;/p&gt;
+&lt;p&gt;進化骷髏兵在防守上過於高效，並且僅需1聖水就能輕鬆抵擋大規模推進，表現過於強勢。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;進化皮卡超人&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;每次死亡治療&lt;/b&gt;
+隨被擊殺單位的生命值變化&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;11級的治療量&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;小型軍隊（生命值990以下）：從282降低至142（-50%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中型軍隊（生命值為991至1989）：保持282不變（0%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;大型軍隊（生命值高1990以上）：從282提升至565（+100%）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;現在，進化皮卡超人獲得的治療量取決於她擊殺的單位其最大生命值，而不是固定數值。這次重製削弱了她在對付小型人海單位（如骷髏兵和哥布林大隊）時增加生命值的能力，同時保持了她對抗大型單位（如巨人）的強度。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;進化皇家衛隊&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/57WXREtbLQFHj91T4RTgAI/2aeb7f88c1dff51da6aad0d9b6f52a68/royal-recruits-ev1.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;衝鋒觸發距離&lt;/b&gt;
+1.5格→ 2格（33%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;衝鋒傷害&lt;/b&gt;
+273→ 266（-3%）&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;加強⬆️&lt;/h1&gt;
+
+&lt;h1&gt;黑暗王子&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/14wNhTVoIYcsBZSNg2vMWX/5098f215b07a737d7a2ba0ea8fef7411/DarkPrince.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;衝鋒觸發距離&lt;/b&gt;
+3.5格→ 3格（-14%）&lt;/p&gt;
+&lt;p&gt;我們調整了進化皇家衛隊和黑暗王子的衝鋒觸發距離，使遊戲中同費卡牌的衝鋒觸發距離保持一致。現在，5費以上的軍隊，其衝鋒觸發距離均為2格；4費軍隊衝鋒觸發距離均為3格。&lt;/p&gt;&lt;p&gt;此外，我們稍微降低了進化皇家衛隊的衝鋒傷害，以與其他衝鋒可造成雙倍一般傷害的單位保持一致。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;飛龍寶寶&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/54qbPGQ3BqgUjE5NPmv2Q1/d0145ce38fde4100fcd22efa4a0920b9/Baby_Dragon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;攻擊濺射範圍&lt;/b&gt;
+1.2格→ 1.5格（+25%）&lt;/p&gt;
+&lt;h1&gt;女巫&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Tyx7aZCv75grZdp29nc6i/0a39fe4bb9a16e61121a9de6292f6505/Witch.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;攻擊濺射範圍&lt;/b&gt;
+1格→ 1.5格（+50%）&lt;/p&gt;
+&lt;p&gt;為保持一致，除了骷髏飛龍，其他所有單位的攻擊濺射範圍都調整為1.5格。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;閃電巨人&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2IUSJQZ3LiKgGBV1PnfaoP/b729181b680082c9229ceaa872860fac/ElectroGiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;增加視距限制 &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;閃電巨人現在將與其他只攻擊建築的單位保持一致，不會鎖定距離過遠的建築。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;哥布林爆破狂&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/J8KdCJh1wmj0XF7XoHKOi/c0bfbbe4d9b54ab2dbd3058026e15d41/goblindemolisher.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;生命值降到50%之後的存活時間&lt;/b&gt;
+7秒→ 8秒（+14%）&lt;/p&gt;
+&lt;p&gt;上次對哥布林爆破狂的削弱有點太超過了，導致他在第二形態下很難對皇家塔造成傷害。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;哥布林機甲&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4prl3ihf330fkfTucbK2MM/83375cc3e0dae6ccd3e7f3f5f575eaec/goblinmachine.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;傷害&lt;/b&gt;
+135→ 212（+57%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;攻擊速度&lt;/b&gt;
+0.9秒→ 1.2秒（33%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;每秒傷害值&lt;/b&gt;
+150→ 176（+17%）&lt;/p&gt;
+&lt;p&gt;由於哥布林機甲在目前版本中表現不佳，我們重製了他的近戰攻擊，使其攻擊速度更慢但更強力。哥布林機甲現在只需一次攻擊即可擊殺哥布林。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;h1&gt;威猛礦工&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5BYp9te8VjaZiNBdJRaYyL/ca14e5184f75ee9f0b3401f33352439f/MightyMiner.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;傷害提升時間&lt;/b&gt;
+2.25秒→ 2秒（-11%）&lt;/p&gt;
+&lt;p&gt;威猛礦工現在可更快達到傷害值上限，速度與地獄飛龍和地獄之塔保持一致。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;迷你皮卡&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/zm41wHzp4QhoKAJq1a784/760ab871ed18eb5f5c7898afc93d19a1/MiniPEKKA.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;傷害&lt;/b&gt;
+720→ 754（+5%）&lt;/p&gt;
+&lt;p&gt;迷你皮卡現在的攻擊更加凶猛，又可以一次攻擊就消滅法師了。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;進化加農炮 &lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dFVgREur3VhAzLLxhXVk4/3d03c0d16d7b0ccc33771cd6e9e10e9d/cannonevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;炮彈傷害&lt;/b&gt;
+320→ 353（+10%)）
+&lt;/p&gt;
+&lt;p&gt;進化加農炮的人氣不如其他進化卡牌，因此我們提升它的炮彈傷害，讓它變得更有競爭力。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;進化攻城炸彈人&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6gstQOpW7bik5xsr3OYa8X/975334dcb08b38c14dfc14dfa49675a0/wallbreakersevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;對軍隊和建築的死亡附加傷害&lt;/b&gt;
+195→ 292（+50%）&lt;/p&gt;
+&lt;p&gt;我們加強了進化攻城炸彈人在炸藥桶被摧毀時對敵方軍隊造成傷害的能力，使其在進攻中更難被阻止，同時讓他在防守上也更具潛力。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;飛刀女爵&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5rvqUzdplq00GnRkXUcNA2/67f5dd7f67ff671f2b916504ed97b5d6/daggerduchess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;飛刀飛行速度&lt;/b&gt;
+600→ 1000（+66.67%）&lt;/p&gt;
+&lt;p&gt;我們加快了飛刀女爵的飛刀速度，以提升她的強度，並修復一個罕見的問題，該問題會導致她在消滅獲得減傷效果的軍隊/建築前會切換目標。 &lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;重製🔄&lt;/h1&gt;
+
+&lt;h1&gt;狂暴伐木工&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;狂暴持續時間&lt;/b&gt;
+6秒→ 5.5秒（-8%）
+
+&lt;b&gt;傷害&lt;/b&gt;
+242→ 256（+6%）&lt;/p&gt;
+&lt;p&gt;出於一致性考量，我們縮短了狂暴伐木工的狂暴效果持續時間，使其與狂暴法術的持續時間一致。不過，我們同時提升了他的傷害，以彌補這次調整可能造成每秒傷害值下降。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;以上就是本次平衡性調整的內容！&lt;/i&gt;&lt;/p&gt;&lt;p&gt;果你喜歡這些調整，或覺得還有改進空間，請告訴我們！我們非常重視你的回饋，並期待聽到你的意見！&lt;/p&gt;&lt;p&gt;我們競技場見！&lt;/p&gt;&lt;p&gt;&lt;i&gt;《部落衝突:皇室戰爭》遊戲團隊&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">3QzPOpdprqQdDwMIYaVAWm</guid>
+      <category>更新說明</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jOCPVoax8MjVTh2bKqHc8/edc03420084bae076f23a34315da9dba/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jan 2025 14:47:04 +0000</pubDate>
     </item>
     <item>
       <title>【NARIE】新版本五套強勢卡組</title>
