@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2025-01-15T09:31:34.333763+00:00</updated>
+  <updated>2025-01-15T10:37:10.287129+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -278,5 +278,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Acara"/>
     <published>2025-01-12T09:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>5o3icwZgx1VYnQ3sNUXF9k</id>
+    <title>Gordan Ramsay di Hay Day?</title>
+    <updated>2025-01-15T10:11:40.151000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/5o3icwZgx1VYnQ3sNUXF9k"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6tkkkmFYXuQXyewxLY1EQR/b7c26a39eb1d440f3e705252549ae12e/DN_January_Part2_01.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/aYNc1hJiaQ0"/>
+    <category term="Berita"/>
+    <published>2025-01-15T10:10:07+00:00</published>
   </entry>
 </feed>

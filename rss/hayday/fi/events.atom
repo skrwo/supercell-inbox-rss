@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-eventEntries-fi</id>
   <title>Hayday - Event</title>
-  <updated>2025-01-15T09:31:35.757399+00:00</updated>
+  <updated>2025-01-15T10:37:05.933582+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7xG2SiB3Qv8l5IC8QhM5co/46c1e92cf4bc8cee823b06a7e1d50066/bg4.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/-Fw3so2daD0"/>
     <published>2024-12-30T08:04:57+00:00</published>
+  </entry>
+  <entry>
+    <id>4Lv4YqWAzhgzbrMguolcxc</id>
+    <title>Gordon Ramsay Hay Dayssa?!</title>
+    <updated>2025-01-15T10:11:35.089000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/aYNc1hJiaQ0"&gt;👉Katso 👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6vc1pRkbt9RGm3TzqZukBr/46371acec5bdd74607c1aee445103cc9/DN_January_Part2_820x1320__1_.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/aYNc1hJiaQ0"/>
+    <published>2025-01-15T10:10:15+00:00</published>
   </entry>
 </feed>
