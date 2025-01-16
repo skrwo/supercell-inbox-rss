@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-newsEntries-fr</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-16T14:33:50.776786+00:00</updated>
+  <updated>2025-01-16T15:31:51.816175+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>61umOWwSuzjuxqD94fI9C4</id>
-    <title>A la rencontre de Marco</title>
-    <updated>2024-10-18T14:18:36.701000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/fr/news/61umOWwSuzjuxqD94fI9C4"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6Tf1MkFnZI9m4vc7a42xuy/4735ba1550cc8ec41e24ac150b5f51cd/image__31_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.clashofclans.fr/threads/.114754/"/>
-    <category term="Communauté"/>
-    <published>2024-10-18T14:18:36+00:00</published>
-  </entry>
   <entry>
     <id>7QJhUecrcysUTAEXCJZGc</id>
     <title>Rejoins la communauté FR sur Discord!</title>
