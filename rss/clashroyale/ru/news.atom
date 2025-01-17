@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-17T03:34:24.776048+00:00</updated>
+  <updated>2025-01-17T04:38:31.298838+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -415,5 +415,17 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jOCPVoax8MjVTh2bKqHc8/edc03420084bae076f23a34315da9dba/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Информация о версии"/>
     <published>2025-01-07T14:47:04+00:00</published>
+  </entry>
+  <entry>
+    <id>4TKRSiQA4GQly62NRQkVpu</id>
+    <title>ЭКСПЕРИМЕНТ С СУНДУКАМИ: БАШНИ КОРОЛЯ 1–9-ГО УРОВНЕЙ</title>
+    <updated>2025-01-17T04:06:44.005000+00:00</updated>
+    <content>&lt;p&gt;В рамках последнего технического обслуживания мы временно внесли изменения в сундуки с наградами за бои для игроков с &lt;b&gt;башней короля 1–9-го уровней&lt;/b&gt;. Изменения заключаются в следующем:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;из ротации убраны &lt;b&gt;золотые, магические&lt;/b&gt; и &lt;b&gt;огромные сундуки&lt;/b&gt;. Добавлены &lt;b&gt;деревянные&lt;/b&gt; и &lt;b&gt;коронные сундуки&lt;/b&gt;;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;изменена продолжительность открывания сундуков:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;открывание &lt;b&gt;коронных сундуков&lt;/b&gt; теперь занимает 24 часа;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;серебряные&lt;/b&gt; и &lt;b&gt;деревянные сундуки&lt;/b&gt; открываются мгновенно, так что вам больше не придется ждать.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Следует отметить, что для эксперимента также было изменено содержимое каждого сундука, чтобы общая ценность наград оставалась прежней.&lt;/p&gt;&lt;p&gt;Для игроков, чья башня короля уже достигла &lt;b&gt;10-го уровня&lt;/b&gt;, ничего не изменится.&lt;/p&gt;&lt;p&gt;Для игроков, чьи башни короля достигнут 10-го уровня, пока длится эксперимент, начнут действовать обычные правила разблокировки сундуков с наградами за бои.&lt;/p&gt;
+&lt;h1&gt;Обоснование эксперимента&lt;/h1&gt;
+&lt;p&gt;Система сундуков и ячеек в Clash Royale существует столько же, сколько сама игра. Ожидания новых игроков сейчас могут отличаться от ожиданий тех, кто начинал играть сразу после выхода игры. Поэтому мы решили устроить эксперимент и посмотреть, как изменения в механизме разблокировки сундуков повлияют на общие впечатления от игры. Выводы по результатам эксперимента будут использоваться для планирования последующих изменений в системе игровых наград.&lt;/p&gt;&lt;p&gt;Еще раз обращаем ваше внимание на то, что это лишь эксперимент и что все еще может измениться, поэтому просим вас делиться своими впечатлениями в социальных сетях, Reddit или Discord.&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/4TKRSiQA4GQly62NRQkVpu"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2025-01-15T10:12:36+00:00</published>
   </entry>
 </feed>
