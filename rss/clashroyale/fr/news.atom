@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-17T11:29:02.241087+00:00</updated>
+  <updated>2025-01-17T12:52:18.231115+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -408,7 +408,7 @@ Gagnez une émote exclusive !&lt;/p&gt;
   <entry>
     <id>4TKRSiQA4GQly62NRQkVpu</id>
     <title>TEST SUR LES COFFRES : TOUR DU ROI NIVEAUX 1-9</title>
-    <updated>2025-01-17T04:06:44.005000+00:00</updated>
+    <updated>2025-01-17T11:34:39.852000+00:00</updated>
     <content>&lt;p&gt;Lors de notre dernière maintenance, nous avons ajusté temporairement les coffres reçus en fin de combat pour les joueurs avec une &lt;b&gt;tour du Roi aux niveaux 1 à 9&lt;/b&gt;. Ce changement comprend :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Suppression des coffres &lt;b&gt;dorés, magiques&lt;/b&gt; et &lt;b&gt;géants&lt;/b&gt;. Ajout des &lt;b&gt;coffres en bois&lt;/b&gt; et des &lt;b&gt;coffres à couronne&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Durée de déblocage des coffres modifiée :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les &lt;b&gt;coffres à couronne&lt;/b&gt; prennent désormais 24 heures.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les coffres &lt;b&gt;argentés&lt;/b&gt; et &lt;b&gt;en bois&lt;/b&gt; sont déverrouillés instantanément.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Notez que les contenus des coffres ont été modifiés pour ce test de manière à ce que la valeur totale des récompenses reste la même.&lt;/p&gt;&lt;p&gt;Pour les joueurs ayant déjà atteint la &lt;b&gt;tour du Roi niveau 10&lt;/b&gt;, rien ne change.&lt;/p&gt;&lt;p&gt;Si un joueur atteint le niveau 10 pendant le test, il repassera au système actuel de coffres.&lt;/p&gt;
 &lt;h1&gt;Pourquoi ce test ?&lt;/h1&gt;
 &lt;p&gt;Le système d&amp;#39;emplacements de coffres dans Clash Royale existe depuis les débuts du jeu, mais les joueurs qui commencent à jouer aujourd&amp;#39;hui ont des attentes différentes de celles des anciens joueurs. Par conséquent, ce test nous aidera à comprendre à quel point des modifications du système de coffres affecteraient le jeu de façon générale. Nous utiliserons cette expérience afin de guider nos futurs ajustements du système de récompenses.&lt;/p&gt;&lt;p&gt;Notez que ceci est un test, et que tout peut encore changer. N&amp;#39;hésitez pas à nous dire ce que vous en pensez sur Reddit ou Discord !&lt;/p&gt;</content>
