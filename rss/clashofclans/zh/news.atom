@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-17T07:28:57.721824+00:00</updated>
+  <updated>2025-01-17T08:36:22.387050+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -409,5 +409,15 @@
     <link href="https://www.youtube.com/watch?v=xK2W86n_ep0"/>
     <category term="最新情報"/>
     <published>2025-01-11T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1Y3RH2disqPtDqZhKmfs25</id>
+    <title>【阿德老師】近期強勢前戲技巧教學</title>
+    <updated>2025-01-17T08:00:05.611000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1Y3RH2disqPtDqZhKmfs25"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/19jrMfMFl9AsxfxKkXqJnt/1e87d436de2401f9be51bd1ff3cb111b/tw_20250117_derder_video_thumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/-Y55IRGADYk"/>
+    <category term="最新情報"/>
+    <published>2025-01-17T08:00:00+00:00</published>
   </entry>
 </feed>
