@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2025-01-18T10:33:45.726187+00:00</updated>
+  <updated>2025-01-18T11:29:11.091322+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7bnxvxQVwYAGlGAl2s0pDG</id>
-    <title>События 43-й недели в Hay Day</title>
-    <updated>2024-10-20T08:02:09.636000+00:00</updated>
-    <content>&lt;h1&gt;События 43-й недели в Hay Day&lt;/h1&gt;
-&lt;p&gt;Привет, фермеры! Наступила новая неделя событий. Все события и скачки начинаются в 8:00 UTC. Подробности можно узнать на доске событий в игре.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Понедельник:&lt;/b&gt; ваучеры на колесе фортуны и глобальное событие с загрузкой парохода.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Вторник:&lt;/b&gt; материалы для улучшения амбара и силосной башни за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Среда&lt;/b&gt;: ускорение трех случайных производственных зданий на 20 %.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Четверг:&lt;/b&gt; ускорение трех случайных производственных зданий на 20 %.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Пятница:&lt;/b&gt; рыболовное событие с ускорением производства на 30 % (утиный салон и вязальщик сетей) и вдвое больше очков Farm Pass.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Суббота:&lt;/b&gt; материалы для расширения за обслуживание гостей города.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Воскресенье:&lt;/b&gt; три случайных растения будут приносить в полтора раза больше урожая.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Скачки:&lt;/b&gt; скачки с кроликами.&lt;/p&gt;&lt;p&gt;Желаем фантастической недели!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ru/news/7bnxvxQVwYAGlGAl2s0pDG"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="События"/>
-    <published>2024-10-20T08:00:03+00:00</published>
-  </entry>
   <entry>
     <id>7hnQAFFSG4VuqUcCIyrZmC</id>
     <title>Победители получают миллион монет</title>
