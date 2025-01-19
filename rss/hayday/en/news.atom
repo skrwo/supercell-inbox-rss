@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2025-01-19T08:33:12.716422+00:00</updated>
+  <updated>2025-01-19T09:29:08.235072+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -304,5 +304,18 @@
     <link href="https://youtu.be/aYNc1hJiaQ0"/>
     <category term="News"/>
     <published>2025-01-15T10:10:07+00:00</published>
+  </entry>
+  <entry>
+    <id>4okmaafBT2GnKviLKQTTwU</id>
+    <title>Hay Day Week 4</title>
+    <updated>2025-01-19T09:01:34.545000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Week 4&lt;/h1&gt;
+&lt;p&gt;Greetings, farmers! Get ready for another week of events! All events &amp;amp; derbies start at 8 AM UTC. You can learn the specifics of each event by visiting our event board in the game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Monday&lt;/b&gt;: Spin the Wheel (Expansion Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tuesday:&lt;/b&gt; Truck Event (x2 XP)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wednesday: &lt;/b&gt;Boat Event (Boosters)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thursday: &lt;/b&gt;Farm Visitor Event (x2 Coins)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Friday: &lt;/b&gt;Fishing Event (Lobsters + Lures 30%) + 2x Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Saturday: &lt;/b&gt;Town Visitor Event (Silo &amp;amp; Barn Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunday: &lt;/b&gt;Animal Feed Event (3 random types of animal feed produced 2x faster)
+
+&lt;b&gt;Derby:&lt;/b&gt; Chill Bunny&lt;/p&gt;&lt;p&gt;Have a fantastic week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/4okmaafBT2GnKviLKQTTwU"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Events"/>
+    <published>2025-01-19T09:00:03+00:00</published>
   </entry>
 </feed>
