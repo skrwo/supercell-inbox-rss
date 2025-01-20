@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jan 2025 02:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 03:36:03 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -516,6 +516,17 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
       <category>リリース情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7jOCPVoax8MjVTh2bKqHc8/edc03420084bae076f23a34315da9dba/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Jan 2025 14:47:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>宝箱に関する試験的調整：キングタワーレベル1～9</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ja/news/4TKRSiQA4GQly62NRQkVpu</link>
+      <description>&lt;p&gt;先日のメンテナンスで&lt;b&gt;キングタワーレベル1～9&lt;/b&gt;のプレイヤーを対象に、バトル報酬の宝箱に一時的な調整を加えました。本調整には以下が含まれます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;金の宝箱、魔法の宝箱&lt;/b&gt;、&lt;b&gt;巨大宝箱&lt;/b&gt;を報酬ローテーションから削除しました。&lt;b&gt;木の宝箱&lt;/b&gt;と&lt;b&gt;クラウン宝箱&lt;/b&gt;をローテーションに追加しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;宝箱のアンロック時間を変更しました。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;クラウン宝箱&lt;/b&gt;のアンロック時間を24時間に変更しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;銀の宝箱&lt;/b&gt;と&lt;b&gt;木の宝箱&lt;/b&gt;が待ち時間なしで即座にアンロック可能になりました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;また、試験調整の一環として、各宝箱の内容にも変更を加えていますが、報酬の全体的な価値は同じとなります。&lt;/p&gt;&lt;p&gt;&lt;b&gt;キングタワーレベル10&lt;/b&gt;以上のプレイヤーは試験の対象外となります。&lt;/p&gt;&lt;p&gt;試験期間中にレベル10に到達したプレイヤーは、現行の仕様でバトル報酬の宝箱がアンロックされるようになります。&lt;/p&gt;
+&lt;h1&gt;試験の目的&lt;/h1&gt;
+&lt;p&gt;クラッシュ・ロワイヤルの宝箱スロットシステムは、ゲームのリリース当初から存在していますが、現在と当時では新規プレイヤーの求めるものが変化していると感じています。そのため、本試験を通じて、宝箱のアンロックシステムの変更が全体的なゲーム体験にどのような影響を与えるのかを調査したいと考えています。収集したデータを活かし、ゲームの報酬システムの改善を進めていく予定です。&lt;/p&gt;&lt;p&gt;また、今回の調整は試験的なものであり、内容が変更される場合があります。ぜひRedditやDiscordなどのSNSでご意見をお聞かせください！&lt;/p&gt;</description>
+      <guid isPermaLink="false">4TKRSiQA4GQly62NRQkVpu</guid>
+      <category>ニュース</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jan 2025 10:12:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
