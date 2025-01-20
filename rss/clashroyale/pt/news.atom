@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-20T05:34:06.718158+00:00</updated>
+  <updated>2025-01-20T06:41:25.897711+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -247,7 +247,7 @@ Ganhe um emote exclusivo!&lt;/p&gt;
   <entry>
     <id>4TKRSiQA4GQly62NRQkVpu</id>
     <title>TESTE DOS BAÚS: NÍVEIS DA TORRE DO REI 1-9</title>
-    <updated>2025-01-20T03:13:19.741000+00:00</updated>
+    <updated>2025-01-20T06:21:01.661000+00:00</updated>
     <content>&lt;p&gt;Com a última manutenção, ajustamos temporariamente os baús de recompensas de batalha para os jogadores com &lt;b&gt;torres do rei de níveis 1 a 9&lt;/b&gt;. Como parte dessa mudança:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Removemos os &lt;b&gt;baús de ouro, mágicos&lt;/b&gt; e &lt;b&gt;gigantes&lt;/b&gt;. Adicionamos os &lt;b&gt;baús de madeira&lt;/b&gt; e &lt;b&gt;da coroa&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O tempo para abrir os baús mudou:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Os &lt;b&gt;baús da coroa&lt;/b&gt; levam 24h para serem abertos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Os &lt;b&gt;baús de prata&lt;/b&gt; e &lt;b&gt;de madeira&lt;/b&gt; são abertos na hora, sem tempo de espera.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lembramos que o conteúdo dos baús foi modificado para o teste, garantindo que o valor total das recompensas permaneça o mesmo.&lt;/p&gt;&lt;p&gt;Nada muda para jogadores que já atingiram a &lt;b&gt;torre do rei de nível 10&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Os jogadores que atingirem o nível 10 durante o teste voltam a abrir os baús de batalha da forma costumeira.&lt;/p&gt;
 &lt;h1&gt;Justificativa do teste&lt;/h1&gt;
 &lt;p&gt;O sistema de abertura dos baús em Clash Royale existe desde que o jogo foi criado, e a expectativa dos jogadores que estão conhecendo o jogo agora pode ser diferente da dos jogadores de alguns anos atrás. Nesse sentido, esse experimento nos ajudará a entender como as mudanças nas mecânicas de abertura de baú impactam a experiência geral. Usaremos esse conhecimento para orientar futuros ajustes ao sistema de recompensa do jogo.&lt;/p&gt;&lt;p&gt;Vale lembrar que isso é um experimento, e tudo ainda pode mudar. Portanto, é crucial que você compartilhe sua opinião nas redes sociais, Reddit ou Discord!&lt;/p&gt;</content>
