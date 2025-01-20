@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-newsEntries-fr</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-20T12:54:46.322900+00:00</updated>
+  <updated>2025-01-20T13:34:40.619032+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>7QJhUecrcysUTAEXCJZGc</id>
-    <title>Rejoins la communauté FR sur Discord!</title>
-    <updated>2024-10-22T13:00:04.828000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/fr/news/7QJhUecrcysUTAEXCJZGc"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2lLi5A29bmXN2GfC3ncsXs/4ed08faf9526e440c348e283a4bfbd28/photo_2024-10-14_22-20-06.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.discord.gg/cocfrance"/>
-    <category term="Communauté"/>
-    <published>2024-10-22T13:00:04+00:00</published>
-  </entry>
   <entry>
     <id>kdz8pNpYp74bRIBscKmA6</id>
     <title>PAS DE CONVENTION DES MARTEAUX ?</title>
@@ -124,11 +114,21 @@
   <entry>
     <id>3Wr22ehK2MnjehS6jDyn7U</id>
     <title>Bug d'événement de série et compensation !</title>
-    <updated>2025-01-20T11:04:20.561000+00:00</updated>
+    <updated>2025-01-20T13:28:03.539000+00:00</updated>
     <content>&lt;h1&gt;Prolongation de l'événement de série !&lt;/h1&gt;
 &lt;p&gt;Comme vous avez pu le remarquer, nous avons lancé un événement de série lundi dernier. Malheureusement, quelques bugs sont advenus dans l&amp;#39;événement ; notamment, la première tâche se complétait automatiquement, et les attaques de la deuxième tâche n&amp;#39;étaient pas comptabilisées dans la progression de l&amp;#39;événement pour certains joueurs.&lt;/p&gt;&lt;p&gt;Nous entendons que ce n&amp;#39;est pas la première fois que l&amp;#39;événement de série connaît des bugs. Malgré un testing détaillé de l&amp;#39;événement afin de nous assurer que celui-ci était bien prêt, nous sommes navrés de ne pas avoir pu vous fournir une expérience idéale. Nous savons à quel point cela est frustrant, ça l&amp;#39;est tout autant pour nous, car nous tenons à vous proposer des événements amusants et divertissants.&lt;/p&gt;&lt;p&gt;Cela dit, nous souhaitons vous assurer que nous avons pris action. Au moment où vous lisez ceci, nous avons sorti une maintenance qui a pour but de corriger les bugs de l&amp;#39;événement de série.&lt;/p&gt;&lt;p&gt;De plus, pour vous remercier de votre patience et nous faire pardonner pour le dérangement, nous vous présentons ce qui suit :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;La durée de &lt;b&gt;l&amp;#39;événement de série&lt;/b&gt; sera prolongée de deux jours.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Un &lt;b&gt;événement bonus étoiles quotidien x4&lt;/b&gt; : commence ce jeudi 16 janvier à 8 h UTC et se termine le dimanche 19 janvier à 8 h UTC (9 h, heure française).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Un &lt;b&gt;boost de ressource de gemmes&lt;/b&gt; : commence ce jeudi 16 janvier à 8 h UTC et se termine le lundi 20 janvier à 8 h UTC (9 h, heure française).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nous sommes navrés du dérangement et vous remercions de votre compréhension. Merci de jouer à notre petit jeu, chef !&lt;/p&gt;&lt;p&gt;- L&amp;#39;équipe de Clash of Clans&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/fr/news/3Wr22ehK2MnjehS6jDyn7U"/>
     <category term="Actualités"/>
     <published>2025-01-15T14:50:46+00:00</published>
+  </entry>
+  <entry>
+    <id>7ratzEdJWLPYZpY4VGwzbD</id>
+    <title>Réclamez votre première collation magique gratuite !</title>
+    <updated>2025-01-20T13:28:04.908000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/fr/news/7ratzEdJWLPYZpY4VGwzbD"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3mCOovBCSeTxJqp8Q6hUxJ/eeb542adba0d50af7ff9feafb51aa984/7days_free_snacks_wide-J1.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=ed17b685-b95d-4a6b-a81e-b112177a58b5"/>
+    <category term="Actualités"/>
+    <published>2025-01-20T08:02:16+00:00</published>
   </entry>
 </feed>
