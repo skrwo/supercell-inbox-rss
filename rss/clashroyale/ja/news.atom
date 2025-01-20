@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-20T13:34:37.426256+00:00</updated>
+  <updated>2025-01-20T14:34:54.246669+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -400,8 +400,8 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
   <entry>
     <id>3QzPOpdprqQdDwMIYaVAWm</id>
     <title>1月のバランス調整</title>
-    <updated>2025-01-16T12:13:27.169000+00:00</updated>
-    <content>&lt;p&gt;新年の訪れとともに新たなバランス調整が実装！&lt;/p&gt;&lt;p&gt;今回の変更で強力すぎる、または活躍の場に恵まれないカードの調整を行い、ゲームバランスの見直しや仕様の統一を目指します。&lt;/p&gt;&lt;p&gt;&lt;b&gt;これらの変更は、1月8日（水）に予定されているメンテナンス後に実装されます。&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;
+    <updated>2025-01-20T14:14:15.329000+00:00</updated>
+    <content>&lt;p&gt;新年の訪れとともに新たなバランス調整が実装！&lt;/p&gt;&lt;p&gt;今回の変更で強力すぎる、または活躍の場に恵まれないカードの調整を行い、ゲームバランスの見直しや仕様の統一を目指します。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;弱体化⬇️&lt;/h1&gt;
 
 &lt;h1&gt;アーチャークイーン&lt;/h1&gt;
@@ -530,7 +530,7 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jerl42tcYoeocO4NqUVmc/d456dc15ed2369d2ebe87858c8477860/Lumberjack.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;&lt;b&gt;レイジの効果時間&lt;/b&gt;
 6秒 → 5.5秒（-8％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;ダメージ&lt;/b&gt;
-200 → 220（+10％）&lt;/p&gt;
+242 → 256（+6％）&lt;/p&gt;
 &lt;p&gt;ランバージャックのレイジの効果時間が、通常のレイジの呪文と同じになるように調整します。その代わりにランバージャックの攻撃力を上昇させ、毎秒ダメージの減少を防いでいます。&lt;/p&gt;&lt;hr/&gt;
 &lt;p&gt;&lt;i&gt;今回は以上です！&lt;/i&gt;&lt;/p&gt;&lt;p&gt;今回の変更の感想や他の改善案などがあれば、ぜひお聞かせください！&lt;/p&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！
 &lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</content>
