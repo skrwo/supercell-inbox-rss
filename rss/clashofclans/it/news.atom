@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashofclans-newsEntries-it</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-21T08:37:38.940202+00:00</updated>
+  <updated>2025-01-21T09:32:14.699962+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -140,5 +140,15 @@
     <link href="https://clashofclans.inbox.supercell.com/#/it/news/3Wr22ehK2MnjehS6jDyn7U"/>
     <category term="Notizie"/>
     <published>2025-01-15T14:50:46+00:00</published>
+  </entry>
+  <entry>
+    <id>6Dr6mBU4Y2Ae5e5wXpsrTk</id>
+    <title>Riscatta il tuo secondo Spuntino Magico Omaggio</title>
+    <updated>2025-01-21T09:04:18.503000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/it/news/6Dr6mBU4Y2Ae5e5wXpsrTk"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3oJVtqtBvs8iRXSCIg1VHR/7c1309b528111f81a822e965ff70fb3d/day2_free_snacks_wide_IT.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=a364f5d3-ec0c-4b05-9b16-2b9581cd76b3"/>
+    <category term="Notizie"/>
+    <published>2025-01-21T07:44:44+00:00</published>
   </entry>
 </feed>
