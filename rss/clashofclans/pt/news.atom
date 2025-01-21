@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-newsEntries-pt</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-21T07:29:12.317525+00:00</updated>
+  <updated>2025-01-21T08:37:40.936935+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -152,13 +152,13 @@
     <published>2025-01-15T14:50:46+00:00</published>
   </entry>
   <entry>
-    <id>7ratzEdJWLPYZpY4VGwzbD</id>
-    <title>Reclame seu primeiro Lanche Mágico grátis! </title>
-    <updated>2025-01-21T01:15:40.400000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/pt/news/7ratzEdJWLPYZpY4VGwzbD"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7c70r3n9fLIpNJPvPKsnEq/b567e0ee963d16192cdb016477eba5e6/Dia1_LancheMa_gico.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="clashofclans-inbox://action=voucher&amp;code=ed17b685-b95d-4a6b-a81e-b112177a58b5"/>
+    <id>6Dr6mBU4Y2Ae5e5wXpsrTk</id>
+    <title>Reclame seu segundo Lanche Mágico grátis!</title>
+    <updated>2025-01-21T07:44:58.126000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/pt/news/6Dr6mBU4Y2Ae5e5wXpsrTk"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/63tM2ylZ43IGy8uPAO6e2O/c9f324d150b8c964e611a51253b00921/Dia2_LanchesMa_gicos.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=a364f5d3-ec0c-4b05-9b16-2b9581cd76b3"/>
     <category term="Novidades"/>
-    <published>2025-01-20T08:02:16+00:00</published>
+    <published>2025-01-21T07:44:44+00:00</published>
   </entry>
 </feed>
