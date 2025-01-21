@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-21T16:40:29.952067+00:00</updated>
+  <updated>2025-01-21T17:33:44.051285+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -81,7 +81,7 @@
   <entry>
     <id>3wcK10RWKS7XkGafwahSAF</id>
     <title>Brawl Stars Championship 2025 Roadmap</title>
-    <updated>2025-01-20T10:03:13.488000+00:00</updated>
+    <updated>2025-01-21T17:21:10.705000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5UXFMb15xsBW0SPOnl6dhk/62575a053ea6fc22084b84b9eb54d60b/BSC_ROADMAPthumbnail_newbranding.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=gRUCqKw65fo&amp;ab_channel=BrawlStarsEsports"/>
     <category term="Video"/>
@@ -90,10 +90,28 @@
   <entry>
     <id>7ygolvv16rUoHMHah0ORxL</id>
     <title>Road To Redemption Teaser</title>
-    <updated>2025-01-20T10:04:20.225000+00:00</updated>
+    <updated>2025-01-21T17:17:19.380000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4f8X1oRb7tI2JXFaocTsnB/942ec90ef764b9a66ab58bae9dfc5952/BSC_2025_RTR_TEASER_THUMB.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=bR0AHAfHHFo&amp;ab_channel=BrawlStarsEsports"/>
     <category term="Video"/>
     <published>2025-01-18T17:14:16+00:00</published>
+  </entry>
+  <entry>
+    <id>6NWoF1wOdbHUrQegVx1lpb</id>
+    <title>THE CALL | SK Gaming Brawl Stars 2025 Roster Announcement</title>
+    <updated>2025-01-21T17:14:57.146000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4iiQkavHMSmUAul0OK7lhN/990fe8430a4b584d73aeaee065ecbe36/NhDXBZJuSdY-HD.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=NhDXBZJuSdY&amp;ab_channel=SKGaming"/>
+    <category term="Video"/>
+    <published>2025-01-21T17:14:57+00:00</published>
+  </entry>
+  <entry>
+    <id>51Twqrfjt3aQjGNKY9Gydm</id>
+    <title>A NEW STAR: WELCOME ANGELBOY | Reply Totem Brawl Stars Team 2025 ⭐️</title>
+    <updated>2025-01-21T17:15:59.920000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3kq7N3MiHurY4P3lPSZ3EQ/fcf6867d136956b83863bc8309471e78/X5uQ1qBaAU8-HD.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=X5uQ1qBaAU8&amp;ab_channel=ReplyTotem"/>
+    <category term="Video"/>
+    <published>2025-01-21T17:15:59+00:00</published>
   </entry>
 </feed>

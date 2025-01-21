@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-esportNewsEntries-pt</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-21T16:40:30.511384+00:00</updated>
+  <updated>2025-01-21T17:33:40.729672+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -50,5 +50,23 @@
     <link href="https://docs.google.com/forms/d/e/1FAIpQLSfg5PAU3gJj9kRaXOH9A14FmD9a_9M5lfZB6pHzqyfjINHyZA/viewform"/>
     <category term="Esports"/>
     <published>2024-12-02T12:09:37+00:00</published>
+  </entry>
+  <entry>
+    <id>3wcK10RWKS7XkGafwahSAF</id>
+    <title>Brawl Stars Championship 2025 Roadmap</title>
+    <updated>2025-01-21T17:21:10.705000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2Q4cby3SzA21A14P2tbkrz/dabdf9ca6f5480f9fd99ee2f3edcc5e6/BSC_ROADMAPthumbnail_newbranding.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=gRUCqKw65fo&amp;ab_channel=BrawlStarsEsports"/>
+    <category term="Video"/>
+    <published>2025-01-18T17:11:41+00:00</published>
+  </entry>
+  <entry>
+    <id>7ygolvv16rUoHMHah0ORxL</id>
+    <title>Road To Redemption Teaser</title>
+    <updated>2025-01-21T17:17:19.380000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/69tul8dHw1RLnAxkvuTL8s/1e20442a19f7a4a482beb2e3ae3e2f41/BSC_2025_RTR_TEASER_THUMB.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=bR0AHAfHHFo&amp;ab_channel=BrawlStarsEsports"/>
+    <category term="Video"/>
+    <published>2025-01-18T17:14:16+00:00</published>
   </entry>
 </feed>
