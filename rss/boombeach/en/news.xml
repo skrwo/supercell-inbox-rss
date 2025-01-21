@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jan 2025 12:54:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 13:34:43 +0000</lastBuildDate>
     <item>
       <title>This November on Boom Beach</title>
       <link>https://boombeach.inbox.supercell.com/#/en/news/1Z8znZwM4I4dcGDtYTXJDw</link>
@@ -112,6 +112,42 @@ Squad Leaders also have access to a Squad Flare. This works as a normal flare, b
       <category>Blog</category>
       <enclosure url="https://boombeach.inbox.supercell.com/cf7umh1jvp53/4VOqufY8ReD1ae4W29QNSq/1b0cd83e09953a42880abfe8380270c1/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January update</title>
+      <link>https://boombeach.inbox.supercell.com/#/en/news/5fo3uezLnUznDOFIF4ugEV</link>
+      <description>&lt;h1&gt;January Update&lt;/h1&gt;
+&lt;p&gt;Welcome to the January mid-life update, “So small it does not even get a name”. 
+In addition to the usual bug fixes, we have some balancing done for the Engraver. 
+
+&lt;b&gt;Fixes and improvements &lt;/b&gt;
+●  Fixed persistent bases (Ops and MegaCrab) not getting correctly destroyed if Sabotage engraving is active. 
+●  Missing spaces have been added to battle-end resource rewards. 
+●  Fixed Squad Leaders not getting saved correctly when assigned to the first Landing Craft. 
+●  Fixed an issue with Warships character unlock choice node not always unlocking correctly. 
+●  Ground units once again do damage to Sky Shield structure HP instead of shield HP.  Air units still attack the shield. 
+●  Some info text in Mystical Monument has been resized to be more legible. 
+●  Immobile units do not show &amp;quot;Slow&amp;quot; movement speed on the unit stats page anymore. 
+●  Progression for Warrior health restore on attack has been smoothed, upgrades will not show negative increases anymore. 
+●  Battle log will show which engravings were active during battle. 
+●  If Hero ability spawns critters, tapping the info now shows their stats. 
+
+&lt;b&gt;Balancing &lt;/b&gt;
+●  Engraving logic has been changed. Engravings are now activated instantly at the cost of 2 Power Powder. Engravings stay active for 12 hours instead of being permanently activated. 
+●  Armor engraving logic change; At first level, the base damage per shot is reduced by 100 damage or 40% of the shot’s damage, whichever is less. Upgrading the engraving will increase the percentage up to 80% reduction, while the fixed reduction is always 100 damage. 
+●  Leech engraving values reduced from [5% --&amp;gt; 25%] to [5% --&amp;gt; 15%] 
+●  Squad Leaders can no longer be resurrected, the base unit is resurrected instead. 
+●  Prevent buying trader offers if the resource type is capped. 
+●  Hidden Warrior barracks numbers doubled in WS. 
+
+&lt;b&gt;Other features &lt;/b&gt;
+●  Some old accounts do not have an age set. Age popup will be shown for these accounts after the update. 
+●  Auto Fast Forward After Battle has been added. Once the HQ has been destroyed, time speedup is automatically applied for the automatic destruction of the remaining base. This feature can be toggled on or off in the gameplay settings page.
+ &lt;/p&gt;</description>
+      <guid isPermaLink="false">5fo3uezLnUznDOFIF4ugEV</guid>
+      <category>Blog</category>
+      <enclosure url="https://boombeach.inbox.supercell.com/cf7umh1jvp53/2Dxd96hhDvi4t6YzbmZ85D/6c8646478246d71cf84273addd018c1b/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
