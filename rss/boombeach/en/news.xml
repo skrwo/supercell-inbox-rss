@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jan 2025 17:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 18:40:19 +0000</lastBuildDate>
     <item>
       <title>This November on Boom Beach</title>
       <link>https://boombeach.inbox.supercell.com/#/en/news/1Z8znZwM4I4dcGDtYTXJDw</link>
@@ -143,7 +143,20 @@ In addition to the usual bug fixes, we have some balancing done for the Engraver
 &lt;b&gt;Other features &lt;/b&gt;
 ●  Some old accounts do not have an age set. Age popup will be shown for these accounts after the update. 
 ●  Auto Fast Forward After Battle has been added. Once the HQ has been destroyed, time speedup is automatically applied for the automatic destruction of the remaining base. This feature can be toggled on or off in the gameplay settings page.
- &lt;/p&gt;</description>
+
+Engraver cost reduction and time reduction:
+The main reason for reducing the cost of the Engraver is to encourage players to experiment with different engravings and swap them out as needed. Please note that this feature is still in development and will continue to expand. We plan to further tune the Engraver system in future updates.
+
+Engraving Balance:
+We need to rebalance various engravings to ensure they are equally desirable. For now we have decided to nerf one and change the mechanics of another.
+
+Leech Nerf
+The Leech engraving has proven to be particularly strong, so it will receive a significant nerf to bring it in line with other options.
+
+Armor Nerf
+We have redesigned the armor system to account for the lower-level defenses in Operations while ensuring it remains useful at all levels of play.
+
+We appreciate your understanding and continued support as we work to improve the game experience for all players.&lt;/p&gt;</description>
       <guid isPermaLink="false">5fo3uezLnUznDOFIF4ugEV</guid>
       <category>Blog</category>
       <enclosure url="https://boombeach.inbox.supercell.com/cf7umh1jvp53/2Dxd96hhDvi4t6YzbmZ85D/6c8646478246d71cf84273addd018c1b/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill" length="0" type="image/png"/>

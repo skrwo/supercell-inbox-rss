@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2025-01-21T17:34:24.472904+00:00</updated>
+  <updated>2025-01-21T18:40:19.545250+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -146,7 +146,20 @@ In addition to the usual bug fixes, we have some balancing done for the Engraver
 &lt;b&gt;Other features &lt;/b&gt;
 ●  Some old accounts do not have an age set. Age popup will be shown for these accounts after the update. 
 ●  Auto Fast Forward After Battle has been added. Once the HQ has been destroyed, time speedup is automatically applied for the automatic destruction of the remaining base. This feature can be toggled on or off in the gameplay settings page.
- &lt;/p&gt;</content>
+
+Engraver cost reduction and time reduction:
+The main reason for reducing the cost of the Engraver is to encourage players to experiment with different engravings and swap them out as needed. Please note that this feature is still in development and will continue to expand. We plan to further tune the Engraver system in future updates.
+
+Engraving Balance:
+We need to rebalance various engravings to ensure they are equally desirable. For now we have decided to nerf one and change the mechanics of another.
+
+Leech Nerf
+The Leech engraving has proven to be particularly strong, so it will receive a significant nerf to bring it in line with other options.
+
+Armor Nerf
+We have redesigned the armor system to account for the lower-level defenses in Operations while ensuring it remains useful at all levels of play.
+
+We appreciate your understanding and continued support as we work to improve the game experience for all players.&lt;/p&gt;</content>
     <link href="https://boombeach.inbox.supercell.com/#/en/news/5fo3uezLnUznDOFIF4ugEV"/>
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/2Dxd96hhDvi4t6YzbmZ85D/6c8646478246d71cf84273addd018c1b/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Blog"/>
