@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl">
   <id>squadbusters-newsEntries-pl</id>
   <title>Squadbusters - News</title>
-  <updated>2025-01-22T13:34:12.417673+00:00</updated>
+  <updated>2025-01-22T14:36:08.988421+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -552,5 +552,24 @@ Jeśli dojdziecie do ligi oddziałów przed końcem wydarzenia, zajrzyjcie do sk
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3VyrHQ5HGX71xDADtDfksC/65efaa37de3b2ea35fc10cd174a2eb37/Inbox_Dec_CoverImg_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Aktualizacje gry"/>
     <published>2024-12-17T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6v8mWPXOntuXMJlQjedVTs</id>
+    <title>Rotacja przebrań w sklepie (styczeń 2025)</title>
+    <updated>2025-01-22T14:22:08.194000+00:00</updated>
+    <content>&lt;h1&gt;Ostatnie nowości&lt;/h1&gt;
+&lt;p&gt;Dodaliśmy nowe przebrania do styczniowej rotacji w sklepie 🎉 Wypatrujcie w sklepie poniższych:&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6f3EGp9AMd8s1i6jvc7xAo/15cc05b0577fe3adef0ef67d0ef039ff/Latest_Addition_Skins.png?w=1832&amp;h=866&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Piekielna Uzdrowicielka Bitewna, Pam Pam-Buster, Solarpunkowa Tank, Czarodziej Opera, Medyk Robot, Barbarzyńca Robot, Solarpunkowy Ciężki, Ciężki Wilkołak, Colt Wilkołak oraz Upiorny Handlarz – te przebrania zostały dodane, począwszy od tego miesiąca.&lt;/p&gt;
+&lt;h1&gt;Również w rotacji&lt;/h1&gt;
+
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6g6LXMo1cBWYKyhLjcVcMf/e68cfbc6209326246bdd9c860214d3db/Also_In_Rotation.png?w=1833&amp;h=1506&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Zamaskowany Baron, Wiedźma Kimono, Król Barbarzyńców Origami, Król kurortu Royale, Wiedźma Kitsune, Czarodziej Uliczny Magik, Medyk Podpora Drużyny, Bea Byk, Nita Tanuki, Mavis Podpora Drużyny, Goblin Ninja, Przewodniczka Mavis, Handlarz uliczny, Barbarzyńca z poparzeniem słonecznym, Magiczna Shelly, El Primo El Tigre, Smoczy Kurczak, Bo Kyudo oraz Colt Przyszłości retro – te przebrania również pozostaną w rotacji w sklepie.&lt;/p&gt;
+&lt;h1&gt;FAQ&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Kiedy przebrania w sklepie się resetują?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Sklep resetuje się codziennie o 5 rano czasu UTC, jednak można też odświeżyć go wcześniej za pomocą monet.&lt;/p&gt;&lt;p&gt;&lt;b&gt;‎&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kiedy zostaną dodane przebrania niewymienione wyżej?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Niektóre przebrania w Squad Busters (np. Królowa Łuczniczek Robot czy Poc-O’Lantern) są przypisane do specjalnych okazji, takich jak sezonowe wydarzenia czy przeszłych karnetów klejnotów. Takie przebrania są zamknięte w konkretnym przedziale czasowy, co oznacza, że nie trafią do sklepu zaraz po jego zakończeniu. Mogą jednak pojawić się w przyszłych rotacjach, więc bądźcie czujni!&lt;/p&gt;&lt;p&gt;Wypatrujcie kolejnych artykułów z wiadomościami o przebraniach w rotacji, aby nie przegapić powrotu Waszych ulubieńców.&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/pl/news/6v8mWPXOntuXMJlQjedVTs"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3GZvyJjd0M2tPye4AA5BwY/50b016bb3ec1200eee88a4437faa017a/Skin_rotation_January_1920.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="Aktualności"/>
+    <published>2025-01-22T14:13:07+00:00</published>
   </entry>
 </feed>
