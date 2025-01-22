@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-22T11:28:54.804857+00:00</updated>
+  <updated>2025-01-22T12:54:13.997521+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -395,6 +395,26 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4lGIQWFxIVHiF2VgPRr4D1/91e05c526a2cf0587312aabd3ec85888/0102_Pizza_Planet_Event_inbox_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-01-02T08:59:34+00:00</published>
+  </entry>
+  <entry>
+    <id>47fhy4FseGY5bVB4wn7aoa</id>
+    <title>【嘿!兄弟】跟著奧利走是怎麼一回事🎶？</title>
+    <updated>2025-01-22T12:30:04.993000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/47fhy4FseGY5bVB4wn7aoa"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6oNNf69mxGIIMxak5vjBOm/91f830a625de5bef6161ffdc11da07c8/tw_20250108_heybros_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=BgtLd1lfE8g"/>
+    <category term="最新情報"/>
+    <published>2025-01-08T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4AmkX0xMB4ykxqsh86nL9L</id>
+    <title>【盛主播】來看看能力之星很重要的奧利🛹！</title>
+    <updated>2025-01-22T12:30:03.640000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/4AmkX0xMB4ykxqsh86nL9L"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6uydK8agogZbbUtSUbm4Zy/4978fc8447f1b164d6c8f899e05e02d2/tw_20250108_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=LQelIstygKw"/>
+    <category term="最新情報"/>
+    <published>2025-01-08T12:01:00+00:00</published>
   </entry>
   <entry>
     <id>7FNjvRv4VWLZMshHB8gXIU</id>
