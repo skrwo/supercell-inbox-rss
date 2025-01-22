@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-22T09:32:55.418894+00:00</updated>
+  <updated>2025-01-22T10:36:06.760050+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -151,5 +151,15 @@
     <link href="https://clashofclans.inbox.supercell.com/#/id/news/3Wr22ehK2MnjehS6jDyn7U"/>
     <category term="Berita"/>
     <published>2025-01-15T14:50:46+00:00</published>
+  </entry>
+  <entry>
+    <id>71KQqcfzq8RYkNKiugfcuO</id>
+    <title>Ambil Kudapan Ajaib Gratis Ketigamu!</title>
+    <updated>2025-01-22T09:48:13.788000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/id/news/71KQqcfzq8RYkNKiugfcuO"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3ZpYX4RuJHDre7sGvpaehE/a91bb9b4046efc5234a59ab483bbbe6e/3days_free_snacks_wide_copy.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=43b43f57-c75c-41ab-b775-0eedd22b0837"/>
+    <category term="Berita"/>
+    <published>2025-01-22T07:14:08+00:00</published>
   </entry>
 </feed>
