@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-23T21:29:24.625374+00:00</updated>
+  <updated>2025-01-23T22:33:40.982338+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -113,5 +113,14 @@
     <link href="https://www.youtube.com/watch?v=X5uQ1qBaAU8&amp;ab_channel=ReplyTotem"/>
     <category term="Video"/>
     <published>2025-01-21T17:15:59+00:00</published>
+  </entry>
+  <entry>
+    <id>yaV3OYfhIn91nQWS5yM6c</id>
+    <title>SSG BOBBY IS BACK?! | Spacestation Gaming's NEW Brawl Stars Roster Already Owns NA??</title>
+    <updated>2025-01-23T21:38:33.931000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5IIBMtE0WXgdwWQE3h1u6b/4895d9893d48132b8110ff30b1b01cff/IMG_1766.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=ti2PEKScxzE&amp;ab"/>
+    <category term="Video"/>
+    <published>2025-01-23T21:38:33+00:00</published>
   </entry>
 </feed>
