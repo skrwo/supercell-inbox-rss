@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-22T23:29:14.544919+00:00</updated>
+  <updated>2025-01-23T01:53:42.894004+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -302,5 +302,21 @@ SuperFest2024に出場する日本チームを応援するハッシュタグ投�
     <link href="clashofclans-inbox://action=voucher&amp;code=43b43f57-c75c-41ab-b775-0eedd22b0837"/>
     <category term="ニュース"/>
     <published>2025-01-22T07:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>4zHXJfNs5lWg3eiGOK51PS</id>
+    <title>ヒーローの装備のバランス調整！</title>
+    <updated>2025-01-23T01:38:14.250000+00:00</updated>
+    <content>&lt;p&gt;こんにちは、チーフ！2月のアップデートでは、一部のヒーロー装備とインビジブルの呪文にバランス調整を行います。&lt;/p&gt;&lt;p&gt;対象の装備と調整理由を以下に記載しますので、事前にチェックしておきましょう！&lt;/p&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7xFdZP3qQhOIdyOt8VhP7j/0ed8a3090898fb84b22d79bcc83fe5fd/20250121_-_BUFF_01.png?w=1080&amp;h=1920&amp;f=center&amp;fit=fill"&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5eK0oPhgi3AzX5fQUNFuP8/33783a5447917bfd668739105901b6e4/20250121_-_BUFF_02.png?w=1080&amp;h=1920&amp;f=center&amp;fit=fill"&gt;
+&lt;img src="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2LGUg6ATaPkmYG9qEaZCRZ/529268ad2c7bd0e60fc28f485be1a2cb/___.jpeg?w=1080&amp;h=1920&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;調整内容&lt;/h1&gt;
+&lt;h3&gt;&lt;b&gt;弱体化：&lt;/b&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;バーバリアンキングのノーマル装備「アースクエイクのブーツ」：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;アースクエイクのブーツとスパイクボールの組み合わせは、高タウンホールレベルで無敵のコンボとなっていました。そこで、アースクエイクのブーツに調整を加え、壁の破壊能力は維持しつつ、建物へのダメージを減少させました。今後はスパイクボールと組み合わせても過剰な破壊力は生まれません。また、スケルトントラップのスケルトンも能力の影響を受けなくなるため、バーバリアンキングが陽動されやすくなり、装備のバランスが改善されます。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;グランドウォーデンのスーパーレア装備「ファイアボール」：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;攻撃範囲が最大値に到達するレベルが上昇します。競技シーンでの公平性を確保し、環境のバランスを維持することが狙いです。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ロイヤルチャンピオンのスーパーレア装備「エレクトロブーツ」：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ゲーム内で不動の人気を誇るエレクトロブーツは強さが突出しているため、弱体化を行います。インビジブルの呪文の効果時間が1レベルあたり0.25秒減少したこととも相まって、バランスが改善されるはずです。調整後もエレクトロブーツは複数のインビジブルの呪文と併用可能ですが、弱体化の影響で防衛側は対抗しやすくなるでしょう。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;b&gt;強化：&lt;/b&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;バーバリアンキングのノーマル装備「吸血ヒゲ」：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;吸血ヒゲは一部の根強いファンがいる一方で、他の装備に埋もれがちでした。今回の強化でファン層が広がり、より多くのプレイヤーにご活用いただけることを願っています。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;バーバリアンキングのノーマル装備「バーバリアン人形」：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;性能が強化され、装備初心者にも扱いやすいアイテムになります。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;アーチャークイーンのノーマル装備「アーチャー人形」：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;バーバリアン人形と同様に、装備初心者でも扱いやすくなるように調整しました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;グランドウォーデンのノーマル装備「ライフジェム」：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;他の装備と比べて使用率の低かったライフジェムが強化され、収容スペースがかさむ大型ユニット主体の編成と相性が良くなります。幅広い戦略に組み込んでご活用ください。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ロイヤルチャンピオンのノーマル装備「ロイヤルジェム」：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ロイヤルチャンピオンの装備の中で、最も使用率と命中率が低いのがロイヤルジェムです。いくらレア度がノーマルとはいえ、もう少し注目してあげてもいいかもしれません。
+今回の強化により、特にゲーム序盤や装備レベルが低いプレイヤーにとって、実用的な選択肢となるでしょう。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;また、グランドウォーデンのスーパーレアヒーロー装備「ラヴァルーン人形」の強化を求める声が多いことも認識しています。ロイヤルジェムと同様に、使用率と命中率が低迷している装備ではありますが、以下の理由で強化を見送りました。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;アップグレード済みのラヴァルーン人形は特にドラゴンとの相性が良く、非常に強力です。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;一部の装備は、ポテンシャルを最大限に引き出すまでにアップグレードを繰り返す必要があります。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ラヴァルーン人形に関しては、あと数カ月ほど様子を見る予定ですが、調整も視野に入れているのでご安心ください！&lt;/p&gt;&lt;p&gt;クラッシュ・オブ・クランチーム一同&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/4zHXJfNs5lWg3eiGOK51PS"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7IgKTW6uEeuBBHLpWeiafg/7c89144ec7919f328a95590dbb0faccd/aa.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2025-01-22T12:45:04+00:00</published>
   </entry>
 </feed>
