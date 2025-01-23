@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-23T08:37:39.083423+00:00</updated>
+  <updated>2025-01-23T09:33:34.685341+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -312,10 +312,10 @@ SuperFest2024に出場する日本チームを応援するハッシュタグ投�
   <entry>
     <id>4n8QdEfnccq7cAgn07rL6y</id>
     <title>4つ目の魔法の食料を受け取りましょう！</title>
-    <updated>2025-01-23T08:22:47.456000+00:00</updated>
+    <updated>2025-01-23T09:31:43.100000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/#/ja/news/4n8QdEfnccq7cAgn07rL6y"/>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/10GK99Vm8CWiTRPFGubgMa/f9d27a1fedf5135ab3c2a80e0b538e3c/20250117_-_cookoffevent_day4_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="http://clashofclans-inbox://action=voucher&amp;code=00406707-a9bd-4476-a29f-45591bb07e1a"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=00406707-a9bd-4476-a29f-45591bb07e1a"/>
     <category term="ニュース"/>
     <published>2025-01-23T08:05:19+00:00</published>
   </entry>
