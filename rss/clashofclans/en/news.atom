@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-newsEntries-en</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-24T06:40:04.397686+00:00</updated>
+  <updated>2025-01-24T07:29:10.648176+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -167,5 +167,15 @@
     <link href="clashofclans-inbox://action=voucher&amp;code=00406707-a9bd-4476-a29f-45591bb07e1a"/>
     <category term="News"/>
     <published>2025-01-23T08:05:19+00:00</published>
+  </entry>
+  <entry>
+    <id>2FMg80jvDEVRDL3sVUGmRn</id>
+    <title>Claim Your Fifth Free Magic Snack!</title>
+    <updated>2025-01-24T07:26:11.516000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/en/news/2FMg80jvDEVRDL3sVUGmRn"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5TfkeCeHDREIMKYIp2NDcs/4e93647c7c00c5a4753f24947b29ebf3/20250117_-_cookoffevent_day5_16x9.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=ee8b2850-c853-40ef-bfe6-68193462641f"/>
+    <category term="News"/>
+    <published>2025-01-24T07:12:10+00:00</published>
   </entry>
 </feed>
