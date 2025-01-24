@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-24T17:31:20.223981+00:00</updated>
+  <updated>2025-01-24T18:39:18.983785+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -122,5 +122,14 @@
     <link href="https://www.youtube.com/watch?v=ti2PEKScxzE&amp;ab"/>
     <category term="Video"/>
     <published>2025-01-23T21:38:33+00:00</published>
+  </entry>
+  <entry>
+    <id>3xMD57ZMXkabzKG4jWAJWR</id>
+    <title>Road To Redemption - A Brawl Stars Esports Story</title>
+    <updated>2025-01-24T17:55:20.136000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Uwaz6FYlR63Z8CAtZNYLr/3bf15dbf7d4891af5d9902b4404778c6/v3_opt3.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/aiyRFGnBDcg"/>
+    <category term="Video"/>
+    <published>2025-01-24T17:55:20+00:00</published>
   </entry>
 </feed>
