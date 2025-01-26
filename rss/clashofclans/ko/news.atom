@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-26T07:29:05.502231+00:00</updated>
+  <updated>2025-01-26T08:32:24.071373+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -187,13 +187,13 @@
     <published>2025-01-22T12:45:04+00:00</published>
   </entry>
   <entry>
-    <id>6x2rG8dSBbl4BqKmBMmol1</id>
-    <title>여섯 번째 마법의 간식을 받으세요!</title>
-    <updated>2025-01-25T07:30:12.696000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/6x2rG8dSBbl4BqKmBMmol1"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2ocxkEczDHhtbK4jteI1mE/ba1187452ca671b8daf3431caef7f023/7days_free_snacks_wide_6.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="clashofclans-inbox://action=voucher&amp;code=1b88eadf-40aa-498a-9049-6b612b18c6c9"/>
+    <id>71SvyGQfTAqP0pYc6sIk37</id>
+    <title>마지막 마법의 간식을 받으세요!</title>
+    <updated>2025-01-26T07:30:19.385000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/71SvyGQfTAqP0pYc6sIk37"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4M2K7ePS0MHnCng0UCr9p1/6f4b217a25e43a26b0b5d0a041613b94/7days_free_snacks_wide_7.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=49b88ec8-1492-41d2-a801-c618df89dece"/>
     <category term="뉴스"/>
-    <published>2025-01-25T07:30:02+00:00</published>
+    <published>2025-01-26T07:30:03+00:00</published>
   </entry>
 </feed>

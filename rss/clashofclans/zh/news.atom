@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-26T07:29:06.673230+00:00</updated>
+  <updated>2025-01-26T08:32:24.253937+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -447,13 +447,13 @@
     <published>2025-01-22T12:45:04+00:00</published>
   </entry>
   <entry>
-    <id>6x2rG8dSBbl4BqKmBMmol1</id>
-    <title>領取第6份免費魔法零食！</title>
-    <updated>2025-01-25T07:30:12.696000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6x2rG8dSBbl4BqKmBMmol1"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4eX1UkwFAYfMZQd5MeLVIU/f5ed77bc7702540e37914bbdb1aa4c69/tw_20250125_7days_free_snacks_wide_day6.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="clashofclans-inbox://action=voucher&amp;code=1b88eadf-40aa-498a-9049-6b612b18c6c9"/>
+    <id>71SvyGQfTAqP0pYc6sIk37</id>
+    <title>領取最後一份免費魔法零食！</title>
+    <updated>2025-01-26T07:30:19.385000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/71SvyGQfTAqP0pYc6sIk37"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1RnoQZZ49IM336ftTzbbIu/e71617713fbcd9d57c714d469b409b76/tw_20250126_7days_free_snacks_wide_day7.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=b6dc6647-adbc-44d4-b75a-86446a0dc097"/>
     <category term="最新情報"/>
-    <published>2025-01-25T07:30:02+00:00</published>
+    <published>2025-01-26T07:30:03+00:00</published>
   </entry>
 </feed>
