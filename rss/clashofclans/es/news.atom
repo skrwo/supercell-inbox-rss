@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashofclans-newsEntries-es</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-26T14:30:16.615752+00:00</updated>
+  <updated>2025-01-26T15:29:39.640057+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -162,7 +162,7 @@
     <updated>2025-01-26T07:30:19.385000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/#/es/news/71SvyGQfTAqP0pYc6sIk37"/>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/63VvB1XOgTI8T0RnvOb5kV/06e04b5a3da889f1ac744424c3753186/ES_day7_7days_free_snacks_wide.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="http://clashofclans-inbox://action=voucher&amp;code=b6dc6647-adbc-44d4-b75a-86446a0dc097"/>
+    <link href="clashofclans-inbox://action=voucher&amp;code=49b88ec8-1492-41d2-a801-c618df89dece"/>
     <category term="Novedades"/>
     <published>2025-01-26T07:30:03+00:00</published>
   </entry>
