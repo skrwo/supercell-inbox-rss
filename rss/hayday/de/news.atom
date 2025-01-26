@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2025-01-26T08:32:26.098615+00:00</updated>
+  <updated>2025-01-26T09:29:05.595734+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>7hnQAFFSG4VuqUcCIyrZmC</id>
-    <title>Gewinner der Million Münzen</title>
-    <updated>2024-10-25T07:48:42.852000+00:00</updated>
-    <content>&lt;h1&gt;Herzlichen Glückwunsch an die Gewinner!&lt;/h1&gt;
-&lt;p&gt;Hier sind die Farmer, die im Rahmen des Halloween-Meilenstein-Ereignisses 1 Million Münzen gewonnen haben:&lt;/p&gt;&lt;p&gt;&lt;b&gt;Meilenstein 1:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#90QC02Y80&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#YYQPURP0G&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#P9C0PLYQ9&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#8GPP9JCV8&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#V0P9J888&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Meilenstein 2:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#YJ9L8LRUU&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#9U9QCVP2C&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#PP9CVJQLL&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#LCQRUP0LP&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#YCJQ2Q8YQ&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Meilenstein 3:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#Q0YL89G89&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#LLGP2PULV&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#90PQJYJ29&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#PG2R0LQPR&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#P9GQRL80Y&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Meilenstein 4:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;#LJG9JYLCP&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#L8CGJUR88&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#LPUYYVYPY&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#Q8P9RQPVR&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;#2LUQ08RV&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Gewinner wurden zufällig ausgewählt. Die Teilnahmevoraussetzungen hierfür waren:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Die Spieler mussten mindestens auf Farmlevel 17 sein.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Die Spieler mussten mit dem temporären Produktionsgebäude am Halloween-Schiffsereignis teilgenommen haben.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/7hnQAFFSG4VuqUcCIyrZmC"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6XILdfElTaQHFaSgQPOSDf/07dbb236fe53d2c317d118777167de09/Inbox_Halloween_900x506__1_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-10-24T21:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>72nwYDDQP4AzfvXRfpAtgx</id>
-    <title>Hay Day-Woche 44</title>
-    <updated>2024-10-27T09:01:25.810000+00:00</updated>
-    <content>&lt;h1&gt;Ereigniswoche 44&lt;/h1&gt;
-&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 9:00 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag&lt;/b&gt;: Glücksrad-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag&lt;/b&gt;: Lieferwagen-Ereignis (doppelte EP) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch&lt;/b&gt;: Produktionsgebäude-Ereignis (20%iger Schub für drei Gebäude) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag&lt;/b&gt;: Farmbesucher-Ereignis (doppelte Münzen) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag&lt;/b&gt;: Produktionsschub für den Angelbereich (Hummer und Köder, 30 %) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag&lt;/b&gt;: Stadtbesucher-Ereignis (Materialien für Silo und Scheune) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag&lt;/b&gt;: Flinkeres Futter (drei zufällige Arten Tierfutter werden doppelt so schnell produziert) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: Normales Derby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/72nwYDDQP4AzfvXRfpAtgx"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Ereignisse"/>
-    <published>2024-10-27T09:00:03+00:00</published>
-  </entry>
   <entry>
     <id>2DV21fHOJVrjv1YrbPTiL6</id>
     <title>Entdecke all die neuen Ereignisse und Inhalte, die dich im November erwarten!</title>
@@ -299,5 +277,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Ereignisse"/>
     <published>2025-01-19T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>58G0yZ0N8d6dOfssvZoj4W</id>
+    <title>Hay Day-Woche 5</title>
+    <updated>2025-01-26T09:00:23.156000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-Woche 5&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 9:00 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag:&lt;/b&gt; Glücksrad-Ereignis (Puzzlestücke)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag:&lt;/b&gt; Lieferwagen-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch:&lt;/b&gt; Schiffsereignis (Gutscheine) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag:&lt;/b&gt; Farmbesucher-Ereignis (Flohmarkt) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag:&lt;/b&gt; Produktionsschub für den gesamten Angelbereich (20 %) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag:&lt;/b&gt; Stadtbesucher-Ereignis (doppelte Münzen) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag:&lt;/b&gt; Früchteereignis (drei zufällige Arten von Sträuchern oder Bäumen produzieren doppelt so schnell Früchte) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Normales Derby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/58G0yZ0N8d6dOfssvZoj4W"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Ereignisse"/>
+    <published>2025-01-26T09:00:03+00:00</published>
   </entry>
 </feed>
