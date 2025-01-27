@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-27T15:28:56.891781+00:00</updated>
+  <updated>2025-01-27T16:38:42.849001+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -426,5 +426,17 @@ Aumentati del 6% (da 242 punti a 256)&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notizie"/>
     <published>2025-01-15T10:12:36+00:00</published>
+  </entry>
+  <entry>
+    <id>4EKPMPbemmWylKHWtJUKwB</id>
+    <title>Modifiche di bilanciamento e aggiornamento opzionale</title>
+    <updated>2025-01-27T16:22:44.026000+00:00</updated>
+    <content>&lt;p&gt;Nell&amp;#39;ultima manutenzione, abbiamo modificato il modo in cui la gigantessa delle rune interagisce con le altre truppe.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Gli incantesimi della gigantessa adesso continueranno ad avere effetto sulle truppe interessate anche dopo la sua eliminazione.&lt;/p&gt;
+&lt;p&gt;Questa carta è stata pensata per proteggere gli alleati con i suoi incantesimi, ma spesso la sua eliminazione avveniva prima che questi potessero avere un impatto significativo sullo scontro. Questa modifica, quindi, rinforzerà il suo ruolo in battaglia e la renderà in generale più efficace.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;Abbiamo pubblicato anche l&amp;#39;aggiornamento opzionale 9.198.22, con cui abbiamo risolto questi errori.&lt;/p&gt;&lt;p&gt;✅ È stata aggiunta l&amp;#39;opzione per convertire i frammenti d&amp;#39;evoluzione del negozio stagionale in jolly élite, in caso l&amp;#39;inventario sia pieno.&lt;/p&gt;&lt;p&gt;✅ Abbiamo corretto vari arresti anomali e altri piccoli errori.&lt;/p&gt;&lt;p&gt;Assicurati di scaricare l&amp;#39;aggiornamento per una migliore esperienza di gioco!&lt;/p&gt;&lt;p&gt;Ci vediamo nell&amp;#39;arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Il team di Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/4EKPMPbemmWylKHWtJUKwB"/>
+    <category term="Note di rilascio"/>
+    <published>2025-01-21T09:37:56+00:00</published>
   </entry>
 </feed>
