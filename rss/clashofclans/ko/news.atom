@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2025-01-27T01:55:37.866094+00:00</updated>
+  <updated>2025-01-27T02:56:41.834269+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -195,5 +195,15 @@
     <link href="clashofclans-inbox://action=voucher&amp;code=49b88ec8-1492-41d2-a801-c618df89dece"/>
     <category term="뉴스"/>
     <published>2025-01-26T07:30:03+00:00</published>
+  </entry>
+  <entry>
+    <id>45drs9Iy3pL7UwIheBJYhS</id>
+    <title>선물줄게 덕담다오 EVENT</title>
+    <updated>2025-01-27T02:11:55.884000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/45drs9Iy3pL7UwIheBJYhS"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/66CUT6zkyOzT3q2EmiUFTz/491c8609c9a0e6e0e1fbf179089fe645/0125_COC_1___________1920x1080_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/post/Ugkx66QOdnuJmWSaZUkVG4eO5t-xCfb0ORre"/>
+    <category term="뉴스"/>
+    <published>2025-01-27T02:11:55+00:00</published>
   </entry>
 </feed>
