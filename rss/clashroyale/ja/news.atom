@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-27T09:33:04.843048+00:00</updated>
+  <updated>2025-01-27T10:37:48.079410+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -363,7 +363,7 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
   <entry>
     <id>3QzPOpdprqQdDwMIYaVAWm</id>
     <title>1月のバランス調整</title>
-    <updated>2025-01-23T07:29:50.655000+00:00</updated>
+    <updated>2025-01-27T09:47:22.151000+00:00</updated>
     <content>&lt;p&gt;新年の訪れとともに新たなバランス調整が実装！&lt;/p&gt;&lt;p&gt;今回の変更で強力すぎる、または活躍の場に恵まれないカードの調整を行い、ゲームバランスの見直しや仕様の統一を目指します。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;弱体化⬇️&lt;/h1&gt;
 
@@ -505,7 +505,7 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
   <entry>
     <id>4TKRSiQA4GQly62NRQkVpu</id>
     <title>宝箱に関する試験的調整：キングタワーレベル1～9</title>
-    <updated>2025-01-20T07:27:55.525000+00:00</updated>
+    <updated>2025-01-27T09:45:01.617000+00:00</updated>
     <content>&lt;p&gt;先日のメンテナンスで&lt;b&gt;キングタワーレベル1～9&lt;/b&gt;のプレイヤーを対象に、バトル報酬の宝箱に一時的な調整を加えました。本調整には以下が含まれます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;金の宝箱、魔法の宝箱&lt;/b&gt;、&lt;b&gt;巨大宝箱&lt;/b&gt;を報酬ローテーションから削除しました。&lt;b&gt;木の宝箱&lt;/b&gt;と&lt;b&gt;クラウン宝箱&lt;/b&gt;をローテーションに追加しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;宝箱のアンロック時間を変更しました。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;クラウン宝箱&lt;/b&gt;のアンロック時間を24時間に変更しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;銀の宝箱&lt;/b&gt;と&lt;b&gt;木の宝箱&lt;/b&gt;が待ち時間なしで即座にアンロック可能になりました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;また、試験調整の一環として、各宝箱の内容にも変更を加えていますが、報酬の全体的な価値は同じとなります。&lt;/p&gt;&lt;p&gt;&lt;b&gt;キングタワーレベル10&lt;/b&gt;以上のプレイヤーは試験の対象外となります。&lt;/p&gt;&lt;p&gt;試験期間中にレベル10に到達したプレイヤーは、現行の仕様でバトル報酬の宝箱がアンロックされるようになります。&lt;/p&gt;
 &lt;h1&gt;試験の目的&lt;/h1&gt;
 &lt;p&gt;クラッシュ・ロワイヤルの宝箱スロットシステムは、ゲームのリリース当初から存在していますが、現在と当時では新規プレイヤーの求めるものが変化していると感じています。そのため、本試験を通じて、宝箱のアンロックシステムの変更が全体的なゲーム体験にどのような影響を与えるのかを調査したいと考えています。収集したデータを活かし、ゲームの報酬システムの改善を進めていく予定です。&lt;/p&gt;&lt;p&gt;また、今回の調整は試験的なものであり、内容が変更される場合があります。ぜひRedditやDiscordなどのSNSでご意見をお聞かせください！&lt;/p&gt;</content>

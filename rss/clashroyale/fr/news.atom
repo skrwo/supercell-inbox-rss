@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-27T09:33:08.131569+00:00</updated>
+  <updated>2025-01-27T10:37:47.923916+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -266,7 +266,7 @@ Gagnez une émote exclusive !&lt;/p&gt;
   <entry>
     <id>3QzPOpdprqQdDwMIYaVAWm</id>
     <title>Équilibrages de janvier</title>
-    <updated>2025-01-23T07:29:50.655000+00:00</updated>
+    <updated>2025-01-27T09:47:22.151000+00:00</updated>
     <content>&lt;p&gt;Nouvelle année, nouveaux équilibrages !&lt;/p&gt;&lt;p&gt;On fait bouger les choses dans l&amp;#39;arène ! Dans cette manche de changements, nous améliorons certaines cartes faibles et ajustons également quelques designs.&lt;/p&gt;&lt;p&gt;&lt;b&gt;CES CHANGEMENTS SONT ACTUELLEMENT EN JEU&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;NERFS ⬇️&lt;/h1&gt;
 
@@ -408,7 +408,7 @@ Gagnez une émote exclusive !&lt;/p&gt;
   <entry>
     <id>4TKRSiQA4GQly62NRQkVpu</id>
     <title>TEST SUR LES COFFRES : TOUR DU ROI NIVEAUX 1-9</title>
-    <updated>2025-01-20T07:27:55.525000+00:00</updated>
+    <updated>2025-01-27T09:45:01.617000+00:00</updated>
     <content>&lt;p&gt;Lors de notre dernière maintenance, nous avons ajusté temporairement les coffres reçus en fin de combat pour les joueurs avec une &lt;b&gt;tour du Roi aux niveaux 1 à 9&lt;/b&gt;. Ce changement comprend :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Suppression des coffres &lt;b&gt;dorés, magiques&lt;/b&gt; et &lt;b&gt;géants&lt;/b&gt;. Ajout des &lt;b&gt;coffres en bois&lt;/b&gt; et des &lt;b&gt;coffres à couronne&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Durée de déblocage des coffres modifiée :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Les &lt;b&gt;coffres à couronne&lt;/b&gt; prennent désormais 24 heures.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les coffres &lt;b&gt;argentés&lt;/b&gt; et &lt;b&gt;en bois&lt;/b&gt; sont déverrouillés instantanément.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Notez que les contenus des coffres ont été modifiés pour ce test de manière à ce que la valeur totale des récompenses reste la même.&lt;/p&gt;&lt;p&gt;Pour les joueurs ayant déjà atteint la &lt;b&gt;tour du Roi niveau 10&lt;/b&gt;, rien ne change.&lt;/p&gt;&lt;p&gt;Si un joueur atteint le niveau 10 pendant le test, il repassera au système actuel de coffres.&lt;/p&gt;
 &lt;h1&gt;Pourquoi ce test ?&lt;/h1&gt;
 &lt;p&gt;Le système d&amp;#39;emplacements de coffres dans Clash Royale existe depuis les débuts du jeu, mais les joueurs qui commencent à jouer aujourd&amp;#39;hui ont des attentes différentes de celles des anciens joueurs. Par conséquent, ce test nous aidera à comprendre à quel point des modifications du système de coffres affecteraient le jeu de façon générale. Nous utiliserons cette expérience afin de guider nos futurs ajustements du système de récompenses.&lt;/p&gt;&lt;p&gt;Notez que ceci est un test, et que tout peut encore changer. N&amp;#39;hésitez pas à nous dire ce que vous en pensez sur Reddit ou Discord !&lt;/p&gt;</content>
@@ -416,5 +416,17 @@ Gagnez une émote exclusive !&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Actualités"/>
     <published>2025-01-15T10:12:36+00:00</published>
+  </entry>
+  <entry>
+    <id>4EKPMPbemmWylKHWtJUKwB</id>
+    <title>Changements d'équilibrage et mise à jour facultative !</title>
+    <updated>2025-01-27T10:36:43.308000+00:00</updated>
+    <content>&lt;p&gt;Lors de la dernière maintenance, nous avons modifié la manière dont la géante runique interagit avec les autres troupes.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Les enchantements de la géante runique resteront désormais actifs même lorsqu&amp;#39;elle est éliminée.&lt;/p&gt;
+&lt;p&gt;La géante runique a été créée pour protéger les troupes qu&amp;#39;elle enchante, mais elle était souvent éliminée avant même que ses enchantements ne puissent apporter un quelconque bénéfice. Ce changement permet de renforcer son rôle et améliore son efficacité globale au combat.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;De plus, la mise à jour facultative 9.198.22 est disponible, et permet de corriger les problèmes suivants :&lt;/p&gt;&lt;p&gt;✅ Ajout d&amp;#39;une option pour convertir les fragments d&amp;#39;évolution du magasin de saison en jokers d&amp;#39;élite si l&amp;#39;inventaire est plein.&lt;/p&gt;&lt;p&gt;✅ Correction de différents plantages et petites améliorations.&lt;/p&gt;&lt;p&gt;N&amp;#39;oubliez pas de mettre votre jeu à jour pour une expérience plus fluide !&lt;/p&gt;&lt;p&gt;À bientôt dans l&amp;#39;arène !&lt;/p&gt;&lt;p&gt;&lt;i&gt;L&amp;#39;équipe de Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/4EKPMPbemmWylKHWtJUKwB"/>
+    <category term="Notes de patch"/>
+    <published>2025-01-21T09:37:56+00:00</published>
   </entry>
 </feed>
