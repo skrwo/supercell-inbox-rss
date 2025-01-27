@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-eventEntries-ko</id>
   <title>Squadbusters - Event</title>
-  <updated>2025-01-27T06:40:45.129030+00:00</updated>
+  <updated>2025-01-27T07:29:09.016566+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -89,5 +89,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2aWWOVcSdtw7DYQd4ekxFf/df73904d41f0fb557d02befe7d8e62ab/YouTube_Progress_tracker_background_with_logo.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/@SquadBusters"/>
     <published>2024-12-10T16:35:49+00:00</published>
+  </entry>
+  <entry>
+    <id>g4ljObJN2LNMQlWqPjB5R</id>
+    <title>🗞️</title>
+    <updated>2025-01-27T07:05:35.117000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="squadbusters-inbox://OpenShop"&gt;👉새해 복 많이 받으세요!👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4Kw4SAqy0BytKkS6eg33Lw/fef03a1802f34533657e4c04801fc9f8/inbox_KR_.jpg?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="squadbusters-inbox://OpenShop"/>
+    <published>2025-01-27T07:03:00+00:00</published>
   </entry>
 </feed>

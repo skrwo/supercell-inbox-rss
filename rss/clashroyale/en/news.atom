@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-27T06:40:35.150757+00:00</updated>
+  <updated>2025-01-27T07:28:59.049254+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -474,12 +474,12 @@ Win an exclusive Emote!&lt;/p&gt;
   </entry>
   <entry>
     <id>4EKPMPbemmWylKHWtJUKwB</id>
-    <title>Balance Change: Rune Giant!</title>
-    <updated>2025-01-23T04:30:18.461000+00:00</updated>
+    <title>Balance Change &amp; Optional Update!</title>
+    <updated>2025-01-27T07:22:47.928000+00:00</updated>
     <content>&lt;p&gt;In our latest maintenance, we changed how Rune Giant interacts with other Troops.&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;p&gt;Rune Giant’s enchantments will now persist on Troops even after she is destroyed.&lt;/p&gt;
-&lt;p&gt;Rune Giant was designed to protect the Troops she enchanted, but she was often defeated before her enchantments could provide any significant value. This change strengthens her role and enhances her overall effectiveness in battle.&lt;/p&gt;&lt;p&gt;See you in the Arena,&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Clash Royale Team&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;Rune Giant was designed to protect the Troops she enchanted, but she was often defeated before her enchantments could provide any significant value. This change strengthens her role and enhances her overall effectiveness in battle.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;Additionally, Optional Update 9.198.22 was released, solving the following issues:&lt;/p&gt;&lt;p&gt;✅ Added option to convert Season Shop’s Evolution Shards into Elite Wild Cards if your inventory is full;&lt;/p&gt;&lt;p&gt;✅ Various crashes and small corrections.&lt;/p&gt;&lt;p&gt;Make sure to update your game for a smooth experience!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;See you in the Arena,&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Clash Royale Team&lt;/i&gt;&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/en/news/4EKPMPbemmWylKHWtJUKwB"/>
     <category term="Release Notes"/>
     <published>2025-01-21T09:37:56+00:00</published>

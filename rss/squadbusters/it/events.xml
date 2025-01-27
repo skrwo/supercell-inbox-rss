@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 27 Jan 2025 06:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 07:29:10 +0000</lastBuildDate>
     <item>
       <title>🗞️</title>
       <link>https://discord.gg/squadbusters</link>
@@ -84,6 +84,15 @@
       <guid isPermaLink="false">40c7W8boX</guid>
       <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2aWWOVcSdtw7DYQd4ekxFf/df73904d41f0fb557d02befe7d8e62ab/YouTube_Progress_tracker_background_with_logo.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Tue, 10 Dec 2024 16:35:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗞️</title>
+      <link>squadbusters-inbox://OpenShop</link>
+      <description>&lt;br&gt;
+&lt;a href="squadbusters-inbox://OpenShop"&gt;👉È il Capodanno lunare!👈&lt;/a&gt;</description>
+      <guid isPermaLink="false">g4ljObJN2LNMQlWqPjB5R</guid>
+      <enclosure url="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2Z1MQHiKo6vcNDaHzi9O4N/26eec835f490ea020559f74c4482ef26/KeyArt_2025.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Mon, 27 Jan 2025 07:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
