@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-28T09:31:55.042219+00:00</updated>
+  <updated>2025-01-28T10:36:56.715101+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -427,6 +427,18 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Новости"/>
     <published>2025-01-15T10:12:36+00:00</published>
+  </entry>
+  <entry>
+    <id>4EKPMPbemmWylKHWtJUKwB</id>
+    <title>Изменения баланса и необязательное обновление</title>
+    <updated>2025-01-28T09:42:52.230000+00:00</updated>
+    <content>&lt;p&gt;Во время последнего технического перерыва мы изменили то, как руническая гигантша взаимодействует с другими воинами.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Чары рунической гигантши теперь продолжают действовать даже после ее уничтожения.&lt;/p&gt;
+&lt;p&gt;Изначально предполагалось, что руническая гигантша будет не только усиливать воинов, но и защищать их. Однако ее начали слишком быстро уничтожать, и игрок не успевал получить существенного преимущества благодаря усилениям. Это изменение призвано повысить ее эффективность в бою и сделать надежным воином.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;Кроме того, мы выпустили необязательное обновление 9.198.22:&lt;/p&gt;&lt;p&gt;✅ добавлена возможность преобразовывать фрагменты эволюции из сезонного магазина в элитные карты-джокеры, если в инвентаре не хватает места;&lt;/p&gt;&lt;p&gt;✅ исправлены различные сбои и внесены небольшие улучшения.&lt;/p&gt;&lt;p&gt;Обновите игру, чтобы она работала еще лучше!&lt;/p&gt;&lt;p&gt;До встречи на арене!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Команда Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/4EKPMPbemmWylKHWtJUKwB"/>
+    <category term="Информация о версии"/>
+    <published>2025-01-21T09:37:56+00:00</published>
   </entry>
   <entry>
     <id>5vBnnJgXUeQPyP9Dm0Zdsf</id>
