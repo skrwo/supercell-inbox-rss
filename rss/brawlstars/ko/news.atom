@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-newsEntries-ko</id>
   <title>Brawlstars - News</title>
-  <updated>2025-01-28T12:53:06.326722+00:00</updated>
+  <updated>2025-01-28T13:33:41.598608+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -297,23 +297,23 @@ HP 2400 → 2700&lt;/p&gt;&lt;p&gt;&lt;b&gt;클랜시&lt;/b&gt;
     <published>2025-01-18T11:06:48+00:00</published>
   </entry>
   <entry>
-    <id>2G1xbKAopF6VWFRxb8lAjr</id>
-    <title>🎊커뮤니티 EVENT🎊 도련님 콜트 등장이오!</title>
-    <updated>2025-01-24T08:04:30.589000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/2G1xbKAopF6VWFRxb8lAjr"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4rpkevKTBlfg8f5XwdbruM/f66c07cf5253d4234efc5bd82ee9be68/0116_BS_jade-colt_event_800x433__inbox_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://cafe.naver.com/brawlstars/1351664"/>
-    <category term="뉴스"/>
-    <published>2025-01-24T08:04:30+00:00</published>
-  </entry>
-  <entry>
     <id>4celagaEr0E8hW1DQymxCy</id>
-    <title>🎊도련님 콜트 출시 기념🎊  크리에이터 라이브 이벤트!</title>
+    <title>🎊EVENT 종료!🎊  크리에이터 라이브 이벤트!</title>
     <updated>2025-01-24T09:14:33.850000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/#/ko/news/4celagaEr0E8hW1DQymxCy"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5BA5GXnfA9VfiudFBKJOw8/8357cc6382f3cb498e1798b24363ea42/0122_BS_colt-live_inbox-thumb_800x433_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://cafe.naver.com/brawlstars/1351807"/>
     <category term="뉴스"/>
     <published>2025-01-24T09:13:34+00:00</published>
+  </entry>
+  <entry>
+    <id>2G1xbKAopF6VWFRxb8lAjr</id>
+    <title>🎊커뮤니티 EVENT🎊 도련님 콜트 등장이오!</title>
+    <updated>2025-01-28T13:12:58.836000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/ko/news/2G1xbKAopF6VWFRxb8lAjr"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4rpkevKTBlfg8f5XwdbruM/f66c07cf5253d4234efc5bd82ee9be68/0116_BS_jade-colt_event_800x433__inbox_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1351664"/>
+    <category term="뉴스"/>
+    <published>2025-01-27T15:00:00+00:00</published>
   </entry>
 </feed>
