@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-28T15:32:51.953818+00:00</updated>
+  <updated>2025-01-28T16:39:38.771290+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -515,6 +515,18 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
     <published>2025-01-15T10:12:36+00:00</published>
   </entry>
   <entry>
+    <id>4EKPMPbemmWylKHWtJUKwB</id>
+    <title>バランス調整＆任意アップデート！</title>
+    <updated>2025-01-28T16:23:53.913000+00:00</updated>
+    <content>&lt;p&gt;最新メンテナンスで、鍛冶屋ジャイアントが他のユニットを強化する仕様に変更を加えました。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;ユニットの強化が、鍛冶屋ジャイアントの撃破後も継続されるようになります。&lt;/p&gt;
+&lt;p&gt;鍛冶屋ジャイアントは、ユニットを強化して生存率を上げるカードとして実装されましたが、そのサポート性能を最大限に発揮する前に撃破されるケースがたびたび見受けられました。そのため今回のアップデートで鍛冶屋ジャイアントの仕様を調整し、その効果の実用性アップを図ります。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;さらに任意アップデート9.198.22を配信し、以下の問題を修正しました。&lt;/p&gt;&lt;p&gt;✅シーズンショップの限界突破シャードをエリートワイルドカードに変換する機能を追加（所持数が最大の場合）&lt;/p&gt;&lt;p&gt;✅ゲームがクラッシュする問題と細かな不具合を修正&lt;/p&gt;&lt;p&gt;ゲームをアップデートし、最高のプレイ体験をお楽しみください！&lt;/p&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！&lt;/p&gt;&lt;p&gt;&lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/4EKPMPbemmWylKHWtJUKwB"/>
+    <category term="リリース情報"/>
+    <published>2025-01-21T09:37:56+00:00</published>
+  </entry>
+  <entry>
     <id>3FsEDLCjcFwcefEVwrj8Lc</id>
     <title>みんなで作ろう！ロイヤルシェフで調理動画</title>
     <updated>2025-01-24T15:12:59.205000+00:00</updated>
@@ -550,7 +562,7 @@ SuperFest2024で開催される世界一決定戦の日本選手を応援しよ�
   <entry>
     <id>5vBnnJgXUeQPyP9Dm0Zdsf</id>
     <title>限界突破吹き矢ゴブリン誕生秘話🎯</title>
-    <updated>2025-01-28T09:03:13.233000+00:00</updated>
+    <updated>2025-01-28T16:24:20.357000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/5vBnnJgXUeQPyP9Dm0Zdsf"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CDgbITbNtHglBMcgn6FfK/6eca7cd6956117311d4b47edede94e66/Dart_Goblin_Evolution_Thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
