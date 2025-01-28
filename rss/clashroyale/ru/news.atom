@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>clashroyale-newsEntries-ru</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-28T08:37:49.050815+00:00</updated>
+  <updated>2025-01-28T09:31:55.042219+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -427,5 +427,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Новости"/>
     <published>2025-01-15T10:12:36+00:00</published>
+  </entry>
+  <entry>
+    <id>5vBnnJgXUeQPyP9Dm0Zdsf</id>
+    <title>История эволюции гоблина с дротиками! 🎯</title>
+    <updated>2025-01-28T09:03:13.233000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ru/news/5vBnnJgXUeQPyP9Dm0Zdsf"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CDgbITbNtHglBMcgn6FfK/6eca7cd6956117311d4b47edede94e66/Dart_Goblin_Evolution_Thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
+    <category term="Развлечения"/>
+    <published>2025-01-25T22:00:00+00:00</published>
   </entry>
 </feed>
