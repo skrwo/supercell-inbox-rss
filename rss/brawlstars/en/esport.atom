@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-28T11:28:55.741880+00:00</updated>
+  <updated>2025-01-28T12:53:04.756662+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -131,5 +131,23 @@
     <link href="https://youtu.be/aiyRFGnBDcg"/>
     <category term="Video"/>
     <published>2025-01-24T17:55:20+00:00</published>
+  </entry>
+  <entry>
+    <id>1al1YuFexW9CFVa6cHY010</id>
+    <title>Introducing LPL Road to Brawl Cup and Road to LCQ! </title>
+    <updated>2025-01-28T11:54:43.586000+00:00</updated>
+    <content>&lt;p&gt;We’re thrilled to announce that letsplaylive will join forces with the Brawl Stars Championship, bringing in two third-party competitions in 2025: the &lt;b&gt;Road to Brawl Cup&lt;/b&gt; in Q1 and the &lt;b&gt;Road to LCQ&lt;/b&gt; in Q2–Q3! &lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rYbrDDIYPGWVwfDVe0oQN/8c19c1acf71e6b1fee15a376299fc5fc/EN_Road_to_Brawl_Cup_Entry.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;The Road to Brawl Cup&lt;/h1&gt;
+&lt;p&gt;The Road to Brawl Cup is the exclusive pathway for South Asia, including Central Asia and the Arabian Peninsula, and Southeast Asia to qualify for an international Brawl Stars event in 2025.&lt;/p&gt;&lt;p&gt;Each region will have its own Double Elimination Open Qualifiers, where teams will compete to advance to the Monthly Finals. The top 8 teams from each region will then face off in a region-specific Single Elimination bracket during &lt;b&gt;Monthly Finals #1&lt;/b&gt;, featuring a &lt;b&gt;$4,500 USD&lt;/b&gt; prize pool.&lt;/p&gt;&lt;p&gt;The &lt;b&gt;Road to Brawl Cup Finals&lt;/b&gt;, the concluding event of the Road to Brawl Cup, features a &lt;b&gt;$5,000 USD&lt;/b&gt; prize pool. It kicks off with Regional Finals, where the top 2 teams from South Asia and Southeast Asia face off. The winners of these Regional Finals will then compete in an Inter-Regional Final to determine the ultimate champion.&lt;/p&gt;&lt;p&gt;The champion of this final match will be invited to participate in the Brawl Cup, an international LAN event.&lt;/p&gt;&lt;p&gt;Sign up for the Open Qualifiers in your region today!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fgg.letsplay.live%25252Ftournament%25252Flpl-brawl-stars-monthly-qualifier-1-sa-67930b7b719c7b06e5239e38')"&gt;South Asia, including Central Asia and the Arabian Peninsula&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fgg.letsplay.live%25252Ftournament%25252Flpl-brawl-stars-monthly-qualifier-1-sea-67930bf527ae1771798fedf2')"&gt;Southeast Asia&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5sLKBIc5Lbeosom5i7ZFII/a4a1acaa0c96274064596b64bd44027e/EN_Road_to_LCQ_Entry.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;The Road to LCQ&lt;/h1&gt;
+&lt;p&gt;After the Road to Brawl Cup concludes, the &lt;b&gt;Road to LCQ&lt;/b&gt; will begin in April. The format for all three Road to LCQ events will be similar to the first two events from the Road to Brawl Cup: one qualifier and one broadcast per region per event.&lt;/p&gt;&lt;p&gt;At the conclusion of the 5th Monthly Final, once all points are tallied, the South Asia group will receive 1 qualification spot, and the Southeast Asia group will receive 2 qualification spots. &lt;/p&gt;&lt;p&gt;These teams will be invited to compete in the LCQ (Last Chance Qualifier) offering them a chance to advance to the Global Finals.&lt;/p&gt;
+&lt;h1&gt;Tune in to the Live Action!&lt;/h1&gt;
+&lt;p&gt;Catch all the Brawl Stars thrills live! Watch on the official LPL Twitch channel or the letsplaylive YouTube channel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Twitch: &lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Ftwitch.tv%25252Flpl_valorant')"&gt;&lt;u&gt;twitch.tv/lpl_play&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;YouTube: &lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=http%25253A%25252F%25252Fyoutube.com%25252F%252540LetsPlayLive')"&gt;&lt;u&gt;youtube.com/@LetsPlayLive&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Stay Connected
+&lt;/b&gt;Follow letsplaylive for updates on social media:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;X (formerly Twitter):&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252FletsplayliveGG')"&gt; &lt;u&gt;x.com/letsplayliveGG&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Instagram:&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Finstagram.com%25252Fletsplaylivehq')"&gt; &lt;u&gt;instagram.com/letsplaylivehq&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Facebook:&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Ffacebook.com%25252Fletsplaylivenz')"&gt; &lt;u&gt;facebook.com/letsplaylivenz&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/37zUNKwYQgnNfNEcJsuDz3/ec33568b3e6b60c1062976e4769b0613/EN_LPL_Brawl-Cup-LCQ-event_News.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2025-01-28T11:54:43+00:00</published>
   </entry>
 </feed>
