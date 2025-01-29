@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-29T09:31:52.628411+00:00</updated>
+  <updated>2025-01-29T10:36:31.709976+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -416,6 +416,18 @@ Menangkan Emote eksklusif!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Berita"/>
     <published>2025-01-15T10:12:36+00:00</published>
+  </entry>
+  <entry>
+    <id>4EKPMPbemmWylKHWtJUKwB</id>
+    <title>Perubahan Keseimbangan dan Pembaruan Opsional!</title>
+    <updated>2025-01-29T10:26:26.727000+00:00</updated>
+    <content>&lt;p&gt;Pada pembaruan terakhir, kami mengubah cara Raksasa Rune berinteraksi dengan Peleton lain.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Meski Raksasa Rune sudah tumbang, efek jampi miliknya kini akan tetap memengaruhi Peleton.&lt;/p&gt;
+&lt;p&gt;Raksasa Rune dirancang untuk melindungi Peleton yang dia jampi, tetapi dia sering dikalahkan sebelum jampi mampu memberikan manfaat yang signifikan. Perubahan ini akan memperkuat perannya dan meningkatkan efektivitas secara keseluruhan dalam pertempuran.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;Selain itu, Pembaruan Opsional 9.198.22 juga telah dirilis untuk menyelesaikan masalah-masalah berikut:&lt;/p&gt;&lt;p&gt;✅ Opsi untuk mengonversi Keping Evolusi dari Toko Musim menjadi Kartu Joker Elite jika penyimpanan penuh telah ditambahkan.&lt;/p&gt;&lt;p&gt;✅ Beragam perbaikan pada game mogok dan sejumlah perbaikan kecil.&lt;/p&gt;&lt;p&gt;Jangan lupa perbarui game untuk mendapatkan pengalaman bermain yang mulus!&lt;/p&gt;&lt;p&gt;Sampai jumpa di Arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Tim Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/4EKPMPbemmWylKHWtJUKwB"/>
+    <category term="Catatan Rilis"/>
+    <published>2025-01-21T09:37:56+00:00</published>
   </entry>
   <entry>
     <id>5vBnnJgXUeQPyP9Dm0Zdsf</id>
