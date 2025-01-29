@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-29T01:53:17.503274+00:00</updated>
+  <updated>2025-01-29T02:54:05.102051+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -548,18 +548,13 @@
   </entry>
   <entry>
     <id>4EKPMPbemmWylKHWtJUKwB</id>
-    <title>1月21日維護內容：平衡性調整</title>
-    <updated>2025-01-28T16:23:53.913000+00:00</updated>
-    <content>&lt;p&gt;在最近的維護中，我們調整了符文巨人與其他軍隊單位的互動機制。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+    <title>平衡性調整和非強制可選更新！</title>
+    <updated>2025-01-29T02:12:32.534000+00:00</updated>
+    <content>&lt;p&gt;在最近一次維護中，我們調整了符文巨人與其他軍隊的互動機制。&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;符文巨人被擊殺後，其附魔效果仍會繼續作用於軍隊。&lt;/p&gt;
-&lt;p&gt;符文巨人的設計初衷是保護她附魔的軍隊單位，但她經常在附魔能夠提供重要價值前就被擊殺。此調整加強她的角色，使其在對戰中提升整體效益。
-
-我們競技場見！
-
-《部落衝突:皇室戰爭》遊戲團隊&lt;/p&gt;</content>
+&lt;p&gt;現在符文巨人被擊殺後，她提供的附魔效果仍然會對對應軍隊生效。&lt;/p&gt;
+&lt;p&gt;符文巨人的設計初衷是為了保護那些她附魔的軍隊，但她往往會在附魔真正展現出價值前，就被擊殺了。這個調整加強了她的作用，同時提高了她在對戰中的整體效益。&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;此外，我們還推出了非強制可選更新9.198.22，修復了以下問題：&lt;/p&gt;&lt;p&gt;✅新增庫存已滿時，將主題季商店的進化碎片轉換為精英魔法外卡的選項；&lt;/p&gt;&lt;p&gt;✅修復各種引起遊戲閃退的問題和其他小問題。&lt;/p&gt;&lt;p&gt;記得更新遊戲，獲取更流暢的體驗！&lt;/p&gt;&lt;p&gt;我們競技場見！&lt;/p&gt;&lt;p&gt;&lt;i&gt;《部落衝突:皇室戰爭》遊戲團隊&lt;/i&gt;&lt;/p&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/#/zh/news/4EKPMPbemmWylKHWtJUKwB"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6UR9DUkDsvPTCrVIvmX3MU/6eee758381b6886718216b3aa12b165f/balancechange_larger_960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="更新說明"/>
     <published>2025-01-21T09:37:56+00:00</published>
   </entry>
