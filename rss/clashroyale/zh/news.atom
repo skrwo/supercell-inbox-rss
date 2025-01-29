@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-29T14:34:41.973909+00:00</updated>
+  <updated>2025-01-29T15:32:46.237630+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -567,5 +567,25 @@
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
     <category term="趣味"/>
     <published>2025-01-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3fCZcKsn3aQXbwTkuR2YyU</id>
+    <title>【XIAKE】進化狂暴伐木工！無敵是怎麼一回事？</title>
+    <updated>2025-01-29T15:21:41.924000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/3fCZcKsn3aQXbwTkuR2YyU"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6fZr8jP6AKANxDGqdSceSS/6de39c3462a2ca86c87892a79006539d/tw_20250129_xiake_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=ewRpX7ReRj4"/>
+    <category term="最新情報"/>
+    <published>2025-01-29T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1VN6eLcLUZxTJKmT9OKB8l</id>
+    <title>【阿酸】實測！進化狂暴伐木工強度如何？</title>
+    <updated>2025-01-29T15:23:06.069000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/1VN6eLcLUZxTJKmT9OKB8l"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2biV35ik21KKa563TaGKuv/6959a955dea1fff0f664021bd5f1f523/tw_20250129_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Rozjkj8scS8"/>
+    <category term="最新情報"/>
+    <published>2025-01-29T15:01:00+00:00</published>
   </entry>
 </feed>
