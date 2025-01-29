@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-29T08:38:05.951867+00:00</updated>
+  <updated>2025-01-29T09:31:43.472490+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -285,6 +285,18 @@ Y cuando esté llena, ¡haz una entrega especial!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Noticias"/>
     <published>2025-01-15T10:12:36+00:00</published>
+  </entry>
+  <entry>
+    <id>4EKPMPbemmWylKHWtJUKwB</id>
+    <title>Ajuste de equilibrio y actualización opcional</title>
+    <updated>2025-01-29T09:20:44.635000+00:00</updated>
+    <content>&lt;p&gt;En la última pausa de mantenimiento, hemos cambiado las interacciones de la gigante rúnica con las demás tropas.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Ahora los encantamientos de la gigante rúnica seguirán afectando a las tropas incluso después de que esta sea eliminada.&lt;/p&gt;
+&lt;p&gt;Diseñamos a la gigante rúnica para que defendiera a las tropas a las que encantara, pero a menudo la derrotaban antes de que sus encantamientos llegaran a ser de especial ayuda. Con este cambio, potenciamos su habilidad para que tenga una mayor eficacia en las batallas.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;También hemos lanzado la actualización opcional 9.198.22, que incluye lo siguiente:&lt;/p&gt;&lt;p&gt;✅ Se ha añadido una opción para convertir los fragmentos de evolución de la tienda de temporada en comodines de élite si el inventario está lleno.&lt;/p&gt;&lt;p&gt;✅ Se han solucionado varios errores que hacían que el juego se bloqueara y se han implementado algunas correcciones menores.&lt;/p&gt;&lt;p&gt;Asegúrate de actualizar tu juego para que funcione a la perfección.&lt;/p&gt;&lt;p&gt;¡Nos vemos en la arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;El equipo de Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/4EKPMPbemmWylKHWtJUKwB"/>
+    <category term="Notas de actualización"/>
+    <published>2025-01-21T09:37:56+00:00</published>
   </entry>
   <entry>
     <id>5vBnnJgXUeQPyP9Dm0Zdsf</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-29T08:38:01.211671+00:00</updated>
+  <updated>2025-01-29T09:31:48.135603+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -255,5 +255,17 @@ Ganhe um emote exclusivo!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2025-01-15T10:12:36+00:00</published>
+  </entry>
+  <entry>
+    <id>4EKPMPbemmWylKHWtJUKwB</id>
+    <title>Ajuste de balanceamento e atualização opcional</title>
+    <updated>2025-01-29T09:20:44.635000+00:00</updated>
+    <content>&lt;p&gt;Na última manutenção, ajustamos a forma como a Gigante das Runas interage com outras tropas.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Agora os encantamentos dessa carta permanecem ativos mesmo depois que ela é destruída.&lt;/p&gt;
+&lt;p&gt;A Gigante das Runas foi desenvolvida para proteger as tropas encantadas por ela, mas essa carta era frequentemente derrotada antes dos seus encantamentos influenciarem significativamente a batalha. Essa mudança fortalece sua função e melhora sua efetividade geral em batalha.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;Também lançamos a atualização opcional 9.198.22, que corrige os seguintes problemas:&lt;/p&gt;&lt;p&gt;✅ Agora você pode converter fragmentos de evolução da loja da temporada em curingas de elite se o seu estoque estiver cheio.&lt;/p&gt;&lt;p&gt;✅ Vários travamentos e pequenas correções.&lt;/p&gt;&lt;p&gt;Atualize seu jogo para melhorar sua experiência!&lt;/p&gt;&lt;p&gt;Nós nos vemos na arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Equipe do Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/4EKPMPbemmWylKHWtJUKwB"/>
+    <category term="Notas de lançamento"/>
+    <published>2025-01-21T09:37:56+00:00</published>
   </entry>
 </feed>

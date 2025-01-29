@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 29 Jan 2025 08:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 09:31:50 +0000</lastBuildDate>
     <item>
       <title>2024 로드맵</title>
       <link>https://clashroyale.inbox.supercell.com/#/ko/news/6g54VT7JKlhc8E8g413MXe</link>
@@ -413,6 +413,17 @@
       <category>소식</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1IebodrtRKYXuyumSF3AHO/4e9a59411e68646b6e3ebf94303907f3/Thumbnail_ChestsArticle.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Jan 2025 10:12:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>밸런스 조정 및 선택적 업데이트!</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ko/news/4EKPMPbemmWylKHWtJUKwB</link>
+      <description>&lt;p&gt;최신 점검에서 룬 자이언트가 다른 유닛과 상호작용하는 방식을 변경했습니다.&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;이제 룬 자이언트가 파괴되더라도 유닛에게 건 마법은 지속됩니다.&lt;/p&gt;
+&lt;p&gt;룬 자이언트는 마법을 건 유닛을 보호하도록 만들어졌지만 마법이 유의한 효과를 내기 전에 처치되는 경우가 종종 있었습니다. 이 변경사항으로 룬 자이언트의 역할을 강화하고 전투에서 전반적인 효과를 개선했습니다.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;또한 다음 문제를 해결하기 위한 선택적 업데이트 9.198.22가 출시되었습니다.&lt;/p&gt;&lt;p&gt;✅ 인벤토리가 찼을 때 시즌 상점의 진화 조각을 엘리트 와일드카드로 변환하는 옵션 추가&lt;/p&gt;&lt;p&gt;✅ 다양한 충돌 및 사소한 수정&lt;/p&gt;&lt;p&gt;원활한 전투 경험을 위해 게임을 반드시 업데이트하세요!&lt;/p&gt;&lt;p&gt;아레나에서 뵙겠습니다.&lt;/p&gt;&lt;p&gt;&lt;i&gt;클래시 로얄 팀&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4EKPMPbemmWylKHWtJUKwB</guid>
+      <category>새 소식</category>
+      <pubDate>Tue, 21 Jan 2025 09:37:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
