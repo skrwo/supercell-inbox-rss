@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-01-30T12:53:08.551826+00:00</updated>
+  <updated>2025-01-30T13:33:52.369231+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1185,5 +1185,16 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4109UkObwBFsjOu6v8dvqX/89ac847f5db8c1ed6a7e507e42b97bf1/SB_Trophy_News_16x9_02_4.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-01-30T09:47:34+00:00</published>
+  </entry>
+  <entry>
+    <id>6r0one4MopxkkN5Y44vYMi</id>
+    <title>2月寶石之路：更多高手角色，更多選擇！</title>
+    <updated>2025-01-30T13:00:03.988000+00:00</updated>
+    <content>&lt;h1&gt;隆重推出升級版寶石之路！更多高手角色，更多選擇！&lt;/h1&gt;
+&lt;p&gt;寶石之路大升級，驚喜連連：不再只能選擇1個高手角色，而是提升至……滿滿12個！&lt;/p&gt;&lt;p&gt;&lt;b&gt;具體機制：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;在免費寶石之路的最後一階，你將可以選擇1個高手角色。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;另外的11次高手角色選擇機會，將在你不斷推進超級通行證進度的過程中解鎖。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;你會專注於一個角色，還是均衡發展？&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;如果10次都選擇同一個你最愛的角色，則可將其從小小進化為頂尖。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;如果你手上有多個角色都即將進化，不妨將高手角色選擇機會分散使用，打造一個更均衡的陣容。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;最棒的部分來了：不論你選擇如何使用，都可以透過合併這些高手角色獲得超多星星幣！&lt;/p&gt;&lt;p&gt;&lt;i&gt;要注意的是，不要選擇已升至滿級的角色唷！&lt;/i&gt;&lt;/p&gt;&lt;p&gt;全新寶石之路將於&lt;b&gt;台北/香港時間2月1日15:00&lt;/b&gt;正式推出，期待看到大家會選擇哪些高手角色！🤩&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/6r0one4MopxkkN5Y44vYMi"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4uCLFrDhnzZZoMnC166ha9/0f19359428ee5224c8869d963ce6075a/Feb_GemPass_16X9_01-nobanner.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2025-01-30T13:00:03+00:00</published>
   </entry>
 </feed>
