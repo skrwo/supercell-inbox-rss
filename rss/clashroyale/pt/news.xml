@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 30 Jan 2025 11:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:52:59 +0000</lastBuildDate>
     <item>
       <title>Evolução da Mosqueteira!</title>
       <link>https://youtube.com/shorts/oDeRicecJgU?feature=share</link>
@@ -259,6 +259,22 @@ Ganhe um emote exclusivo!&lt;/p&gt;
       <category>Diversão</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CDgbITbNtHglBMcgn6FfK/6eca7cd6956117311d4b47edede94e66/Dart_Goblin_Evolution_Thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Sat, 25 Jan 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ajuste da Gigante das Runas e correção da evolução da P.E.K.K.A</title>
+      <link>https://clashroyale.inbox.supercell.com/#/pt/news/2vr3vyDzPkORZNucdhsrrf</link>
+      <description>&lt;p&gt;Na manutenção do dia &lt;b&gt;30 de janeiro&lt;/b&gt;, introduzimos alguns balanceamentos, com uma alteração na maneira como a &lt;b&gt;Gigante das Runas&lt;/b&gt; interage com diversas tropas e uma correção na &lt;b&gt;evolução da P.E.K.K.A&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Gigante da Runas&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;O encantamento da Gigante das Runas agora funciona de maneira diferente ao interagir com algumas cartas.&lt;/p&gt;
+&lt;p&gt;As cartas afetadas são: &lt;b&gt;Caçador, Domadora de Carneiro, Máquina Goblin, Pirotécnica, evolução da Pirotécnica, Goblin Gigante&lt;/b&gt; e &lt;b&gt;evolução do Goblin Gigante&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;O bônus de dano do encantamento agora é dividido entre os projéteis, evitando que a &lt;b&gt;Pirotécnica&lt;/b&gt; e o &lt;b&gt;Caçador&lt;/b&gt; destruam as suas tropas.&lt;/p&gt;&lt;p&gt;Além disso, &lt;b&gt;as tropas vinculadas não receberão um bônus de dano&lt;/b&gt;. A alteração afeta &lt;b&gt;a domadora da Domadora de Carneiro, o foguete da Máquina Goblin e os Goblins Lanceiros do Goblin Gigante&lt;/b&gt;.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolução da P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Os valores da &lt;b&gt;cura por abate&lt;/b&gt; da &lt;b&gt;evolução da P.E.K.K.A&lt;/b&gt; foram corrigidos.&lt;/p&gt;
+&lt;p&gt;O nível de cura agora está alinhado com o anunciado no balanceamento anterior.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cura no nível 11:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Tropas pequenas (HP inferior a 990): 282 → 142 (-50%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tropas intermediárias (HP de 991 a 1.989): 282 → 282 (0%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tropas grandes (HP superior a 1.990): 282 → 565 (100%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nós nos vemos na arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Equipe do Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2vr3vyDzPkORZNucdhsrrf</guid>
+      <category>Notas de lançamento</category>
+      <pubDate>Thu, 30 Jan 2025 12:25:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

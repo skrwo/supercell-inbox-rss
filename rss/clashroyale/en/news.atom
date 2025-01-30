@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-30T11:29:38.442441+00:00</updated>
+  <updated>2025-01-30T12:52:55.700193+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -493,5 +493,22 @@ Win an exclusive Emote!&lt;/p&gt;
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
     <category term="Fun"/>
     <published>2025-01-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2vr3vyDzPkORZNucdhsrrf</id>
+    <title>Rune Giant Balance Change and P.E.K.K.A Evolution Fix!</title>
+    <updated>2025-01-30T12:37:57.882000+00:00</updated>
+    <content>&lt;p&gt;During the maintenance on &lt;b&gt;January 30&lt;/b&gt;, we introduced a couple of balance changes, including a change to how &lt;b&gt;Rune Giant&lt;/b&gt; interacts with different Troops and a correction to &lt;b&gt;P.E.K.K.A Evolution&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Rune Giant&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Rune Giant&amp;#39;s enchantment now works differently when interacting with some Cards.&lt;/p&gt;
+&lt;p&gt;The Cards affected are&lt;b&gt; Hunter, Ram Rider, Goblin Machine, Firecracker, Firecracker Evolution, Goblin Giant, &lt;/b&gt;and&lt;b&gt; Goblin Giant Evolution&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;The enchantment&amp;#39;s damage bonus is now divided among projectiles, preventing &lt;b&gt;Firecracker &lt;/b&gt;and&lt;b&gt; Hunter&lt;/b&gt; from obliterating your Troops.&lt;/p&gt;&lt;p&gt;Additionally, &lt;b&gt;attached Troops will no longer receive a damage bonus&lt;/b&gt;. This change affects &lt;b&gt;Ram Rider&amp;#39;s Rider, Goblin Machine&amp;#39;s Rocket, and Goblin Giant&amp;#39;s Spear Goblins&lt;/b&gt;.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;P.E.K.K.A Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;The &lt;b&gt;Heal per death&lt;/b&gt; values for &lt;b&gt;P.E.K.K.A Evolution&lt;/b&gt; have been corrected. &lt;/p&gt;
+&lt;p&gt;The healing level now aligns with the announcement from the previous balance change.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Healing Values at Level 11:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Small Troops (&amp;lt;990 HP): 282 → 142 (-50%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Medium Troops (991-1989 HP): 282 → 282 (0%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Large Troops (&amp;gt;1990 HP): 282 → 565 (100%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;See you in the Arena,&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Clash Royale Team&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/2vr3vyDzPkORZNucdhsrrf"/>
+    <category term="Release Notes"/>
+    <published>2025-01-30T12:25:21+00:00</published>
   </entry>
 </feed>
