@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-30T17:32:02.844349+00:00</updated>
+  <updated>2025-01-30T18:39:14.364043+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -158,5 +158,14 @@
     <link href="https://youtu.be/P4hsL5_kbwg"/>
     <category term="Video"/>
     <published>2025-01-30T17:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>smns3Qs5QMQr9zv5MTBDX</id>
+    <title>THE NEW ERA OF TRIBE GAMING</title>
+    <updated>2025-01-30T18:13:08.961000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/51LggIiYNdfnJhSS3JeMKj/d40e539aabc7c415311030caeec2b0c6/BS_Team_Announcement_2025_-_Motion_Graphics_Endcard_1.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/TribeGaming/status/1885025242214531354"/>
+    <category term="Video"/>
+    <published>2025-01-30T18:13:08+00:00</published>
   </entry>
 </feed>
