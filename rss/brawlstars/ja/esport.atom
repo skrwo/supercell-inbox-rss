@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-30T09:30:56.786656+00:00</updated>
+  <updated>2025-01-30T10:36:11.057525+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -41,5 +41,14 @@
     <link href="https://x.com/RivalEsportsHQ"/>
     <category term="eスポーツ"/>
     <published>2024-11-12T10:58:03+00:00</published>
+  </entry>
+  <entry>
+    <id>3wcK10RWKS7XkGafwahSAF</id>
+    <title>ブロスタ チャンピオンシップ 2025・ロードマップ</title>
+    <updated>2025-01-30T09:44:01.406000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/46Vn5Zk4ngygg6fXNWbc8o/1d59d2f52724459357eb7e6cb6fb10d1/BSC_ROADMAPthumbnail_newbranding__1_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=qExY1wVLvsI"/>
+    <category term="ビデオ"/>
+    <published>2025-01-18T17:11:41+00:00</published>
   </entry>
 </feed>
