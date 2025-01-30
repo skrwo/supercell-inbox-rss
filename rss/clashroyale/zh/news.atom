@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-30T15:32:26.420828+00:00</updated>
+  <updated>2025-01-30T16:39:40.242016+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -587,5 +587,25 @@
     <link href="https://www.youtube.com/watch?v=Rozjkj8scS8"/>
     <category term="最新情報"/>
     <published>2025-01-29T15:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2NZjHgqTMMuJL6X2iEwrY0</id>
+    <title>【阿酸】全新卡牌──狂戰士數據表現如何？</title>
+    <updated>2025-01-30T16:37:22.976000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/2NZjHgqTMMuJL6X2iEwrY0"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3IBuoq69jjMXBfWvjma3rI/452fef6415822399726e7804b5f3a36c/tw_20250130_acidr_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Zktr-0ue-vI"/>
+    <category term="最新情報"/>
+    <published>2025-01-30T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3FrzxGVGB4zxOYX6DVw2Ho</id>
+    <title>【XIAKE】狂戰士實戰！2費普通卡的強度為何？</title>
+    <updated>2025-01-30T16:38:43.934000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/3FrzxGVGB4zxOYX6DVw2Ho"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4Ka57JdWbxPhR0HiMvQMne/d220db0fd2b6cf919d04805911f78bd6/tw_20250130_xiake_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=XdNBOX9uwK0"/>
+    <category term="最新情報"/>
+    <published>2025-01-30T15:01:00+00:00</published>
   </entry>
 </feed>

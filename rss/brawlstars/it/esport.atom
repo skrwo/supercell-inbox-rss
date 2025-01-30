@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-30T15:32:24.857010+00:00</updated>
+  <updated>2025-01-30T16:39:38.138928+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -99,5 +99,32 @@
     <link href="https://www.youtube.com/watch?v=bR0AHAfHHFo&amp;ab_channel=BrawlStarsEsports"/>
     <category term="Video"/>
     <published>2025-01-18T17:14:16+00:00</published>
+  </entry>
+  <entry>
+    <id>51Twqrfjt3aQjGNKY9Gydm</id>
+    <title>UNA NUOVA STELLA: BENVENUTO ANGELBOY | Team Brawl Stars Reply Totem 2025 ⭐️</title>
+    <updated>2025-01-30T15:36:37.438000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5omniGdrsHI8uPoVLwc9Va/4052fae1643d4a224cb5d720bdd2c08c/X5uQ1qBaAU8-HD.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=X5uQ1qBaAU8&amp;ab_channel=ReplyTotem"/>
+    <category term="Video"/>
+    <published>2025-01-21T17:15:59+00:00</published>
+  </entry>
+  <entry>
+    <id>yaV3OYfhIn91nQWS5yM6c</id>
+    <title>SSG BOBBY È TORNATO?! | Il NUOVO Roster Brawl Stars di Spacestation Gaming Già Predomina in NA??</title>
+    <updated>2025-01-30T15:39:49.662000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/43FlJuOd4Gt5S7eJ8VhrU7/a94af8604bff36cf369c6b12242b0cfc/IMG_1766.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=ti2PEKScxzE&amp;ab"/>
+    <category term="Video"/>
+    <published>2025-01-23T21:38:33+00:00</published>
+  </entry>
+  <entry>
+    <id>3xMD57ZMXkabzKG4jWAJWR</id>
+    <title>Road To Redemption - Una Storia Esports di Brawl Stars</title>
+    <updated>2025-01-30T15:41:56.414000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4wYhJIFF0MUlArEkZiWqzx/6083690d6bb5744e662bfb13ac519333/BSC_RTR_THUMB_v2-IT.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/aiyRFGnBDcg"/>
+    <category term="Video"/>
+    <published>2025-01-24T17:55:20+00:00</published>
   </entry>
 </feed>
