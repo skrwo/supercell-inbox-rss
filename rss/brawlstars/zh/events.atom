@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-eventEntries-zh</id>
   <title>Brawlstars - Event</title>
-  <updated>2025-01-30T06:39:20.815720+00:00</updated>
+  <updated>2025-01-30T07:28:51.961858+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -82,5 +82,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7Es1f06ZMDcUcZoZQ1KB7g/2c5f57f6e285e591b5046075ed8fda93/0108_Meeple_Animation_Launch_carousel_800x1131.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/IPWqFlwMgZ8"/>
     <published>2025-01-09T07:19:09+00:00</published>
+  </entry>
+  <entry>
+    <id>4gccvSg2kres84DlZIbUfJ</id>
+    <title>🗞️</title>
+    <updated>2025-01-30T07:04:54.970000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/2iU6MrHXfyU"&gt;👉奧利！👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7qFvL1LDwCFDQmk9uBp0uq/fadd33d767e16dec9a3723f3c566485c/0129_Ollie_Animation_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/2iU6MrHXfyU"/>
+    <published>2025-01-30T07:04:54+00:00</published>
   </entry>
 </feed>
