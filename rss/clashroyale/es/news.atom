@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-31T04:35:46.628556+00:00</updated>
+  <updated>2025-01-31T05:33:55.980923+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -307,5 +307,22 @@ Y cuando esté llena, ¡haz una entrega especial!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
     <category term="Diversión"/>
     <published>2025-01-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2vr3vyDzPkORZNucdhsrrf</id>
+    <title>Ajustes de equilibrio de la gigante rúnica y la evolución de la P.E.K.K.A.</title>
+    <updated>2025-01-31T04:40:57.645000+00:00</updated>
+    <content>&lt;p&gt;Durante la pausa de mantenimiento del &lt;b&gt;30 de enero&lt;/b&gt;, introdujimos un par de ajustes de equilibrio, entre los que se encuentran un cambio en cómo la &lt;b&gt;gigante rúnica&lt;/b&gt; interactúa con tropas diferentes y una modificación en la &lt;b&gt;evolución de la P.E.K.K.A.&lt;/b&gt;&lt;/p&gt;
+&lt;h1&gt;Gigante rúnica&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;El encantamiento de la gigante rúnica ahora funciona de forma distinta cuando interactúa con algunas cartas.&lt;/p&gt;
+&lt;p&gt;Las cartas afectadas son &lt;b&gt;el cazador, la montacarneros, la máquina duende, la lanzafuegos, la evolución de la lanzafuegos, el duende gigante&lt;/b&gt; y &lt;b&gt;la evolución del duende gigante&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;El bonus de daño del encantamiento ahora se divide entre los proyectiles de la carta, lo que evita que la &lt;b&gt;lanzafuegos&lt;/b&gt; y el &lt;b&gt;cazador&lt;/b&gt; destruyan por completo tus tropas.&lt;/p&gt;&lt;p&gt;Además, &lt;b&gt;las tropas adicionales ya no recibirán un bonus de daño&lt;/b&gt;. Este cambio afecta a &lt;b&gt;la jinete de la carta de la montacarneros, el cohete de la máquina duende y los duendes con lanza del duende gigante&lt;/b&gt;.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolución de la P.E.K.K.A.&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se han corregido los valores de &lt;b&gt;curación por eliminación&lt;/b&gt; de la &lt;b&gt;evolución de la P.E.K.K.A.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;El nivel de curación ahora es coherente con las notas de los ajustes de equilibrio anteriores.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Curación a nivel 11:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;La curación a tropas pequeñas (de menos de 990 PV) se ha reducido en un 50 % (de 282 a 142).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La curación a tropas medianas (de entre 991 y 1989 PV) se mantiene en 282.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;La curación a tropas grandes (de más de 1990 PV) se ha aumentado en un 100 % (de 282 a 565).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;¡Nos vemos en la arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;El equipo de Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/2vr3vyDzPkORZNucdhsrrf"/>
+    <category term="Notas de actualización"/>
+    <published>2025-01-30T12:25:21+00:00</published>
   </entry>
 </feed>
