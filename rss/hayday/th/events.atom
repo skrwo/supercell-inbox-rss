@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-eventEntries-th</id>
   <title>Hayday - Event</title>
-  <updated>2025-01-31T08:36:55.095328+00:00</updated>
+  <updated>2025-01-31T09:31:08.036638+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -15,26 +15,6 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/cRcj4pkDW6Rh5ThtDKjVYxZNHJcNMJ9ukUsj4Qvsr1w/cc11b4a0a60932be2be4732bfa32eef7/1379298962_1625649229.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="hayday://OpenEventBoard"/>
     <published>2023-09-12T09:48:04+00:00</published>
-  </entry>
-  <entry>
-    <id>6ZgUvzEES1yIPAlHCOCgz</id>
-    <title>อีเวนท์เดือนพฤศจิกายน</title>
-    <updated>2024-10-31T08:00:04.746000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/lWLp_ptADNU"&gt;👉รับชม👈&lt;/a&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/4cfyKPJkTQJ7SpQsCYZH8s/e8853092bea1e83916d4606fbb77d65e/HayDay_Thanksgiving_Inbox_Carousel_860x1320__1_.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/lWLp_ptADNU"/>
-    <published>2024-10-31T08:00:04+00:00</published>
-  </entry>
-  <entry>
-    <id>6JEWS3e5RH4ciciYXLe6NB</id>
-    <title>แกะกล่องอัปเดตฤดูหนาว</title>
-    <updated>2024-11-29T08:00:05.426000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://youtu.be/axVfcDrE0mE"&gt;👉ชมเลย👈&lt;/a&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/5hVBdKztO9Cymj9HFdvSaw/5af840e4d0c050bb250f9c00c4f5119c/inbox5.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/axVfcDrE0mE"/>
-    <published>2024-11-29T08:00:05+00:00</published>
   </entry>
   <entry>
     <id>4Lv4YqWAzhgzbrMguolcxc</id>
