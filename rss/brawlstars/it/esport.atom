@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-31T05:33:44.715275+00:00</updated>
+  <updated>2025-01-31T06:40:17.733064+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>6VTWeYcZZmVxVNfNZwP9Sl</id>
-    <title>Rivedi il giorno 1 delle Finali mondiali!</title>
-    <updated>2024-11-02T06:28:27.695000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6y2F8YZGnCbtUzTC2h562/ed12d8ddfd97863ec6fcecd3275faf49/it_BSWF24-Day-1-Thumbnail.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/cPxYDGJ6RnI?si=RFa0c6wxiZYtRg7n&amp;t=123"/>
-    <category term="Esports"/>
-    <published>2024-11-02T06:28:27+00:00</published>
-  </entry>
   <entry>
     <id>7o79mgoOruv4B3ImCmKv9s</id>
     <title>Rivedi il giorno 2 delle Finali mondiali!</title>
