@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-31T06:40:21.823485+00:00</updated>
+  <updated>2025-01-31T07:28:57.739513+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -448,5 +448,22 @@ Aumentati del 6% (da 242 punti a 256)&lt;/p&gt;
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
     <category term="Divertimento"/>
     <published>2025-01-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2vr3vyDzPkORZNucdhsrrf</id>
+    <title>Modifiche di bilanciamento della gigantessa delle rune e correzione della P.E.K.K.A evoluta</title>
+    <updated>2025-01-31T06:47:54.320000+00:00</updated>
+    <content>&lt;p&gt;Nella manutenzione del &lt;b&gt;30 gennaio&lt;/b&gt;, abbiamo inserito un paio di modifiche di bilanciamento: una sul modo in cui la &lt;b&gt;gigantessa delle rune&lt;/b&gt; interagisce con le varie truppe e un&amp;#39;altra che corregge la funzionalità della &lt;b&gt;P.E.K.K.A evoluta&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Gigantessa delle rune&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Adesso l&amp;#39;incantesimo della gigantessa funziona diversamente quando influenza certe carte.&lt;/p&gt;
+&lt;p&gt;Per la precisione, queste sono &lt;b&gt;il cacciatore, la domatrice di arieti, la macchina goblin, l&amp;#39;arciere pirotecnico (evoluto e non) e il gigante goblin (evoluto e non)&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Ora il bonus ai danni concesso dall&amp;#39;incantesimo è ripartito tra tutti i proiettili, così l&amp;#39;&lt;b&gt;arciere pirotecnico&lt;/b&gt; e il &lt;b&gt;cacciatore&lt;/b&gt; non potranno annientare con estrema facilità gli avversari.&lt;/p&gt;&lt;p&gt;Inoltre, &lt;b&gt;gli elementi secondari di un&amp;#39;unità non riceveranno più il bonus&lt;/b&gt;. Questo vale per l&amp;#39;&lt;b&gt;attacco sferrato dalla domatrice (e non quello dell&amp;#39;ariete), per il razzo della macchina goblin e per i goblin lancieri del gigante goblin&lt;/b&gt;.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Abbiamo corretto la quantità di &lt;b&gt;punti ferita recuperati&lt;/b&gt; &lt;b&gt;dalla P.E.K.K.A evoluta dopo un&amp;#39;eliminazione&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;Questo cambio è in linea con l&amp;#39;annuncio sulle scorse modifiche di bilanciamento.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Punti ferita recuperati al livello 11&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Contro truppe piccole (990 punti ferita o meno): riduzione del 50% (da 282 punti a 142).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Contro truppe medie (da 991 a 1989 punti ferita): nessun aumento o riduzione (valore mantenuto a 282 punti).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Contro truppe grandi (1990 punti ferita o più): aumento del 100% (da 282 punti a 565).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ci vediamo nell&amp;#39;arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Il team di Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/2vr3vyDzPkORZNucdhsrrf"/>
+    <category term="Note di rilascio"/>
+    <published>2025-01-30T12:25:21+00:00</published>
   </entry>
 </feed>
