@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 31 Jan 2025 09:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 10:36:31 +0000</lastBuildDate>
     <item>
       <title>Эволюция мушкетера</title>
       <link>https://youtube.com/shorts/oDeRicecJgU?feature=share</link>
@@ -424,6 +424,22 @@
       <category>Развлечения</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CDgbITbNtHglBMcgn6FfK/6eca7cd6956117311d4b47edede94e66/Dart_Goblin_Evolution_Thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Sat, 25 Jan 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Балансировка рунической гигантши и исправление ошибки эволюции П.Е.К.К.А.</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ru/news/2vr3vyDzPkORZNucdhsrrf</link>
+      <description>&lt;p&gt;Во время технического перерыва &lt;b&gt;30 января&lt;/b&gt; мы изменили то, как &lt;b&gt;руническая гигантша&lt;/b&gt; взаимодействует с разными воинами, и исправили ошибку, связанную с &lt;b&gt;эволюцией П.Е.К.К.А.&lt;/b&gt;&lt;/p&gt;
+&lt;h1&gt;Руническая гигантша&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Чары рунической гигантши теперь действуют иначе на некоторых воинов.&lt;/p&gt;
+&lt;p&gt;Карты, которых коснулись изменения: &lt;b&gt;охотник, всадница на баране, гоблинская машина, огненная лучница, эволюция огненной лучницы, гоблин-гигант&lt;/b&gt; и &lt;b&gt;эволюция гоблина-гиганта&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Дополнительный урон, добавляемый чарами, теперь распределяется между снарядами, чтобы &lt;b&gt;огненной лучнице&lt;/b&gt; и &lt;b&gt;охотнику&lt;/b&gt; было не так легко уничтожить противников.&lt;/p&gt;&lt;p&gt;Кроме того, &lt;b&gt;чары больше не увеличивают урон второстепенных воинов&lt;/b&gt;. К таким воинам относятся &lt;b&gt;всадница (как часть карты «Всадница на баране»), ракета из гоблинской машины и гоблины-копейщики из рюкзака гоблина-гиганта&lt;/b&gt;.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Эволюция П.Е.К.К.А.&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Мы скорректировали эффективность &lt;b&gt;исцеления за уничтожение&lt;/b&gt; для &lt;b&gt;эволюции П.Е.К.К.А.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Теперь степень исцеления соответствует информации, приведенной в описании предыдущего изменения баланса.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Эффективность исцеления на 11-м уровне:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;небольшие воины (менее 990 очков здоровья): 282 → 142 (-50 %);&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;средние воины (991–1989 очков здоровья): 282 → 282 (0 %);&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;крупные воины (более 1990 очков здоровья): 282 → 565 (100 %).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;До встречи на арене!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Команда Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2vr3vyDzPkORZNucdhsrrf</guid>
+      <category>Информация о версии</category>
+      <pubDate>Thu, 30 Jan 2025 12:25:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
