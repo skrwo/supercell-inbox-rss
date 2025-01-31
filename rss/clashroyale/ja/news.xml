@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jan 2025 01:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 02:54:28 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -505,6 +505,22 @@
       <category>エンタメ</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CDgbITbNtHglBMcgn6FfK/6eca7cd6956117311d4b47edede94e66/Dart_Goblin_Evolution_Thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Sat, 25 Jan 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>鍛冶屋ジャイアントと限界突破P.E.K.K.Aの修正！</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ja/news/2vr3vyDzPkORZNucdhsrrf</link>
+      <description>&lt;p&gt;&lt;b&gt;1月30日&lt;/b&gt;のメンテナンス時、&lt;b&gt;鍛冶屋ジャイアント&lt;/b&gt;のユニット強化能力や&lt;b&gt;限界突破P.E.K.K.A&lt;/b&gt;の仕様など、一部のコンテンツにバランス調整を行いました。&lt;/p&gt;
+&lt;h1&gt;鍛冶屋ジャイアント&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;鍛冶屋ジャイアントのユニット強化能力が、特定のカードに対して変更されます。&lt;/p&gt;
+&lt;p&gt;対象となるカードは&lt;b&gt;ハンター、ラムライダー、ゴブリンマシン、ロケット砲士、限界突破ロケット砲士、ゴブジャイアント、&lt;/b&gt; &lt;b&gt;限界突破ゴブジャイアント&lt;/b&gt;です。&lt;/p&gt;&lt;p&gt;強化によるダメージボーナスを発射物一つひとつに分散させます。これにより、&lt;b&gt;ロケット砲士&lt;/b&gt;や&lt;b&gt;ハンター&lt;/b&gt;の過剰火力が抑えられるはずです。&lt;/p&gt;&lt;p&gt;さらに、&lt;b&gt;付属ユニット（ラムライダーのライダー、ゴブリンマシンのロケット、ゴブジャイアントの槍ゴブリン&lt;/b&gt;に対する&lt;b&gt;ダメージボーナスを廃止します&lt;/b&gt;。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;限界突破P.E.K.K.A&lt;/b&gt;の&lt;b&gt;死亡時回復&lt;/b&gt;の値を、&lt;/p&gt;
+&lt;p&gt;前回のバランス調整の内容通りになるように修正しました。&lt;/p&gt;&lt;p&gt;&lt;b&gt;レベル11での回復量：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;小型ユニット（990HP以下）：282→142（-50％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中型ユニット（991～1989HP）：282→282（0％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;大型ユニット（1990HP以上）：282→565（+100％）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！&lt;/p&gt;&lt;p&gt;&lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2vr3vyDzPkORZNucdhsrrf</guid>
+      <category>リリース情報</category>
+      <pubDate>Thu, 30 Jan 2025 12:25:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

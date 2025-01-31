@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-31T01:53:46.364221+00:00</updated>
+  <updated>2025-01-31T02:54:27.468546+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -438,5 +438,22 @@ Gagnez une émote exclusive !&lt;/p&gt;
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
     <category term="Fun"/>
     <published>2025-01-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2vr3vyDzPkORZNucdhsrrf</id>
+    <title>Ajustements de la géante runique et de la P.E.K.K.A évoluée !</title>
+    <updated>2025-01-31T02:32:41.228000+00:00</updated>
+    <content>&lt;p&gt;Lors de la maintenance du &lt;b&gt;30 janvier&lt;/b&gt;, nous avons effectué quelques changements d&amp;#39;équilibrage, notamment au niveau de l&amp;#39;interaction entre la &lt;b&gt;géante runique&lt;/b&gt; et les autres troupes, et avons également résolu un problème concernant la &lt;b&gt;P.E.K.K.A évoluée&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Géante runique&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;L&amp;#39;enchantement de la géante runique fonctionne désormais différemment avec certaines cartes.&lt;/p&gt;
+&lt;p&gt;Les cartes affectées sont : &lt;b&gt;le chasseur, la cavabélière, la machine gobeline, l&amp;#39;artificière, l&amp;#39;artificière évoluée, le gobelin géant&lt;/b&gt; et &lt;b&gt;le gobelin géant évolué&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Les dégâts bonus de l&amp;#39;enchantement sont désormais divisés selon le nombre de projectiles, afin d&amp;#39;éviter que &lt;b&gt;l&amp;#39;artificière&lt;/b&gt; et &lt;b&gt;le chasseur&lt;/b&gt; n&amp;#39;anéantissent vos troupes en un clin d&amp;#39;œil.&lt;/p&gt;&lt;p&gt;De plus, &lt;b&gt;les sous-unités ne recevront plus le bonus de dégâts&lt;/b&gt;. Ce changement affecte donc : &lt;b&gt;la cavalière de la cavabélière, la roquette de la machine gobeline et les gobelins à lances du gobelin géant&lt;/b&gt;.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A évoluée&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;La quantité de &lt;b&gt;soins par mort&lt;/b&gt; de la &lt;b&gt;P.E.K.K.A évoluée&lt;/b&gt; a été ajustée.&lt;/p&gt;
+&lt;p&gt;Les soins suivent désormais ce que nous avons annoncé lors de la vague d&amp;#39;équilibrages précédente.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Soins au niveau 11&lt;/b&gt; :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Petites unités (&amp;lt;990 PV) : 282 → 142 (-50 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Unités moyennes (991-1 989 PV) : 282 → 282 (0 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Grosses unités (&amp;gt;1 990 PV) : 282 → 565 (100 %)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;À bientôt dans l&amp;#39;arène !&lt;/p&gt;&lt;p&gt;&lt;i&gt;L&amp;#39;équipe de Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/2vr3vyDzPkORZNucdhsrrf"/>
+    <category term="Notes de patch"/>
+    <published>2025-01-30T12:25:21+00:00</published>
   </entry>
 </feed>

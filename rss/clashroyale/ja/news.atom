@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-31T01:53:46.072680+00:00</updated>
+  <updated>2025-01-31T02:54:28.524657+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -530,5 +530,22 @@
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
     <category term="エンタメ"/>
     <published>2025-01-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2vr3vyDzPkORZNucdhsrrf</id>
+    <title>鍛冶屋ジャイアントと限界突破P.E.K.K.Aの修正！</title>
+    <updated>2025-01-31T02:32:41.228000+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;1月30日&lt;/b&gt;のメンテナンス時、&lt;b&gt;鍛冶屋ジャイアント&lt;/b&gt;のユニット強化能力や&lt;b&gt;限界突破P.E.K.K.A&lt;/b&gt;の仕様など、一部のコンテンツにバランス調整を行いました。&lt;/p&gt;
+&lt;h1&gt;鍛冶屋ジャイアント&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;鍛冶屋ジャイアントのユニット強化能力が、特定のカードに対して変更されます。&lt;/p&gt;
+&lt;p&gt;対象となるカードは&lt;b&gt;ハンター、ラムライダー、ゴブリンマシン、ロケット砲士、限界突破ロケット砲士、ゴブジャイアント、&lt;/b&gt; &lt;b&gt;限界突破ゴブジャイアント&lt;/b&gt;です。&lt;/p&gt;&lt;p&gt;強化によるダメージボーナスを発射物一つひとつに分散させます。これにより、&lt;b&gt;ロケット砲士&lt;/b&gt;や&lt;b&gt;ハンター&lt;/b&gt;の過剰火力が抑えられるはずです。&lt;/p&gt;&lt;p&gt;さらに、&lt;b&gt;付属ユニット（ラムライダーのライダー、ゴブリンマシンのロケット、ゴブジャイアントの槍ゴブリン&lt;/b&gt;に対する&lt;b&gt;ダメージボーナスを廃止します&lt;/b&gt;。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;限界突破P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;限界突破P.E.K.K.A&lt;/b&gt;の&lt;b&gt;死亡時回復&lt;/b&gt;の値を、&lt;/p&gt;
+&lt;p&gt;前回のバランス調整の内容通りになるように修正しました。&lt;/p&gt;&lt;p&gt;&lt;b&gt;レベル11での回復量：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;小型ユニット（990HP以下）：282→142（-50％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中型ユニット（991～1989HP）：282→282（0％）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;大型ユニット（1990HP以上）：282→565（+100％）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！&lt;/p&gt;&lt;p&gt;&lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/2vr3vyDzPkORZNucdhsrrf"/>
+    <category term="リリース情報"/>
+    <published>2025-01-30T12:25:21+00:00</published>
   </entry>
 </feed>
