@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-eventEntries-ja</id>
   <title>Squadbusters - Event</title>
-  <updated>2025-01-31T13:32:43.766600+00:00</updated>
+  <updated>2025-01-31T14:32:10.828994+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -109,5 +109,19 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2Z1MQHiKo6vcNDaHzi9O4N/26eec835f490ea020559f74c4482ef26/KeyArt_2025.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="squadbusters-inbox://OpenShop"/>
     <published>2025-01-27T07:03:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3Z8N58epQ</id>
+    <title>衛生兵？ホグライダー？それともダイナマイク？</title>
+    <updated>2025-01-31T14:00:03.707000+00:00</updated>
+    <content>&lt;h1&gt;スクワッド・ショータイムの参加キャラクターを選びましょう！&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;衛生兵&lt;/p&gt;&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4ESu2bQ40wa8JmQLtCRgCI/30ef87594864b30f794c8905c94baea3/Poll_assets_560X640_MED_3.png?w=560&amp;h=640&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ホグライダー&lt;/p&gt;&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4ijnR5FJNPSseaoLqbZWB5/e28a9310b08dd2b564b952c1d38c9042/Poll_assets_560X640_HOG_3.png?w=560&amp;h=640&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ダイナマイク&lt;/p&gt;&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1CHuAAyiG0A5aRnhOIKem5/97003e8c8597b880159b46483b3e85e5/Poll_assets_560X640_DYN_3.png?w=560&amp;h=640&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7Aet3rSXLEKE9dB0VeyAt4/98953cbfa55a3e539303aed4575c75d4/Poll_assets_860X1080.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <published>2025-01-31T14:00:03+00:00</published>
   </entry>
 </feed>

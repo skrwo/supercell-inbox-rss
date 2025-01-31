@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-01-31T13:32:26.164968+00:00</updated>
+  <updated>2025-01-31T14:31:32.896332+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -117,5 +117,23 @@
     <link href="https://youtu.be/aiyRFGnBDcg"/>
     <category term="Video"/>
     <published>2025-01-24T17:55:20+00:00</published>
+  </entry>
+  <entry>
+    <id>2wZyZClFVBC11dZLW93XRH</id>
+    <title>Annuncio Roster NAVI Brawl Stars 2025</title>
+    <updated>2025-01-31T13:53:10.734000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6BZ5hNUsZWbRKsPDS3FqG4/07d131e90aca03913c8d373199c7aaa5/P4hsL5_kbwg-HD.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/P4hsL5_kbwg"/>
+    <category term="Video"/>
+    <published>2025-01-30T17:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>smns3Qs5QMQr9zv5MTBDX</id>
+    <title>LA NUOVA ERA DI TRIBE GAMING</title>
+    <updated>2025-01-31T13:55:03.489000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/30vLyUzANLQArIiaRDBB9R/5f21220610370e002fa54fb7d159b8c5/BS_Team_Announcement_2025_-_Motion_Graphics_Endcard_1.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/TribeGaming/status/1885025242214531354"/>
+    <category term="Video"/>
+    <published>2025-01-30T18:13:08+00:00</published>
   </entry>
 </feed>
