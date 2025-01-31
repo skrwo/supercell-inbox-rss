@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2025-01-31T14:31:42.737447+00:00</updated>
+  <updated>2025-01-31T15:30:01.991852+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -510,5 +510,15 @@ Win an exclusive Emote!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/#/en/news/2vr3vyDzPkORZNucdhsrrf"/>
     <category term="Release Notes"/>
     <published>2025-01-30T12:25:21+00:00</published>
+  </entry>
+  <entry>
+    <id>1siUHzqTaYS20TQCbwkYZl</id>
+    <title>New Card: Berserker!</title>
+    <updated>2025-01-31T14:44:35.464000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/1siUHzqTaYS20TQCbwkYZl"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3EpgYU4IKPTQ2m6aFC7qHi/690d7d1a03ce1943a283ae962ddfaa35/Berserker1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/shorts/TK5jd1aDEt4"/>
+    <category term="News"/>
+    <published>2025-01-31T14:44:35+00:00</published>
   </entry>
 </feed>
