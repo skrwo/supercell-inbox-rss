@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>hayday-newsEntries-zh</id>
   <title>Hayday - News</title>
-  <updated>2025-01-31T07:29:01.599930+00:00</updated>
+  <updated>2025-01-31T08:36:52.293914+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>2DV21fHOJVrjv1YrbPTiL6</id>
-    <title>11月將推出什麼全新活動和內容呢？快來看看吧！</title>
-    <updated>2024-10-31T08:00:04.929000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/zh/news/2DV21fHOJVrjv1YrbPTiL6"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1vNBld4rMpyObhljBf89qg/27e154bf7a835c74a63547188459b5ca/Thumb-draft-01__1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/lWLp_ptADNU"/>
-    <category term="最新情報"/>
-    <published>2024-10-31T08:00:04+00:00</published>
-  </entry>
-  <entry>
-    <id>6Cgprqzy94TTMRZT0ciaK3</id>
-    <title>11月活動安排 </title>
-    <updated>2024-11-01T07:51:17.168000+00:00</updated>
-    <content>&lt;h1&gt;快來看看11月有什麼精彩的新活動吧！&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;農場歡樂季&lt;/b&gt;：11月1日至30日&lt;/p&gt;&lt;p&gt;&lt;b&gt;凜冬將至收藏合輯&lt;/b&gt;：11月1日至30日&lt;/p&gt;&lt;p&gt;&lt;b&gt;動物保護區山谷&lt;/b&gt;：11月4日至24日&lt;/p&gt;&lt;p&gt;&lt;b&gt;卡車訂單全球活動&lt;/b&gt;：11月6日至10日&lt;/p&gt;&lt;p&gt;&lt;b&gt;任務活動&lt;/b&gt;：11月12日至17日&lt;/p&gt;&lt;p&gt;&lt;b&gt;農貿市集&lt;/b&gt;：11月22日至27日（&lt;i&gt;活動期間，您可以獲得活動幣，在禮品目錄中兌換獎品&lt;/i&gt;）&lt;/p&gt;&lt;p&gt;&lt;b&gt;禮品目錄活動&lt;/b&gt;（&lt;i&gt;每日刷新&lt;/i&gt;）：11月22日至27日&lt;/p&gt;&lt;p&gt;&lt;b&gt;感恩節晚餐收藏合輯&lt;/b&gt;：11月22日至28日&lt;/p&gt;&lt;p&gt;&lt;b&gt;感恩節狂歡收藏合輯&lt;/b&gt;：11月22日至28日&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/zh/news/6Cgprqzy94TTMRZT0ciaK3"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="最新情報"/>
-    <published>2024-11-01T07:51:17+00:00</published>
-  </entry>
   <entry>
     <id>62VCdHtsa3Vhma8xcBwrUA</id>
     <title>《卡通農場》第45週</title>
@@ -298,5 +277,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="活動"/>
     <published>2025-01-26T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>32eq2E9IuBGJvhK41wL8hT</id>
+    <title>農場快訊：情人節和......裝飾活動！？</title>
+    <updated>2025-01-31T08:00:05.197000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/zh/news/32eq2E9IuBGJvhK41wL8hT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6uTKbsEV2ShT2aXwkSzUyc/c2f780df2f5fb8d7990e759b48fc0192/Thumb-draft-02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/od8YrGLyOAY"/>
+    <category term="最新情報"/>
+    <published>2025-01-31T08:00:05+00:00</published>
   </entry>
 </feed>

@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2025-01-31T07:29:00.724769+00:00</updated>
+  <updated>2025-01-31T08:36:54.355192+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>2DV21fHOJVrjv1YrbPTiL6</id>
-    <title>Menemui semua acara dan kandungan baharu akan datang pada November ini!</title>
-    <updated>2024-10-31T08:00:04.929000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/2DV21fHOJVrjv1YrbPTiL6"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1vNBld4rMpyObhljBf89qg/27e154bf7a835c74a63547188459b5ca/Thumb-draft-01__1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/lWLp_ptADNU"/>
-    <category term="Berita"/>
-    <published>2024-10-31T08:00:04+00:00</published>
-  </entry>
-  <entry>
-    <id>6Cgprqzy94TTMRZT0ciaK3</id>
-    <title>Kalendar Acara November </title>
-    <updated>2024-11-01T07:51:17.168000+00:00</updated>
-    <content>&lt;h1&gt;Bersedia untuk acara baharu di bulan November ini!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Pas Ladang&lt;/b&gt;: 1/11 - 30/11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Acara Tugasan Musim Sejuk&lt;/b&gt;: 1/11 - 30/11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tempat Perlindungan Desa&lt;/b&gt;: 4/11 - 24/11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Acara Trak Global&lt;/b&gt;: 6/11 - 10/11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Acara Tugasan&lt;/b&gt;: 12/11 - 17/11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pesta Daerah&lt;/b&gt;: 22/11 - 27/11 (&lt;i&gt;Ketika acara ini, anda akan memperoleh mata wang untuk katalog&lt;/i&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Acara Katalog&lt;/b&gt; (&lt;i&gt;Segar semula setiap hari&lt;/i&gt;): 22/11 - 27/11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Koleksi Makan Malam Hari Kesyukuran&lt;/b&gt;: 22/11 - 28/11&lt;/p&gt;&lt;p&gt;&lt;b&gt;Koleksi Jamuan Hari Kesyukuran&lt;/b&gt;: 22/11 - 28/11&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ms/news/6Cgprqzy94TTMRZT0ciaK3"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Berita"/>
-    <published>2024-11-01T07:51:17+00:00</published>
-  </entry>
   <entry>
     <id>62VCdHtsa3Vhma8xcBwrUA</id>
     <title>Hay Day Minggu 45</title>
@@ -277,5 +256,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Acara"/>
     <published>2025-01-26T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>32eq2E9IuBGJvhK41wL8hT</id>
+    <title>Berita Ladang: Hari Kekasih dan...acara hiasan?</title>
+    <updated>2025-01-31T08:00:05.197000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/32eq2E9IuBGJvhK41wL8hT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6uTKbsEV2ShT2aXwkSzUyc/c2f780df2f5fb8d7990e759b48fc0192/Thumb-draft-02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/od8YrGLyOAY"/>
+    <category term="Berita"/>
+    <published>2025-01-31T08:00:05+00:00</published>
   </entry>
 </feed>

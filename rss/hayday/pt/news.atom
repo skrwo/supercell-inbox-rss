@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2025-01-31T07:29:02.579297+00:00</updated>
+  <updated>2025-01-31T08:36:55.820690+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>2DV21fHOJVrjv1YrbPTiL6</id>
-    <title>Descubra o conteúdo e os novos eventos que chegarão à fazenda em novembro!</title>
-    <updated>2024-10-31T08:00:04.929000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/2DV21fHOJVrjv1YrbPTiL6"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1vNBld4rMpyObhljBf89qg/27e154bf7a835c74a63547188459b5ca/Thumb-draft-01__1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/lWLp_ptADNU"/>
-    <category term="Notícias"/>
-    <published>2024-10-31T08:00:04+00:00</published>
-  </entry>
-  <entry>
-    <id>6Cgprqzy94TTMRZT0ciaK3</id>
-    <title>Calendário de eventos de novembro </title>
-    <updated>2024-11-01T07:51:17.168000+00:00</updated>
-    <content>&lt;h1&gt;Prepare-se para os eventos de novembro!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Passe rural&lt;/b&gt;: 1º a 30 de novembro&lt;/p&gt;&lt;p&gt;&lt;b&gt;Coleção O Inverno Está Chegando&lt;/b&gt;: 1º a 30 de novembro&lt;/p&gt;&lt;p&gt;&lt;b&gt;Santuário do vale&lt;/b&gt;: 4 a 24 de novembro&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento global do caminhão&lt;/b&gt;: 6 a 10 de novembro&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento de tarefas&lt;/b&gt;: 12 a 17 de novembro&lt;/p&gt;&lt;p&gt;&lt;b&gt;Feira Municipal&lt;/b&gt;: 22 a 27 de novembro (&lt;i&gt;durante o evento, você receberá moedas especiais para o catálogo&lt;/i&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Evento do catálogo&lt;/b&gt; (&lt;i&gt;reinicia diariamente&lt;/i&gt;): 22 a 27 de novembro&lt;/p&gt;&lt;p&gt;&lt;b&gt;Coleção Jantar de Ação de Graças&lt;/b&gt;: 22 a 28 de novembro&lt;/p&gt;&lt;p&gt;&lt;b&gt;Coleção Banquete de Ação de Graças&lt;/b&gt;: 22 a 28 de novembro&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/6Cgprqzy94TTMRZT0ciaK3"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/7gzigeFFPZW7qEiRSs9o46/c9e61f5720c61b40925e3d7aa90e712d/eventsthumb.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notícias"/>
-    <published>2024-11-01T07:51:17+00:00</published>
-  </entry>
   <entry>
     <id>62VCdHtsa3Vhma8xcBwrUA</id>
     <title>Semana 45 de Hay Day</title>
@@ -267,5 +246,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventos"/>
     <published>2025-01-26T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>32eq2E9IuBGJvhK41wL8hT</id>
+    <title>Prosa Rural: Valentine's Day e... um evento de decoração?</title>
+    <updated>2025-01-31T08:00:05.197000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/32eq2E9IuBGJvhK41wL8hT"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6uTKbsEV2ShT2aXwkSzUyc/c2f780df2f5fb8d7990e759b48fc0192/Thumb-draft-02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/od8YrGLyOAY"/>
+    <category term="Notícias"/>
+    <published>2025-01-31T08:00:05+00:00</published>
   </entry>
 </feed>
