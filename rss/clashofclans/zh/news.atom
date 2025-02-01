@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-01T07:28:53.328612+00:00</updated>
+  <updated>2025-02-01T08:34:20.272216+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -455,5 +455,16 @@
     <link href="https://www.youtube.com/watch?v=R69vAGmFB7g"/>
     <category term="最新情報"/>
     <published>2025-01-31T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2VsudtdMzDYVeXGjKdNQOu</id>
+    <title>木蛇賀新春！</title>
+    <updated>2025-02-01T08:00:40.542000+00:00</updated>
+    <content>&lt;h1&gt;全新周期挑戰賽季：木蛇賀新春！&lt;/h1&gt;
+&lt;h2&gt;新春大吉！&lt;/h2&gt;&lt;p&gt;展開上古卷軸，邂逅傳奇靈蛇，以別樣方式歡慶春節！&lt;/p&gt;&lt;p&gt;本季新內容：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;蛇年英雄造型&lt;/b&gt;——金蛇之王、水蛇女皇、木蛇守護者、火蛇勇者和土蛇王子齊聚部落，讓你掌控五行神力！沒錯，五位英雄都有全新造型！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**傳奇場景 - 靈蛇天宮！**雄偉神廟、絢麗煙火，還有上古靈蛇！最適合這個春節的場景出現囉！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;全新周期挑戰&lt;/b&gt;開啟，將持續到2月28日！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;挑戰關卡#1&lt;/b&gt;：現在就來「天際對決」展現你的實力吧！&lt;b&gt;挑戰關卡#2&lt;/b&gt;將在2月7日上線，一直開放到本季結束。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**代幣活動 - 靈蛇慶典：**解鎖英雄裝備、精美裝飾，使用全新節日限時兵種，盡在即將開始的代幣活動！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**還不過癮嗎？**我們將在2月初推出更新，為大家送上更多新春驚喜！記得觀看我們後續發布的《全面開戰》影片，了解更多詳情！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;全面開戰！&lt;/p&gt;&lt;p&gt;- 《部落衝突》團隊&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2VsudtdMzDYVeXGjKdNQOu"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/R612km9GjWL4M4pXZaAQJ/f4ba1cb492ed62fbe09a1b7035ece6f1/LNY_2025_splashWithLayers.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2025-02-01T08:00:06+00:00</published>
   </entry>
 </feed>
