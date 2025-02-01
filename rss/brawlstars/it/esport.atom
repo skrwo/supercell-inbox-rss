@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-01T19:28:58.897955+00:00</updated>
+  <updated>2025-02-01T20:31:09.511350+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>3k5Rjdrk6shYaBYTgUhaRw</id>
-    <title>Rivedi il giorno 3 delle Finali mondiali!</title>
-    <updated>2024-11-03T19:28:08.042000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5rmYuQZW6f4Q5Pcm2JBx4j/70120d14554334616603c4886f09d74a/it_BSWF24-Day-3-Thumbnail.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/_zh0Xolb3eM?si=0w3uiAh1lVffpdsc&amp;t=587"/>
-    <category term="Esports"/>
-    <published>2024-11-03T19:28:08+00:00</published>
-  </entry>
   <entry>
     <id>2z5FvdyIsCVFVTasNtaav2</id>
     <title>DragonForce DAL VIVO al SuperFest!</title>
