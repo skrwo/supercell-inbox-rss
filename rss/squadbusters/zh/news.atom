@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-02T07:29:49.644600+00:00</updated>
+  <updated>2025-02-02T08:34:00.403331+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1220,5 +1220,15 @@
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1pfts7O91nPGZWE5MW9Oj0/d1375f8c9408184027488cd37a089bf5/Poll_assets_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="社群活動"/>
     <published>2025-01-31T14:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>68qgoBFPSs3C2oIKtlzpd3</id>
+    <title>【阿德老師】我們與五星的距離</title>
+    <updated>2025-02-02T08:00:03.060000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/68qgoBFPSs3C2oIKtlzpd3"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3psqVrHEK9Rryjq810Xqh6/dcffa3890bc6fb2faa44921b6b62f629/tw_20250202_derder_video_thumb.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=S6C-knTVAyI"/>
+    <category term="最新情報"/>
+    <published>2025-02-02T08:00:00+00:00</published>
   </entry>
 </feed>
