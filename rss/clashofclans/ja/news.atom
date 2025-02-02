@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-02T13:30:09.595577+00:00</updated>
+  <updated>2025-02-02T14:30:09.578652+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -24,16 +24,6 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/KDnie2-3hCFofNTfqLff1RTlpu9SCGL2i4s_YrrsNCQ/b968706bb849ff905814d9a86159e6ee/en_20182405_scid_large_thumbnail.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2018-08-27T11:06:00+00:00</published>
-  </entry>
-  <entry>
-    <id>73e4HgoCgXTxKmryk6FAb0</id>
-    <title>建設ラッシュが大ピンチ！？</title>
-    <updated>2024-11-04T11:55:30.712000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/73e4HgoCgXTxKmryk6FAb0"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4cAeWUlaHZBDVjZeH8ymRE/48504470402e579b503221c22c3b83b5/inbox_thumbnail_hammerjam_missinghammer.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=5A7Ns3G1DOc"/>
-    <category term="ニュース"/>
-    <published>2024-11-04T10:34:44+00:00</published>
   </entry>
   <entry>
     <id>4qiS27QrSzlTrTzhE96NOB</id>
@@ -239,9 +229,9 @@
   <entry>
     <id>2VsudtdMzDYVeXGjKdNQOu</id>
     <title>巳年がやってきた！</title>
-    <updated>2025-02-01T21:35:17.257000+00:00</updated>
+    <updated>2025-02-02T13:55:17.686000+00:00</updated>
     <content>&lt;h1&gt;新シーズン「巳年」へようこそ！&lt;/h1&gt;
-&lt;h2&gt;祝！旧正月！&lt;/h2&gt;&lt;p&gt;古の巻物を広げて伝説の蛇と対面し、旧正月を華麗にお祝いしましょう！&lt;/p&gt;&lt;p&gt;今シーズンの新コンテンツ＆イベントをご紹介します。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;五行蛇のヒーロースキン&lt;/b&gt;：スネーク キング、スネーク クイーン、スネーク ウォーデン、スネーク チャンピオン、そしてスネーク プリンスの5体のヒーローが村に神秘の力をもたらします！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**ウルトラレア背景 - 巳年！**謎に満ちた寺院、燃え盛る花火、太古の蛇が今年の旧正月を大きく盛り上げます！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;シーズンチャレンジ&lt;/b&gt;が2月28日まで開催！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;チャレンジレベル1&lt;/b&gt;では、「天空の大決戦」に今すぐ挑戦できます！&lt;b&gt;チャレンジレベル2&lt;/b&gt;は2月7日からシーズン終了までプレイ可能となります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**メダルイベント - スネークフェスティバル：**最新メダルイベントをプレイ！ヒーローの装備のほか、草を打って蛇を驚かすようなデコレーションをアンロックしましょう。期間限定ユニットも使用可能！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;その他の新コンテンツ&lt;/b&gt;2月初旬配信のアップデートでは、旧正月をさらに盛り上げるサプライズが登場します。「アプデタイム」の最新エピソードを視聴し、詳細をご確認ください！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;グッド・クラッシュ！&lt;/p&gt;&lt;p&gt;クラッシュ・オブ・クランチーム一同&lt;/p&gt;</content>
+&lt;h2&gt;祝！旧正月！&lt;/h2&gt;&lt;p&gt;古の巻物を広げて伝説の蛇と対面し、旧正月を華麗にお祝いしましょう！&lt;/p&gt;&lt;p&gt;今シーズンの新コンテンツ＆イベントをご紹介します。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;五行蛇のヒーロースキン&lt;/b&gt;：スネーク キング、スネーク クイーン、スネーク ウォーデン、スネーク チャンピオン、そしてスネーク プリンスの5体のヒーローが村に神秘の力をもたらします！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ウルトラレア背景 - 巳年！謎に満ちた寺院、燃え盛る花火、太古の蛇が今年の旧正月を大きく盛り上げます！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;シーズンチャレンジ&lt;/b&gt;が2月28日まで開催！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;チャレンジレベル1&lt;/b&gt;では、「天空の大決戦」に今すぐ挑戦できます！&lt;b&gt;チャレンジレベル2&lt;/b&gt;は2月7日からシーズン終了までプレイ可能となります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;メダルイベント - スネークフェスティバル：最新メダルイベントをプレイ！ヒーローの装備のほか、草を打って蛇を驚かすようなデコレーションをアンロックしましょう。期間限定ユニットも使用可能！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;その他の新コンテンツ&lt;/b&gt;2月初旬配信のアップデートでは、旧正月をさらに盛り上げるサプライズが登場します。「アプデタイム」の最新エピソードを視聴し、詳細をご確認ください！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;グッド・クラッシュ！&lt;/p&gt;&lt;p&gt;クラッシュ・オブ・クランチーム一同&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/ja/news/2VsudtdMzDYVeXGjKdNQOu"/>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/R612km9GjWL4M4pXZaAQJ/f4ba1cb492ed62fbe09a1b7035ece6f1/LNY_2025_splashWithLayers.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
