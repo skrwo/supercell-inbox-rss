@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2025-02-02T08:33:59.060332+00:00</updated>
+  <updated>2025-02-02T09:29:43.280549+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>62VCdHtsa3Vhma8xcBwrUA</id>
-    <title>Hay Day 45. Hafta</title>
-    <updated>2024-11-03T09:02:27.715000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Etkinlikleri 45. Hafta&lt;/h1&gt;
-&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır olun! Tüm etkinlikler ve derbiler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazartesi&lt;/b&gt;: Çarkıfelek Etkinliği (bulmaca parçaları)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Salı&lt;/b&gt;: Kamyon Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Çarşamba&lt;/b&gt;: Tekne Etkinliği (hediye çekleri) + Dünya Çapında Kamyon Etkinliği&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perşembe&lt;/b&gt;: Çiftlik Ziyaretçileri Etkinliği (bahçe satışı) + Dünya Çapında Kamyon Etkinliği&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cuma&lt;/b&gt;: Balıkçılık Hızlandırma Etkinliği (tüm binalar, %20 hızlandırma) + İki Kat Farm Pass Puanı + Dünya Çapında Kamyon Etkinliği&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cumartesi&lt;/b&gt;: Kasaba Ziyaretçileri Etkinliği (iki kat altın) + Dünya Çapında Kamyon Etkinliği&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazar&lt;/b&gt;: Ağaç ve Çalı Hızlandırması (rastgele üç çalı veya ağaç iki kat hızlı meyve verir) + Dünya Çapında Kamyon Etkinliği&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: Sakin Tavşan Derbisi&lt;/p&gt;&lt;p&gt;Harika bir hafta dileriz!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/62VCdHtsa3Vhma8xcBwrUA"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Etkinlikler"/>
-    <published>2024-11-03T09:00:03+00:00</published>
-  </entry>
   <entry>
     <id>3EmOLielXdCIRhcbGyxi09</id>
     <title>Kamyonlar Hızlanıyor: Birden Fazla Sipariş Özelliği Duyurusu</title>
@@ -276,5 +265,15 @@
     <link href="https://youtu.be/od8YrGLyOAY"/>
     <category term="Haberler"/>
     <published>2025-01-31T08:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>6Fxo8hJ2MbNTbl7xBajVce</id>
+    <title>Hay Day Etkinlikleri 6. Hafta - 2025</title>
+    <updated>2025-02-02T09:00:03.626000+00:00</updated>
+    <content>&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır olun! Tüm etkinlikler ve derbiler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan etkinliklerin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazartesi:&lt;/b&gt; Çarkıfelek Etkinliği (hediye çekleri) + Üç Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;&lt;b&gt;Salı:&lt;/b&gt; Kamyon Etkinliği (iki kat TP)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Çarşamba:&lt;/b&gt; Tekne Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perşembe:&lt;/b&gt; Üretim Binası Hızlandırma Etkinliği (üç bina, %20 hızlandırma)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cuma:&lt;/b&gt; Balıkçılık Etkinliği (ördek salonu ve ağ üreticisi, %30 hızlandırma) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cumartesi:&lt;/b&gt; Kasaba Ziyaretçileri Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazar:&lt;/b&gt; Ekin Artışı Etkinliği (rastgele üç ekin, iki yerine üç mahsul verir)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi:&lt;/b&gt; Normal Derbi&lt;/p&gt;&lt;p&gt;Harika bir hafta diliyoruz!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/6Fxo8hJ2MbNTbl7xBajVce"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Etkinlikler"/>
+    <published>2025-02-02T09:00:03+00:00</published>
   </entry>
 </feed>
