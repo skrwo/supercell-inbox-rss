@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-03T10:37:02.206985+00:00</updated>
+  <updated>2025-02-03T11:29:24.938659+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -283,7 +283,7 @@ Y cuando esté llena, ¡haz una entrega especial!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b
   <entry>
     <id>2vr3vyDzPkORZNucdhsrrf</id>
     <title>Ajustes de equilibrio de la gigante rúnica y la evolución de la P.E.K.K.A.</title>
-    <updated>2025-02-03T08:31:06.942000+00:00</updated>
+    <updated>2025-02-03T10:55:34.377000+00:00</updated>
     <content>&lt;p&gt;Durante la pausa de mantenimiento del &lt;b&gt;30 de enero&lt;/b&gt;, introdujimos un par de ajustes de equilibrio, entre los que se encuentran un cambio en cómo la &lt;b&gt;gigante rúnica&lt;/b&gt; interactúa con tropas diferentes y una modificación en la &lt;b&gt;evolución de la P.E.K.K.A.&lt;/b&gt;&lt;/p&gt;
 &lt;h1&gt;Gigante rúnica&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
@@ -296,5 +296,15 @@ Y cuando esté llena, ¡haz una entrega especial!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b
     <link href="https://clashroyale.inbox.supercell.com/#/es/news/2vr3vyDzPkORZNucdhsrrf"/>
     <category term="Notas de actualización"/>
     <published>2025-01-30T12:25:21+00:00</published>
+  </entry>
+  <entry>
+    <id>1siUHzqTaYS20TQCbwkYZl</id>
+    <title>Nueva Carta: ¡Berserker!</title>
+    <updated>2025-02-03T11:23:52.065000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/1siUHzqTaYS20TQCbwkYZl"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3EpgYU4IKPTQ2m6aFC7qHi/690d7d1a03ce1943a283ae962ddfaa35/Berserker1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/shorts/TK5jd1aDEt4"/>
+    <category term="Noticias"/>
+    <published>2025-01-31T14:44:35+00:00</published>
   </entry>
 </feed>

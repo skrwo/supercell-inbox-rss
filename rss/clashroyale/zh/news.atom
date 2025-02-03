@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-03T10:37:04.473725+00:00</updated>
+  <updated>2025-02-03T11:29:27.821216+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -559,6 +559,23 @@
     <link href="https://www.youtube.com/watch?v=Rozjkj8scS8"/>
     <category term="最新情報"/>
     <published>2025-01-29T15:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2vr3vyDzPkORZNucdhsrrf</id>
+    <title>符文巨人平衡性調整和進化皮卡超人問題修復！</title>
+    <updated>2025-02-03T10:55:34.377000+00:00</updated>
+    <content>&lt;p&gt;我們透過&lt;b&gt;1月30日&lt;/b&gt;的維護實裝了一系列平衡性調整，包括調整&lt;b&gt;符文巨人&lt;/b&gt;與不同軍隊的互動方式，以及修復一個&lt;b&gt;進化皮卡超人&lt;/b&gt;相關的問題。&lt;/p&gt;
+&lt;h1&gt;符文巨人&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;現在，符文巨人的附魔會以不同的方式與部分卡牌進行互動。&lt;/p&gt;
+&lt;p&gt;受影響的卡牌有：&lt;b&gt;獵人、蠻羊騎士、哥布林機甲、煙火射手、進化煙火射手、哥布林巨人&lt;/b&gt;和&lt;b&gt;進化哥布林巨人&lt;/b&gt;。&lt;/p&gt;&lt;p&gt;現在，附魔的傷害加成會分散在單位射出的子彈上，防止&lt;b&gt;煙火射手&lt;/b&gt;和&lt;b&gt;獵人&lt;/b&gt;瞬間毀滅你的軍隊。&lt;/p&gt;&lt;p&gt;此外，&lt;b&gt;附屬軍隊將不再獲得傷害加成&lt;/b&gt;。這個調整會影響&lt;b&gt;蠻羊騎士的騎士、哥布林機甲的火箭以及哥布林巨人的哥布林投矛手&lt;/b&gt;。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;進化皮卡超人&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;進化皮卡超人&lt;/b&gt;的&lt;b&gt;每次死亡治療&lt;/b&gt;數值現已修正。&lt;/p&gt;
+&lt;p&gt;治療量現在與上一次平衡性調整中公布的一致。&lt;/p&gt;&lt;p&gt;&lt;b&gt;11級的治療量：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;小型軍隊（生命值不高於990）：從282降低至142（-50%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中型軍隊（生命值為991至1989）：保持282不變（0%）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;大型軍隊（生命值不低於1990）：從282提升至565（+100%）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;我們競技場見！&lt;/p&gt;&lt;p&gt;&lt;i&gt;《部落衝突:皇室戰爭》遊戲團隊&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/zh/news/2vr3vyDzPkORZNucdhsrrf"/>
+    <category term="更新說明"/>
+    <published>2025-01-30T12:25:21+00:00</published>
   </entry>
   <entry>
     <id>2NZjHgqTMMuJL6X2iEwrY0</id>
