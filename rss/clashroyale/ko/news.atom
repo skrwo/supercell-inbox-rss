@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-03T07:29:57.158407+00:00</updated>
+  <updated>2025-02-03T08:38:06.350324+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -427,5 +427,22 @@
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
     <category term="재미"/>
     <published>2025-01-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2vr3vyDzPkORZNucdhsrrf</id>
+    <title>룬 자이언트 밸런스 조정 및 P.E.K.K.A 진화 수정!</title>
+    <updated>2025-02-03T08:31:06.942000+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;1월 30일&lt;/b&gt;에 실시된 서버 점검에서 &lt;b&gt;룬 자이언트&lt;/b&gt;의 다양한 유닛과의 상호작용 방식 변경 및 &lt;b&gt;P.E.K.K.A 진화&lt;/b&gt;수정을 포함한 여러 밸런스 조정을 선보였습니다.&lt;/p&gt;
+&lt;h1&gt;룬 자이언트&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;이제 룬 자이언트의 마법이 일부 카드와 다르게 상호작용을 합니다.&lt;/p&gt;
+&lt;p&gt;이번 변경에 영향을 받는 카드는 &lt;b&gt;사냥꾼, 램 라이더, 고블린 머신, 로켓병, 로켓병 진화, 자이언트 고블린&lt;/b&gt; 및 &lt;b&gt;자이언트 고블린 진화&lt;/b&gt;입니다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;로켓병&lt;/b&gt;과 &lt;b&gt;사냥꾼&lt;/b&gt;이 유닛을 순식간에 제거하는 걸 방지하기 위해, 마법의 보너스 피해량이 이제 한 발사체에 몰리지 않고 분산됩니다.&lt;/p&gt;&lt;p&gt;추가로, &lt;b&gt;붙어있는 유닛은 더 이상 보너스 피해량을 받지 않습니다&lt;/b&gt;. 이 변경은 &lt;b&gt;램 라이더의 라이더, 고블린 머신의 로켓, 자이언트 고블린의 창 고블린&lt;/b&gt;에게 영향을 미칩니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;P.E.K.K.A 진화의 &lt;b&gt;처치당 치유량&lt;/b&gt;이 올바르게 조정되었습니다.&lt;/p&gt;
+&lt;p&gt;이제 치유량이 지난 밸런스 조정에서 발표되었던 숫자와 일치하도록 수정되었습니다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;11레벨의 치유량&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;소형 유닛(HP: 990 이하): 282 → 142(-50%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;중형 유닛(HP: 991~1989): 282 → 282(0%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;대형 유닛(HP: 1990 이상): 282 → 565(100%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;아레나에서 뵙겠습니다.&lt;/p&gt;&lt;p&gt;&lt;i&gt;클래시 로얄 팀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/2vr3vyDzPkORZNucdhsrrf"/>
+    <category term="새 소식"/>
+    <published>2025-01-30T12:25:21+00:00</published>
   </entry>
 </feed>
