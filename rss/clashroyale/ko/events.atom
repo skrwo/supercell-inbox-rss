@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-eventEntries-ko</id>
   <title>Clashroyale - Event</title>
-  <updated>2025-02-03T08:38:06.354313+00:00</updated>
+  <updated>2025-02-03T09:32:47.132436+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -27,12 +27,13 @@
     <published>2024-11-08T16:35:35+00:00</published>
   </entry>
   <entry>
-    <id>5HAU6eUtA4Wujv0Npz6yMw</id>
+    <id>7JKxPFJlcSBURsaNGhLOh2</id>
     <title>🗞️</title>
-    <updated>2025-01-08T08:49:38.391000+00:00</updated>
+    <updated>2025-02-03T09:07:01.230000+00:00</updated>
     <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/7rGel3JoJ1ypcJlHa6oXBU"&gt;👉읽어보기!👈&lt;/a&gt; -- &lt;a href="https://youtu.be/S27PROHKHqM?si=KFOylizWddxgyOWX"&gt;👉확인하기!👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3EIqX26k6vPTAkkTYW8ZRx/27b07d1e41229ee0129cae85360f3bac/0106_season67_inboxKV__960x764__02.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <published>2025-01-06T09:10:03+00:00</published>
+&lt;a href="https://youtube.com/shorts/0U6nbww_orI?si=U2DRSFxubOnBzvsU"&gt;👉확인하기!👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7vsSAfsRfoqrdPrQLBktxN/396d5e065a9a7d1e428d8bdeaa987714/0203_season68_inboxKV__960x764_.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/0U6nbww_orI?si=U2DRSFxubOnBzvsU"/>
+    <published>2025-02-03T09:00:02+00:00</published>
   </entry>
 </feed>
