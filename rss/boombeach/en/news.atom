@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2025-02-03T09:32:55.135434+00:00</updated>
+  <updated>2025-02-03T10:37:10.202821+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -131,5 +131,28 @@ We appreciate your understanding and continued support as we work to improve the
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/2Dxd96hhDvi4t6YzbmZ85D/6c8646478246d71cf84273addd018c1b/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Blog"/>
     <published>2025-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1X3TW2OY4bVfaMHY7P5iCu</id>
+    <title>This February in Boom Beach</title>
+    <updated>2025-02-03T09:35:55.280000+00:00</updated>
+    <content>&lt;h1&gt;This February in Boom Beach&lt;/h1&gt;
+&lt;p&gt;As we dive into February, get ready for an action-packed month filled with intense battles and strategic opportunities! Here’s what’s coming up:&lt;/p&gt;&lt;p&gt;3 - 5: Super Warrior: Unleash these mighty warriors onto the battlefield, striking with immense power and durability to turn the tide in your favor!
+
+7 - 9: RifleZooka Mania: Combine the rapid-fire might of Riflemen with the explosive precision of Zookas for a well-balanced offensive force.
+
+10 - 16: Protector: Deploy Protectors to keep your troops alive longer, shield them from incoming fire, and ensure your advance remains unstoppable.
+
+14 - 16: GrenCryo Mania: Pair the explosive chaos of Grenadiers with the freezing power of Cryoneers for a devastating crowd-control combo!
+
+17 - 19: Crystal Critters: These healing critters enhance your tactical plays and provide valuable support to your advancing troops.
+
+21 - 23: Cryo Crab: Brace yourself for the icy challenge of Cryo Crab, a chilling edition of Mega Crab packed with frosty obstacles and exciting rewards!
+
+24 - Mar 2: Warships Season 71: Set sail for a fresh Warships season featuring new layouts, tactical innovations, and exclusive prizes!&lt;/p&gt;</content>
+    <link href="https://boombeach.inbox.supercell.com/#/en/news/1X3TW2OY4bVfaMHY7P5iCu"/>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/1s86FJnMNwBfGUIobP5Cw8/229a29424cd433bba4c81997b4f04e4f/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
+    <category term="Blog"/>
+    <published>2025-02-03T09:00:00+00:00</published>
   </entry>
 </feed>
