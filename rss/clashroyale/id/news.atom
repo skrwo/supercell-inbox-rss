@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-04T04:36:04.371784+00:00</updated>
+  <updated>2025-02-04T05:34:15.168735+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -410,5 +410,22 @@ Menangkan Emote eksklusif!&lt;/p&gt;
     <link href="https://youtube.com/shorts/LU877q6R8k4?si=JRzV4tLmvjcNoTDu"/>
     <category term="Keseruan"/>
     <published>2025-01-25T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2vr3vyDzPkORZNucdhsrrf</id>
+    <title>Perbaikan pada Perubahan Keseimbangan Raksasa Rune dan Evolusi P.E.K.K.A!</title>
+    <updated>2025-02-04T04:53:43.495000+00:00</updated>
+    <content>&lt;p&gt;Selama pembaruan &lt;b&gt;30 Januari&lt;/b&gt;, kami menghadirkan sejumlah perubahan keseimbangan yang mencakup bagaimana &lt;b&gt;Raksasa Rune&lt;/b&gt; berinteraksi dengan Peleton yang berbeda serta koreksi terhadap &lt;b&gt;Evolusi P.E.K.K.A&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Raksasa Rune&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Efek Raksasa Rune kini bekerja berbeda saat berinteraksi dengan sejumlah Kartu.&lt;/p&gt;
+&lt;p&gt;Kartu yang terpengaruh adalah &lt;b&gt;Pemburu, Penunggang Domba, Mesin Goblin, Penembak Mercon, Evolusi Penembak Mercon, Raksasa Goblin,&lt;/b&gt; dan &lt;b&gt;Evolusi Raksasa Goblin&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Bonus kerusakan sihir Raksasa Rune kini akan dibagi untuk setiap proyektil sehingga &lt;b&gt;Penembak Mercon&lt;/b&gt; dan &lt;b&gt;Pemburu&lt;/b&gt; tidak langsung menumpas habis Peletonmu.&lt;/p&gt;&lt;p&gt;Selain itu, &lt;b&gt;Peleton yang tergabung tidak akan menerima bonus kerusakan&lt;/b&gt;. Perubahan ini akan memengaruhi &lt;b&gt;Penunggang (Penunggang Domba), Roket (Mesin Goblin), dan Goblin Tombak (Raksasa Goblin)&lt;/b&gt;.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Evolusi P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Nilai &lt;b&gt;Penyembuhan Tiap Tumbang&lt;/b&gt; untuk &lt;b&gt;Evolusi P.E.K.K.A&lt;/b&gt; telah diperbaiki.&lt;/p&gt;
+&lt;p&gt;Level penyembuhan kini akan mengikuti pengumuman dari perubahan keseimbangan sebelumnya.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nilai Penyembuhan pada Level 11:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Peleton Kecil (Nyawa &amp;lt;990): 282 → 142 (-50%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Peleton Sedang (Nyawa 991–1989): 282 → 282 (0%)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Peleton Besar (Nyawa &amp;gt;1990): 282 → 565 (100%)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sampai jumpa di Arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Tim Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/2vr3vyDzPkORZNucdhsrrf"/>
+    <category term="Catatan Rilis"/>
+    <published>2025-01-30T12:25:21+00:00</published>
   </entry>
 </feed>
