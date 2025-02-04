@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-04T09:31:58.973347+00:00</updated>
+  <updated>2025-02-04T10:37:34.769525+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -446,5 +446,15 @@
     <link href="https://www.youtube.com/watch?v=-Y_tZBCdPZ0"/>
     <category term="最新情報"/>
     <published>2025-02-02T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2hxjD9iEpjlTImTeC2P8eA</id>
+    <title>【烏龜】帶你細細感受全新傳奇場景！</title>
+    <updated>2025-02-04T10:16:51.157000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2hxjD9iEpjlTImTeC2P8eA"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3gXiicKifUo86rSIZtWSWa/929da1a3e4cba08519a700d4cbf43ee6/tw_20250204_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=nlMgeVFmBTU"/>
+    <category term="最新情報"/>
+    <published>2025-02-04T10:00:00+00:00</published>
   </entry>
 </feed>

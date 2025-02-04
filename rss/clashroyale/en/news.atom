@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-04T09:31:54.954815+00:00</updated>
+  <updated>2025-02-04T10:37:30.529452+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -480,7 +480,7 @@ Win an exclusive Emote!&lt;/p&gt;
   <entry>
     <id>1siUHzqTaYS20TQCbwkYZl</id>
     <title>New Card: Berserker!</title>
-    <updated>2025-02-04T09:19:33.341000+00:00</updated>
+    <updated>2025-02-04T10:24:20.862000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/en/news/1siUHzqTaYS20TQCbwkYZl"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3EpgYU4IKPTQ2m6aFC7qHi/690d7d1a03ce1943a283ae962ddfaa35/Berserker1.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/shorts/TK5jd1aDEt4"/>
@@ -522,5 +522,52 @@ Win an exclusive Emote!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/39B0aNQCyZJdiW8Uxq89Nz/cba6c299b7cd02715f752b1bfc15db4a/SUP4044_Season_68_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Release Notes"/>
     <published>2025-02-03T08:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>48KbJeUO3a8c8pwDoiSjxl</id>
+    <title>February Balance Changes</title>
+    <updated>2025-02-04T10:16:17.730000+00:00</updated>
+    <content>&lt;h3&gt;NERFS ⬇️&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Dart Goblin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Ranged Damage&lt;/b&gt;&lt;/p&gt;&lt;p&gt;142	→ 135 (-5%)&lt;/p&gt;
+&lt;p&gt;We’re partially reverting Dart Goblin’s damage buff from last June to balance Spell bait decks. Even with reduced damage, Dart Goblin will still destroy &lt;b&gt;Spear Goblins&lt;/b&gt; in a single attack.&lt;/p&gt;
+&lt;h1&gt;Goblinstein&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Monster Hitpoints&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2598 → 2393 (-8%)&lt;/p&gt;
+&lt;p&gt;Doctor already received a much-needed balance update last month, and now it&amp;#39;s Monster&amp;#39;s turn!&lt;/p&gt;
+&lt;h1&gt;P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rugtnh06qSvaLELukeljm/9f7997ef5692802cefa44ba58b52b095/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Range&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1.6 tiles → 1.2 tiles (-25%)&lt;/p&gt;
+&lt;p&gt;Early last year, we increased P.E.K.K.A’s Range to improve her then-underwhelming performance. Soon after, we released several other cards—such as &lt;b&gt;Wizard Evolution&lt;/b&gt;, &lt;b&gt;Battle Ram Evolution&lt;/b&gt;, &lt;b&gt;Goblin Giant Evolution&lt;/b&gt;, a stronger &lt;b&gt;Ram Rider&lt;/b&gt;, &lt;b&gt;Goblinstein&lt;/b&gt;, and &lt;b&gt;Royal Chef&lt;/b&gt;—all of which increased the impact of her buff, making her a very strong card in the right deck.&lt;/p&gt;&lt;p&gt;And while we&amp;#39;re satisfied with &lt;b&gt;P.E.K.K.A Evolution&lt;/b&gt; and most of her stats, we&amp;#39;re now reverting her Range buff to better fit the overall game balance.&lt;/p&gt;
+&lt;h1&gt;Lava Hound&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sA3PRu3OJCYADdT4H3Ahu/b1e0baed8068d5fa51d84caccf3cb995/lavahound.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Lava Pups Damage&lt;/b&gt;&lt;/p&gt;&lt;p&gt;90 → 84 (-7%)&lt;/p&gt;
+&lt;p&gt;Lava Hound and Goblin Giant Evolution have benefitted the most from the introduction of Royal Chef. Since they have a synergistic Tower Troop, we need to balance them accordingly.&lt;/p&gt;
+&lt;h1&gt;Goblin Giant Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4M9czS1OPbJDZdlFkPjie1/fc1a530fc69ab70b089610f0120f588b/goblingiantevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Goblin Spawn Speed&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1.5s → 1.8s (20%)&lt;/p&gt;
+&lt;h1&gt;Royal Chef&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/LW9MDJ0cdg2ymfDrsveAv/1545474abc0ec196a90600cfdfd72819/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Cooking Time&lt;/b&gt;: 18-30s → 24-40s (33%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hit Speed&lt;/b&gt;: 0.9s → 1s (11%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Buff Threshold&lt;/b&gt;: 20% → 33%&lt;/p&gt;&lt;p&gt;When a Tower is destroyed, Royal Chef will &lt;b&gt;cook slower.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Royal Chef&amp;#39;s pancakes are incredibly impactful, so we&amp;#39;ve made several design changes to reduce the total number of pancakes cooked. Firstly, we’re increasing his Cooking Time. Additionally, we’re making him cook slower when one Tower is destroyed, as previously players were prompted to sacrifice a Tower for a stronger offensive push.&lt;/p&gt;&lt;p&gt;We’re also raising his Hit Speed to reduce his defensive impact, which was too similar to Tower Princess, ensuring he remains primarily an offensive Tower Troop.&lt;/p&gt;&lt;p&gt;However, we&amp;#39;re also increasing the Buff Threshold (&lt;i&gt;the minimum % of Hitpoints required for the buff)&lt;/i&gt;, preventing Royal Chef from wasting pancakes on Troops that are about to be destroyed.&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;BUFFS ⬆&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Fire Spirit&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5J24Xooqov3ko3o2N6b9at/c7f0babb0c569cb17d3858f79cbef9e1/firespirit.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Range&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2 → 2.5 (25%)&lt;/p&gt;
+&lt;p&gt;Fire Spirit has been lagging behind &lt;b&gt;Ice Spirit&lt;/b&gt; and &lt;b&gt;Electro Spirit&lt;/b&gt;. We&amp;#39;re increasing its Range to buff it and maintain consistency with other Spirits. &lt;/p&gt;&lt;p&gt;This change also affects &lt;b&gt;Furnace&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Musketeer&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oQhorrSTLggGs3jI6E3qO/10b5b4a15008f0a15c3c1764cc4081d2/musketeer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;First Hit Speed&lt;/b&gt;&lt;/p&gt;&lt;p&gt;0.8s → 0.7s (-13%)&lt;/p&gt;
+&lt;p&gt;Musketeer was outshined by other ranged Troops, so we&amp;#39;re slightly buffing her long First Hit Speed.&lt;/p&gt;&lt;p&gt;This change also affects &lt;b&gt;Three Musketeers&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Giant Snowball Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oHUXfMPAlOPcrO0iEaver/a0d3c76e296e2c7d00797225e016f4c6/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Roll Distance&lt;/b&gt;&lt;/p&gt;&lt;p&gt;4 tiles → 4.5 tiles (13%)&lt;/p&gt;
+&lt;p&gt;Giant Snowball Evolution&amp;#39;s unique and technical ability wasn&amp;#39;t impactful enough to compete with other Evolutions. We&amp;#39;re increasing its Roll Distance to make it a more attractive pick.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;BUG FIXES&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed an issue where &lt;b&gt;Lumberjack Evolution&lt;/b&gt; could be instantly destroyed by certain Spells.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an issue where enemy &lt;b&gt;Lumberjack Evolution&lt;/b&gt; would play the incorrect deploy sound.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an issue where &lt;b&gt;Berserker&lt;/b&gt; would play incorrect sounds when she had a Star Level.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;That’s all for now!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;If you like these changes or feel there&amp;#39;s still room for improvement, please let us know. We value your feedback and would love to hear from you on social media, &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit&lt;/a&gt;, and &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdiscord.gg%2Fclashroyale')"&gt;Discord&lt;/a&gt;!&lt;/p&gt;&lt;p&gt;See you in the Arena,&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Clash Royale Team&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/en/news/48KbJeUO3a8c8pwDoiSjxl"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4l9UaPrfpu2XPJZgEKQlqp/1cd01aca86c516cff45a7a1249eff4c5/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Release Notes"/>
+    <published>2025-02-04T10:00:32+00:00</published>
   </entry>
 </feed>
