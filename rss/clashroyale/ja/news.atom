@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-04T14:35:29.785674+00:00</updated>
+  <updated>2025-02-04T15:33:25.688211+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -520,5 +520,41 @@
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/2vr3vyDzPkORZNucdhsrrf"/>
     <category term="リリース情報"/>
     <published>2025-01-30T12:25:21+00:00</published>
+  </entry>
+  <entry>
+    <id>7pd854TczHYSpDjTE274Dz</id>
+    <title>恋するランバージャックシーズン！</title>
+    <updated>2025-02-04T15:12:20.078000+00:00</updated>
+    <content>&lt;h2&gt;新カード＆限界突破&lt;/h2&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cmkxSBGXCiu98jxkuvdkI/755f5fdbb6e8660dfaea5df77e95d7d8/berserker.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;h2&gt;新カード：&lt;/h2&gt;&lt;p&gt;バーサーカー！&lt;/p&gt;
+&lt;p&gt;2エリクサーの新近接ユニット「バーサーカー」登場！小柄で愛らしい見た目とは裏腹に、ゲーム内でもトップクラスの攻撃速度を誇ります。斧を一日に何度も研ぐバーサーカーですが、斧を振るスピードを一目見れば、徹底的に切れ味を磨こうとする彼女のこだわりが理解できるでしょう。&lt;/p&gt;&lt;p&gt;ほとんどの2エリクサーユニットは、コウモリの群れやゴブリンのような集団ユニットですが、バーサーカーは単独で戦います。HPが高いので大半の呪文には耐えられますが、その分、毎秒ダメージは控え目です。そのため、他の近接ユニットとの1対1の戦闘では苦戦を強いられるでしょう。&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5my1YrmlykboVB27vyuhe8/8e25297594bb7f1f0d41d9d16549007b/lumberjackevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;h2&gt;新限界突破カード：&lt;/h2&gt;&lt;p&gt;ランバージャック！&lt;/p&gt;
+&lt;p&gt;2枚目のウルトラレア限界突破カードが登場！&lt;/p&gt;&lt;p&gt;ランバージャックは倒されると貴重なレイジの原液を落としますが、限界突破後は透明なゴーストとして蘇り、レイジの効果範囲にいる限り、復讐心を燃やして敵を追い詰めます。&lt;/p&gt;&lt;p&gt;限界突破ランバージャックは攻撃速度が速く、特にタワーに対して威力を発揮します。しかし、他のユニットや建物に陽動された場合や特定の呪文を受けた場合、レイジの効果範囲から引き離される可能性があります。&lt;/p&gt;&lt;p&gt;ランバージャックのゴーストがアリーナをさまよい始めたら… &lt;b&gt;お化け退治の専門家を呼ばないと！&lt;/b&gt;&lt;/p&gt;
+&lt;hr/&gt;&lt;h2&gt;イベント＆チャレンジ&lt;/h2&gt;
+&lt;h1&gt;超クラロワダッシュ（1対1）：2月3日～10日&lt;/h1&gt;
+&lt;p&gt;大一番が始まります！クラロワダッシュでタッチダウンを決めましょう！74、52、38、ハットハット！&lt;/p&gt;&lt;p&gt;⚔️&lt;b&gt;チャレンジ&lt;/b&gt;：2月7日～10日&lt;/p&gt;&lt;p&gt;🏆&lt;b&gt;報酬&lt;/b&gt;：バナーデコレーション&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/25zGG8fDGLMpGSxPC5Zhp2/9ff6e2b6ea49103016e69d516c62cc35/ChopChopFG_2.png?w=4000&amp;h=1541&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;ラブパワー（1対1および協力）：2月10日～17日&lt;/h1&gt;
+&lt;p&gt;ラブパワーで心を奪われたユニットは、敵チームに寝返ります！&lt;/p&gt;&lt;p&gt;⚔️&lt;b&gt;チャレンジ&lt;/b&gt;：2月14日～17日&lt;/p&gt;&lt;p&gt;🏆&lt;b&gt;報酬&lt;/b&gt;：バナーフレーム&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/Ck749hc1U4qcvjnlbj2PS/5497b0c12d037f33304089fefcebff8b/WinningDuoBG.png?w=1324&amp;h=330&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;鍛冶屋の猛攻（1対1）：2月17日～24日&lt;/h1&gt;
+&lt;p&gt;バーサーカーと鍛冶屋ジャイアントのスピードとパワーを体感しましょう！&lt;/p&gt;&lt;p&gt;⚔️&lt;b&gt;チャレンジ&lt;/b&gt;：2月21日～24日&lt;/p&gt;&lt;p&gt;🏆&lt;b&gt;報酬&lt;/b&gt;：バナーデコレーション&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dQwxqR7hVFrfvEYrwKmac/a11f8aef15fb75350f7b2b8f26a324b0/WinningDuoBB_2.png?w=3678&amp;h=1417&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;限界突破ランバージャックドラフト（1対1）：2月24日～3月3日&lt;/h1&gt;
+&lt;p&gt;ランバージャックの限界突破がついに登場！倒されても戦場に怨念が残り続けます。この恐怖に立ち向かう勇気はありますか？&lt;/p&gt;&lt;p&gt;⚔️&lt;b&gt;チャレンジ&lt;/b&gt;：2月28日～3月3日&lt;/p&gt;&lt;p&gt;🏆&lt;b&gt;報酬&lt;/b&gt;：バナーフレーム&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/hoTSMCkl9mn8AMMjUe1Ew/2fbaed40cc570b89ef98711a440b4eb5/ChopChopBG.png?w=1324&amp;h=330&amp;f=center&amp;fit=fill"&gt;
+&lt;hr/&gt;&lt;h3&gt;ゲームモード&lt;/h3&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/78iagxpxufcHtqonCDm19j/5ac9c9c27cf2a40db223004cbaabce1f/icon_clan_2v2_battle.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;h2&gt;協力バトルのマルチが復活！&lt;/h2&gt;&lt;p&gt;2月10日から24日まで、フレンドまたはランダムなプレイヤーとチームを組んで、ランキングを駆け上がりましょう！&lt;/p&gt;
+&lt;p&gt;協力バトルでは、チームワークとスキル、そして引きの強さが勝利の鍵となります。チームメイトは頼れる相棒になるのか？それとも、あなたのお荷物になってしまうのか…！？&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;その他のチャレンジ&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;クラロワパス&lt;/b&gt;：ダイヤモンドパスの100クラウン贈呈特典が削除されました。&lt;/p&gt;
+&lt;p&gt;それでは、アリーナでお会いしましょう！&lt;/p&gt;&lt;p&gt;&lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/7pd854TczHYSpDjTE274Dz"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/39B0aNQCyZJdiW8Uxq89Nz/cba6c299b7cd02715f752b1bfc15db4a/SUP4044_Season_68_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="リリース情報"/>
+    <published>2025-02-03T08:59:51+00:00</published>
   </entry>
 </feed>
