@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 04 Feb 2025 05:34:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 06:41:18 +0000</lastBuildDate>
     <item>
       <title>Die 2v2-Liga ist da!</title>
       <link>https://clashroyale.inbox.supercell.com/#/de/news/52ZGFGWmv9W4jXtRfAeqiY</link>
@@ -400,6 +400,22 @@ Gewinne ein exklusives Emote!&lt;/p&gt;
       <category>Spaß</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4CDgbITbNtHglBMcgn6FfK/6eca7cd6956117311d4b47edede94e66/Dart_Goblin_Evolution_Thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Sat, 25 Jan 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Balanceänderung bei der Runenriesin und Korrektur der P.E.K.K.A.-Entwicklung!</title>
+      <link>https://clashroyale.inbox.supercell.com/#/de/news/2vr3vyDzPkORZNucdhsrrf</link>
+      <description>&lt;p&gt;Während der Wartungsarbeiten am &lt;b&gt;30. Januar&lt;/b&gt; haben wir eine Reihe an Balanceänderungen vorgenommen. Davon war unter anderem die Interaktion der &lt;b&gt;Runenriesin&lt;/b&gt; mit verschiedenen Truppen betroffen. Ebenfalls haben wir Probleme mit der &lt;b&gt;P.E.K.K.A.-Entwicklung&lt;/b&gt; behoben.&lt;/p&gt;
+&lt;h1&gt;Runenriesin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2wS5yRhIQ25s18EWr9Hkvz/ffcec1dfb9ad5fd739ad80dda4045e58/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Der Zauber der Runenriesin funktioniert jetzt anders, wenn er mit bestimmten Karten interagiert.&lt;/p&gt;
+&lt;p&gt;Die betreffenden Karten sind: &lt;b&gt;Jäger, Widderreiterin, Koboldmaschine, Feuerwerkerin, Feuerwerkerin-Entwicklung, Koboldriese&lt;/b&gt; und &lt;b&gt;Koboldriesen-Entwicklung&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Der Schadensbonus des Zaubers wird nun auf Projektile aufgeteilt, wodurch verhindert wird, dass die &lt;b&gt;Feuerwerkerin&lt;/b&gt; und der &lt;b&gt;Jäger&lt;/b&gt; deine Einheiten komplett auslöschen.&lt;/p&gt;&lt;p&gt;Außerdem &lt;b&gt;erhalten anhängende Einheiten keinen Schadensbonus mehr&lt;/b&gt;. Diese Änderung betrifft &lt;b&gt;die Reiterin bei der Karte Widderreiterin, die Rakete bei der Koboldmaschine und die Speerkobolde des Koboldriesen&lt;/b&gt;.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;P.E.K.K.A.-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3wQEVv4bOrWekXXqA4WvH5/dcfd62e92e684813ebb5cd0150def963/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Die Werte für die &lt;b&gt;Heilung pro Tod&lt;/b&gt; der &lt;b&gt;P.E.K.K.A.-Entwicklung&lt;/b&gt; wurden korrigiert.&lt;/p&gt;
+&lt;p&gt;Der Heilungsgrad stimmt jetzt mit der Ankündigung der letzten Balanceänderung überein.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Heilungswerte auf Level 11:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Kleine Einheiten (&amp;lt;990 TP): 282 → 142 (-50 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mittlere Einheiten (991–1989 TP): 282 → 282 (±0 %)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Große Einheiten (&amp;gt;1990 TP): 282 → 565 (+100 %)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wir sehen uns in der Arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Dein Clash Royale-Team&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">2vr3vyDzPkORZNucdhsrrf</guid>
+      <category>Versionshinweise</category>
+      <pubDate>Thu, 30 Jan 2025 12:25:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
