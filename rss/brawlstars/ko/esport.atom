@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-05T10:37:56.274099+00:00</updated>
+  <updated>2025-02-05T11:29:17.323599+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -68,5 +68,14 @@
     <link href="https://www.instagram.com/p/DEydhkyPOxF"/>
     <category term="뉴스"/>
     <published>2025-01-15T05:25:48+00:00</published>
+  </entry>
+  <entry>
+    <id>6yqVRPrgWxzJKCfn5FWjGB</id>
+    <title>[Be Stars : Tryout Recap] 2025 월드파이널을 향해!</title>
+    <updated>2025-02-05T10:39:13.278000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/42PA7cm7VSfHY2oMjCQlCp/88202a33db5e783f1bcd541e8085dd74/Be_Stars_Recap_썸네일.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=-G5-QwNy1Dw"/>
+    <category term="동영상"/>
+    <published>2025-02-05T10:39:13+00:00</published>
   </entry>
 </feed>
