@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-06T12:54:22.363420+00:00</updated>
+  <updated>2025-02-06T13:35:08.969662+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>2z5FvdyIsCVFVTasNtaav2</id>
-    <title>¡DragonForce EN VIVO desde el SuperFest!</title>
-    <updated>2024-11-12T13:38:11.886000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4yxqi5YMCTDnnvJQbdXjGx/e0dc71caef1825d68e5c52e763906038/dragonforce_thumbnail_2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/euG3vHhSgNs"/>
-    <category term="Esports"/>
-    <published>2024-11-08T12:09:14+00:00</published>
-  </entry>
   <entry>
     <id>3jKO2zmAVFj0sHbz6DLZSU</id>
     <title>¡Inscríbete hoy en el All Stars LATAM Split 2!</title>
