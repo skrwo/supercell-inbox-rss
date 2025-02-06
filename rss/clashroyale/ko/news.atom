@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-06T15:34:19.743462+00:00</updated>
+  <updated>2025-02-06T16:39:30.311256+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -490,5 +490,52 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/39B0aNQCyZJdiW8Uxq89Nz/cba6c299b7cd02715f752b1bfc15db4a/SUP4044_Season_68_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2025-02-03T08:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>48KbJeUO3a8c8pwDoiSjxl</id>
+    <title>2월 밸런스 조정</title>
+    <updated>2025-02-06T16:03:57.443000+00:00</updated>
+    <content>&lt;h3&gt;하향 조정 ⬇️&lt;/h3&gt;
+&lt;h1&gt;다트 고블린&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;원거리 피해량&lt;/b&gt;&lt;/p&gt;&lt;p&gt;142 → 135(-5%)&lt;/p&gt;
+&lt;p&gt;지난 6월 조정에서 선보였던 다트 고블린의 피해량 버프를 부분적으로 되돌려 스펠 유도 덱의 밸런스를 조정하였습니다. 피해량은 줄었지만 다트 고블린은 여전히 한 번의 공격으로 &lt;b&gt;창 고블린&lt;/b&gt;을 파괴할 수 있습니다.&lt;/p&gt;
+&lt;h1&gt;고블린슈타인&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;몬스터 HP&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2598 → 2393(-8%)&lt;/p&gt;
+&lt;p&gt;박사는 지난달 업데이트에서 필요한 밸런스 조정을 받았으니 이번에는 몬스터 차례겠죠!&lt;/p&gt;
+&lt;h1&gt;P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rugtnh06qSvaLELukeljm/9f7997ef5692802cefa44ba58b52b095/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;사정거리&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1.6타일 → 1.2타일(-25%)&lt;/p&gt;
+&lt;p&gt;작년 초, 평가절하되던 P.E.K.K.A의 성능을 개선하고자 사정거리를 늘렸습니다. 그 직후 &lt;b&gt;마법사 진화&lt;/b&gt;, &lt;b&gt;배틀 램 진화&lt;/b&gt;, &lt;b&gt;자이언트 고블린 진화&lt;/b&gt; 그리고 더욱 강한 &lt;b&gt;램 라이더&lt;/b&gt;, &lt;b&gt;고블린슈타인&lt;/b&gt;, &lt;b&gt;로얄 셰프&lt;/b&gt;와 같은 다른 카드가 연달아 출시되었습니다. 이 모든 카드가 P.E.K.K.A 버프에 미치는 영향이 커져, P.E.K.K.A를 적절한 덱에 사용하면 아주 강력한 힘을 보여주는 카드가 되었습니다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;P.E.K.K.A 진화&lt;/b&gt;와 성능의 대부분 요소는 만족스럽지만, 전반적인 게임 밸런스에 더 잘 맞도록 사정거리 버프를 원상복구했습니다.&lt;/p&gt;
+&lt;h1&gt;라바 하운드&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sA3PRu3OJCYADdT4H3Ahu/b1e0baed8068d5fa51d84caccf3cb995/lavahound.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;라바 펍 피해량&lt;/b&gt;&lt;/p&gt;&lt;p&gt;90 → 84(-7%)&lt;/p&gt;
+&lt;p&gt;라바 하운드와 자이언트 고블린 진화는 로얄 셰프 도입으로 가장 크게 혜택을 받았습니다. 이들은 타워 유닛과 시너지 효과가 발휘하는 유닛이므로 이에 맞게 밸런스를 조정했습니다.&lt;/p&gt;
+&lt;h1&gt;자이언트 고블린 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4M9czS1OPbJDZdlFkPjie1/fc1a530fc69ab70b089610f0120f588b/goblingiantevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;고블린 생성 속도&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1.5초 → 1.8초(20%)&lt;/p&gt;
+&lt;h1&gt;로얄 셰프&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/LW9MDJ0cdg2ymfDrsveAv/1545474abc0ec196a90600cfdfd72819/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;조리 시간&lt;/b&gt;: 18~30초 → 24~40초(33%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;공격 속도&lt;/b&gt;: 0.9초 → 1초(11%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;강화 기준치&lt;/b&gt;: 20% → 33%&lt;/p&gt;&lt;p&gt;타워가 파괴되면 로얄 셰프의 &lt;b&gt;요리 속도가 느려집니다.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;로얄 셰프의 팬케이크는 엄청나게 큰 영향을 주기에 몇 가지 설계 변경으로 만들어지는 팬케이크의 전체 숫자를 줄였습니다. 먼저 조리 시간이 길어집니다. 또한 이전에 플레이어들이 더 강한 공격력을 얻기 위해 타워 1개를 희생시키는 경향을 보였기 때문에, 타워 1개가 파괴될 때 셰프의 조리 속도를 낮췄습니다.&lt;/p&gt;&lt;p&gt;또한 타워 프린세스와 마찬가지로 방어 능력을 낮추기 위해 공격 속도를 증가했습니다. 로얄 셰프는 여전히 공격형 타워 유닛이기 때문에 공격 능력에 초점을 맞추려고 합니다.&lt;/p&gt;&lt;p&gt;하지만 강화 기준치(_강화에 필요한 최소한의 HP %)_도 높여 로얄 셰프가 곧 파괴될 유닛에 팬케이크를 소모하지 않도록 했습니다.&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;상향 조정 ⬆&lt;/h3&gt;
+&lt;h1&gt;파이어 스피릿&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5J24Xooqov3ko3o2N6b9at/c7f0babb0c569cb17d3858f79cbef9e1/firespirit.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;사정거리&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2 → 2.5(25%)&lt;/p&gt;
+&lt;p&gt;파이어 스피릿은 &lt;b&gt;아이스 스피릿&lt;/b&gt;과 &lt;b&gt;일렉트로 스피릿&lt;/b&gt;에 미치지 못했습니다. 다른 스피릿들과 일관성을 유지하고 강화하기 위해 사정거리를 늘렸습니다.&lt;/p&gt;&lt;p&gt;이 변경사항은 &lt;b&gt;용광로&lt;/b&gt;에도 적용됩니다.&lt;/p&gt;
+&lt;h1&gt;머스킷병&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oQhorrSTLggGs3jI6E3qO/10b5b4a15008f0a15c3c1764cc4081d2/musketeer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;첫 공격 속도&lt;/b&gt;&lt;/p&gt;&lt;p&gt;0.8초 → 0.7초(-13%)&lt;/p&gt;
+&lt;p&gt;머스킷병이 다른 원거리 유닛에 밀려 인기가 없었기에 첫 공격 속도를 약간 빠르게 조정했습니다.&lt;/p&gt;&lt;p&gt;이 변경사항은 &lt;b&gt;삼총사&lt;/b&gt;에도 적용됩니다.&lt;/p&gt;
+&lt;h1&gt;거대 눈덩이 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oHUXfMPAlOPcrO0iEaver/a0d3c76e296e2c7d00797225e016f4c6/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;구르는 거리&lt;/b&gt;&lt;/p&gt;&lt;p&gt;4타일 → 4.5타일(13%)&lt;/p&gt;
+&lt;p&gt;거대 눈덩이 진화의 독특하고 기술적인 능력은 다른 진화에 비해 경쟁력이 약했습니다. 구르는 거리를 늘려 더 많은 선택을 받을 수 있도록 했습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;버그 수정&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;나무꾼 진화&lt;/b&gt;가 특정 마법으로 즉시 파괴될 수 있는 문제를 수정했습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;적이 &lt;b&gt;나무꾼 진화&lt;/b&gt; 시 잘못된 배치 사운드가 나는 문제를 수정했습니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;버서커&lt;/b&gt;가 스타 레벨을 얻을 때 잘못된 사운드가 나는 문제를 수정했습니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;오늘은 여기까지입니다!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;이번 변화가 마음에 드시거나 혹은 아직 더 발전해야 할 부분이 있다고 느끼신다면 저희에게 알려주세요. 저희는 소셜 미디어&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit&lt;/a&gt;과 &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdiscord.gg%2Fclashroyale')"&gt;Discord&lt;/a&gt;에서 플레이어 여러분의 소중한 의견을 늘 기다리고 있습니다!&lt;/p&gt;&lt;p&gt;아레나에서 뵙겠습니다.&lt;/p&gt;&lt;p&gt;&lt;i&gt;클래시 로얄 팀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/48KbJeUO3a8c8pwDoiSjxl"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4l9UaPrfpu2XPJZgEKQlqp/1cd01aca86c516cff45a7a1249eff4c5/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="새 소식"/>
+    <published>2025-02-04T10:00:32+00:00</published>
   </entry>
 </feed>
