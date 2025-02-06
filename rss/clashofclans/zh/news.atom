@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-06T14:34:07.490783+00:00</updated>
+  <updated>2025-02-06T15:34:27.814436+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -446,5 +446,25 @@
     <link href="https://www.youtube.com/watch?v=nlMgeVFmBTU"/>
     <category term="最新情報"/>
     <published>2025-02-04T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>72RcJPpItTK7q1BTCrY9Lq</id>
+    <title>【烏龜】全新裝備與限時兵種介紹！ </title>
+    <updated>2025-02-06T15:30:47.690000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/72RcJPpItTK7q1BTCrY9Lq"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2H8UyFlYxnoTIrokfuiGhg/3286611730d8f815a1f1ea662e6ab7a8/tw_20250206_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=htO2hje9Zaw"/>
+    <category term="最新情報"/>
+    <published>2025-02-06T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7KipsTWfMQLqNOdy09RyFQ</id>
+    <title> 【金雄】一起了解靈蛇手鐲、靈蛇飛桶與煙火射手！ </title>
+    <updated>2025-02-06T15:33:49.080000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7KipsTWfMQLqNOdy09RyFQ"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4D5FBmS0lyG8OAWQxvaMd5/56a2357c5f73a7674ca3b73013a94508/tw_20250206_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=497SFl4lO4c"/>
+    <category term="最新情報"/>
+    <published>2025-02-06T14:01:00+00:00</published>
   </entry>
 </feed>
