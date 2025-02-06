@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-06T17:32:40.086314+00:00</updated>
+  <updated>2025-02-06T18:39:56.808558+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -131,5 +131,14 @@
     <link href="https://x.com/TribeGaming/status/1885025242214531354"/>
     <category term="Video"/>
     <published>2025-01-30T18:13:08+00:00</published>
+  </entry>
+  <entry>
+    <id>6z0LNazhioyGAPC3eQsvWi</id>
+    <title>FUT Esports 2025 Roster Reveal</title>
+    <updated>2025-02-06T18:02:04.639000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5e645wIGFoVSiucicKlpDJ/9594aedb60ffa6c7747357c5362531c9/Untitled.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/FUTesportsgg/status/1887501578665353664"/>
+    <category term="Esports"/>
+    <published>2025-02-06T18:02:04+00:00</published>
   </entry>
 </feed>
