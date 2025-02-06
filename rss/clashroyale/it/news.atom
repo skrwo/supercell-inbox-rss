@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-06T06:41:56.134198+00:00</updated>
+  <updated>2025-02-06T07:30:50.228067+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -483,5 +483,52 @@ Aumentati del 6% (da 242 punti a 256)&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/39B0aNQCyZJdiW8Uxq89Nz/cba6c299b7cd02715f752b1bfc15db4a/SUP4044_Season_68_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Note di rilascio"/>
     <published>2025-02-03T08:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>48KbJeUO3a8c8pwDoiSjxl</id>
+    <title>Modifiche di bilanciamento di febbraio</title>
+    <updated>2025-02-06T06:56:42.165000+00:00</updated>
+    <content>&lt;h3&gt;INDEBOLIMENTI ⬇️&lt;/h3&gt;
+&lt;h1&gt;Goblin cerbottaniere&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni dalla distanza&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;ridotti del 5% (da 142 punti a 135).&lt;/p&gt;
+&lt;p&gt;Abbiamo annullato in parte il potenziamento dei danni dato lo scorso giugno al goblin cerbottaniere, per rendere più equilibrati i mazzi in cui le truppe sono usate come esca per incantesimi, ma questa riduzione non impedirà al goblin cerbottaniere di distruggere i&lt;b&gt;goblin lancieri&lt;/b&gt; con un solo attacco.&lt;/p&gt;
+&lt;h1&gt;Goblinstein&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Punti ferita del mostro&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;ridotti dell&amp;#39;8% (da 2598 punti a 2393).&lt;/p&gt;
+&lt;p&gt;Lo scorso mese, abbiamo apportato le modifiche necessarie a bilanciare il dottore, perciò adesso è il turno del mostro!&lt;/p&gt;
+&lt;h1&gt;P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rugtnh06qSvaLELukeljm/9f7997ef5692802cefa44ba58b52b095/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Portata&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;diminuita del 25% (da 1,6 caselle a 1,2).&lt;/p&gt;
+&lt;p&gt;All&amp;#39;inizio dello scorso anno, abbiamo aumentato la portata della P.E.K.K.A per migliorarne le prestazioni, che al tempo non erano esattamente entusiasmanti, e poco dopo &lt;b&gt;abbiamo potenziato la domatrice di arieti&lt;/b&gt; e pubblicato una serie di carte, come &lt;b&gt;lo stregone evoluto&lt;/b&gt;, &lt;b&gt;l&amp;#39;ariete da battaglia evoluto&lt;/b&gt;, &lt;b&gt;il gigante goblin evoluto&lt;/b&gt;, &lt;b&gt;Goblinstein&lt;/b&gt; e &lt;b&gt;lo chef reale&lt;/b&gt;. Tutte queste novità hanno aumentato l&amp;#39;impatto del potenziamento della P.E.K.K.A, rendendola una risorsa fortissima, se usata nel mazzo giusto.&lt;/p&gt;&lt;p&gt;Nonostante siamo soddisfatti delle prestazioni della &lt;b&gt;P.E.K.K.A evoluta&lt;/b&gt; e della maggior parte delle sue statistiche, abbiamo deciso di annullare il miglioramento effettuato alla sua portata, per far in modo che il gioco in generale sia il più bilanciato possibile.&lt;/p&gt;
+&lt;h1&gt;Mastino lavico&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sA3PRu3OJCYADdT4H3Ahu/b1e0baed8068d5fa51d84caccf3cb995/lavahound.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni dei cuccioli lavici&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;ridotti del 7% (da 90 punti a 84).&lt;/p&gt;
+&lt;p&gt;Il mastino lavico e il gigante goblin evoluto sono state le unità più avvantaggiate dall&amp;#39;introduzione dello chef reale, una truppa delle torri che si sposa perfettamente con le loro caratteristiche, perciò siamo stati costretti a bilanciare un po&amp;#39; entrambi.&lt;/p&gt;
+&lt;h1&gt;Gigante goblin evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4M9czS1OPbJDZdlFkPjie1/fc1a530fc69ab70b089610f0120f588b/goblingiantevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità di generazione dei goblin&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;rallentata del 20% (da 1,5 secondi a 1,8).&lt;/p&gt;
+&lt;h1&gt;Chef reale&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/LW9MDJ0cdg2ymfDrsveAv/1545474abc0ec196a90600cfdfd72819/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Tempo richiesto per la cottura dei pancake&lt;/b&gt;: aumentato del 33% (prima andava dai 18 ai 30 secondi, ora va dai 24 ai 40 secondi).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Velocità colpi&lt;/b&gt; : rallentata dell&amp;#39;11% (da 0,9 secondi a 1).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Soglia del potenziamento&lt;/b&gt;: portata dal 20% al 33%.&lt;/p&gt;&lt;p&gt;Quando una torre viene distrutta, lo chef reale cucinerà a una &lt;b&gt;velocità minore&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;I pancake dello chef reale hanno un forte impatto sulla battaglia, perciò abbiamo fatto in modo che ne possa cucinare un numero inferiore, tramite una serie di modifiche: per prima cosa, abbiamo aumentato il tempo di cottura e costretto lo chef a cucinare più lentamente quando una propria torre viene distrutta, visto che i giocatori avevano la tendenza a sacrificare una torre per rendere più efficaci i loro attacchi.&lt;/p&gt;&lt;p&gt;Inoltre, abbiamo rallentato la velocità dei colpi dello chef, per ridurre il suo impatto in difesa, che era troppo simile a quello della principessa della torre; in questo modo, ci siamo assicurati che lo chef rimanga una truppa delle torri principalmente offensiva.&lt;/p&gt;&lt;p&gt;In più, abbiamo aumentato la soglia del miglioramento, &lt;i&gt;ovvero la percentuale minima di punti ferita che le truppe alleate devono avere per ricevere il potenziamento&lt;/i&gt;, per evitare che i pancake dello chef vengano sprecati su truppe che stanno per essere eliminate.&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;POTENZIAMENTI ⬆&lt;/h3&gt;
+&lt;h1&gt;Spirito del fuoco&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5J24Xooqov3ko3o2N6b9at/c7f0babb0c569cb17d3858f79cbef9e1/firespirit.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Portata&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;aumentata del 25% (da 2 caselle a 2,5).&lt;/p&gt;
+&lt;p&gt;Lo spirito del fuoco fa fatica a stare al passo con lo &lt;b&gt;spirito del ghiaccio&lt;/b&gt; e lo &lt;b&gt;spirito elettrico&lt;/b&gt;, perciò ne abbiamo aumentato la portata per renderlo più forte e per portarlo allo stesso livello degli altri spiriti.&lt;/p&gt;&lt;p&gt;Questa modifica ha effetto anche sulla &lt;b&gt;fornace&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Moschettiere&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oQhorrSTLggGs3jI6E3qO/10b5b4a15008f0a15c3c1764cc4081d2/musketeer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità del primo colpo&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;migliorata del 13% (da 0,8 secondi a 0,7).&lt;/p&gt;
+&lt;p&gt;Il moschettiere veniva spesso messa in ombra dalle altre truppe specializzate negli attacchi dalla distanza, perciò abbiamo migliorato leggermente la velocità del suo primo colpo dalla distanza.&lt;/p&gt;&lt;p&gt;Questa modifica ha effetto anche sui &lt;b&gt;tre moschettieri&lt;/b&gt;.&lt;/p&gt;
+&lt;h1&gt;Palla di neve gigante evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oHUXfMPAlOPcrO0iEaver/a0d3c76e296e2c7d00797225e016f4c6/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Distanza del rotolamento&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;aumentata del 13% (da 4 caselle a 4,5).&lt;/p&gt;
+&lt;p&gt;Nonostante la sua unicità, l&amp;#39;abilità della Palla di neve gigante evoluta non aveva un impatto forte quanto quello delle altre evoluzioni, perciò abbiamo aumentato la distanza del rotolamento di questa carta, nella speranza di renderla una scelta più allettante.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;PROBLEMI RISOLTI&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corretto l&amp;#39;errore per cui &lt;b&gt;il boscaiolo evoluto&lt;/b&gt; poteva essere eliminato immediatamente da alcuni incantesimi.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto l&amp;#39;errore per il quale il suono prodotto dal &lt;b&gt;boscaiolo evoluto&lt;/b&gt; al suo schieramento non era quello corretto, quando veniva schierato da un avversario.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Risolto l&amp;#39;errore per il quale i suoni prodotti dalla &lt;b&gt;berserker&lt;/b&gt; non erano quelli corretti, quando quella schierata aveva un livello stella.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;E con questo è tutto!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Se questi cambi ti piacciono o pensi che possiamo fare di meglio, faccelo sapere! Apprezziamo sempre i tuoi commenti e ci farebbe tanto piacere che ci scrivessi la tua opinione sui nostri profili social su &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit&lt;/a&gt; e &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdiscord.gg%2Fclashroyale')"&gt;Discord&lt;/a&gt;!&lt;/p&gt;&lt;p&gt;Ci vediamo nell&amp;#39;arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Il team di Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/48KbJeUO3a8c8pwDoiSjxl"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4l9UaPrfpu2XPJZgEKQlqp/1cd01aca86c516cff45a7a1249eff4c5/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Note di rilascio"/>
+    <published>2025-02-04T10:00:32+00:00</published>
   </entry>
 </feed>

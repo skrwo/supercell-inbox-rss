@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-eventEntries-ja</id>
   <title>Squadbusters - Event</title>
-  <updated>2025-02-06T06:42:17.200426+00:00</updated>
+  <updated>2025-02-06T07:31:02.319265+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox Event</subtitle>
@@ -123,5 +123,22 @@
 &lt;/ul&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7Aet3rSXLEKE9dB0VeyAt4/98953cbfa55a3e539303aed4575c75d4/Poll_assets_860X1080.png?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <published>2025-01-31T14:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>AHgUJyuj</id>
+    <title>バトルで使用したホグライダー</title>
+    <updated>2025-02-06T07:08:06.017000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 0.00%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 - 3000万 &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5SC87HsemQ2I0kdUa3B1zr/ab83e560d6006aec9c9f2c9db749747c/hog-riders-milestone-4.png?w=257&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 2000万 &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1aD6tJ9j9htCoopDggfpea/8f918c9690485c95e38b07b81acba65f/hog-riders-milestone-3.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 1000万 &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4A9xcoWmSlmQvf6DhK3Xdc/1ecf21e61a143ad3fea9b23b14992e3b/hog-riders-milestone-2.png?w=257&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 - 300万 &lt;image src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/72xTmB03CNeCBKd8a4WtcS/da7ff974ae9dd6a30c53ae22d2bb522e/hog-riders-milestone-1.png?w=256&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="https://squadbusters.inbox.supercell.com/#/ja/news/2YQXv6E48i69IEmHv9LVrk"&gt;👉詳しく読む👈&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7cdf3psEnBS1F6gYNz7ufN/e32c329427334e7d535323fd04b36cee/BG_hog-riders_tracker_860x1080.jpg?w=860&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/2YQXv6E48i69IEmHv9LVrk"/>
+    <published>2025-02-06T07:06:58+00:00</published>
   </entry>
 </feed>
