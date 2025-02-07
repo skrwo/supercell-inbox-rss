@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-07T01:56:03.412126+00:00</updated>
+  <updated>2025-02-07T02:58:56.510572+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -566,5 +566,52 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/39B0aNQCyZJdiW8Uxq89Nz/cba6c299b7cd02715f752b1bfc15db4a/SUP4044_Season_68_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="リリース情報"/>
     <published>2025-02-03T08:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>48KbJeUO3a8c8pwDoiSjxl</id>
+    <title>2月のバランス調整</title>
+    <updated>2025-02-07T02:38:23.228000+00:00</updated>
+    <content>&lt;h3&gt;弱体化⬇️&lt;/h3&gt;
+&lt;h1&gt;吹き矢ゴブリン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;遠距離ダメージ&lt;/b&gt;&lt;/p&gt;&lt;p&gt;142→135（-5％）&lt;/p&gt;
+&lt;p&gt;枯渇デッキに対するバランス調整として、昨年6月に強化された吹き矢ゴブリンのダメージを一部元に戻します。調整後も、一撃で&lt;b&gt;槍ゴブリン&lt;/b&gt;を撃破することが可能です。&lt;/p&gt;
+&lt;h1&gt;ゴブリンシュタイン&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;モンスターのHP&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2598→2393（-8％）&lt;/p&gt;
+&lt;p&gt;ゲームのバランスを保つために、先月の博士の調整に続いてモンスターも弱体化します。&lt;/p&gt;
+&lt;h1&gt;P.E.K.K.A&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rugtnh06qSvaLELukeljm/9f7997ef5692802cefa44ba58b52b095/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;射程&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1.6マス→1.2マス（-25％）&lt;/p&gt;
+&lt;p&gt;昨年初めに、P.E.K.K.Aの性能を改善するために射程を拡大しましたが、その後登場したカードとの相乗効果により、特定のデッキで極めて強力な存在となりました。&lt;b&gt;限界突破ウィザード&lt;/b&gt;、&lt;b&gt;限界突破攻城バーバリアン&lt;/b&gt;、&lt;b&gt;限界突破ゴブジャイアント&lt;/b&gt;、強化後の&lt;b&gt;ラムライダー&lt;/b&gt;、&lt;b&gt;ゴブリンシュタイン&lt;/b&gt;、&lt;b&gt;ロイヤルシェフ&lt;/b&gt;などがその一例です。&lt;/p&gt;&lt;p&gt;&lt;b&gt;限界突破P.E.K.K.A&lt;/b&gt;とそのステータスには概ね満足していますが、ゲーム全体のバランスを考慮し、射程を元に戻します。&lt;/p&gt;
+&lt;h1&gt;ラヴァハウンド&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sA3PRu3OJCYADdT4H3Ahu/b1e0baed8068d5fa51d84caccf3cb995/lavahound.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ラヴァパピィのダメージ&lt;/b&gt;&lt;/p&gt;&lt;p&gt;90→84（-7％）&lt;/p&gt;
+&lt;p&gt;ラヴァハウンドと限界突破ゴブジャイアントは、新たなタワーユニットであるロイヤルシェフと併用することで、強力なシナジー効果を発揮していました。その事実を考慮して、今回の弱体化が決定しました。&lt;/p&gt;
+&lt;h1&gt;限界突破ゴブジャイアント&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4M9czS1OPbJDZdlFkPjie1/fc1a530fc69ab70b089610f0120f588b/goblingiantevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ゴブリンの生成速度&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1.5秒→1.8秒（-20％）&lt;/p&gt;
+&lt;h1&gt;ロイヤルシェフ&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/LW9MDJ0cdg2ymfDrsveAv/1545474abc0ec196a90600cfdfd72819/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;調理時間&lt;/b&gt;：18～30秒→24～40秒（-33％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;攻撃速度&lt;/b&gt;：0.9秒→1秒（-11％）&lt;/p&gt;&lt;p&gt;&lt;b&gt;ユニットの必要最低HP&lt;/b&gt;：20％→33％&lt;/p&gt;&lt;p&gt;タワー破壊後の&lt;b&gt;調理速度が低下&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;ロイヤルシェフのパンケーキがバトルに与える影響を抑えるため、調理数の削減を目的とした仕様変更を行います。調理時間の延長に加え、タワー破壊後の調理速度を低下させ、意図的なタワー犠牲戦術を抑制します。&lt;/p&gt;&lt;p&gt;また、ロイヤルシェフは防衛力も高すぎたため攻撃速度を下げ、攻撃主体のタワーユニットとしてタワープリンセスとの差別化を図りました。&lt;/p&gt;&lt;p&gt;一方、_強化対象となるユニットの必要最低HP_は増加するため、瀕死のユニットにパンケーキが浪費されることがなくなるはずです。&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;強化⬆&lt;/h3&gt;
+&lt;h1&gt;ファイアスピリット&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5J24Xooqov3ko3o2N6b9at/c7f0babb0c569cb17d3858f79cbef9e1/firespirit.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;射程&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2→2.5（+25％）&lt;/p&gt;
+&lt;p&gt;ファイアスピリットは&lt;b&gt;アイススピリット&lt;/b&gt;や&lt;b&gt;エレクトロスピリット&lt;/b&gt;の陰に隠れていたため、射程を拡大し、他のスピリットとのバランスを整えます。&lt;/p&gt;&lt;p&gt;この変更は&lt;b&gt;オーブン&lt;/b&gt;から生成されるファイアスピリットにも適用されます。&lt;/p&gt;
+&lt;h1&gt;マスケット銃士&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oQhorrSTLggGs3jI6E3qO/10b5b4a15008f0a15c3c1764cc4081d2/musketeer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;初撃速度&lt;/b&gt;&lt;/p&gt;&lt;p&gt;0.8秒→0.7秒（+13％）&lt;/p&gt;
+&lt;p&gt;マスケット銃士は他の遠距離型ユニットに比べて見劣りしていたため、初撃速度をわずかに向上させました。&lt;/p&gt;&lt;p&gt;この変更は&lt;b&gt;三銃士&lt;/b&gt;にも適用されます。&lt;/p&gt;
+&lt;h1&gt;限界突破巨大雪玉&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oHUXfMPAlOPcrO0iEaver/a0d3c76e296e2c7d00797225e016f4c6/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;転がる距離&lt;/b&gt;&lt;/p&gt;&lt;p&gt;4マス→4.5マス（+13％）&lt;/p&gt;
+&lt;p&gt;限界突破巨大雪玉は、他にはない独自の性能を持っているものの、他の限界突破と比較して活躍の場に恵まれていませんでした。そのため今回は転がる距離を延長し、カードの採用率上昇を図ります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;バグ修正&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;特定の呪文を使用すると&lt;b&gt;限界突破ランバージャック&lt;/b&gt;が即座に撃破されてしまう問題を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;敵が&lt;b&gt;限界突破ランバージャック&lt;/b&gt;を配置した際に間違ったサウンドエフェクトが流れる問題を修正。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スターレベルの上がった&lt;b&gt;バーサーカー&lt;/b&gt;から間違ったサウンドエフェクトが流れる問題を修正。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;今回は以上です！&lt;/i&gt;&lt;/p&gt;&lt;p&gt;バランス調整の感想や他の改善案などがあれば、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit&lt;/a&gt;や&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdiscord.gg%2Fclashroyale')"&gt;Discord&lt;/a&gt;などのソーシャルメディアでぜひお聞かせください！&lt;/p&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！&lt;/p&gt;&lt;p&gt;&lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/48KbJeUO3a8c8pwDoiSjxl"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4l9UaPrfpu2XPJZgEKQlqp/1cd01aca86c516cff45a7a1249eff4c5/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="リリース情報"/>
+    <published>2025-02-04T10:00:32+00:00</published>
   </entry>
 </feed>
