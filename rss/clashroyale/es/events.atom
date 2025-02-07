@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-eventEntries-es</id>
   <title>Clashroyale - Event</title>
-  <updated>2025-02-07T07:28:55.571055+00:00</updated>
+  <updated>2025-02-07T08:37:07.299871+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -15,5 +15,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6lAnecLtItYSJ42TlidPgo/dca14f6346ffb4df3c4cf821e6affc23/ES_1_DF_Clsh-Comics_Inbox_vol4DF_CLASH-COMICS_BOOKS-OF-CLASH-VOL-4-NewsTab-CR__1_.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://booksofclash.com/books/books-of-clash-volume-4/"/>
     <published>2024-11-08T16:35:35+00:00</published>
+  </entry>
+  <entry>
+    <id>HGlQlRYr8OUnytRjQ24SE</id>
+    <title>Ajustes de equilibrio</title>
+    <updated>2025-02-07T07:36:04.756000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/es/news/48KbJeUO3a8c8pwDoiSjxl"&gt;👉Saber más👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/138VQSpVrVbW0CzQafSAzJ/f3c1889f2605903fe4e6f2159a48ccd0/CR_Balance_Changes_Jan2025.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/48KbJeUO3a8c8pwDoiSjxl"/>
+    <published>2025-02-04T10:00:42+00:00</published>
   </entry>
 </feed>
