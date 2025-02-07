@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-07T04:37:58.197976+00:00</updated>
+  <updated>2025-02-07T05:34:39.641176+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -484,5 +484,52 @@ Gewinne ein exklusives Emote!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/39B0aNQCyZJdiW8Uxq89Nz/cba6c299b7cd02715f752b1bfc15db4a/SUP4044_Season_68_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Versionshinweise"/>
     <published>2025-02-03T08:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>48KbJeUO3a8c8pwDoiSjxl</id>
+    <title>Balanceänderungen im Februar</title>
+    <updated>2025-02-07T04:54:59.284000+00:00</updated>
+    <content>&lt;h3&gt;NERFS ⬇️&lt;/h3&gt;
+&lt;h1&gt;Blasrohrkobold&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Distanzschaden&lt;/b&gt;&lt;/p&gt;&lt;p&gt;142 → 135 (-5 %)&lt;/p&gt;
+&lt;p&gt;Wir nehmen die Schadenserhöhung des Blasrohrkobolds vom letzten Juni teilweise wieder zurück, um für eine bessere Balance von Spell-Bait-Decks zu sorgen. Selbst mit reduziertem Schaden kann der Blasrohrkobold immer noch &lt;b&gt;Speerkobolde&lt;/b&gt; mit einem einzigen Angriff wegpusten.&lt;/p&gt;
+&lt;h1&gt;Dr. Frankobold&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Monstertrefferpunkte&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2598 → 2393 (-8 %)&lt;/p&gt;
+&lt;p&gt;Dr. Frankobold hat bereits letzten Monat eine dringend benötigte Anpassung erhalten, und jetzt ist das Monster an der Reihe!&lt;/p&gt;
+&lt;h1&gt;P.E.K.K.A.&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rugtnh06qSvaLELukeljm/9f7997ef5692802cefa44ba58b52b095/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Reichweite&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1,6 Felder → 1,2 Felder (-25 %)&lt;/p&gt;
+&lt;p&gt;Anfang letzten Jahres haben wir die Reichweite von P.E.K.K.A. erhöht, um ihre bis dahin etwas glanzlose Performance zu pushen. Bald darauf haben wir diverse weitere Karten herausgebracht, wie z. B.: &lt;b&gt;Magierentwicklung&lt;/b&gt;, &lt;b&gt;Rammbock-Entwicklung&lt;/b&gt;, &lt;b&gt;Koboldriesen-Entwicklung&lt;/b&gt;, eine stärkere &lt;b&gt;Widderreiterin&lt;/b&gt;, &lt;b&gt;Dr. Frankobold&lt;/b&gt; und den &lt;b&gt;Königskoch&lt;/b&gt;. All diese haben die Wirkung ihres Buffs verstärkt, was sie im richtigen Deck zu einer ausgesprochen mächtigen Karte machte.&lt;/p&gt;&lt;p&gt;Obwohl wir mit der &lt;b&gt;P.E.K.K.A.-Entwicklung&lt;/b&gt; und den meisten ihrer Werte zufrieden sind, nehmen wir jetzt ihren Reichweitenbuff zurück, um die Spielbalance insgesamt zu verbessern.&lt;/p&gt;
+&lt;h1&gt;Lavahund&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sA3PRu3OJCYADdT4H3Ahu/b1e0baed8068d5fa51d84caccf3cb995/lavahound.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Lavawelpenschaden&lt;/b&gt;&lt;/p&gt;&lt;p&gt;90 → 84 (-7 %)&lt;/p&gt;
+&lt;p&gt;Der Lavahund und die Koboldriesen-Entwicklung haben am meisten von der Einführung des Königskochs profitiert. Da sie eine synergetische Turmtruppe haben, müssen wir sie entsprechend ausbalancieren.&lt;/p&gt;
+&lt;h1&gt;Koboldriesen-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4M9czS1OPbJDZdlFkPjie1/fc1a530fc69ab70b089610f0120f588b/goblingiantevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kobold-Erscheinungstempo&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1,5 Sek. → 1,8 Sek. (+20 %)&lt;/p&gt;
+&lt;h1&gt;Königskoch&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/LW9MDJ0cdg2ymfDrsveAv/1545474abc0ec196a90600cfdfd72819/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kochzeit:&lt;/b&gt; 18–30 Sek. → 24–40 Sek. (+33 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Treffergeschwindigkeit:&lt;/b&gt; 0,9 Sek. → 1 Sek. (+11 %)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Buff-Schwellenwert:&lt;/b&gt; 20 % → 33 %&lt;/p&gt;&lt;p&gt;Fällt ein Turm, kocht der Königskoch &lt;b&gt;langsamer&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;Die Pfannkuchen des Königskochs sind unglaublich lecker – und wirkungsvoll! Daher haben wir einige Designänderungen vorgenommen, um die Gesamtzahl der zubereiteten Pfannkuchen zu reduzieren. Zunächst erhöhen wir seine Kochzeit. Zudem lassen wir ihn langsamer kochen, wenn ein Turm zerstört wird, da die Spieler zuvor ermutigt wurden, einen Turm zu opfern, um einen stärkeren Angriff zu starten.&lt;/p&gt;&lt;p&gt;Außerdem erhöhen wir seine Treffergeschwindigkeit, um seine defensive Wirkung zu verringern, die der der Turmprinzessin etwas zu ähnlich war. So stellen wir sicher, dass er in erster Linie eine Turmtruppe für den Angriff bleibt.&lt;/p&gt;&lt;p&gt;Allerdings erhöhen wir auch den Buff-Schwellenwert &lt;i&gt;(der Mindestprozentsatz an Trefferpunkten, der für seine verteilten Verstärkungen erforderlich ist)&lt;/i&gt;, um zu verhindern, dass der Königskoch Pfannkuchen an Truppen verteilt, die ohnehin kurz vor der Niederlage stehen.&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;BUFFS ⬆️&lt;/h3&gt;
+&lt;h1&gt;Feuergeist&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5J24Xooqov3ko3o2N6b9at/c7f0babb0c569cb17d3858f79cbef9e1/firespirit.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Reichweite&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2 → 2,5 (+25 %)&lt;/p&gt;
+&lt;p&gt;Der Feuergeist hinkte bisher hinter dem &lt;b&gt;Eisgeist&lt;/b&gt; und dem &lt;b&gt;Elektrogeist&lt;/b&gt; zurück. Wir erhöhen seine Reichweite, um ihn zu stärken und anderen Geistern anzupassen.&lt;/p&gt;&lt;p&gt;Diese Änderung soll kein Schuss in den &lt;b&gt;Ofen&lt;/b&gt; sein – darum bezieht sie genau diesen mit ein.&lt;/p&gt;
+&lt;h1&gt;Musketierin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oQhorrSTLggGs3jI6E3qO/10b5b4a15008f0a15c3c1764cc4081d2/musketeer.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Ersttreffergeschwindigkeit&lt;/b&gt;&lt;/p&gt;&lt;p&gt;0,8 Sek. → 0,7 Sek. (-13 %)&lt;/p&gt;
+&lt;p&gt;Die Musketierin wurde von anderen Fernkampfeinheiten in den Schatten gestellt, daher haben wir ihre etwas gemächliche Ersttreffergeschwindigkeit leicht verbessert.&lt;/p&gt;&lt;p&gt;Diese Änderung bezieht auch die &lt;b&gt;Drei Musketierinnen&lt;/b&gt; mit ein.&lt;/p&gt;
+&lt;h1&gt;Schneeball-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oHUXfMPAlOPcrO0iEaver/a0d3c76e296e2c7d00797225e016f4c6/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Rollstrecke&lt;/b&gt;&lt;/p&gt;&lt;p&gt;4 Felder → 4,5 Felder (+12,5 %)&lt;/p&gt;
+&lt;p&gt;Die einzigartige und technische Fähigkeit der Schneeball-Entwicklung war nicht schlagkräftig genug, um mit anderen Entwicklungen mithalten zu können. Wir erhöhen ihre Rolldistanz, um sie noch attraktiver zu machen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;FEHLERBEHEBUNGEN&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ein Problem wurde behoben, bei dem die &lt;b&gt;Holzfäller-Entwicklung&lt;/b&gt; durch bestimmte Zauber sofort zerstört werden konnte.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ein Problem wurde behoben, bei dem die &lt;b&gt;Holzfäller-Entwicklung&lt;/b&gt; des Gegners einen inkorrekten Einsatzsound abspielte.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ein Problem wurde behoben, bei dem die &lt;b&gt;Berserkerin&lt;/b&gt; inkorrekte Sounds abspielte, wenn sie einen Starlevel hatte.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Das war‘s fürs Erste!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Lass uns gerne wissen, ob dir diese Änderungen gefallen oder wo du Verbesserungspotenzial siehst. Dein Feedback ist immer willkommen! Wir würden uns freuen, von dir auf unseren sozialen Netzwerken wie &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit&lt;/a&gt; und &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdiscord.gg%2Fclashroyale')"&gt;Discord&lt;/a&gt; zu hören!&lt;/p&gt;&lt;p&gt;Wir sehen uns in der Arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Das Clash Royale-Team&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/48KbJeUO3a8c8pwDoiSjxl"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4l9UaPrfpu2XPJZgEKQlqp/1cd01aca86c516cff45a7a1249eff4c5/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Versionshinweise"/>
+    <published>2025-02-04T10:00:32+00:00</published>
   </entry>
 </feed>
