@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2025-02-09T08:33:45.308992+00:00</updated>
+  <updated>2025-02-09T09:29:03.279063+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>3EmOLielXdCIRhcbGyxi09</id>
-    <title>شاحنات أسرع: تنويه بطلبات متعددة</title>
-    <updated>2024-11-12T06:22:28.298000+00:00</updated>
-    <content>&lt;h1&gt;شاحنات أسرع للجميع!!!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;يمكن للجميع الآن إرسال طلبات شاحنة متعددة دون انتظار عودة الشاحنة.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;ما عليك إلا إعادة فتح لوحة الطلبات بعد مغادرة الشاحنة، وإكمال طلب آخر، وستعود الشاحنة مع جميع جوائزك.&lt;/p&gt;&lt;p&gt;تمامًا في الوقت المناسب لحدث الشاحنة العالمي!👀&lt;/p&gt;&lt;p&gt;يمكنك رؤية كيفية عمل هذه الميزة في حلقة أكتوبر من &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;أخبار المزرعة&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ar/news/3EmOLielXdCIRhcbGyxi09"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="أخبار"/>
-    <published>2024-11-06T08:00:29+00:00</published>
-  </entry>
-  <entry>
-    <id>2XURAoyOUOpiUw2jDW3tOR</id>
-    <title>الأسبوع 46 من Hay Day</title>
-    <updated>2024-11-10T09:01:45.958000+00:00</updated>
-    <content>&lt;h1&gt;الأسبوع 46 من أحداث Hay Day&lt;/h1&gt;
-&lt;p&gt;مرحبًا أيها المزارعون! استعدوا لأسبوع آخر مليء بالأحداث. تبدأ كل الأحداث والديربي في الساعة 8 ص بتوقيت جرينتش. اطلعوا على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;&lt;b&gt;الإثنين&lt;/b&gt;: تدوير العجلة (القسائم)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الثلاثاء&lt;/b&gt;: حدث الشاحنة (ضعف الخبرة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأربعاء&lt;/b&gt;: حدث طلبات القارب (ضعف العملات)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الخميس&lt;/b&gt;: مباني الإنتاج (تعزيز 20% لثلاثة مبان)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الجمعة&lt;/b&gt;: حدث الصيد (البط + آلة صناعة الشباك 30%) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;&lt;b&gt;السبت&lt;/b&gt;: حدث زوار البلدة (مواد توسعة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأحد&lt;/b&gt;: حدث المحاصيل (ثلاثة محاصيل عشوائية ستنتج 3 حزم بدلاً من 2 كالسابق)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الديربي&lt;/b&gt;: عادي&lt;/p&gt;&lt;p&gt;نتمنى لكم أسبوعًا رائعًا!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/ar/news/2XURAoyOUOpiUw2jDW3tOR"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="أحداث"/>
-    <published>2024-11-10T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6ZtncU75VzafH8OH7E7la3</id>
     <title>الأسبوع 47 من Hay Day</title>
@@ -275,5 +253,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أحداث"/>
     <published>2025-02-02T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1rijJebXnTDwbwBGzFdCZI</id>
+    <title>الأسبوع 7 من Hay Day</title>
+    <updated>2025-02-09T09:00:16.844000+00:00</updated>
+    <content>&lt;h1&gt;الأسبوع 7 من Hay Day&lt;/h1&gt;
+&lt;p&gt;مرحبًا أيها المزارعون! استعدوا لأسبوع آخر مليء بالأحداث. تبدأ كل الأحداث والديربي في الساعة 8 ص بتوقيت جرينتش. يمكن الاطلاع على تفاصيل كل حدث بزيارة لوحة الأحداث داخل اللعبة.&lt;/p&gt;&lt;p&gt;&lt;b&gt;الإثنين&lt;/b&gt;: تدوير العجلة: (مواد توسعة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الثلاثاء&lt;/b&gt;: حدث الشاحنة (قسائم)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأربعاء:&lt;/b&gt; حدث القارب (معززات)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الخميس:&lt;/b&gt; حدث زوار المزرعة (ضعف العملات)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الجمعة:&lt;/b&gt; حدث الصيد (سرطان البحر + الطعوم 30%) + ضعف نقاط Farm Pass&lt;/p&gt;&lt;p&gt;&lt;b&gt;السبت:&lt;/b&gt; حدث زوار البلدة (مواد للصومعة والحظيرة)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الأحد&lt;/b&gt;: حدث علف الحيوانات (3 أنواع عشوائية من العلف بضعف سرعة الإنتاج)&lt;/p&gt;&lt;p&gt;&lt;b&gt;الديربي&lt;/b&gt;: القوة&lt;/p&gt;&lt;p&gt;نتمنى لكم أسبوعًا رائعًا!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/1rijJebXnTDwbwBGzFdCZI"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أحداث"/>
+    <published>2025-02-09T09:00:03+00:00</published>
   </entry>
 </feed>

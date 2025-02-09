@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2025-02-09T08:33:44.697937+00:00</updated>
+  <updated>2025-02-09T09:29:02.742981+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>3EmOLielXdCIRhcbGyxi09</id>
-    <title>Pedidos múltiplos: os caminhões estão mais rápidos</title>
-    <updated>2024-11-12T06:22:28.298000+00:00</updated>
-    <content>&lt;h1&gt;Caminhões turbinados para todo mundo!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Agora você pode fazer vários pedidos do caminhão sem esperar ele voltar!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Basta abrir o quadro de pedidos depois que o caminhão sair para a entrega e completar outro pedido. Quando o caminhão voltar, ele trará todas as suas recompensas!&lt;/p&gt;&lt;p&gt;E bem a tempo do evento global do caminhão! 👀&lt;/p&gt;&lt;p&gt;Assista ao &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;Prosa Rural&lt;/a&gt; de outubro para saber como essa funcionalidade vai funcionar.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/3EmOLielXdCIRhcbGyxi09"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notícias"/>
-    <published>2024-11-06T08:00:29+00:00</published>
-  </entry>
-  <entry>
-    <id>2XURAoyOUOpiUw2jDW3tOR</id>
-    <title>Semana 46 de Hay Day</title>
-    <updated>2024-11-10T09:01:45.958000+00:00</updated>
-    <content>&lt;h1&gt;Semana 46 de eventos do Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com vales.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: XP em dobro com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: dobro de moedas com os pedidos do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: aceleração da produção em 20% de 3 edifícios aleatórios.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 30% dos patos e do redeiro e dobro de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: visitantes da cidade com materiais de expansão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três plantações aleatórias aceleradas com rendimento de 3 unidades em cada colheita em vez de 2.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: normal.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/2XURAoyOUOpiUw2jDW3tOR"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Eventos"/>
-    <published>2024-11-10T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6ZtncU75VzafH8OH7E7la3</id>
     <title>Semana 47 de Hay Day</title>
@@ -255,5 +233,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventos"/>
     <published>2025-02-02T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1rijJebXnTDwbwBGzFdCZI</id>
+    <title>Semana 7 de Hay Day</title>
+    <updated>2025-02-09T09:00:16.844000+00:00</updated>
+    <content>&lt;h1&gt;Semana 7 de Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com materiais de expansão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: vales com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: aceleradores com os pedidos do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: moedas em dobro com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 30% (lagostas e iscas) e dobro de pontos no passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três tipos aleatórios de ração serão produzidos com o dobro de velocidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: Intensa.&lt;/p&gt;&lt;p&gt;Tenha uma semana maravilhosa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/1rijJebXnTDwbwBGzFdCZI"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2025-02-09T09:00:03+00:00</published>
   </entry>
 </feed>

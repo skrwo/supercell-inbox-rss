@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-newsEntries-it</id>
   <title>Hayday - News</title>
-  <updated>2025-02-09T08:33:41.531723+00:00</updated>
+  <updated>2025-02-09T09:29:02.570923+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>3EmOLielXdCIRhcbGyxi09</id>
-    <title>Annuncio: furgone più veloce e ordini multipli</title>
-    <updated>2024-11-12T06:22:28.298000+00:00</updated>
-    <content>&lt;h1&gt;Il furgone ha messo il turbo!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Ora puoi spedire più ordini del furgone senza aspettare il suo ritorno!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Per farlo, ti basterà riaprire la bacheca dopo la partenza del mezzo e completare un altro ordine per vederlo poi ritornare con tutte le ricompense che ti spettano!&lt;/p&gt;&lt;p&gt;Approfittane durante l&amp;#39;evento globale del furgone! 👀&lt;/p&gt;&lt;p&gt;Puoi vedere il funzionamento di questa novità nell&amp;#39;episodio di ottobre del &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;Quovotidiano&lt;/a&gt;!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/3EmOLielXdCIRhcbGyxi09"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Notizie"/>
-    <published>2024-11-06T08:00:29+00:00</published>
-  </entry>
-  <entry>
-    <id>2XURAoyOUOpiUw2jDW3tOR</id>
-    <title>Eventi di Hay Day (settimana n. 46)</title>
-    <updated>2024-11-10T09:01:45.958000+00:00</updated>
-    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 46)&lt;/h1&gt;
-&lt;p&gt;Ehilà, questa settimana ti attendono tantissimi eventi e un derby, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ogni evento, consulta il loro tabellone in gioco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunedì&lt;/b&gt;: buoni (gira la ruota).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martedì&lt;/b&gt;: XP doppi (ordini del furgone).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercoledì&lt;/b&gt;: monete doppie (ordini per la barca).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Giovedì&lt;/b&gt;: potenziamento del 20% per tre edifici produttivi.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Venerdì&lt;/b&gt;: potenziamento del 30% per due edifici per la pesca (salone delle anatre e retificio) e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabato&lt;/b&gt;: oggetti espansione (visitatori della città).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domenica&lt;/b&gt;: potenziamento colture (tre unità invece di due da tre colture a caso).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: derby standard.&lt;/p&gt;&lt;p&gt;Ti auguriamo una buona settimana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/it/news/2XURAoyOUOpiUw2jDW3tOR"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Eventi"/>
-    <published>2024-11-10T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6ZtncU75VzafH8OH7E7la3</id>
     <title>Eventi di Hay Day (settimana n. 47)</title>
@@ -269,5 +247,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventi"/>
     <published>2025-02-02T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1rijJebXnTDwbwBGzFdCZI</id>
+    <title>Eventi di Hay Day (settimana n. 7)</title>
+    <updated>2025-02-09T09:00:16.844000+00:00</updated>
+    <content>&lt;h1&gt;Eventi di Hay Day (settimana n. 7)&lt;/h1&gt;
+&lt;p&gt;Ciao, questa settimana ti attendono tantissimi eventi e un derby, che inizieranno tutti alle 8:00 UTC! Per avere maggiori informazioni su ogni evento, consulta il loro tabellone in gioco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunedì&lt;/b&gt;: oggetti espansione (gira la ruota).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martedì&lt;/b&gt;: buoni (ordini del furgone).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercoledì&lt;/b&gt;: potenziamenti (ordini per la barca).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Giovedì&lt;/b&gt;: monete doppie (visitatori della fattoria).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Venerdì&lt;/b&gt;: potenziamento del 30% per due edifici per la pesca (vasca per aragoste e banco da lavoro per esche) e punti del Pass della fattoria doppi.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabato&lt;/b&gt;: materiali per granaio e silo (visitatori della città).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domenica&lt;/b&gt;: produttività dei mangimifici ottimizzata (tre tipi casuali di mangime per animali verranno prodotti al doppio della velocità).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: derby intensivo.&lt;/p&gt;&lt;p&gt;Buona settimana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/it/news/1rijJebXnTDwbwBGzFdCZI"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventi"/>
+    <published>2025-02-09T09:00:03+00:00</published>
   </entry>
 </feed>

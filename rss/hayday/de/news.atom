@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2025-02-09T08:33:43.394535+00:00</updated>
+  <updated>2025-02-09T09:29:02.370799+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>3EmOLielXdCIRhcbGyxi09</id>
-    <title>Ankündigung: Schnellere Lieferwagen durch Mehrfachbestellungen</title>
-    <updated>2024-11-12T06:22:28.298000+00:00</updated>
-    <content>&lt;h1&gt;Schnellere Lieferwagen für alle!!!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Lieferwagenbestellungen lassen sich jetzt simultan abwickeln, ohne erst auf die Rückkehr des Lieferwagens warten zu müssen!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Öffne einfach erneut die Bestelltafel, nachdem der Lieferwagen abgefahren ist. Dort kannst du direkt eine weitere Bestellung abfertigen. Der Lieferwagen wird mit all deinen Belohnungen zurückkehren!&lt;/p&gt;&lt;p&gt;Gerade noch rechtzeitig für das weltweite Lieferwagen-Ereignis! 👀&lt;/p&gt;&lt;p&gt;Die Funktionsweise des Features zeigt die Oktoberausgabe des &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;Farmerjournals&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/3EmOLielXdCIRhcbGyxi09"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Neues"/>
-    <published>2024-11-06T08:00:29+00:00</published>
-  </entry>
-  <entry>
-    <id>2XURAoyOUOpiUw2jDW3tOR</id>
-    <title>Hay Day-Woche 46</title>
-    <updated>2024-11-10T09:01:45.958000+00:00</updated>
-    <content>&lt;h1&gt;Ereigniswoche 46&lt;/h1&gt;
-&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 9:00 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag&lt;/b&gt;: Glücksrad-Ereignis (Gutscheine)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag&lt;/b&gt;: Lieferwagen-Ereignis (doppelte EP)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch&lt;/b&gt;: Schiffsereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag&lt;/b&gt;: Produktionsgebäude-Ereignis (20%iger Schub für drei Gebäude)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag&lt;/b&gt;: Produktionsschub für den Angelbereich (Entensalon und Seilerei, 30 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag&lt;/b&gt;: Stadtbesucher-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag&lt;/b&gt;: Pflanzenereignis (ernte bei drei zufälligen Pflanzenarten 3 anstatt 2 Pflanzen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt;: Normales Derby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/2XURAoyOUOpiUw2jDW3tOR"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Ereignisse"/>
-    <published>2024-11-10T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6ZtncU75VzafH8OH7E7la3</id>
     <title>Hay Day-Woche 47</title>
@@ -276,5 +254,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Ereignisse"/>
     <published>2025-02-02T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1rijJebXnTDwbwBGzFdCZI</id>
+    <title>Hay Day-Woche 7</title>
+    <updated>2025-02-09T09:00:16.844000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-Woche 7&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 9:00 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag:&lt;/b&gt; Glücksrad-Ereignis (Erweiterungsmaterialien)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag:&lt;/b&gt; Lieferwagen-Ereignis (Gutscheine)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch:&lt;/b&gt; Schiffsereignis (Schübe)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag:&lt;/b&gt; Farmbesucher-Ereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag:&lt;/b&gt; Produktionsschub für den Angelbereich (Hummer und Köder, 30 %) + doppelte Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag:&lt;/b&gt; Stadtbesucher-Ereignis (Verbesserungsmaterialien für Silo und Scheune)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag:&lt;/b&gt; Flinkeres Futter (drei zufällige Arten Tierfutter werden doppelt so schnell produziert)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Power-Derby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine tolle Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/1rijJebXnTDwbwBGzFdCZI"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Ereignisse"/>
+    <published>2025-02-09T09:00:03+00:00</published>
   </entry>
 </feed>

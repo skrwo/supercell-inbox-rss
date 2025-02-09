@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2025-02-09T08:33:48.400016+00:00</updated>
+  <updated>2025-02-09T09:29:03.934046+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>3EmOLielXdCIRhcbGyxi09</id>
-    <title>Nopeammat rekat: usean tilauksen lähettäminen</title>
-    <updated>2024-11-12T06:22:28.298000+00:00</updated>
-    <content>&lt;h1&gt;Kaikki pääsevät nauttimaan nopeammista rekoista!&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Kaikki pelaajat voivat nyt lähettää matkaan useita tavararekkatilauksia odottamatta rekan paluuta!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Avaa vain tilaustaulu rekan lähdettyä ja suorita toinen tilaus, niin rekka tuo palatessaan kaikkien suorittamiesi tilausten palkinnot!&lt;/p&gt;&lt;p&gt;Juuri sopivasti tavararekkatilausten yhteisötapahtumaa varten! 👀&lt;/p&gt;&lt;p&gt;Tutustu ominaisuuteen tarkemmin lokakuun &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutu.be%252FAy4hCFxeCKM')"&gt;Ajankohtaiskiekaisuissa&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/3EmOLielXdCIRhcbGyxi09"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3I266fKmwRA5eWQiq9E8bp/7049164d171b71e3f5722318a944780a/inboxtrucks.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Uutiset"/>
-    <published>2024-11-06T08:00:29+00:00</published>
-  </entry>
-  <entry>
-    <id>2XURAoyOUOpiUw2jDW3tOR</id>
-    <title>Hay Dayn viikko 46</title>
-    <updated>2024-11-10T09:01:45.958000+00:00</updated>
-    <content>&lt;h1&gt;Hay Dayn tapahtumat viikolla 46&lt;/h1&gt;
-&lt;p&gt;Hei farmarit! On uuden tapahtumaviikon aika! Kaikki tapahtumat ja kisat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maanantai&lt;/b&gt;: kuponkeja onnenpyörässä&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tiistai&lt;/b&gt;: tuplasti kokemusta tavararekkatilauksista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keskiviikko&lt;/b&gt;: tuplasti kolikoita laivatilauksista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Torstai&lt;/b&gt;: kolmen tuotantorakennuksen 20 %:n tehostus&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perjantai&lt;/b&gt;: kalastusalueella sorsasalongin ja verkontekijän 30 %:n tehostus + kaksinkertaiset Farmipassi-pisteet&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lauantai&lt;/b&gt;: laajennusesineitä lisäpalkintoina kylävierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunnuntai&lt;/b&gt;: kolmen satunnaisen viljelyskasvin tehostus (satoa korjatessa 3 viljelyskasvia tavallisen 2:n sijasta)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Naapurustokisat&lt;/b&gt;: tavalliset kisat&lt;/p&gt;&lt;p&gt;Viljavaa viikkoa!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fi/news/2XURAoyOUOpiUw2jDW3tOR"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Tapahtumat"/>
-    <published>2024-11-10T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6ZtncU75VzafH8OH7E7la3</id>
     <title>Hay Dayn viikko 47</title>
@@ -286,5 +264,16 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Tapahtumat"/>
     <published>2025-02-02T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1rijJebXnTDwbwBGzFdCZI</id>
+    <title>Hay Dayn tapahtumat viikoll 7</title>
+    <updated>2025-02-09T09:00:16.844000+00:00</updated>
+    <content>&lt;h1&gt;Hay Dayn tapahtumat viikoll 7&lt;/h1&gt;
+&lt;p&gt;Terve farmarit! On uuden tapahtumaviikon aika! Kaikki tapahtumat ja kisat alkavat klo 8.00 UTC. Lue lisätietoja tapahtumista pelin tapahtumataululta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maanantai&lt;/b&gt;: laajennusesineitä onnenpyörässä&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tiistai&lt;/b&gt;: kuponkeja lisäpalkintoina tavararekkatilauksista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keskiviikko&lt;/b&gt;: kiihdyttimiä lisäpalkintoina laivatilauksista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Torstai&lt;/b&gt;: tuplasti kolikoita farmivierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perjantai&lt;/b&gt;: kalastusalueella hummerialtaan ja viehetyöpöydän 30 %:n tehostus + Farmipassi-pisteet tuplana&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lauantai&lt;/b&gt;: viljavaraston ja ladon päivitysmateriaaleja lisäpalkintoina kylävierailijoista&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunnuntai&lt;/b&gt;: eläinten ruokintatehostus (3 satunnaista rehua valmistuu tuplanopeudella)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Naapurustokisat&lt;/b&gt;: Voimakisat&lt;/p&gt;&lt;p&gt;Ihanaa viikkoa!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/1rijJebXnTDwbwBGzFdCZI"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Tapahtumat"/>
+    <published>2025-02-09T09:00:03+00:00</published>
   </entry>
 </feed>
