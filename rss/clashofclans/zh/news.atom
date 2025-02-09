@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-09T14:30:34.826618+00:00</updated>
+  <updated>2025-02-09T15:30:57.079641+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -502,5 +502,25 @@
     <link href="https://www.youtube.com/watch?v=XtjHHMyPH-0"/>
     <category term="最新情報"/>
     <published>2025-02-08T13:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7LUKqPUl19XTAqNnxH1aCc</id>
+    <title>【烏龜】亡靈王子新裝備來啦！資源可以互相轉換？</title>
+    <updated>2025-02-09T14:48:46.744000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/7LUKqPUl19XTAqNnxH1aCc"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4efobjaXUfzQtaaBm2pizT/ce55ec7caa2fff25a9ff8aa0a2c62c10/tw_20250209_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/nbGS4AoRFcI"/>
+    <category term="最新情報"/>
+    <published>2025-02-09T14:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2BMOuqJ0s4bE5GJKDX4Uxc</id>
+    <title>【金雄】亡靈王子新裝備好用嗎？鍊金術士是？</title>
+    <updated>2025-02-09T14:49:56.135000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2BMOuqJ0s4bE5GJKDX4Uxc"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4nswyiGHajaQ2Gb1VG70cV/54c90ba60823c036de92f80496e8cd65/tw_20250209_kaneo_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=J0ClnQfZLWE"/>
+    <category term="最新情報"/>
+    <published>2025-02-09T14:31:00+00:00</published>
   </entry>
 </feed>
