@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-10T10:38:46.411643+00:00</updated>
+  <updated>2025-02-10T11:28:55.136653+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>ZlvIZjLgNx9fDSW2D49et</id>
-    <title>RIVAL CUP 11月開催！</title>
-    <updated>2024-11-19T15:04:26.987000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4JFkCHY1vSHeoxOGggFTU4/bb76e3c41c111f5ae8d72bd5cc63bd73/EN_Rival_Cup_Open_Qualifiers_Split_3.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://x.com/RivalEsportsHQ"/>
-    <category term="eスポーツ"/>
-    <published>2024-11-12T10:58:03+00:00</published>
-  </entry>
   <entry>
     <id>3wcK10RWKS7XkGafwahSAF</id>
     <title>ブロスタ チャンピオンシップ 2025・ロードマップ</title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-10T10:38:50.159088+00:00</updated>
+  <updated>2025-02-10T11:28:51.397445+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -108,5 +108,22 @@
     <link href="https://x.com/TribeGaming/status/1885025242214531354"/>
     <category term="Video"/>
     <published>2025-01-30T18:13:08+00:00</published>
+  </entry>
+  <entry>
+    <id>6z0LNazhioyGAPC3eQsvWi</id>
+    <title>Rivelazione Roster 2025 FUT Esports</title>
+    <updated>2025-02-10T10:52:12.952000+00:00</updated>
+    <link href="https://x.com/FUTesportsgg/status/1887501578665353664"/>
+    <category term="Esports"/>
+    <published>2025-02-06T18:02:04+00:00</published>
+  </entry>
+  <entry>
+    <id>4Z3EVpJPzcuBMy6MSX2ZSB</id>
+    <title>Annuncio Roster 2025 ZETA DIVISION</title>
+    <updated>2025-02-10T10:53:47.683000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4RJZOCE2CLgK3f4Egcbt1y/76be0182975f8d97241e5d98fbda2686/ZETA_ANNOUNCE_BRAWLSTARS_250207-1.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/MQgHtTIvlSk"/>
+    <category term="Esports"/>
+    <published>2025-02-07T16:32:43+00:00</published>
   </entry>
 </feed>
