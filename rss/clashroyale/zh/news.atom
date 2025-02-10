@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashroyale-newsEntries-zh</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-10T03:40:05.729644+00:00</updated>
+  <updated>2025-02-10T04:38:53.132158+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -628,7 +628,7 @@
 &lt;h1&gt;符文狂暴（1v1）：2月17日至24日&lt;/h1&gt;
 &lt;p&gt;狂戰士和符文巨人強強聯手，讓對手知道什麼叫速度與狂暴！&lt;/p&gt;&lt;p&gt;⚔️&lt;b&gt;挑戰&lt;/b&gt;：2月21日至24日&lt;/p&gt;&lt;p&gt;🏆&lt;b&gt;獎勵&lt;/b&gt;：戰旗形象裝飾&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6dQwxqR7hVFrfvEYrwKmac/a11f8aef15fb75350f7b2b8f26a324b0/WinningDuoBB_2.png?w=3678&amp;h=1417&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;進化狂暴伐木工選卡（1v1）2月24日至3月3日&lt;/h1&gt;
+&lt;h1&gt;進化狂暴伐木工選卡（1v1）：2月24日至3月3日&lt;/h1&gt;
 &lt;p&gt;感受恐懼吧，進化狂暴伐木工降臨了！即使被摧毀，他的怒火仍然在狂暴法術中延續——快阻止他！&lt;/p&gt;&lt;p&gt;⚔️&lt;b&gt;挑戰&lt;/b&gt;：2月28日至3月3日&lt;/p&gt;&lt;p&gt;🏆&lt;b&gt;獎勵&lt;/b&gt;：戰旗旗面&lt;/p&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/hoTSMCkl9mn8AMMjUe1Ew/2fbaed40cc570b89ef98711a440b4eb5/ChopChopBG.png?w=1324&amp;h=330&amp;f=center&amp;fit=fill"&gt;
 &lt;hr/&gt;&lt;h3&gt;遊戲模式&lt;/h3&gt;
@@ -645,43 +645,54 @@
   </entry>
   <entry>
     <id>48KbJeUO3a8c8pwDoiSjxl</id>
-    <title>2月平衡性調整</title>
-    <updated>2025-02-07T08:57:59.082000+00:00</updated>
+    <title>2025年2月平衡性調整</title>
+    <updated>2025-02-10T04:08:48.659000+00:00</updated>
     <content>&lt;h3&gt;削弱⬇️&lt;/h3&gt;
 &lt;h1&gt;吹箭哥布林&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6MZ8wPRbxwnDj1cmsg0dSr/8f3bcf3ed97822299ecf494a681d4ee6/dartgoblin.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;遠程傷害&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從142調整為135（-5%）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;遠程傷害&lt;/b&gt;
+從142調整為135（-5%）&lt;/p&gt;
 &lt;p&gt;為了平衡自閉飛桶牌組，我們回調了一點去年六月對吹箭哥布林傷害的加強。即使傷害降低，吹箭哥布林仍然只需一次攻擊就能擊殺&lt;b&gt;哥布林投矛手&lt;/b&gt;。&lt;/p&gt;
 &lt;h1&gt;科學怪哥布林&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6Pj477iPALP8DtWYdPRk0Q/6853e0702faf1e16e20b30466bd1359f/goblinstein.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;怪物生命值&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從2598調整為2393（-8%）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;怪物生命值&lt;/b&gt;
+從2598調整為2393（-8%）&lt;/p&gt;
 &lt;p&gt;上個月，我們對博士進行了必要的平衡性調整，現在輪到怪物了！&lt;/p&gt;
 &lt;h1&gt;皮卡超人&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rugtnh06qSvaLELukeljm/9f7997ef5692802cefa44ba58b52b095/pekka.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;射程&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從1.6格調整為1.2格（-25%）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;射程&lt;/b&gt;
+從1.6格調整為1.2格（-25%）&lt;/p&gt;
 &lt;p&gt;去年上旬，我們提升了皮卡超人的射程，以改善她當時表現不佳的情況。隨後，我們推出或調整了幾張卡牌——如&lt;b&gt;進化法師&lt;/b&gt;、&lt;b&gt;進化野蠻人攻城槌&lt;/b&gt;、&lt;b&gt;進化哥布林巨人&lt;/b&gt;、&lt;b&gt;蠻羊騎士&lt;/b&gt;（變得更強）、&lt;b&gt;科學怪哥布林&lt;/b&gt;以及&lt;b&gt;皇家大廚&lt;/b&gt;——這些卡牌進一步提升了皮卡超人那次加強所帶來的影響，讓她在合適的牌組中顯得極為強大。&lt;/p&gt;&lt;p&gt;雖然我們對&lt;b&gt;進化皮卡超人&lt;/b&gt;以及她的大部分數據都很滿意，但為了維持遊戲的整體平衡，我們現在要回調她的射程加強。&lt;/p&gt;
 &lt;h1&gt;熔岩獵犬&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5sA3PRu3OJCYADdT4H3Ahu/b1e0baed8068d5fa51d84caccf3cb995/lavahound.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;熔岩幼犬傷害&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從90調整為84（-7%）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;熔岩幼犬傷害&lt;/b&gt;
+從90調整為84（-7%）&lt;/p&gt;
 &lt;p&gt;皇家大廚推出後，熔岩獵犬和進化哥布林巨人獲益最多。由於他們有非常適配的皇家塔部隊，我們需要進行一定的平衡性調整。&lt;/p&gt;
 &lt;h1&gt;進化哥布林巨人&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4M9czS1OPbJDZdlFkPjie1/fc1a530fc69ab70b089610f0120f588b/goblingiantevolution.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;哥布林出兵速度&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從1.5秒調整為1.8秒（20%）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;哥布林出兵速度&lt;/b&gt;
+從1.5秒調整為1.8秒（20%）&lt;/p&gt;
 &lt;h1&gt;皇家大廚&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/LW9MDJ0cdg2ymfDrsveAv/1545474abc0ec196a90600cfdfd72819/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;烹飪時間&lt;/b&gt;：從「18秒至30秒」調整為「24秒至40秒」（33%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;攻擊速度&lt;/b&gt;：從0.9秒調整為1秒（11%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;增益門檻&lt;/b&gt;：從20%調整為33%&lt;/p&gt;&lt;p&gt;一座皇家塔被摧毀後，皇家大廚的&lt;b&gt;烹飪速度會變慢&lt;/b&gt;。&lt;/p&gt;
-&lt;p&gt;皇家大廚的煎餅效果非常明顯，因此我們在設計上做了一些調整，以降低他烹飪煎餅的總數。首先，我們延長了烹飪時間。此外，我們讓他在損失一座皇家塔的情況下會放慢烹飪速度，因為之前玩家往往會選擇犧牲一座皇家塔，進而發起更強勢的進攻。&lt;/p&gt;&lt;p&gt;我們還調整了他的攻擊速度，以降低他的防禦能力。他之前的防禦機制與皇家塔公主過於相似，調整後會更加凸顯他進攻型皇家塔部隊的主要定位。&lt;/p&gt;&lt;p&gt;但是，我們也提升了增益門檻（&lt;i&gt;獲得增益需達到的最低生命值百分比&lt;/i&gt;），防止皇家大廚在即將被擊殺的軍隊身上浪費煎餅。&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;加強⬆&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;烹飪時間&lt;/b&gt;
+從「18秒至30秒」調整為「24秒至40秒」（33%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;攻擊速度&lt;/b&gt;
+從0.9秒調整為1秒（11%）&lt;/p&gt;&lt;p&gt;&lt;b&gt;增益門檻&lt;/b&gt;
+從20%調整為33%&lt;/p&gt;&lt;p&gt;一座皇家塔被摧毀後，皇家大廚的&lt;b&gt;烹飪速度會變慢&lt;/b&gt;。&lt;/p&gt;
+&lt;p&gt;皇家大廚的煎餅效果非常明顯，因此我們在設計上做了一些調整，以降低他烹飪煎餅的總數。首先，我們延長了烹飪時間。此外，我們讓他在損失一座皇家塔的情況下會放慢烹飪速度，因為之前玩家往往會選擇犧牲一座皇家塔，進而發起更強勢的進攻。&lt;/p&gt;&lt;p&gt;我們還調整了他的攻擊速度，以降低他的防禦能力。他之前的防禦機制與皇家塔公主過於相似，調整後會更加突顯他進攻型皇家塔部隊的主要定位。&lt;/p&gt;&lt;p&gt;但是，我們也提升了增益門檻（&lt;i&gt;獲得增益需達到的最低生命值百分比&lt;/i&gt;），防止皇家大廚在即將被擊殺的軍隊身上浪費煎餅。&lt;/p&gt;&lt;hr/&gt;&lt;h3&gt;加強⬆&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;烈焰精靈&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5J24Xooqov3ko3o2N6b9at/c7f0babb0c569cb17d3858f79cbef9e1/firespirit.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;射程&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從2調整為2.5（25%）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;射程&lt;/b&gt;
+從2調整為2.5（25%）&lt;/p&gt;
 &lt;p&gt;烈焰精靈的表現一直落後於&lt;b&gt;冰雪精靈&lt;/b&gt;和&lt;b&gt;閃電精靈&lt;/b&gt;。我們提升了他的射程，以增強其實力，同時也讓他與其他精靈的射程保持一致。&lt;/p&gt;&lt;p&gt;這個調整也會影響&lt;b&gt;烈焰熔爐&lt;/b&gt;。&lt;/p&gt;
 &lt;h1&gt;火槍手&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oQhorrSTLggGs3jI6E3qO/10b5b4a15008f0a15c3c1764cc4081d2/musketeer.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;首次出手速度&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從0.8秒調整為0.7秒（-13%）&lt;/p&gt;
-&lt;p&gt;與其他遠程軍隊相比，火槍手有點遜色，因此我們略微加快了她的第一次出手速度。&lt;/p&gt;&lt;p&gt;這個調整也會影響&lt;b&gt;三個火槍手&lt;/b&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;首次出手速度&lt;/b&gt;
+從0.8秒調整為0.7秒（-13%）&lt;/p&gt;
+&lt;p&gt;與其他遠程軍隊相比，火槍手有點遜色，因此我們略微加快她第一次的出手速度。&lt;/p&gt;&lt;p&gt;這個調整也會影響&lt;b&gt;三個火槍手&lt;/b&gt;。&lt;/p&gt;
 &lt;h1&gt;進化巨型雪球&lt;/h1&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3oHUXfMPAlOPcrO0iEaver/a0d3c76e296e2c7d00797225e016f4c6/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
-&lt;p&gt;&lt;b&gt;滾動距離&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從4格調整為4.5格（13%）&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;滾動距離&lt;/b&gt;
+從4格調整為4.5格（13%）&lt;/p&gt;
 &lt;p&gt;進化巨型雪球的技能獨特，使用起來非常考驗技巧，其影響力難以與其他進化卡牌抗衡。我們提升了它的滾動距離，讓這張卡牌變得更有吸引力。&lt;/p&gt;&lt;hr/&gt;
 &lt;h3&gt;問題修復&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;修復&lt;b&gt;進化狂暴伐木工&lt;/b&gt;會被特定法術直接消滅的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復敵方&lt;b&gt;進化狂暴伐木工&lt;/b&gt;部署時播放的音效不正確的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復&lt;b&gt;狂戰士&lt;/b&gt;的星光等級音效播放不正確的問題。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;以上就是本次平衡性調整的內容！&lt;/i&gt;&lt;/p&gt;&lt;p&gt;如果你喜歡這些調整，或覺得還有改進空間，請告訴我們！我們非常重視你的想法與建議，並期待在社群平台、&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.reddit.com%2Fr%2FClashRoyale%2F')"&gt;Reddit&lt;/a&gt;和&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fdiscord.gg%2Fclashroyale')"&gt;Discord&lt;/a&gt;上聽到你的意見！&lt;/p&gt;&lt;p&gt;我們競技場見！&lt;/p&gt;&lt;p&gt;&lt;i&gt;《部落衝突:皇室戰爭》遊戲團隊&lt;/i&gt;&lt;/p&gt;</content>
