@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-10T09:34:17.098088+00:00</updated>
+  <updated>2025-02-10T10:38:57.085943+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -216,5 +216,34 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2jk7RiibR7vBDXQvxfL68B/ebda46c3d5d6db7ef5a66faf18d3a67c/CoC_LNY_Illustration_final.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ニュース"/>
     <published>2025-02-06T13:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>4pCd6tB0xNNyVSNQvvBnwW</id>
+    <title>最新アップデートが到着！</title>
+    <updated>2025-02-10T10:34:12.124000+00:00</updated>
+    <content>&lt;h1&gt;アプデ目前！急いで改造を！&lt;/h1&gt;
+&lt;h2&gt;&lt;b&gt;マルチギアタワーが実装！&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;最新アップデートで追加される「マルチギアタワー」は、改造済みのアーチャータワーと大砲を合体させた新防衛設備です。タウンホールレベル17でアンロックされます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;マルチギアタワーは地上および空中のユニットを攻撃します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「長射程」と「速射」の2種類の攻撃モードを切り替えることが可能です。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;単体のユニットのみを標的にしますが、その分、火力は高めです！&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;b&gt;新突破兵器をバトルに投入！&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;ユニットの詰まった樽を戦場に発射する個性的な突破兵器が実装されます！タウンホールレベル16でアンロックされる「ユニットランチャー」は、味方に向けて援護ユニットの詰まった樽を発射し、攻撃をサポートします。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;固定砲台であり移動はできませんが、その分、驚異的な射程を誇ります！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;樽にはユニット複数体と、クランの城のユニット1体が入ります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;発射可能な樽の数には上限があり、レベルに応じて変化します。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;b&gt;錬金術師がヘルパーの小屋に登場！&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;タウンホール11でヘルパーの小屋に新たな仲間が加わります！「錬金術師」は独自に開発した魔法を使い、資源の種類を変換することができます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;錬金術師はタウンホールレベル11に到達後、100エメラルドでアンロック可能になります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;変換は1日に1度のみ可能です。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;錬金術師がレベルアップすると作業効率が上昇します。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;b&gt;ガーゴイルプリンスの… パンツ？&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;「メタルパンツ」はガーゴイルプリンス専用のファッションアイテム… もとい、ヒーローのノーマル装備です。防衛バリアを一定時間生成し、ダメージをある程度防いでくれます。&lt;/p&gt;&lt;h2&gt;&lt;b&gt;壁のアップグレードが簡単に！&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;今回から同レベルの壁を複数選択し、一斉にアップグレードできるようになります。壁を選択すると新しいボタンが表示され、アップグレード画面に同レベルの壁を追加できるようになります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;同時に追加できる壁は1個～10個です。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;壁の追加は、アップグレード費用が資源の所持数を超えるまで、または対象レベルの壁が選択できなくなるまで継続可能です。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;b&gt;ハードモードチャレンジ&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;ハードモードがよりハードに！最強の挑戦者を待っています！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;防衛側のヒーローはHPと毎秒ダメージが20％増加&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;防衛設備は毎秒ダメージが20％増加&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;防衛側のヒーローはHPと毎秒ダメージが10％減少&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ノーマル装備はレベル15、スーパーレア装備はレベル21が最大値に&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;b&gt;スターターパス&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;新規プレイヤー向けにスターターパスを導入！スターターパスを購入すると、タウンホール2～7まで続くスターターチャレンジで追加の報酬を獲得できます。ゲームの序盤の進行がスムーズになりますよ！&lt;/p&gt;&lt;p&gt;**注意：**スターターパスは、一部の新規プレイヤーを対象に試験運用中です。正式導入については、試験結果と皆さんの意見をもとに判断します。&lt;/p&gt;&lt;h2&gt;&lt;b&gt;資源の調整&lt;/b&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;最新アップデートで、ゲーム内資源のエメラルドでの購入価格が多岐にわたって低下します。旅商人の店とクラン対戦リーグショップで購入できる資源関連の魔法アイテムも対象です。本調整の目的はエメラルド購入のハードルを下げ、より多くのプレイヤーが資源を取得しやすくすることです。高タウンホール帯のプレイヤーにとっても、アップグレード費用を賄いやすくなるでしょう。もちろん、資源確保の主な方法が攻撃と防衛であることに変わりはありません。このゲームの根幹要素を維持しつつ、慎重に調整しています。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;資源保管施設とタウンホールの収容量（ゴールド、エリクサー、ダークエリクサー）が増加します（TH14以上）。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;宝箱から獲得可能な資源の量（ゴールド、エリクサー、ダークエリクサー）が増加します（TH12以上）。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;一部の施設とトラップのアップグレード価格が減額されます（同じタウンホールレベルで2回以上アップグレード可能なもの）。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;b&gt;新レベル&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;一部の施設とトラップに新レベルが追加されます。アップグレードが捗りますね！&lt;/p&gt;&lt;p&gt;ヘイストの呪文：レベル6&lt;/p&gt;&lt;p&gt;アーチャー：レベル13
+ヒーラー：レベル10
+P.E.K.K.A：レベル12
+ディガー：レベル11
+ボウラー：レベル9
+突破工房：レベル8
+巨大クロスボウ：レベル12
+かくしテスラ：レベル16
+投石機：レベル6
+迫撃砲：レベル17
+メタルパンツ：レベル1～18
+ユニットランチャー：レベル1～4
+ポイズンの呪文：レベル11
+巨大クロスボウ（スーパーチャージ）：レベル1～2
+かくしテスラ（スーパーチャージ）：レベル1～2
+投石機（スーパーチャージ）：レベル1～2
+迫撃砲（スーパーチャージ）：レベル1～2
+25％の壁：レベル18
+マルチギアタワー：レベル1～2&lt;/p&gt;&lt;h2&gt;&lt;b&gt;快適性の向上&lt;/b&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;戦力ビューが改善され、レイアウトエディタで再度有効化されました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;障害物の除去に大工が必要なくなりました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;造幣所での作業がキャンセル可能になりました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;フレンドリー・チャレンジとレジェンドリーグのクランの城のユニット（防衛）を、クランの城に現在いるユニットにかかわらず、自由に設定できるようになります。防衛ユニットに通常の寄付の上限が適用されるようになります。さらに防衛ユニットは到達可能な最高レベルになります。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;b&gt;バランス調整&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;最新アップデートでは2月のバランス調整も行われます。詳細は&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupercell.com%252Fen%252Fgames%252Fclashofclans%252Fja%252Fblog%252Fnews%252Fbalancechange-hero-equipment%252F')"&gt;こちら&lt;/a&gt;からご覧ください。&lt;/p&gt;&lt;h2&gt;&lt;b&gt;その他の変更点&lt;/b&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;古参クラン向けにマッチメイキングを調整しました。施設のアップグレード数が現在の都ホールレベルの基準値に到達していなくても、適正な対戦相手が選ばれるようになります。マッチメイキングの際、対象クランの施設のアップグレード数は、現在の都ホールレベルに必要な最小数まで引き下げられます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;リーグショップでリーグメダルを使ってヒーローの装備を購入できるようになります。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;新しい装備がショップに追加されると、「NEW」のマークが表示されるようになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;リーグショップで、購入できないアイテムのグレー表示を廃止し、価格が赤く表示されるようになりました。最低リーグ条件を満たしていない場合でも、アイテムはグレー表示されません。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゴブリンキングのビジュアルがアップデートされました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;設定画面に「宝箱ドロップ率」情報ページへのアクセスボタンを追加しました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;&lt;b&gt;バグ修正&lt;/b&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;クランの都でスケルトンラッシュの呪文を使用して最後のユニットが倒されると、バトルが途中で終了する問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ゲーム起動時の「同意」ポップアップの音量を抑えました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「連続クリアイベント」の最初のタスクが、前回のイベントに参加していた場合、自動的に完了扱いとなる問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;クランの都におけるクールダウン時間の誤りを修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;見習い大工をヒーローホールのアップグレードに派遣すると、その後のヒーローのアップグレードにもブーストが適用される問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;フェニックスの卵が壁にめり込む問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;攻撃終了後、ウルトラレア背景のカメラのスクロールに発生する問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;通知の遅延、不完全、不一致を含む複数の通知関連の問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;クランの都の「ジャンプの呪文」の範囲に関するビジュアル上の誤りを修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;他のプレイヤーのプロフィールを選択すると、自分のプレイヤープロフィールに何も表示されない問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「ファイア」のヒーロースキンのサイズを、ヒーローホールの画面に合わせて調整しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ヒーローホールからペット小屋を選択すると、情報画面がペット小屋の画面の後ろに表示される問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;クラン対戦の戦闘終了画面で、ヒーローの情報ボタンを選択しても情報が表示されない問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;バトルに投入したフェニックスがヒーローに向かって移動している際、「リバイブの呪文」が作用しない問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ヒーローホールのチュートリアルを途中でキャンセルできる問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;クランの必要タウンホールレベルが増加した場合、クラン検索画面でタウンホールレベルのフィルター制限に誤りが発生する問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;見習い大工により短縮される時間が実際より多く表示される問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;大工の拠点の上位プレイヤーのマッチメイキングの問題（対戦相手が見つからない）を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;チャレンジステージの進行でシングルプレイの達成項目がアンロックされる問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Google Play GamesのPC版において、作業および研究の提案画面でマウスのスクロール機能が使用可能になりました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;情報ボタンが改善され、タウンホールレベル17の防衛設備の増加後の毎秒ダメージが表示されるようになりました（ハードモード）。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;メンテナンス中断後、パワーおよびヒーローブーストが再開しない問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「チーフの歩み」画面から建物をアップグレードすると、誤ったエメラルド購入確認ポップアップが表示される問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;アンケートで操作を行わずにいると、退出させられる問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;取り消しポップアップのテキストの誤りを修正しました。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;最新アップデートを存分にお楽しみください！&lt;/p&gt;&lt;p&gt;クラッシュ・オブ・クランチーム一同&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/4pCd6tB0xNNyVSNQvvBnwW"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7rHZJoIapnMIDikELtwEYy/a57c8c014f74855fe781041add93c573/1920x1080_E.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2025-02-10T10:00:03+00:00</published>
   </entry>
 </feed>

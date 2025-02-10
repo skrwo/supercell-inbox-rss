@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-eventEntries-id</id>
   <title>Clashofclans - Event</title>
-  <updated>2025-02-10T09:34:10.159544+00:00</updated>
+  <updated>2025-02-10T10:38:58.342356+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -25,5 +25,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4OSQaj0SfOzhOFRUrvGYbe/f67ff371a05a3eca722b190dd415d0c9/CoC_SC023_LNY25_ID_860x1320_Still_Inbox_v04_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/b8ppBmzxnps"/>
     <published>2025-02-01T08:04:26+00:00</published>
+  </entry>
+  <entry>
+    <id>633ieYcywPri5EjSZAyMzT</id>
+    <title>🗞️</title>
+    <updated>2025-02-10T10:28:36.674000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/ijuRhM9QbS4"&gt;👉Tonton Sekarang!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5B6IX3Z0ygnNOkua4SfBJ2/d55d799dab73c65bebb9d1bcd51c8114/CAROUSEL-FEBUPDATE-ID.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/ijuRhM9QbS4"/>
+    <published>2025-02-10T10:11:05+00:00</published>
   </entry>
 </feed>

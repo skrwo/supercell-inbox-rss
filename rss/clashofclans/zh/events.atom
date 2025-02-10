@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-eventEntries-zh</id>
   <title>Clashofclans - Event</title>
-  <updated>2025-02-10T09:34:09.151819+00:00</updated>
+  <updated>2025-02-10T10:38:59.465425+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -55,5 +55,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7AJ7TACMzDwXLppZtStI5G/2e076c09f4fdfe7c6334dd013fd9be1d/tw_20250201_LNY25_CT_860x1320_banner.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/yfh-vcsOrSI?si=wwHQVDFF3hMLT7-q"/>
     <published>2025-02-01T08:04:26+00:00</published>
+  </entry>
+  <entry>
+    <id>633ieYcywPri5EjSZAyMzT</id>
+    <title>2月更新來囉！</title>
+    <updated>2025-02-10T10:28:36.674000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/laB_cIDol4A"&gt;👉立即觀看!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8vIbWOd7AOTOCDwERsHH3/d5aae6ce50020762b904c52740955adf/FEBUPDATE-OTHERLAN.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/laB_cIDol4A"/>
+    <published>2025-02-10T10:11:05+00:00</published>
   </entry>
 </feed>

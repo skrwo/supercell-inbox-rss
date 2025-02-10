@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-eventEntries-ko</id>
   <title>Clashofclans - Event</title>
-  <updated>2025-02-10T09:34:13.635431+00:00</updated>
+  <updated>2025-02-10T10:38:57.748454+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Event</subtitle>
@@ -45,5 +45,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6FjU2DZj8x7R2KeIOzyaeF/a82b2ebd27c52f37065f3dd75435347d/CoC_SC023_LNY25_KO_860x1320_Still_Inbox_v04_NJ_eyestorm.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/bxeGQfC4ONo"/>
     <published>2025-02-01T08:04:26+00:00</published>
+  </entry>
+  <entry>
+    <id>633ieYcywPri5EjSZAyMzT</id>
+    <title>🗞️</title>
+    <updated>2025-02-10T10:28:36.674000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/1kU_CqaMxao"&gt;👉지금 시청하기!👈&lt;/a&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2M3qD71q7b397loz4fQlSV/48fe0da79485adf99ba8a495489b991b/0210_COC_Feb-YT-thumb_860x1320__KR.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/1kU_CqaMxao"/>
+    <published>2025-02-10T10:11:05+00:00</published>
   </entry>
 </feed>
