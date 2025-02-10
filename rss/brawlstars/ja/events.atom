@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-eventEntries-ja</id>
   <title>Brawlstars - Event</title>
-  <updated>2025-02-10T08:38:41.148248+00:00</updated>
+  <updated>2025-02-10T09:33:48.916135+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -37,35 +37,6 @@
     <published>2024-12-08T15:41:22+00:00</published>
   </entry>
   <entry>
-    <id>5sOEScsV2IGAh3OnPYzLd</id>
-    <title>🗞️</title>
-    <updated>2024-12-12T02:15:26.593000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://www.youtube.com/watch?v=sxNpNqCVhJY"&gt;👉見る！👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7k7X0N1a68xHsiv8I6F1Qb/17b372b9f490f8989f2f8ca55a7cfad2/1211_Toy_Story_Animation_carousel_800x1161.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=sxNpNqCVhJY"/>
-    <published>2024-12-11T13:06:04+00:00</published>
-  </entry>
-  <entry>
-    <id>2aRRlkrghIv3Orxxxn4LQb</id>
-    <title>🗞️</title>
-    <updated>2025-01-08T11:01:56.435000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://www.youtube.com/watch?v=0Evdlz9b3O8"&gt;👉観る👈&lt;/a&gt; -- &lt;a href="https://brawlstars.inbox.supercell.com/#/ja/news/58PXswgjyh5AjJP1V5omDx"&gt;👉既読👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6PBE9xzWwVa1NTfwhTLBLK/416554141073d38b48675d4c2980236d/0102_Pizza_Planet_Event_carousel_800x1161_v1.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <published>2025-01-02T09:01:19+00:00</published>
-  </entry>
-  <entry>
-    <id>7FilwlPkBU454FDwVM72Sj</id>
-    <title>🗞️</title>
-    <updated>2025-01-09T08:06:25.360000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://www.youtube.com/watch?v=lnHJpTMnB4g"&gt;👉観る👈&lt;/a&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7Es1f06ZMDcUcZoZQ1KB7g/2c5f57f6e285e591b5046075ed8fda93/0108_Meeple_Animation_Launch_carousel_800x1131.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=lnHJpTMnB4g"/>
-    <published>2025-01-09T07:19:09+00:00</published>
-  </entry>
-  <entry>
     <id>4J1OjyZ53m2q7AQLzniVtW</id>
     <title>🗞️</title>
     <updated>2025-01-22T02:15:52.711000+00:00</updated>
@@ -93,5 +64,38 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3yYygWfjklNwEckDeKRJyR/4f7ac5a4403d5ab09143b39155259f2a/0204_Good_randoms_pop-up_800x1161_v2.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=GjIfcflw37w"/>
     <published>2025-02-06T09:01:39+00:00</published>
+  </entry>
+  <entry>
+    <id>7qPPG69EByxUh2VIPjZPpg</id>
+    <title>ボウの運命の恋人探し！</title>
+    <updated>2025-02-10T08:53:16.275000+00:00</updated>
+    <content>&lt;h1&gt;ボウの運命の恋人探し！&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ジャッキー&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4r9dfcytInxKK3Lnzgc2aF/25eca1ffb7714e8006daab03900bff5e/jacky.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;チャーリー&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6H46yyJoNspqT1jyZnuhw3/9f33bde72fd5c616565d33ab07c202a1/charlie.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Zmd6C3D2B2imaTAvHi80Z/43e818dc632dc297c1bde1f1a918d1af/Bo-Valentine-800x1161_vote.jpg?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2025-02-10T08:52:02+00:00</published>
+  </entry>
+  <entry>
+    <id>7tqlickrkqrHfrQ3pHXXvF</id>
+    <title>報酬のアンロック：</title>
+    <updated>2025-02-10T09:17:20.264000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 10.00%&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3ymKaoD5Kf75s5AsvQCQR8/420a0b89acee4cd1e12d1568a16e6eb5/02_heart_MORTIS_VS_MELODIE_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4115rEpEm6qGwvHskRW0Wb/3fbc8cabd4c3199d3b34ea113768ac4a/03_rewards_100__Mastery_bonus_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5hJhxVMQMII1xLeqUepSt1/e588bfd2d72e648b8a0375f5b5df11ec/02_heart_PIPER_VS_RICO_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2j2a2z9GoBJQzfIhuVUrRO/267175bf3ca3ed75b669862b2a61fe66/03_rewards_Double_Starr_Drops_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/nDteHiZbd7Y0j5TRLLWYJ/61e7d5b2d4af30f1a0910d1b5c3f9cff/02_heart_ANGELO_VS_AMBER_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7KXADDcpZHIFORfndq48ra/2f875994489bfe36cde272e4a9fe4efb/03_rewards_50__Mastery_bonus_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1TSBLCQMItRqWpqSxOQrLk/2df9ecc85afc98ca2130eba27fb9116c/02_heart_MANDY_VS_LOLA_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/39uXaxsCM8gfs399Lc7nN8/cc11f040d7f60094c6a3c206efac6fa2/03_rewards_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2rpvYVpDOQtI8rZTnlBSP1/cb87ed0a1ef748cc0cfc894e58ba1552/02_heart_JACKY_VS_CHARLIE_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;a href="None"&gt;👉投票！👈&lt;/a&gt; -- &lt;a href="https://youtu.be/jdX5xwV829s"&gt;👉Watch👈&lt;/a&gt;</content>
+    <published>2025-02-10T08:52:29+00:00</published>
   </entry>
 </feed>
