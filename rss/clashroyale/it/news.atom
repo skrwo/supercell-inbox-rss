@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>clashroyale-newsEntries-it</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-10T13:35:57.275010+00:00</updated>
+  <updated>2025-02-10T14:35:22.699361+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -488,5 +488,15 @@ Aumentati del 6% (da 242 punti a 256)&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4l9UaPrfpu2XPJZgEKQlqp/1cd01aca86c516cff45a7a1249eff4c5/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Note di rilascio"/>
     <published>2025-02-04T10:00:32+00:00</published>
+  </entry>
+  <entry>
+    <id>7Mte2Oy4I6CXqLIRC5Y4Sv</id>
+    <title>How am I supposed to live without you (video musicale ufficiale)</title>
+    <updated>2025-02-10T14:30:31.525000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/it/news/7Mte2Oy4I6CXqLIRC5Y4Sv"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ydlGaq9AcK1eCv0RiKmh2/7f099c5433d987e47fb0d7bbf917e98b/KV-16-9-300-ppi-16-bit.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=NaiRtGN-KP4"/>
+    <category term="Community"/>
+    <published>2025-02-08T07:45:27+00:00</published>
   </entry>
 </feed>
