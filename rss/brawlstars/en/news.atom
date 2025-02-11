@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2025-02-11T21:29:52.239844+00:00</updated>
+  <updated>2025-02-11T22:34:42.927211+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -308,5 +308,15 @@ Each MF for February will take place on:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;E
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4wCk2anfRwmirgess0zMZB/5ce0c5c86d13a65bed42c60c65155522/0207_Brawlentines__Community_Event__inbox_800x433_v2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2025-02-10T08:55:38+00:00</published>
+  </entry>
+  <entry>
+    <id>63228Ho6yAQqw4uPk2ZyZR</id>
+    <title>Brawl Stars merch is back! Pre-order NOW!</title>
+    <updated>2025-02-11T21:38:01.825000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/63228Ho6yAQqw4uPk2ZyZR"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4BRPbRNvhHmV4JehBjlKg9/1f1ed3160bb5180f0c1b87bea0554f0b/0210_Youtooz_Launch__BS_Collectibles__800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtooz.com/collections/brawl-stars"/>
+    <category term="News"/>
+    <published>2025-02-11T21:31:54+00:00</published>
   </entry>
 </feed>
