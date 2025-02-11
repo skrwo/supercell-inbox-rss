@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2025-02-11T07:29:07.675789+00:00</updated>
+  <updated>2025-02-11T08:38:39.129596+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -264,5 +264,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Eventos"/>
     <published>2025-02-09T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5nmgDKthtRSKRcwWcauL9n</id>
+    <title>Participa en el festival de diseños</title>
+    <updated>2025-02-11T08:28:51.500000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/5nmgDKthtRSKRcwWcauL9n"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/EV38C6rC7rhUxivn5zwwZ/6a4cc408e7cdfd7daf837bc60a043590/HD_DecoEvent_FEB25_Thumbnail_03__1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/xAj-cpJ6cqQ"/>
+    <category term="Noticias"/>
+    <published>2025-02-11T08:04:28+00:00</published>
   </entry>
 </feed>
