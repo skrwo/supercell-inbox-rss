@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>brawlstars-esportNewsEntries-de</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-11T17:33:40.079663+00:00</updated>
+  <updated>2025-02-11T18:39:33.719426+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -46,5 +46,21 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2K500Manqvcxn9zi3K7oD0/8935ab932c916e1fefeff558eff3b351/Gkr2025-thumbnail-brawlstars.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2025-02-07T17:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>FQvPYsM6zKroOsOGQBMpL</id>
+    <title>EMEA Monthly Finals Watch Party - Live aus Köln!</title>
+    <updated>2025-02-11T18:07:20.281000+00:00</updated>
+    <content>&lt;p&gt;Sei dabei!
+Wir feiern das &lt;b&gt;erste Monthly Final des Jahres!&lt;/b&gt;
+
+Triff unser Brawl Stars Team hautnah und genieße die Matches live aus unserer Magenta Facility in Köln!
+
+&lt;b&gt;Wann:&lt;/b&gt; 16. Februar, um 13:00 Uhr
+&lt;b&gt;Wo:&lt;/b&gt; SK Gaming Magenta Facility, Eupener Str. 67, 50933 Köln&lt;/p&gt;
+&lt;a href="https://www.eventbrite.de/e/brawl-stars-emea-february-monthly-finals-watchparty-tickets-1234541178899"&gt;👉Tickets Hier!👈&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/30o7dqklqtyYVqNF5Z498O/07d57a82ba6823ceea5aeb6e1ebd15ab/image.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Esports"/>
+    <published>2025-02-11T18:07:20+00:00</published>
   </entry>
 </feed>
