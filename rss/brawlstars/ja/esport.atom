@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-12T12:54:27.567204+00:00</updated>
+  <updated>2025-02-12T13:35:15.672112+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -23,5 +23,14 @@
     <link href="https://www.youtube.com/watch?v=P4hsL5_kbwg"/>
     <category term="ビデオ"/>
     <published>2025-01-30T17:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>4Z3EVpJPzcuBMy6MSX2ZSB</id>
+    <title>ZETA DIVISION ブロスタ チャンピオンシップ 2025・ロースター発表！</title>
+    <updated>2025-02-12T13:18:57.315000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/12YS1I5lqdiK3L44cNy01S/0dd79929cd61ce7bf5dd8a45f446a96d/ZETA_ANNOUNCE_BRAWLSTARS_250207-1.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=MQgHtTIvlSk"/>
+    <category term="新着"/>
+    <published>2025-02-07T16:32:43+00:00</published>
   </entry>
 </feed>
