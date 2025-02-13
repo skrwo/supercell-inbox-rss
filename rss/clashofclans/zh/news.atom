@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-13T07:29:25.274750+00:00</updated>
+  <updated>2025-02-13T08:38:27.069113+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -545,10 +545,10 @@
 如果還沒有的話，在剩下不多的挑戰時間裡，
 可以看看&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜&lt;/a&gt;與&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;金雄&lt;/a&gt;的通關路線和解法說明唷！
 相信一定能找到適合的通關方式獲取獎勵！&lt;/p&gt;
-&lt;h3&gt;&lt;b&gt;靈蛇歸家&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;靈蛇歸家&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
 &lt;a href="https://www.youtube.com/watch?v=IxRMgUcqPmY"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;a href="https://www.youtube.com/watch?v=kECOaAGfLws"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
-&lt;h3&gt;&lt;b&gt;天際對決&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;天際對決&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
 &lt;a href="https://www.youtube.com/watch?v=c7NFbxGAync"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;a href="https://www.youtube.com/watch?v=R4ydGn4RCkU"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
 &lt;p&gt;同場加映！
@@ -559,5 +559,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2tcWD5HeaKH9KFFXj7i3cD/c75802f8c7638ccc6990280d76480e98/tw_20250213_Feb_Challenge_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-02-13T02:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4lL5WazFiSV57w5Onra7Nx</id>
+    <title>愛心增援情人節活動</title>
+    <updated>2025-02-13T08:31:18.078000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/4lL5WazFiSV57w5Onra7Nx"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5YHuSDVfg5WJIIvC4gOqZJ/5c2843851e7e7a5b72ebbeee2411d9c5/tw_20250213_Gift-Giver-Event.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/bf_-AMq3VTY"/>
+    <category term="最新情報"/>
+    <published>2025-02-13T07:29:49+00:00</published>
   </entry>
 </feed>
