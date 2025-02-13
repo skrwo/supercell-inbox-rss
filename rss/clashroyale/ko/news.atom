@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-13T09:32:49.861081+00:00</updated>
+  <updated>2025-02-13T10:38:07.054293+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -23,16 +23,6 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2f59VKUi1PuU1DkWdgxzbK/0d179a3dc05d00599c106778d1918960/CR-Roadmap-2024-960x563_KR.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="새 소식"/>
     <published>2023-12-01T08:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>6JveQddMRtOnHCm5SvpUQW</id>
-    <title>대포 진화가 등장했습니다!</title>
-    <updated>2024-11-15T12:05:32.650000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/6JveQddMRtOnHCm5SvpUQW"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bLmWQUQp0KA55kd0Y4le8/3109fd16df18fe65a171d99d99694260/Illustration_CannonEvoLaunch_MusketsAtDawn.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/bPjT5bTbNdU?si=Nbuo8dpgg1vibbaG"/>
-    <category term="하이라이트"/>
-    <published>2024-11-15T10:00:03+00:00</published>
   </entry>
   <entry>
     <id>2uwRSvIyOURY4iZrPaMLUT</id>

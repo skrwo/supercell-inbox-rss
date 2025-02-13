@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-13T09:32:51.011213+00:00</updated>
+  <updated>2025-02-13T10:38:06.183710+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>6JveQddMRtOnHCm5SvpUQW</id>
-    <title>Cannon Evolution is out!</title>
-    <updated>2024-11-15T12:05:32.650000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/6JveQddMRtOnHCm5SvpUQW"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3bLmWQUQp0KA55kd0Y4le8/3109fd16df18fe65a171d99d99694260/Illustration_CannonEvoLaunch_MusketsAtDawn.png?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/shorts/BqcmWJERwWk"/>
-    <category term="Highlights"/>
-    <published>2024-11-15T10:00:03+00:00</published>
-  </entry>
   <entry>
     <id>2uwRSvIyOURY4iZrPaMLUT</id>
     <title>It's about to get cold...</title>
@@ -499,7 +489,7 @@ Win an exclusive Emote!&lt;/p&gt;
   <entry>
     <id>5ewjP2wnq6n9Zxn1Tuud6B</id>
     <title>Balance Changes &amp; 2v2 Ladder Bug Fix</title>
-    <updated>2025-02-13T06:29:02.433000+00:00</updated>
+    <updated>2025-02-13T10:28:13.232000+00:00</updated>
     <content>&lt;h1&gt;Balance Changes&lt;/h1&gt;
 
 &lt;h1&gt;Berserker&lt;/h1&gt;
