@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-communityEntries-ar</id>
   <title>Hayday - Community</title>
-  <updated>2025-02-13T17:30:53.374068+00:00</updated>
+  <updated>2025-02-13T18:40:50.486353+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Community</subtitle>
   <entry>
     <id>5Wr7Tha5THnqrt2a7PoOvo</id>
     <title>سلسلة من الصفر 2025# صعدت ثلاث مستويات وانفتحت عندي اشياء جديدة Hay Day</title>
-    <updated>2025-02-13T17:30:53.374161+00:00</updated>
+    <updated>2025-02-13T18:40:50.486481+00:00</updated>
     <author>
       <name>TheGoodfather</name>
     </author>
@@ -20,12 +20,23 @@
   <entry>
     <id>6dAyT7xv2Bz5zHCu1EfeiG</id>
     <title>صعدت مستوى 207 وتكلمت عن امر مهم عن مزرعة #gordonramsay</title>
-    <updated>2025-02-13T17:30:53.374103+00:00</updated>
+    <updated>2025-02-13T18:40:50.486444+00:00</updated>
     <author>
       <name>TheGoodfather</name>
     </author>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6VjIRh3fU40pnpqr6NRGqV/8540fcd2d27ecd0e76c14b83173f2dc6/thumbnail-1737222921073?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=NOz_iW-e-84"/>
     <published>2025-01-18T17:55:27+00:00</published>
+  </entry>
+  <entry>
+    <id>4WNgzopkBJQMpGwd8I4p01</id>
+    <title>صعدت مستوى 211 وارسلت التصميم Hay Day</title>
+    <updated>2025-02-13T18:40:50.486389+00:00</updated>
+    <author>
+      <name>TheGoodfather</name>
+    </author>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/20gjgf60c1YekKZJXgDrwJ/59f312bac8ab4dad40320ee3b273060b/thumbnail-1739470857899?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Zo5CGzu-zeg"/>
+    <published>2025-02-13T18:21:04+00:00</published>
   </entry>
 </feed>
