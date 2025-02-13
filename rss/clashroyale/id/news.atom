@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-13T03:36:48.420576+00:00</updated>
+  <updated>2025-02-13T04:37:39.535019+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -447,5 +447,25 @@ Menangkan Emote eksklusif!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4l9UaPrfpu2XPJZgEKQlqp/1cd01aca86c516cff45a7a1249eff4c5/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Catatan Rilis"/>
     <published>2025-02-04T10:00:32+00:00</published>
+  </entry>
+  <entry>
+    <id>5ewjP2wnq6n9Zxn1Tuud6B</id>
+    <title>Perubahan Keseimbangan dan Perbaikan Bug untuk Tangga 2v2</title>
+    <updated>2025-02-13T04:18:44.646000+00:00</updated>
+    <content>&lt;h1&gt;Perubahan Keseimbangan&lt;/h1&gt;
+
+&lt;h1&gt;Si Garang&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cmkxSBGXCiu98jxkuvdkI/755f5fdbb6e8660dfaea5df77e95d7d8/berserker.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kecepatan Serangan&lt;/b&gt;&lt;/p&gt;&lt;p&gt;0,6dtk → 0,5dtk&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kerusakan per Detik&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+20%&lt;/p&gt;
+&lt;p&gt;Si Garang ternyata masih lebih lemah dari yang kami duga. Oleh karena itu, kami akan meningkatkan Kecepatan Serangannya sebesar 0,1 detik. Perubahan ini akan meningkatkan Kerusakan per Detik dan menjadikannya kompetitor yang lebih tangguh di Arena.&lt;/p&gt;
+&lt;h1&gt;Evolusi Penebang&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5my1YrmlykboVB27vyuhe8/8e25297594bb7f1f0d41d9d16549007b/lumberjackevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Masa “hidup” Hantu Penebang tidak dapat diperpanjang oleh Mantra Amarah.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kami telah menerima banyak masukan terkait kombinasi Evolusi Penebang dan Mantra Amarah yang banyak digunakan di Arena Trofi tinggi dan juga di Jalur Legenda. Di luar dugaan kami, kombinasi ini terasa terlalu kuat.&lt;/p&gt;&lt;p&gt;Supaya ini tidak menjadi masalah yang lebih besar terutama di mode Tangga 2v2 (di mana pemain bisa menyusun strategi Mantra untuk memperpanjang masa hidup Hantu tanpa batas), kami memutuskan untuk menyingkirkan interaksi ini. Mulai sekarang, masa hidup Hantu Penebang tidak dapat diperpanjang oleh Mantra Amarah.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Tangga 2v2&lt;/h1&gt;
+&lt;p&gt;Masalah di mana jenis Peti hadiah tidak disegarkan setelah tiap game sehingga pemain berulang kali menerima jenis Peti yang sama kini telah diperbaiki.&lt;/p&gt;&lt;p&gt;Setelah perbaikan ini, kamu bisa melanjutkan progres Tangga 2v2 dari titik terakhir saat mode ini kembali online. Jika kamu menerima Lencana yang salah, kami akan memperbaruinya saat Tangga berakhir. Sebagai kompensasi atas jeda ini, kami akan memperpanjang waktu Tangga 2v2 hingga 25 Februari.&lt;/p&gt;&lt;p&gt;Sampai jumpa di Arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Tim Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/5ewjP2wnq6n9Zxn1Tuud6B"/>
+    <category term="Catatan Rilis"/>
+    <published>2025-02-11T08:17:33+00:00</published>
   </entry>
 </feed>
