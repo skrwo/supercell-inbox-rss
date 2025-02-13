@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-13T02:58:13.877891+00:00</updated>
+  <updated>2025-02-13T03:36:51.909492+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -534,5 +534,30 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7rHZJoIapnMIDikELtwEYy/a57c8c014f74855fe781041add93c573/1920x1080_E.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-02-10T10:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>1rKLkZsYXmNKHczVkdnEJM</id>
+    <title>2月挑戰攻略</title>
+    <updated>2025-02-13T03:30:46.344000+00:00</updated>
+    <content>&lt;p&gt;首領們，大家好！
+
+靈蛇歸家與天際對決的挑戰，大家都順利通關了嗎？
+如果還沒有的話，在剩下不多的挑戰時間裡，
+可以看看&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540turtle_coc%253Fsub_confirmation%253D1')"&gt;烏龜&lt;/a&gt;與&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ytb-kaneo%253Fsub_confirmation%253D1')"&gt;金雄&lt;/a&gt;的通關路線和解法說明唷！
+相信一定能找到適合的通關方式獲取獎勵！&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;靈蛇歸家&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=IxRMgUcqPmY"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=kECOaAGfLws"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h3&gt;&lt;b&gt;天際對決&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=c7NFbxGAync"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=R4ydGn4RCkU"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;同場加映！
+阿德老師也有錄製2個挑戰的影片，
+有興趣的話，請到&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540derderteacher%253Fsub_confirmation%253D1')"&gt;他的頻道&lt;/a&gt;看看唷！
+&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1rKLkZsYXmNKHczVkdnEJM"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2tcWD5HeaKH9KFFXj7i3cD/c75802f8c7638ccc6990280d76480e98/tw_20250213_Feb_Challenge_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2025-02-13T02:00:00+00:00</published>
   </entry>
 </feed>
