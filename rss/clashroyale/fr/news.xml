@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 13 Feb 2025 01:56:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 02:58:07 +0000</lastBuildDate>
     <item>
       <title>Le canon évolué est là !</title>
       <link>https://youtube.com/shorts/BqcmWJERwWk</link>
@@ -432,6 +432,25 @@ Gagnez une émote exclusive !&lt;/p&gt;
       <category>Communauté</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ydlGaq9AcK1eCv0RiKmh2/7f099c5433d987e47fb0d7bbf917e98b/KV-16-9-300-ppi-16-bit.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Sat, 08 Feb 2025 07:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Équilibrages et correction de bug (classé 2c2)</title>
+      <link>https://clashroyale.inbox.supercell.com/#/fr/news/5ewjP2wnq6n9Zxn1Tuud6B</link>
+      <description>&lt;h1&gt;Changements d'équilibrage&lt;/h1&gt;
+
+&lt;h1&gt;Berserker&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cmkxSBGXCiu98jxkuvdkI/755f5fdbb6e8660dfaea5df77e95d7d8/berserker.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vitesse de frappe&lt;/b&gt;&lt;/p&gt;&lt;p&gt;0,6 sec → 0,5 sec&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dégâts par seconde&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+20 %&lt;/p&gt;
+&lt;p&gt;La berserker s&amp;#39;est avérée plus faible que ce que nous avions prévu, alors nous augmentons sa vitesse de frappe de 0,1 seconde. Cela augmentera ses dégâts par seconde et la rendra plus utile dans l&amp;#39;arène.&lt;/p&gt;
+&lt;h1&gt;Bûcheron évolué&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5my1YrmlykboVB27vyuhe8/8e25297594bb7f1f0d41d9d16549007b/lumberjackevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;La forme fantomatique du bûcheron ne peut plus être prolongée par un sort de rage.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nous avons reçu de nombreux retours sur la combinaison du bûcheron évolué et du sort de rage dans les arènes supérieures et dans le Hall des légendes. Elle rend le bûcheron évolué très, très puissant.&lt;/p&gt;&lt;p&gt;Pour empêcher les joueurs d&amp;#39;abuser de cette stratégie, surtout en classé 2c2 où deux joueurs pourraient coordonner leurs sorts et prolonger la forme fantomatique du bûcheron indéfiniment, nous avons décidé de supprimer cette interaction. À présent, la forme fantomatique du bûcheron ne peut plus être prolongée par un sort de rage.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Classé 2c2&lt;/h1&gt;
+&lt;p&gt;Nous avons corrigé un bug à cause duquel le type des coffres n&amp;#39;était pas réinitialisé après chaque combat, et les joueurs recevaient le même type de coffre plusieurs fois d&amp;#39;affilée.&lt;/p&gt;&lt;p&gt;Une fois le mode classé 2c2 à nouveau disponible, vous allez pouvoir continuer votre progression là où vous vous êtes arrêtés,. Si vous avez reçu un mauvais badge, nous le mettrons à jour à la fin de l&amp;#39;événement. Pour compenser le temps de maintenance, nous prolongeons l&amp;#39;événement jusqu&amp;#39;au 25 février.&lt;/p&gt;&lt;p&gt;À bientôt dans l&amp;#39;arène !&lt;/p&gt;&lt;p&gt;&lt;i&gt;L&amp;#39;équipe de Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5ewjP2wnq6n9Zxn1Tuud6B</guid>
+      <category>Notes de patch</category>
+      <pubDate>Tue, 11 Feb 2025 08:17:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
