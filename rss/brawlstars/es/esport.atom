@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-14T19:28:51.981609+00:00</updated>
+  <updated>2025-02-14T20:32:07.986173+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -41,15 +41,6 @@
     <link href="https://www.youtube.com/watch?v=dOWF6ZXS8QE"/>
     <category term="Video"/>
     <published>2025-01-21T17:10:12+00:00</published>
-  </entry>
-  <entry>
-    <id>3xMD57ZMXkabzKG4jWAJWR</id>
-    <title>Camino a la redención - Una historia de Brawl Stars Esports</title>
-    <updated>2025-01-31T16:49:24.141000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6jILoIHNeNMcpcyR9KsFdX/23c0d5c2a76f5d2602e141fcde333532/ES_Road_To_Redemption_Thumbnail_Ingame.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/aiyRFGnBDcg"/>
-    <category term="Video"/>
-    <published>2025-01-24T17:55:20+00:00</published>
   </entry>
   <entry>
     <id>1G2cv4zIxHtdOvPtIOwBGh</id>
@@ -92,5 +83,14 @@ Antes de inscribirte, asegúrate de:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2K500Manqvcxn9zi3K7oD0/8935ab932c916e1fefeff558eff3b351/Gkr2025-thumbnail-brawlstars.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2025-02-07T17:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3xMD57ZMXkabzKG4jWAJWR</id>
+    <title>Camino a la redención - Una historia de Brawl Stars Esports</title>
+    <updated>2025-02-14T20:15:25.182000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6jILoIHNeNMcpcyR9KsFdX/23c0d5c2a76f5d2602e141fcde333532/ES_Road_To_Redemption_Thumbnail_Ingame.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/aiyRFGnBDcg"/>
+    <category term="Video"/>
+    <published>2025-02-14T08:00:00+00:00</published>
   </entry>
 </feed>

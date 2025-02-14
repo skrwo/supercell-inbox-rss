@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 14 Feb 2025 19:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 20:32:17 +0000</lastBuildDate>
     <item>
       <title>Ferre Cup 2 - Rivedi il giorno 2!</title>
       <link>https://www.youtube.com/live/8qyVrpzApZY?si=g43NInpyM11vi_7K&amp;t=204</link>
@@ -47,14 +47,6 @@
       <category>Video</category>
       <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/43FlJuOd4Gt5S7eJ8VhrU7/a94af8604bff36cf369c6b12242b0cfc/IMG_1766.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Thu, 23 Jan 2025 21:38:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Road To Redemption - Una Storia Esports di Brawl Stars</title>
-      <link>https://youtu.be/aiyRFGnBDcg</link>
-      <guid isPermaLink="false">3xMD57ZMXkabzKG4jWAJWR</guid>
-      <category>Video</category>
-      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4wYhJIFF0MUlArEkZiWqzx/6083690d6bb5744e662bfb13ac519333/BSC_RTR_THUMB_v2-IT.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
-      <pubDate>Fri, 24 Jan 2025 17:55:20 +0000</pubDate>
     </item>
     <item>
       <title>Annuncio Roster NAVI Brawl Stars 2025</title>
@@ -116,6 +108,14 @@
       <category>Esports</category>
       <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7CR6YV8W2dgeViU71YAb8s/1b0ad56172ab8f04077ff291a89cd4d6/HMBLE_thumbnail.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Feb 2025 13:36:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Road To Redemption - Una Storia Esports di Brawl Stars</title>
+      <link>https://youtu.be/aiyRFGnBDcg</link>
+      <guid isPermaLink="false">3xMD57ZMXkabzKG4jWAJWR</guid>
+      <category>Video</category>
+      <enclosure url="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4wYhJIFF0MUlArEkZiWqzx/6083690d6bb5744e662bfb13ac519333/BSC_RTR_THUMB_v2-IT.png?w=800&amp;h=433&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 14 Feb 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

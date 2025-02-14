@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-14T19:28:51.639038+00:00</updated>
+  <updated>2025-02-14T20:32:19.397365+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -12,7 +12,7 @@
     <updated>2024-11-29T19:12:45.191000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2NBwr9w1vTh0k99fgLkjM4/dde8aa1e36b70a275842fb344a0f357d/5bbU0W9AmXA-HD.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/5bbU0W9AmXA?si=3JuznHzufiqoe9AM"/>
-    <category term="Esports"/>
+    <category term="News"/>
     <published>2024-11-29T19:12:45+00:00</published>
   </entry>
   <entry>
@@ -21,7 +21,7 @@
     <updated>2024-12-02T12:13:59.831000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/29cxxfl7P8eVubMC2XZUY6/d652c03b974ec824aef8cdc3d804aa5e/EN_All-Stars-LATAM-Split-2_Sign-ups.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://docs.google.com/forms/d/e/1FAIpQLSfg5PAU3gJj9kRaXOH9A14FmD9a_9M5lfZB6pHzqyfjINHyZA/viewform"/>
-    <category term="Esports"/>
+    <category term="News"/>
     <published>2024-12-02T12:09:37+00:00</published>
   </entry>
   <entry>
@@ -70,15 +70,6 @@
     <published>2025-01-23T21:38:33+00:00</published>
   </entry>
   <entry>
-    <id>3xMD57ZMXkabzKG4jWAJWR</id>
-    <title>Road To Redemption - A Brawl Stars Esports Story</title>
-    <updated>2025-01-31T16:49:24.141000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Uwaz6FYlR63Z8CAtZNYLr/3bf15dbf7d4891af5d9902b4404778c6/v3_opt3.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/aiyRFGnBDcg"/>
-    <category term="Video"/>
-    <published>2025-01-24T17:55:20+00:00</published>
-  </entry>
-  <entry>
     <id>1al1YuFexW9CFVa6cHY010</id>
     <title>Introducing LPL Road to Brawl Cup and Road to LCQ! </title>
     <updated>2025-01-28T11:54:43.586000+00:00</updated>
@@ -120,7 +111,7 @@
     <updated>2025-02-10T10:52:12.952000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3JOO6D5JOCNUsDL1Hx0Wme/962de9e0e25c7c7f49ec50ed728660ab/fut0611.00_01_12_03.still001.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://x.com/FUTesportsgg/status/1887501578665353664"/>
-    <category term="Esports"/>
+    <category term="News"/>
     <published>2025-02-06T18:02:04+00:00</published>
   </entry>
   <entry>
@@ -152,7 +143,34 @@
 &lt;h1&gt;Stay Connected! ⚠️&lt;/h1&gt;
 &lt;p&gt;Make sure to &lt;b&gt;follow @&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252FGkrLeagues')"&gt;&lt;b&gt;&lt;u&gt;GkrLeagues&lt;/u&gt;&lt;/b&gt;&lt;/a&gt; on social media and &lt;b&gt;join their official &lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fdiscord.gg%25252F5aCu7WzbRb')"&gt;&lt;b&gt;&lt;u&gt;Discord server&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;,&lt;/b&gt; the primary communication platform for the tournament. Here, you’ll be able to contact the administrators and get your questions answered as quickly as possible!&lt;/p&gt;</content>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2K500Manqvcxn9zi3K7oD0/8935ab932c916e1fefeff558eff3b351/Gkr2025-thumbnail-brawlstars.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="Esports"/>
+    <category term="News"/>
     <published>2025-02-07T17:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3xMD57ZMXkabzKG4jWAJWR</id>
+    <title>Road To Redemption - A Brawl Stars Esports Story</title>
+    <updated>2025-02-14T20:15:25.182000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Uwaz6FYlR63Z8CAtZNYLr/3bf15dbf7d4891af5d9902b4404778c6/v3_opt3.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/aiyRFGnBDcg"/>
+    <category term="Video"/>
+    <published>2025-02-14T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5Eko4mh4TAnpiQ3IN9e0ut</id>
+    <title>LOUD 2025 Roster Announcement</title>
+    <updated>2025-02-14T20:06:10.992000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7Ex7wY9h7F4p6rWhfU0tM9/2b2e2e2aa452c43932969cc24fcd0616/2025_ROSTER.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/LOUDgg/status/1888352146950938664"/>
+    <category term="News"/>
+    <published>2025-02-14T20:06:10+00:00</published>
+  </entry>
+  <entry>
+    <id>lCX132HqeEujMfNldxARR</id>
+    <title>Team Heretics enters Brawl Stars</title>
+    <updated>2025-02-14T20:12:23.292000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5Hw47OvplIWZnSzXlGv5ZE/6706ea4b88dbda824332be1b9c0ebe14/IMG_3892.jfif?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=GUsJYyGHR5w&amp;ab_channel=TeamHereticsBrawlStars"/>
+    <category term="News"/>
+    <published>2025-02-14T20:12:23+00:00</published>
   </entry>
 </feed>
