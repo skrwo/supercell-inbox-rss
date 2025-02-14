@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-esportNewsEntries-ko</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-14T06:39:57.780422+00:00</updated>
+  <updated>2025-02-14T07:28:57.046045+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -77,5 +77,14 @@
     <link href="https://www.youtube.com/watch?v=-G5-QwNy1Dw"/>
     <category term="동영상"/>
     <published>2025-02-05T10:39:13+00:00</published>
+  </entry>
+  <entry>
+    <id>2SC62f32TDxL5wPZ6HmRJz</id>
+    <title>🎊EVENT🎊 2월 월별 파이널 시청하고 기프트카드 선물 받아가세요! 🎁</title>
+    <updated>2025-02-14T06:58:29.729000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1d6JYIyiotkm2Ov06yO8UB/aa1465b0b988a61660ed4ba284a89e75/0213_BS_MF-event_ollie_800x433_.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://cafe.naver.com/brawlstars/1364967"/>
+    <category term="커뮤니티"/>
+    <published>2025-02-14T06:58:29+00:00</published>
   </entry>
 </feed>
