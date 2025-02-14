@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-14T09:32:03.365340+00:00</updated>
+  <updated>2025-02-14T10:36:54.476040+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -256,5 +256,18 @@ P.E.K.K.A：レベル12
     <link href="https://youtu.be/bf_-AMq3VTY?si=HdF2AnOgSxFXt8Ke"/>
     <category term="ニュース"/>
     <published>2025-02-13T07:29:49+00:00</published>
+  </entry>
+  <entry>
+    <id>6HWoEcGUero2xIZWYvaKKo</id>
+    <title>ハッピーバレンタイン！</title>
+    <updated>2025-02-14T09:34:05.155000+00:00</updated>
+    <content>&lt;h1&gt;Love is in the air!&lt;/h1&gt;
+&lt;p&gt;皆さんがクラクラを愛してくれているのを見ると、インフェルノタワーに焼かれたヤクよりも心が温かくなります！&lt;/p&gt;&lt;p&gt;本当にありがとうございます！💘
+
+フォローして無料報酬を獲得しましょう！&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fx.com%252FClashofClansJP')"&gt;X (旧 Twitter)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fclashofclans%252F')"&gt;Instagram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutube.com%252F%2540clashofclansjapan%253Fsi%253DzBhE63Jto6T3Sp5K')"&gt;YouTube&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.tiktok.com%252F%2540clashofclans')"&gt;TikTok&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.facebook.com%252FClashofClans%252F')"&gt;Facebook&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/6HWoEcGUero2xIZWYvaKKo"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/gdHgPc0BSglAKNcYpwKXg/f2697c46d9cbd248d77bceb4e5bc6904/thumbnail-valentine.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2025-02-13T14:07:00+00:00</published>
   </entry>
 </feed>
