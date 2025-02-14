@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 14 Feb 2025 02:57:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 03:36:31 +0000</lastBuildDate>
     <item>
       <title>Presto farà freddo...</title>
       <link>https://clashroyale.inbox.supercell.com/#/it/news/2uwRSvIyOURY4iZrPaMLUT</link>
@@ -433,6 +433,25 @@ Aumentati del 6% (da 242 punti a 256)&lt;/p&gt;
       <category>Community</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ydlGaq9AcK1eCv0RiKmh2/7f099c5433d987e47fb0d7bbf917e98b/KV-16-9-300-ppi-16-bit.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Sat, 08 Feb 2025 07:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modifiche di bilanciamento e correzione di un errore nelle battaglie classificate 2v2</title>
+      <link>https://clashroyale.inbox.supercell.com/#/it/news/5ewjP2wnq6n9Zxn1Tuud6B</link>
+      <description>&lt;h1&gt;Modifiche di bilanciamento&lt;/h1&gt;
+
+&lt;h1&gt;Berserker&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cmkxSBGXCiu98jxkuvdkI/755f5fdbb6e8660dfaea5df77e95d7d8/berserker.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità dei colpi&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Migliorata a 0,5 secondi (da 0,6).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Danni al secondo&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Aumentati del 20%.&lt;/p&gt;
+&lt;p&gt;La berserker si è rivelata più debole di quanto ci aspettassimo, perciò abbiamo migliorato la velocità dei colpi di 0,1 secondi, aumentando di conseguenza i danni al secondo e rendendola una scelta più valida di prima.&lt;/p&gt;
+&lt;h1&gt;Boscaiolo evoluto&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5my1YrmlykboVB27vyuhe8/8e25297594bb7f1f0d41d9d16549007b/lumberjackevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;La durata del fantasma del boscaiolo non può più essere estesa con l&amp;#39;incantesimo Furia.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Abbiamo ricevuto un sacco di commenti su quanto fosse forte la combinazione tra il boscaiolo evoluto e l&amp;#39;incantesimo Furia sia nel Percorso delle leggende sia nelle arene accessibili con un gran numero di trofei. In effetti, è molto efficace, forse anche un po&amp;#39; troppo.&lt;/p&gt;&lt;p&gt;Per impedire che questa situazione si trasformi in un problema più grosso, soprattutto nelle battaglie classificate 2v2, dove due giocatori possono coordinarsi con gli incantesimi e far rimanere il fantasma nell&amp;#39;arena per un periodo indefinito, abbiamo deciso di rimuovere questa combinazione. Per riassumere, l&amp;#39;incantesimo Furia non può più estendere la presenza del fantasma del boscaiolo.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Battaglie classificate 2v2&lt;/h1&gt;
+&lt;p&gt;Abbiamo risolto un errore per cui i bauli dati in ricompensa non si aggiornavano mai a fine partita, quindi ora i giocatori non riceveranno più ripetutamente lo stesso tipo di baule.&lt;/p&gt;&lt;p&gt;Ora che questo problema non c&amp;#39;è più, potrai riprendere i tuoi progressi da dove li avevi lasciati non appena le battaglie classificate 2v2 saranno nuovamente online. Inoltre, se hai ricevuto un emblema sbagliato, lo aggiorneremo al termine della modalità 2v2, che verrà estesa fino al 25 febbraio per recuperare il tempo in cui non era disponibile.&lt;/p&gt;&lt;p&gt;Ci vediamo nell&amp;#39;arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Il team di Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5ewjP2wnq6n9Zxn1Tuud6B</guid>
+      <category>Note di rilascio</category>
+      <pubDate>Tue, 11 Feb 2025 08:17:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

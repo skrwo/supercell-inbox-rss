@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-14T02:57:21.652696+00:00</updated>
+  <updated>2025-02-14T03:36:31.721120+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -464,5 +464,25 @@
     <link href="https://www.youtube.com/watch?v=NaiRtGN-KP4"/>
     <category term="커뮤니티"/>
     <published>2025-02-08T07:45:27+00:00</published>
+  </entry>
+  <entry>
+    <id>5ewjP2wnq6n9Zxn1Tuud6B</id>
+    <title>밸런스 조정 및 2v2 래더 버그 수정</title>
+    <updated>2025-02-14T03:23:18.289000+00:00</updated>
+    <content>&lt;h1&gt;밸런스 조정&lt;/h1&gt;
+
+&lt;h1&gt;버서커&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cmkxSBGXCiu98jxkuvdkI/755f5fdbb6e8660dfaea5df77e95d7d8/berserker.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;공격 속도&lt;/b&gt;&lt;/p&gt;&lt;p&gt;0.6초 → 0.5초&lt;/p&gt;&lt;p&gt;&lt;b&gt;초당 피해량&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+20%&lt;/p&gt;
+&lt;p&gt;저희 팀이 기대한 것보다 버서커가 아레나에서 힘을 제대로 발휘하지 못하는 것 같아, 버서커의 공격 속도를 기존보다 0.1초 빠르게 조정하였습니다. 이번 변화로 초당 피해량이 증가해 아레나에서 버서커를 상대하기 더 까다로워질 것입니다.&lt;/p&gt;
+&lt;h1&gt;나무꾼 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5my1YrmlykboVB27vyuhe8/8e25297594bb7f1f0d41d9d16549007b/lumberjackevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;나무꾼 유령의 수명이 분노 마법에 의해 연장되지 않습니다.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;전설의 길과 상위 트로피 아레나의 많은 플레이어분들로부터 나무꾼 진화와 분노 마법의 조합이 너무 강력하다는 피드백을 받았습니다. 실제로 두 조합은 저희 팀이 예상한 것보다 훨씬 더 강했습니다.&lt;/p&gt;&lt;p&gt;특히 2v2 래더에서 두 명의 플레이어가 협력해 마법을 사용하여 나무꾼 유령의 수명을 무한정으로 연장할 수 있어, 더 큰 문제로 발전하기 전에 팀은 두 카드의 상호작용을 제거하기로 했습니다. 지금부터 더 이상 나무꾼 유령의 수명이 분노 마법에 의해 연장되지 않습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;2v2 래더&lt;/h1&gt;
+&lt;p&gt;게임마다 보상 상자의 유형이 초기화되지 않고 계속해서 같은 종류의 상자가 제공되던 문제를 수정하였습니다.&lt;/p&gt;&lt;p&gt;수정 완료 후 2v2 래더가 다시 온라인 상태가 되면, 중단했던 곳에서부터 이어서 게임을 진행할 수 있습니다. 혹여 잘못된 배지를 받으신 경우, 래더가 종료된 후에 올바른 배지로 업데이트될 예정입니다. 수정 작업에 걸린 시간을 충당하기 위해, 2v2 래더 이벤트가 2월 25일까지 연장되었습니다.&lt;/p&gt;&lt;p&gt;아레나에서 뵙겠습니다.&lt;/p&gt;&lt;p&gt;&lt;i&gt;클래시 로얄 팀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/5ewjP2wnq6n9Zxn1Tuud6B"/>
+    <category term="새 소식"/>
+    <published>2025-02-11T08:17:33+00:00</published>
   </entry>
 </feed>
