@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>brawlstars-eventEntries-pt</id>
   <title>Brawlstars - Event</title>
-  <updated>2025-02-14T07:28:55.337051+00:00</updated>
+  <updated>2025-02-14T08:37:50.766450+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -37,19 +37,6 @@
     <published>2025-02-06T09:01:39+00:00</published>
   </entry>
   <entry>
-    <id>7qPPG69EByxUh2VIPjZPpg</id>
-    <title>Escolha a cara-metade do Bo!</title>
-    <updated>2025-02-12T09:31:19.014000+00:00</updated>
-    <content>&lt;h1&gt;Escolha a cara-metade do Bo!&lt;/h1&gt;
-📊 [POLL]
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Jacky&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4r9dfcytInxKK3Lnzgc2aF/25eca1ffb7714e8006daab03900bff5e/jacky.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Charlie&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6H46yyJoNspqT1jyZnuhw3/9f33bde72fd5c616565d33ab07c202a1/charlie.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Zmd6C3D2B2imaTAvHi80Z/43e818dc632dc297c1bde1f1a918d1af/Bo-Valentine-800x1161_vote.jpg?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <published>2025-02-10T08:52:02+00:00</published>
-  </entry>
-  <entry>
     <id>7n4wIj1prQAcXdxPazyb6U</id>
     <title>Escolha a cara-metade do Bo!</title>
     <updated>2025-02-12T09:14:03.136000+00:00</updated>
@@ -65,7 +52,7 @@
   <entry>
     <id>7tqlickrkqrHfrQ3pHXXvF</id>
     <title>Recompensas disponíveis em:</title>
-    <updated>2025-02-13T09:18:31.716000+00:00</updated>
+    <updated>2025-02-14T07:35:00.799000+00:00</updated>
     <content>&lt;h1&gt;PROGRESS: 40.00%&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;📌 -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3ymKaoD5Kf75s5AsvQCQR8/420a0b89acee4cd1e12d1568a16e6eb5/02_heart_MORTIS_VS_MELODIE_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
