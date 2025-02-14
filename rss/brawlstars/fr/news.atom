@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-newsEntries-fr</id>
   <title>Brawlstars - News</title>
-  <updated>2025-02-13T23:30:02.445405+00:00</updated>
+  <updated>2025-02-14T01:55:38.542386+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -133,6 +133,16 @@ Nombre moyen de parts de pizza que vous pouvez obtenir gratuitement : 2 000 (ave
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5SVlOoMXobm5o65fbJPQ67/7bb6c7d24faa2df13c61710ac3846b0c/Thumb_800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2025-01-18T11:06:48+00:00</published>
+  </entry>
+  <entry>
+    <id>63228Ho6yAQqw4uPk2ZyZR</id>
+    <title>Les produits dérivés Brawl Stars sont de retour ! Précommandez maintenant !</title>
+    <updated>2025-02-14T00:15:16.751000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/fr/news/63228Ho6yAQqw4uPk2ZyZR"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4BRPbRNvhHmV4JehBjlKg9/1f1ed3160bb5180f0c1b87bea0554f0b/0210_Youtooz_Launch__BS_Collectibles__800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtooz.com/collections/brawl-stars"/>
+    <category term="Nouveautés"/>
+    <published>2025-02-11T21:31:54+00:00</published>
   </entry>
   <entry>
     <id>6Ab2QvT3v8gYYJbXYouxzL</id>
