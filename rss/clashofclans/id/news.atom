@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-14T01:55:52.063454+00:00</updated>
+  <updated>2025-02-14T02:57:24.229344+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -177,5 +177,16 @@ Menara Pilihan Ganda: Level 1-2&lt;/p&gt;&lt;h2&gt;&lt;b&gt;Peningkatan Kualitas
     <link href="https://youtu.be/Bx7FnF66d-g?si=RUgghSQWmsoSVY6-"/>
     <category term="Berita"/>
     <published>2025-02-13T07:29:49+00:00</published>
+  </entry>
+  <entry>
+    <id>6HWoEcGUero2xIZWYvaKKo</id>
+    <title>Selamat Hari Valentine!</title>
+    <updated>2025-02-14T02:32:27.979000+00:00</updated>
+    <content>&lt;h1&gt;Cinta sedang bersemi!&lt;/h1&gt;
+&lt;p&gt;Melihat kalian memainkan game kami membuat kami merasa lebih hangat dan berbulu dari pada Kerbau Perkasa yang terkena serangan Menara Inferno! Kami mencintai kalian semua! 💘&lt;/p&gt;&lt;p&gt;Jangan lupa ikuti kami di media sosial untuk mendapatkan HADIAH GRATIS!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fx.com%252FClashofClans')"&gt;X (Sebelumnya Twitter)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.instagram.com%252Fclashofclans%252F')"&gt;Instagram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540ClashOfClansIndonesia%252Ffeatured')"&gt;YouTube&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.tiktok.com%252F%2540clashofclans')"&gt;TikTok&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.facebook.com%252FClashofClansidofficial%252F')"&gt;Facebook&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/id/news/6HWoEcGUero2xIZWYvaKKo"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/9LSNmBAE4ha7jDlfnWMyX/875c1062a4fb3799bd3f311d87d63f24/thumbnail-valentine.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2025-02-13T14:07:00+00:00</published>
   </entry>
 </feed>

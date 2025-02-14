@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-14T01:55:47.957425+00:00</updated>
+  <updated>2025-02-14T02:57:22.494024+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -316,5 +316,25 @@ Y cuando esté llena, ¡haz una entrega especial!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b
     <link href="https://www.youtube.com/watch?v=NaiRtGN-KP4"/>
     <category term="Comunidad"/>
     <published>2025-02-08T07:45:27+00:00</published>
+  </entry>
+  <entry>
+    <id>5ewjP2wnq6n9Zxn1Tuud6B</id>
+    <title>Ajustes de equilibrio y corrección de errores de la clasificación 2c2</title>
+    <updated>2025-02-14T02:34:46.362000+00:00</updated>
+    <content>&lt;h1&gt;Ajustes de equilibrio&lt;/h1&gt;
+
+&lt;h1&gt;Berserker&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cmkxSBGXCiu98jxkuvdkI/755f5fdbb6e8660dfaea5df77e95d7d8/berserker.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocidad de ataque&lt;/b&gt;&lt;/p&gt;&lt;p&gt;0,6 s → 0,5 s&lt;/p&gt;&lt;p&gt;&lt;b&gt;Daño por segundo&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+20 %&lt;/p&gt;
+&lt;p&gt;La berserker ha terminado siendo más débil de lo que habíamos anticipado, así que vamos a aumentar su velocidad de ataque en 0,1 segundos. Este cambio potenciará su daño de ataque por segundo e incrementará su poderío en la arena.&lt;/p&gt;
+&lt;h1&gt;Evolución del leñador&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5my1YrmlykboVB27vyuhe8/8e25297594bb7f1f0d41d9d16549007b/lumberjackevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;El hechizo de furia ya no alarga la duración de la vida del fantasma del leñador.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Hemos recibido montones de comentarios sobre la excesiva fuerza que posee la combinación de la evolución del leñador y el hechizo de furia en las arenas superiores y en el camino de leyendas. El poder de la combinación superó con creces nuestras expectativas.&lt;/p&gt;&lt;p&gt;Para evitar que el problema vaya a más, sobre todo en la arena 2c2, donde dos jugadores pueden coordinar los hechizos de furia para alargar la vida del fantasma de forma indefinida, hemos decidido eliminar esta interacción. Desde ahora, el hechizo de furia ya no alarga la vida del fantasma de la evolución del leñador.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Clasificación 2c2&lt;/h1&gt;
+&lt;p&gt;Hemos solucionado el error que provocaba que los tipos de los cofres de recompensas no se actualizasen tras cada partida, lo que hacía que los jugadores recibieran el mismo tipo de cofre de forma repetida.&lt;/p&gt;&lt;p&gt;Tras haber resuelto el problema y una vez que vuelva a estar disponible la clasificación 2c2, podrás continuar desde donde lo dejaste. Si has recibido una insignia incorrecta, la actualizaremos cuando termine la clasificación. Para compensar el tiempo que esté desactivada, extenderemos la duración de la clasificación 2c2 hasta el 25 de febrero.&lt;/p&gt;&lt;p&gt;¡Nos vemos en la arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;El equipo de Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/5ewjP2wnq6n9Zxn1Tuud6B"/>
+    <category term="Notas de actualización"/>
+    <published>2025-02-11T08:17:33+00:00</published>
   </entry>
 </feed>

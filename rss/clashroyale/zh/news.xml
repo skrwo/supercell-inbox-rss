@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 14 Feb 2025 01:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 02:57:20 +0000</lastBuildDate>
     <item>
       <title>學牌組好去處！</title>
       <link>https://clashroyale.inbox.supercell.com/#/zh/news/1x62odjI4OkIgZfBs6qQfR</link>
@@ -16,14 +16,6 @@
       <category>攻略</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/38IUailtNMwW0O0IfSDXmu/fec46e7428cc76a8d11035e4fd434a71/tw_20231026_cr_creators_thumb.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Oct 2023 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【NARIE】主宰版本的最猛核心！這張卡簡直離譜！</title>
-      <link>https://www.youtube.com/watch?v=DIT89Hc5tbA</link>
-      <guid isPermaLink="false">2lRYf3WYDlIqq1VHHGnAjm</guid>
-      <category>攻略</category>
-      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3WXacDQkI6DMKab8Bmo71N/778f15a3f1b63b9e41b2c1842a3c5a4e/tw_20241115_narie_video_thumb.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Nov 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【TAOKI】超神主流牌組！進化衛隊桶雙路施壓！</title>
@@ -573,6 +565,25 @@
       <category>社群</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6ydlGaq9AcK1eCv0RiKmh2/7f099c5433d987e47fb0d7bbf917e98b/KV-16-9-300-ppi-16-bit.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Sat, 08 Feb 2025 07:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>平衡性調整和2v2天梯問題修復</title>
+      <link>https://clashroyale.inbox.supercell.com/#/zh/news/5ewjP2wnq6n9Zxn1Tuud6B</link>
+      <description>&lt;h1&gt;平衡性調整&lt;/h1&gt;
+
+&lt;h1&gt;狂戰士&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cmkxSBGXCiu98jxkuvdkI/755f5fdbb6e8660dfaea5df77e95d7d8/berserker.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;攻擊速度&lt;/b&gt;&lt;/p&gt;&lt;p&gt;從0.6秒調整為0.5秒&lt;/p&gt;&lt;p&gt;&lt;b&gt;每秒傷害值&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+20%&lt;/p&gt;
+&lt;p&gt;狂戰士的表現沒有達到預期，因此我們將她的攻擊速度加快了0.1秒。這個調整會提升她的每秒傷害值，讓她在競技場上能發揮出更大價值。&lt;/p&gt;
+&lt;h1&gt;進化狂暴伐木工&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5my1YrmlykboVB27vyuhe8/8e25297594bb7f1f0d41d9d16549007b/lumberjackevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;無法再透過狂暴法術來延長伐木工幽靈的存在時間。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;我們收到很多關於進化狂暴伐木工和狂暴法術的回饋，這個組合在高盃競技場和傳奇之路對戰中的表現太強了，遠超過我們的預期。&lt;/p&gt;&lt;p&gt;為了防止這種現象演變成更大的問題，尤其是在2v2天梯中——兩名玩家可合作使用法術無限延長幽靈的存在時間——我們決定移除這個機制。從現在開始，大家無法再透過狂暴法術來延長伐木工幽靈的存在時間。&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;2v2天梯&lt;/h1&gt;
+&lt;p&gt;我們修復了每場對戰後獎勵寶箱類型未能刷新的問題，該問題曾導致玩家連續獲得相同類型的寶箱。&lt;/p&gt;&lt;p&gt;這個問題修復後，你將可以在2v2天梯重新推出後無縫繼續推進征程，如果你獲得的徽章有誤，我們將在天梯結束後更新徽章。為了彌補停機維護所損失的時間，2v2天梯的結束時間將延長至2月25日。&lt;/p&gt;&lt;p&gt;我們競技場見！&lt;/p&gt;&lt;p&gt;&lt;i&gt;《部落衝突:皇室戰爭》遊戲團隊&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5ewjP2wnq6n9Zxn1Tuud6B</guid>
+      <category>更新說明</category>
+      <pubDate>Tue, 11 Feb 2025 08:17:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
