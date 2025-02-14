@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-14T12:53:30.726209+00:00</updated>
+  <updated>2025-02-14T13:35:00.462151+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1230,5 +1230,15 @@
     <link href="https://www.youtube.com/watch?v=S6C-knTVAyI"/>
     <category term="最新情報"/>
     <published>2025-02-02T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>6eEF3xDs4QWsdFy16bQ4O5</id>
+    <title>最新一期《突擊搶先報》明日首播！🎬</title>
+    <updated>2025-02-14T13:16:35.559000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/6eEF3xDs4QWsdFy16bQ4O5"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ba2CL54K0WKuERBYFoQJB/e4a1e666b824cb79bcbd5c29701190ab/FebUpdate_Youtube_01Thumbnail1920x1080_no_logo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/FmBbxuApms8"/>
+    <category term="更新說明"/>
+    <published>2025-02-14T13:13:57+00:00</published>
   </entry>
 </feed>

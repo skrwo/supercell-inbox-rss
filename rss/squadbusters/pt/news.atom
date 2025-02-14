@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>squadbusters-newsEntries-pt</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-14T12:53:31.605391+00:00</updated>
+  <updated>2025-02-14T13:35:00.276843+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -647,5 +647,15 @@ Se você atingir a liga do esquadrão antes do fim do evento, visite a loja para
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1pfts7O91nPGZWE5MW9Oj0/d1375f8c9408184027488cd37a089bf5/Poll_assets_1920x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Evento da comunidade"/>
     <published>2025-01-31T14:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>6eEF3xDs4QWsdFy16bQ4O5</id>
+    <title>Estreia de vídeo novo amanhã! 🎬</title>
+    <updated>2025-02-14T13:16:35.559000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/pt/news/6eEF3xDs4QWsdFy16bQ4O5"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ba2CL54K0WKuERBYFoQJB/e4a1e666b824cb79bcbd5c29701190ab/FebUpdate_Youtube_01Thumbnail1920x1080_no_logo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/FmBbxuApms8"/>
+    <category term="Novidades do jogo"/>
+    <published>2025-02-14T13:13:57+00:00</published>
   </entry>
 </feed>
