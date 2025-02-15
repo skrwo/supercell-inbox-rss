@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-15T09:30:39.251704+00:00</updated>
+  <updated>2025-02-15T10:34:26.490297+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -581,5 +581,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/gdHgPc0BSglAKNcYpwKXg/f2697c46d9cbd248d77bceb4e5bc6904/thumbnail-valentine.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-02-13T14:07:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4bjiIpYCGdBBsIGXBJGnb1</id>
+    <title>【呱呱】兩雙鞋子削弱後該怎麼玩？新的合體建築登場！</title>
+    <updated>2025-02-15T10:00:03.139000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/4bjiIpYCGdBBsIGXBJGnb1"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3I1tiGLb7hbLTRGoj3JSd5/6fd164ffb8fb25771457e9a09c2e61a9/tw_20250215_frog_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/hIFPS6PJmIw"/>
+    <category term="最新情報"/>
+    <published>2025-02-15T10:00:00+00:00</published>
   </entry>
 </feed>
