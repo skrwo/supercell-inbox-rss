@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-esportNewsEntries-ja</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-15T12:49:41.480108+00:00</updated>
+  <updated>2025-02-15T13:29:55.757377+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -32,5 +32,14 @@
     <link href="https://www.youtube.com/watch?v=MQgHtTIvlSk"/>
     <category term="新着"/>
     <published>2025-02-07T16:32:43+00:00</published>
+  </entry>
+  <entry>
+    <id>v3g4t3yKni9h459Q2r0qC</id>
+    <title>東アジア 2月マンスリー決勝戦</title>
+    <updated>2025-02-15T13:15:16.762000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Mof10kraSdKCD5UAmvcV8/9328a80a0534ee25fe588003407a9198/ea_mf02.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=3r-hwFbKVHM"/>
+    <category term="ビデオ"/>
+    <published>2025-02-15T13:15:16+00:00</published>
   </entry>
 </feed>
