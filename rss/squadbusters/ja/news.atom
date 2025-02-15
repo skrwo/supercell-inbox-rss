@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-15T15:30:58.405702+00:00</updated>
+  <updated>2025-02-15T16:38:43.462246+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1635,13 +1635,13 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <published>2025-02-10T02:52:02+00:00</published>
   </entry>
   <entry>
-    <id>6eEF3xDs4QWsdFy16bQ4O5</id>
-    <title>スクアプ最新エピソード 明日プレミア公開 🎬</title>
-    <updated>2025-02-14T13:16:35.559000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/6eEF3xDs4QWsdFy16bQ4O5"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/7ba2CL54K0WKuERBYFoQJB/e4a1e666b824cb79bcbd5c29701190ab/FebUpdate_Youtube_01Thumbnail1920x1080_no_logo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <id>IJT58ab8RDlZrkdrDe3Cc</id>
+    <title>アップデート情報 - 今すぐ視聴！ </title>
+    <updated>2025-02-15T16:21:56.525000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/IJT58ab8RDlZrkdrDe3Cc"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2P2m7fhwEb25TmpmmqHwJr/b47e1ebcfeb15029b59a630681df9c6d/FebUpdate_Youtube_01Thumbnail1920x1080_no_logo.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/FmBbxuApms8"/>
     <category term="アップデート"/>
-    <published>2025-02-14T13:13:57+00:00</published>
+    <published>2025-02-15T15:45:09+00:00</published>
   </entry>
 </feed>
