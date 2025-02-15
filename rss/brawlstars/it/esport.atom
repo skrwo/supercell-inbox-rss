@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-15T04:38:46.633799+00:00</updated>
+  <updated>2025-02-15T05:33:16.997277+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
-  <entry>
-    <id>5AkMbD47N3NuKlSScpMqTB</id>
-    <title>Ferre Cup 2 - Rivedi il giorno 2!</title>
-    <updated>2024-11-18T08:59:09.595000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/24AHzfeAsF4SqmqYhT7DTP/0ed66482ba451dbc7b12d8ea8eb670a4/FerreCup2_LIVE_g2.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/live/8qyVrpzApZY?si=g43NInpyM11vi_7K&amp;t=204"/>
-    <category term="Community"/>
-    <published>2024-11-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>3wcK10RWKS7XkGafwahSAF</id>
     <title>Roadmap Brawl Stars Championship 2025</title>
