@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2025-02-16T08:34:30.078536+00:00</updated>
+  <updated>2025-02-16T09:29:42.504913+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6ZtncU75VzafH8OH7E7la3</id>
-    <title>Eventos de la semana 47</title>
-    <updated>2024-11-17T09:01:44.532000+00:00</updated>
-    <content>&lt;h1&gt;Eventos de la semana 47&lt;/h1&gt;
-&lt;p&gt;¡Buenas! ¡Prepárate para otra semana llena de eventos! Todos los eventos y derbis comienzan a las 08:00 UTC. Para saber más sobre cada uno de ellos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunes&lt;/b&gt;: Gira la ruleta (materiales de ampliación).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martes&lt;/b&gt;: Evento de la camioneta (tiques).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Miércoles&lt;/b&gt;: Evento del barco (potenciadores).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jueves&lt;/b&gt;: Visitantes de la granja (doble de monedas).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Viernes&lt;/b&gt;: Evento de pesca (langostas y cebos un 30 % más rápidos) y doble de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: Evento de visitantes del pueblo (materiales del silo y del granero).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: Evento del pienso para animales (3 tipos de pienso para animales al azar se producen el doble de rápido).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: Derbi misterioso.&lt;/p&gt;&lt;p&gt;¡Esperamos que tengas una semana fantástica!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/es/news/6ZtncU75VzafH8OH7E7la3"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Eventos"/>
-    <published>2024-11-17T09:00:03+00:00</published>
-  </entry>
   <entry>
     <id>65WXP4sZLcM1vb9oJh0gjr</id>
     <title>Eventos de la semana 48</title>
@@ -274,5 +263,16 @@
     <link href="https://youtu.be/xAj-cpJ6cqQ"/>
     <category term="Noticias"/>
     <published>2025-02-11T08:04:28+00:00</published>
+  </entry>
+  <entry>
+    <id>23gjyz21okNf7hFYHPTWwt</id>
+    <title>Eventos de la semana 8</title>
+    <updated>2025-02-16T09:02:09.524000+00:00</updated>
+    <content>&lt;h1&gt;Eventos de la semana 8&lt;/h1&gt;
+&lt;p&gt;¡Buenas! Prepárate para otra semana llena de eventos. Todos los eventos y derbis comienzan a las 08:00 UTC. Para saber más sobre cada uno de ellos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunes&lt;/b&gt;: Gira la ruleta (piezas de puzle).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martes&lt;/b&gt;: Evento de la camioneta (doble de monedas).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Miércoles&lt;/b&gt;: Evento del barco (piezas de puzle).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jueves&lt;/b&gt;: Visitantes de la granja (mercadillo).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Viernes&lt;/b&gt;: Evento de pesca (todos los edificios de producción potenciados un 20 %) y doble de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: Visitantes del pueblo (doble de XP).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: Evento de la fruta (tres tipos de árboles o arbustos al azar darán frutos el doble de rápido).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: Derbi relajado con conejitos.&lt;/p&gt;&lt;p&gt;¡Que pases una semana estupenda!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/23gjyz21okNf7hFYHPTWwt"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2025-02-16T09:00:03+00:00</published>
   </entry>
 </feed>

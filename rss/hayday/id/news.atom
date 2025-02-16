@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>hayday-newsEntries-id</id>
   <title>Hayday - News</title>
-  <updated>2025-02-16T08:34:31.836935+00:00</updated>
+  <updated>2025-02-16T09:29:46.227586+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>6ZtncU75VzafH8OH7E7la3</id>
-    <title>Hay Day Minggu ke-47</title>
-    <updated>2024-11-17T09:01:44.532000+00:00</updated>
-    <content>&lt;h1&gt;Acara Hay Day Minggu ke-47&lt;/h1&gt;
-&lt;p&gt;Hai, Petani! Sudah siap untuk Acara minggu ini? Semua Acara dan Lomba dimulai pukul 08.00 UTC (15.00 WIB). Cermati detail masing-masing Acara dengan mengunjungi Papan Acara dalam game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Senin&lt;/b&gt;: Acara Putar Roda (Material Perluasan Tanah)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Selasa&lt;/b&gt;: Acara Truk (Voucher)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rabu&lt;/b&gt;: Acara Perahu (Pelaju)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kamis&lt;/b&gt;: Acara Pengunjung Pertanian (2x Koin)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jumat&lt;/b&gt;: Acara Memancing (Lobster + Umpan 30%) + 2x Poin Tiket Pertanian&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabtu&lt;/b&gt;: Acara Pengunjung Kota (Material Silo dan Lumbung)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Minggu&lt;/b&gt;: Acara Pakan Hewan (3 jenis pakan hewan acak akan diproduksi 2x lebih cepat)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lomba&lt;/b&gt;: Misteri&lt;/p&gt;&lt;p&gt;Semoga minggumu seru!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/id/news/6ZtncU75VzafH8OH7E7la3"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Acara"/>
-    <published>2024-11-17T09:00:03+00:00</published>
-  </entry>
   <entry>
     <id>65WXP4sZLcM1vb9oJh0gjr</id>
     <title>Hay Day Minggu ke-48</title>
@@ -285,5 +274,16 @@
     <link href="https://youtu.be/xAj-cpJ6cqQ"/>
     <category term="Promosi"/>
     <published>2025-02-11T08:04:28+00:00</published>
+  </entry>
+  <entry>
+    <id>23gjyz21okNf7hFYHPTWwt</id>
+    <title>Hay Day Minggu ke-8</title>
+    <updated>2025-02-16T09:02:09.524000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Minggu ke-8&lt;/h1&gt;
+&lt;p&gt;Spada, Petani! Sudah siap untuk Acara minggu ini? Semua Acara dan Lomba dimulai pukul 08.00 UTC (15.00 WIB). Ayo pelajari detail masing-masing Acara dengan mengunjungi Papan Acara dalam game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Senin&lt;/b&gt;: Putar Roda (Keping Puzzle)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Selasa&lt;/b&gt;: Acara Truk (2x Koin)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rabu&lt;/b&gt;: Acara Perahu (Keping Puzzle)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kamis&lt;/b&gt;: Acara Pengunjung Pertanian (Obral Bersih-Bersih)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jumat&lt;/b&gt;: Acara Pelaju Produksi Memancing (Pelaju 20% untuk semua) + 2x Poin Tiket Pertanian&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sabtu&lt;/b&gt;: Acara Pengunjung Kota (x2 XP)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Minggu&lt;/b&gt;: Acara Buah (Tiga jenis pohon atau semak acak akan memproduksi buah dengan kecepatan ganda selama Acara)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lomba&lt;/b&gt;: Lomba Kelinci Rileks&lt;/p&gt;&lt;p&gt;Semoga minggumu menyenangkan!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/id/news/23gjyz21okNf7hFYHPTWwt"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Acara"/>
+    <published>2025-02-16T09:00:03+00:00</published>
   </entry>
 </feed>
