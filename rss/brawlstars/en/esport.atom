@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-16T18:37:28.185142+00:00</updated>
+  <updated>2025-02-16T19:29:03.645510+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -181,5 +181,14 @@
     <link href="https://www.youtube.com/live/H1LJ0xd5wc0?feature=shared&amp;t=20951"/>
     <category term="Highlight"/>
     <published>2025-02-15T12:05:52+00:00</published>
+  </entry>
+  <entry>
+    <id>33ezyUJlBkAykDfwfZ36CU</id>
+    <title>Congrats SK Gaming!</title>
+    <updated>2025-02-16T19:22:17.293000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/jAJQaQYn3Oi9XRNdP2Ow7/21e7dd882740fa69d921b672c7f0b224/BSC_MONTHLYFINALS_WINNERS_EMEA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/AxdEircOPd8?si=c4W_3n3CrO3gOErW&amp;t=22104"/>
+    <category term="Highlight"/>
+    <published>2025-02-16T19:22:17+00:00</published>
   </entry>
 </feed>
