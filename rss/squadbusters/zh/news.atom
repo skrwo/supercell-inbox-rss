@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-17T15:31:37.567236+00:00</updated>
+  <updated>2025-02-17T16:38:27.134350+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1250,5 +1250,15 @@
     <link href="https://www.youtube.com/watch?v=U9pv-vJxcXE"/>
     <category term="最新情報"/>
     <published>2025-02-17T02:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>0FaVQjcOS5ibBYWsjbc3S</id>
+    <title>【烏龜】野蠻人之王削弱！還有更多平衡性調整！</title>
+    <updated>2025-02-17T16:30:02.115000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/0FaVQjcOS5ibBYWsjbc3S"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1Sfuw2SwOehGowkjhWxlo1/1a3e3458ca76dd530981d5ac5a239c12/tw_20250217_turtle_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=J7Yfnf49igs"/>
+    <category term="最新情報"/>
+    <published>2025-02-17T16:30:00+00:00</published>
   </entry>
 </feed>
