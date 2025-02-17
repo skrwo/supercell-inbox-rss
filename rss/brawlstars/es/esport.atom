@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-17T11:29:28.824011+00:00</updated>
+  <updated>2025-02-17T12:55:58.258059+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -94,9 +94,18 @@ Antes de inscribirte, asegúrate de:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b
     <published>2025-02-14T20:00:00+00:00</published>
   </entry>
   <entry>
+    <id>lCX132HqeEujMfNldxARR</id>
+    <title>¡Heretics entra a Brawl Stars!</title>
+    <updated>2025-02-17T11:32:18.049000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5Hw47OvplIWZnSzXlGv5ZE/6706ea4b88dbda824332be1b9c0ebe14/IMG_3892.jfif?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=GUsJYyGHR5w&amp;ab_channel=TeamHereticsBrawlStars"/>
+    <category term="Novedades"/>
+    <published>2025-02-14T20:12:23+00:00</published>
+  </entry>
+  <entry>
     <id>4CGESwTQ7TwGrpTrQeewdj</id>
     <title>¡Felicitaciones Crazy Racoon! </title>
-    <updated>2025-02-17T11:08:13.068000+00:00</updated>
+    <updated>2025-02-17T11:59:53.816000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3es4eWjYfXbAEL77lOCRso/cdbbde11b1f614bf0753c57f520117e0/ES_BSC_MONTHLYFINALS_WINNERS_EASTASIA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/live/H1LJ0xd5wc0?feature=shared&amp;t=20951"/>
     <category term="Destacado"/>
@@ -105,7 +114,7 @@ Antes de inscribirte, asegúrate de:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b
   <entry>
     <id>33ezyUJlBkAykDfwfZ36CU</id>
     <title>¡Felicitaciones SK Gaming! </title>
-    <updated>2025-02-17T11:11:31.038000+00:00</updated>
+    <updated>2025-02-17T12:28:26.657000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/keZySRfm4NgRwj2IpX1cH/c1eebc70061a7854c3f1b110a9b31f8e/ES_BSC_MONTHLYFINALS_WINNERS_EMEA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/live/o44GQpzqng0?si=CgZUH_Ojk_y-wtRn&amp;t=21147"/>
     <category term="Destacado"/>
