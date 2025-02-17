@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-17T12:56:33.547835+00:00</updated>
+  <updated>2025-02-17T13:37:43.097441+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1643,5 +1643,18 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://youtu.be/FmBbxuApms8"/>
     <category term="アップデート"/>
     <published>2025-02-15T15:45:09+00:00</published>
+  </entry>
+  <entry>
+    <id>5lkzPtVtJzRksetV0qhoaY</id>
+    <title>最新アップデート情報の紹介動画をチェック！</title>
+    <updated>2025-02-17T13:12:55.710000+00:00</updated>
+    <content>&lt;h1&gt;【アプデ速報】アプデの気合いの入れ方がえぐい...!!今回のアプデの感想語りました&lt;/h1&gt;
+&lt;a href="https://youtu.be/3eRMaPe4JOg?si=_FkhpW1msBJpem8e"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;h1&gt;【最新アプデ情報】2025年1回目のアプデからワクワクが止まらないんだがwww&lt;/h1&gt;
+&lt;a href="https://youtu.be/8sl2857ntG4?si=_swlJHaM34jUtswt"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/5lkzPtVtJzRksetV0qhoaY"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1aOX7eLlMh1qVolMaoAM4v/0e6403f762ca6df8cf786457c07c62c4/sddefault__17__re2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="ビデオ"/>
+    <published>2025-02-17T13:12:55+00:00</published>
   </entry>
 </feed>
