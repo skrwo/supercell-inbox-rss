@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-17T01:59:24.840678+00:00</updated>
+  <updated>2025-02-17T03:02:17.471420+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1240,5 +1240,15 @@
     <link href="https://youtu.be/FmBbxuApms8"/>
     <category term="更新說明"/>
     <published>2025-02-15T15:45:09+00:00</published>
+  </entry>
+  <entry>
+    <id>4M7dqymtzuDjL1bHWR59fv</id>
+    <title>【烏龜】搶先了解小雞快跑與星星寶箱調整！</title>
+    <updated>2025-02-17T02:18:37.063000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/4M7dqymtzuDjL1bHWR59fv"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3juQGxT8w4yeOaSOtaecHZ/4494641d953ec7023e7e30b832f1e550/tw_20250216_turtle_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=U9pv-vJxcXE"/>
+    <category term="最新情報"/>
+    <published>2025-02-17T02:00:00+00:00</published>
   </entry>
 </feed>
