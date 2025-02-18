@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>brawlstars-esportNewsEntries-it</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-18T14:36:22.946015+00:00</updated>
+  <updated>2025-02-18T15:35:09.975211+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -117,5 +117,23 @@
     <link href="https://youtu.be/aiyRFGnBDcg"/>
     <category term="Video"/>
     <published>2025-02-14T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>5Eko4mh4TAnpiQ3IN9e0ut</id>
+    <title>Annuncio Roster 2025 LOUD</title>
+    <updated>2025-02-18T15:14:40.066000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/11QeUOIQb1W9sip4DAKxv5/92aec7ab1e55eadf6b3ace92b57427a2/2025_ROSTER.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://x.com/LOUDgg/status/1888352146950938664"/>
+    <category term="Notizie"/>
+    <published>2025-02-14T20:06:10+00:00</published>
+  </entry>
+  <entry>
+    <id>lCX132HqeEujMfNldxARR</id>
+    <title>Il Team Heretics arriva su Brawl Stars</title>
+    <updated>2025-02-18T15:16:52.325000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41EWqvEC20xQjk2hwf3224/f0241d234ad5491e382ed05d18001154/IMG_3892.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=GUsJYyGHR5w&amp;ab_channel=TeamHereticsBrawlStars"/>
+    <category term="Notizie"/>
+    <published>2025-02-14T20:12:23+00:00</published>
   </entry>
 </feed>
