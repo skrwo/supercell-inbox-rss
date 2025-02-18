@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-18T09:33:42.906980+00:00</updated>
+  <updated>2025-02-18T10:38:48.248211+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1656,5 +1656,45 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1aOX7eLlMh1qVolMaoAM4v/0e6403f762ca6df8cf786457c07c62c4/sddefault__17__re2.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="ビデオ"/>
     <published>2025-02-17T13:12:55+00:00</published>
+  </entry>
+  <entry>
+    <id>4YvU4YrHLVctJaMBzKEjO9</id>
+    <title>2025年2月のパッチノート！</title>
+    <updated>2025-02-18T10:28:17.553000+00:00</updated>
+    <content>&lt;h1&gt;2月のアップデートに備えましょう！&lt;/h1&gt;
+&lt;p&gt;スクワッド・バスターズの冬が終わりを告げ、春の訪れとともに白熱の新ゲームモードが登場します。「&lt;b&gt;エメラルドチキンラン&lt;/b&gt;」は、マップ上をさまようエメラルドチキンを救出し、中央の小屋に連れていく期間限定のゲームモードです！迫りくる敵のウェーブを撃退し、小屋を可能な限り長く防衛してください。バトルを次々にこなして救出数を稼ぎまくり、&lt;b&gt;獲得したエメラルドチキン&lt;/b&gt;を&lt;b&gt;新イベントショップ&lt;/b&gt;で豪華な報酬と交換しましょう！&lt;/p&gt;&lt;p&gt;さらに本アップデートでは、「スター宝箱」にさまざまな変更が行われます。まず&lt;b&gt;開封時に最大で4種類のキャラクターから1体を選択できるようになります&lt;/b&gt;。これによりランダム性が極限まで抑えられ、狙ったキャラクターの進化が捗るはずです。さらにこの調整は、ウルトラおよびレジェンドキャラクターにも適用されます。また、スター宝箱から新キャラクターがドロップしなくなり、スター宝箱のアンロック条件がジャーニーレベル50に変更されます。&lt;/p&gt;&lt;p&gt;そして、多岐にわたる&lt;b&gt;ゲームプレイのバランス調整&lt;/b&gt;、&lt;b&gt;新バトルロイヤルマップ、スキン、バグ修正、各種改善&lt;/b&gt;も行われます。本記事で詳細をご確認ください！&lt;/p&gt;
+&lt;h1&gt;新モード：エメラルドチキンラン&lt;/h1&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4QCDzCNuLVR2TJzOGxAUsR/19e393c1548c1ef4a2c2db2ce5b4bf82/Chicks.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;3人のプレイヤーでチームを組み、エメラルドチキンをたくさん救出しましょう。バトルでは狂暴なモンスター軍団が繰り返し小屋を襲撃します。迫りくるウェーブを撃退してください！&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;エメラルドチキンの救出フェーズが終わると小屋の防衛フェーズに切り替わり、モンスターの襲撃が始まります。撃退後にまた救出フェーズが始まり、再度襲撃が始まる… その繰り返しです。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;モンスターのウェーブを素早く撃退すれば、それだけ余裕を持ってエメラルドチキンを救出できます！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;小屋を破壊されるとバトルが終了します。よそ見をしている暇はありませんよ！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;救出したエメラルドチキン1羽につき、イベント硬貨が1枚付与されます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;イベント硬貨は、プラザに設営されるエメラルドチキンショップで報酬と交換可能です。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;ゲームプレイの変更点&lt;/h1&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2dQGWZHKFcpS1G2MWzFuds/f6db01f0d091259f1daeeb83068b576a/Gameplay_Changes.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;スクバスではハイペース＆ハイテンションのバトルの楽しさを維持するため、さまざまな変更を実装しています。ゲームは日々進化を続けているのです！&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;メガポーションの出現頻度がランダム化されます。&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;バトルロイヤルでのメガポーションの出現頻度がランダム化され、その時々で間隔が長くなったり短くなったりするようになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;メガポーションの出現場所がツルで覆われると、出現確率が上昇します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;キャンピング（芋）行為の抑止のため、出現場所にプレイヤーが立っているとメガポーションが生成されなくなります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;メガポーションから回復効果が削除されます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**特別ルール「戦利品パラダイス」**の戦利品の数を若干減少させ、デバイスへの負荷を軽減します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;新バトルロイヤルマップ&lt;/b&gt;がローテーションに追加されます**。**&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;ビーチワールド：&lt;b&gt;サンゴ前線&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;アイスワールド：&lt;b&gt;ゴロゴロ氷山&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ラヴァワールド：&lt;b&gt;マグマアリーナ&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スプーキーワールド：&lt;b&gt;トゲトゲ沼&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;キャラクターのバランス調整&lt;/h1&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KsQsrBSirz5fLy3IVP7WU/f9132cbcc92a3d42803e25c446da368a/BuffsNerfs.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;スクバスの戦場は常に変化を続けていますが、それは皆さんの愛用キャラも同じです！すべてのキャラに長所を持たせて公平なバトル環境を実現するため、大規模なバランス変更を行います！&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;スーパーレイジ（バーバリアンキング）&lt;/b&gt;：強化量は通常のレイジの呪文と同じになりますが、効果時間はこちらの方が若干長めです。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ニタ&lt;/b&gt;：通常攻撃の追尾性能を修正します。これにより、離れた敵にも攻撃が命中しやすくなり、クマのブルースとの連携攻撃が決まりやすくなるでしょう。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ロワイヤルキング&lt;/b&gt;：低進化レベル帯での&lt;b&gt;見習い親衛隊&lt;/b&gt;の召喚数が増加します（最大召喚数は同じ）。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;エリートスケルトン（ネクロマンサー）&lt;/b&gt;：低い生存力を補うため、HPとダメージを大幅に上昇させます。これにより高進化レベル帯でもネクロマンサーが有用な選択肢となるでしょう。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;エリートベビーバーバリアン（レジェンドバーバリアン）&lt;/b&gt;：HPを若干減少させ、他のレジェンドキャラクターとのバランスを取ります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ホグライダー&lt;/b&gt;：茂みから出た後のターボブーストの有効時間が短縮されます。これにより、高進化レベル帯でのターボの有用性が向上するはずです。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;テラー博士&lt;/b&gt;：&lt;b&gt;メガクラブ&lt;/b&gt;の強化量が増加します（メガクラブがいる状態でコインを10枚入手すると強化が適用）。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;強化されたメガクラブはスローダウンの効果を受けず、移動速度が上昇します。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;各進化レベルでメガクラブの移動速度の上昇値が強化されます。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;新機能&lt;/h1&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/5Cth5aYu4HmAQiMY6KfIX/e0cb50b4221e66ba394284200bc6679c/Chests.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;スクバスの新時代が到来！毎回新鮮な気分でバトルを楽しめるようにするため、宝箱システムの刷新とともに新機能を導入します。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;スター宝箱&lt;/b&gt;：ランダム性を極限まで排除するため、今回から最大で4種類のキャラクターから1体を選べるようになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ゲームモードの更新&lt;/b&gt;：更新されたゲームモードをタップすると、少量のエメラルドが付与されるようになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;宝箱のタップ数&lt;/b&gt;：宝箱のタップ数が減少した場合、コインでタップ数を購入できるようになります。宝箱ボーナスと組み合わせれば、バトル宝箱から最大限の報酬を得ることができるでしょう。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;UIおよびUX&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;バトルでの自分の&lt;b&gt;最終&lt;/b&gt; &lt;b&gt;順位&lt;/b&gt;が、終了画面で個別にアナウンスされるようになります。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;新スキン&lt;/h1&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1JomPAyfaDeim0WTRPohIA/a8933f601305be96c713b2850b00d329/Skins.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
+&lt;p&gt;大自然や野菜をモデルにしたユニークなスキンセット、そしてカラフルなお祝い仕様のスキンセットが登場します！&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;フォレストセット&lt;/b&gt;：アーチャークイーン、ゴブリン、アーチャー、ネクロマンサー&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;野菜セット&lt;/b&gt;：コルト、グレッグ、ビー、旅商人&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;イースターセット&lt;/b&gt;：メイヴィス、ラフス大佐、ニワトリ、ダイナマイク、ポコ&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;その他のバランス変更&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;スター宝箱の変更点&lt;/b&gt;：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スター宝箱のアンロックレベルがジャーニーレベル50に変更されます。新規プレイヤーはレベル50を目指す必要がありますが、スター宝箱をアンロック済みのプレイヤーは影響を受けません。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スター宝箱をアンロックすると、スタートークン100個が付与されます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スター宝箱の価格が「スタートークン500個」に統一されます。この変更は、スター宝箱をアンロック後、低価格の最初のスター宝箱を開封せずにキープしているプレイヤーにも適用されます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スター宝箱から新キャラクターがドロップしなくなり、獲得できるのは所有済みのキャラクターのスーパー、ウルトラ、レジェンドのみに変更されます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ワールドジャーニーレベル50までの報酬が調整されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;スタートークンの代わりに別の報酬が追加されます。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;グリーンワールドの最後の報酬が、スター宝箱ではなく「バーバリアンキング」になります。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;バトルロイヤルの変更点：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;バトルロイヤルにおいて、最終順位に基づくエメラルドの獲得数が増加します。&lt;/p&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2Ymuco0HhST7oNkNxRmgLq/d84e9db9103d68d631fcb68e0017402a/Position_GEM_rewards_showdown_reworked_FIX.png?w=998&amp;h=742&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;上位3位までが「勝利」にカウントされるようになります（以前は上位2位まで）。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;新しくプレイを始めて最初のバトルを完了した後、デイリー勝利報酬が即アンロックされるようになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;リワード宝箱から最大進化キャラクターがドロップする確率が低下します。これにより、他のキャラクターの進化が捗るはずです。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ビギナークエストのコイン報酬が減額されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;1日目：2万枚→1万枚&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;4日目：1万枚→5千枚&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;6日目：1万枚→5千枚&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;バグ修正と改善点&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;ツルの出現時間の調整&lt;/b&gt;：&lt;b&gt;バトル開始時&lt;/b&gt;にツルが出現するまでに要する時間が延長されます。これにより、初期キャラクターを選ぶ際、ツルが回避できなくなる事態を防ぐことができるでしょう。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;チェーンセール上に回収可能なアイテムがない場合、&lt;b&gt;次に購入可能なアイテムまで自動的にスクロール&lt;/b&gt;するようになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;リプレイの再生によりメモリが圧迫され、デバイスがクラッシュしてしまう問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;「デュオ エメラルドハント」で順位が誤って表示されてしまう問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;特別ルール「タイムアウト」で、時間切れではなく他の要因によって撃破されると200エメラルドをキープできてしまう問題を修正しました。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;経路探索および衝突システムを改善し、パフォーマンスの向上を行います。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;マッチメイキングの変更点：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;マッチメイキングのワールド制限を緩和します。これにより、アンロックしていないワールドの対戦相手とマッチする場合があります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スクワッドリーグにおいて、自分よりランクの高い対戦相手ともマッチするようになります。これにより、トッププレイヤー同士のバトルがさらに盛り上がるはずです。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;スター宝箱の情報ツールチップに、報酬ドロップ率のサポート記事へのリンクが含まれるようになります（&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fsquad-busters%252Fja%252Farticles%252Fchest-reward-chances.html')"&gt;ショップ＆スーパーパスの宝箱の報酬ドロップ率 | Supercellサポートポータル&lt;/a&gt;）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/4YvU4YrHLVctJaMBzKEjO9"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4KCdHxfwD1Z23In80xPzUg/cc6c2209d43be206af80c943d7a861b2/SB_chicken_hatchlings_KeyArt_YB__1920x1080__NO_LOGO_.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="新着"/>
+    <published>2025-02-18T10:28:17+00:00</published>
   </entry>
 </feed>
