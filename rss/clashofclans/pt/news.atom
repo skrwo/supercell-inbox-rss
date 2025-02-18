@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashofclans-newsEntries-pt</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-18T11:29:35.387663+00:00</updated>
+  <updated>2025-02-18T12:54:24.336333+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -162,5 +162,15 @@ Torre Multifunção: níveis 1 e 2&lt;/p&gt;&lt;h2&gt;&lt;b&gt;Melhorias de qual
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/9LSNmBAE4ha7jDlfnWMyX/875c1062a4fb3799bd3f311d87d63f24/thumbnail-valentine.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Novidades"/>
     <published>2025-02-13T14:07:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1ZsLCbiah2JutEdTy1DA5m</id>
+    <title>Supercell MAKE - Crie a próxima Tropa Temporária</title>
+    <updated>2025-02-18T11:49:16.910000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/pt/news/1ZsLCbiah2JutEdTy1DA5m"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3lkO1VhwGvl1JfER0nhdGr/a0e0b13f3808a8878be2536013f8c2f1/PT._20241223_-_supercell_make_01_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://make.supercell.com/en/campaign/7pR4oA7PLywC1O21zHnv0z"/>
+    <category term="Comunidade"/>
+    <published>2025-02-18T11:49:16+00:00</published>
   </entry>
 </feed>
