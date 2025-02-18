@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>brawlstars-newsEntries-ja</id>
   <title>Brawlstars - News</title>
-  <updated>2025-02-18T06:40:36.874001+00:00</updated>
+  <updated>2025-02-18T07:29:03.755866+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
-  <entry>
-    <id>3RjVNzYIY8HPh1gpCxjFXG</id>
-    <title>ブロスタ公式Xをフォローしよう！</title>
-    <updated>2024-11-20T06:05:51.625000+00:00</updated>
-    <content>&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2TxKMflu8eDWxvsrCaLT4C/042dde9bcd6b78a97c0e52243b6353a2/20241119_BST_X_flow_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"&gt;
-&lt;h1&gt;ブロスタ公式Xをフォローしよう！&lt;/h1&gt;
-&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fbrawlstarsjp')"&gt;ブロスタ公式X&lt;/a&gt;では、ブロスタがもっと楽しくなるコンテンツや情報をお届けしています！
-
-・ブロスタがうまくなる、ブロスタの面白い動画紹介
-・大会やイベント情報
-・ブロスタグッズやブロスタパスなど、豪華プレゼントがもらえるキャンペーン情報
-・最新のアップデート情報
-
-などなど、公式Xでしかお知らせしていない情報がたくさん。&lt;/p&gt;&lt;p&gt;
-この機会に、ぜひブロスタ公式Xをフォローしてみましょう！
-
-ブロスタ公式X：&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fbrawlstarsjp')"&gt;https://x.com/brawlstarsjp&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/#/ja/news/3RjVNzYIY8HPh1gpCxjFXG"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2l362oA0S5TQa0WVCyCzmQ/bbe61bd51737934953c783ddf1bd7024/20241119_BST_X_flow_inbox.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <category term="コミュニティ"/>
-    <published>2024-11-20T06:05:51+00:00</published>
-  </entry>
   <entry>
     <id>VPmkw3pcRKk9KAhgCiJvI</id>
     <title>「ブロスタ公式オフ会東京」追加募集を受け付けています！</title>
