@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2025-02-20T13:36:37.040629+00:00</updated>
+  <updated>2025-02-20T14:38:09.489148+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -274,5 +274,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="أحداث"/>
     <published>2025-02-16T09:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>5YWCc0EFJlueHjmpgqVdSG</id>
+    <title>يوم في Hay Day</title>
+    <updated>2025-02-20T14:07:43.518000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/5YWCc0EFJlueHjmpgqVdSG"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/emiQvGlHCoLCZBrckf3Ng/b4f35f74473fa85d22bf6be2828c2818/Screenshot_2025-02-13_at_14.59.06.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/otQ6kAZJXcY"/>
+    <category term="المجتمع"/>
+    <published>2025-02-20T14:07:07+00:00</published>
   </entry>
 </feed>
