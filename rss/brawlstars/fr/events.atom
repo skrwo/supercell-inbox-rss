@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>brawlstars-eventEntries-fr</id>
   <title>Brawlstars - Event</title>
-  <updated>2025-02-20T08:39:03.621167+00:00</updated>
+  <updated>2025-02-20T09:32:56.664588+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Event</subtitle>
@@ -56,19 +56,6 @@
     <published>2025-02-06T09:01:39+00:00</published>
   </entry>
   <entry>
-    <id>2s8X3s9zffUvMLLKIcmFrP</id>
-    <title>Choisissez une bôté parfaite pour Bo !</title>
-    <updated>2025-02-16T08:48:31.112000+00:00</updated>
-    <content>&lt;h1&gt;Choisissez une bôté parfaite pour Bo !&lt;/h1&gt;
-📊 [POLL]
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Polly&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7iDIiSTvRqYpf5P6iPYPeA/bb33c3f5f5331c8213c160e12c2d0a57/piper.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Ricochet&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5uH2AsXSmiUw7uVYC2r4oP/638de7a9e45d05f92ba266014c8e68db/rico.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Zmd6C3D2B2imaTAvHi80Z/43e818dc632dc297c1bde1f1a918d1af/Bo-Valentine-800x1161_vote.jpg?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
-    <published>2025-02-16T08:46:56+00:00</published>
-  </entry>
-  <entry>
     <id>1UpdMqpRCyyL6rEUoFMlfQ</id>
     <title>Choisissez une bôté parfaite pour Bo !</title>
     <updated>2025-02-18T08:57:07.858000+00:00</updated>
@@ -82,12 +69,28 @@
     <published>2025-02-18T08:53:37+00:00</published>
   </entry>
   <entry>
+    <id>285iDwsJjkILKfbFlur8OR</id>
+    <title>Choisissez une bôté parfaite pour Bo !</title>
+    <updated>2025-02-20T08:58:19.153000+00:00</updated>
+    <content>&lt;h1&gt;Choisissez une bôté parfaite pour Bo !&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Charlie&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6H46yyJoNspqT1jyZnuhw3/9f33bde72fd5c616565d33ab07c202a1/charlie.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mandy&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7iDwbXTwOXzKNWOqZBT9EL/7907ec0e556ecd8f19ceb803d0b9b055/mandy.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Piper&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7iDIiSTvRqYpf5P6iPYPeA/bb33c3f5f5331c8213c160e12c2d0a57/piper.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Amber&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Sr5UlYi6imdR20l0fKBmr/210db9112e2399ea994fc93edd9b05a5/amber.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Melodie&lt;/p&gt;&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3yuRwDugs2rEZ158DL9AWx/048fbc1900070d20432becdcb8dac4ca/melodie.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4qOw00xrHZHhg4bToUwR45/fe97dc0c9ee3523a4af900c4fd383c0f/0203_Bo_Valentine_800x1161_last_vote.png?w=800&amp;h=1161&amp;f=center&amp;fit=fill"/>
+    <published>2025-02-20T08:57:45+00:00</published>
+  </entry>
+  <entry>
     <id>7tqlickrkqrHfrQ3pHXXvF</id>
     <title>Récompenses disponibles :</title>
-    <updated>2025-02-18T08:59:43.852000+00:00</updated>
-    <content>&lt;h1&gt;PROGRESS: 90.00%&lt;/h1&gt;
+    <updated>2025-02-20T08:58:14.300000+00:00</updated>
+    <content>&lt;h1&gt;PROGRESS: 95.00%&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3ymKaoD5Kf75s5AsvQCQR8/420a0b89acee4cd1e12d1568a16e6eb5/02_heart_MORTIS_VS_MELODIE_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/79ePic34MNmIUyawpODGcW/c96f4d5378b4d961b175e3bb2da95a31/05_portrait_melodie_Hypercharge_x2_420x256.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4115rEpEm6qGwvHskRW0Wb/3fbc8cabd4c3199d3b34ea113768ac4a/03_rewards_100__Mastery_bonus_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3oGN9wpgT7KJ9IsqiDL08N/d79113ded3844213c4d1c745845c06b8/05_portrait_piper_StarDrop_x10_420x256.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
 &lt;li&gt;✅ -  &lt;image src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2j2a2z9GoBJQzfIhuVUrRO/267175bf3ca3ed75b669862b2a61fe66/03_rewards_Double_Starr_Drops_420x256_2.png?w=420&amp;h=256&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
