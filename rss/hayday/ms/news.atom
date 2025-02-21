@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ms">
   <id>hayday-newsEntries-ms</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:25.389854+00:00</updated>
+  <updated>2025-02-21T10:38:18.929676+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -274,5 +274,16 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Komuniti"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>Pengumuman Penting: Penamatan Amazon Appstore pada Peranti Mudah Alih</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;Perhatian, Peladang! &lt;/h1&gt;
+&lt;p&gt;Amazon telah mengumumkan baru-baru ini yang mereka akan menamatkan Appstore mereka untuk peranti mudah alih pada bulan Ogos ini. Jika anda telah memuat turun atau kini bermain Hay Day melalui Amazon Appstore pada peranti mudah alih, perubahan ini akan mempengaruhi anda secara langsung kerana &lt;b&gt;anda akan hilang akses kepada akaun anda pada peranti itu&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Tapi jangan risau, kami ada di sini untuk membantu anda melindungi kemajuan anda!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Apa yang perlu anda tahu:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Jika anda telah memuat turun atau kini bermain Hay Day melalui Amazon Appstore pada peranti mudah alih, perubahan ini akan mempengaruhi anda secara langsung.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Apabila Appstore itu ditamatkan, anda tidak akan dapat mengakses akaun anda lagi melalui Amazon Appstore pada peranti mudah alih.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Apa yang anda boleh lakukan sekarang:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tukar kepada tablet&lt;/b&gt; - Amazon Appstore masih akan tersedia dalam tablet, jadi anda boleh teruskan bermain di sana.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mencipta Supercell ID&lt;/b&gt; - Ini satu-satunya cara untuk memastikan keselamatan akaun dan kemajuan anda! Supercell ID anda membolehkan anda log masuk pada peranti lain menggunakan alamat e-mel sama yang disambungkan kepada akaun anda.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cara mencipta Supercell ID:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Untuk mencipta Supercell ID, sila ikuti arahan-arahan ini: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Fms%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/hay-day/ms/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Kami menyarankan anda membuat perubahan ini seawal mungkin agar tidak kehilangan kemajuan anda! Jika anda ada soalan lain, jangan ragu-ragu untuk menghubungi pasukan sokongan kami.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ms/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>

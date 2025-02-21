@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
   <id>hayday-newsEntries-ar</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:26.246943+00:00</updated>
+  <updated>2025-02-21T10:38:21.944542+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -284,5 +284,16 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="المجتمع"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>إعلان مهم: إغلاق متجر تطبيقات Amazon Mobile</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;تنويه للمزارعين! &lt;/h1&gt;
+&lt;p&gt;أعلنت Amazon مؤخرًا أنها ستقوم بإغلاق متجرها لتطبيقات أجهزة الجوال في أغسطس المقبل. إذا كنت نزلت Hay Day أو تلعبها حاليًا عبر متجر Amazon Mobile Store، فإن هذا التغيير سيؤثر عليك بشكل ؛ حيث &lt;b&gt;ستفقد في النهاية إمكانية الوصول إلى حسابك على هذا الجهاز&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;لكن لا تقلق - نحن هنا لمساعدتك في تأمين تقدمك ومواصلة الزراعة.&lt;/p&gt;&lt;p&gt;&lt;b&gt;أمور يجب معرفتها:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;إذا كنت نزلت Hay Day أو تلعبها حاليًا عبر متجر تطبيقات Amazon Mobile، فإن هذا التغيير سيؤثر عليك بشكل مباشر.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;بعد إغلاق المتجر، لن تتمكن من الوصول إلى حسابك عبر متجر تطبيقات Amazon Mobile.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ما يمكن فعله الآن:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;التبديل إلى جهاز لوحي&lt;/b&gt; - سيظل متجر Amazon متاحًا على الأجهزة اللوحية، لذا يمكنك الاستمرار في اللعب عليه.&lt;/p&gt;&lt;p&gt;&lt;b&gt;إنشاء Supercell ID&lt;/b&gt; - هذه هي الطريقة الوحيدة للحفاظ على حسابك وتقدمك. يسمح لك Supercell ID بتسجيل الدخول على جهاز آخر باستخدام عنوان البريد الإلكتروني نفسه المرتبط بحسابك.&lt;/p&gt;&lt;p&gt;&lt;b&gt;كيفية إنشاء Supercell ID:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;لإنشاء Supercell ID، اتبع هذه التعليمات: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Far%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/hay-day/ar/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;نوصي بإجراء هذه التغييرات في أقرب وقت ممكن لتجنب فقدان تقدمك! إذا كان لديك أي أسئلة، فلا تتردد في التواصل مع فريق الدعم لدينا.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ar/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="أخبار"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>

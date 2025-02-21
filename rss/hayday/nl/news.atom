@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="nl">
   <id>hayday-newsEntries-nl</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:26.564186+00:00</updated>
+  <updated>2025-02-21T10:38:20.437626+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -295,5 +295,16 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Community"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>Belangrijke aankondiging: sluiting Amazon Mobile Appstore</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;Aandacht, boeren! &lt;/h1&gt;
+&lt;p&gt;Amazon heeft recent aangekondigd dat ze hun appstore voor mobiele apparaten in augustus zullen sluiten. Als je momenteel Hay Day speelt of hebt gedownload via de Amazon Mobile Appstore, dan heeft deze verandering rechtstreekse gevolgen voor jou. &lt;b&gt;Je zult uiteindelijk de toegang tot je account op dat apparaat verliezen&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Maar maak je geen zorgen. Wij zijn hier om je te helpen bij het veilig stellen van je voortgang en je boerderij!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wat je moet weten:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Als je momenteel Hay Day speelt of hebt gedownload via de Amazon Mobile Appstore, dan heeft deze verandering rechtstreekse gevolgen voor jou.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Zodra de winkel is gesloten, zul je geen toegang meer hebben tot je account via de Amazon Mobile Appstore.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Wat je nu kunt doen:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Schakel over naar een tablet&lt;/b&gt; − de Amazon Appstore blijft beschikbaar op tablets, dus je kunt daarop blijven spelen.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maak een Supercell ID aan&lt;/b&gt; − dit is de enige manier om je account en voortgang veilig te stellen! Met je Supercell ID kun je op andere apparaten inloggen met het e-mailadres dat gelinkt is aan je account.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hoe je een Supercell ID aanmaakt:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Om een Supercell ID aan te maken, volg je deze instructies: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Fnl%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/hay-day/nl/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;We raden aan deze aanpassingen zo snel mogelijk te maken om te voorkomen dat je je voortgang verliest! Als je nog vragen hebt, aarzel dan niet om contact met ons ondersteuningsteam op te nemen!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/nl/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Nieuws"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>hayday-newsEntries-ru</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:26.085872+00:00</updated>
+  <updated>2025-02-21T10:38:12.145028+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -295,5 +295,16 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Сообщество"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>Важное объявление: приложение Amazon Appstore прекращает свою работу</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;Внимание, фермеры! &lt;/h1&gt;
+&lt;p&gt;Недавно компания Amazon объявила о прекращении работы своего магазина приложений для мобильных устройств с августа этого года. Если ваша текущая версия Hay Day была скачана из Amazon Appstore для мобильных устройств, это событие затронет вас напрямую, поскольку в результате прекращения работы магазина &lt;b&gt;вы потеряете доступ к своей учетной записи на соответствующем устройстве&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Но не волнуйтесь: мы поможем вам сохранить ваши фермерские достижения.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Что нужно знать:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;если ваша текущая версия Hay Day была скачана из Amazon Appstore для мобильных устройств, прекращение работы магазина затронет вас напрямую;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;как только это случится, вы больше не сможете получить доступ к своей учетной записи через Amazon Appstore.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Что можно сделать сейчас?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Используйте для игры планшет вместо смартфона&lt;/b&gt; — Amazon Appstore продолжит свою работу на планшетах.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Зарегистрируйте Supercell ID&lt;/b&gt; — это единственный способ полностью обезопасить учетную запись и сохранить достижения. Supercell ID позволяет войти в учетную запись с другого устройства при помощи привязанного адреса электронной почты.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Как создать Supercell ID?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Инструкцию по созданию Supercell ID можно найти здесь: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Fru%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/hay-day/ru/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Мы советуем сделать что-либо из перечисленного в этой статье как можно скорее, чтобы не потерять свой достижения! Если у вас возникнут вопросы, пожалуйста, обратитесь в нашу службу поддержки.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ru/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Новости"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>

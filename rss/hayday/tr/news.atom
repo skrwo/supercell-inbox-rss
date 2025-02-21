@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:25.218811+00:00</updated>
+  <updated>2025-02-21T10:38:12.871626+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -284,5 +284,16 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Topluluk"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>Önemli Duyuru: Amazon Mobile App Store Kapanıyor</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;Dikkat çiftçiler! &lt;/h1&gt;
+&lt;p&gt;Geçtiğimiz günlerde Amazon, mobil mağazalarını bu senenin ağustos ayında kapatacaklarını duyurdu. Hay Day&amp;#39;i Amazon Mobile Store üzerinden indirdiyseniz veya oynuyorsanız bu değişiklik sizi doğrudan etkileyecektir çünkü &lt;b&gt;er ya da geç ilgili cihazda hesabınıza erişiminizi kaybedeceksiniz&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Ama endişelenmeyin, ilerlemenizi güvence altına almanıza ve çiftçiliğe devam etmenize yardımcı olmak için buradayız!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bilmeniz gerekenler:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Hay Day&amp;#39;i Amazon Mobile App Store üzerinden indirdiyseniz veya oynuyorsanız bu değişiklik sizi doğrudan etkileyecektir.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mağaza kapandıktan sonra Amazon Mobile App Store üzerinden hesabınıza erişemeyeceksiniz.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Şu anda yapabilecekleriniz:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tablete geçmek&lt;/b&gt;: Amazon Store tabletlerde desteklenmeye devam edeceği için tablet üzerinden oynayabilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Supercell ID oluşturmak&lt;/b&gt;: Hesabınızı ve ilerlemenizi güvende tutmanın tek yolu budur! Supercell ID sayesinde hesabınızla ilişkili e-posta adresini kullanarak farklı bir cihazdan oyuna giriş yapabilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Supercell ID nasıl oluşturulur:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Supercell ID oluşturmak için şu yönergeleri takip edin: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Ftr%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/hay-day/tr/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;İlerlemenizi kaybetmemek için bu değişiklikleri mümkün olduğunca kısa sürede yapmanızı öneririz. Başka sorularınız varsa destek ekibimize ulaşmaktan çekinmeyin!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Haberler"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>

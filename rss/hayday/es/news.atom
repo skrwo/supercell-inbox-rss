@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:26.724555+00:00</updated>
+  <updated>2025-02-21T10:38:18.129981+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -284,5 +284,16 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Comunidad"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>Anuncio importante: cierre de la Appstore de Amazon para móviles</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;¡Atención! &lt;/h1&gt;
+&lt;p&gt;Amazon anunció que en agosto se producirá el cierre de su tienda para dispositivos móviles. Si juegas a Hay Day o lo descargaste a través de la Appstore de Amazon en tu dispositivo móvil, este cambio te afectará de forma directa, ya que &lt;b&gt;terminarás perdiendo el acceso a tu cuenta en ese dispositivo&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;¡No te preocupes, estamos aquí para que puedas seguir progresando en la granja!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Qué necesitas saber&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Si juegas a Hay Day o lo descargaste a través de la Appstore de Amazon para móviles, este cambio te afectará de forma directa.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Una vez que cierre la tienda, perderás el acceso a tu cuenta a través de la Appstore de Amazon para dispositivos móviles.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Qué puedes hacer&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Usar una tableta&lt;/b&gt;: la Appstore de Amazon seguirá estando disponible para este tipo de dispositivos, así que podrás seguir jugando si usas una tableta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Crear un Supercell ID&lt;/b&gt;: esta es la única manera de que tanto tu cuenta como el progreso que realices estén a salvo. El Supercell ID te permite iniciar sesión en otro dispositivo a través de la misma dirección de correo electrónico a la que se vincule la cuenta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cómo crear un Supercell ID&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Para crear un Supercell ID, sigue las instrucciones que encontrarás en el siguiente enlace: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Fen%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/hay-day/en/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Te recomendamos hacer estos cambios lo antes posible para evitar la pérdida de progreso. Si tienes cualquier pregunta, no dudes en ponerte en contacto con nuestro equipo de asistencia.&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Noticias"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>

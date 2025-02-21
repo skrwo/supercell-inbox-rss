@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:26.916240+00:00</updated>
+  <updated>2025-02-21T10:38:15.110942+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -309,5 +309,19 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Community"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>Important Announcement: Amazon Mobile App Store Shutdown</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;Attention, Farmers! &lt;/h1&gt;
+&lt;p&gt;Amazon recently &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdeveloper.amazon.com%252Fapps-and-games%252Fblogs%252F2025%252F02%252Fupcoming-changes-to-amazon-appstore-for-android-devices-and-coins-program')"&gt;announced&lt;/a&gt; that they will be shutting down their store for mobile devices this August. If you downloaded or are currently playing Hay Day through the Amazon Mobile Store, this change is going to directly affect you, as &lt;b&gt;you will eventually lose access to your account on that device&lt;/b&gt;.
+&lt;/p&gt;&lt;p&gt;But don’t worry - we’re here to help you secure your progress and keep farming!&lt;/p&gt;&lt;p&gt;&lt;b&gt;What You Need to Know: &lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;If you downloaded or currently play Hay Day through the Amazon Mobile App Store, this change directly affects you.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Once the store shuts down, you’ll no longer be able to access your account through the Amazon Mobile App Store.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;What you can do now:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;
+&lt;b&gt;Switch to a tablet&lt;/b&gt; - The Amazon Store will still be available on tablets, so you can continue playing there.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create a Supercell ID&lt;/b&gt; - This is the only way to keep your account and progress safe! Your Supercell ID allows you to log in on another device using the same email address linked to your account.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;How to create a Supercell ID:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;To create a Supercell ID, follow &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Fen%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;&lt;u&gt;these instructions&lt;/u&gt;&lt;/a&gt;: https://support.supercell.com/hay-day/en/articles/saving-your-account-to-supercell-id.html&lt;/p&gt;&lt;p&gt;We recommend making these changes as soon as possible to avoid losing your progress! If you have any questions, don’t hesitate to reach out to our support team!&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi">
   <id>hayday-newsEntries-fi</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:25.022112+00:00</updated>
+  <updated>2025-02-21T10:38:17.453069+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -295,5 +295,16 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Yhteisö"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>Tärkeä tiedote: Amazon Mobile App Store sulkeutuu</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;Huomio, farmarit! &lt;/h1&gt;
+&lt;p&gt;Amazon on julkaissut tiedotteen, jossa he kertovat sulkevansa sovelluskauppansa tämän vuoden elokuussa. Jos olet ladannut tai pelaat tällä hetkellä Hay Dayta Amazon Mobile Storen kautta, tämä muutos vaikuttaa sinuun. &lt;b&gt;Menetät pääsyn tilillesi kyseisellä laitteella&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Älä kuitenkaan huoli – autamme mielellämme sinua siirtämään tilisi ja edistymisesi, jotta voit jatkaa pelaamista!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mitä sovelluskaupan sulkeminen tarkoittaa?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Jos olet ladannut tai pelaat tällä hetkellä Hay Dayta Amazon Mobile Storen kautta, muutos vaikuttaa sinuun.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Kun sovelluskauppa sulkeutuu, menetät pääsyt tilillesi Amazon Mobile App Storen kautta.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Mitä voit tehdä?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vaihda tablettiin&lt;/b&gt;: Amazon Store on edelleen käytettävissä tableteilla. Voit siis jatkaa pelaamista, jos käytät tablettia tai vaihdat käyttämääsi laitetta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Luo Supercell ID&lt;/b&gt;: Tämä on ainoa tapa pitää tilisi ja edistymisesi turvassa! Supercell ID:n avulla voit kirjautua sisään toisella laitteella käyttämällä tiliisi yhdistettyä sähköpostiosoitetta.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Näin voit luoda Supercell ID:n&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;Seuraa näitä ohjeita Supercell ID:n luomiseksi: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Ffi%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/hay-day/fi/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Suosittelemme toimimaan mahdollisimman nopeasti, jotta et menetä edistymistäsi pelissä! Jos sinulla on kysyttävää, otathan yhteyttä tukitiimiimme!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fi/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Uutiset"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>

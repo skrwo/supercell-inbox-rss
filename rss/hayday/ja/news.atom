@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>hayday-newsEntries-ja</id>
   <title>Hayday - News</title>
-  <updated>2025-02-21T09:32:24.834632+00:00</updated>
+  <updated>2025-02-21T10:38:19.726932+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -295,5 +295,16 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="コミュニティ"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>53wICfLQacg429chxZKH71</id>
+    <title>重要なお知らせ：Amazonモバイルアプリストアのサービス終了</title>
+    <updated>2025-02-21T10:00:34.352000+00:00</updated>
+    <content>&lt;h1&gt;農場主の皆さん、重要なお知らせです！ &lt;/h1&gt;
+&lt;p&gt;Amazonが、モバイルデバイス向けストアのサービスを今年の8月に終了する旨を発表しました。Amazonモバイルストアでヘイ・デイをダウンロードした、または現在ヘイ・デイをプレイしている方は、サービス終了の影響を直接受け、&lt;b&gt;最終的にはデバイスからアカウントにアクセスできなくなります&lt;/b&gt;。&lt;/p&gt;&lt;p&gt;ですが今回、ゲームの進行状況を保存する方法を説明しますので、どうぞご安心ください。&lt;/p&gt;&lt;p&gt;&lt;b&gt;注意事項：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Amazonモバイルストアでヘイ・デイをダウンロードした、または現在ヘイ・デイをプレイしている方は、サービス終了の影響を直接受けることになります。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;サービス終了以降、モバイルアプリストアからアカウントにアクセスすることができなくなります。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;対処法：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;タブレット端末への移行&lt;/b&gt; - Amazonストアはタブレットで引き続き利用が可能となり、ゲームのプレイを継続することができます。&lt;/p&gt;&lt;p&gt;&lt;b&gt;Supercell IDの作成&lt;/b&gt; - 作成したSupercell IDにメールアドレスを接続することでアカウントと進行状況が保護され、別のデバイスでログインできるようになります。&lt;/p&gt;&lt;p&gt;&lt;b&gt;Supercell IDの作成方法：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Supercell IDを作成するには、次の手順に従ってください：&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fhay-day%252Fja%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/hay-day/ja/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;進行状況の喪失を防ぐため、上記の対処法をできるだけ早く完了することをお勧めいたします。ご質問やご不明な点がございましたら、サポートチームまでお気軽にお問い合わせください。&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/ja/news/53wICfLQacg429chxZKH71"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2025-02-26T22:00:00+00:00</published>
   </entry>
 </feed>
