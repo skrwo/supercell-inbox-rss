@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-21T08:38:12.315435+00:00</updated>
+  <updated>2025-02-21T09:32:28.764529+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1264,17 +1264,17 @@
   <entry>
     <id>4YvU4YrHLVctJaMBzKEjO9</id>
     <title>2025年2月更新詳情！</title>
-    <updated>2025-02-20T12:29:44.574000+00:00</updated>
+    <updated>2025-02-21T08:53:46.119000+00:00</updated>
     <content>&lt;h1&gt;2月更新來囉，你準備好了嗎？&lt;/h1&gt;
 &lt;p&gt;《破壞突擊隊》告別了冬天，迎來春暖花開的季節——我們將推出一個全新模式來展開歡樂大亂鬥！&lt;b&gt;「小雞快跑」閃亮登場&lt;/b&gt;，這是一個限時模式，你的任務是拯救《卡通農場》裡的小雞！將小雞帶回地圖中央的雞舍、抵擋一波波狡猾的怪物，堅持越久越好！全力以赴拯救小雞，在新上線的&lt;b&gt;活動商店&lt;/b&gt;中&lt;b&gt;用救回的小雞兌換豐厚獎勵&lt;/b&gt;！&lt;/p&gt;&lt;p&gt;在本次更新中，我們還對星星寶箱進行了一些調整！星星寶箱不再是完全隨機的，&lt;b&gt;它會提供最多四種角色供你選擇&lt;/b&gt;，讓你能更加掌控自己的收藏方向。此調整也適用於星星寶箱開出頂尖或終極角色的情況！此外，星星寶箱不再會開出新角色，且征程等級需要達到50級才能解鎖這種寶箱。&lt;/p&gt;&lt;p&gt;我們還帶來了一系列&lt;b&gt;平衡性調整&lt;/b&gt;、&lt;b&gt;全新決鬥模式地圖、造型、問題修復和遊戲性優化&lt;/b&gt;。繼續往下看，了解詳細資訊吧！&lt;/p&gt;
 &lt;h1&gt;全新模式：小雞快跑&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4QCDzCNuLVR2TJzOGxAUsR/19e393c1548c1ef4a2c2db2ce5b4bf82/Chicks.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
 &lt;p&gt;3名玩家組成一支隊伍，盡量拯救更多的小雞，同時保護牠們躲過一波又一波怪物的攻擊！&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;需要輪流應對兩種情況：拯救小雞和阻止怪物攻擊地圖中央的雞舍&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;盡快擊殺怪物，以獲取額外的拯救小雞時間！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;注意，要保護好雞舍唷！如果雞舍被摧毀，遊戲就會提前結束。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;每拯救1隻小雞，即可獲得1個小雞代幣作為獎勵。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;大家可以從廣場進入小雞商店，使用小雞代幣兌換獎勵。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;需要輪流應對兩種情況：拯救小雞和阻止怪物攻擊地圖中央的雞舍&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;盡快擊殺怪物，以獲取額外的拯救小雞時間！&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;注意，要保護好雞舍唷！如果雞舍被摧毀，對戰就會提前結束。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;每拯救1隻小雞，即可獲得1個小雞代幣作為獎勵。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;大家可以從廣場進入小雞商店，使用小雞代幣兌換獎勵。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;遊戲玩法相關調整&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2dQGWZHKFcpS1G2MWzFuds/f6db01f0d091259f1daeeb83068b576a/Gameplay_Changes.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
 &lt;p&gt;我們正在不斷優化遊戲，推出有新意的調整，讓對戰一直保持快節奏，充滿趣味和刺激感！&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;調整後的超級藥水將變得較為難以預測&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;決鬥模式中的超級藥水不再定時生成，而是會隨機地更快/更慢生成。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;此隨機性會隨著超級藥水平台慢慢被藤蔓覆蓋而逐漸提升。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;如果有玩家直接站在生成平台上，則不會再生成超級藥水，藉此鼓勵玩家不去「蹲守」超級藥水。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;超級藥水不再提供治療。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**隨機事件「戰利品狂潮」**生成的戰利品數量稍微減少，以優化遊戲流暢度。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;新決鬥模式地圖&lt;/b&gt;已加入地圖循環中**：**&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;海島世界：&lt;b&gt;前線暗礁&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;寒冰世界：&lt;b&gt;雷霆冰川&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;熔岩世界：&lt;b&gt;熔岩決鬥場&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;驚悚世界：&lt;b&gt;荊棘淺灘&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;調整後的超級藥水將變得較為難以預測&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;決鬥模式中的超級藥水不再定時生成，而是會隨機地更快/更慢生成。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;此隨機性會隨著超級藥水平台慢慢被藤蔓覆蓋而逐漸提升。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;如果有玩家直接站在生成平台上，則不會再生成超級藥水，藉此鼓勵玩家不去「蹲守」超級藥水。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;超級藥水不再提供治療。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;隨機事件「戰利品狂潮」&lt;/b&gt;生成的戰利品數量稍微減少，以優化遊戲流暢度。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;新決鬥模式地圖&lt;/b&gt;已加入地圖循環中：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;海島世界：&lt;b&gt;前線暗礁&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;寒冰世界：&lt;b&gt;雷霆冰川&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;熔岩世界：&lt;b&gt;熔岩決鬥場&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;驚悚世界：&lt;b&gt;荊棘淺灘&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;角色平衡性調整&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KsQsrBSirz5fLy3IVP7WU/f9132cbcc92a3d42803e25c446da368a/BuffsNerfs.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
 &lt;p&gt;戰場形勢千變萬化，角色也是如此！我們帶來了多項調整，讓所有角色都能做到強大且平衡。&lt;/p&gt;
@@ -1284,18 +1284,18 @@
 &lt;p&gt;《破壞突擊隊》變得更棒囉！這次我們推出了全新功能，目的在於優化寶箱、讓每場對戰都能為玩家帶來新鮮體驗。&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;星星寶箱&lt;/b&gt;現在會提供最多4個角色讓玩家選擇，以提升星星寶箱的價值。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;現在點擊&lt;b&gt;刷新的遊戲模式&lt;/b&gt;可獲得少量寶石。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;現在可用金幣購買&lt;b&gt;失去的寶箱點擊次數&lt;/b&gt;，讓玩家能夠充分地利用對戰寶箱和寶箱加成。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;用戶介面/用戶體驗&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;現在每場對戰的結算介面會單獨顯示你的&lt;b&gt;最終&lt;/b&gt; &lt;b&gt;排名&lt;/b&gt;。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;現在每場對戰的結算介面會單獨顯示你的&lt;b&gt;最終排名&lt;/b&gt;。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;全新造型&lt;/h1&gt;
 &lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1JomPAyfaDeim0WTRPohIA/a8933f601305be96c713b2850b00d329/Skins.png?w=300&amp;h=300&amp;f=center&amp;fit=pad"&gt;
 &lt;p&gt;全新主題造型來囉！為你的突擊隊增添自然魅力、歡樂氣息和節日風情！&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;**森林主題：**弓箭女皇、哥布林、弓箭手、女巫。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**蔬菜主題：**柯爾特、格雷格、碧兒、商人。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;**復活節主題：**梅維斯、拉夫上校、母雞、爆破麥克、波可。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;森林主題：&lt;/b&gt;弓箭女皇、哥布林、弓箭手、女巫。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;蔬菜主題：&lt;/b&gt;柯爾特、格雷格、碧兒、商人。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;復活節主題：&lt;/b&gt;梅維斯、拉夫上校、母雞、爆破麥克、波可。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h1&gt;其他平衡性調整&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;星星寶箱調整&lt;/b&gt;：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;對於新玩家，世界征程需達到50級才可解鎖星星寶箱功能；對於之前就能使用星星寶箱的玩家，仍可正常使用該功能。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;現在解鎖星星寶箱可獲得100星星幣。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;星星寶箱不會再包含更便宜的初始寶箱，現在每次開啟星星寶箱的花費都是500星星幣。如果玩家之前已解鎖星星寶箱但尚未領取更便宜的初始寶箱，這一規則也同樣適用。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;星星寶箱不會再開出新角色，且只會開出高手、頂尖或終極角色。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;調整世界征程1至50級的獎勵：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;星星幣獎勵已替換為其他獎勵。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;現在綠野世界的最後一級將解鎖野蠻人之王（之前是從星星寶箱中開出）。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;決鬥調整：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;現在，根據最終排名，你可以透過決鬥獲得更多寶石。&lt;/p&gt;
-&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/2Ymuco0HhST7oNkNxRmgLq/d84e9db9103d68d631fcb68e0017402a/Position_GEM_rewards_showdown_reworked_FIX.png?w=998&amp;h=742&amp;f=center&amp;fit=fill"&gt;
+&lt;img src="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6NnCyhB7a20VgAGTK1LSg8/af98db682bbe6b47421d28d5183a4268/tw_20250218_Position_GEM_rewards_showdown_reworked_FIX.png?w=998&amp;h=742&amp;f=center&amp;fit=fill"&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;決鬥獲勝的條件從排名前2調整為排名前3。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;新玩家在完成第一場對戰後，可立即解鎖每日獲勝獎勵。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;現在從寶箱中開出已滿級角色的機率變小，開出仍需升級的角色機率更大。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;新手任務金幣獎勵減少：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;第1天：20,000 → 10,000&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;第4天：10,000 → 5,000&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;第6天：10,000 → 5,000&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;h1&gt;問題修復及優化&lt;/h1&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;極端情況下，&lt;b&gt;藤蔓在對戰開始時就會出現&lt;/b&gt;——針對這種情況，我們&lt;b&gt;延後了藤蔓出現的時間&lt;/b&gt;，給玩家更多時間來選擇第一個角色。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;如果沒有東西可以領取，&lt;b&gt;連環特惠現在會自動捲動至第一個尚未購買的物品。&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復裝置記憶體不足時重播會導致遊戲閃退的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復雙人寶石大作戰排名順序混亂的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復「超時出局」隨機事件的相關問題，該問題曾導致玩家在不是因為超時而出局的情況下，仍能保留透過初始時鐘獲得的200顆寶石。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;優化尋路和碰撞系統，以提升遊戲效能。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;配對機制調整：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;放寬配對的世界限制：現在你配對到的玩家可能來自你尚未解鎖的世界。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;突擊隊聯賽配對現在會為玩家配對到更高排位的對手，以提高頂尖對戰的競爭。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;星星寶箱的資訊提示中加入了一個連結，點擊會跳轉到介紹寶箱獎勵機率的支援文章（&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fsquad-busters%252Fzh%252Findex.html')"&gt;商店和超級通行證寶箱獎勵機率 | Supercell幫助與支援中心&lt;/a&gt;）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;極端情況下，&lt;b&gt;藤蔓在對戰開始時就會出現&lt;/b&gt;——針對這種情況，我們&lt;b&gt;延後了藤蔓出現的時間&lt;/b&gt;，給玩家更多時間來選擇第一個角色。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;如果沒有東西可以領取，&lt;b&gt;連環特惠現在會自動捲動至第一個尚未購買的物品。&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復裝置記憶體不足時重播會導致遊戲閃退的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復雙人寶石大作戰排名順序混亂的問題。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;修復「超時出局」隨機事件的相關問題，該問題曾導致玩家在不是因為超時而出局的情況下，仍能保留透過初始時鐘獲得的200顆寶石。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;優化尋路和碰撞系統，以提升遊戲效能。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;配對機制調整：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;放寬配對的世界限制：現在你配對到的玩家可能來自你尚未解鎖的世界。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;突擊隊聯賽配對現在會為玩家配對到更高排位的對手，以提高頂尖對戰的競爭。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;星星寶箱的資訊提示中加入了一個連結，點擊會跳轉到介紹寶箱獎勵機率的支援文章（&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fsquad-busters%252Fen%252Farticles%252Fchest-reward-chances.html')"&gt;商店和超級通行證寶箱獎勵機率 | Supercell幫助與支援中心&lt;/a&gt;）&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
     <link href="https://squadbusters.inbox.supercell.com/#/zh/news/4YvU4YrHLVctJaMBzKEjO9"/>
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4KCdHxfwD1Z23In80xPzUg/cc6c2209d43be206af80c943d7a861b2/SB_chicken_hatchlings_KeyArt_YB__1920x1080__NO_LOGO_.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
