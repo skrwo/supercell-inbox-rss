@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashofclans-newsEntries-id</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-21T07:29:30.030447+00:00</updated>
+  <updated>2025-02-21T08:38:08.502950+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -55,7 +55,7 @@
   <entry>
     <id>3Wr22ehK2MnjehS6jDyn7U</id>
     <title>Bug Acara Berantai dan Kompensasi!</title>
-    <updated>2025-01-21T03:57:28.175000+00:00</updated>
+    <updated>2025-02-21T07:49:15.972000+00:00</updated>
     <content>&lt;h1&gt;Acara Berantai kembali!&lt;/h1&gt;
 &lt;p&gt;Sebagaimana yang telah kamu ketahui, kami merilis Acara Berantai dalam game Senin kemarin. Sayangnya, kami menemukan sejumlah bug tak terduga di acara ini. Secara spesifik, ada bug yang menyebabkan tugas pertama diselesaikan secara otomatis, dan ada juga bug yang menyebabkan serangan tugas kedua tidak dihitung ke progres acara bagi sejumlah pemain.&lt;/p&gt;&lt;p&gt;Kami memahami bahwa ini bukan pertama kalinya terjadi masalah pada Acara Berantai. Meski kami sudah melakukan uji coba menyeluruh untuk memastikan acara ini siap dinikmati, sayangnya pada kenyataannya masih terdapat kendala. Kami memahami betapa menyebalkan situasi ini. Kami ingin kamu tahu bahwa kami merasakan hal yang sama setelah komitmen kami untuk menghadirkan acara yang seru masih belum terwujud.&lt;/p&gt;&lt;p&gt;Singkat kata, kami ingin memastikan padamu bahwa kami telah melakukan beberapa hal untuk menangani masalah ini. Saat kami menyampaikan ini, kami telah merilis jeda pemeliharaan untuk menyelesaikan masalah dengan Acara Berantai.&lt;/p&gt;&lt;p&gt;Selain itu, sebagai bentuk terima kasih atas kesabaranmu dan kompensasi atas ketidaknyamanan ini, kami akan menghadirkan hal-hal berikut:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Durasi&lt;/b&gt; &lt;b&gt;Acara Berantai&lt;/b&gt; akan diperpanjang selama 2 hari&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Acara Bonus Bintang Harian 4x:&lt;/b&gt; Mulai dari Kamis ini, 16 Januari 08.00 UTC (15.00 WIB) hingga Minggu, 19 Januari 08.00 UTC (15.00 WIB)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;Pelaju Sumber Daya 1 Permata:&lt;/b&gt; Mulai dari Kamis ini, 16 Januari 08.00 UTC (15.00 WIB) hingga Senin, 20 Januari 08.00 UTC (15.00 WIB)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Kami mohon maaf atas ketidaknyamanan ini dan berterima kasih sekali atas pengertianmu. Terima kasih sudah bersabar, Chief!&lt;/p&gt;&lt;p&gt;- Tim Clash of Clans&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/id/news/3Wr22ehK2MnjehS6jDyn7U"/>
@@ -178,5 +178,16 @@ Menara Pilihan Ganda: Level 1-2&lt;/p&gt;&lt;h2&gt;&lt;b&gt;Peningkatan Kualitas
     <link href="https://make.supercell.com/en/campaign/7pR4oA7PLywC1O21zHnv0z"/>
     <category term="Komunitas"/>
     <published>2025-02-18T11:49:16+00:00</published>
+  </entry>
+  <entry>
+    <id>40wJ32VZe6FpMhE4qagiUO</id>
+    <title>Selamatkan Progres Akun Clash!</title>
+    <updated>2025-02-21T08:24:16.368000+00:00</updated>
+    <content>&lt;h1&gt;Penutupan Toko Aplikasi Amazon – Yang Perlu Kamu Ketahui!&lt;/h1&gt;
+&lt;p&gt;Halo, Chief!&lt;/p&gt;&lt;p&gt;Sebagaimana yang mungkin kamu ketahui, Amazon baru-baru ini mengumumkan bahwa mereka akan menutup Toko Aplikasi mereka untuk perangkat seluler. (&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdeveloper.amazon.com%252Fapps-and-games%252Fblogs%252F2025%252F02%252Fupcoming-changes-to-amazon-appstore-for-android-devices-and-coins-program')"&gt;Kamu bisa menemukan pengumuman terkini di sini&lt;/a&gt;). Kami ingin memastikan &lt;b&gt;KAMU&lt;/b&gt; mengetahui bahwa berita ini dapat memengaruhi akun Clash of Clans milikmu serta langkah apa yang sebaiknya kamu lakukan.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Kenapa ini penting?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Jika kamu mengunduh Clash of Clans melalui Toko Aplikasi Amazon, kamu &lt;b&gt;suatu saat akan kehilangan akses akun pada perangkat tersebut&lt;/b&gt; ketika Toko Aplikasi Amazon ditutup sepenuhnya.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Apa yang sebaiknya dilakukan berikutnya?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Untuk mengamankan akun milikmu, &lt;b&gt;pastikan untuk menyambungkan akun ke Supercell ID&lt;/b&gt;. Ini memungkinkan kamu untuk mengakses akun melalui alamat email yang tersambung ke Supercell ID dan memuat Desa di perangkat lain ATAU &lt;b&gt;beralih bermain di tablet&lt;/b&gt; karena Toko Aplikasi Amazon masih akan tersedia di tablet! Cukup pastikan progres milikmu tersimpan di Supercell ID!&lt;/p&gt;&lt;p&gt;Jangan khawatir karena kami akan membantumu! Kami telah menyiapkan instruksi langkah demi langkah yang akan membantumu selama proses ini. Cukup ikuti langkah pada tautan di bawah ini!&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Cara Menyambungkan Akun dengan Supercell ID&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Untuk membuat akun Supercell ID, ikuti instruksi pada tautan ini: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fclash-of-clans%252Fid%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/clash-of-clans/id/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Perlu bantuan?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Jika kamu punya pertanyaan atau kendala, Tim Dukungan akan membantu dengan senang hati! Silakan menghubungi mereka dengan mengetuk “Bantuan dan Dukungan” di pengaturan game Anda!&lt;/p&gt;&lt;p&gt;- Tim Clash of Clans&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/id/news/40wJ32VZe6FpMhE4qagiUO"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8qBCdQxFglQm03OKeFABp/d6ac3cfb1f89a682b28728cf7adeae27/farewell_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Berita"/>
+    <published>2025-02-21T08:24:04+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashofclans-newsEntries-ja</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-21T07:29:32.006566+00:00</updated>
+  <updated>2025-02-21T08:38:07.606609+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -133,7 +133,7 @@
   <entry>
     <id>3Wr22ehK2MnjehS6jDyn7U</id>
     <title>連続クリアイベントの不具合＆補填！</title>
-    <updated>2025-01-21T03:57:28.175000+00:00</updated>
+    <updated>2025-02-21T07:49:15.972000+00:00</updated>
     <content>&lt;h1&gt;連続クリアイベントが復活！&lt;/h1&gt;
 &lt;p&gt;先週の月曜日に連続クリアイベントが始まりましたが、その際に予期せぬ不具合が確認されました。内容としましては、最初のタスクが自動的に完了されてしまい、その後一部のプレイヤーで2番目のタスクの攻撃がイベントの進行にカウントされないというものです。&lt;/p&gt;&lt;p&gt;連続クリアイベントでは以前にも問題が発生しており、今回はそれを踏まえて入念にテストを行いましたが、それでもイベントを完全な状態でお届けできなかったことを心からお詫び申し上げます。皆さまのご不満を解消するとともに、イベントを存分にお楽しみいただくため、ゲームの改善に邁進してまいります。&lt;/p&gt;&lt;p&gt;しかしながら、このお知らせの公開と同時にメンテナンスを行いましたので、不具合の解決はすでに完了しております。&lt;/p&gt;&lt;p&gt;また、皆さまのご理解とご協力に対する感謝の気持ち、ならびに不具合のお詫びを兼ね、次の対応を行わせていただきます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;連続クリアイベント&lt;/b&gt;の期間を2日延長します&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;デイリー星ボーナス4倍イベント&lt;/b&gt;の期間は、日本時間1月16日（木）午後5時から1月19日（日）午後5時までとなります&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;1エメラルド資源ブースト&lt;/b&gt;の期間は、日本時間1月16日（木）午後5時から1月20日（月）午後5時までとなります&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;この度はご不便とご迷惑をおかけし、誠に申し訳ございませんでした。今後とも引き続き、クラッシュ・オブ・クランをよろしくお願い申し上げます。&lt;/p&gt;&lt;p&gt;クラッシュ・オブ・クランチーム一同&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/ja/news/3Wr22ehK2MnjehS6jDyn7U"/>
@@ -259,5 +259,16 @@ P.E.K.K.A：レベル12
     <link href="https://make.supercell.com/en/campaign/7pR4oA7PLywC1O21zHnv0z"/>
     <category term="コミュニティ"/>
     <published>2025-02-18T11:49:16+00:00</published>
+  </entry>
+  <entry>
+    <id>40wJ32VZe6FpMhE4qagiUO</id>
+    <title>ゲームの進行状況を保存しましょう！</title>
+    <updated>2025-02-21T08:24:16.368000+00:00</updated>
+    <content>&lt;h1&gt;Amazonモバイルアプリストアのサービス終了 – 重要情報を確認！&lt;/h1&gt;
+&lt;p&gt;こんにちは、チーフ！&lt;/p&gt;&lt;p&gt;ご存じの通り、Amazonがモバイルアプリストアのサービス終了を発表しました（&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdeveloper.amazon.com%252Fapps-and-games%252Fblogs%252F2025%252F02%252Fupcoming-changes-to-amazon-appstore-for-android-devices-and-coins-program')"&gt;Amazonの発表はこちらからご確認いただけます&lt;/a&gt;）。ぜひ本記事で、&lt;b&gt;ご自身の&lt;/b&gt;クラッシュ・オブ・クランアカウントが受ける影響と、次に取るべき手順についてご確認ください。&lt;/p&gt;&lt;h3&gt;&lt;b&gt;発生する影響は？&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Amazonモバイルアプリストアからクラッシュ・オブ・クランをダウンロードしている場合、サービスが完全に終了した後、&lt;b&gt;デバイスに保存されたアカウントにアクセスできなくなってしまいます&lt;/b&gt;。&lt;/p&gt;&lt;h3&gt;&lt;b&gt;取るべき手順は？&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;アカウントを安全に保護するため、&lt;b&gt;Supercell IDへの接続をご検討ください&lt;/b&gt;。アカウントをSupercell IDに接続すると、登録されたメールアドレスを通じて他のデバイスでゲームを再開することが可能です。また、Amazonストアのサービスはタブレットでは継続されるため、&lt;b&gt;タブレットに移行&lt;/b&gt;すればプレイを続けることができます。ただしどちらの場合でも、Supercell IDに進行状況を保存するようにしてください。&lt;/p&gt;&lt;p&gt;以下の簡単な手順に従うだけで、進行状況を保存することが可能です。下記のリンクで説明いたしますので、どうぞご確認ください。&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Supercell IDへのアカウントの接続方法&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Supercell IDアカウントを作成するには、次のリンク先の指示に従ってください：&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fclash-of-clans%252Fja%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://support.supercell.com/clash-of-clans/ja/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;何かお困りですか？&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;ご質問やご懸念がおありの場合、弊社のサポートチームがお手伝いいたしますので、ゲームの設定から「ヘルプとサポート」をクリックしてお気軽にお問い合わせください。&lt;/p&gt;&lt;p&gt;クラッシュ・オブ・クランチーム一同&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ja/news/40wJ32VZe6FpMhE4qagiUO"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8qBCdQxFglQm03OKeFABp/d6ac3cfb1f89a682b28728cf7adeae27/farewell_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="ニュース"/>
+    <published>2025-02-21T08:24:04+00:00</published>
   </entry>
 </feed>

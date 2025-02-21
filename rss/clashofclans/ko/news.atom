@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-21T07:29:30.646764+00:00</updated>
+  <updated>2025-02-21T08:38:07.434828+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -73,7 +73,7 @@
   <entry>
     <id>3Wr22ehK2MnjehS6jDyn7U</id>
     <title>연속 이벤트 버그 및 보상!</title>
-    <updated>2025-01-21T03:57:28.175000+00:00</updated>
+    <updated>2025-02-21T07:49:15.972000+00:00</updated>
     <content>&lt;h1&gt;연속 이벤트가 돌아왔습니다!&lt;/h1&gt;
 &lt;p&gt;이미 알고 계시겠지만, 지난 월요일에 연속 이벤트가 다시 게임에 등장했습니다. 하지만 진행 중에 예상치 못한 버그가 발생했습니다. 구체적으로, 첫 번째 과제가 자동으로 완료되었고, 일부 플레이어의 두 번째 작업의 공격이 이벤트 진행도에 반영되지 않는 문제가 발생했습니다.&lt;/p&gt;&lt;p&gt;연속 이벤트에서 발생한 문제가 이번이 처음이 아님을 저희도 인지하고 있습니다. 모든 플레이어가 이벤트를 즐길 수 있도록 철저히 테스트했음에도 불구하고, 이런 문제가 발생해 매우 유감입니다. 이 문제로 실망하셨을 여러분의 마음을 잘 알고 있습니다.&lt;/p&gt;&lt;p&gt;따라서 이번 문제를 해결하기 위해 즉시 조치를 취했습니다. 이미 점검이 진행되었으며, 해당 문제는 현재 해결되었습니다.&lt;/p&gt;&lt;p&gt;기다려 주셔서 감사드리며, 이번 문제로 인해 불편을 끼쳐 드린 점을 만회하기 위해 다음과 같은 이벤트를 준비했습니다&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;연속 이벤트&lt;/b&gt; &lt;b&gt;기한&lt;/b&gt;이 이틀 연장됩니다.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;4배 별 보너스 이벤트:&lt;/b&gt; 1월 16일 목요일 오전 8시(UTC)에 시작, 1월 19일 일요일 오전 8시(UTC)에 종료&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;b&gt;보석 1개 자원 부스터 이벤트:&lt;/b&gt; 1월 16일 목요일 오전 8시(UTC)에 시작, 1월 20일 월요일 오전 8시(UTC)에 종료&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;다시 한번 불편을 끼쳐 드린 점 사과드리며, 양해해 주셔서 감사합니다!&lt;/p&gt;&lt;p&gt;클래시 오브 클랜 팀&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/ko/news/3Wr22ehK2MnjehS6jDyn7U"/>
@@ -184,5 +184,16 @@
     <link href="https://make.supercell.com/en/campaign/7pR4oA7PLywC1O21zHnv0z"/>
     <category term="커뮤니티"/>
     <published>2025-02-18T11:49:16+00:00</published>
+  </entry>
+  <entry>
+    <id>40wJ32VZe6FpMhE4qagiUO</id>
+    <title>클래시 계정의 진행 상황을 저장하세요!</title>
+    <updated>2025-02-21T08:24:16.368000+00:00</updated>
+    <content>&lt;h1&gt;Amazon Mobile App Store 서비스 종료 - 안내 사항!&lt;/h1&gt;
+&lt;p&gt;안녕하세요, 대장님!&lt;/p&gt;&lt;p&gt;이미 알고 계시겠지만, 최근 Amazon이 Mobile App Store 서비스를 중단한다는 소식을 발표했습니다. (&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdeveloper.amazon.com%252Fapps-and-games%252Fblogs%252F2025%252F02%252Fupcoming-changes-to-amazon-appstore-for-android-devices-and-coins-program')"&gt;Amazon의 최신 공지는 여기에서 확인하실 수 있습니다.&lt;/a&gt;) 이번 소식이 &lt;b&gt;대장님&lt;/b&gt;의 클래시 오브 클랜 계정에 어떤 영향을 미치는지, 그리고 이와 관련해 어떤 조치가 필요한지를 알려드리겠습니다.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;이번 소식이 왜 중요한가요?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Amazon Mobile App Store를 통해 클래시 오브 클랜을 다운로드한 경우, Amazon Mobile App Store 서비스가 종료되면 &lt;b&gt;게임을 플레이하던 기기에서 게임 계정에 접속할 수 없게 됩니다&lt;/b&gt;.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;어떻게 해야 하나요?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;계정을 안전하게 지키려면, &lt;b&gt;계정을 Supercell ID에 연동하세요&lt;/b&gt;. Supercell ID를 사용하면 대장님의 계정에 연동된 이메일 주소를 사용하여 다른 장치에서도 마을을 불러올 수 있습니다. 또는 기기를 &lt;b&gt;태블릿으로 변경&lt;/b&gt;하는 방법도 있습니다. 태블릿에서는 계속해서 Amazon Store를 이용할 수 있으니, 게임을 계속해서 즐기실 수 있어요! 단, 어떤 경우든 Supercell ID에 진행도를 저장하는 것이 중요합니다.&lt;/p&gt;&lt;p&gt;걱정하지 마세요. 저희가 도와드리겠습니다! 누구든지 쉽게 따라 할 수 있도록 단계별 안내를 준비했으니, 아래 이미지에 있는 절차를 따라주세요!&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Supercell ID로 어떻게 계정을 보호하나요?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Supercell ID를 생성하려면 다음 링크에서 안내하는 절차를 따라주세요. (링크: &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupr.cl%252FSaveYourAccountWithSCID')"&gt;https://support.supercell.com/clash-of-clans/ko/articles/saving-your-account-to-supercell-id.html&lt;/a&gt;)&lt;/p&gt;&lt;h3&gt;&lt;b&gt;도움이 필요하신가요?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;그밖에 다른 궁금한 점이 있으시면, 최고의 고객지원팀에 언제든지 문의해 주세요! 문의 시작하기: [here]&lt;/p&gt;&lt;p&gt;- 클래시 오브 클랜 팀&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/40wJ32VZe6FpMhE4qagiUO"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8qBCdQxFglQm03OKeFABp/d6ac3cfb1f89a682b28728cf7adeae27/farewell_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="뉴스"/>
+    <published>2025-02-21T08:24:04+00:00</published>
   </entry>
 </feed>

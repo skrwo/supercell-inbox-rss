@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-newsEntries-fr</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-21T07:29:32.578742+00:00</updated>
+  <updated>2025-02-21T08:38:06.595111+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -54,7 +54,7 @@
   <entry>
     <id>3Wr22ehK2MnjehS6jDyn7U</id>
     <title>Bug d'événement de série et compensation !</title>
-    <updated>2025-01-21T03:57:28.175000+00:00</updated>
+    <updated>2025-02-21T07:49:15.972000+00:00</updated>
     <content>&lt;h1&gt;Prolongation de l'événement de série !&lt;/h1&gt;
 &lt;p&gt;Comme vous avez pu le remarquer, nous avons lancé un événement de série lundi dernier. Malheureusement, quelques bugs sont advenus dans l&amp;#39;événement ; notamment, la première tâche se complétait automatiquement, et les attaques de la deuxième tâche n&amp;#39;étaient pas comptabilisées dans la progression de l&amp;#39;événement pour certains joueurs.&lt;/p&gt;&lt;p&gt;Nous entendons que ce n&amp;#39;est pas la première fois que l&amp;#39;événement de série connaît des bugs. Malgré un testing détaillé de l&amp;#39;événement afin de nous assurer que celui-ci était bien prêt, nous sommes navrés de ne pas avoir pu vous fournir une expérience idéale. Nous savons à quel point cela est frustrant, ça l&amp;#39;est tout autant pour nous, car nous tenons à vous proposer des événements amusants et divertissants.&lt;/p&gt;&lt;p&gt;Cela dit, nous souhaitons vous assurer que nous avons pris action. Au moment où vous lisez ceci, nous avons sorti une maintenance qui a pour but de corriger les bugs de l&amp;#39;événement de série.&lt;/p&gt;&lt;p&gt;De plus, pour vous remercier de votre patience et nous faire pardonner pour le dérangement, nous vous présentons ce qui suit :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;La durée de &lt;b&gt;l&amp;#39;événement de série&lt;/b&gt; sera prolongée de deux jours.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Un &lt;b&gt;événement bonus étoiles quotidien x4&lt;/b&gt; : commence ce jeudi 16 janvier à 8 h UTC et se termine le dimanche 19 janvier à 8 h UTC (9 h, heure française).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Un &lt;b&gt;boost de ressource de gemmes&lt;/b&gt; : commence ce jeudi 16 janvier à 8 h UTC et se termine le lundi 20 janvier à 8 h UTC (9 h, heure française).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nous sommes navrés du dérangement et vous remercions de votre compréhension. Merci de jouer à notre petit jeu, chef !&lt;/p&gt;&lt;p&gt;- L&amp;#39;équipe de Clash of Clans&lt;/p&gt;</content>
     <link href="https://clashofclans.inbox.supercell.com/#/fr/news/3Wr22ehK2MnjehS6jDyn7U"/>
@@ -161,5 +161,16 @@ Tour multi-équipée : niveaux 1-2&lt;/p&gt;&lt;h2&gt;&lt;b&gt;Améliorations pr
     <link href="https://make.supercell.com/en/campaign/7pR4oA7PLywC1O21zHnv0z"/>
     <category term="Communauté"/>
     <published>2025-02-18T11:49:16+00:00</published>
+  </entry>
+  <entry>
+    <id>40wJ32VZe6FpMhE4qagiUO</id>
+    <title>Sauvegardez votre progression sur Clash !</title>
+    <updated>2025-02-21T08:24:16.368000+00:00</updated>
+    <content>&lt;h1&gt;Fermeture de l'App Store Amazon Mobile : tout ce que vous devez savoir !&lt;/h1&gt;
+&lt;p&gt;Avis à tous les chefs !&lt;/p&gt;&lt;p&gt;Comme vous le savez peut-être, Amazon a récemment annoncé la fermeture prochaine de leur App Store Mobile. Vous pouvez lire leur annonce &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fdeveloper.amazon.com%252Fapps-and-games%252Fblogs%252F2025%252F02%252Fupcoming-changes-to-amazon-appstore-for-android-devices-and-coins-program')"&gt;ici&lt;/a&gt;. Nous tenons à nous assurer que &lt;b&gt;VOUS&lt;/b&gt; savez ce que cela signifie pour vous et votre compte Clash of Clans et ce que vous devez faire pour la suite.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Pourquoi est-ce important ?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Si vous avez téléchargé Clash of Clans via l&amp;#39;App Store Amazon Mobile, vous finirez par &lt;b&gt;perdre l&amp;#39;accès à votre compte sur cet appareil&lt;/b&gt; une fois que la fermeture de l&amp;#39;App Store Amazon Mobile sera effective.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Que pouvez-vous faire ?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Pour que votre compte soit en sécurité, &lt;b&gt;assurez-vous qu&amp;#39;il est bien connecté à Supercell ID&lt;/b&gt;. Cela vous permettra d&amp;#39;y accéder grâce à l&amp;#39;adresse e-mail associée à votre compte Supercell ID et de retrouver votre village sur un autre appareil. Vous pouvez aussi &lt;b&gt;passer sur tablette&lt;/b&gt; pour continuer de jouer, car le Store Amazon restera disponible sur tablette. Quoi qu&amp;#39;il en soit, assurez-vous de sauvegarder votre progression sur votre compte Supercell ID !&lt;/p&gt;&lt;p&gt;Ne vous inquiétez pas, nous sommes là pour vous aider ! Nous avons préparé des instructions simples et détaillées pour vous guider dans la création du compte. Suivez simplement les étapes indiquées par les images ci-dessous !&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Comment sauvegarder votre compte avec Supercell ID ?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Pour créer un compte Supercell ID, suivez les instructions en cliquant sur ce lien : &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fsupport.supercell.com%252Fclash-of-clans%252Ffr%252Farticles%252Fsaving-your-account-to-supercell-id.html')"&gt;https://supr.cl/SaveYourAccountWithSCID&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Besoin d&amp;#39;aide ?&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Si vous avez la moindre question ou inquiétude, notre équipe d&amp;#39;assistance se fera un plaisir de vous aider ! N&amp;#39;hésitez pas à prendre contact avec nous via le support en jeu &amp;quot;Aide et assistances&amp;quot; dans les paramètres du jeu.&lt;/p&gt;&lt;p&gt;- L&amp;#39;équipe de Clash of Clans&lt;/p&gt;</content>
+    <link href="https://clashofclans.inbox.supercell.com/#/fr/news/40wJ32VZe6FpMhE4qagiUO"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/8qBCdQxFglQm03OKeFABp/d6ac3cfb1f89a682b28728cf7adeae27/farewell_.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Actualités"/>
+    <published>2025-02-21T08:24:04+00:00</published>
   </entry>
 </feed>
