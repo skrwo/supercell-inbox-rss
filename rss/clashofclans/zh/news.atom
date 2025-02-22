@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-02-22T13:30:17.379526+00:00</updated>
+  <updated>2025-02-22T14:31:36.362388+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
-  <entry>
-    <id>6f5BgbsbExN4SH3k5rLWWp</id>
-    <title>【烏龜】英雄系統大改動！第一手掌握亡靈王子特點！</title>
-    <updated>2024-11-24T15:08:04.929000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/6f5BgbsbExN4SH3k5rLWWp"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6DrHpCLknfxpmsOTdRmyuA/91e02ebcd8655abb86a6d53e90387805/tw_20241124_turtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=G-mmbkGsd7g"/>
-    <category term="最新情報"/>
-    <published>2024-11-24T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>5VUjRh32anH8QeGrFh9GnO</id>
-    <title>【金雄】新英雄有何特別之處？英雄殿堂是什麼？</title>
-    <updated>2024-11-24T15:09:17.471000+00:00</updated>
-    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/5VUjRh32anH8QeGrFh9GnO"/>
-    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/38vPUM6GVkXMf2zucLydPa/ce4d469d6f77f9f52c54f6cdf7d5f991/tw_20241124_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=tvj2LOYjOnU"/>
-    <category term="最新情報"/>
-    <published>2024-11-24T13:01:00+00:00</published>
-  </entry>
   <entry>
     <id>3JaICYDBtzOw60cGllaHe1</id>
     <title>17級大本營更新重磅登場！</title>
