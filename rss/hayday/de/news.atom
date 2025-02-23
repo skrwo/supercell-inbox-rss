@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>hayday-newsEntries-de</id>
   <title>Hayday - News</title>
-  <updated>2025-02-23T08:36:11.584306+00:00</updated>
+  <updated>2025-02-23T09:32:02.575910+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>65WXP4sZLcM1vb9oJh0gjr</id>
-    <title>Hay Day-Woche 48</title>
-    <updated>2024-11-24T09:02:12.320000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day-Woche 48&lt;/h1&gt;
-&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 9:00 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag:&lt;/b&gt; Glücksrad-Ereignis (Puzzlestücke)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag:&lt;/b&gt; Lieferwagen-Ereignis (doppelte Münzen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch:&lt;/b&gt; Schiffsereignis (Puzzlestücke)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag:&lt;/b&gt; Farmbesucher-Ereignis (Flohmarkt) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag:&lt;/b&gt; Produktionsschub für den gesamten Angelbereich (20 %) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag:&lt;/b&gt; Stadtbesucher-Ereignis (doppelte EP) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag:&lt;/b&gt; Früchteereignis (doppelte Produktionsgeschwindigkeit bei drei zufälligen Bäumen/Sträuchern) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Normales Derby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/de/news/65WXP4sZLcM1vb9oJh0gjr"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Ereignisse"/>
-    <published>2024-11-24T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>20kkKbH24VqTIbqxg9lv4X</id>
     <title>Pflanze, Produktionsgebäude und Vögel – alles neu?!</title>
@@ -285,6 +274,17 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Community"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>fiswJ4gV3diVAxWEWZNuC</id>
+    <title>Hay Day-Woche 9</title>
+    <updated>2025-02-23T09:02:00.649000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day-Woche 9&lt;/h1&gt;
+&lt;p&gt;Hallo Farmer! Mach dich bereit für eine weitere Woche voller Ereignisse! Alle Ereignisse und Derbys beginnen um 9:00 Uhr MEZ. Mehr Infos zu jedem Ereignis findest du auf der Ereignistafel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Montag:&lt;/b&gt; Glücksrad-Ereignis (Gutscheine)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dienstag:&lt;/b&gt; Stadtbesucher-Ereignis (Verbesserungsmaterialien für Silo und Scheune)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mittwoch:&lt;/b&gt; Schiffsereignis (doppelte Münzen) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Donnerstag:&lt;/b&gt; Produktionsgebäude-Ereignis (20%iger Schub für drei Gebäude) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Freitag:&lt;/b&gt; Produktionsschub für den Angelbereich (Entensalon und Seilerei, 30 %) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samstag:&lt;/b&gt; Stadtbesucher-Ereignis (Erweiterungsmaterialien) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sonntag:&lt;/b&gt; Pflanzenereignis (ernte bei drei zufälligen Pflanzenarten 3 anstatt 2 Pflanzen) + dreifache Farmpasspunkte&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Normales Derby&lt;/p&gt;&lt;p&gt;Wir wünschen dir eine schöne Woche!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/de/news/fiswJ4gV3diVAxWEWZNuC"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Ereignisse"/>
+    <published>2025-02-23T09:00:03+00:00</published>
   </entry>
   <entry>
     <id>53wICfLQacg429chxZKH71</id>

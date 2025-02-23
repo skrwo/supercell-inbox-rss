@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2025-02-23T08:36:17.003291+00:00</updated>
+  <updated>2025-02-23T09:32:08.495906+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>65WXP4sZLcM1vb9oJh0gjr</id>
-    <title>Semana 48 de Hay Day</title>
-    <updated>2024-11-24T09:02:12.320000+00:00</updated>
-    <content>&lt;h1&gt;Semana 48 de Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com peças de quebra-cabeça.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: moedas em dobro com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: peças de quebra-cabeça com os pedidos do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: venda de itens usados com os visitantes da fazenda + triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 20% da área de pesca e triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: dobro de XP com os visitantes da cidade + triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três tipos aleatórios de árvores ou arbustos produzirão frutos com o dobro de velocidade + triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: normal.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/65WXP4sZLcM1vb9oJh0gjr"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Eventos"/>
-    <published>2024-11-24T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>20kkKbH24VqTIbqxg9lv4X</id>
     <title>Plantação, edifício de produção e pássaros inéditos!</title>
@@ -254,6 +243,17 @@
     <link href="https://youtu.be/otQ6kAZJXcY"/>
     <category term="Comunidade"/>
     <published>2025-02-20T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>fiswJ4gV3diVAxWEWZNuC</id>
+    <title>Semana 9 de Hay Day</title>
+    <updated>2025-02-23T09:02:00.649000+00:00</updated>
+    <content>&lt;h1&gt;Semana 9 de Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com vales.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: moedas em dobro com os pedidos do barco e triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: aceleração da produção em 20% de 3 edifícios e triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 30% dos patos e do redeiro + triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: visitantes da cidade com materiais de expansão + triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três plantações aleatórias aceleradas com rendimento de 3 unidades em cada colheita em vez de 2 + triplo de pontos do passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: normal.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/fiswJ4gV3diVAxWEWZNuC"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2025-02-23T09:00:03+00:00</published>
   </entry>
   <entry>
     <id>53wICfLQacg429chxZKH71</id>
