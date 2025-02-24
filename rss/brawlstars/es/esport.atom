@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>brawlstars-esportNewsEntries-es</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-24T11:28:49.534614+00:00</updated>
+  <updated>2025-02-24T12:55:58.856521+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -119,5 +119,41 @@ Antes de inscribirte, asegúrate de:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;b
     <link href="https://www.youtube.com/live/o44GQpzqng0?si=CgZUH_Ojk_y-wtRn&amp;t=21147"/>
     <category term="Destacado"/>
     <published>2025-02-16T19:22:17+00:00</published>
+  </entry>
+  <entry>
+    <id>5tDWCesXpVmqAlCGSYRelb</id>
+    <title>¡Felicitaciones  Casa Brawl!</title>
+    <updated>2025-02-24T11:38:20.271000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/75b7HPHCPvCethqpIAwGat/651c903c6efb75eb8bb7a2818bcffe8b/ES_BSC_MONTHLYFINALS_WINNERS_SOUTHAMERICA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/KKB-kRPp_lk?si=ud2tdKez9XPffdgb&amp;t=24497"/>
+    <category term="Destacado"/>
+    <published>2025-02-23T01:00:23+00:00</published>
+  </entry>
+  <entry>
+    <id>1rllsyeAJliWJ0VguKwLgE</id>
+    <title>¡Felicitaciones Tribe Gaming!</title>
+    <updated>2025-02-24T11:35:29.271000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bXczKlGE3kr3xQOA41IPq/77b50b724aa09c817dce1504b80ad077/ES_BSC_MONTHLYFINALS_WINNERS_SOUTHAMERICA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/cFit0O_qjBk?feature=shared&amp;t=23764"/>
+    <category term="Esports"/>
+    <published>2025-02-24T02:48:17+00:00</published>
+  </entry>
+  <entry>
+    <id>706wclieqKnxmjoeSIzbyv</id>
+    <title>¡Revive la Final Mensual de Sudamérica! </title>
+    <updated>2025-02-24T11:53:42.489000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5UdPfplPLGbzGOF3Vhw7nV/daa2bdcdabfce6871b57e814b30bba54/1_ES_Final_February_South_America.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href=" ES_February EMEA_Rewatch "/>
+    <category term="Destacado"/>
+    <published>2025-02-24T11:53:42+00:00</published>
+  </entry>
+  <entry>
+    <id>WBgW3X0VjJB8FCqBO2Qht</id>
+    <title>¡Revive la Final Mensual de Norteamérica!  </title>
+    <updated>2025-02-24T11:54:00.044000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/60f6VIchZRRbsE4GvFWq7w/c5c3efb2c67e9f696e29aaf103fa4bff/1_ES_February_North_America.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/jYisE9_f8g4?si=UC7qG9Fsmm1cJgIb&amp;t=654"/>
+    <category term="Destacado"/>
+    <published>2025-02-24T11:54:00+00:00</published>
   </entry>
 </feed>
