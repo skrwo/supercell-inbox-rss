@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-esportNewsEntries-en</id>
   <title>Brawlstars - Esport News</title>
-  <updated>2025-02-24T01:59:50.735900+00:00</updated>
+  <updated>2025-02-24T03:03:15.759773+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Esport News</subtitle>
@@ -199,5 +199,14 @@
     <link href="https://www.youtube.com/live/KKB-kRPp_lk?si=ud2tdKez9XPffdgb&amp;t=24497"/>
     <category term="Highlight"/>
     <published>2025-02-23T01:00:23+00:00</published>
+  </entry>
+  <entry>
+    <id>1rllsyeAJliWJ0VguKwLgE</id>
+    <title>Congratulations Tribe Gaming!</title>
+    <updated>2025-02-24T02:48:17.001000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3lQd6spwNfzyAPnridqzS2/25b24cd3bef1900dfe9d462219e1a286/BSC_MONTHLYFINALS_WINNERS_NORTHAMERICA.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/cFit0O_qjBk?feature=shared&amp;t=23764"/>
+    <category term="Esports"/>
+    <published>2025-02-24T02:48:17+00:00</published>
   </entry>
 </feed>
