@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2025-02-24T03:40:02.407864+00:00</updated>
+  <updated>2025-02-24T04:37:38.680995+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -408,5 +408,35 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ic9rIkAFMdwIYoE9wCFoe/d75887a45a2a20d41432534ae5acc54c/0210_New_Ranked_Pass__In-game_Article__800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-02-13T08:50:52+00:00</published>
+  </entry>
+  <entry>
+    <id>6YzV09XRdwOPiT0jdUgvtU</id>
+    <title>創作者2月更新預告（更新至#1）</title>
+    <updated>2025-02-24T03:41:58.102000+00:00</updated>
+    <content>&lt;p&gt;亂鬥英雄們，大家好！
+
+創作者們精心製作了更多有關更新的內容！
+如果想搶先知道即將推出的遊戲資訊！
+請不要錯過以下影片！
+當然，很重要的是，也別忘了訂閱他們唷！&lt;/p&gt;
+&lt;p&gt;更新預告1：平衡性調整、全新極限威能、全新模式、全新造型等內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540Chun%25253Fsub_confirmation%25253D1')"&gt;盛主播&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=gl_q9XYpY1A"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540powertech4165%25253Fsub_confirmation%25253D1')"&gt;&lt;b&gt;PowerTech淮特 &lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=tMS4soOkQ70"&gt;📺 [EMBEDDED VIDEO]&lt;/a&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6YzV09XRdwOPiT0jdUgvtU"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6okcs5bRxEpHcqmvRltUrZ/9bc2417aa483a1296d306f9a95717152/tw_20250224_sp_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="最新情報"/>
+    <published>2025-02-24T03:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>4Pq01QCUyk9PEM3EzBvWfT</id>
+    <title>【嘿!兄弟】平衡性調整、全新極限威能以及新模式介紹！</title>
+    <updated>2025-02-24T03:44:04.091000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/4Pq01QCUyk9PEM3EzBvWfT"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6xlXYbKRrMa1z3nsPgYSLA/9484ba209674eb450c8872b35f78e0fd/tw_20250224_heybros_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=KA7-s-bkDDU"/>
+    <category term="最新情報"/>
+    <published>2025-02-24T03:01:00+00:00</published>
   </entry>
 </feed>
