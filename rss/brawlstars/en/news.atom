@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>brawlstars-newsEntries-en</id>
   <title>Brawlstars - News</title>
-  <updated>2025-02-25T05:35:20.677131+00:00</updated>
+  <updated>2025-02-25T06:41:28.789640+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -277,10 +277,212 @@ So, in this new rework:&lt;/p&gt;&lt;p&gt;1. We added a new Tier for the highest
   <entry>
     <id>38geLV5ddjaOAq6jFiArJJ</id>
     <title>It's here: Brawl's First Kiss!</title>
-    <updated>2025-02-25T05:33:03.696000+00:00</updated>
+    <updated>2025-02-25T06:32:31.827000+00:00</updated>
     <link href="https://brawlstars.inbox.supercell.com/#/en/news/38geLV5ddjaOAq6jFiArJJ"/>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5HfpqStWcW1cukZkzHQsUl/4eb20817a209b40d03396fda73e2acb6/Brawlentine_BoCharlieKiss_Final_copy__1_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="Community"/>
     <published>2025-02-21T11:01:49+00:00</published>
+  </entry>
+  <entry>
+    <id>2Oy5L9l7Wvv07s1oy7DgbF</id>
+    <title>RELEASE NOTES: RANKED REWORK, LUMI &amp; FINX!</title>
+    <updated>2025-02-25T06:05:10.524000+00:00</updated>
+    <content>&lt;h1&gt;NEW PRO PASS, TWO NEW BRAWLERS, UNO COLLAB, GADGET CHANGES, AND MORE!&lt;/h1&gt;
+
+&lt;h1&gt;NEW BRAWLER: FINX!&lt;/h1&gt;
+&lt;p&gt;MYTHIC CONTROLLER&lt;/p&gt;&lt;p&gt;The owner of Starr Park&amp;#39;s escape room, Finx is meant to help visitors complete their tasks. Instead, he uses his time controlling abilities to cause mischief and havoc! &lt;/p&gt;&lt;p&gt;&lt;i&gt;Also, he LOVES cats.&lt;/i&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5p57HyJtCkeAPIRfy7SLPX/4aa03a65f97880f13b10da237d4099fe/Finx_Final_extended.png?w=1500&amp;h=901&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;MAIN ATTACK: CHRONOCAST&lt;/h1&gt;
+&lt;p&gt;Finx fires 3 long range projectiles, with the outer ones dealing 50% damage of the center projectile.&lt;/p&gt;
+&lt;h1&gt;SUPER: TIME WARP&lt;/h1&gt;
+&lt;p&gt;Finx warps time in an area, decreasing the projectile speed of enemy Brawlers caught in the Super, while increasing the projectile speed of any teammates and himself. Finx&amp;#39;s projectiles will also get a damage buff.&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2vx6Efrk1ckPngnuE7T0Av/85a76cb208b7da841e0c6b01b6593161/brawler_finx_render_bg.png?w=900&amp;h=900&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;STAR POWER: PRIMER&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1MXsJbXmpP35aDtNqfNeRB/df1e96c2b7d1131f476bc3fdc3728a0e/PRIMER.png?w=277&amp;h=289&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Damage dealt from Finx&amp;#39;s projectiles that are sped up by Time Warp, will increase the duration of his Super.&lt;/p&gt;
+&lt;h1&gt;STAR POWER: HIEROGLYPH HALT&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4Zs2mRnk2xn78MdhVgaFT6/fdeb73efbff92a7b19b2fcf408135729/HIEROGLYPH_HALT.png?w=277&amp;h=289&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Finx reduces the reload speed of any enemy Brawlers hit by his main attack for a short duration.&lt;/p&gt;
+&lt;h1&gt;GADGET: BACK TO THE FINXTURE&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6T7O3nGiI39nxMBCisVBu6/1312d986355ffb166ee9d81a68207d76/BACK_TO_THE_FINXTURE.png?w=264&amp;h=278&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Finx steps back in time, returning to the position and ammo he had a few seconds ago.&lt;/p&gt;
+&lt;h1&gt;GADGET: NO ESCAPE&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Oa9An5kEW094eu9FOfFDa/54a202ab51b837345f8d0bb1909dc02f/NO_ESCAPE.png?w=264&amp;h=278&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Finx&amp;#39;s next center projectile from his main attack temporarily freezes the enemy in time, making them unable to take actions, but also making them immune to any damage.&lt;/p&gt;
+&lt;h1&gt;NEW BRAWLER: LUMI&lt;/h1&gt;
+&lt;p&gt;MYTHIC DAMAGE DEALER&lt;/p&gt;&lt;p&gt;A passionate metalhead and a talented drummer, Lumi traded her drumsticks for morning stars when she got her job at Starr Park. She controls elements of ice and fire, which reflects her shy nature and her burning passion for music!&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/29pxLjOWt4FFcEDhYQPpWZ/1069a1bb16351333001176f913cc6bbd/Supercell_Lumi.png?w=900&amp;h=537&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;MAIN ATTACK: GOOD MORNING... STAR&lt;/h1&gt;
+&lt;p&gt;Lumi throws one of her morning stars. She can throw both of her weapons, with her third attack recalling them, dealing damage to any enemies caught in their path!&lt;/p&gt;
+&lt;h1&gt;SUPER: BLAST BEAT&lt;/h1&gt;
+&lt;p&gt;Lumi pounds the ground three times, causing explosions that deal area damage. The third explosion briefly snares enemies, making them unable to move but still able to attack.&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6C0S4YsCR6YtPUuRzPTLsI/78746d1f7b683f1095874ec070c0c694/brawler_lumi_render_bg_Pose2.png?w=900&amp;h=900&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;STAR POWER: 42% BURNT&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/aeOTMQ4HJP3NQerc0UkhL/6cdfad3d861f0ed82539ac30d57b8421/42__BURNT.png?w=277&amp;h=289&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;The explosions from Lumi&amp;#39;s Blast Beat also set the area alight for a few seconds. This fire damage also scales with explosion damage. &lt;/p&gt;
+&lt;h1&gt;STAR POWER: HALF-TIME&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6BaFdNQN13QRLjKx3GOhLp/f417d552ba56dd8d02b39b419b4b696c/HALF-TIME.png?w=277&amp;h=289&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Lumi temporarily slows enemies hit by her recalled morning stars.&lt;/p&gt;
+&lt;h1&gt;GADGET: HIT THE LIGHTS&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7jqon2aXGI1OAFbowbxUg7/ff8d4c6b6ecbd6ae3c9119ecfaabc90d/HIT_THE_LIGHTS.png?w=264&amp;h=278&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Lumi iginites her morning stars on the ground, producing flames which damage nearby enemies.&lt;/p&gt;
+&lt;h1&gt;GADGET: GRIM AND FROSTBITTEN&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/G9ZvzKExFpUQuFH8cZmZW/59bad1105f514b22612639926f85b63a/GRIM_AND_FROSTBITTEN.png?w=264&amp;h=278&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Lumi creates freezing winds around her morning stars on the ground, creating a slippery surface.&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6LlSU6o2d6tV4r9JzgG9Av/f2a9b5ced3a301555ede360cf301d0e1/0210_New_Ranked_Pass__In-game_Article__1600x443.png?w=1600&amp;h=443&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;RANKED REWORK: PRO PASS, PRO SKINS, MORE REWARDS!&lt;/h1&gt;
+
+&lt;h1&gt;PRO PASS: NEW RANKED PROGRESSION&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/477KWwFPD89b5OWANZ1xHS/fa9018acbec402b6108c1711da8b177a/pro_pass_icon.png?w=3183&amp;h=4000&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Ranked is getting a Brawl Pass-like progression system called &lt;b&gt;Pro Pass.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Pro Pass&lt;/b&gt; also has a free progress track and a paid progress track, but unlike the Brawl Pass, the Pro Pass is 4 months long!&lt;/p&gt;&lt;p&gt;Why is it 4 months long? Each Pro Pass Season is going to be tied to major esports events throughout the year. In 2024, these are the &lt;b&gt;Brawl Cup &lt;/b&gt;in May, the &lt;b&gt;Last Chance Qualifier&lt;/b&gt; in September, and the &lt;b&gt;World Finals&lt;/b&gt; in November. The Current plan is to have 3 Pro Pass Seasons per year.&lt;/p&gt;
+&lt;h1&gt;BETTER REWARDS&lt;/h1&gt;
+&lt;p&gt;The free track includes better, more achievable rewards than the old Ranked system and even has a Legendary Starr Drop as the tail Reward!&lt;/p&gt;&lt;p&gt;Let&amp;#39;s break it down:&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0kLAnuHzyFuMfBPk0Zome/3ebfdd02ffa2184f09943e91447a2e14/0212_Comparison_free_vs_old_free_800x880.png?w=800&amp;h=880&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;PROGRESS AND GET REWARDS...&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5nJbHYCk6G5lbTHueghlVH/ba7ba349e9f98a3d6895110a4fe6d5bc/ranked_point.png?w=228&amp;h=269&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;With &lt;b&gt;Pro Pass XP&lt;/b&gt;!&lt;/p&gt;
+&lt;p&gt;To progress in the &lt;b&gt;Pro Pass&lt;/b&gt;, you must collect &lt;b&gt;Pro Pass XP&lt;/b&gt; by:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Winning Ranked matches (similar to daily Brawl Pass XP for Brawl Pass, but the Pro Pass XP refreshes Weekly, and you have to win the match)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ranking up&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Watching and interacting with esports broadcasts on event.brawlstars.com throughout the year&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Purchasing the Pro Pass, which grants instant progression and double Pro Pass XP (which also doubles the weekly Pro Pass XP limit)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;PAID PRO PASS REWARDS&lt;/h1&gt;
+&lt;p&gt;The paid track costs $24.99* for the 4-month duration ($6.25 per month) and includes all of the rewards listed above!&lt;/p&gt;&lt;p&gt;* &lt;i&gt;Price may vary depending on your country/region.&lt;/i&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Zu8SwySfrJV309SnudfoY/3d393540f5800a9b63222f8946dd5ddd/0212_new_Paid_pro_800x485.png?w=800&amp;h=485&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;NEW SKIN RARITY: PRO&lt;/h1&gt;
+&lt;p&gt;Pro Pass comes with a new unique &amp;amp; upgradeable &lt;b&gt;Skin Rarity: Pro&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pro Skins&lt;/b&gt; are upgradeable Skins, which can be upgraded as you progress through the Pro Pass!&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2F0Wl4juhimwxkyLhewPwc/bd5ac0bada7a0c148c13deb5184276b1/0224_Update_Release__Ranked_Colt_Skin__192x1080.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"&gt;
+&lt;h3&gt;&lt;b&gt;GOOD TO KNOW&lt;/b&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Pro Skins can be upgraded up to 11 times by collecting “Skin upgrades” from the Pro Pass (or in Ranked Drops 8 months after the Skin release)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Each upgrade will give you either a visual improvement for the Skin, including the brand new spawn VFX, or other cosmetics, like the new animated Brawler Battle Cards!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Every Season, you can get a Legendary-level Skin in the Free Track of the Pro Pass!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;The first Pro Skin is ASTRAL COLT!&lt;/b&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2ZeTJetmX78N7VvAgonTOg/b051f1cda7824c01a158bdf3891906ea/ranked_colt_hc_render_bg.png?w=1000&amp;h=1000&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;A MORE COMPETITIVE RANKED EXPERIENCE&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3YyTZFlkPwzIcZKHAOeDxF/8d517cd51a81aa7c46da41959bb9a821/icon_rank_sticker_pro.png?w=663&amp;h=586&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;1. We added a new Tier for the highest level of play - PRO&lt;/p&gt;&lt;p&gt;2. We are tackling Elo inflation from multiple angles&lt;/p&gt;&lt;p&gt;3. Improved Matchmaking&lt;/p&gt;&lt;p&gt;4. Removed modifiers&lt;/p&gt;&lt;p&gt;&lt;b&gt;New Game Modes in Ranked&lt;/b&gt;&lt;/p&gt;&lt;p&gt;To keep things fresh, we’ll be experimenting with a new game mode every month in Ranked. These will be tested for competitiveness in regular Trophy game modes before making their way to the big leagues!&lt;/p&gt;
+&lt;h1&gt;WOULD YOU LIKE TO KNOW MORE?&lt;/h1&gt;
+&lt;p&gt;There are SO many more changes coming with the Ranked rework. &lt;/p&gt;&lt;p&gt;So many in fact, that it has it&amp;#39;s own release notes article! Here you will find all of the detailed changes coming to the Ranked rework (there&amp;#39;s a lot).&lt;/p&gt;
+&lt;a href="https://brawlstars.inbox.supercell.com/#/en/news/1gnTAfjmERTS5QmTUzZKOL"&gt;👉TAP HERE FOR MORE RANKED INFO👈&lt;/a&gt;
+&lt;h1&gt;HYPERCHARGES&lt;/h1&gt;
+&lt;p&gt;12 Brawlers are getting Hypercharges this update!&lt;/p&gt;&lt;p&gt;They will be released in 2 stages, with each release containing 6 Hypercharges.&lt;/p&gt;
+&lt;h1&gt;RELEASE 1&lt;/h1&gt;
+
+&lt;h1&gt;CARL: FLAMESPIN&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/38UmkfMIhPxYPyuNhC7iOy/5ca58d94d16e4cb54089644f1acf1d0b/FLAMESPIN.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Carl’s Super now leaves a blazing trail of rocks that scorch the earth wherever he goes, burning enemies that touch them!&lt;/p&gt;
+&lt;h1&gt;MANDY: SUGAR FOR ALL!&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Q7MlXVUhyV1buRSXAZ6id/667304dbcc6a17aad2341368f7fa1081/SUGAR_FOR_ALL_.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Mandy fires her Super in three different directions.&lt;/p&gt;
+&lt;h1&gt;HANK: HOMING FISH-ILES&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/70lR2jHrHsIs8NCxAOECKQ/783d329bfb31dde29ca957f6bf6db1ac/HOMING__FISH-ILES.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;The Fish Torpedoes that Hank fires with his Super have been upgraded to home in on targets!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BO: CATCH A BEAR&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/521XKFEJFUPPg2SlIBhB4B/6ec4f95310c1f463e0fb1c050d91bb8f/CATCH__A_BEAR.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Bo’s Super deploys 5 mines instead of 3. These do not override any mines already placed by his Super, so it is possible to have more than 3 mines on the map!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BEA: PROTECT THE QUEEN&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3zHGisMlNmxcDdPLVkjlCP/8690d04adbb549aa2a0f576fa5ea5846/PROTECT__THE_QUEEN.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Bea’s Super projectiles split into 2 when at max distance (and on hit), increasing her Super’s distance and spread even more.&lt;/p&gt;
+&lt;h1&gt;MR. P: PORTERS, ASSEMBLE!&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3m94tetwxqxkhzbq2XyHbS/db801d7de381c77ac3a7153dc494fbdd/SUPER_PORTERS___ASSEMBLE_.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Mr. P’s home base now spawns much stronger porters and he can have two active ‘Super Porters’ at the same time.&lt;/p&gt;
+&lt;h1&gt;RELEASE 2&lt;/h1&gt;
+
+&lt;h1&gt;MEG: TUNGSTEN TOUGHNESS&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/222kBeNqIibR8yRpxHgqP6/238413cd62fd287063a321989e9005ce/REAL_STEEL.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Meg&amp;#39;s Mecha has an increased swipe range when activating it&amp;#39;s Super. While out of the Mecha, Meg pops a defensive shield for protection.&lt;/p&gt;
+&lt;h1&gt;CHESTER: CRUNCHY, CHEWY, GOOEY&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6EfVuG3vSZyrWjvbEZyYfJ/e436eb6b43e4e7bd5574a7248dc6faf3/CHESTER_S.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Chester combines several of his Super abilities into one. He throws a sweet that explodes and deals damage, spreads a poison cloud, and then leaves a slowing area for a few seconds afterwards.&lt;/p&gt;
+&lt;h1&gt;LOLA: INFLATED EGO&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6jyoIkvobKrf8RVQe4CTh0/fa79cd592347b11e5e6e942be01b8f29/INFLATED_EGO.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Spawns a mega inflated Ego with increased health and damage!&lt;/p&gt;
+&lt;h1&gt;GROM: GROM BOMB GOES BOOM!&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1CZEO0GRefVzlOutdApQQw/31828385451559906db4d4677ca2932f/GROM_BOMB__GOES_BOOM_.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Grom’s Super gains a secondary explosion after the first, in an X-pattern. This explosion also deals damage, breaks walls and knocks enemies back.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BUSTER: PLOT ARMOR&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6OrAoprXkkkgopeTOOTxiV/ca6d61d585c10569fb8a952b0bee3c73/FILM_REEL.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Buster&amp;#39;s shield is now 360 degrees around him and reflected projectiles deal more damage!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;SAM: HYPER FIST&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6QQCpEYJrGR0prRb4VMWii/69d1f41f4950fdd9e4aaf453727519fa/SAM_S.png?w=201&amp;h=244&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Sam’s Knuckle Busters travel faster and will fully charge his Super if they hit an enemy Brawler during the Hypercharge.&lt;/p&gt;
+&lt;h1&gt;SEASON 34: DARK SANDS&lt;/h1&gt;
+&lt;p&gt;The Sands of Time have been corrupted by Finx&amp;#39;s chronomancy and replaced by Dark Sands that have awakened ancient evils!&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0r7NrYttJj6YknbG59Fiz/d518ccda050d5e1aee936875b43727de/DarkSands.png?w=1500&amp;h=901&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;SKINS&lt;/h1&gt;
+&lt;p&gt;Mummified Frank | Brawl Pass&lt;/p&gt;&lt;p&gt;Charcoal Frank | Chroma #1 | Brawl Pass Plus&lt;/p&gt;&lt;p&gt;Papyrus Frank | Chroma #2 | Brawl Pass Plus&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;Ruffesses II | Super Rare&lt;/p&gt;&lt;p&gt;Queen Juju | Super Rare&lt;/p&gt;&lt;p&gt;Pharaollie | Epic&lt;/p&gt;&lt;p&gt;Mystic Meeple | Epic&lt;/p&gt;&lt;p&gt;Scarab Squeak | Epic&lt;/p&gt;
+&lt;h1&gt;SEASON 35: SUPER BRAWL&lt;/h1&gt;
+&lt;p&gt;The evil Insector and his sidekick Electroid have made Starr Park the next target of their crime spree.&lt;/p&gt;&lt;p&gt;Can Spectaculor and his heroes handle the threat? Or will they need help from a mysterious vigilante...&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1QJYOqadBl44go3v2h5ZXu/9f1377878e39cb5a0537b53845a9164c/MakeHeroes_LoadingScreen-_1_.png?w=1500&amp;h=966&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;SKINS&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Justice Smasher Bibi | Brawl Pass&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Injustice Smasher Bibi | Chroma #1 | Brawl Pass Plus&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Virtue Smasher Bibi | Chroma #2 | Brawl Pass Plus&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;The below Skins were designed by artists in our community that won the &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fmake.supercell.com%25252Fen%25252Fcampaign%25252F7LN7eOAgpUwRCHUVN0NSx7%25253Fsort%25253Drandom%252526status%25253Dfinalist')"&gt;&lt;b&gt;Supercell MAKE competition: Brawlers, Assemble!&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Spectaculor Sam | Epic&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;by FinnyShow&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Firewing Janet | Epic&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;by WarpWave&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Protector Grom | Epic&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;by J-Y Jacky&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Insector Carl | Epic&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;by Artho_Max&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Electroid Chuck | Epic&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;by Gedi-Kor&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Equilibrium Buster | Epic&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;by Vinuui&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BRAWL STARS x UNO&lt;/h1&gt;
+&lt;p&gt;Ever wanted to UNO reverse someone in Brawl? Well now you can!&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7wrTn6ZrQlAJQKbv59XIF5/4108b5771e7aef97a203a41adf9a4598/BS_Uno_WIP8.png?w=1500&amp;h=902&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;NEW GAME MODE&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3DYNIzAKuUqn3fka2mACvP/9a6cab402a214d1f5ff25534833a60fc/spray_uno3.png?w=513&amp;h=513&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;We&amp;#39;re releasing a brand new UNO game mode, but with a classic Brawl twist! &lt;/p&gt;&lt;p&gt;In this game mode, each team starts with a hand of UNO cards, which must all be thrown into the discard pile to win the game!&lt;/p&gt;&lt;p&gt;The winning team is the first to empty their hands and have no UNO cards left.&lt;/p&gt;
+&lt;h1&gt;THROWING CARDS = SPECIAL POWERS&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6J70d3bOlx5ALPEPiLANDJ/53e9189b8cc2ac61f6f90dd81cbe0ba5/spray_uno2.png?w=513&amp;h=513&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;By throwing specific UNO cards, Brawlers will activate certain special powers!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;+2&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Gives you and your teammates 2 Power Cubes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Skip&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Silences the entire enemy team&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Reverse&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Destroys any cards the enemy team are currently holding and respawns them at their base&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;GOOD TO (U)KNOW&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Brawlers can body block flying enemy cards&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;UNO cards can be carried while using a jump pad&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;UNO COSMETICS&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3HqkNRsHrEjyFN3u7FdRi5/23ba4af0bfec679bc6578f84f92650a6/spray_uno1.png?w=513&amp;h=513&amp;f=center&amp;fit=fill"&gt;
+&lt;p&gt;Alongside the new game mode, Chester is getting a unique UNO Skin, which is perfect to UNO reverse enemy Brawlers with.&lt;/p&gt;&lt;p&gt;There are also a bunch of other UNO cosmetics coming, so keep your eyes open!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;GADGET CHANGES&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Gadgets&lt;/b&gt; no longer have charges but are now based on &lt;b&gt;cooldowns&lt;/b&gt;! &lt;/p&gt;&lt;p&gt;This means that you can use Gadgets whenever they are charged, and &lt;b&gt;can be used an&lt;/b&gt; &lt;b&gt;unlimited amount of times in a match&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;&lt;b&gt;GOOD TO KNOW:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Gadgets will have different cooldown times depending on how powerful they are. For example, Lily&amp;#39;s &amp;#39;Vanish&amp;#39; Gadget has a 22 sec cooldown, compared to Rosa&amp;#39;s &amp;#39;Grow Light&amp;#39; Gadget, which has a 10 sec cooldown.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The Gear that added +1 Gadget charge now reduces the cooldown of a Gadget by 15%.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;DAILY STREAK - DAILY REWARDS!&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;(NOTE: The Daily Streak feature will be launching a few days after the update goes live - not on update day!)&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;
+Log in daily and get rewards! Keep the streak going and watch the number go higher and on fire!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Also, open a mystical fortune cookie. Oooh! Mystical.&lt;/i&gt;&lt;/p&gt;
+&lt;h1&gt;OTHER SKINS&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Rare Skins&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Dark Knight Lumi&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Jurassic Finx&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fiendish Amber&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Beach Belle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;First Mate Fang&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Cored Eve&lt;/p&gt;&lt;hr/&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;True Gold &amp;amp; True Silver&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Juju&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Meeple&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Shade&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ollie&lt;/p&gt;&lt;hr/&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Misc.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Carnaval Mandy | Mythic&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;P.E.K.K.A.S.H | Supercell ID Rewards&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6CghG0ptuM9Lzwafl75NW1/2071a5e26d4080be2b366f4356e65ae5/Screenshot_2025-02-24_at_13.52.41.png?w=2552&amp;h=1406&amp;f=center&amp;fit=fill"&gt;
+&lt;h1&gt;BALANCE CHANGES&lt;/h1&gt;
+
+&lt;h1&gt;BUFFS&lt;/h1&gt;
+
+&lt;h1&gt;OLLIE&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2pKffsIfaAESH4bVYg6ZAq/dc044d9f59e717a769e031a26d3c477c/ollie_clap_pin.png?w=240&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Increased Main Attack Damage: 850 → 1000&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Super: Ollie will not silence himself anymore, now uses 50% of his max ammo&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;MEEPLE&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41aKNMWp6HUr9K2qrqtqvk/6f68e93724b96116dfd7b7f1b5587cb5/meeple_clap_pin.png?w=232&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Increased Main Attack reload speed: 2 sec → 1.9 sec&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;RUFFS&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5qSu3iQAUMkNyhoCshWlHB/7b657b4bdf8dbafd14c5fa386630ce70/ruffs_clap_pin.png?w=221&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Increased Hypercharge Damage &amp;amp; Shield: 10 → 15%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;NERFS&lt;/h1&gt;
+
+&lt;h1&gt;GUS&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2c6H4GPCR2jlcuVEBVNIAY/6f2fc69361061fa724ada7e807d5e3b6/gus_sad_pin.png?w=221&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Decreased Main Attack Damage: 1120 → 1080&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Decreased Gadget ‘Kooky Popper’ Damage: 2240 → 2160&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;STU&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1EfMRDKyKooKrjrkkDEFBs/8d550e4a4be33e27c998be1efe71220b/stu_facepalm_pin.png?w=221&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Decreased Star Power Gaso-Heal max health: 10% → 8%&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;PENNY&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3mDpg3asHmujRTFdvNpruN/f5acbb3b1b706a794dff8e772a10f1a2/emoji_penny_sad.png?w=221&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Decreased Hypercharge charge rate: 35 → 30&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;JUJU&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/V70Z7FffXijTVgbR7j7xO/72304e35ab0a705a402c9661bd242095/juju_sad_pin.png?w=222&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Decreased Super charge rate: 90 → 72 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;(5 → 6 Earth attack hits, 6 → 7 Grass/Water attack hits)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;MAX&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4JXDw18tZ5uHCCUBeW5Yl2/5c7aebd9227c147ef8a4efb0dbafbb7a/max_sad_pin.png?w=221&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Decreased Hypercharge charge rate: 40 → 35&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;RICO&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6Zon0LviWajY2yAG9vdtSh/32ef33094ea4e5dffcaf738ca5ae0653/rico_sad_pin.png?w=221&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Decreased Hypercharge charge rate: 40 → 35&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;LOU&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4MHWKid2GnvxJKJRtcIKaX/87104df082f7ac6902748d9c0253adfc/lou_sad_pin.png?w=221&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Decreased Hypercharge charge rate: 40 → 30&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;OTHER CHANGES&lt;/h1&gt;
+
+&lt;h1&gt;KENJI&lt;/h1&gt;
+&lt;img src="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/37p36iGNXpOlz78JHfrYSd/ce2db1119e1514185cb0991d035e9448/kenji_happy_pin.png?w=221&amp;h=221&amp;f=center&amp;fit=fill"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Now accurately shows return location when using his Super&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;TRIO SHOWDOWN IS HERE TO STAY!&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;This game mode ended up being a fan favorite, so we decided to add it to the game permanently, because... why not!?&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;To keep things as fair as possible, we decided to make major changes to the current Trio Showdown map pool, to provide a more balanced gameplay experience. We made adjustments for Trio Showdown to some of the most iconic Showdown maps and and ALSO added completely new maps created by the community that follow the same rationale.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;MAPS, GAME MODES &amp; ROTATION CHANGES&lt;/h1&gt;
+&lt;p&gt;&lt;u&gt;Ranked Game Modes &amp;amp; Maps&lt;/u&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Season 1 (3 Maps each)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Brawl Ball&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Knockout&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gem Grab&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Hot Zone&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Brawl Hockey&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Season 2  (3 Maps each)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Brawl Ball&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Knockout &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gem Grab&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Heist&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Cleaning Duty&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;u&gt;Environments&lt;/u&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Removed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Snowtel&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Starrforce&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Giftshop&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Toons&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fighting Game&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Dragon Forge&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Retropolis&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tara’s Bazaar&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Egypt&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;u&gt;Maps&lt;/u&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Showdown&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Skull Creek (Modified)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Rockwall Brawl (Modified)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Feast or Famine (Modified)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Cavern Churn (Modified)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Acid Lakes (Modified)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Flying Fantasies (Modified)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Island Invasion (Modified)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Double Trouble (Modified)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;UNO&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Wild Greens (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Reverse Crossing (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Skipyard (New)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wipeout 5v5/Knockout 5v5&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Big Battle Basin (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Unhappy Arena (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Survival Of The Meanest (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mirages Of Madness (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Courtyard Clashers (New)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Brawl Ball 5v5&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Polar Park (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stockpile Stadium (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Siberian Stand Off (New)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gem Grab 5v5&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Shimmering Forest (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Arctic Ambush (New)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Treasure Island (New)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Brawl Hockey 3v3&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Below Zero&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Cool Box&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Starr Garden&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Cleaning Duty&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Rubbish Rampage&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Trash Bash&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Dumpster Drive&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Waste Haven&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;In The Bins&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Garbage Yard&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Litterbug Lane&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Treasure Hunt&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Middle Management&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Excellent Excavations&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Brawl Starrgate&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;OTHER IMPROVEMENTS&lt;/h1&gt;
+&lt;h3&gt;GENERAL&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Battle Cards &amp;amp; Fame Frames are now part of your collection and you can choose which ones you want to equip and show off!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;You can now Favorite Brawlers in the Brawler screen by clicking the heart icon.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Favorited Brawlers will be placed at the start of the Brawler select screen in Ranked/Mega Pig picks.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Favorite Brawlers can be toggled to show at the top of the Brawler list (the same way as Brawlers with Quests etc).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Re-ordered Quick Chat messages to put the most frequently used ones first&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;True Gold &amp;amp; True Silver Skins have been given a polish by Gale, and now have a new updated shiny look!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added missing VFX to Demon Emz Skin&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt; Kenji’s Super return location VFX has been improved to be more accurate and visible&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;PERFORMANCE&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Reduced game’s memory consumption overall, so lower end devices should crash less.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Starr Road has reduced memory usage, improved responsiveness and sees the return of fully animated Brawlers&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Performance improved for Mad Evil Manor maps&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;BUG FIXES&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed an edge case where Sam’s gauntlet &amp;amp; Gus&amp;#39; attacks sometimes went in a strange angle when shooting over water or certain objects&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Kit exploit&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Brawler textures appearing in low resolution on high-end devices&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Pop Melodie Skin accidentally playing Poco&amp;#39;s attack sound (s&lt;i&gt;he writes her own music, we promise!)&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Angelo&amp;#39;s &amp;quot;Master Fletcher&amp;quot; Gadget cancelling his Super&amp;#39;s Damage over Time&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Byron&amp;#39;s Main Attack not triggering Haptic Feedback&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Rosa&amp;#39;s base Skin using the Main Attack VFX of another Skin during her Hypercharge&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Willow&amp;#39;s Star Power &amp;quot;Love is Blind&amp;quot; not reducing the reload speed of enemies&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed the Brawl Hockey puck passing through certain obstacles on the Air Sports Arena map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed a crash that could occur when claiming rewards from past Events&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Brawlers being unable to pick up the Air Hockey puck as soon as it bounces from a pinball bumper&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed Sam briefly losing upper body animation if his Super was activated when moving &lt;i&gt;(he&amp;#39;s old and his back gets stiff sometimes)&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed 3 Pins not being able to be sent in Club Chat&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;GLOBAL PRICING CHANGES&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;As part of our efforts to find affordable pricing for different regions of the world, we&amp;#39;re starting to roll out global pricing with this update&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;We still need to do some tests before doing a full rollout to all the target regions, so these local price changes will first be live in a few select countries only, and more regions will be gradually added in the coming months&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Since we&amp;#39;re still testing things, different players might also see different prices even within the same region&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Brawl Pass donations will also be temporarily deactivated in the regions where testing is taking place and will be reactivated once these are completed&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <link href="https://brawlstars.inbox.supercell.com/#/en/news/2Oy5L9l7Wvv07s1oy7DgbF"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ON2j8fOwN2vnF8wND6gRC/886e8f910ba3d76168b51f722e36889a/finx800.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="Release Notes"/>
+    <published>2025-02-25T05:54:50+00:00</published>
   </entry>
 </feed>
