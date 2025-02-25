@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2025-02-25T01:58:56.825340+00:00</updated>
+  <updated>2025-02-25T03:02:26.958126+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -408,6 +408,15 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ic9rIkAFMdwIYoE9wCFoe/d75887a45a2a20d41432534ae5acc54c/0210_New_Ranked_Pass__In-game_Article__800x433.png?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2025-02-13T08:50:52+00:00</published>
+  </entry>
+  <entry>
+    <id>38geLV5ddjaOAq6jFiArJJ</id>
+    <title>它真的來了：亂鬥第一吻！</title>
+    <updated>2025-02-25T02:58:45.297000+00:00</updated>
+    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/38geLV5ddjaOAq6jFiArJJ"/>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5HfpqStWcW1cukZkzHQsUl/4eb20817a209b40d03396fda73e2acb6/Brawlentine_BoCharlieKiss_Final_copy__1_.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
+    <category term="社群"/>
+    <published>2025-02-21T11:01:49+00:00</published>
   </entry>
   <entry>
     <id>6YzV09XRdwOPiT0jdUgvtU</id>
