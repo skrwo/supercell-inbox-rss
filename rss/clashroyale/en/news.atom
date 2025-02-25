@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashroyale-newsEntries-en</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-25T18:41:37.099521+00:00</updated>
+  <updated>2025-02-25T19:29:04.832177+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
-  <entry>
-    <id>2uwRSvIyOURY4iZrPaMLUT</id>
-    <title>It's about to get cold...</title>
-    <updated>2024-12-09T11:54:31.509000+00:00</updated>
-    <link href="https://clashroyale.inbox.supercell.com/#/en/news/2uwRSvIyOURY4iZrPaMLUT"/>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3vJrEwq7cgRzHXTGi7SK0b/887e822a9688ae297386f784ecb394cf/Snowball_Teaser.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
-    <category term="Highlights"/>
-    <published>2024-11-27T15:00:00+00:00</published>
-  </entry>
   <entry>
     <id>2qEavBtU9OZAfu3TD4wfQK</id>
     <title>December Events &amp; Challenges!</title>
@@ -509,7 +500,7 @@ Win an exclusive Emote!&lt;/p&gt;
   <entry>
     <id>3N2DsAv2FLYkXWwTkJQjAd</id>
     <title>Hunter Evolution!</title>
-    <updated>2025-02-25T12:21:19.105000+00:00</updated>
+    <updated>2025-02-25T19:25:35.475000+00:00</updated>
     <link href="https://clashroyale.inbox.supercell.com/#/en/news/3N2DsAv2FLYkXWwTkJQjAd"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1rHL9x1CCoF2rqnUwQxNvO/31b8afba0f30971a8537aeab16726e23/Hunter-Evolution-Illustration_Final_V01.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/0fpHidX-TIw"/>
