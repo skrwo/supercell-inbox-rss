@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-25T11:29:09.753478+00:00</updated>
+  <updated>2025-02-25T12:56:00.287802+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -338,10 +338,20 @@ Y cuando esté llena, ¡haz una entrega especial!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b
     <published>2025-02-11T08:17:33+00:00</published>
   </entry>
   <entry>
+    <id>3N2DsAv2FLYkXWwTkJQjAd</id>
+    <title>¡Evolución del cazador!</title>
+    <updated>2025-02-25T12:21:19.105000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/3N2DsAv2FLYkXWwTkJQjAd"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1rHL9x1CCoF2rqnUwQxNvO/31b8afba0f30971a8537aeab16726e23/Hunter-Evolution-Illustration_Final_V01.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/0fpHidX-TIw"/>
+    <category term="Noticias"/>
+    <published>2025-02-24T14:57:30+00:00</published>
+  </entry>
+  <entry>
     <id>HX4iXKGZkxps75mCUOBMw</id>
     <title>Aniversario Royale: vota por la recompensa del 9.º aniversario</title>
-    <updated>2025-02-25T10:39:36.858000+00:00</updated>
-    <content>&lt;p&gt;Clash Royale cumple 9 increíbles años, y lo celebra con un evento especial de aniversario.&lt;/p&gt;&lt;p&gt;Del &lt;b&gt;3 al 11 de marzo&lt;/b&gt;, juega una partida cada día para ganar recompensas especiales como cajas de oro, cubos de la suerte, reacciones ¡y mucho más! Y eso no es todo: ¡la comunidad decide cuál es la recompensa final!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vota por una de las siguientes cuatro opciones&lt;/b&gt; y podrás obtenerla el último día del evento.&lt;/p&gt;
+    <updated>2025-02-25T12:13:26.620000+00:00</updated>
+    <content>&lt;p&gt;Clash Royale cumple 9 increíbles años, y lo celebra con un evento especial de aniversario.&lt;/p&gt;&lt;p&gt;Del &lt;b&gt;3 al 11 de marzo&lt;/b&gt;, gana 3 coronas cada día para ganar recompensas especiales como cajas de oro, cubos de la suerte, reacciones ¡y mucho más! Y eso no es todo: ¡la comunidad decide cuál es la recompensa final!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vota por una de las siguientes cuatro opciones&lt;/b&gt; y podrás obtenerla el último día del evento.&lt;/p&gt;
 &lt;h1&gt;Vota por la recompensa del 9.º aniversario&lt;/h1&gt;
 📊 [POLL]
 &lt;ul&gt;
