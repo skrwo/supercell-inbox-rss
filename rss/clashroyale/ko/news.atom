@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-25T07:30:18.532563+00:00</updated>
+  <updated>2025-02-25T08:39:01.692594+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -466,5 +466,24 @@
     <link href="https://clashroyale.inbox.supercell.com/#/ko/news/5ewjP2wnq6n9Zxn1Tuud6B"/>
     <category term="새 소식"/>
     <published>2025-02-11T08:17:33+00:00</published>
+  </entry>
+  <entry>
+    <id>HX4iXKGZkxps75mCUOBMw</id>
+    <title>Royale Birthday — Vote for the 9th Birthday Reward</title>
+    <updated>2025-02-25T08:12:16.460000+00:00</updated>
+    <content>&lt;p&gt;Clash Royale is celebrating nine incredible years with a special birthday event!&lt;/p&gt;&lt;p&gt;&lt;b&gt;From March 3 to March 11&lt;/b&gt;, play one match every day to earn special rewards: Gold Crates, Lucky Drops, Emotes, and more! But that’s not all—the community decides the final reward!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vote for one of the four choices below&lt;/b&gt; and earn it on the last day of the event!&lt;/p&gt;
+&lt;h1&gt;Vote for the 9th Birthday Reward&lt;/h1&gt;
+📊 [POLL]
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Wizard Evolution&lt;/p&gt;&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2ifnXR0hApzbWg29jLYsEf/acd99f9361e6189af7d61011c779ef3e/Card_Wizard_Evolution_Frame.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Valkyrie Evolution&lt;/p&gt;&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6rlaQ8nnagHpCmXtZpcTp2/20a7d5120bd5273a98895ddc7e7dce05/Card_Valkyrie_Evolution_Frame.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Legendary Book of Cards&lt;/p&gt;&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3jUWTPL2iHpkYgHn9n9X0u/04f239f8fbbb3c8098a7ac5abb4b0fb0/book_legendary.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;5-Star Lucky Drop&lt;/p&gt;&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5PeQf7Rd9DpvpD7PiZKu6c/3c357a75df9d8dc83d8a51a7e6f06e56/book_legendary.png?w=300&amp;h=400&amp;f=center&amp;fit=fill"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cast your vote before the poll closes on &lt;b&gt;February 27 at 8 AM UTC&lt;/b&gt;!&lt;/p&gt;&lt;p&gt;See you in the Arena,&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Clash Royale Team&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/HX4iXKGZkxps75mCUOBMw"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/209xT4Sxh3QQj1eFgxWRRg/b8a813c6331d465dad2880b2a30fbc7c/poll_thumb_bday.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="커뮤니티"/>
+    <published>2025-02-25T08:00:02+00:00</published>
   </entry>
 </feed>

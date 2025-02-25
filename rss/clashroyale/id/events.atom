@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-eventEntries-id</id>
   <title>Clashroyale - Event</title>
-  <updated>2025-02-25T07:30:19.884848+00:00</updated>
+  <updated>2025-02-25T08:39:00.830695+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -25,5 +25,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/138VQSpVrVbW0CzQafSAzJ/f3c1889f2605903fe4e6f2159a48ccd0/CR_Balance_Changes_Jan2025.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://clashroyale.inbox.supercell.com/#/id/news/48KbJeUO3a8c8pwDoiSjxl"/>
     <published>2025-02-04T10:00:42+00:00</published>
+  </entry>
+  <entry>
+    <id>szzl34jAKphED70vkKUC6</id>
+    <title>Vote for the 9th Birthday Reward!</title>
+    <updated>2025-02-25T08:03:18.263000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/id/news/HX4iXKGZkxps75mCUOBMw"&gt;👉Vote now!👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6auhQcDbS5X0IrWmpJ7U48/814b610aba6b79afeb9c780a92bf0665/poll_carousel_bday.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/HX4iXKGZkxps75mCUOBMw"/>
+    <published>2025-02-25T08:00:02+00:00</published>
   </entry>
 </feed>

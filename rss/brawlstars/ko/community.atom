@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>brawlstars-communityEntries-ko</id>
   <title>Brawlstars - Community</title>
-  <updated>2025-02-25T07:30:15.909416+00:00</updated>
+  <updated>2025-02-25T08:38:58.999883+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox Community</subtitle>
   <entry>
     <id>5wwCLmP3ByZcZweOHFOzjw</id>
     <title>운영을 하면 할 수록 정말 맛있다니까?</title>
-    <updated>2025-02-25T07:30:15.909605+00:00</updated>
+    <updated>2025-02-25T08:38:59.000077+00:00</updated>
     <author>
       <name>시로Siro</name>
     </author>
@@ -20,7 +20,7 @@
   <entry>
     <id>4XIhNYdXsIBt3Px5RdMGvv</id>
     <title>상황에 맞게 픽을 할 줄 안다면 클랜시도 3티어가 아닌 1티어가 될 수 있습니다.</title>
-    <updated>2025-02-25T07:30:15.909570+00:00</updated>
+    <updated>2025-02-25T08:38:59.000046+00:00</updated>
     <author>
       <name>시로Siro</name>
     </author>
@@ -31,7 +31,7 @@
   <entry>
     <id>5wv0vThBURjofmo1c726yd</id>
     <title>게임을 이기고 싶다면 눈으로만 즐겨요!</title>
-    <updated>2025-02-25T07:30:15.909528+00:00</updated>
+    <updated>2025-02-25T08:38:59.000011+00:00</updated>
     <author>
       <name>시로Siro</name>
     </author>
@@ -42,12 +42,23 @@
   <entry>
     <id>m7LuU5kKb6y6qDjr8eF7s</id>
     <title>프로의 명예를 걸고, 경쟁전 마스터 꼭 찍어줄게.</title>
-    <updated>2025-02-25T07:30:15.909445+00:00</updated>
+    <updated>2025-02-25T08:38:58.999972+00:00</updated>
     <author>
       <name>시로Siro</name>
     </author>
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/8AfJvXNppsVVgolIZk7eF/12865afaa946bdae38df5e775534a316/thumbnail-1738943624768?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
     <link href="https://www.youtube.com/watch?v=mWMF_Y8wkgc"/>
     <published>2025-02-07T15:53:50+00:00</published>
+  </entry>
+  <entry>
+    <id>47lsahKFks3e0PIttVGkfo</id>
+    <title>그래.. 이번엔 밸붕 신규 브롤러 나올때 되긴 했지... 핑크스 가즈아잇~! [브롤스타즈 2월 업데이트 미리보기#2]</title>
+    <updated>2025-02-25T08:38:58.999917+00:00</updated>
+    <author>
+      <name>홀릿 Youtube Holit</name>
+    </author>
+    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2DmCgx56qJv3cb2RuRGAZD/7bbf3a4c90841366dc328f518fbc5969/thumbnail-1740469095532?w=860&amp;h=482&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/BUJmnFLfPyQ"/>
+    <published>2025-02-25T07:38:21+00:00</published>
   </entry>
 </feed>
