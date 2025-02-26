@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-newsEntries-ja</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-26T15:37:21.630233+00:00</updated>
+  <updated>2025-02-26T16:42:00.796212+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -607,6 +607,16 @@
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/3Tk6O94zAPoDD8zR9H2qtG"/>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3UKuPnSikptVQQKaRCmHfO/fbffcb904cc9b980d420fc4d554fb1d8/20250221_CR_Berserker_CP_inbox.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <published>2025-02-21T08:24:32+00:00</published>
+  </entry>
+  <entry>
+    <id>3N2DsAv2FLYkXWwTkJQjAd</id>
+    <title>限界突破ハンター！</title>
+    <updated>2025-02-26T16:11:11.711000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/3N2DsAv2FLYkXWwTkJQjAd"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1rHL9x1CCoF2rqnUwQxNvO/31b8afba0f30971a8537aeab16726e23/Hunter-Evolution-Illustration_Final_V01.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/0fpHidX-TIw"/>
+    <category term="ニュース"/>
+    <published>2025-02-24T14:57:30+00:00</published>
   </entry>
   <entry>
     <id>HX4iXKGZkxps75mCUOBMw</id>
