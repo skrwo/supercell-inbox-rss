@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>brawlstars-newsEntries-zh</id>
   <title>Brawlstars - News</title>
-  <updated>2025-02-26T07:29:45.772563+00:00</updated>
+  <updated>2025-02-26T08:39:42.000979+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Brawlstars inbox News</subtitle>
@@ -20,26 +20,6 @@
     <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2r9At7YluWHmcliHyT9JVw/567e171e883ec61077723d3c67bfbf7e/tw_20241019_bs_creators_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
     <category term="最新情報"/>
     <published>2024-10-18T10:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>6tKsp3tAhsAo1eZ6wbCfEV</id>
-    <title>【盛主播】謝德強度如何？特殊之處又在哪？</title>
-    <updated>2024-11-28T07:30:05.124000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/6tKsp3tAhsAo1eZ6wbCfEV"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/32Lj6F2NN4VKgvADbSs9TP/fcdd2b11d9a0442b48cd24e76aee3671/tw_20241128_jianss_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=nSUpbVVs-pg"/>
-    <category term="最新情報"/>
-    <published>2024-11-28T07:29:00+00:00</published>
-  </entry>
-  <entry>
-    <id>36AEwwH74CoIJmrEE3DHHl</id>
-    <title>【嘿!兄弟】帶你了解隨意穿梭的謝德！</title>
-    <updated>2024-11-28T07:33:34.842000+00:00</updated>
-    <link href="https://brawlstars.inbox.supercell.com/#/zh/news/36AEwwH74CoIJmrEE3DHHl"/>
-    <link href="https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Q78PA2F6XtZMVVlLvN4tH/2d3b42108d1484b577028986df154da7/tw_20241128_heybrother_video_thumb.jpg?w=800&amp;h=433&amp;f=center&amp;fit=fill"/>
-    <link href="https://www.youtube.com/watch?v=NHSDzENzi58"/>
-    <category term="最新情報"/>
-    <published>2024-11-28T07:30:00+00:00</published>
   </entry>
   <entry>
     <id>6LLyn0MQnYTNuhyl7Vpe0o</id>
