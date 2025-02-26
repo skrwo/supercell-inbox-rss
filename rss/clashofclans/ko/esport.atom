@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2025-02-26T03:01:48.459941+00:00</updated>
+  <updated>2025-02-26T03:41:54.123244+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -124,5 +124,23 @@
     <link href="https://www.youtube.com/live/Orh9fC5TUdM?si=9-Ky-DsaJlA2eGJb&amp;t=1879"/>
     <category term="e스포츠"/>
     <published>2025-02-17T17:57:58+00:00</published>
+  </entry>
+  <entry>
+    <id>6fQLNdzTvD6ZZgBdXiIGVY</id>
+    <title>예선전 #3 다시보기!</title>
+    <updated>2025-02-26T03:06:59.465000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3eqDlTSRyqizYHTHnEF5mK/f02fc8f7969dd04b6d2968a7ef11da4e/0226_COC_warmup_news_post_q3_900x506__KR.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/FDsRYGCHWNw?si=-jutSwskbQsvHSg6&amp;t=992"/>
+    <category term="e스포츠"/>
+    <published>2025-02-25T10:43:12+00:00</published>
+  </entry>
+  <entry>
+    <id>5KzMr5HYVEutJkJm5yLSL7</id>
+    <title>예선전 #4 다시보기</title>
+    <updated>2025-02-26T03:07:06.418000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/CZZ7ECuQVUTQsPoyQ2jUN/71899bbae0add3bcff715e8fd843cf85/0226_COC_warmup_news_post_q4_900x506__KR.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/BoyH8xAPuDQ?si=lS1dHapCQaYKyXMF&amp;t=1023"/>
+    <category term="e스포츠"/>
+    <published>2025-02-25T10:44:48+00:00</published>
   </entry>
 </feed>
