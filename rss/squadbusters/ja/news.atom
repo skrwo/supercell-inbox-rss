@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>squadbusters-newsEntries-ja</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-26T13:37:45.737483+00:00</updated>
+  <updated>2025-02-26T14:38:27.251623+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1759,5 +1759,15 @@ Xで『&lt;b&gt;#スクバス鋭角部&lt;/b&gt;』をつけて投稿いただ�
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/40NGQc0T1bSIoS17rmPKdX/f54f39e70b2a4cb560c5ab36f504d745/20250217_SQU_TW_update_CP_inbox.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="コミュニティ"/>
     <published>2025-02-18T10:50:43+00:00</published>
+  </entry>
+  <entry>
+    <id>5GeS65m7ofmRnXb2Oump7y</id>
+    <title>自分の質問がライブ配信で紹介されるチャンス！</title>
+    <updated>2025-02-26T14:10:22.956000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/ja/news/5GeS65m7ofmRnXb2Oump7y"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KSOIGQOgefDPXS7CRD4Nq/7d5b267bbea345d2e28d242dfa99f763/SB_AMA_16x9-DATE.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/live/Lzsf7CiUQOw?feature=share"/>
+    <category term="コミュニティイベント"/>
+    <published>2025-02-26T14:07:09+00:00</published>
   </entry>
 </feed>
