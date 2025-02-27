@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>clashroyale-newsEntries-pt</id>
   <title>Clashroyale - News</title>
-  <updated>2025-02-27T12:56:00.198575+00:00</updated>
+  <updated>2025-02-27T13:38:04.040683+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -297,6 +297,16 @@ Ganhe um emote exclusivo!&lt;/p&gt;
     <link href="https://clashroyale.inbox.supercell.com/#/pt/news/5ewjP2wnq6n9Zxn1Tuud6B"/>
     <category term="Notas de lançamento"/>
     <published>2025-02-11T08:17:33+00:00</published>
+  </entry>
+  <entry>
+    <id>3N2DsAv2FLYkXWwTkJQjAd</id>
+    <title>Evolução do Caçador</title>
+    <updated>2025-02-27T13:09:45.197000+00:00</updated>
+    <link href="https://clashroyale.inbox.supercell.com/#/pt/news/3N2DsAv2FLYkXWwTkJQjAd"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1rHL9x1CCoF2rqnUwQxNvO/31b8afba0f30971a8537aeab16726e23/Hunter-Evolution-Illustration_Final_V01.jpg?w=960&amp;h=540&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtube.com/shorts/0fpHidX-TIw"/>
+    <category term="Notícias"/>
+    <published>2025-02-24T14:57:30+00:00</published>
   </entry>
   <entry>
     <id>HX4iXKGZkxps75mCUOBMw</id>
