@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 28 Feb 2025 07:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 08:38:38 +0000</lastBuildDate>
     <item>
       <title>Сегодняшнее событие!</title>
       <link>hayday://OpenEventBoard</link>
@@ -52,6 +52,15 @@
       <guid isPermaLink="false">4VpflA3HJp9sTIURTc245l</guid>
       <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6Dgqkkz3ps39tku2ve5urV/399794c86b68de24d8597656fec4fb6e/HayDay_DesignFestival_1080x1920.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Tue, 11 Feb 2025 08:04:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новая доска событий?!</title>
+      <link>https://youtu.be/pGGlJwLYel8</link>
+      <description>&lt;br&gt;
+&lt;a href="https://youtu.be/pGGlJwLYel8"&gt;👉Смотреть 👈&lt;/a&gt;</description>
+      <guid isPermaLink="false">6rhXxYGGzTd630e6o8E6An</guid>
+      <enclosure url="https://hayday.inbox.supercell.com/0rebc2l8z0wu/34fGsHn8KhY46Cp7HOxTZj/1a1fcdd1ac2959214a6a5ad504ff768b/inbox.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
+      <pubDate>Fri, 28 Feb 2025 08:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-eventEntries-th</id>
   <title>Hayday - Event</title>
-  <updated>2025-02-28T07:30:08.014079+00:00</updated>
+  <updated>2025-02-28T08:38:37.507746+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -35,5 +35,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/vZdbV01VFvMjlDh9Ba05w/dedf89e3927dc56abadddce19db8e4da/Artboard_1.jpg?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/od8YrGLyOAY"/>
     <published>2025-01-31T08:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>6rhXxYGGzTd630e6o8E6An</id>
+    <title>กระดานอีเวนท์ใหม่?!</title>
+    <updated>2025-02-28T08:37:45.076000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/pGGlJwLYel8"&gt;👉รับชม 👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/34fGsHn8KhY46Cp7HOxTZj/1a1fcdd1ac2959214a6a5ad504ff768b/inbox.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/pGGlJwLYel8"/>
+    <published>2025-02-28T08:00:06+00:00</published>
   </entry>
 </feed>

@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>hayday-newsEntries-th</id>
   <title>Hayday - News</title>
-  <updated>2025-02-28T07:30:08.008744+00:00</updated>
+  <updated>2025-02-28T08:38:37.508776+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>20kkKbH24VqTIbqxg9lv4X</id>
-    <title>พืชผลใหม่ สิ่งก่อสร้างการผลิตใหม่ และนกใหม่?!</title>
-    <updated>2024-11-29T08:00:04.984000+00:00</updated>
-    <link href="https://hayday.inbox.supercell.com/#/th/news/20kkKbH24VqTIbqxg9lv4X"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6vLhAp7IjCgn9ZLPATAxvo/b1f312e6069f1a7933e2cfb08b891065/Thumb-draft-04__2_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtu.be/axVfcDrE0mE"/>
-    <category term="อัปเดตเกม"/>
-    <published>2024-11-29T08:00:04+00:00</published>
-  </entry>
   <entry>
     <id>3P47pUsFe9NIg9lDwNq09O</id>
     <title>เตรียมพร้อมสำหรับอีเวนท์ใหม่ที่จะมาเยือนคุณในธันวาคมนี้!</title>
@@ -306,5 +296,15 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="ข่าว"/>
     <published>2025-02-26T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>3b3CVWc9ZaSLhHhermQYZJ</id>
+    <title>อัปเดตที่กำลังจะมาถึง: กระดานอีเวนท์ใหม่ การปรับปรุงคอลเลคชัน และอีกมากมาย!</title>
+    <updated>2025-02-28T08:01:19.181000+00:00</updated>
+    <link href="https://hayday.inbox.supercell.com/#/th/news/3b3CVWc9ZaSLhHhermQYZJ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/1j4ZGIO4JMWFve9OdAAn6g/1474a3aec294c411ca848c58aca724de/Dairy_News_MAR25_Thumbnail_02.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/pGGlJwLYel8"/>
+    <category term="อัปเดตเกม"/>
+    <published>2025-03-06T22:00:00+00:00</published>
   </entry>
 </feed>

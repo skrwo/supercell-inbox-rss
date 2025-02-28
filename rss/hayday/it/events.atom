@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it">
   <id>hayday-eventEntries-it</id>
   <title>Hayday - Event</title>
-  <updated>2025-02-28T07:30:10.134179+00:00</updated>
+  <updated>2025-02-28T08:38:38.340675+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox Event</subtitle>
@@ -53,5 +53,15 @@
     <content>[EMPTY]</content>
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/6Dgqkkz3ps39tku2ve5urV/399794c86b68de24d8597656fec4fb6e/HayDay_DesignFestival_1080x1920.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
     <published>2025-02-11T08:04:21+00:00</published>
+  </entry>
+  <entry>
+    <id>6rhXxYGGzTd630e6o8E6An</id>
+    <title>Un nuovo tabellone degli eventi?!</title>
+    <updated>2025-02-28T08:37:45.076000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://youtu.be/pGGlJwLYel8"&gt;👉Guarda 👈&lt;/a&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/34fGsHn8KhY46Cp7HOxTZj/1a1fcdd1ac2959214a6a5ad504ff768b/inbox.png?w=860&amp;h=1320&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/pGGlJwLYel8"/>
+    <published>2025-02-28T08:00:06+00:00</published>
   </entry>
 </feed>
