@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>squadbusters-newsEntries-zh</id>
   <title>Squadbusters - News</title>
-  <updated>2025-02-28T03:40:15.275674+00:00</updated>
+  <updated>2025-02-28T04:39:21.584935+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -1330,5 +1330,15 @@
     <link href="https://youtube.com/live/Lzsf7CiUQOw?feature=share"/>
     <category term="社群活動"/>
     <published>2025-02-26T14:07:09+00:00</published>
+  </entry>
+  <entry>
+    <id>6UKxQj4xyBupfnqtugXhSZ</id>
+    <title>【Wish】如何使用與克制野蠻人</title>
+    <updated>2025-02-28T04:03:56.354000+00:00</updated>
+    <link href="https://squadbusters.inbox.supercell.com/#/zh/news/6UKxQj4xyBupfnqtugXhSZ"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/ygbJjk6KZVIxvpamPqjMi/db9df87f5e1e567649570254a27bda9d/tw_20250228_wish_video_thumb.jpg?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=dNG6eBCJTJo"/>
+    <category term="最新情報"/>
+    <published>2025-02-28T04:00:00+00:00</published>
   </entry>
 </feed>
