@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-newsEntries-zh</id>
   <title>Clashofclans - News</title>
-  <updated>2025-03-01T09:31:07.305451+00:00</updated>
+  <updated>2025-03-01T10:35:24.727661+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -483,12 +483,32 @@
   <entry>
     <id>2DWS03oeQFj5wTzty456Jy</id>
     <title>準備迎接無比精彩刺激的賽季！</title>
-    <updated>2025-02-28T13:05:26.178000+00:00</updated>
+    <updated>2025-03-01T09:53:59.401000+00:00</updated>
     <link href="https://clashofclans.inbox.supercell.com/#/zh/news/2DWS03oeQFj5wTzty456Jy"/>
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1Ihb81Sa9kpJKo3xJG5N3O/ff967c2ae62dc7f4f388c8966f9d0e05/inbox_military_teaser_action_heroes.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <link href="https://youtu.be/a30BRu51zsg"/>
     <category term="最新情報"/>
     <published>2025-02-28T13:01:01+00:00</published>
+  </entry>
+  <entry>
+    <id>64YVgv319MOuUfYIWoeTIA</id>
+    <title>【金雄】全新系列造型與場景一次看！</title>
+    <updated>2025-03-01T09:50:48.218000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/64YVgv319MOuUfYIWoeTIA"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/32xMfwC9smjNmxZd4Oy3bo/04d0cc5fbfbc7cbfe68472911513e7ea/tw_2050301_kaneo_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=GQM43Cmhi9o"/>
+    <category term="最新情報"/>
+    <published>2025-03-01T08:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1TM0kvZCLdv9NelPngqXMK</id>
+    <title>【烏龜】熱血動作系列造型與場景！</title>
+    <updated>2025-03-01T09:48:43.223000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/zh/news/1TM0kvZCLdv9NelPngqXMK"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1hs4ajDK39sXxO3Zg8WzuW/d9539a2cda99c85c8bd8a30fc5939b7e/tw_2050301_aturtle_video_thumb.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/watch?v=Wu5JIOjmIOg"/>
+    <category term="最新情報"/>
+    <published>2025-03-01T08:02:00+00:00</published>
   </entry>
   <entry>
     <id>fbI9dMx7dwHcNmddp088N</id>
