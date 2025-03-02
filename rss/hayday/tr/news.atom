@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
   <id>hayday-newsEntries-tr</id>
   <title>Hayday - News</title>
-  <updated>2025-03-02T08:36:28.453306+00:00</updated>
+  <updated>2025-03-02T09:31:31.195547+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>3P47pUsFe9NIg9lDwNq09O</id>
-    <title>Aralık ayında gelecek yeni etkinliklere hazır olun!</title>
-    <updated>2024-12-01T09:00:03.992000+00:00</updated>
-    <content>&lt;p&gt;&lt;b&gt;Farm Pass&lt;/b&gt;: 01.12 - 31.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Greg&amp;#39;in Takvim Etkinliği&lt;/b&gt;: 01.12 - 24.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Katalog Etkinliği (Haftalık Yenilenir)&lt;/b&gt;: 01.12 - 31.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yılbaşı Koleksiyonu&lt;/b&gt;: 01.12 - 31.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Görev Etkinliği&lt;/b&gt;: 03.12 - 08.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tavuk Vadisi&lt;/b&gt;: 04.12 - 24.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hediye Paketleme Makinesi ve Tekne Etkinliği&lt;/b&gt;: 10.12 - 31.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yerel Panayır&lt;/b&gt;: 16.12 - 20.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yılbaşı Kutlamaları Koleksiyonu&lt;/b&gt;: 21.12 - 27.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yılbaşı Neşesi Koleksiyonu&lt;/b&gt;: 21.12 - 27.12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Özel Ürünler Görev Etkinliği&lt;/b&gt;: 22.12 - 25.12&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/3P47pUsFe9NIg9lDwNq09O"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3gOXDBvUt9dRgHL16jRZm0/368ec0538c975b97d85d9e2cb1a88764/inboxcalendar.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Etkinlikler"/>
-    <published>2024-12-01T09:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>1E1dwhUD42iPXki9OWCQoE</id>
-    <title>Hay Day 49. Hafta</title>
-    <updated>2024-12-02T11:15:59.964000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Etkinlikleri 49. Hafta&lt;/h1&gt;
-&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır olun! Tüm etkinlikler ve derbiler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan her bir etkinliğin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazartesi&lt;/b&gt;: Çarkıfelek Etkinliği (hediye çekleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Salı:&lt;/b&gt; Kasaba Ziyaretçileri Etkinliği (ağıl ve ambar malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Çarşamba:&lt;/b&gt; Tekne Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perşembe:&lt;/b&gt; Üretim Binası Hızlandırma Etkinliği (üç bina, %20 hızlandırma)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cuma:&lt;/b&gt; Balıkçılık Etkinliği (ördek salonu ve ağ üreticisi, %30 hızlandırma)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cumartesi:&lt;/b&gt; Kasaba Ziyaretçileri Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazar:&lt;/b&gt; Ekin Artışı Etkinliği (rastgele üç ekin, iki yerine üç mahsul verir)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi:&lt;/b&gt; Normal Derbi&lt;/p&gt;&lt;p&gt;Harika bir hafta dileriz!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/tr/news/1E1dwhUD42iPXki9OWCQoE"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Etkinlikler"/>
-    <published>2024-12-01T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6rfigF6hic8edFvzF70fUy</id>
     <title>Yeni dekorasyon yarışmasına katıl!</title>
@@ -285,6 +264,17 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Haberler"/>
     <published>2025-02-26T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>DL38N1aObkd9JWvfUb07j</id>
+    <title>Hay Day 10. Hafta</title>
+    <updated>2025-03-02T09:01:21.111000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day 10. Hafta&lt;/h1&gt;
+&lt;p&gt;Merhaba çiftçiler! Etkinliklerle dolu yeni bir haftaya hazır olun! Tüm etkinlikler ve derbiler sabah saat 11&amp;#39;de (8.00 UTC) başlar. Oyundaki etkinlik panosundan etkinliklerin ayrıntılarına ulaşabilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazartesi:&lt;/b&gt; Çarkıfelek Etkinliği (genişletme malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Salı:&lt;/b&gt; Kamyon Etkinliği (iki kat TP)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Çarşamba:&lt;/b&gt; Tekne Etkinliği (hızlandırıcılar)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Perşembe:&lt;/b&gt; Çiftlik Ziyaretçileri Etkinliği (iki kat altın)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cuma:&lt;/b&gt; Balıkçılık Etkinliği (ıstakoz havuzu ve yem tezgahı, %30 hızlandırma) + İki Kat Farm Pass Puanı&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cumartesi:&lt;/b&gt; Kasaba Ziyaretçileri Etkinliği (ağıl ve ambar malzemeleri)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Pazar:&lt;/b&gt; Yem Değirmeni Etkinliği (rastgele üç hayvan yemi iki kat daha hızlı üretilir)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi:&lt;/b&gt; Tavşan Derbisi&lt;/p&gt;&lt;p&gt;Harika bir hafta diliyoruz!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/tr/news/DL38N1aObkd9JWvfUb07j"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Etkinlikler"/>
+    <published>2025-03-02T09:00:03+00:00</published>
   </entry>
   <entry>
     <id>3b3CVWc9ZaSLhHhermQYZJ</id>

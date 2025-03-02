@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>hayday-newsEntries-pt</id>
   <title>Hayday - News</title>
-  <updated>2025-03-02T08:36:26.917210+00:00</updated>
+  <updated>2025-03-02T09:31:30.186626+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1E1dwhUD42iPXki9OWCQoE</id>
-    <title>Semana 49 de Hay Day</title>
-    <updated>2024-12-02T11:15:59.964000+00:00</updated>
-    <content>&lt;h1&gt;Semana 49 de Hay Day&lt;/h1&gt;
-&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com vales.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: dobro de moedas com os pedidos do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: aceleração da produção em 20% de 3 edifícios aleatórios.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 30% do salão dos patos e redeiro.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: visitantes da cidade com materiais de expansão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três plantações aleatórias aceleradas com rendimento de 3 unidades em cada colheita em vez de 2.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: normal.&lt;/p&gt;&lt;p&gt;Tenha uma semana maravilhosa!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/pt/news/1E1dwhUD42iPXki9OWCQoE"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Eventos"/>
-    <published>2024-12-01T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6rfigF6hic8edFvzF70fUy</id>
     <title>Participe da nova competição de decoração!</title>
@@ -255,6 +244,17 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Notícias"/>
     <published>2025-02-26T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>DL38N1aObkd9JWvfUb07j</id>
+    <title>Semana 10 de Hay Day</title>
+    <updated>2025-03-02T09:01:21.111000+00:00</updated>
+    <content>&lt;h1&gt;Semana 10 de Hay Day&lt;/h1&gt;
+&lt;p&gt;Olá! Prepare-se para mais uma semana repleta de eventos! Todos os eventos e corridas começam às 8h (UTC). Confira o quadro de eventos para ficar por dentro de todos os detalhes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Segunda-feira&lt;/b&gt;: roda da sorte com materiais de expansão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Terça-feira&lt;/b&gt;: XP em dobro com os pedidos do caminhão.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quarta-feira&lt;/b&gt;: aceleradores com os pedidos do barco.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Quinta-feira&lt;/b&gt;: moedas em dobro com os visitantes da fazenda.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sexta-feira&lt;/b&gt;: aceleração da produção em 30% (lagostas e iscas) e dobro de pontos no passe rural.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: materiais do celeiro e do silo com os visitantes da cidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: três tipos aleatórios de ração serão produzidos com o dobro de velocidade.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Corrida&lt;/b&gt;: corrida do coelhinho.&lt;/p&gt;&lt;p&gt;Tenha uma ótima semana!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/pt/news/DL38N1aObkd9JWvfUb07j"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2025-03-02T09:00:03+00:00</published>
   </entry>
   <entry>
     <id>3b3CVWc9ZaSLhHhermQYZJ</id>

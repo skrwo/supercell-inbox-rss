@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>hayday-newsEntries-fr</id>
   <title>Hayday - News</title>
-  <updated>2025-03-02T08:36:25.408043+00:00</updated>
+  <updated>2025-03-02T09:31:30.634459+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>3P47pUsFe9NIg9lDwNq09O</id>
-    <title>Préparez-vous pour les nouveaux événements à venir en décembre !</title>
-    <updated>2024-12-01T09:00:03.992000+00:00</updated>
-    <content>&lt;p&gt;&lt;b&gt;Pass Hay Day&lt;/b&gt; : 01/12 - 31/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Calendrier de Greg&lt;/b&gt; : 01/12 - 24/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Événement du catalogue (réinitialisation hebdomadaire)&lt;/b&gt; : 01/12 - 31/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Collection Fêtes hivernales&lt;/b&gt; : 01/12 - 31/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Événement spécial&lt;/b&gt; : 03/12 - 08/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vallée aux poulets&lt;/b&gt; : 04/12 - 24/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Événement de l&amp;#39;atelier d&amp;#39;emballage de cadeaux et du bateau&lt;/b&gt; : 10/12 - 31/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Foire agricole&lt;/b&gt; : 16/12 - 20/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Collection Fêtes de fin d&amp;#39;année&lt;/b&gt; : 21/12 - 27/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Collection Festivités de fin d&amp;#39;année&lt;/b&gt; : 21/12 - 27/12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Événement spécial Produits spéciaux&lt;/b&gt; : 22/12 - 25/12&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/3P47pUsFe9NIg9lDwNq09O"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/3gOXDBvUt9dRgHL16jRZm0/368ec0538c975b97d85d9e2cb1a88764/inboxcalendar.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Événements"/>
-    <published>2024-12-01T09:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>1E1dwhUD42iPXki9OWCQoE</id>
-    <title>Calendrier des événements Hay Day (semaine 49)</title>
-    <updated>2024-12-02T11:15:59.964000+00:00</updated>
-    <content>&lt;h1&gt;Calendrier des événements Hay Day (semaine 49)&lt;/h1&gt;
-&lt;p&gt;Bonjour, amis de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements et les derbys commencent à 8 h UTC (9 h, heure française). Consultez les spécificités de chaque événement via le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lundi&lt;/b&gt; : roue de la Fortune, coupons&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mardi&lt;/b&gt; : visiteurs de la ville, matériaux du silo et de la grange&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercredi&lt;/b&gt; : événement du bateau, pièces x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jeudi&lt;/b&gt; : bâtiments de production, boost de production de 20 % pour 3 bâtiments aléatoires&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vendredi&lt;/b&gt; : pêche, canard et fabrique de filets 30 %&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samedi&lt;/b&gt; : visiteurs de la ville, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dimanche&lt;/b&gt; : boost pour 3 récoltes, 3 unités récoltées au lieu de 2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt; : normal&lt;/p&gt;&lt;p&gt;Passez une bonne semaine !&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/fr/news/1E1dwhUD42iPXki9OWCQoE"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Événements"/>
-    <published>2024-12-01T09:00:04+00:00</published>
-  </entry>
   <entry>
     <id>6rfigF6hic8edFvzF70fUy</id>
     <title>Participez à la compétition de décoration !</title>
@@ -296,6 +275,17 @@
     <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/53zzsNqZmNRjWyOM96OEnm/5c09467fa3aae58bee50c638d0dec4b5/amazon.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Nouvelles"/>
     <published>2025-02-26T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>DL38N1aObkd9JWvfUb07j</id>
+    <title>Hay Day (semaine 10)</title>
+    <updated>2025-03-02T09:01:21.111000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day (semaine 10)&lt;/h1&gt;
+&lt;p&gt;Bonjour, amis de la ferme ! Préparez-vous pour une nouvelle semaine d&amp;#39;événements ! Tous les événements et les derbys commencent à 8 h UTC (9 h, heure française). Vous pouvez en savoir plus sur les spécificités de chaque événement en consultant le tableau des événements en jeu.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lundi&lt;/b&gt; : roue de la Fortune, matériaux d&amp;#39;extension&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mardi&lt;/b&gt; : événement du camion, EXP x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercredi&lt;/b&gt; : événement du bateau, boosts&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jeudi&lt;/b&gt; : visiteurs de la ferme, pièces x2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vendredi&lt;/b&gt; : événement de pêche, homards et appâts 30 % + points du pass Hay Day doublés&lt;/p&gt;&lt;p&gt;&lt;b&gt;Samedi&lt;/b&gt; : visiteurs de la ville, matériaux du silo et de la grange&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dimanche&lt;/b&gt; : événement nourriture pour animaux, 3 types de nourriture pour animaux aléatoires sont produits 2x plus rapidement&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby&lt;/b&gt; : derby lapin&lt;/p&gt;&lt;p&gt;Passez une excellente semaine !&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/fr/news/DL38N1aObkd9JWvfUb07j"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Événements"/>
+    <published>2025-03-02T09:00:03+00:00</published>
   </entry>
   <entry>
     <id>3b3CVWc9ZaSLhHhermQYZJ</id>
