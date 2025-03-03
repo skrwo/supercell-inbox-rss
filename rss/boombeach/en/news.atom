@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>boombeach-newsEntries-en</id>
   <title>Boombeach - News</title>
-  <updated>2025-03-03T12:56:27.236262+00:00</updated>
+  <updated>2025-03-03T13:38:39.422442+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Boombeach inbox News</subtitle>
@@ -108,5 +108,55 @@ We appreciate your understanding and continued support as we work to improve the
     <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/1s86FJnMNwBfGUIobP5Cw8/229a29424cd433bba4c81997b4f04e4f/BlogPost_Thumbnail.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
     <category term="Blog"/>
     <published>2025-02-03T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1OI06LJ7kFUQpwa5Q5GaUH</id>
+    <title>This March on Boom Beach</title>
+    <updated>2025-03-03T13:35:14.579000+00:00</updated>
+    <content>&lt;h1&gt;This March on Boom Beach&lt;/h1&gt;
+&lt;p&gt;March is here, and it’s time to celebrate&lt;b&gt; 11 incredible years of Boom Beach &lt;/b&gt;with epic battles, powerful troop combinations, and exciting events! 
+Get ready to dominate the battlefield with these upcoming events:
+
+1 - 6: All Troop Mania – Unleash the full might of every troop with reduced training costs, allowing you to experiment with powerful army compositions!
+
+3 - 16: Warships Season 72 – Set sail for a brand-new season of Warships, featuring fresh layouts, innovative strategies, and rewards!
+
+3 - 9: Heavy Choppa – Bring in the aerial reinforcements with the Heavy Choppa, delivering nonstop firepower and frontline dominance!
+
+7 - 9: Bombardier &amp;amp; Scorcher Mania – Pair the explosive long-range firepower of Bombardiers with the relentless charge of Scorchers for devastating battlefield control!
+
+10 - 16: Rain Maker – Rain destruction on your enemies with these powerful long-range artillery units, outranging most defensive buildings!
+
+10 - 16: Gunboat Ability Week – A special week featuring rotating Gunboat Abilities to enhance your attacks! Each day brings a new ability:
+
+March 10: Speed Serum
+March 11: Tiny Shock
+March 12: Remote Hack
+March 13: Remote Defibrillator
+March 14: Cryo Bomb
+March 15: Crystal Shield
+March 16: Super Warrior
+
+17 - 19: Cryoneer &amp;amp; Medic Mania – Keep your enemies frozen and your troops alive with this powerful support-based troop combination!
+
+21 - 23: Anniversary Crab – Celebrate 11 years of Boom Beach with this special Mega Crab!
+
+24 - 26: Heavy &amp;amp; Warrior Mania – Charge into battle with an unstoppable frontline force, combining the brute strength of Heavies with the fast-striking Warriors!
+
+28 - 30: Joker Crab – A mysterious and unpredictable Mega Crab event with wild twists! Are you ready for the challenge?
+
+31 - Apr 2: Deployable Turret – Upgrade your defenses with this powerful Proto Troop, providing additional firepower during your attacks!
+
+31 - Apr 6: Critter Engineer – Bring the mechanical swarm to battle with the Critter Engineer, perfect for overwhelming enemy defenses!
+
+31 - Apr 20: Warships Season 73 – A new Warships season sets sail with fresh challenges and strategic opportunities!
+
+Get ready for an unforgettable anniversary month, Commanders! Strategize, battle, and claim your victories as we celebrate 11 years of Boom!
+
+&lt;b&gt;Don&amp;#39;t forget to claim your diamonds daily!&lt;/b&gt;&lt;/p&gt;</content>
+    <link href="https://boombeach.inbox.supercell.com/#/en/news/1OI06LJ7kFUQpwa5Q5GaUH"/>
+    <link href="https://boombeach.inbox.supercell.com/cf7umh1jvp53/5YsWb0CDaWqkuqHxphbwpG/b82d4daa9951e933f6a39ae38c761a9b/BlogPost_Thumbnail__1_.png?w=900&amp;h=493&amp;f=center&amp;fit=fill"/>
+    <category term="Blog"/>
+    <published>2025-03-03T13:30:00+00:00</published>
   </entry>
 </feed>
