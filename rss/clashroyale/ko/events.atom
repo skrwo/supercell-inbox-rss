@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-eventEntries-ko</id>
   <title>Clashroyale - Event</title>
-  <updated>2025-03-03T07:31:05.254653+00:00</updated>
+  <updated>2025-03-03T08:39:15.467847+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -25,15 +25,5 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7vsSAfsRfoqrdPrQLBktxN/396d5e065a9a7d1e428d8bdeaa987714/0203_season68_inboxKV__960x764_.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://youtube.com/shorts/0U6nbww_orI?si=U2DRSFxubOnBzvsU"/>
     <published>2025-02-03T09:00:02+00:00</published>
-  </entry>
-  <entry>
-    <id>HGlQlRYr8OUnytRjQ24SE</id>
-    <title>🗞️</title>
-    <updated>2025-02-17T07:10:41.619000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://clashroyale.inbox.supercell.com/#/ko/news/48KbJeUO3a8c8pwDoiSjxl"&gt;👉더 보기👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1E00c5tmPIeADwFOCNybLP/dc68c513eec3995791aaa218a0345214/0217_CR_밸런스-조정_960x764.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/48KbJeUO3a8c8pwDoiSjxl"/>
-    <published>2025-02-04T10:00:42+00:00</published>
   </entry>
 </feed>
