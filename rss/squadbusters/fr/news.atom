@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>squadbusters-newsEntries-fr</id>
   <title>Squadbusters - News</title>
-  <updated>2025-03-04T06:42:17.451171+00:00</updated>
+  <updated>2025-03-04T07:30:57.327834+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -706,15 +706,5 @@ Si vous atteignez la ligue Squad avant la fin de l&amp;#39;événement, rendez-v
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4KCdHxfwD1Z23In80xPzUg/cc6c2209d43be206af80c943d7a861b2/SB_chicken_hatchlings_KeyArt_YB__1920x1080__NO_LOGO_.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="Nouveautés"/>
     <published>2025-02-18T10:28:17+00:00</published>
-  </entry>
-  <entry>
-    <id>5GeS65m7ofmRnXb2Oump7y</id>
-    <title>Vos questions pourraient être évoquées sur le stream !</title>
-    <updated>2025-02-27T16:33:06.740000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/fr/news/5GeS65m7ofmRnXb2Oump7y"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KSOIGQOgefDPXS7CRD4Nq/7d5b267bbea345d2e28d242dfa99f763/SB_AMA_16x9-DATE.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/live/Lzsf7CiUQOw?feature=share"/>
-    <category term="Événement communautaire"/>
-    <published>2025-02-26T14:07:09+00:00</published>
   </entry>
 </feed>

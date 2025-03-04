@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>squadbusters-newsEntries-ko</id>
   <title>Squadbusters - News</title>
-  <updated>2025-03-04T06:42:16.789801+00:00</updated>
+  <updated>2025-03-04T07:30:57.000806+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -849,15 +849,5 @@ HP, 초당 피해량뿐만 아니라 일부 캐릭터의 능력 또한 개선됩
     <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/4KCdHxfwD1Z23In80xPzUg/cc6c2209d43be206af80c943d7a861b2/SB_chicken_hatchlings_KeyArt_YB__1920x1080__NO_LOGO_.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2025-02-18T10:28:17+00:00</published>
-  </entry>
-  <entry>
-    <id>5GeS65m7ofmRnXb2Oump7y</id>
-    <title>궁금한 건 모든 지 물어 보세요! 라이브 방송에 소개될 절호의 기회!</title>
-    <updated>2025-02-27T16:33:06.740000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/ko/news/5GeS65m7ofmRnXb2Oump7y"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/3QwsgvvukCVVEoAnnycBMf/02fd2307f55778f60f41419158a8f5e2/image__15_.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/live/Lzsf7CiUQOw?feature=share"/>
-    <category term="커뮤니티 이벤트"/>
-    <published>2025-02-26T14:07:09+00:00</published>
   </entry>
 </feed>

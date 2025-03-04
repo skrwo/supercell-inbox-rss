@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>squadbusters-newsEntries-en</id>
   <title>Squadbusters - News</title>
-  <updated>2025-03-04T06:42:17.106039+00:00</updated>
+  <updated>2025-03-04T07:30:58.006048+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Squadbusters inbox News</subtitle>
@@ -768,13 +768,104 @@ ULTIMATE EVOLUTIONS ⭐️⭐️⭐️⭐️⭐️&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1
     <published>2025-02-18T10:28:17+00:00</published>
   </entry>
   <entry>
-    <id>5GeS65m7ofmRnXb2Oump7y</id>
-    <title>Your questions could be featured live on stream!</title>
-    <updated>2025-02-27T16:33:06.740000+00:00</updated>
-    <link href="https://squadbusters.inbox.supercell.com/#/en/news/5GeS65m7ofmRnXb2Oump7y"/>
-    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/6KSOIGQOgefDPXS7CRD4Nq/7d5b267bbea345d2e28d242dfa99f763/SB_AMA_16x9-DATE.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
-    <link href="https://youtube.com/live/Lzsf7CiUQOw?feature=share"/>
-    <category term="Community Event"/>
-    <published>2025-02-26T14:07:09+00:00</published>
+    <id>3aamPjaT3AuTCVfdpvcen8</id>
+    <title>"Ask the Community Team" - Summary! (Feb 2025)</title>
+    <updated>2025-03-04T07:19:13.134000+00:00</updated>
+    <content>&lt;p&gt;The Squad Busters team recently hosted a live AMA featuring Community Managers Paula and Adrian, answering questions from players across social media and the live chat. Here’s a detailed summary of all the key topics and answers discussed during the session.&lt;/p&gt;&lt;p&gt;To watch the full AMA stream, click &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fyoutube.com%252Flive%252FLzsf7CiUQOw%253Ffeature%253Dshare')"&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;h1&gt;Esports in Squad Busters&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; Is there a long-term esports vision for Squad Busters, or is it focused on casual play?
+&lt;b&gt;A:&lt;/b&gt; Esports in Supercell games has always started organically from the community. While Squad Busters currently leans more towards casual play, upcoming gameplay changes could help spark competitive interest. If the demand grows, the team may develop additional tournament features.
+
+&lt;b&gt;Q:&lt;/b&gt; Will Squad Busters have a competitive scene in the future?
+&lt;b&gt;A:&lt;/b&gt; The potential is definitely there. As the game evolves and player interest in competitive play grows, the team will consider adding features to support an esports scene.
+
+&lt;b&gt;Q:&lt;/b&gt; Will there be tools like custom lobbies to support tournaments?
+&lt;b&gt;A:&lt;/b&gt; While not in development yet, custom lobbies are something the team would love to add in the future. This would allow players to organize their own tournaments and set specific match rules.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Community Management&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; How do Paula and Adrian divide community management tasks?
+&lt;b&gt;A:&lt;/b&gt; Paula focuses on the overall community strategy, while Adrian focuses more on social media and direct community engagement. In his first months, Adrian has been doing a lot of shadowing and learning the ropes from Paula. They work closely together, learning from each other and expanding Squad Busters’ content efforts.
+
+&lt;b&gt;Q:&lt;/b&gt; Who is better at Squad Busters, Paula or Adrian?
+&lt;b&gt;A:&lt;/b&gt; Paula thinks Adrian is better because he has played over 1,200 matches and secured many first-place finishes. However, Paula prefers playing casually and enjoys Event-based Modes like Hatchling Run.&lt;/p&gt;
+&lt;h1&gt;New Characters &amp; Skins&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; Will Squad Busters have more original Characters?
+&lt;b&gt;A:&lt;/b&gt; We’re exploring ways to expand the game’s story, which could lead to introducing more original Characters in the future. Some hints about them may already be in the game, like the mysterious figure on the Plaza castle.
+&lt;b&gt;
+Q:&lt;/b&gt; How many new Characters will be added in 2024?
+&lt;b&gt;A:&lt;/b&gt; Four to five new Characters are planned between now and summer, with more to follow later in the year.
+
+&lt;b&gt;Q:&lt;/b&gt; Will Skins have special effects like in Brawl Stars?
+&lt;b&gt;A:&lt;/b&gt; The team would love to improve Skin visibility and effects. While no timeline is set, they are considering ways to make Skins feel more impactful including custom bee&amp;#39;s for Bea Skins!
+
+&lt;b&gt;Q:&lt;/b&gt; Could Characters from canceled Supercell games be added?
+&lt;b&gt;A:&lt;/b&gt; Not currently, but the idea is exciting to the team. If the opportunity arises, it could happen in the future.
+&lt;b&gt;
+Q:&lt;/b&gt; Will every Supercell character eventually be added to the game?
+&lt;b&gt;A:&lt;/b&gt; The team isn’t aiming to include every Supercell character but will continue to introduce a mix of popular and unique Characters.&lt;/p&gt;
+&lt;h1&gt;PvE &amp; Game Modes&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; Will the Chicken Event (Hatchling Run) return?
+&lt;b&gt;A:&lt;/b&gt; Yes! The Event will return in March, with some minor improvements. The team is also considering more ways to enhance future PvE experiences in Squad.
+
+&lt;b&gt;Q:&lt;/b&gt; How much can PvE be expanded without overlapping with other Supercell games?
+&lt;b&gt;A:&lt;/b&gt; PvE is a broad category, and Squad Busters can develop its own unique take on it. The team is looking at ways to blend PvP and PvE in creative ways.
+
+&lt;b&gt;Q:&lt;/b&gt; Will we see new PvE mechanics in the future?
+&lt;b&gt;A:&lt;/b&gt; Yes, but details are still being discussed. The team sees potential for more engaging and interactive PvE content.
+
+&lt;b&gt;Q:&lt;/b&gt; Could a leaderboard system be introduced for PvE?
+&lt;b&gt;A:&lt;/b&gt; Leaderboards were considered for Hatchling Run, and the team hopes to explore ranking-based rewards for PvE in the future.&lt;/p&gt;
+&lt;h1&gt;Updates &amp; Progression&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; Why do Updates take so long?
+&lt;b&gt;A:&lt;/b&gt; The team has been growing, which will enable more frequent content Updates in the future. However, even though it may seem like a long time, a two-month development cycle is actually quite short. Additionally, a significant portion of development time has been dedicated to improving game performance, which has resulted in fewer new features in recent Updates.
+
+&lt;b&gt;Q:&lt;/b&gt; What is the April Update about?
+&lt;b&gt;A:&lt;/b&gt; The April Update will bring major gameplay changes that significantly impact how players strategize and interact with the game. Paula described it as &amp;quot;Brave,&amp;quot; while Adrian called it &amp;quot;Radical.&amp;quot;
+
+&lt;b&gt;Q:&lt;/b&gt; Will skill carry over with the April Update changes?
+&lt;b&gt;A:&lt;/b&gt; Yes! The team wants to ensure that players who have mastered the current gameplay won’t feel like they’re starting from scratch.
+
+&lt;b&gt;Q:&lt;/b&gt; Is there a plan to improve progression systems like Ultimates?
+&lt;b&gt;A:&lt;/b&gt; The team acknowledges that Ultimates are currently difficult to obtain and is exploring ways to make them more achievable.
+
+&lt;b&gt;Q:&lt;/b&gt; Will the new character rarity change how Characters are upgraded?
+&lt;b&gt;A:&lt;/b&gt; The new rarity will introduce different upgrade mechanics. While details haven’t been fully revealed, the system will allow for more strategic depth.&lt;/p&gt;
+&lt;h1&gt;Collabs &amp; Events&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; When will the Transformers Event return?
+&lt;b&gt;A:&lt;/b&gt; The Transformers Event will return on March 11th with adjustments, including a Shop system similar to the Hatchling Run Event.
+
+&lt;b&gt;Q:&lt;/b&gt; Will there be a collab with Superman?
+&lt;b&gt;A:&lt;/b&gt; No, a Superman collaboration is not in the works.
+
+&lt;b&gt;Q:&lt;/b&gt; Any anime collaborations planned?
+&lt;b&gt;A:&lt;/b&gt; No confirmed anime collabs, but the team is open to future possibilities.
+
+&lt;b&gt;Q:&lt;/b&gt; Could there be future collaborations outside of gaming?
+&lt;b&gt;A:&lt;/b&gt; The team is considering different types of partnerships and is excited about potential collaborations beyond gaming.&lt;/p&gt;
+&lt;h1&gt;Social Features &amp; Plaza&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; Will there be more ways to play with friends?
+&lt;b&gt;A:&lt;/b&gt; Improving social features is on the team’s radar, but the main focus right now is on core gameplay improvements.
+
+&lt;b&gt;Q:&lt;/b&gt; Will there be improvements to the Plaza?
+&lt;b&gt;A:&lt;/b&gt; There are no major Plaza changes planned at the moment, but as social features evolve, the Plaza could become more interactive.
+
+&lt;b&gt;Q:&lt;/b&gt; Could we see interactive social features like chat or clubs?
+&lt;b&gt;A:&lt;/b&gt; While an in-game chat isn’t planned right now, the team is exploring ways to improve communication and team coordination.&lt;/p&gt;
+&lt;h1&gt;Miscellaneous&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Q:&lt;/b&gt; Could we have community competitions for creating game Modes, Worlds, or Skins?
+&lt;b&gt;A:&lt;/b&gt; Yes! The team loves this idea and is looking at ways to get the community more involved in creative aspects of the game through Supercell Make.
+
+&lt;b&gt;Q:&lt;/b&gt; Will there be improvements to the Hammer system and Plaza decorations?
+&lt;b&gt;A:&lt;/b&gt; Hammer rewards and Plaza items may be expanded in the future, but no immediate changes are planned.
+
+&lt;b&gt;Q:&lt;/b&gt; What is your favorite Squad Busters Character and Skin?
+&lt;b&gt;A:&lt;/b&gt; Paula’s favorite is Mortis with his Baron Skin, while Adrian enjoys the Transformers Robot Skins and Spooky Pup Hog Rider.&lt;/p&gt;
+&lt;h1&gt;Thank you!&lt;/h1&gt;
+&lt;p&gt;A big thank you to everyone who submitted their questions on social media! We loved answering them and had an amazing time with everyone on stream!
+
+Subscribe to the &lt;a href="javascript:window.sendCommand('OpenWeb?url=https%253A%252F%252Fwww.youtube.com%252F%2540SquadBusters%253Fsub_confirmation%253D1')"&gt;Squad Busters YouTube&lt;/a&gt; channel to be notified for future live events!&lt;/p&gt;</content>
+    <link href="https://squadbusters.inbox.supercell.com/#/en/news/3aamPjaT3AuTCVfdpvcen8"/>
+    <link href="https://squadbusters.inbox.supercell.com/epg71hpoul0m/1z5evk31NaUOHrnQvlkZN7/91f669eab9aad4df2c97652c70d1246c/image__5_.png?w=1920&amp;h=1080&amp;f=center&amp;fit=fill"/>
+    <category term="News"/>
+    <published>2025-03-04T07:19:13+00:00</published>
   </entry>
 </feed>
