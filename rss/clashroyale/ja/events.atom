@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-eventEntries-ja</id>
   <title>Clashroyale - Event</title>
-  <updated>2025-03-04T13:38:39.320766+00:00</updated>
+  <updated>2025-03-04T14:37:44.327066+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
-  <entry>
-    <id>5jYim56q7bEjmbndGC4Uj8</id>
-    <title>🗞️</title>
-    <updated>2025-02-27T08:34:54.911000+00:00</updated>
-    <content>&lt;br&gt;
-&lt;a href="https://twitter.com/ClashRoyaleJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"&gt;👉公式チャンネル👈&lt;/a&gt; -- &lt;a href="https://youtube.com/playlist?list=PL6MG76h0c-fGmWuu60OfF5Ai7faI4DSDl"&gt;👉📺初心者講座👈&lt;/a&gt;</content>
-    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1yoUBy4NxJRJbTJGbAxq9V/081631c4cae71f252143308c6ce2a92e/3W_0719_CR________960x764_.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
-    <published>2023-07-20T04:28:24+00:00</published>
-  </entry>
   <entry>
     <id>We8OF9MzFqKi2igiv65MF</id>
     <title>🗞️</title>
@@ -24,6 +15,15 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4ehEINTyb1Buez0o4mIj1c/7839e3de16761c2f52bc8d4db28abfb5/Untitled-5.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <link href="https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig"/>
     <published>2023-12-01T08:26:30+00:00</published>
+  </entry>
+  <entry>
+    <id>5jYim56q7bEjmbndGC4Uj8</id>
+    <title>🗞️</title>
+    <updated>2025-03-04T14:01:42.082000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://twitter.com/ClashRoyaleJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"&gt;👉日本公式X👈&lt;/a&gt; -- &lt;a href="https://www.youtube.com/channel/UCBUpDlcBb5AiJxX1zCtqoyQ"&gt;👉📺日本版YouTube👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3e1n1izBo60LQxEidmGJ4R/bf1c181e8072f33e90a92a917774545e/20250225_CL_carousel__1_.png?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <published>2023-07-20T04:28:24+00:00</published>
   </entry>
   <entry>
     <id>5t1cLDOuGPg7IvYlEeKFhn</id>
