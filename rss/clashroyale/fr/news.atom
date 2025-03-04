@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashroyale-newsEntries-fr</id>
   <title>Clashroyale - News</title>
-  <updated>2025-03-04T08:39:06.217943+00:00</updated>
+  <updated>2025-03-04T09:34:55.322275+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -458,7 +458,7 @@
   <entry>
     <id>4EENsLxP1w90PW8x0qk5Sw</id>
     <title>Saison du 9e anniversaire de Royale !</title>
-    <updated>2025-03-04T06:36:39.081000+00:00</updated>
+    <updated>2025-03-04T09:12:49.432000+00:00</updated>
     <content>&lt;h1&gt;Nouvelle évolution : le chasseur !&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1ZEegtyBVy4jbiMyuIWvvb/9b233d4619bb57390c94173e2d53b9d1/hunterevolution.png?w=400&amp;h=450&amp;f=center"&gt;
@@ -478,5 +478,60 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Vw5T2WFENQqcf0jx8Le3S/3a781b51c7754792a5515b8d3baab74f/SUP4099_Season_69_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notes de patch"/>
     <published>2025-03-03T09:04:14+00:00</published>
+  </entry>
+  <entry>
+    <id>6xdNAfNNcCbKFinFR5iU6Z</id>
+    <title>Changements d'équilibrage de mars</title>
+    <updated>2025-03-04T08:55:17.278000+00:00</updated>
+    <content>&lt;h3&gt;NERFS ⬇️&lt;/h3&gt;
+&lt;h1&gt;Flèches&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Rayon&lt;/b&gt; : 4 → 3,5 cases (-13 %)&lt;/p&gt;
+&lt;p&gt;Souvent, les flèches infligent indirectement des dégâts aux tours couronnées en visant des troupes, tandis que d&amp;#39;autres sorts nécessitent de viser plus précisément : avec eux, on peut toucher soit les troupes soit les tours, mais rarement les deux. Nous avons réduit le rayon des flèches pour réduire ces dégâts complémentaires.&lt;/p&gt;
+&lt;h1&gt;La bûche&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jrDCgcy9OZxeAAN2lf2DC/399e3baa8a2fb83a7f19dfc7d0bd4a89/thelog.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts aux tours couronnées&lt;/b&gt; : 58 → 44 (-24 %)&lt;/p&gt;
+&lt;p&gt;Comme pour les flèches, nous avons réduit les dégâts aux tours couronnées infligés par la bûche pour minimiser les dégâts indirects lors des parties.&lt;/p&gt;
+&lt;h1&gt;Canon&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/793m9CNL4tlq71OIwFXOIM/3bd7c08c6825d56b2eabb0538b6b8d01/cannon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Vitesse de frappe&lt;/b&gt; : 0,9 s → 1 s (-11 %)&lt;/p&gt;
+&lt;p&gt;Le canon domine le champ de bataille depuis plusieurs saisons. Nous avons réduit sa vitesse d&amp;#39;attaque pour qu&amp;#39;il reste une distraction efficace, mais laisse aussi une chance de briller aux autres bâtiments défensifs.&lt;/p&gt;
+&lt;h1&gt;Rage&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SeMm9l5Q8V6XwomDYFnn7/27e1138bae65d25938c228ea0995a6e3/rage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durée de la rage (après avoir quitté la zone)&lt;/b&gt; : 2 s → 1 s (-50 %)&lt;/p&gt;
+&lt;p&gt;Auparavant, les troupes restaient sous l&amp;#39;effet du sort pendant 2 secondes après avoir quitté la zone de rage. Ce changement rend l&amp;#39;interaction plus intuitive et améliore l&amp;#39;équilibre entre le sort de rage et le bûcheron évolué.&lt;/p&gt;
+&lt;h1&gt;Géante runique&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Zs1h4OEXEe3sgfVXU4KGe/0119c15b705a0cfb465fb41e7a70ecb6/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Points de vie&lt;/b&gt; : 2 803 → 2508 (-11%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Durée de l&amp;#39;enchantement après l&amp;#39;élimination de la géante runique&lt;/b&gt; : ∞ → 5 s&lt;/p&gt;
+&lt;p&gt;Notre objectif est de trouver le meilleur équilibre possible pour la géante runique. Auparavant, son enchantement était trop faible quand il disparaissait au moment de son élimination, mais il était devenu trop fort quand il restait indéfiniment. L&amp;#39;enchantement restera désormais actif pendant 5 secondes après l&amp;#39;élimination de la géante runique.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;BUFFS ⬆️&lt;/h3&gt;
+&lt;h1&gt;Électro-sorcier&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2InjMNF4arQpUC5KWOsNb3/59b171b6943ca6ec29355040fe540cb6/electrowizard.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Dégâts&lt;/b&gt; :  110 → 116 (+5%)&lt;/p&gt;
+&lt;p&gt;L&amp;#39;électro-sorcier fait grimper la tension ! Il peut désormais électrocuter les esprits avec ses deux attaques.&lt;/p&gt;
+&lt;h1&gt;Méga boule de neige évoluée&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JIyVVpHE8PFBDlC6MbN48/955ba5eb80328691ec1e829cfc352dcf/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durée du ralentissement&lt;/b&gt; : 3 s → 4 s (+33 %)&lt;/p&gt;
+&lt;p&gt;La méga boule de neige évoluée avait besoin d&amp;#39;un boost pour rester compétitive par rapport aux autres évolutions. Prolonger la durée du ralentissement lui permettra d&amp;#39;être efficace même contre les bâtiments.&lt;/p&gt;
+&lt;h1&gt;Cuistot royal&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vvLDEasukqKoUDwJrgHZs/d39a80a04cccce42eb177462aa64b704/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Temps de préparation&lt;/b&gt; : 24 s - 40 s → 21 s - 35 s (-13 %)&lt;/p&gt;
+&lt;p&gt;Nous avons été trop durs avec le cuistot royal lors des derniers équilibrages, alors nous revenons en partie sur ces changements.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;AJUSTEMENTS 🔄&lt;/h3&gt;
+&lt;h1&gt;Princesse&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4g39MYoPcCs6z4UB9XdqJJ/629e97b63b10da3d5dc8ba77e9f49c68/princess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durée de déploiement&lt;/b&gt; : 1,0 s → 1,2 s (+20 %)
+&lt;b&gt;Vitesse de la première frappe&lt;/b&gt; : 0,5 s → 0,3 s (-40 %)&lt;/p&gt;
+&lt;p&gt;Pour les joueurs avec beaucoup de latence, il était difficile d&amp;#39;intercepter la princesse avec des troupes et des bâtiments quand elle était placée au niveau du pont. Grâce à ces ajustements, elle sera plus facile à distraire au pont, mais aura aussi de meilleures capacités défensives.&lt;/p&gt;
+&lt;h1&gt;Néant&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Intervalle entre les frappes&lt;/b&gt; : 1,3 s → 1,0 s (-23 %)&lt;/p&gt;
+&lt;p&gt;Le sort de néant est actuellement plus faible que les autres, donc nous avons réduit l&amp;#39;intervalle de temps entre ses frappes ainsi que sa durée totale, pour l&amp;#39;aider à frapper ses cibles de manière plus systématique.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;À bientôt dans l&amp;#39;arène !
+&lt;i&gt;L&amp;#39;équipe de Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/fr/news/6xdNAfNNcCbKFinFR5iU6Z"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/12I6VtAr10X1PVQvL2AQjr/5f82d8a8050d5e7e5c2744a4f02e7b23/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notes de patch"/>
+    <published>2025-03-04T08:44:02+00:00</published>
   </entry>
 </feed>

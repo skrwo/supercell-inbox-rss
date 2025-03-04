@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>clashroyale-newsEntries-de</id>
   <title>Clashroyale - News</title>
-  <updated>2025-03-04T08:39:05.840210+00:00</updated>
+  <updated>2025-03-04T09:34:54.471916+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -469,7 +469,7 @@
   <entry>
     <id>4EENsLxP1w90PW8x0qk5Sw</id>
     <title>Geburtstagssaison: Neun Jahre Clash Royale!</title>
-    <updated>2025-03-04T06:36:39.081000+00:00</updated>
+    <updated>2025-03-04T09:12:49.432000+00:00</updated>
     <content>&lt;h1&gt;Neue Entwicklung: Jäger!&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1ZEegtyBVy4jbiMyuIWvvb/9b233d4619bb57390c94173e2d53b9d1/hunterevolution.png?w=400&amp;h=450&amp;f=center"&gt;
@@ -489,5 +489,60 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Vw5T2WFENQqcf0jx8Le3S/3a781b51c7754792a5515b8d3baab74f/SUP4099_Season_69_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Versionshinweise"/>
     <published>2025-03-03T09:04:14+00:00</published>
+  </entry>
+  <entry>
+    <id>6xdNAfNNcCbKFinFR5iU6Z</id>
+    <title>Anpassungen der Spielbalance im März</title>
+    <updated>2025-03-04T08:55:17.278000+00:00</updated>
+    <content>&lt;h3&gt;NERFS ⬇️&lt;/h3&gt;
+&lt;h1&gt;Pfeile&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Radius:&lt;/b&gt; 4 Felder → 3,5 Felder (-12,5 %)&lt;/p&gt;
+&lt;p&gt;Pfeile verursachen oft nebenbei Schaden an Kronentürmen, wenn sie auf Einheiten gefeuert werden, während andere Zauber präziseres Zielen erfordern – man trifft entweder Einheiten oder Türme, aber selten beides. Zur Verringerung dieses über das Einsatzziel des Zaubers hinaus auftretenden Schadens verkleinern wir den Wirkradius der Pfeile.&lt;/p&gt;
+&lt;h1&gt;Kampfholz&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jrDCgcy9OZxeAAN2lf2DC/399e3baa8a2fb83a7f19dfc7d0bd4a89/thelog.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kronenturm-Schaden:&lt;/b&gt; 58 → 44 (-24 %)&lt;/p&gt;
+&lt;p&gt;Ähnlich wie bei den Pfeilen wird der Kronenturm-Schaden des Kampfholzes reduziert, um den Begleitschaden im Laufe eines Matches zu minimieren.&lt;/p&gt;
+&lt;h1&gt;Kanone&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/793m9CNL4tlq71OIwFXOIM/3bd7c08c6825d56b2eabb0538b6b8d01/cannon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Treffergeschwindigkeit:&lt;/b&gt; 0,9 Sek. → 1 Sek. (-11 %)&lt;/p&gt;
+&lt;p&gt;Die Kanone hat das Schlachtfeld über mehrere Saisons hinweg dominiert. Wir reduzieren ihr Angriffstempo, damit sie weiterhin als Ablenkungsmanöver dienen kann und andere Abwehranlagen ihre Chance bekommen, zu glänzen.&lt;/p&gt;
+&lt;h1&gt;Wut&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SeMm9l5Q8V6XwomDYFnn7/27e1138bae65d25938c228ea0995a6e3/rage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Wutdauer (nach Verlassen des Bereichs):&lt;/b&gt; 2 Sek. → 1 Sek. (-50 %)&lt;/p&gt;
+&lt;p&gt;Zuvor blieben Einheiten bis zu zwei Sekunden nach Verlassen des Wutbereichs verstärkt. Diese Änderung macht die Interaktion intuitiver und sorgt für mehr Ausgewogenheit zwischen dem Wutzauber und der Holzfäller-Entwicklung.&lt;/p&gt;
+&lt;h1&gt;Runenriesin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Zs1h4OEXEe3sgfVXU4KGe/0119c15b705a0cfb465fb41e7a70ecb6/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Trefferpunkte:&lt;/b&gt; 2803 → 2508 (-11%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dauer des Zaubers, nachdem die Runenriesin besiegt wird:&lt;/b&gt; ∞ → 5 Sek.&lt;/p&gt;
+&lt;p&gt;Unser Ziel ist es, für die Runenriesin eine möglichst gesunde Balance zu finden. Zuvor war ihr Zauber zu schwach, wenn er nach der Zerstörung der Runenriesin sofort verschwand, und zu stark, wenn er unbegrenzt anhielt. Nun bleibt der Zauber fünf Sekunden lang bestehen, nachdem die Runenriesin fällt.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;BUFFS ⬆️&lt;/h3&gt;
+&lt;h1&gt;Elektromagier&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2InjMNF4arQpUC5KWOsNb3/59b171b6943ca6ec29355040fe540cb6/electrowizard.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Schaden:&lt;/b&gt;  110 → 116 (+5%)&lt;/p&gt;
+&lt;p&gt;Der Elektromagier dreht die Spannung auf! Jetzt kann er Geister direkt vom Schlachtfeld fegen, wenn er sie mit beiden Angriffen trifft.&lt;/p&gt;
+&lt;h1&gt;Schneeball-Entwicklung&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JIyVVpHE8PFBDlC6MbN48/955ba5eb80328691ec1e829cfc352dcf/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Verlangsamungsdauer:&lt;/b&gt; 3 Sek. → 4 Sek. (+33 %)&lt;/p&gt;
+&lt;p&gt;Die Schneeball-Entwicklung benötigte einen Schub, um mit anderen Entwicklungen mithalten zu können. Mit einem längeren Verlangsamungseffekt ist sie auch gegen Gebäude wirksam.&lt;/p&gt;
+&lt;h1&gt;Königskoch&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vvLDEasukqKoUDwJrgHZs/d39a80a04cccce42eb177462aa64b704/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kochzeit:&lt;/b&gt; 24–40 Sek. → 21–35 Sek. (-13 %)&lt;/p&gt;
+&lt;p&gt;Der Königskoch wurde im letzten Balanceupdate zu stark abgeschwächt, weshalb wir einige dieser Änderungen teilweise wieder zurücknehmen.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;ÜBERARBEITUNG 🔄&lt;/h3&gt;
+&lt;h1&gt;Prinzessin&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4g39MYoPcCs6z4UB9XdqJJ/629e97b63b10da3d5dc8ba77e9f49c68/princess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Entsendungsdauer:&lt;/b&gt; 1 Sek. → 1,2 Sek. (+20 %)
+&lt;b&gt;Dauer, nach der der erste Treffer erfolgt:&lt;/b&gt; 0,5 Sek. → 0,3 Sek. (-40 %)&lt;/p&gt;
+&lt;p&gt;Für Spieler mit höherer Latenz war es schwierig, die Prinzessin mit Truppen und Gebäuden abzufangen, wenn sie an der Brücke platziert wurde. Durch den Wechsel der Ersttreffergeschwindigkeit und der Entsendungsdauer wird sie an der Brücke leichter abzulenken sein, sich aber auch besser verteidigen können.&lt;/p&gt;
+&lt;h1&gt;Leere&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Einschlagintervall:&lt;/b&gt; 1,3 Sek. → 1 Sek. (-23 %)&lt;/p&gt;
+&lt;p&gt;Die Leere ist derzeit weitaus schwächer als andere Zauber. Daher verkürzen wir die Zeit zwischen ihren Einschlägen und reduzieren ihre Gesamtdauer, um sicherzustellen, dass sie ihre Ziele konsequent trifft.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;Wir sehen uns in der Arena!
+&lt;i&gt;Dein Clash Royale-Team&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/de/news/6xdNAfNNcCbKFinFR5iU6Z"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/12I6VtAr10X1PVQvL2AQjr/5f82d8a8050d5e7e5c2744a4f02e7b23/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Versionshinweise"/>
+    <published>2025-03-04T08:44:02+00:00</published>
   </entry>
 </feed>

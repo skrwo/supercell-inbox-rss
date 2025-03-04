@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>clashroyale-eventEntries-ja</id>
   <title>Clashroyale - Event</title>
-  <updated>2025-03-04T08:39:04.911483+00:00</updated>
+  <updated>2025-03-04T09:34:53.602127+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox Event</subtitle>
@@ -38,10 +38,20 @@
   <entry>
     <id>4I8CuWMjGDEEYJaLplkU3n</id>
     <title>🗞️</title>
-    <updated>2025-03-04T08:06:56.604000+00:00</updated>
+    <updated>2025-03-04T09:05:29.636000+00:00</updated>
     <content>&lt;br&gt;
 &lt;a href="https://clashroyale.inbox.supercell.com/#/ja/news/4EENsLxP1w90PW8x0qk5Sw"&gt;👉読む👈&lt;/a&gt; -- &lt;a href="https://youtube.com/shorts/HFwyDKK5A1U"&gt;👉視聴👈&lt;/a&gt;</content>
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/PzePY6QtizLYhgU1j5Oup/5c1594b090328553741561972598be73/SUP4099_Season_69_Season_Carousel_Image-960x764.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
     <published>2025-03-03T09:04:08+00:00</published>
+  </entry>
+  <entry>
+    <id>3vbedIcWdaFO9NAQDSV6R9</id>
+    <title>3月のバランス調整</title>
+    <updated>2025-03-04T09:28:10.999000+00:00</updated>
+    <content>&lt;br&gt;
+&lt;a href="https://clashroyale.inbox.supercell.com/#/ja/news/6xdNAfNNcCbKFinFR5iU6Z"&gt;👉読む👈&lt;/a&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5xcskfLwz8vRtFE9LJdjNz/5d0029dbad5e2dcb5fe7ec0cd342b209/CR_Balance_Changes_Jan2025.jpg?w=960&amp;h=764&amp;f=center&amp;fit=fill"/>
+    <link href="https://clashroyale.inbox.supercell.com/#/ja/news/6xdNAfNNcCbKFinFR5iU6Z"/>
+    <published>2025-03-04T08:48:21+00:00</published>
   </entry>
 </feed>

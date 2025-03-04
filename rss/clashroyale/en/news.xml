@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Mar 2025 08:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 09:34:53 +0000</lastBuildDate>
     <item>
       <title>Giant Snowball Evolution</title>
       <link>https://www.youtube.com/shorts/rUmgdnqw8RE</link>
@@ -476,6 +476,60 @@
       <category>Release Notes</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Vw5T2WFENQqcf0jx8Le3S/3a781b51c7754792a5515b8d3baab74f/SUP4099_Season_69_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Mar 2025 09:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>March Balance Changes</title>
+      <link>https://clashroyale.inbox.supercell.com/#/en/news/6xdNAfNNcCbKFinFR5iU6Z</link>
+      <description>&lt;h3&gt;NERFS ⬇️&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Arrows&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Radius:&lt;/b&gt; 4 tiles → 3.5 tiles (-13%)&lt;/p&gt;
+&lt;p&gt;Arrows often deal incidental Crown Tower damage while targeting Troops, whereas other Spells require more precise aiming—you either hit Troops or Towers, but rarely both. We&amp;#39;re decreasing Arrows&amp;#39; radius to reduce the damage spill.&lt;/p&gt;
+&lt;h1&gt;The Log&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jrDCgcy9OZxeAAN2lf2DC/399e3baa8a2fb83a7f19dfc7d0bd4a89/thelog.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Crown Tower Damage&lt;/b&gt;: 58 → 44 (-24%)&lt;/p&gt;
+&lt;p&gt;Similarly to Arrows, The Log’s Crown Tower damage is reduced to minimize incidental damage throughout a game.&lt;/p&gt;
+&lt;h1&gt;Cannon&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/793m9CNL4tlq71OIwFXOIM/3bd7c08c6825d56b2eabb0538b6b8d01/cannon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Hit Speed&lt;/b&gt;: 0.9s → 1.0s (-11%)&lt;/p&gt;
+&lt;p&gt;Cannon has dominated the battlefield for several seasons. We’re reducing its attack speed to keep it effective as a distraction while giving other defensive buildings a chance to shine.&lt;/p&gt;
+&lt;h1&gt;Rage&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SeMm9l5Q8V6XwomDYFnn7/27e1138bae65d25938c228ea0995a6e3/rage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Rage Duration (after leaving the area)&lt;/b&gt;: 2s → 1s (-50%)&lt;/p&gt;
+&lt;p&gt;Previously, Troops remained buffed for up to 2 seconds after leaving the Rage pool. This change makes the interaction more intuitive and improves the balance of the Rage Spell and Lumberjack Evolution.&lt;/p&gt;
+&lt;h1&gt;Rune Giant&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Zs1h4OEXEe3sgfVXU4KGe/0119c15b705a0cfb465fb41e7a70ecb6/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Hitpoints&lt;/b&gt;: 2803 → 2508 (-11%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Enchantment Duration After Rune Giant’s Destruction&lt;/b&gt;: ∞ → 5s&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re striving to find the healthiest balance for Rune Giant. Previously, her Enchantment was too weak when it disappeared instantly upon Rune Giant&amp;#39;s destruction and too strong when it lasted indefinitely. Now, Enchantment will remain active for 5 seconds after Rune Giant is destroyed.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;BUFFS ⬆️&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Electro Wizard&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2InjMNF4arQpUC5KWOsNb3/59b171b6943ca6ec29355040fe540cb6/electrowizard.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Damage:&lt;/b&gt; 110 → 116 (+5%)&lt;/p&gt;
+&lt;p&gt;Electro Wizard is cranking up the voltage! Now, he can zap Spirits out of existence when hitting them with both attacks.&lt;/p&gt;
+&lt;h1&gt;Giant Snowball Evolution&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JIyVVpHE8PFBDlC6MbN48/955ba5eb80328691ec1e829cfc352dcf/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Slowdown Duration:&lt;/b&gt; 3s → 4s (+33%)&lt;/p&gt;
+&lt;p&gt;Giant Snowball Evolution needed a boost to stay competitive with other Evolutions. With a longer slowdown effect, it will be effective even against Buildings.&lt;/p&gt;
+&lt;h1&gt;Royal Chef&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vvLDEasukqKoUDwJrgHZs/d39a80a04cccce42eb177462aa64b704/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Cooking Time:&lt;/b&gt; 24s-40s → 21s-35s (-13%)&lt;/p&gt;
+&lt;p&gt;Royal Chef was nerfed too harshly in the last balance update, so we’re partially reverting some of those changes.&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;REWORK 🔄&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Princess&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4g39MYoPcCs6z4UB9XdqJJ/629e97b63b10da3d5dc8ba77e9f49c68/princess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Deploy Time:&lt;/b&gt; 1.0s → 1.2s (+20%)
+&lt;b&gt;First Hit Speed:&lt;/b&gt; 0.5s → 0.3s (-40%)&lt;/p&gt;
+&lt;p&gt;For players with higher latency, catching Princess with Troops and Buildings was challenging when she was placed at the bridge. By shifting her First Hit Speed to Deploy Time, she will be easier to distract at the bridge but also gain a buff in her defensive capabilities.&lt;/p&gt;
+&lt;h1&gt;Void&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Strike Interval:&lt;/b&gt; 1.3s → 1.0s (-23%)&lt;/p&gt;
+&lt;p&gt;Void is currently much weaker than other Spells, so we’re shortening the time between its strikes and reducing its overall duration to ensure it consistently hits its intended targets.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;See you in the Arena,
+&lt;i&gt;The Clash Royale Team&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6xdNAfNNcCbKFinFR5iU6Z</guid>
+      <category>Release Notes</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/12I6VtAr10X1PVQvL2AQjr/5f82d8a8050d5e7e5c2744a4f02e7b23/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Mar 2025 08:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Mar 2025 08:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 09:34:53 +0000</lastBuildDate>
     <item>
       <title>2024年 ロードマップ</title>
       <link>https://clashroyale.inbox.supercell.com/#/ja/news/2hvQDP7rrocMX6srU1m1ig</link>
@@ -596,6 +596,60 @@
       <category>リリース情報</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Vw5T2WFENQqcf0jx8Le3S/3a781b51c7754792a5515b8d3baab74f/SUP4099_Season_69_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Mar 2025 09:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>3月のバランス調整</title>
+      <link>https://clashroyale.inbox.supercell.com/#/ja/news/6xdNAfNNcCbKFinFR5iU6Z</link>
+      <description>&lt;h3&gt;弱体化⬇️&lt;/h3&gt;
+&lt;h1&gt;矢の雨&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;**半径：**4マス→3.5マス（-13％）&lt;/p&gt;
+&lt;p&gt;矢の雨を敵ユニットに使用すると、誤ってクラウンタワーにもダメージを与えてしまうことが多々ありました。しかし他の呪文の場合、より正確なエイムが必要な一方で、ユニットとタワーの両方に命中することは稀です。今回の調整で半径を減少させ、「流れ矢」の発生を防ぎます。&lt;/p&gt;
+&lt;h1&gt;ローリングウッド&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jrDCgcy9OZxeAAN2lf2DC/399e3baa8a2fb83a7f19dfc7d0bd4a89/thelog.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;タワーダメージ&lt;/b&gt;：58→44（-24％）&lt;/p&gt;
+&lt;p&gt;ローリングウッドのタワーダメージを低下させ、矢の雨と同じように、誤ってタワーに与えてしまうダメージを最小限に抑えます。&lt;/p&gt;
+&lt;h1&gt;大砲&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/793m9CNL4tlq71OIwFXOIM/3bd7c08c6825d56b2eabb0538b6b8d01/cannon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;攻撃速度&lt;/b&gt;：0.9秒→1.0秒（-11％）&lt;/p&gt;
+&lt;p&gt;大砲は数シーズンにわたって環境を席巻してきました。そのため、今回の調整で攻撃速度を低下させます。これにより、妨害カードとしての有用性は維持しつつ、他の建物にも活躍の機会を与えることができるでしょう。&lt;/p&gt;
+&lt;h1&gt;レイジ&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SeMm9l5Q8V6XwomDYFnn7/27e1138bae65d25938c228ea0995a6e3/rage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;レイジの効果時間（エリアを抜けた後）&lt;/b&gt;：2秒→1秒（-50％）&lt;/p&gt;
+&lt;p&gt;以前まで、レイジの効果は使用エリアを抜けた後も2秒間続いていました。今回の変更で挙動が分かりやすくなり、レイジの呪文と限界突破ランバージャックのバランスも改善できるはずです。&lt;/p&gt;
+&lt;h1&gt;鍛冶屋ジャイアント&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Zs1h4OEXEe3sgfVXU4KGe/0119c15b705a0cfb465fb41e7a70ecb6/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;ヒットポイント&lt;/b&gt;：2803→2508 (-11%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;強化の効果時間（鍛冶屋ジャイアント撃破後）&lt;/b&gt;：無制限→5秒&lt;/p&gt;
+&lt;p&gt;鍛冶屋ジャイアントにさらなるバランス調整を加えます。強化が一瞬で消えるという初期の期待外れの性能から一変し、現在は効果時間が無制限のため、過剰に強力な性能となっています。今回の調整で、鍛冶屋ジャイアント撃破後の強化持続時間が5秒となります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;強化⬆️&lt;/h3&gt;
+&lt;h1&gt;エレクトロウィザード&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2InjMNF4arQpUC5KWOsNb3/59b171b6943ca6ec29355040fe540cb6/electrowizard.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;**ダメージ：**110→116  (+5%)&lt;/p&gt;
+&lt;p&gt;エレクトロウィザードのボルテージが急上昇！今回の調整で、スピリット系ユニットを両手の同時攻撃でワンパンできるようになります。&lt;/p&gt;
+&lt;h1&gt;限界突破巨大雪玉&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JIyVVpHE8PFBDlC6MbN48/955ba5eb80328691ec1e829cfc352dcf/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;**スローダウンの効果時間：**3秒→4秒（+33％）&lt;/p&gt;
+&lt;p&gt;限界突破巨大雪玉は、他の限界突破と比較して活躍の場に恵まれていませんでした。そのためスローダウンの効果時間を延長し、特に建物に対しての有用性をアップさせます。&lt;/p&gt;
+&lt;h1&gt;ロイヤルシェフ&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vvLDEasukqKoUDwJrgHZs/d39a80a04cccce42eb177462aa64b704/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;**調理時間：**24秒-40秒→21秒-35秒（-13％）&lt;/p&gt;
+&lt;p&gt;前回のバランス調整で、ロイヤルシェフは過剰なまでの弱体化を受けてしまいました。今回は調理時間を短縮し、若干の強化を図ります。&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;リワーク🔄&lt;/h3&gt;
+&lt;h1&gt;プリンセス&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4g39MYoPcCs6z4UB9XdqJJ/629e97b63b10da3d5dc8ba77e9f49c68/princess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;**配置時間：**1.0秒→1.2秒（+20％）
+**初撃速度：**0.5秒→0.3秒（-40％）&lt;/p&gt;
+&lt;p&gt;通信速度の遅いプレイヤーにとって、橋前に配置されたプリンセスをユニットや建物で即座に迎撃するのは困難でした。そこで今回、プリンセスの初撃速度と配置時間を調整し、橋前の敵プリンセスのタゲ取りを容易にします。ですが同時にその防衛性能も強化されるはずです。&lt;/p&gt;
+&lt;h1&gt;ボイド&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;**攻撃の発生間隔：**1.3秒→1.0秒（-23％）&lt;/p&gt;
+&lt;p&gt;ボイドは他の呪文と比較して低性能と言わざるをえません。そこで攻撃の発生間隔を短くすることで全体の効果時間を減らし、本来の目標に連続してダメージを与えやすくします。&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;それでは、アリーナでお会いしましょう！
+&lt;i&gt;クラッシュ・ロワイヤル開発チーム&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6xdNAfNNcCbKFinFR5iU6Z</guid>
+      <category>リリース情報</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/12I6VtAr10X1PVQvL2AQjr/5f82d8a8050d5e7e5c2744a4f02e7b23/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Mar 2025 08:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

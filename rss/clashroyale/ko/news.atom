@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashroyale-newsEntries-ko</id>
   <title>Clashroyale - News</title>
-  <updated>2025-03-04T08:39:07.259743+00:00</updated>
+  <updated>2025-03-04T09:34:52.353278+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -463,5 +463,60 @@
     <link href="https://cafe.naver.com/clashroyale/1519879"/>
     <category term="커뮤니티"/>
     <published>2025-02-28T08:00:45+00:00</published>
+  </entry>
+  <entry>
+    <id>6xdNAfNNcCbKFinFR5iU6Z</id>
+    <title>3월 밸런스 조정</title>
+    <updated>2025-03-04T08:55:17.278000+00:00</updated>
+    <content>&lt;h3&gt;하향 조정 ⬇️&lt;/h3&gt;
+&lt;h1&gt;화살&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;반경&lt;/b&gt;: 4타일 → 3.5타일(-13%)&lt;/p&gt;
+&lt;p&gt;화살은 유닛을 공격하면서 크라운 타워에도 같은 피해량을 주는 경우가 많았습니다. 반면에 다른 마법은 유닛만 공격하거나 타워만 공격하는 등 두 가지를 공격하는 대신 한 표적에 집중하는 모습을 보여주죠. 이렇게 화살 카드의 피해량이 분산되는 것을 줄이기 위해 화살의 반경을 감소시켰습니다.&lt;/p&gt;
+&lt;h1&gt;통나무&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jrDCgcy9OZxeAAN2lf2DC/399e3baa8a2fb83a7f19dfc7d0bd4a89/thelog.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;크라운 타워 피해량&lt;/b&gt;: 58 → 44(-24%)&lt;/p&gt;
+&lt;p&gt;화살과 마찬가지로, 게임 중에 타워에 가해지는 피해량을 줄이기 위해 통나무의 크라운 타워 피해량을 감소시켰습니다.&lt;/p&gt;
+&lt;h1&gt;대포&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/793m9CNL4tlq71OIwFXOIM/3bd7c08c6825d56b2eabb0538b6b8d01/cannon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;공격 속도&lt;/b&gt;: 0.9초 → 1.0초(-11%)&lt;/p&gt;
+&lt;p&gt;여러 시즌 동안 대포가 전장에서 너무 압도적인 모습을 보여줬습니다. 그렇기 때문에 대포의 공격 속도를 감소시켰습니다. 이번 조정을 통해 효과적으로 다른 유닛을 방해하는 미끼 카드의 역할을 해치지 않으면서, 동시에 다른 방어 건물이 활약할 기회를 주고자 합니다.&lt;/p&gt;
+&lt;h1&gt;분노 마법&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SeMm9l5Q8V6XwomDYFnn7/27e1138bae65d25938c228ea0995a6e3/rage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;분노 마법 지속 시간(아레나 떠난 후)&lt;/b&gt;: 2초 → 1초(-50%)&lt;/p&gt;
+&lt;p&gt;이전에는 분노 마법의 영향을 받은 유닛이 영역을 떠난 후에도 2초 동안 강화 상태를 유지했습니다. 이번 변경을 통해 상호작용을 좀 더 직관적으로 만들고, 분노 마법과 나무꾼 진화 간의 균형을 개선하고자 합니다.&lt;/p&gt;
+&lt;h1&gt;룬 자이언트&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Zs1h4OEXEe3sgfVXU4KGe/0119c15b705a0cfb465fb41e7a70ecb6/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;HP&lt;/b&gt;: 2803 → 2508(-11%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;룬 자이언트가 파괴된 후 마법 지속 시간&lt;/b&gt;: ∞ → 5초&lt;/p&gt;
+&lt;p&gt;저희는 룬 자이언트의 적절한 균형을 찾기 위해 노력하고 있습니다. 이전에는 룬 자이언트가 파괴되면 룬 자이언트 마법이 바로 사라져 약한 모습을 보여줬지만, 반대로 마법이 무한히 지속될 경우 너무 강한 모습을 보여줬습니다. 이제 룬 자이언트가 파괴된 후 마법은 5초 동안만 활성화됩니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;상향 조정 ⬆️&lt;/h3&gt;
+&lt;h1&gt;일렉트로 마법사&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2InjMNF4arQpUC5KWOsNb3/59b171b6943ca6ec29355040fe540cb6/electrowizard.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;피해량&lt;/b&gt; 110 → 116 (+5%)&lt;/p&gt;
+&lt;p&gt;일렉트로 마법사가 전압을 더욱 높이고 있습니다! 이제 일렉트로 마법사가 두 번의 공격으로 스피릿을 파괴할 수 있습니다.&lt;/p&gt;
+&lt;h1&gt;거대 눈덩이 진화&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JIyVVpHE8PFBDlC6MbN48/955ba5eb80328691ec1e829cfc352dcf/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;감속 지속 시간:&lt;/b&gt; 3초 → 4초(+33%)&lt;/p&gt;
+&lt;p&gt;다른 진화 유닛과 견주어 거대 눈덩이 진화의 경쟁력을 유지하기 위해서는 강화가 필요했습니다. 이제 감속 지속 시간이 더욱 길어져 건물에 더욱 큰 효과를 발휘할 것입니다.&lt;/p&gt;
+&lt;h1&gt;로얄 셰프&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vvLDEasukqKoUDwJrgHZs/d39a80a04cccce42eb177462aa64b704/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;조리 시간&lt;/b&gt;: 24초~40초 → 21초-35초(-13%)&lt;/p&gt;
+&lt;p&gt;지난 밸런스 조정 업데이트에서 로얄 셰프가 지나치게 하향 조정되었기 때문에, 일부 변경 사항을 부분적으로 되돌렸습니다.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;재조정 🔄&lt;/h3&gt;
+&lt;h1&gt;프린세스&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4g39MYoPcCs6z4UB9XdqJJ/629e97b63b10da3d5dc8ba77e9f49c68/princess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;배치 시간:&lt;/b&gt; 1.0초 → 1.2초(+20%)
+&lt;b&gt;첫 공격 속도:&lt;/b&gt; 0.5초 → 0.3초(-40%)&lt;/p&gt;
+&lt;p&gt;지연 현상이 자주 발생하는 플레이어의 경우, 다리에 배치된 프린세스를 유닛이나 건물로 잡는 것이 어려웠습니다. 첫 공격 속도와 배치 시간 조정을 통해 다리에서 프린세스의 주의를 분산시키기 더욱 쉬워졌지만, 그녀의 방어 능력 역시 강화되었습니다.&lt;/p&gt;
+&lt;h1&gt;공허&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;공격 간격:&lt;/b&gt; 1.3초 → 1.0초(-23%)&lt;/p&gt;
+&lt;p&gt;현재 공허는 다른 마법에 비해 상대적으로 약한 모습을 보이고 있습니다. 이를 보완하기 위해 공격 간 간격을 단축하고, 전반적인 지속 시간을 줄여 보다 일관된 공격이 가능하도록 조정했습니다.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;아레나에서 뵙겠습니다.
+&lt;i&gt;클래시 로얄 팀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/ko/news/6xdNAfNNcCbKFinFR5iU6Z"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/12I6VtAr10X1PVQvL2AQjr/5f82d8a8050d5e7e5c2744a4f02e7b23/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="새 소식"/>
+    <published>2025-03-04T08:44:02+00:00</published>
   </entry>
 </feed>

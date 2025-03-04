@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 04 Mar 2025 08:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 09:34:54 +0000</lastBuildDate>
     <item>
       <title>Palla di neve gigante evoluta</title>
       <link>https://www.youtube.com/shorts/rUmgdnqw8RE</link>
@@ -461,6 +461,60 @@ Aumentati del 6% (da 242 punti a 256)&lt;/p&gt;
       <category>Note di rilascio</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Vw5T2WFENQqcf0jx8Le3S/3a781b51c7754792a5515b8d3baab74f/SUP4099_Season_69_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Mar 2025 09:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modifiche di bilanciamento di marzo</title>
+      <link>https://clashroyale.inbox.supercell.com/#/it/news/6xdNAfNNcCbKFinFR5iU6Z</link>
+      <description>&lt;h3&gt;INDEBOLIMENTI ⬇️&lt;/h3&gt;
+&lt;h1&gt;Frecce&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Raggio&lt;/b&gt; diminuito del 13% (da 4 caselle a 3,5).&lt;/p&gt;
+&lt;p&gt;Spesso le Frecce causano dei danni fortuiti alle torri della corona quando si prendono di mira le unità nemiche, il che, con gli altri incantesimi, succede solo se si è particolarmente precisi (in pratica, o si feriscono le truppe o si colpiscono le torri, ma raramente succedono entrambe le cose). Per evitare questa situazione, abbiamo ridotto il raggio delle Frecce.&lt;/p&gt;
+&lt;h1&gt;Tronco&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jrDCgcy9OZxeAAN2lf2DC/399e3baa8a2fb83a7f19dfc7d0bd4a89/thelog.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni alle torri della corona&lt;/b&gt; ridotti del 24% (da 58 punti a 44).&lt;/p&gt;
+&lt;p&gt;Seguendo lo stesso ragionamento adottato per le Frecce, abbiamo diminuito i danni alle torri della corona causati dal Tronco per minimizzare quelli fortuiti durante una partita.&lt;/p&gt;
+&lt;h1&gt;Cannone&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/793m9CNL4tlq71OIwFXOIM/3bd7c08c6825d56b2eabb0538b6b8d01/cannon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Velocità colpi&lt;/b&gt; rallentata dell&amp;#39;11% (da 0,9 secondi a 1).&lt;/p&gt;
+&lt;p&gt;Il cannone domina l&amp;#39;arena ormai da diverse stagioni, perciò abbiamo rallentato la velocità dei colpi per rendere gli altri edifici difensivi un po&amp;#39; più allettanti, senza intaccare il ruolo che il cannone ricopre come diversivo.&lt;/p&gt;
+&lt;h1&gt;Furia&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SeMm9l5Q8V6XwomDYFnn7/27e1138bae65d25938c228ea0995a6e3/rage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durata della Furia (dopo aver abbandonato l&amp;#39;area d&amp;#39;effetto)&lt;/b&gt; ridotta del 50% (da 2 secondi a 1).&lt;/p&gt;
+&lt;p&gt;Prima, gli effetti della Furia potevano durare fino a due secondi, dopo che le truppe erano uscite dall&amp;#39;area dell&amp;#39;incantesimo. Con questo cambio, abbiamo reso l&amp;#39;interazione più intuitiva e migliorato il bilanciamento tra la Furia e il boscaiolo evoluto.&lt;/p&gt;
+&lt;h1&gt;Gigantessa delle rune&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Zs1h4OEXEe3sgfVXU4KGe/0119c15b705a0cfb465fb41e7a70ecb6/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Punti ferita&lt;/b&gt; diminuiti dell&amp;#39;11% (da 2803 a 2508)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Durata dell&amp;#39;incantesimo dopo l&amp;#39;eliminazione della gigantessa delle rune&lt;/b&gt; ridotta a 5 secondi (non è più infinita).&lt;/p&gt;
+&lt;p&gt;Trovare un buon compromesso per questa unità non è una cosa semplice. Prima, il suo incantesimo spariva subito dopo l&amp;#39;eliminazione della gigantessa e, quindi, era troppo debole; poi, quando abbiamo esteso all&amp;#39;infinito la sua durata, era diventato troppo forte. Ora rimarrà attivo per cinque secondi dopo l&amp;#39;abbattimento della truppa.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;POTENZIAMENTI ⬆️&lt;/h3&gt;
+&lt;h1&gt;Stregone elettrico&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2InjMNF4arQpUC5KWOsNb3/59b171b6943ca6ec29355040fe540cb6/electrowizard.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Danni&lt;/b&gt; aumentati del 5% (da 110 punti a 116). &lt;/p&gt;
+&lt;p&gt;Lo stregone elettrico ha caricato le pile! Ora può far secchi gli spiriti senza tanti problemi, se li attacca con entrambi i colpi.&lt;/p&gt;
+&lt;h1&gt;Palla di neve gigante evoluta&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JIyVVpHE8PFBDlC6MbN48/955ba5eb80328691ec1e829cfc352dcf/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durata del rallentamento&lt;/b&gt; aumentata del 33% (da 3 secondi a 4).&lt;/p&gt;
+&lt;p&gt;La Palla di neve gigante evoluta aveva bisogno di una spintarella per rimanere allo stesso livello delle altre evoluzioni, così, grazie a un rallentamento più duraturo, sarà più efficace addirittura contro gli edifici.&lt;/p&gt;
+&lt;h1&gt;Chef reale&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vvLDEasukqKoUDwJrgHZs/d39a80a04cccce42eb177462aa64b704/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durata della cottura&lt;/b&gt; ridotta del 13% (da 24-40 secondi a 21-35).&lt;/p&gt;
+&lt;p&gt;Lo chef reale è stato indebolito un po&amp;#39; troppo nell&amp;#39;ultimo bilanciamento, quindi abbiamo annullato parzialmente alcuni dei cambi fatti la scorsa volta.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;MODIFICHE SOSTANZIALI 🔄&lt;/h3&gt;
+&lt;h1&gt;Principessa&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4g39MYoPcCs6z4UB9XdqJJ/629e97b63b10da3d5dc8ba77e9f49c68/princess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Tempo di schieramento&lt;/b&gt; aumentato del 20% (da un secondo a 1,2).
+&lt;b&gt;Velocità del primo colpo&lt;/b&gt; aumentata del 40% (da 0,5 secondi a 0,3).&lt;/p&gt;
+&lt;p&gt;Per quei giocatori con problemi di latenza, era un po&amp;#39; difficile eliminare con truppe ed edifici una principessa schierata su un ponte. Aumentando la velocità del primo colpo e rallentando quella di schieramento, sarà più semplice distrarla quando viene messa su un ponte, ma la sua abilità difensiva sarà migliorata.&lt;/p&gt;
+&lt;h1&gt;Nihil&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Intervallo tra i colpi&lt;/b&gt; ridotto del 23% (da 1,3 secondi a 1).&lt;/p&gt;
+&lt;p&gt;Al momento, il Nihil è molto più debole di tutti gli altri incantesimi, quindi abbiamo ridotto i tempi tra un colpo e un altro e diminuito la durata totale dell&amp;#39;incantesimo, per far sì che colpisca regolarmente gli obiettivi voluti.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;Ci vediamo nell&amp;#39;arena!
+&lt;i&gt;Il team di Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6xdNAfNNcCbKFinFR5iU6Z</guid>
+      <category>Note di rilascio</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/12I6VtAr10X1PVQvL2AQjr/5f82d8a8050d5e7e5c2744a4f02e7b23/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Mar 2025 08:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

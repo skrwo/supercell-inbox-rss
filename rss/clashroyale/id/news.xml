@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>id</language>
-    <lastBuildDate>Tue, 04 Mar 2025 08:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 09:34:55 +0000</lastBuildDate>
     <item>
       <title>Evolusi Bola Salju Raksasa</title>
       <link>https://www.youtube.com/shorts/rUmgdnqw8RE</link>
@@ -422,6 +422,60 @@
       <category>Komunitas</category>
       <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/209xT4Sxh3QQj1eFgxWRRg/b8a813c6331d465dad2880b2a30fbc7c/poll_thumb_bday.png?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/png"/>
       <pubDate>Tue, 25 Feb 2025 08:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perubahan Keseimbangan Maret</title>
+      <link>https://clashroyale.inbox.supercell.com/#/id/news/6xdNAfNNcCbKFinFR5iU6Z</link>
+      <description>&lt;h3&gt;PELEMAHAN ⬇️&lt;/h3&gt;
+&lt;h1&gt;Panah&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Radius:&lt;/b&gt; 4 ubin → 3,5 ubin (-13%)&lt;/p&gt;
+&lt;p&gt;Saat menarget Peleton, Panah sering kali memberikan kerusakan insidental pada Benteng Mahkota, sedangkan Mantra lain memerlukan bidikan yang lebih akurat (biasanya hanya mengenai Peleton atau Benteng, tetapi jarang keduanya sekaligus). Oleh karena itu, kami mengurangi radius Panah agar kerusakan tidak menyebar terlalu luas.&lt;/p&gt;
+&lt;h1&gt;Sang Kayu&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jrDCgcy9OZxeAAN2lf2DC/399e3baa8a2fb83a7f19dfc7d0bd4a89/thelog.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kerusakan Benteng Mahkota&lt;/b&gt;: 58 → 44 (-24%)&lt;/p&gt;
+&lt;p&gt;Serupa dengan Panah, kerusakan Benteng Mahkota dari Sang Kayu kini dikurangi untuk meminimalkan kerusakan insidental dalam pertempuran.&lt;/p&gt;
+&lt;h1&gt;Meriam&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/793m9CNL4tlq71OIwFXOIM/3bd7c08c6825d56b2eabb0538b6b8d01/cannon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kecepatan Serangan&lt;/b&gt;: 0,9d → 1,0d (-11%)&lt;/p&gt;
+&lt;p&gt;Meriam telah mendominasi medan pertempuran selama beberapa musim. Kami telah mengurangi kecepatan serangannya untuk memberi kesempatan bagi bangunan pertahanan lain tanpa mengurangi fungsinya sebagai pengalih perhatian yang efektif.&lt;/p&gt;
+&lt;h1&gt;Amarah&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SeMm9l5Q8V6XwomDYFnn7/27e1138bae65d25938c228ea0995a6e3/rage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durasi Amarah (setelah meninggalkan area)&lt;/b&gt;: 2d → 1d (-50%)&lt;/p&gt;
+&lt;p&gt;Sebelumnya, Peleton akan tetap diperkuat selama 2 detik setelah meninggalkan kubangan Amarah. Perubahan ini akan menjadikan interaksi kian intuitif dan meningkatkan keseimbangan Mantra Amarah dan Evolusi Penebang.&lt;/p&gt;
+&lt;h1&gt;Raksasa Rune&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Zs1h4OEXEe3sgfVXU4KGe/0119c15b705a0cfb465fb41e7a70ecb6/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Nyawa&lt;/b&gt;: 2.803 → 2508 (-11%)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Durasi Efek setelah Raksasa Rune Ditumbangkan&lt;/b&gt;: ∞ → 5d&lt;/p&gt;
+&lt;p&gt;Kami selalu berusaha untuk menemukan keseimbangan yang tepat untuk Raksasa Rune. Sebelum ini, penguatan yang diberikan Raksasa Rune dirasa terlalu lemah saat efek ini musnah saat Raksasa Rune tumbang dan terasa terlalu kuat saat efek ini tidak ada habisnya! Kini, efek akan tetap aktif selama 5 detik setelah Raksasa Rune tumbang.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;PENGUATAN ⬆️&lt;/h3&gt;
+&lt;h1&gt;Penyihir Elektro&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2InjMNF4arQpUC5KWOsNb3/59b171b6943ca6ec29355040fe540cb6/electrowizard.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Kerusakan:&lt;/b&gt; 91 → 96 (+5%)&lt;/p&gt;
+&lt;p&gt;Penyihir Elektro hadir dengan voltase tinggi! Kini dia bisa menyetrum Roh hingga musnah saat menyerang mereka dengan kedua serangan.&lt;/p&gt;
+&lt;h1&gt;Evolusi Bola Salju Raksasa&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JIyVVpHE8PFBDlC6MbN48/955ba5eb80328691ec1e829cfc352dcf/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Durasi Perlambatan:&lt;/b&gt; 3d → 4d (+33%)&lt;/p&gt;
+&lt;p&gt;Evolusi Bola Salju Raksasa memerlukan sedikit penguatan untuk menjadikannya tetap kompetitif dibandingkan Evolusi lain. Dengan efek perlambatan yang lebih lama, kartu ini akan jadi lebih efektif untuk menangani Bangunan.&lt;/p&gt;
+&lt;h1&gt;Koki Istana&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vvLDEasukqKoUDwJrgHZs/d39a80a04cccce42eb177462aa64b704/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Waktu Memasak:&lt;/b&gt; 24d-40d → 21d-35d (-13%)&lt;/p&gt;
+&lt;p&gt;Koki Istana dilemahkan terlalu jauh di perubahan keseimbangan terakhir. Oleh karena itu, kami harus mengembalikan sejumlah perubahan tersebut.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;PEROMBAKAN 🔄&lt;/h3&gt;
+&lt;h1&gt;Putri&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4g39MYoPcCs6z4UB9XdqJJ/629e97b63b10da3d5dc8ba77e9f49c68/princess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Waktu Pengerahan:&lt;/b&gt; 1,0d → 1,2d (+20%)
+&lt;b&gt;Kecepatan Serangan Pertama:&lt;/b&gt; 0,5d → 0,3d (-40%)&lt;/p&gt;
+&lt;p&gt;Untuk pemain dengan latensi tinggi, menghentikan Putri saat dikerahkan dekat jembatan mungkin sulit dilakukan dengan Peleton dan Bangunan. Dengan merombak Kecepatan Serangan Pertama menjadi Waktu Pengerahan, Putri kini jadi lebih mudah dipancing di jembatan meski kini dia jadi makin bagus dalam bertahan.&lt;/p&gt;
+&lt;h1&gt;Mantra Hampa&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;&lt;b&gt;Jeda Serangan:&lt;/b&gt; 1,3d → 1,0d (-23%)&lt;/p&gt;
+&lt;p&gt;Mantra Hampa kini jadi yang terlemah di antara Mantra lain. Oleh karena itu, kami memangkas jeda serangannya sekaligus mengurangi durasi total untuk memastikan target dihempaskan dengan konsisten.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;Sampai jumpa di Arena!
+&lt;i&gt;Tim Clash Royale&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6xdNAfNNcCbKFinFR5iU6Z</guid>
+      <category>Catatan Rilis</category>
+      <enclosure url="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/12I6VtAr10X1PVQvL2AQjr/5f82d8a8050d5e7e5c2744a4f02e7b23/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Mar 2025 08:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

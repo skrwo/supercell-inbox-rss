@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>clashroyale-newsEntries-es</id>
   <title>Clashroyale - News</title>
-  <updated>2025-03-04T08:39:06.015989+00:00</updated>
+  <updated>2025-03-04T09:34:54.937823+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -327,7 +327,7 @@
   <entry>
     <id>4EENsLxP1w90PW8x0qk5Sw</id>
     <title>Temporada del 9.º aniversario de Clash Royale</title>
-    <updated>2025-03-04T06:36:39.081000+00:00</updated>
+    <updated>2025-03-04T09:12:49.432000+00:00</updated>
     <content>&lt;h1&gt;Nueva evolución: el cazador&lt;/h1&gt;
 
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1ZEegtyBVy4jbiMyuIWvvb/9b233d4619bb57390c94173e2d53b9d1/hunterevolution.png?w=400&amp;h=450&amp;f=center"&gt;
@@ -347,5 +347,60 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Vw5T2WFENQqcf0jx8Le3S/3a781b51c7754792a5515b8d3baab74f/SUP4099_Season_69_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Notas de actualización"/>
     <published>2025-03-03T09:04:14+00:00</published>
+  </entry>
+  <entry>
+    <id>6xdNAfNNcCbKFinFR5iU6Z</id>
+    <title>Ajustes de equilibrio de marzo</title>
+    <updated>2025-03-04T08:55:17.278000+00:00</updated>
+    <content>&lt;h3&gt;DEBILITACIONES ⬇️&lt;/h3&gt;
+&lt;h1&gt;Flechas&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5zeYWADgUq0g9oLqg5Jjgj/d85f627ce5d04eaa4ff9b7e4aaf9b4f6/arrows_balance.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha reducido su &lt;b&gt;radio&lt;/b&gt; en un 13 % (de 4 a 3,5 casillas).&lt;/p&gt;
+&lt;p&gt;Aunque se lancen con el objetivo de golpear a las tropas, a menudo, las flechas infligen daño a las torres de coronas de forma incidental. Por el contrario, otros hechizos necesitan más precisión; o bien golpean a las tropas, o bien a las torres, pero raramente a ambas. Vamos a reducir el radio de las flechas para que disminuya ese daño incidental.&lt;/p&gt;
+&lt;h1&gt;El Tronco&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/jrDCgcy9OZxeAAN2lf2DC/399e3baa8a2fb83a7f19dfc7d0bd4a89/thelog.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha reducido el &lt;b&gt;daño que inflige a las torres de coronas&lt;/b&gt; en un 24 % (de 58 a 44).&lt;/p&gt;
+&lt;p&gt;Al igual que con las flechas, reducimos el daño a las torres de coronas que inflige el Tronco para minimizar el daño incidental a lo largo de las partidas.&lt;/p&gt;
+&lt;h1&gt;Cañón&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/793m9CNL4tlq71OIwFXOIM/3bd7c08c6825d56b2eabb0538b6b8d01/cannon.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha reducido su &lt;b&gt;velocidad de ataque&lt;/b&gt; en un 11 % (de 0,9 s a 1 s).&lt;/p&gt;
+&lt;p&gt;El cañón lleva dominando el campo de batalla varias temporadas. Es hora de reducir su velocidad de ataque para que siga siendo un método de distracción efectivo sin opacar a las demás estructuras defensivas.&lt;/p&gt;
+&lt;h1&gt;Furia&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/6SeMm9l5Q8V6XwomDYFnn7/27e1138bae65d25938c228ea0995a6e3/rage.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha reducido la &lt;b&gt;duración de la furia tras salir de la zona&lt;/b&gt; en un 50 % (de 2 s a 1 s).&lt;/p&gt;
+&lt;p&gt;Antes las tropas permanecían potenciadas durante dos segundos tras salir de la zona del hechizo de furia. Este cambio hace que la interacción sea más intuitiva y mejora el equilibrio tanto del hechizo de furia como de la evolución del leñador.&lt;/p&gt;
+&lt;h1&gt;Gigante rúnica&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1Zs1h4OEXEe3sgfVXU4KGe/0119c15b705a0cfb465fb41e7a70ecb6/runegiant.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se han reducido sus &lt;b&gt;puntos de vida&lt;/b&gt; en un 11 % (de 2803 a 2508)&lt;/p&gt;&lt;p&gt;Se ha reducido la &lt;b&gt;duración del encantamiento tras la eliminación de la gigante rúnica&lt;/b&gt;: de infinita a 5 s.&lt;/p&gt;
+&lt;p&gt;Nos está costando encontrar el equilibrio perfecto para la gigante rúnica. Cuando el encantamiento desaparecía tras la eliminación de la gigante, era demasiado débil. Sin embargo, cuando duraba de manera indefinida, tenía demasiado poder. Con el cambio, el encantamiento permanecerá activo durante 5 segundos tras la eliminación de la gigante rúnica.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;MEJORAS ⬆️&lt;/h3&gt;
+&lt;h1&gt;Mago eléctrico&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2InjMNF4arQpUC5KWOsNb3/59b171b6943ca6ec29355040fe540cb6/electrowizard.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha aumentado su &lt;b&gt;daño&lt;/b&gt; en un 5 % (de 110 a 116).&lt;/p&gt;
+&lt;p&gt;¡El mago eléctrico va a subir el voltaje de sus descargas! Ahora eliminará a los espíritus cuando los golpee con ambos ataques.&lt;/p&gt;
+&lt;h1&gt;Evolución de la bola de nieve&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4JIyVVpHE8PFBDlC6MbN48/955ba5eb80328691ec1e829cfc352dcf/giantsnowballevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha aumentado la &lt;b&gt;duración de la ralentización&lt;/b&gt; en un 33 % (de 3 a 4).&lt;/p&gt;
+&lt;p&gt;La evolución de la bola de nieve necesitaba un empujoncito para estar al mismo nivel que otras evoluciones. El aumento del efecto de ralentización hará que sea efectiva incluso contra las estructuras.&lt;/p&gt;
+&lt;h1&gt;Cocinero real&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4vvLDEasukqKoUDwJrgHZs/d39a80a04cccce42eb177462aa64b704/royalchef.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha reducido el &lt;b&gt;tiempo de preparación&lt;/b&gt; de las tortitas en un 13 % (de 24-40 s a 21-35 s).&lt;/p&gt;
+&lt;p&gt;En los últimos ajustes de equilibrio, debilitamos en exceso al cocinero real, así que vamos a deshacer algunos de esos cambios de forma parcial.&lt;/p&gt;&lt;hr/&gt;
+&lt;h3&gt;CAMBIOS 🔄&lt;/h3&gt;
+&lt;h1&gt;Princesa&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/4g39MYoPcCs6z4UB9XdqJJ/629e97b63b10da3d5dc8ba77e9f49c68/princess.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha aumentado su &lt;b&gt;tiempo de despliegue&lt;/b&gt; en un 20 % (de 1 s a 1,2 s).
+Se ha reducido la &lt;b&gt;velocidad de su primer ataque&lt;/b&gt; en un 40 % (de 0,5 s a 0,3 s).&lt;/p&gt;
+&lt;p&gt;Cuando se desplegaba a la princesa en el puente, los jugadores con latencia más elevada tenían serias dificultades para llamar su atención con tropas y estructuras. Al modificar la velocidad de su primer ataque y su tiempo de despliegue, será más fácil distraerla en el puente, pero obtendrá una mejora en sus prestaciones defensivas.&lt;/p&gt;
+&lt;h1&gt;Vacío&lt;/h1&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2Wo5pq3oIOv9bt63Oq8FGf/fb30200e274eb3d28053908b87fbb4c8/void.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Se ha reducido el &lt;b&gt;intervalo entre impactos&lt;/b&gt; en un 23 % (de 1,3 s a 1 s).&lt;/p&gt;
+&lt;p&gt;El vacío está muy por detrás de los demás hechizos en términos de poder, así que vamos a acortar el intervalo entre los impactos y reducir la duración total del hechizo para asegurarnos de que golpee a los objetivos de forma coherente.&lt;/p&gt;
+&lt;hr/&gt;&lt;p&gt;¡Nos vemos en la arena!
+&lt;i&gt;El equipo de Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/es/news/6xdNAfNNcCbKFinFR5iU6Z"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/12I6VtAr10X1PVQvL2AQjr/5f82d8a8050d5e7e5c2744a4f02e7b23/CR_Balance_Changes_Jan2025_thumbnail.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Notas de actualización"/>
+    <published>2025-03-04T08:44:02+00:00</published>
   </entry>
 </feed>
