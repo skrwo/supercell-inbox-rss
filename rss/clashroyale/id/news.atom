@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>clashroyale-newsEntries-id</id>
   <title>Clashroyale - News</title>
-  <updated>2025-03-04T12:56:08.246470+00:00</updated>
+  <updated>2025-03-04T13:38:37.871984+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashroyale inbox News</subtitle>
@@ -316,7 +316,7 @@
   <entry>
     <id>7pd854TczHYSpDjTE274Dz</id>
     <title>Musim Hati Kayu!</title>
-    <updated>2025-02-06T17:07:00.009000+00:00</updated>
+    <updated>2025-03-04T13:00:38.214000+00:00</updated>
     <content>&lt;h2&gt;Kartu dan Evolusi Baru&lt;/h2&gt;
 &lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/7cmkxSBGXCiu98jxkuvdkI/755f5fdbb6e8660dfaea5df77e95d7d8/berserker.png?w=400&amp;h=450&amp;f=center"&gt;
 &lt;h2&gt;Kartu Baru:&lt;/h2&gt;&lt;p&gt;Si Garang!&lt;/p&gt;
@@ -444,6 +444,30 @@
     <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/209xT4Sxh3QQj1eFgxWRRg/b8a813c6331d465dad2880b2a30fbc7c/poll_thumb_bday.png?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
     <category term="Komunitas"/>
     <published>2025-02-25T08:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>4EENsLxP1w90PW8x0qk5Sw</id>
+    <title>Musim Ultah ke-9 Clash Royale!</title>
+    <updated>2025-03-04T13:28:06.207000+00:00</updated>
+    <content>&lt;h1&gt;Evolusi Baru: Pemburu!&lt;/h1&gt;
+
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/1ZEegtyBVy4jbiMyuIWvvb/9b233d4619bb57390c94173e2d53b9d1/hunterevolution.png?w=400&amp;h=450&amp;f=center"&gt;
+&lt;p&gt;Musim berburu telah dimulai dan Pemburu sudah siap! Persenjataan Pemburu makin lengkap dengan Evolusi terbaru. Jaring dahsyat siap membantunya berburu!&lt;/p&gt;
+&lt;p&gt;Pemburu versi Evolusi akan melemparkan Jaring ke Peleton terdekat untuk mencegah mereka bergerak atau menyerang. Jika yang terjebak adalah Peleton terbang, mereka akan menjadi rentan terhadap serangan darat.&lt;/p&gt;&lt;p&gt;Evolusi Pemburu dan Jaringnya sangat cocok untuk menghentikan gempuran lawan dan menahan Peleton tetap di tempat selagi dia memberikan kerusakan maksimum. Dia juga sangat efektif untuk mendukung serbuan (misalnya dengan Raksasa Royal) karena Jaringnya bisa melindungi Peleton pamungkas dengan mudah.&lt;/p&gt;&lt;p&gt;Jika kamu ingin menghadapi Evolusi Pemburu, alihkan saja perhatiannya dengan Roh Es atau Golem Es.&lt;/p&gt;&lt;hr/&gt;
+&lt;h1&gt;Acara dan Tantangan&lt;/h1&gt;
+&lt;h3&gt;Draf Evolusi Pemburu (1v1): 3–10 Maret&lt;/h3&gt;&lt;p&gt;Draf klasik, tetapi dengan Evolusi Kartu! Gunakan kekuatan Evolusi Kartu untuk menyusun Dek baru!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Tantangan&lt;/b&gt;: 7–10 Maret&lt;/p&gt;&lt;p&gt;🏆 &lt;b&gt;Hadiah&lt;/b&gt;: Latar Bendera&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3OQsda4gqKeDuROjeIN0uv/d1d86d8f922e31abdd126a085a639593/CrazyGiftsBG.png?w=4000&amp;h=995&amp;f=center&amp;fit=fill"&gt;
+&lt;h3&gt;Kehebohan Evolusi (1v1): 10–17 Maret&lt;/h3&gt;&lt;p&gt;Susun Dek dengan maksimum 4 Kartu Evolusi lalu dominasi Arena!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Tantangan&lt;/b&gt;: 14–17 Maret&lt;/p&gt;&lt;p&gt;🏆 &lt;b&gt;Hadiah&lt;/b&gt;: Dekorasi Bendera&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/3kZs3RSPc3zNyXXfVIQwVB/5960e18b1f290f4a3ffa64fae28a8574/CrazyGiftsFG.png?w=4000&amp;h=1541&amp;f=center&amp;fit=fill"&gt;
+&lt;h3&gt;Draf Tiga Opsi Jawara (1v1): 17–24 Maret&lt;/h3&gt;&lt;p&gt;Susun Dek untuk melibas lawan!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Tantangan&lt;/b&gt;: 21–24 Maret&lt;/p&gt;&lt;p&gt;🏆 &lt;b&gt;Hadiah&lt;/b&gt;: Dekorasi Bendera&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/2yWrkGfIqsS3xSh91omgkE/2cd2e1e7616c36855fe308e4a0b2a999/BerserkerRageFG.png?w=3678&amp;h=1417&amp;f=center&amp;fit=fill"&gt;
+&lt;h3&gt;Cermin dari Cermin (1v1): 24–31 Maret&lt;/h3&gt;&lt;p&gt;Kamu dan lawan akan memiliki Dek yang sama. Yang beda hanyalah keterampilan kalian!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Tantangan&lt;/b&gt;: 28–31 Maret&lt;/p&gt;&lt;p&gt;🏆 &lt;b&gt;Hadiah&lt;/b&gt;: Latar Bendera&lt;/p&gt;
+&lt;img src="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/36s3iN1XqiGQQMtDdIansG/f7b636361a2cef7dbefe33c8cab4bd74/BerserkerRageBG.png?w=1324&amp;h=330&amp;f=center&amp;fit=fill"&gt;
+&lt;h3&gt;Kehebohan Evolusi (1v1): 31 Maret–7 April&lt;/h3&gt;&lt;p&gt;Susun Dek dengan maksimum 8 Kartu Evolusi lalu dominasi Arena!&lt;/p&gt;&lt;p&gt;⚔️ &lt;b&gt;Tantangan&lt;/b&gt;: 4–7 April&lt;/p&gt;&lt;p&gt;🏆 &lt;b&gt;Hadiah&lt;/b&gt;: Token Musim&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;Sampai jumpa di Arena!&lt;/p&gt;&lt;p&gt;&lt;i&gt;Tim Clash Royale&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://clashroyale.inbox.supercell.com/#/id/news/4EENsLxP1w90PW8x0qk5Sw"/>
+    <link href="https://clashroyale.inbox.supercell.com/9jtsgmsiuthj/5Vw5T2WFENQqcf0jx8Le3S/3a781b51c7754792a5515b8d3baab74f/SUP4099_Season_69_Article_Thumbnail-960x563.jpg?w=960&amp;h=563&amp;f=center&amp;fit=fill"/>
+    <category term="Catatan Rilis"/>
+    <published>2025-03-03T09:04:14+00:00</published>
   </entry>
   <entry>
     <id>6xdNAfNNcCbKFinFR5iU6Z</id>
