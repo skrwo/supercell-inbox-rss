@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>clashofclans-esportNewsEntries-fr</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2025-03-05T13:38:22.546970+00:00</updated>
+  <updated>2025-03-05T14:38:30.962491+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -168,5 +168,23 @@ Jour 2 : dimanche 2 mars, 12 h 00 UTC (13 h 00, heure française)&lt;/p&gt;&lt;p
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/4ljvBgwZj1JANb9gUJiwDM/3281d92164ea6a205860fa25257804fb/FR_SwissStage_NewsEntry_COC_warmup_2025-_1_.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="E-sport"/>
     <published>2025-02-26T16:19:39+00:00</published>
+  </entry>
+  <entry>
+    <id>6MwrVyMzgIP9waruJqR7y8</id>
+    <title>Re-Regardez le jour 1 du Tournoi Suisse</title>
+    <updated>2025-03-05T14:02:23.199000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/1mWRdCueKI5WfL5W22VMNg/22e53a61a43adc4c0be89dea6a05a4bc/FR_COC_warmup_2025_SWISS_STAGE_DAY1_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/3MYd6c2IjyQ?si=CApWhFbrEIjWFZFt"/>
+    <category term="E-sport"/>
+    <published>2025-03-03T10:30:51+00:00</published>
+  </entry>
+  <entry>
+    <id>5Z2NRKtVSVLGbRkyPccZWj</id>
+    <title>Re-Regardez le jour 2 du Tournoi Suisse</title>
+    <updated>2025-03-05T14:04:20.138000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/5ie2Va42TaFIeBHjkHH96T/a45aa47f1563068fd95e1d1e33c17a20/FR_COC_warmup_2025_SWISS_STAGE_DAY2_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.twitch.tv/videos/2395140529"/>
+    <category term="E-sport"/>
+    <published>2025-03-03T10:34:28+00:00</published>
   </entry>
 </feed>
