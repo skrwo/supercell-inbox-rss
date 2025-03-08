@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>clashofclans-esportNewsEntries-en</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2025-03-08T18:32:08.222784+00:00</updated>
+  <updated>2025-03-08T19:29:06.203989+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -214,5 +214,14 @@ Stay tuned to Clash of Clans Esports on &lt;a href="javascript:window.sendComman
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2M8LZU8zblnxMSiCEtrkjF/d0221b686b281dc8d16c56cc9b82d864/COC_warmup_PLAYOFFS_news_post_911x506.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="Esports"/>
     <published>2025-03-05T16:07:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1PFFcgf1Zmp1KmtFkNQa62</id>
+    <title>Rewatch the Worlds Warmup Playoffs - Day 1!</title>
+    <updated>2025-03-08T18:38:20.116000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7ozbNmZF9PE2HzHXK3BQaX/11652bd736d35fa83b99df9582c84b7a/COC_warmup_2025_PLAYOFFS_DAY1_1920x1080.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/ORVVAz2rnrU?si=D92UX3WJLLoK_Cdy&amp;t=1664"/>
+    <category term="Esports"/>
+    <published>2025-03-08T18:38:17+00:00</published>
   </entry>
 </feed>
