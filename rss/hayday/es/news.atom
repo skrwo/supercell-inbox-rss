@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>hayday-newsEntries-es</id>
   <title>Hayday - News</title>
-  <updated>2025-03-09T08:30:26.110653+00:00</updated>
+  <updated>2025-03-09T09:29:05.388217+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -264,5 +264,16 @@
     <link href="https://youtu.be/pGGlJwLYel8"/>
     <category term="Novedades"/>
     <published>2025-03-06T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7gCYQriZ08WkEULryPz0RJ</id>
+    <title>Eventos de la semana 11</title>
+    <updated>2025-03-09T09:01:40.290000+00:00</updated>
+    <content>&lt;h1&gt;Eventos de la semana 11&lt;/h1&gt;
+&lt;p&gt;¡Buenas! Prepárate para otra semana llena de eventos. Todos los eventos y derbis comienzan a las 08:00 UTC. Para saber más sobre cada uno de ellos, échale un vistazo al tablón de eventos en el juego.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lunes&lt;/b&gt;: Gira la ruleta (piezas de puzle).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Martes&lt;/b&gt;: Evento de la camioneta (materiales de ampliación).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Miércoles&lt;/b&gt;: Evento del barco (tiques).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Jueves&lt;/b&gt;: Visitantes de la granja (mercadillo).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Viernes&lt;/b&gt;: Evento de pesca (todos los edificios de producción potenciados un 20 %) y doble de puntos del pase de la granja.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sábado&lt;/b&gt;: Evento de visitantes del pueblo (doble de monedas).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Domingo&lt;/b&gt;: Porcentaje del tiempo de arbustos y árboles (tres árboles o arbustos aleatorios producen frutos el doble de rápido).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derbi&lt;/b&gt;: Derbi estándar.&lt;/p&gt;&lt;p&gt;¡Que pases una semana estupenda!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/es/news/7gCYQriZ08WkEULryPz0RJ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Eventos"/>
+    <published>2025-03-09T09:00:02+00:00</published>
   </entry>
 </feed>

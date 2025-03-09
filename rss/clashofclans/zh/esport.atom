@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
   <id>clashofclans-esportNewsEntries-zh</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2025-03-09T08:30:24.454381+00:00</updated>
+  <updated>2025-03-09T09:29:01.237882+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -164,5 +164,14 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/3QQNZXws6CPEcSBh4tNWg8/da2e1a76c8de4a1dfeaaf9f375dc1649/tw_20250306_COC_warmup_PLAYOFFS_news_post_900x506.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="賽事"/>
     <published>2025-03-05T16:07:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1PFFcgf1Zmp1KmtFkNQa62</id>
+    <title>重溫熱身賽8強賽第1天拼盡全力！</title>
+    <updated>2025-03-09T08:41:56.424000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7B9Lf7kd47598E7jC9Lojj/2015098a58c0501d7b069af81cff13ed/tw_202250309_COC_warmup_2025_PLAYOFFS_DAY1_1920x1080.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://youtu.be/HDzHk7-E7XA?t=996"/>
+    <category term="賽事"/>
+    <published>2025-03-08T18:38:17+00:00</published>
   </entry>
 </feed>

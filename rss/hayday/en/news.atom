@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2025-03-09T08:30:25.576184+00:00</updated>
+  <updated>2025-03-09T09:29:04.551391+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
@@ -291,5 +291,16 @@
     <link href="https://youtu.be/pGGlJwLYel8"/>
     <category term="Game Updates"/>
     <published>2025-03-06T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>7gCYQriZ08WkEULryPz0RJ</id>
+    <title>Hay Day Week 11</title>
+    <updated>2025-03-09T09:01:40.290000+00:00</updated>
+    <content>&lt;h1&gt;Hay Day Week 11&lt;/h1&gt;
+&lt;p&gt;Howdy farmers! Get ready for another week of Events! All Events &amp;amp; Derbies start at 8 AM UTC. You can learn the specifics of each Event by visiting our Event board in the game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Monday&lt;/b&gt;: Spin the Wheel (Puzzle Pieces)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tuesday:&lt;/b&gt; Truck Event (Expansion Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wednesday: &lt;/b&gt;Boat Event (Vouchers)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thursday: &lt;/b&gt; Farm Visitor Event (Yard Sale)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Friday: &lt;/b&gt;Fishing Production Boost Event (All 20% Boost) + 2x Farm Pass Points&lt;/p&gt;&lt;p&gt;&lt;b&gt;Saturday: &lt;/b&gt;Town Visitor Event (x2 Coins)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunday: &lt;/b&gt;Trees/Bushes Time Percent (3 random types of Bushes or Trees will produce fruits at 2x speed)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Derby:&lt;/b&gt; Normal Derby&lt;/p&gt;&lt;p&gt;Have a wonderful week!&lt;/p&gt;</content>
+    <link href="https://hayday.inbox.supercell.com/#/en/news/7gCYQriZ08WkEULryPz0RJ"/>
+    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <category term="Events"/>
+    <published>2025-03-09T09:00:02+00:00</published>
   </entry>
 </feed>
