@@ -2,23 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>hayday-newsEntries-en</id>
   <title>Hayday - News</title>
-  <updated>2025-03-09T02:44:24.350451+00:00</updated>
+  <updated>2025-03-09T03:30:59.808845+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Hayday inbox News</subtitle>
-  <entry>
-    <id>1njkVgeFvwPb9y4ikJnHyZ</id>
-    <title>Hay Day Week 50</title>
-    <updated>2024-12-08T09:01:08.269000+00:00</updated>
-    <content>&lt;h1&gt;Hay Day Week 50&lt;/h1&gt;
-&lt;p&gt;Howdy farmers! Get ready for another week of events! All events &amp;amp; derbies start at 8 AM UTC. Jump into the specifics of each event by visiting our event board in the game.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Monday&lt;/b&gt;: Spin the Wheel (Expansion Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tuesday:&lt;/b&gt; Truck Event (x2 XP)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wednesday: &lt;/b&gt;Crops Event (three random crops will yield 3 crops instead of the usual 2) + Global Boat Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Thursday: &lt;/b&gt;Farm Visitor Event (x2 Coins) + Global Boat Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Friday: &lt;/b&gt;Fishing Event (Lobsters + Lures 30%) + 2x Farm Pass Points + Global Boat Event&lt;/p&gt;&lt;p&gt;&lt;b&gt;Saturday: &lt;/b&gt;Town Visitor Event (Silo &amp;amp; Barn Materials)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sunday: &lt;/b&gt;Animal Feed Event (3 random types of animal feed produced 2x faster)
-
-&lt;b&gt;Derby:&lt;/b&gt; Blossom&lt;/p&gt;&lt;p&gt;Have a fantastic week!&lt;/p&gt;</content>
-    <link href="https://hayday.inbox.supercell.com/#/en/news/1njkVgeFvwPb9y4ikJnHyZ"/>
-    <link href="https://hayday.inbox.supercell.com/0rebc2l8z0wu/xkMgCxGn66EQN_JbfjSur_8kBbd4pmfmSuJS0sQ1q9E/ca078a1dbbde8db5f9084469bfb60b0b/1595197250_1625648305.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
-    <category term="Events"/>
-    <published>2024-12-08T09:00:03+00:00</published>
-  </entry>
   <entry>
     <id>38Br3VKVw4LguA3SMohKkS</id>
     <title>Learn how to create a Farm Patch!</title>
