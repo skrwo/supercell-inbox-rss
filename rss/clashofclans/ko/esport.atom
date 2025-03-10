@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-esportNewsEntries-ko</id>
   <title>Clashofclans - Esport News</title>
-  <updated>2025-03-10T05:29:47.387751+00:00</updated>
+  <updated>2025-03-10T06:36:08.157312+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox Esport News</subtitle>
@@ -180,5 +180,23 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/7mBJhjWgq4z2fEk4JUFjjM/340bd33cba6be06257ced743e9d49865/0306_COC_playoffs_900x506__KR.png?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="e스포츠"/>
     <published>2025-03-05T16:07:00+00:00</published>
+  </entry>
+  <entry>
+    <id>1PFFcgf1Zmp1KmtFkNQa62</id>
+    <title>워밍업 토너먼트 플레이오프 1일 차 다시보기!</title>
+    <updated>2025-03-10T05:38:16.523000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/26Nx8LSKWRVLWUfW6aK4nj/6dbe7fb0271b604a71ac2b0903835a6c/0310_COC_playoffs_day1_1920x1080__KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/CnXbLrE--b0?si=UdRAQUNR38NSGp2u"/>
+    <category term="e스포츠"/>
+    <published>2025-03-08T18:38:17+00:00</published>
+  </entry>
+  <entry>
+    <id>6VZ77dnScauSePQrJ4DfFt</id>
+    <title>워밍업 토너먼트 플레이오프 결승 다시보기!</title>
+    <updated>2025-03-10T05:37:52.354000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2LlFpd6usbZxuFjKBNNu6n/d4d109ec32d39ae385aae03291181691/0310_COC_playoffs_day2_1920x1080__KR.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/live/F3ZfWcXO0VU?si=qvRgBHogM89aPnDi"/>
+    <category term="e스포츠"/>
+    <published>2025-03-09T18:10:46+00:00</published>
   </entry>
 </feed>
