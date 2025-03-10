@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>clashofclans-newsEntries-ko</id>
   <title>Clashofclans - News</title>
-  <updated>2025-03-10T08:33:45.045735+00:00</updated>
+  <updated>2025-03-10T09:29:18.319087+00:00</updated>
   <link href="https://github.com/skrwo/supercell-inbox-rss/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>RSS wrapper of Clashofclans inbox News</subtitle>
@@ -203,5 +203,15 @@
     <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/6eCdl6oBealWGdefxy1Lmb/b6558356e2bbc27f08f731490081045a/thumbnail-actionheroes.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
     <category term="뉴스"/>
     <published>2025-03-01T08:15:12+00:00</published>
+  </entry>
+  <entry>
+    <id>2Fn3truRjCUB1pRPNacL1f</id>
+    <title>3월 화이트데이 이벤트!</title>
+    <updated>2025-03-10T09:05:20.091000+00:00</updated>
+    <link href="https://clashofclans.inbox.supercell.com/#/ko/news/2Fn3truRjCUB1pRPNacL1f"/>
+    <link href="https://clashofclans.inbox.supercell.com/lqe2co20rkhw/2bqXpvN0vp8GZBoedyfCsJ/fd8204fd871de03c5dc4406ddcc7444f/0227_COC_3월-화이트데이-이벤트_900X506.jpg?w=900&amp;h=506&amp;f=center&amp;fit=fill"/>
+    <link href="https://www.youtube.com/channel/UCORzNUvBtd0j_wraSf88Y4w/community?lb=UgkxhyCjc1uYl_E0zWlCu-3YE1jyTwn4lwxX"/>
+    <category term="뉴스"/>
+    <published>2025-03-10T09:05:20+00:00</published>
   </entry>
 </feed>
